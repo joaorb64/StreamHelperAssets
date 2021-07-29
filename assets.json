@@ -1,0 +1,28 @@
+{
+    "sfv": {
+        "assets": {},
+        "name": "Street Fighter V"
+    },
+    "ssbm": {
+        "assets": {
+            "stock_icons": {
+                "credits": "Downloaded from spriters-resource.com.",
+                "name": "Stock icons"
+            }
+        },
+        "name": "Super Smash Bros Melee"
+    },
+    "ssbu": {
+        "assets": {
+            "mural_arts": {
+                "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation.",
+                "name": "Mural arts"
+            },
+            "stock_icons": {
+                "credits": "Downloaded from spriters-resource.com.",
+                "name": "Stock icons"
+            }
+        },
+        "name": "Super Smash Bros Ultimate"
+    }
+}

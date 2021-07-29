@@ -5,7 +5,7 @@
     },
     "ssbm": {
         "assets": {
-            "stock_icons": {
+            "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
                 "name": "Stock icons"
             }
@@ -14,11 +14,11 @@
     },
     "ssbu": {
         "assets": {
-            "mural_arts": {
+            "mural_art": {
                 "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation.",
                 "name": "Mural arts"
             },
-            "stock_icons": {
+            "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
                 "name": "Stock icons"
             }

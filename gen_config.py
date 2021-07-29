@@ -39,8 +39,8 @@ for game in games:
                     "name": config.get("name"),
                     "credits": config.get("credits")
                 }
-                with tarfile.open("./"+game+":"+assetDir+".tar.gz", "w:gz") as tar:
-                    tar.add(path, arcname=assetDir)
+                # with tarfile.open("./games/"+game+"/"+assetDir+".tar.gz", "w:gz") as tar:
+                #     tar.add(path, arcname=assetDir)
         except Exception as e:
             print(e)
 

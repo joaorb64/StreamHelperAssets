@@ -1,12 +1,19 @@
 {
     "sfv": {
-        "assets": {},
+        "assets": {
+            "portrait_square": {
+                "credits": "Manually cut by twitter@joao_shino",
+                "description": "Character portraits manually cut to a square format. Good in small sizes.",
+                "name": "Square Portraits"
+            }
+        },
         "name": "Street Fighter V"
     },
     "ssbm": {
         "assets": {
             "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
+                "description": "Icon representation of each character.",
                 "name": "Stock icons"
             }
         },
@@ -16,10 +23,12 @@
         "assets": {
             "mural_art": {
                 "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation.",
+                "description": "Character arts painted by hand.",
                 "name": "Mural arts"
             },
             "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
+                "description": "Minimalist icon representation of each character.",
                 "name": "Stock icons"
             }
         },

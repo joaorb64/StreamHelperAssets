@@ -6,6 +6,7 @@ import os
 from posix import listdir
 import sys
 import tarfile
+import subprocess
 
 list = {}
 
@@ -29,6 +30,12 @@ for game in games:
     assetDirs = [f for f in os.listdir(path) if os.path.isdir(path+f)]
     print("Assets: "+str(assetDirs))
 
+    deleteOldZips = subprocess.Popen(
+        ["rm "+path+"*.z*"],
+        shell=True
+    )
+    deleteOldZips.communicate()
+
     for assetDir in assetDirs:
         path = "./games/"+game+"/"+assetDir+"/"
 
@@ -37,10 +44,15 @@ for game in games:
                 config = json.load(configFile)
                 list[game]["assets"][assetDir] = {
                     "name": config.get("name"),
-                    "credits": config.get("credits")
+                    "credits": config.get("credits"),
+                    "description": config.get("description")
                 }
-                # with tarfile.open("./games/"+game+"/"+assetDir+".tar.gz", "w:gz") as tar:
-                #     tar.add(path, arcname=assetDir)
+                _zip = subprocess.Popen([
+                    "zip", "-s", "80m", "-r", "-j",
+                    "./games/"+game+"/"+assetDir+".zip",
+                    "./games/"+game+"/"+assetDir
+                ])
+                result = _zip.communicate()
         except Exception as e:
             print(e)
 

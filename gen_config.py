@@ -45,8 +45,8 @@ for game in games:
                 config = json.load(configFile)
                 
                 _zip = subprocess.Popen([
-                    "zip", "-s", "80m", "-r", "-j",
-                    "./games/"+game+"/"+assetDir+".zip",
+                    "7z", "-v80m", "-r", "a",
+                    "./games/"+game+"/"+assetDir+".7z",
                     "./games/"+game+"/"+assetDir
                 ])
                 result = _zip.communicate()

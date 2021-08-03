@@ -32,7 +32,7 @@ for game in games:
     print("Assets: "+str(assetDirs))
 
     deleteOldZips = subprocess.Popen(
-        ["rm "+path+"*.z*"],
+        ["rm "+path+"*.7z*"],
         shell=True
     )
     deleteOldZips.communicate()
@@ -51,7 +51,7 @@ for game in games:
                 ])
                 result = _zip.communicate()
 
-                fileNames = [f for f in os.listdir("./games/"+game+"/") if f.startswith(assetDir+".z")]
+                fileNames = [f for f in os.listdir("./games/"+game+"/") if f.startswith(assetDir+".7z")]
                 files = {}
                 for f in fileNames:
                     files[f] = {

@@ -4,7 +4,12 @@
             "portrait_square": {
                 "credits": "Manually cut by twitter@joao_shino",
                 "description": "Character portraits manually cut to a square format. Good in small sizes.",
-                "files": {},
+                "files": {
+                    "portrait_square.7z.001": {
+                        "name": "portrait_square.7z.001",
+                        "size": 5297525
+                    }
+                },
                 "name": "Square Portraits"
             }
         },
@@ -15,7 +20,12 @@
             "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
                 "description": "Icon representation of each character.",
-                "files": {},
+                "files": {
+                    "stock_icon.7z.001": {
+                        "name": "stock_icon.7z.001",
+                        "size": 19306
+                    }
+                },
                 "name": "Stock icons"
             }
         },
@@ -26,13 +36,39 @@
             "mural_art": {
                 "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation.",
                 "description": "Character arts painted by hand.",
-                "files": {},
+                "files": {
+                    "mural_art.7z.001": {
+                        "name": "mural_art.7z.001",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.002": {
+                        "name": "mural_art.7z.002",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.003": {
+                        "name": "mural_art.7z.003",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.004": {
+                        "name": "mural_art.7z.004",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.005": {
+                        "name": "mural_art.7z.005",
+                        "size": 48972298
+                    }
+                },
                 "name": "Mural arts"
             },
             "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
                 "description": "Minimalist icon representation of each character.",
-                "files": {},
+                "files": {
+                    "stock_icon.7z.001": {
+                        "name": "stock_icon.7z.001",
+                        "size": 5156656
+                    }
+                },
                 "name": "Stock icons"
             }
         },

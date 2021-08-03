@@ -4,6 +4,9 @@
             "portrait_square": {
                 "credits": "Manually cut by twitter@joao_shino",
                 "description": "Character portraits manually cut to a square format. Good in small sizes.",
+                "files": [
+                    "portrait_square.zip"
+                ],
                 "name": "Square Portraits"
             }
         },
@@ -14,6 +17,9 @@
             "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
                 "description": "Icon representation of each character.",
+                "files": [
+                    "stock_icon.zip"
+                ],
                 "name": "Stock icons"
             }
         },
@@ -24,11 +30,21 @@
             "mural_art": {
                 "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation.",
                 "description": "Character arts painted by hand.",
+                "files": [
+                    "mural_art.z03",
+                    "mural_art.zip",
+                    "mural_art.z01",
+                    "mural_art.z04",
+                    "mural_art.z02"
+                ],
                 "name": "Mural arts"
             },
             "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
                 "description": "Minimalist icon representation of each character.",
+                "files": [
+                    "stock_icon.zip"
+                ],
                 "name": "Stock icons"
             }
         },

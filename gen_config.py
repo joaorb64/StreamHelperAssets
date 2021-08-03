@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 
+from genericpath import isfile
 import json
 import os
 from posix import listdir
@@ -42,17 +43,20 @@ for game in games:
         try:
             with open(path+"config.json", 'r', encoding='utf-8') as configFile:
                 config = json.load(configFile)
-                list[game]["assets"][assetDir] = {
-                    "name": config.get("name"),
-                    "credits": config.get("credits"),
-                    "description": config.get("description")
-                }
+                
                 _zip = subprocess.Popen([
                     "zip", "-s", "80m", "-r", "-j",
                     "./games/"+game+"/"+assetDir+".zip",
                     "./games/"+game+"/"+assetDir
                 ])
                 result = _zip.communicate()
+
+                list[game]["assets"][assetDir] = {
+                    "name": config.get("name"),
+                    "credits": config.get("credits"),
+                    "description": config.get("description"),
+                    "files": [f for f in os.listdir("./games/"+game+"/") if f.startswith(assetDir+".z")]
+                }
         except Exception as e:
             print(e)
 

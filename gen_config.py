@@ -51,11 +51,19 @@ for game in games:
                 ])
                 result = _zip.communicate()
 
+                fileNames = [f for f in os.listdir("./games/"+game+"/") if f.startswith(assetDir+".z")]
+                files = {}
+                for f in fileNames:
+                    files[f] = {
+                        "name": f,
+                        "size": os.path.getsize("./games/"+game+"/"+f)
+                    }
+
                 list[game]["assets"][assetDir] = {
                     "name": config.get("name"),
                     "credits": config.get("credits"),
                     "description": config.get("description"),
-                    "files": [f for f in os.listdir("./games/"+game+"/") if f.startswith(assetDir+".z")]
+                    "files": files
                 }
         except Exception as e:
             print(e)

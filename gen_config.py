@@ -45,7 +45,8 @@ for game in games:
         "files": {
             "config.json": {
                 "name": "config.json",
-                "size": os.path.getsize(path+"config.json")
+                "size": os.path.getsize(path+"config.json"),
+                "version": config.get("version", 0)
             }
         }
     }

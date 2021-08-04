@@ -1,29 +1,16 @@
 {
     "sfv": {
         "assets": {
-            "config": {
-                "credits": "",
-                "description": "Needed in order to use this game",
+            "base_files": {
+                "credits": null,
+                "description": null,
                 "files": {
-                    "config.json": {
-                        "name": "config.json",
-                        "size": 1351,
-                        "version": 0.9
+                    "base_files.7z.001": {
+                        "name": "base_files.7z.001",
+                        "size": 5298441
                     }
                 },
-                "name": "Base config for Street Fighter V",
-                "version": 0.9
-            },
-            "portrait_square": {
-                "credits": "Manually cut by twitter@joao_shino",
-                "description": "Character portraits manually cut to a square format. Good in small sizes.",
-                "files": {
-                    "portrait_square.7z.001": {
-                        "name": "portrait_square.7z.001",
-                        "size": 5297310
-                    }
-                },
-                "name": "Square Portraits",
+                "name": "Street Fighter V",
                 "version": 0.9
             }
         },
@@ -31,47 +18,33 @@
     },
     "ssbm": {
         "assets": {
-            "config": {
-                "credits": "",
-                "description": "Needed in order to use this game",
+            "base_files": {
+                "credits": null,
+                "description": null,
                 "files": {
-                    "config.json": {
-                        "name": "config.json",
-                        "size": 977,
-                        "version": 0.9
+                    "base_files.7z.001": {
+                        "name": "base_files.7z.001",
+                        "size": 19810
                     }
                 },
-                "name": "Base config for Super Smash Bros Melee",
+                "name": "Super Smash Bros Melee",
                 "version": 0.9
-            },
-            "stock_icon": {
-                "credits": "Downloaded from spriters-resource.com.",
-                "description": "Icon representation of each character.",
-                "files": {
-                    "stock_icon.7z.001": {
-                        "name": "stock_icon.7z.001",
-                        "size": 19321
-                    }
-                },
-                "name": "Stock icons",
-                "version": "1.0"
             }
         },
         "name": "Super Smash Bros Melee"
     },
     "ssbu": {
         "assets": {
-            "config": {
-                "credits": "",
-                "description": "Needed in order to use this game",
+            "base_files": {
+                "credits": null,
+                "description": null,
                 "files": {
-                    "config.json": {
-                        "name": "config.json",
-                        "size": 2723,
-                        "version": 0.9
+                    "base_files.7z.001": {
+                        "name": "base_files.7z.001",
+                        "size": 31111073
                     }
                 },
-                "name": "Base config for Super Smash Bros Ultimate",
+                "name": "Super Smash Bros Ultimate",
                 "version": 0.9
             },
             "mural_art": {
@@ -96,34 +69,10 @@
                     },
                     "mural_art.7z.005": {
                         "name": "mural_art.7z.005",
-                        "size": 48972613
+                        "size": 48970739
                     }
                 },
                 "name": "Mural arts",
-                "version": "0.9"
-            },
-            "portrait": {
-                "credits": "Downloaded from spriters-resource.com.",
-                "description": "Square portraits used on the character select screen.",
-                "files": {
-                    "portrait.7z.001": {
-                        "name": "portrait.7z.001",
-                        "size": 25953308
-                    }
-                },
-                "name": "Portraits",
-                "version": "0.9"
-            },
-            "stock_icon": {
-                "credits": "Downloaded from spriters-resource.com.",
-                "description": "Minimalist icon representation of each character.",
-                "files": {
-                    "stock_icon.7z.001": {
-                        "name": "stock_icon.7z.001",
-                        "size": 5156695
-                    }
-                },
-                "name": "Stock icons",
                 "version": "0.9"
             }
         },

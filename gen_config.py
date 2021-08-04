@@ -18,7 +18,7 @@ for game in games:
     path = "./games/"+game+"/"
 
     try:
-        with open(path+"config.json", 'r', encoding='utf-8') as configFile:
+        with open(path+"/base_files/config.json", 'r', encoding='utf-8') as configFile:
             config = json.load(configFile)
             list[game] = {
                 "name": config["name"],
@@ -37,22 +37,10 @@ for game in games:
     )
     deleteOldZips.communicate()
 
-    list[game]["assets"]["config"] = {
-        "name": "Base config for "+config.get("name"),
-        "credits": "",
-        "description": "Needed in order to use this game",
-        "version": config.get("version"),
-        "files": {
-            "config.json": {
-                "name": "config.json",
-                "size": os.path.getsize(path+"config.json"),
-                "version": config.get("version", 0)
-            }
-        }
-    }
-
     for assetDir in assetDirs:
         path = "./games/"+game+"/"+assetDir+"/"
+
+        print(">"+path)
 
         try:
             with open(path+"config.json", 'r', encoding='utf-8') as configFile:
@@ -82,9 +70,9 @@ for game in games:
                 }
 
                 with open(path+"README.md", 'w', encoding='utf-8') as readme:
-                    readme.write("# "+config.get("name")+"\n")
-                    readme.write(config.get("description")+"\n")
-                    readme.write("Credits: "+config.get("credits")+"\n")
+                    readme.write("# "+config.get("name", "")+"\n\n")
+                    readme.write("Description: "+config.get("description", "")+"\n\n")
+                    readme.write("Credits: "+config.get("credits", "")+"\n\n")
         except Exception as e:
             print(e)
 

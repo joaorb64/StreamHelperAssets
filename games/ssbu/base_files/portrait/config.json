@@ -1,9 +1,5 @@
 {
-    "name": "Portraits",
-    "description": "Square portraits used on the character select screen.",
-    "credits": "Downloaded from spriters-resource.com.",
-    "version": "0.9",
     "prefix": "chara_0_",
     "postfix": "_",
-    "priority_for_portrait": 5
+    "priority_for_portrait": 1
 }

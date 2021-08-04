@@ -1,9 +1,5 @@
 {
-    "name": "Stock icons",
-    "description": "Icon representation of each character.",
-    "credits": "Downloaded from spriters-resource.com.",
-    "version": "1.0",
     "prefix": "chara_2_",
     "postfix": "_",
-    "priority_for_icon": 5
+    "priority_for_icon": 1
 }

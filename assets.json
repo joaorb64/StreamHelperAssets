@@ -7,7 +7,8 @@
                 "files": {
                     "config.json": {
                         "name": "config.json",
-                        "size": 1321
+                        "size": 1351,
+                        "version": 0.9
                     }
                 },
                 "name": "Base config for Street Fighter V",
@@ -19,7 +20,7 @@
                 "files": {
                     "portrait_square.7z.001": {
                         "name": "portrait_square.7z.001",
-                        "size": 5297311
+                        "size": 5297310
                     }
                 },
                 "name": "Square Portraits",
@@ -36,7 +37,8 @@
                 "files": {
                     "config.json": {
                         "name": "config.json",
-                        "size": 947
+                        "size": 977,
+                        "version": 0.9
                     }
                 },
                 "name": "Base config for Super Smash Bros Melee",
@@ -48,7 +50,7 @@
                 "files": {
                     "stock_icon.7z.001": {
                         "name": "stock_icon.7z.001",
-                        "size": 19320
+                        "size": 19321
                     }
                 },
                 "name": "Stock icons",
@@ -65,7 +67,8 @@
                 "files": {
                     "config.json": {
                         "name": "config.json",
-                        "size": 2694
+                        "size": 2723,
+                        "version": 0.9
                     }
                 },
                 "name": "Base config for Super Smash Bros Ultimate",
@@ -93,7 +96,7 @@
                     },
                     "mural_art.7z.005": {
                         "name": "mural_art.7z.005",
-                        "size": 48972614
+                        "size": 48972613
                     }
                 },
                 "name": "Mural arts",
@@ -117,7 +120,7 @@
                 "files": {
                     "stock_icon.7z.001": {
                         "name": "stock_icon.7z.001",
-                        "size": 5156694
+                        "size": 5156695
                     }
                 },
                 "name": "Stock icons",

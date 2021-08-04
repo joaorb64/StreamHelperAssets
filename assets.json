@@ -1,38 +1,76 @@
 {
     "sfv": {
         "assets": {
+            "config": {
+                "credits": "",
+                "description": "Needed in order to use this game",
+                "files": {
+                    "config.json": {
+                        "name": "config.json",
+                        "size": 1321
+                    }
+                },
+                "name": "Base config for Street Fighter V",
+                "version": 0.9
+            },
             "portrait_square": {
                 "credits": "Manually cut by twitter@joao_shino",
                 "description": "Character portraits manually cut to a square format. Good in small sizes.",
                 "files": {
                     "portrait_square.7z.001": {
                         "name": "portrait_square.7z.001",
-                        "size": 5297525
+                        "size": 5297507
                     }
                 },
-                "name": "Square Portraits"
+                "name": "Square Portraits",
+                "version": 0.9
             }
         },
         "name": "Street Fighter V"
     },
     "ssbm": {
         "assets": {
+            "config": {
+                "credits": "",
+                "description": "Needed in order to use this game",
+                "files": {
+                    "config.json": {
+                        "name": "config.json",
+                        "size": 947
+                    }
+                },
+                "name": "Base config for Super Smash Bros Melee",
+                "version": 0.9
+            },
             "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
                 "description": "Icon representation of each character.",
                 "files": {
                     "stock_icon.7z.001": {
                         "name": "stock_icon.7z.001",
-                        "size": 19306
+                        "size": 19365
                     }
                 },
-                "name": "Stock icons"
+                "name": "Stock icons",
+                "version": "1.0"
             }
         },
         "name": "Super Smash Bros Melee"
     },
     "ssbu": {
         "assets": {
+            "config": {
+                "credits": "",
+                "description": "Needed in order to use this game",
+                "files": {
+                    "config.json": {
+                        "name": "config.json",
+                        "size": 2694
+                    }
+                },
+                "name": "Base config for Super Smash Bros Ultimate",
+                "version": 0.9
+            },
             "mural_art": {
                 "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation.",
                 "description": "Character arts painted by hand.",
@@ -55,10 +93,23 @@
                     },
                     "mural_art.7z.005": {
                         "name": "mural_art.7z.005",
-                        "size": 48972298
+                        "size": 48969843
                     }
                 },
-                "name": "Mural arts"
+                "name": "Mural arts",
+                "version": "0.9"
+            },
+            "portrait": {
+                "credits": "Downloaded from spriters-resource.com.",
+                "description": "Square portraits used on the character select screen.",
+                "files": {
+                    "portrait.7z.001": {
+                        "name": "portrait.7z.001",
+                        "size": 25953374
+                    }
+                },
+                "name": "Portraits",
+                "version": "0.9"
             },
             "stock_icon": {
                 "credits": "Downloaded from spriters-resource.com.",
@@ -66,10 +117,11 @@
                 "files": {
                     "stock_icon.7z.001": {
                         "name": "stock_icon.7z.001",
-                        "size": 5156656
+                        "size": 5156769
                     }
                 },
-                "name": "Stock icons"
+                "name": "Stock icons",
+                "version": "0.9"
             }
         },
         "name": "Super Smash Bros Ultimate"

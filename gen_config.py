@@ -37,6 +37,19 @@ for game in games:
     )
     deleteOldZips.communicate()
 
+    list[game]["assets"]["config"] = {
+        "name": "Base config for "+config.get("name"),
+        "credits": "",
+        "description": "Needed in order to use this game",
+        "version": config.get("version"),
+        "files": {
+            "config.json": {
+                "name": "config.json",
+                "size": os.path.getsize(path+"config.json")
+            }
+        }
+    }
+
     for assetDir in assetDirs:
         path = "./games/"+game+"/"+assetDir+"/"
 
@@ -63,8 +76,14 @@ for game in games:
                     "name": config.get("name"),
                     "credits": config.get("credits"),
                     "description": config.get("description"),
-                    "files": files
+                    "files": files,
+                    "version": config.get("version")
                 }
+
+                with open(path+"README.md", 'w', encoding='utf-8') as readme:
+                    readme.write("# "+config.get("name")+"\n")
+                    readme.write(config.get("description")+"\n")
+                    readme.write("Credits: "+config.get("credits")+"\n")
         except Exception as e:
             print(e)
 

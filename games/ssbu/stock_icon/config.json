@@ -4,5 +4,6 @@
     "credits": "Downloaded from spriters-resource.com.",
     "version": "0.9",
     "prefix": "chara_2_",
-    "postfix": "_"
+    "postfix": "_",
+    "priority_for_icon": 5
 }

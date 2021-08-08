@@ -8,10 +8,16 @@ from posix import listdir
 import sys
 import tarfile
 import subprocess
+import time
+import traceback
 
 list = {}
 
 games = [f for f in os.listdir("./games/") if os.path.isdir("./games/"+f)]
+
+lastModified = 0
+with open("last_modified.json", 'r', encoding='utf-8') as modified:
+    lastModified = json.load(modified).get("modified", 0)
 
 for game in games:
     print("Game: "+game)
@@ -31,27 +37,31 @@ for game in games:
     assetDirs = [f for f in os.listdir(path) if os.path.isdir(path+f)]
     print("Assets: "+str(assetDirs))
 
-    deleteOldZips = subprocess.Popen(
-        ["rm "+path+"*.7z*"],
-        shell=True
-    )
-    deleteOldZips.communicate()
-
     for assetDir in assetDirs:
-        path = "./games/"+game+"/"+assetDir+"/"
+        assetPath = "./games/"+game+"/"+assetDir+"/"
 
-        print(">"+path)
+        modified = True if any(x for x in os.listdir(assetPath) if os.path.getmtime(assetPath+"/"+x) > lastModified) else False
+
+        if modified:
+            deleteOldZips = subprocess.Popen(
+                ["rm "+path+"*"+assetDir+".7z*"],
+                shell=True
+            )
+            deleteOldZips.communicate()
+
+        print(">"+assetPath)
 
         try:
-            with open(path+"config.json", 'r', encoding='utf-8') as configFile:
+            with open(assetPath+"config.json", 'r', encoding='utf-8') as configFile:
                 config = json.load(configFile)
                 
-                _zip = subprocess.Popen([
-                    "7z", "-v80m", "-r", "a",
-                    "./games/"+game+"/"+assetDir+".7z",
-                    "./games/"+game+"/"+assetDir
-                ])
-                result = _zip.communicate()
+                if modified:
+                    _zip = subprocess.Popen([
+                        "7z", "-v80m", "-r", "a",
+                        "./games/"+game+"/"+assetDir+".7z",
+                        "./games/"+game+"/"+assetDir
+                    ])
+                    result = _zip.communicate()
 
                 fileNames = [f for f in os.listdir("./games/"+game+"/") if f.startswith(assetDir+".7z")]
                 files = {}
@@ -69,12 +79,15 @@ for game in games:
                     "version": config.get("version")
                 }
 
-                with open(path+"README.md", 'w', encoding='utf-8') as readme:
+                with open(assetPath+"README.md", 'w', encoding='utf-8') as readme:
                     readme.write("# "+config.get("name", "")+"\n\n")
                     readme.write("Description: "+config.get("description", "")+"\n\n")
                     readme.write("Credits: "+config.get("credits", "")+"\n\n")
         except Exception as e:
-            print(e)
+            print(traceback.format_exc())
 
 with open('assets.json', 'w') as outfile:
     json.dump(list, outfile, indent=4, sort_keys=True)
+
+with open('last_modified.json', 'w') as outfile:
+    json.dump({"modified": time.time()}, outfile, indent=4, sort_keys=True)

@@ -7,7 +7,7 @@
                 "files": {
                     "base_files.7z.001": {
                         "name": "base_files.7z.001",
-                        "size": 50349742
+                        "size": 50349622
                     }
                 },
                 "name": "Street Fighter V",
@@ -24,7 +24,7 @@
                 "files": {
                     "base_files.7z.001": {
                         "name": "base_files.7z.001",
-                        "size": 31830286
+                        "size": 31830044
                     }
                 },
                 "name": "Super Smash Bros Melee",
@@ -53,23 +53,39 @@
                     },
                     "base_files.7z.004": {
                         "name": "base_files.7z.004",
-                        "size": 75473667
+                        "size": 75472550
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
                 "version": 0.9
             },
             "mural_art": {
-                "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation.",
+                "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation. MuralAltDrive (@MuralAltDrive on twitter) - alternate costumes.",
                 "description": "Character arts painted by hand.",
                 "files": {
                     "mural_art.7z.001": {
                         "name": "mural_art.7z.001",
-                        "size": 79096792
+                        "size": 83886080
+                    },
+                    "mural_art.7z.002": {
+                        "name": "mural_art.7z.002",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.003": {
+                        "name": "mural_art.7z.003",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.004": {
+                        "name": "mural_art.7z.004",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.005": {
+                        "name": "mural_art.7z.005",
+                        "size": 53796511
                     }
                 },
                 "name": "Mural arts",
-                "version": "0.9"
+                "version": "0.91"
             }
         },
         "name": "Super Smash Bros Ultimate"

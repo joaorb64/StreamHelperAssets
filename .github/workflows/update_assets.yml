@@ -33,12 +33,12 @@ jobs:
         run: |
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
-          git add . ':!*.7z.*'
+          git add .
           git commit -m "Update assets"
           git push origin main
           set -x
           assets=()
-          for asset in ./*.7z.*; do
+          for asset in $(find . -name "*.7z*"); do
             assets+=("-a" "$asset")
           done
           tag_name="${GITHUB_REF##*/}"

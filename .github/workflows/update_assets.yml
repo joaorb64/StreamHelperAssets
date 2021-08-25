@@ -44,5 +44,5 @@ jobs:
             mv $asset "$(dirname "${asset}")/$name"
             assets+=("-a" "$(dirname "${asset}")/$name")
           done
-          tag_name="${GITHUB_REF##*/}"
+          tag_name="${GITHUB_REF}"
           hub release create "${assets[@]}" -m "$tag_name" "$tag_name"

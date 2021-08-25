@@ -44,4 +44,4 @@ jobs:
             mv $asset "$(dirname "${asset}")/$name"
             assets+=("-a" "$(dirname "${asset}")/$name")
           done
-          hub release create "${assets[@]}" -m "${GITHUB_SHA}" "${GITHUB_SHA}"
+          hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"

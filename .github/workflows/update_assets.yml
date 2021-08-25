@@ -39,7 +39,9 @@ jobs:
           set -x
           assets=()
           for asset in $(find . -name "*.7z*"); do
-            assets+=("-a" "$asset")
+            name="${asset//\//:}"
+            mv $asset "$(dirname "${asset}")$name"
+            assets+=("-a" "$(dirname "${asset}")$name")
           done
           tag_name="${GITHUB_REF##*/}"
           hub release create "${assets[@]}" -m "$tag_name" "$tag_name"

@@ -27,8 +27,8 @@ jobs:
       - name: execute py script # run the run.py to get the latest data
         run: |
           python gen_config.py
+      - uses: actions/checkout@v2
       - name: commit
-        uses: actions/checkout@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |

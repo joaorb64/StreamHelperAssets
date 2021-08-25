@@ -7,7 +7,7 @@
                 "files": {
                     "base_files.7z": {
                         "name": "base_files.7z",
-                        "size": 5298212
+                        "size": 5298194
                     }
                 },
                 "name": "Street Fighter V",
@@ -15,11 +15,11 @@
             },
             "portrait": {
                 "credits": null,
-                "description": null,
+                "description": "Bigger character portraits",
                 "files": {
                     "portrait.7z": {
                         "name": "portrait.7z",
-                        "size": 22526016
+                        "size": 22526061
                     }
                 },
                 "name": "Portraits",
@@ -36,7 +36,7 @@
                 "files": {
                     "base_files.7z": {
                         "name": "base_files.7z",
-                        "size": 19725
+                        "size": 19709
                     }
                 },
                 "name": "Super Smash Bros Melee",
@@ -44,26 +44,26 @@
             },
             "full": {
                 "credits": null,
-                "description": null,
+                "description": "Characters in their victory screen poses",
                 "files": {
                     "full.7z": {
                         "name": "full.7z",
-                        "size": 29769663
+                        "size": 29770438
                     }
                 },
-                "name": null,
+                "name": "Full",
                 "version": 0.9
             },
             "portrait": {
                 "credits": null,
-                "description": null,
+                "description": "Character portraits used on the character select screen player slots",
                 "files": {
                     "portrait.7z": {
                         "name": "portrait.7z",
-                        "size": 2041882
+                        "size": 2042005
                     }
                 },
-                "name": null,
+                "name": "Portraits",
                 "version": null
             }
         },
@@ -77,7 +77,7 @@
                 "files": {
                     "base_files.7z": {
                         "name": "base_files.7z",
-                        "size": 5157854
+                        "size": 5157816
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -85,14 +85,14 @@
             },
             "full": {
                 "credits": null,
-                "description": null,
+                "description": "Character portraits used on the character select screen player slots",
                 "files": {
                     "full.7z": {
                         "name": "full.7z",
-                        "size": 296022506
+                        "size": 296022365
                     }
                 },
-                "name": null,
+                "name": "Full",
                 "version": null
             },
             "mural_art": {
@@ -101,7 +101,7 @@
                 "files": {
                     "mural_art.7z": {
                         "name": "mural_art.7z",
-                        "size": 389600676
+                        "size": 389341034
                     }
                 },
                 "name": "Mural arts",
@@ -109,14 +109,26 @@
             },
             "portrait": {
                 "credits": null,
-                "description": null,
+                "description": "Character select screen portraits",
                 "files": {
                     "portrait.7z": {
                         "name": "portrait.7z",
-                        "size": 25953233
+                        "size": 25953118
                     }
                 },
-                "name": null,
+                "name": "Portraits",
+                "version": null
+            },
+            "stage_icon": {
+                "credits": null,
+                "description": "Stage icons",
+                "files": {
+                    "stage_icon.7z": {
+                        "name": "stage_icon.7z",
+                        "size": 7056388
+                    }
+                },
+                "name": "Stage Icons",
                 "version": null
             }
         },

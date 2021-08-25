@@ -1,6 +1,6 @@
 # Portraits
 
-Description: 
+Description: Bigger character portraits
 
 Credits: 
 

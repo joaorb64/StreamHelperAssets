@@ -1,6 +1,6 @@
-# 
+# Portraits
 
-Description: 
+Description: Character select screen portraits
 
 Credits: 
 

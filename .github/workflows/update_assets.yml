@@ -28,6 +28,7 @@ jobs:
         run: |
           python gen_config.py
       - name: commit
+        uses: actions/checkout@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -36,8 +37,19 @@ jobs:
           git add . ':!*.7z.*'
           git commit -m "Update assets"
           git push origin main
+<<<<<<< Updated upstream
           git fetch
           git checkout release
           git add .
           git commit -m "Update assets"
           git push origin release
+=======
+
+          set -x
+          assets=()
+          for asset in ./*.7z.*; do
+            assets+=("-a" "$asset")
+          done
+          tag_name="${GITHUB_REF##*/}"
+          hub release create "${assets[@]}" -m "$tag_name" "$tag_name"
+>>>>>>> Stashed changes

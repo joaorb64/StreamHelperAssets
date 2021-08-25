@@ -33,10 +33,10 @@ jobs:
         run: |
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
-          git add !(*.7z.*)
+          git add . ':!*.7z.*'
           git commit -m "Update assets"
           git push origin main
           git checkout release
-          git add *.7z.*
+          git add .
           git commit -m "Update assets"
           git push origin release

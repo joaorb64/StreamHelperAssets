@@ -36,6 +36,7 @@ jobs:
           git add . ':!*.7z.*'
           git commit -m "Update assets"
           git push origin main
+          git fetch
           git checkout release
           git add .
           git commit -m "Update assets"

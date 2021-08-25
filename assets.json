@@ -5,8 +5,8 @@
                 "credits": null,
                 "description": null,
                 "files": {
-                    "base_files.7z": {
-                        "name": "base_files.7z",
+                    "base_files.7z.001": {
+                        "name": "base_files.7z.001",
                         "size": 5298194
                     }
                 },
@@ -17,9 +17,9 @@
                 "credits": null,
                 "description": "Bigger character portraits",
                 "files": {
-                    "portrait.7z": {
-                        "name": "portrait.7z",
-                        "size": 22526061
+                    "portrait.7z.001": {
+                        "name": "portrait.7z.001",
+                        "size": 22526087
                     }
                 },
                 "name": "Portraits",
@@ -34,9 +34,9 @@
                 "credits": null,
                 "description": null,
                 "files": {
-                    "base_files.7z": {
-                        "name": "base_files.7z",
-                        "size": 19709
+                    "base_files.7z.001": {
+                        "name": "base_files.7z.001",
+                        "size": 19708
                     }
                 },
                 "name": "Super Smash Bros Melee",
@@ -46,9 +46,9 @@
                 "credits": null,
                 "description": "Characters in their victory screen poses",
                 "files": {
-                    "full.7z": {
-                        "name": "full.7z",
-                        "size": 29770438
+                    "full.7z.001": {
+                        "name": "full.7z.001",
+                        "size": 29770556
                     }
                 },
                 "name": "Full",
@@ -58,9 +58,9 @@
                 "credits": null,
                 "description": "Character portraits used on the character select screen player slots",
                 "files": {
-                    "portrait.7z": {
-                        "name": "portrait.7z",
-                        "size": 2042005
+                    "portrait.7z.001": {
+                        "name": "portrait.7z.001",
+                        "size": 2042084
                     }
                 },
                 "name": "Portraits",
@@ -75,8 +75,8 @@
                 "credits": null,
                 "description": null,
                 "files": {
-                    "base_files.7z": {
-                        "name": "base_files.7z",
+                    "base_files.7z.001": {
+                        "name": "base_files.7z.001",
                         "size": 5157816
                     }
                 },
@@ -87,9 +87,21 @@
                 "credits": null,
                 "description": "Character portraits used on the character select screen player slots",
                 "files": {
-                    "full.7z": {
-                        "name": "full.7z",
-                        "size": 296022365
+                    "full.7z.001": {
+                        "name": "full.7z.001",
+                        "size": 83886080
+                    },
+                    "full.7z.002": {
+                        "name": "full.7z.002",
+                        "size": 83886080
+                    },
+                    "full.7z.003": {
+                        "name": "full.7z.003",
+                        "size": 83886080
+                    },
+                    "full.7z.004": {
+                        "name": "full.7z.004",
+                        "size": 44364191
                     }
                 },
                 "name": "Full",
@@ -99,9 +111,25 @@
                 "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation. MuralAltDrive (@MuralAltDrive on twitter) - alternate costumes.",
                 "description": "Character arts painted by hand.",
                 "files": {
-                    "mural_art.7z": {
-                        "name": "mural_art.7z",
-                        "size": 389341034
+                    "mural_art.7z.001": {
+                        "name": "mural_art.7z.001",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.002": {
+                        "name": "mural_art.7z.002",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.003": {
+                        "name": "mural_art.7z.003",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.004": {
+                        "name": "mural_art.7z.004",
+                        "size": 83886080
+                    },
+                    "mural_art.7z.005": {
+                        "name": "mural_art.7z.005",
+                        "size": 53796715
                     }
                 },
                 "name": "Mural arts",
@@ -111,9 +139,9 @@
                 "credits": null,
                 "description": "Character select screen portraits",
                 "files": {
-                    "portrait.7z": {
-                        "name": "portrait.7z",
-                        "size": 25953118
+                    "portrait.7z.001": {
+                        "name": "portrait.7z.001",
+                        "size": 25953160
                     }
                 },
                 "name": "Portraits",
@@ -123,9 +151,9 @@
                 "credits": null,
                 "description": "Stage icons",
                 "files": {
-                    "stage_icon.7z": {
-                        "name": "stage_icon.7z",
-                        "size": 7056388
+                    "stage_icon.7z.001": {
+                        "name": "stage_icon.7z.001",
+                        "size": 7056458
                     }
                 },
                 "name": "Stage Icons",

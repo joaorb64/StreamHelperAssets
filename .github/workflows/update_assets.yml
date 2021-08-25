@@ -37,7 +37,6 @@ jobs:
           git add . ':!*.7z.*'
           git commit -m "Update assets"
           git push origin main
-
           set -x
           assets=()
           for asset in ./*.7z.*; do

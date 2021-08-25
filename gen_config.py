@@ -63,7 +63,7 @@ for game in games:
                     ])
                     result = _zip.communicate()
 
-                fileNames = [f for f in os.listdir("./games/"+game+"/") if f.startswith(assetDir+".7z")]
+                fileNames = [f for f in os.listdir("./games/"+game+"/") if f.startswith(game+"."+assetDir+".7z")]
                 files = {}
                 for f in fileNames:
                     files[f] = {

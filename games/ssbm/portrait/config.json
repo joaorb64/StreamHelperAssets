@@ -3,5 +3,5 @@
     "description": "Character portraits used on the character select screen player slots",
     "prefix": "",
     "postfix": "_",
-    "type": "portrait"
+    "type": ["portrait"]
 }

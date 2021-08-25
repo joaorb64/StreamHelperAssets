@@ -3,5 +3,5 @@
     "description": "Stage icons",
     "prefix": "stage_2_",
     "postfix": "",
-    "type": "stage_icon"
+    "type": ["stage_icon"]
 }

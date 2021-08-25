@@ -39,9 +39,6 @@ jobs:
           set -x
           assets=()
           for asset in $(find . -name "*.7z*"); do
-            name="${asset//\//.}"
-            name="${name:2}"
-            mv $asset "$(dirname "${asset}")/$name"
-            assets+=("-a" "$(dirname "${asset}")/$name")
+            assets+=("-a" "${asset}")
           done
           hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"

@@ -1,6 +1,6 @@
 # Super Smash Bros Melee
 
-Description: 
+Description: Needed to use this game.
 
 Credits: 
 

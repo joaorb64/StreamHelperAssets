@@ -3,11 +3,11 @@
         "assets": {
             "base_files": {
                 "credits": null,
-                "description": null,
+                "description": "Needed to use this game.",
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5298205
+                        "size": 5298225
                     }
                 },
                 "name": "Street Fighter V",
@@ -32,27 +32,15 @@
         "assets": {
             "base_files": {
                 "credits": null,
-                "description": null,
+                "description": "Needed to use this game.",
                 "files": {
                     "ssbm.base_files.7z": {
                         "name": "ssbm.base_files.7z",
-                        "size": 19712
+                        "size": 19734
                     }
                 },
                 "name": "Super Smash Bros Melee",
-                "version": 0.9
-            },
-            "full": {
-                "credits": null,
-                "description": "Characters in their victory screen poses",
-                "files": {
-                    "ssbm.full.7z": {
-                        "name": "ssbm.full.7z",
-                        "size": 29770474
-                    }
-                },
-                "name": "Full",
-                "version": 0.9
+                "version": 0.8
             },
             "portrait": {
                 "credits": null,
@@ -60,7 +48,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 2042083
+                        "size": 2042084
                     }
                 },
                 "name": "Portraits",
@@ -73,11 +61,11 @@
         "assets": {
             "base_files": {
                 "credits": null,
-                "description": null,
+                "description": "Needed to use this game.",
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5157818
+                        "size": 5158826
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -89,19 +77,19 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022433
+                        "size": 296022453
                     }
                 },
                 "name": "Full",
-                "version": null
+                "version": 0.9
             },
             "mural_art": {
-                "credits": "ElevenZM (@ElevenZM on twitter) - original mural arts isolation. MuralAltDrive (@MuralAltDrive on twitter) - alternate costumes.",
+                "credits": "@ElevenZM - original mural arts isolation.\n@MuralAltDrive - alternate costumes.\n@joao_shino - crops.\n@kekwel_ssb - alternate costumes crops.",
                 "description": "Character arts painted by hand.",
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 389341037
+                        "size": 389340680
                     }
                 },
                 "name": "Mural arts",
@@ -113,11 +101,11 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953161
+                        "size": 25953180
                     }
                 },
                 "name": "Portraits",
-                "version": null
+                "version": 0.9
             },
             "stage_icon": {
                 "credits": null,
@@ -125,19 +113,19 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 7056459
+                        "size": 7056473
                     }
                 },
                 "name": "Stage Icons",
-                "version": null
+                "version": 0.8
             },
             "webm": {
                 "credits": "@WayShifter (Twitter)",
-                "description": "Vs Screen Webms",
+                "description": "Vs Screen Webms. Re-encoded for lower size and lower CPU usage.",
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 923423793
+                        "size": 923423834
                     }
                 },
                 "name": "Webms",

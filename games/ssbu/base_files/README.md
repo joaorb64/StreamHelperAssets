@@ -1,6 +1,6 @@
 # Super Smash Bros Ultimate
 
-Description: 
+Description: Needed to use this game.
 
 Credits: 
 

@@ -1,6 +1,6 @@
 # Street Fighter V
 
-Description: 
+Description: Needed to use this game.
 
 Credits: 
 

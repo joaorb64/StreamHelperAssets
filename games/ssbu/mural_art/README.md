@@ -2,5 +2,8 @@
 
 Description: Character arts painted by hand.
 
-Credits: ElevenZM (@ElevenZM on twitter) - original mural arts isolation. MuralAltDrive (@MuralAltDrive on twitter) - alternate costumes.
+Credits: @ElevenZM - original mural arts isolation.
+@MuralAltDrive - alternate costumes.
+@joao_shino - crops.
+@kekwel_ssb - alternate costumes crops.
 

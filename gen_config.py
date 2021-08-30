@@ -81,8 +81,8 @@ for game in games:
 
                 with open(assetPath+"README.md", 'w', encoding='utf-8') as readme:
                     readme.write("# "+config.get("name", "")+"\n\n")
-                    readme.write("Description: "+config.get("description", "")+"\n\n")
-                    readme.write("Credits: "+config.get("credits", "")+"\n\n")
+                    readme.write("## Description: \n\n"+config.get("description", "")+"\n\n")
+                    readme.write("## Credits: \n\n"+config.get("credits", "")+"\n\n")
         except Exception as e:
             print(traceback.format_exc())
 

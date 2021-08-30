@@ -1,6 +1,10 @@
 # Full
 
-Description: Character portraits used on the character select screen player slots
+## Description: 
 
-Credits: 
+Character portraits used on the character select screen player slots
+
+## Credits: 
+
+
 

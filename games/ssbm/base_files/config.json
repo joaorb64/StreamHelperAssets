@@ -31,8 +31,12 @@
         "Random Character": "random"
     },
     "stage_to_codename": {
-        
+        "5": "yoshis_story",
+        "11": "fountain_of_dreams",
+        "15": "pokemon_stadium",
+        "19": "battlefield",
+        "20": "final_destination",
+        "25": "dream_land"
     },
-    "version": 0.8,
-    "description": "Needed to use this game."
+    "version": "0.9"
 }

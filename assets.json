@@ -7,7 +7,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5298230
+                        "size": 5298208
                     }
                 },
                 "name": "Street Fighter V",
@@ -19,7 +19,7 @@
                 "files": {
                     "sfv.portrait.7z": {
                         "name": "sfv.portrait.7z",
-                        "size": 22526089
+                        "size": 22526099
                     }
                 },
                 "name": "Portraits",
@@ -32,15 +32,15 @@
         "assets": {
             "base_files": {
                 "credits": null,
-                "description": "Needed to use this game.",
+                "description": null,
                 "files": {
                     "ssbm.base_files.7z": {
                         "name": "ssbm.base_files.7z",
-                        "size": 19741
+                        "size": 19815
                     }
                 },
                 "name": "Super Smash Bros Melee",
-                "version": 0.8
+                "version": "0.9"
             },
             "portrait": {
                 "credits": null,
@@ -48,11 +48,23 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 2042084
+                        "size": 2042098
                     }
                 },
                 "name": "Portraits",
                 "version": null
+            },
+            "stage_icon": {
+                "credits": null,
+                "description": "Stage icons",
+                "files": {
+                    "ssbm.stage_icon.7z": {
+                        "name": "ssbm.stage_icon.7z",
+                        "size": 3095931
+                    }
+                },
+                "name": "Stage Icons",
+                "version": 0.8
             }
         },
         "name": "Super Smash Bros Melee"
@@ -65,7 +77,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5158825
+                        "size": 5158837
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -77,7 +89,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022461
+                        "size": 296022463
                     }
                 },
                 "name": "Full",
@@ -89,7 +101,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 389341296
+                        "size": 389339811
                     }
                 },
                 "name": "Mural arts",
@@ -101,7 +113,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953189
+                        "size": 25953190
                     }
                 },
                 "name": "Portraits",
@@ -113,7 +125,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 7056475
+                        "size": 7056482
                     }
                 },
                 "name": "Stage Icons",
@@ -125,7 +137,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 923436935
+                        "size": 923396051
                     }
                 },
                 "name": "Webms",

@@ -7,7 +7,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5298225
+                        "size": 5298230
                     }
                 },
                 "name": "Street Fighter V",
@@ -36,7 +36,7 @@
                 "files": {
                     "ssbm.base_files.7z": {
                         "name": "ssbm.base_files.7z",
-                        "size": 19734
+                        "size": 19741
                     }
                 },
                 "name": "Super Smash Bros Melee",
@@ -65,7 +65,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5158826
+                        "size": 5158825
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -77,19 +77,19 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022453
+                        "size": 296022461
                     }
                 },
                 "name": "Full",
                 "version": 0.9
             },
             "mural_art": {
-                "credits": "@ElevenZM - original mural arts isolation.\n@MuralAltDrive - alternate costumes.\n@joao_shino - crops.\n@kekwel_ssb - alternate costumes crops.",
+                "credits": "- @ElevenZM - original mural arts isolation.\n- @MuralAltDrive - alternate costumes.\n- @joao_shino - crops.\n- @kekwel_ssb - alternate costumes crops.",
                 "description": "Character arts painted by hand.",
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 389340680
+                        "size": 389341296
                     }
                 },
                 "name": "Mural arts",
@@ -101,7 +101,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953180
+                        "size": 25953189
                     }
                 },
                 "name": "Portraits",
@@ -113,7 +113,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 7056473
+                        "size": 7056475
                     }
                 },
                 "name": "Stage Icons",
@@ -125,7 +125,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 923423834
+                        "size": 923436935
                     }
                 },
                 "name": "Webms",

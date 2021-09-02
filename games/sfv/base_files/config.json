@@ -2,55 +2,189 @@
     "name": "Street Fighter V",
     "smashgg_game_id": 33990,
     "character_to_codename": {
-        "Abigail": "abigail",
-        "Akira": "akira",
-        "Akuma": "akuma",
-        "Alex": "alex",
-        "Balrog": "balrog",
-        "Birdie": "birdie",
-        "Blanka": "blanka",
-        "Cammy": "cammy",
-        "Nash": "charlie_nash",
-        "Chun-Li": "chun-li",
-        "Cody": "cody",
-        "Dan": "dan",
-        "Dhalsim": "dhalsim",
-        "E. Honda": "e_honda",
-        "Ed": "ed",
-        "F.A.N.G": "fang",
-        "Falke": "falke",
-        "G": "g",
-        "Gill": "gill",
-        "Guile": "guile",
-        "Ibuki": "ibuki",
-        "Juri": "juri",
-        "Kage": "kage",
-        "Karin": "karin",
-        "Ken": "ken",
-        "Kolin": "kolin",
-        "Laura": "laura",
-        "Lucia": "lucia",
-        "M. Bison": "m_bison",
-        "Menat": "menat",
-        "Necalli": "necalli",
-        "Oro": "oro",
-        "Poison": "poison",
-        "R. Mika": "r._mika",
-        "Rashid": "rashid",
-        "Rose": "rose",
-        "Ryu": "ryu",
-        "Sagat": "sagat",
-        "Sakura": "sakura",
-        "Seth": "seth",
-        "Urien": "urien",
-        "Vega": "vega",
-        "Zangief": "zangief",
-        "Zeku": "zeku",
-        "Random Character": "random"
+        "Abigail": {
+            "smashgg_name": "Abigail",
+            "codename": "abigail"
+        },
+        "Akira": {
+            "smashgg_name": "Akira",
+            "codename": "akira"
+        },
+        "Akuma": {
+            "smashgg_name": "Akuma",
+            "codename": "akuma"
+        },
+        "Alex": {
+            "smashgg_name": "Alex",
+            "codename": "alex"
+        },
+        "Balrog": {
+            "smashgg_name": "Balrog",
+            "codename": "balrog"
+        },
+        "Birdie": {
+            "smashgg_name": "Birdie",
+            "codename": "birdie"
+        },
+        "Blanka": {
+            "smashgg_name": "Blanka",
+            "codename": "blanka"
+        },
+        "Cammy": {
+            "smashgg_name": "Cammy",
+            "codename": "cammy"
+        },
+        "Nash": {
+            "smashgg_name": "Nash",
+            "codename": "charlie_nash"
+        },
+        "Chun-Li": {
+            "smashgg_name": "Chun-Li",
+            "codename": "chun-li"
+        },
+        "Cody": {
+            "smashgg_name": "Cody",
+            "codename": "cody"
+        },
+        "Dan": {
+            "smashgg_name": "Dan",
+            "codename": "dan"
+        },
+        "Dhalsim": {
+            "smashgg_name": "Dhalsim",
+            "codename": "dhalsim"
+        },
+        "E. Honda": {
+            "smashgg_name": "E. Honda",
+            "codename": "e_honda"
+        },
+        "Ed": {
+            "smashgg_name": "Ed",
+            "codename": "ed"
+        },
+        "F.A.N.G": {
+            "smashgg_name": "F.A.N.G",
+            "codename": "fang"
+        },
+        "Falke": {
+            "smashgg_name": "Falke",
+            "codename": "falke"
+        },
+        "G": {
+            "smashgg_name": "G",
+            "codename": "g"
+        },
+        "Gill": {
+            "smashgg_name": "Gill",
+            "codename": "gill"
+        },
+        "Guile": {
+            "smashgg_name": "Guile",
+            "codename": "guile"
+        },
+        "Ibuki": {
+            "smashgg_name": "Ibuki",
+            "codename": "ibuki"
+        },
+        "Juri": {
+            "smashgg_name": "Juri",
+            "codename": "juri"
+        },
+        "Kage": {
+            "smashgg_name": "Kage",
+            "codename": "kage"
+        },
+        "Karin": {
+            "smashgg_name": "Karin",
+            "codename": "karin"
+        },
+        "Ken": {
+            "smashgg_name": "Ken",
+            "codename": "ken"
+        },
+        "Kolin": {
+            "smashgg_name": "Kolin",
+            "codename": "kolin"
+        },
+        "Laura": {
+            "smashgg_name": "Laura",
+            "codename": "laura"
+        },
+        "Lucia": {
+            "smashgg_name": "Lucia",
+            "codename": "lucia"
+        },
+        "M. Bison": {
+            "smashgg_name": "M. Bison",
+            "codename": "m_bison"
+        },
+        "Menat": {
+            "smashgg_name": "Menat",
+            "codename": "menat"
+        },
+        "Necalli": {
+            "smashgg_name": "Necalli",
+            "codename": "necalli"
+        },
+        "Oro": {
+            "smashgg_name": "Oro",
+            "codename": "oro"
+        },
+        "Poison": {
+            "smashgg_name": "Poison",
+            "codename": "poison"
+        },
+        "R. Mika": {
+            "smashgg_name": "R. Mika",
+            "codename": "r._mika"
+        },
+        "Rashid": {
+            "smashgg_name": "Rashid",
+            "codename": "rashid"
+        },
+        "Rose": {
+            "smashgg_name": "Rose",
+            "codename": "rose"
+        },
+        "Ryu": {
+            "smashgg_name": "Ryu",
+            "codename": "ryu"
+        },
+        "Sagat": {
+            "smashgg_name": "Sagat",
+            "codename": "sagat"
+        },
+        "Sakura": {
+            "smashgg_name": "Sakura",
+            "codename": "sakura"
+        },
+        "Seth": {
+            "smashgg_name": "Seth",
+            "codename": "seth"
+        },
+        "Urien": {
+            "smashgg_name": "Urien",
+            "codename": "urien"
+        },
+        "Vega": {
+            "smashgg_name": "Vega",
+            "codename": "vega"
+        },
+        "Zangief": {
+            "smashgg_name": "Zangief",
+            "codename": "zangief"
+        },
+        "Zeku": {
+            "smashgg_name": "Zeku",
+            "codename": "zeku"
+        },
+        "Random Character": {
+            "smashgg_name": "Random Character",
+            "codename": "random"
+        }
     },
     "stage_to_codename": {
         
     },
-    "version": 0.9,
-    "description": "Needed to use this game."
+    "version": 0.9
 }

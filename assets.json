@@ -3,11 +3,11 @@
         "assets": {
             "base_files": {
                 "credits": null,
-                "description": "Needed to use this game.",
+                "description": null,
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5298208
+                        "size": 5298338
                     }
                 },
                 "name": "Street Fighter V",
@@ -36,7 +36,7 @@
                 "files": {
                     "ssbm.base_files.7z": {
                         "name": "ssbm.base_files.7z",
-                        "size": 19795
+                        "size": 19999
                     }
                 },
                 "name": "Super Smash Bros Melee",
@@ -48,7 +48,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 2042098
+                        "size": 2042097
                     }
                 },
                 "name": "Portraits",
@@ -73,11 +73,11 @@
         "assets": {
             "base_files": {
                 "credits": null,
-                "description": "Needed to use this game.",
+                "description": null,
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5158845
+                        "size": 5159597
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -113,7 +113,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953192
+                        "size": 25953191
                     }
                 },
                 "name": "Portraits",
@@ -137,7 +137,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 923396053
+                        "size": 417934025
                     }
                 },
                 "name": "Webms",

@@ -2,7 +2,7 @@
 
 ## Description: 
 
-Needed to use this game.
+
 
 ## Credits: 
 

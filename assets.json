@@ -3,11 +3,11 @@
         "assets": {
             "base_files": {
                 "credits": null,
-                "description": null,
+                "description": "Base config to use this game.",
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5298338
+                        "size": 5298331
                     }
                 },
                 "name": "Street Fighter V",
@@ -32,15 +32,15 @@
         "assets": {
             "base_files": {
                 "credits": null,
-                "description": null,
+                "description": "Base config to use this game.",
                 "files": {
                     "ssbm.base_files.7z": {
                         "name": "ssbm.base_files.7z",
-                        "size": 19999
+                        "size": 89165
                     }
                 },
                 "name": "Super Smash Bros Melee",
-                "version": "0.9"
+                "version": "0.91"
             },
             "portrait": {
                 "credits": null,
@@ -48,11 +48,11 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 2042097
+                        "size": 4124538
                     }
                 },
                 "name": "Portraits",
-                "version": null
+                "version": "0.91"
             },
             "stage_icon": {
                 "credits": null,
@@ -73,11 +73,11 @@
         "assets": {
             "base_files": {
                 "credits": null,
-                "description": null,
+                "description": "Base config to use this game.",
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159597
+                        "size": 5159607
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -89,7 +89,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022462
+                        "size": 296022469
                     }
                 },
                 "name": "Full",
@@ -101,7 +101,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 389339813
+                        "size": 394194931
                     }
                 },
                 "name": "Mural arts",
@@ -137,7 +137,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934025
+                        "size": 417934024
                     }
                 },
                 "name": "Webms",

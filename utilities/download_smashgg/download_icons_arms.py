@@ -24,14 +24,14 @@ with open("characters.json", 'r') as characters_file:
                 }
 
                 readme_file_content = f"""
-# {game_name}
+                # {game_name}
 
-## Description:
-{description}
+                ## Description:
+                {description}
 
-## Credits:
-{credits}
-                """
+                ## Credits:
+                {credits}
+                """.replace("                ", "")
                 icon_config_dict = {
                     "prefix": "icon_",
                     "postfix": "_",

@@ -19,12 +19,13 @@ with open("config.json", 'wt') as config_file:
             characters = characters_file_content.get("entities").get("character")
 
             config_dict: dict = {
-                "name": game_name,
+                "name": str(game_name),
                 "smashgg_game_id": game_id,
                 "character_to_codename": {},
                 "stage_to_codename": {},
                 "version": "0.1",
-                "description": f"{description}\n\nCredits: {credits}"
+                "description": str(description),
+                "credits": str(credits)
             }
 
             readme_file_content = f"""

@@ -1,0 +1,112 @@
+{
+    "entities": {
+        "event": {
+            "id": 614782,
+            "tournamentId": 283889,
+            "state": 1,
+            "progressMeter": 0,
+            "videogameId": 33945,
+            "name": "Guilty Gear -STRIVE- (NA)",
+            "description": "",
+            "slug": "tournament\/vortex-gallery-2021\/event\/guilty-gear-strive-na-1",
+            "entryFee": null,
+            "entryCap": null,
+            "teamRosterSize": null,
+            "entrantSizeMin": 1,
+            "entrantSizeMax": 1,
+            "requiredCheckinNum": 1,
+            "teamNameAllowed": false,
+            "teamManagementDeadline": null,
+            "allowAutoReport": true,
+            "tmgEventType": null,
+            "templateId": null,
+            "gameName": null,
+            "playersPerEntry": null,
+            "exhibition": null,
+            "networkIds": null,
+            "platformIds": [
+                4
+            ],
+            "version": null,
+            "type": 1,
+            "formatType": null,
+            "teamsFormat": null,
+            "entrantMode": 1,
+            "private": false,
+            "isOnline": true,
+            "hasTasks": true,
+            "hasDecks": null,
+            "enableSlippi": false,
+            "hasMatchmaking": false,
+            "isPlaceholder": false,
+            "checkInEnabled": false,
+            "checkInDuration": 0,
+            "checkInBuffer": 900,
+            "startAt": 1633158000,
+            "endAt": 1633244400,
+            "startedAt": null,
+            "completedAt": null,
+            "projectionMode": null,
+            "rulesetId": null,
+            "requiresVerification": null,
+            "pageConfig": {
+                "header": [],
+                "tabs": {
+                    "stats": {
+                        "title": "Stats",
+                        "path": "stats",
+                        "config": []
+                    }
+                },
+                "rules": null
+            },
+            "gameModeConfig": [],
+            "ffaPointConfig": null,
+            "ffaAutoBracketGenerationConfig": null,
+            "rulesetSettings": [],
+            "rulesMarkdown": null,
+            "matchRulesMarkdown": null,
+            "prizingInfo": {
+                "enablePrizing": false,
+                "markdown": null,
+                "payoutType": null,
+                "payoutTotal": null,
+                "prizing": [
+                    {
+                        "id": 0,
+                        "placement": 1,
+                        "percent": 60
+                    },
+                    {
+                        "id": 1,
+                        "placement": 2,
+                        "percent": 30
+                    },
+                    {
+                        "id": 2,
+                        "placement": 3,
+                        "percent": 10
+                    }
+                ]
+            },
+            "deckSubmissionDeadline": null,
+            "deckDeadlineHandled": false,
+            "stations": [],
+            "streams": [],
+            "waves": [],
+            "publishing": {
+                "publish": true,
+                "seeding": false,
+                "bracket": false,
+                "deck": false
+            },
+            "images": [],
+            "scheduleId": 1522868,
+            "expand": [],
+            "typeDisplayStr": "Guilty Gear: Strive Singles"
+        }
+    },
+    "result": 614782,
+    "resultEntity": "event",
+    "actionRecords": []
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Guilty Gear -STRIVE-",
+  "smashgg_game_id": 33945,
+  "character_to_codename": {
+    "Anji Mito": {
+      "smashgg_name": "Anji",
+      "codename": "Anji"
+    },
+    "Axl Low": {
+      "smashgg_name": "Axl",
+      "codename": "Axl"
+    },
+    "Chipp Zanuff": {
+      "smashgg_name": "Chipp",
+      "codename": "Chipp"
+    },
+    "Faust": {
+      "smashgg_name": "Faust",
+      "codename": "Faust"
+    },
+    "Giovanna": {
+      "smashgg_name": "Giovanna",
+      "codename": "Giovanna"
+    },
+    "I-No": {
+      "smashgg_name": "I-No",
+      "codename": "I-No"
+    },
+    "Ky Kiske": {
+      "smashgg_name": "Ky",
+      "codename": "Ky"
+    },
+    "Leo Whitefang": {
+      "smashgg_name": "Leo",
+      "codename": "Leo"
+    },
+    "May": {
+      "smashgg_name": "May",
+      "codename": "May"
+    },
+    "Millia Rage": {
+      "smashgg_name": "Millia",
+      "codename": "Millia"
+    },
+    "Nagoriyuki": {
+      "smashgg_name": "Nagoriyuki",
+      "codename": "Nagoriyuki"
+    },
+    "Potemkin": {
+      "smashgg_name": "Potemkin",
+      "codename": "Potemkin"
+    },
+    "Ramlethal Valentine": {
+      "smashgg_name": "Ramlethal",
+      "codename": "Ramlethal"
+    },
+    "Sol Badguy": {
+      "smashgg_name": "Sol",
+      "codename": "Sol"
+    },
+    "Zato-1": {
+      "smashgg_name": "Zato",
+      "codename": "Zato"
+    },
+    "Goldlewis Dickenson": {
+      "smashgg_name": "Goldlewis",
+      "codename": "Goldlewis"
+    },
+    "Jack-O'": {
+      "smashgg_name": "Jack-O",
+      "codename": "Jack-O"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

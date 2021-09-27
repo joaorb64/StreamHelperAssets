@@ -3,5 +3,6 @@
     "description": "Character portraits used on the regular badges",
     "prefix": "",
     "postfix": "_",
-    "type": ["badge"]
+    "type": ["badge"],
+    "version": "1.0"
 }

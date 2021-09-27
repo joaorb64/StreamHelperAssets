@@ -3,5 +3,6 @@
     "description": "Character portraits used on the badges offered for taking part in Party Crash matches on the winning team side",
     "prefix": "",
     "postfix": "_",
-    "type": ["badge_alt"]
+    "type": ["badge_alt"],
+    "version": "1.0"
 }

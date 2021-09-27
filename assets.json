@@ -1,4 +1,69 @@
 {
+    "arms": {
+        "assets": {
+            "badge": {
+                "credits": null,
+                "description": "Character portraits used on the regular badges",
+                "files": {
+                    "arms.badge.7z": {
+                        "name": "arms.badge.7z",
+                        "size": 300191
+                    }
+                },
+                "name": "Badges",
+                "version": "1.0"
+            },
+            "badge_alt": {
+                "credits": null,
+                "description": "Character portraits used on the badges offered for taking part in Party Crash matches on the winning team side",
+                "files": {
+                    "arms.badge_alt.7z": {
+                        "name": "arms.badge_alt.7z",
+                        "size": 382172
+                    }
+                },
+                "name": "Party Crash Badges",
+                "version": "1.0"
+            },
+            "base_files": {
+                "credits": null,
+                "description": "Base config to use this game.",
+                "files": {
+                    "arms.base_files.7z": {
+                        "name": "arms.base_files.7z",
+                        "size": 1595653
+                    }
+                },
+                "name": "ARMS",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@Frosty_4267 & @LOSER_31_56 for the alternate color renders",
+                "description": "Character renders",
+                "files": {
+                    "arms.full.7z": {
+                        "name": "arms.full.7z",
+                        "size": 61000408
+                    }
+                },
+                "name": "Renders",
+                "version": "1.0"
+            },
+            "logo": {
+                "credits": null,
+                "description": "Character logos used for merchandising according to in-game lore",
+                "files": {
+                    "arms.logo.7z": {
+                        "name": "arms.logo.7z",
+                        "size": 91143
+                    }
+                },
+                "name": "Logos",
+                "version": "1.0"
+            }
+        },
+        "name": "ARMS"
+    },
     "sfv": {
         "assets": {
             "base_files": {
@@ -36,7 +101,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27084
+                        "size": 27149
                     }
                 },
                 "name": "Super Smash Bros",
@@ -48,7 +113,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 665985
+                        "size": 666021
                     }
                 },
                 "name": "Portraits",
@@ -106,7 +171,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159616
+                        "size": 5159615
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -118,7 +183,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022471
+                        "size": 296022470
                     }
                 },
                 "name": "Full",

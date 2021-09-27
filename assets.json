@@ -7,7 +7,7 @@
                 "files": {
                     "arms.badge.7z": {
                         "name": "arms.badge.7z",
-                        "size": 300191
+                        "size": 300262
                     }
                 },
                 "name": "Badges",
@@ -19,7 +19,7 @@
                 "files": {
                     "arms.badge_alt.7z": {
                         "name": "arms.badge_alt.7z",
-                        "size": 382172
+                        "size": 382238
                     }
                 },
                 "name": "Party Crash Badges",
@@ -31,11 +31,11 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1595653
+                        "size": 1595617
                     }
                 },
                 "name": "ARMS",
-                "version": "1.0"
+                "version": "1.1"
             },
             "full": {
                 "credits": "@Frosty_4267 & @LOSER_31_56 for the alternate color renders",
@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000408
+                        "size": 61000478
                     }
                 },
                 "name": "Renders",
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91143
+                        "size": 91202
                     }
                 },
                 "name": "Logos",
@@ -63,6 +63,35 @@
             }
         },
         "name": "ARMS"
+    },
+    "ggst": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "ggst.base_files.7z": {
+                        "name": "ggst.base_files.7z",
+                        "size": 414328
+                    }
+                },
+                "name": "Guilty Gear -STRIVE-",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character renders",
+                "files": {
+                    "ggst.full.7z": {
+                        "name": "ggst.full.7z",
+                        "size": 10656598
+                    }
+                },
+                "name": "Renders",
+                "version": "1.0"
+            }
+        },
+        "name": "Guilty Gear -STRIVE-"
     },
     "sfv": {
         "assets": {
@@ -72,7 +101,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5298345
+                        "size": 5298344
                     }
                 },
                 "name": "Street Fighter V",
@@ -113,7 +142,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 666021
+                        "size": 666020
                     }
                 },
                 "name": "Portraits",
@@ -154,7 +183,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095989
+                        "size": 3095988
                     }
                 },
                 "name": "Stage Icons",
@@ -171,7 +200,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159615
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -183,7 +212,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022470
+                        "size": 296022471
                     }
                 },
                 "name": "Full",
@@ -207,7 +236,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953190
+                        "size": 25953200
                     }
                 },
                 "name": "Portraits",
@@ -219,7 +248,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 29370012
+                        "size": 29370013
                     }
                 },
                 "name": "Stage Icons",
@@ -231,7 +260,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934030
+                        "size": 417934024
                     }
                 },
                 "name": "Webms",

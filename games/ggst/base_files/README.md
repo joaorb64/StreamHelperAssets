@@ -1,8 +1,10 @@
+# Guilty Gear -STRIVE-
 
-# Guilty Gear: Strive
+## Description: 
 
-## Description:
 Base config to use this game.
 
-## Credits:
+## Credits: 
+
+
 

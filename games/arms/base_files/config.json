@@ -1,0 +1,69 @@
+{
+    "name": "ARMS",
+    "smashgg_game_id": 193,
+    "character_to_codename": {
+      "Twintelle": {
+        "smashgg_name": "Twintelle",
+        "codename": "Twintelle"
+      },
+      "Spring Man": {
+        "smashgg_name": "Spring Man",
+        "codename": "SpringMan"
+      },
+      "Ribbon Girl": {
+        "smashgg_name": "Ribbon Girl",
+        "codename": "RibbonGirl"
+      },
+      "Ninjara": {
+        "smashgg_name": "Ninjara",
+        "codename": "Ninjara"
+      },
+      "Master Mummy": {
+        "smashgg_name": "Master Mummy",
+        "codename": "MasterMummy"
+      },
+      "Min Min": {
+        "smashgg_name": "Min Min",
+        "codename": "MinMin"
+      },
+      "Mechanica": {
+        "smashgg_name": "Mechanica",
+        "codename": "Mechanica"
+      },
+      "Kid Cobra": {
+        "smashgg_name": "Kid Cobra",
+        "codename": "KidCobra"
+      },
+      "Helix": {
+        "smashgg_name": "Helix",
+        "codename": "DNAMan"
+      },
+      "Byte & Barq": {
+        "smashgg_name": "Byte & Barq",
+        "codename": "ByteBarq"
+      },
+      "Max Brass": {
+        "smashgg_name": "Max Brass",
+        "codename": "MaxBrass"
+      },
+      "Lola Pop": {
+        "smashgg_name": "Lola Pop",
+        "codename": "LolaPop"
+      },
+      "Misango": {
+        "smashgg_name": "Misango",
+        "codename": "Misango"
+      },
+      "Springtron": {
+        "smashgg_name": "Springtron",
+        "codename": "Springtron"
+      },
+      "Dr. Coyle": {
+        "smashgg_name": "Dr. Coyle",
+        "codename": "DrCoyle"
+      }
+    },
+    "stage_to_codename": {},
+    "version": "1.0",
+    "description": "Base config to use this game."
+  }

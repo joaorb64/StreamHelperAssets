@@ -1,8 +1,10 @@
-
 # Super Smash Bros. for Wii U
 
-## Description:
+## Description: 
+
 Base config to use this game.
 
-## Credits:
+## Credits: 
+
+
 

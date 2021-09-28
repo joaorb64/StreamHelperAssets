@@ -1,4 +1,4 @@
-# Tekken 7
+# Dragon Ball FighterZ
 
 ## Description: 
 

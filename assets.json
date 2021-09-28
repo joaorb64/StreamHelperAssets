@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000478
+                        "size": 61000485
                     }
                 },
                 "name": "Renders",
@@ -64,6 +64,23 @@
         },
         "name": "ARMS"
     },
+    "dbfz": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "dbfz.base_files.7z": {
+                        "name": "dbfz.base_files.7z",
+                        "size": 4301000
+                    }
+                },
+                "name": "Dragon Ball FighterZ",
+                "version": "1.0"
+            }
+        },
+        "name": "Dragon Ball FighterZ"
+    },
     "ggst": {
         "assets": {
             "base_files": {
@@ -72,7 +89,7 @@
                 "files": {
                     "ggst.base_files.7z": {
                         "name": "ggst.base_files.7z",
-                        "size": 414353
+                        "size": 414354
                     }
                 },
                 "name": "Guilty Gear -STRIVE-",
@@ -84,7 +101,7 @@
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 10656587
+                        "size": 10656586
                     }
                 },
                 "name": "Renders",
@@ -92,6 +109,23 @@
             }
         },
         "name": "Guilty Gear -STRIVE-"
+    },
+    "killerinstinct": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "killerinstinct.base_files.7z": {
+                        "name": "killerinstinct.base_files.7z",
+                        "size": 743941
+                    }
+                },
+                "name": "Killer Instinct (2013)",
+                "version": "1.0"
+            }
+        },
+        "name": "Killer Instinct (2013)"
     },
     "sfv": {
         "assets": {
@@ -101,7 +135,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5553239
+                        "size": 5553240
                     }
                 },
                 "name": "Street Fighter V",
@@ -142,7 +176,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 666020
+                        "size": 666021
                     }
                 },
                 "name": "Portraits",
@@ -183,7 +217,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095988
+                        "size": 3095989
                     }
                 },
                 "name": "Stage Icons",
@@ -200,7 +234,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159614
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -224,7 +258,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 394194937
+                        "size": 394194935
                     }
                 },
                 "name": "Mural arts",
@@ -236,7 +270,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953192
+                        "size": 25953191
                     }
                 },
                 "name": "Portraits",
@@ -248,7 +282,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 29370013
+                        "size": 29370012
                     }
                 },
                 "name": "Stage Icons",
@@ -260,7 +294,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934031
+                        "size": 417934025
                     }
                 },
                 "name": "Webms",
@@ -268,5 +302,56 @@
             }
         },
         "name": "Super Smash Bros Ultimate"
+    },
+    "ssbwiiu": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "ssbwiiu.base_files.7z": {
+                        "name": "ssbwiiu.base_files.7z",
+                        "size": 70420
+                    }
+                },
+                "name": "Super Smash Bros. for Wii U",
+                "version": "1.0"
+            }
+        },
+        "name": "Super Smash Bros. for Wii U"
+    },
+    "tekken7": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "tekken7.base_files.7z": {
+                        "name": "tekken7.base_files.7z",
+                        "size": 1991364
+                    }
+                },
+                "name": "Tekken 7",
+                "version": "1.0"
+            }
+        },
+        "name": "Tekken 7"
+    },
+    "windjammers": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "windjammers.base_files.7z": {
+                        "name": "windjammers.base_files.7z",
+                        "size": 31529
+                    }
+                },
+                "name": "Windjammers",
+                "version": "1.0"
+            }
+        },
+        "name": "Windjammers"
     }
 }

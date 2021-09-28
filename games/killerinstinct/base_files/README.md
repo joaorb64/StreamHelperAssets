@@ -1,8 +1,10 @@
-
 # Killer Instinct (2013)
 
-## Description:
+## Description: 
+
 Base config to use this game.
 
-## Credits:
+## Credits: 
+
+
 

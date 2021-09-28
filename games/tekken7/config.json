@@ -1,0 +1,218 @@
+{
+  "name": "Tekken 7",
+  "smashgg_game_id": 17,
+  "character_to_codename": {
+    "Akuma": {
+      "smashgg_name": "Akuma",
+      "codename": "Akuma"
+    },
+    "Alisa": {
+      "smashgg_name": "Alisa",
+      "codename": "Alisa"
+    },
+    "Kuma": {
+      "smashgg_name": "Kuma",
+      "codename": "Kuma"
+    },
+    "Asuka": {
+      "smashgg_name": "Asuka",
+      "codename": "Asuka"
+    },
+    "Bob": {
+      "smashgg_name": "Bob",
+      "codename": "Bob"
+    },
+    "Bryan": {
+      "smashgg_name": "Bryan",
+      "codename": "Bryan"
+    },
+    "Claudio": {
+      "smashgg_name": "Claudio",
+      "codename": "Claudio"
+    },
+    "Devil Jin": {
+      "smashgg_name": "Devil Jin",
+      "codename": "DevilJin"
+    },
+    "Dragunov": {
+      "smashgg_name": "Dragunov",
+      "codename": "Dragunov"
+    },
+    "Eddy": {
+      "smashgg_name": "Eddy",
+      "codename": "Eddy"
+    },
+    "Eliza": {
+      "smashgg_name": "Eliza",
+      "codename": "Eliza"
+    },
+    "Feng": {
+      "smashgg_name": "Feng",
+      "codename": "Feng"
+    },
+    "Gigas": {
+      "smashgg_name": "Gigas",
+      "codename": "Gigas"
+    },
+    "Heihachi": {
+      "smashgg_name": "Heihachi",
+      "codename": "Heihachi"
+    },
+    "Hwoarang": {
+      "smashgg_name": "Hwoarang",
+      "codename": "Hwoarang"
+    },
+    "Jack-7": {
+      "smashgg_name": "Jack-7",
+      "codename": "Jack-7"
+    },
+    "Jin": {
+      "smashgg_name": "Jin",
+      "codename": "Jin"
+    },
+    "Josie": {
+      "smashgg_name": "Josie",
+      "codename": "Josie"
+    },
+    "Katarina": {
+      "smashgg_name": "Katarina",
+      "codename": "Katarina"
+    },
+    "Kazumi": {
+      "smashgg_name": "Kazumi",
+      "codename": "Kazumi"
+    },
+    "Kazuya": {
+      "smashgg_name": "Kazuya",
+      "codename": "Kazuya"
+    },
+    "King": {
+      "smashgg_name": "King",
+      "codename": "King"
+    },
+    "Lars": {
+      "smashgg_name": "Lars",
+      "codename": "Lars"
+    },
+    "Law": {
+      "smashgg_name": "Law",
+      "codename": "Law"
+    },
+    "Lee": {
+      "smashgg_name": "Lee",
+      "codename": "Lee"
+    },
+    "Leo": {
+      "smashgg_name": "Leo",
+      "codename": "Leo"
+    },
+    "Lili": {
+      "smashgg_name": "Lili",
+      "codename": "Lili"
+    },
+    "Lucky Chloe": {
+      "smashgg_name": "Lucky Chloe",
+      "codename": "LuckyChloe"
+    },
+    "Master Raven": {
+      "smashgg_name": "Master Raven",
+      "codename": "MasterRaven"
+    },
+    "Miguel": {
+      "smashgg_name": "Miguel",
+      "codename": "Miguel"
+    },
+    "Nina": {
+      "smashgg_name": "Nina",
+      "codename": "Nina"
+    },
+    "Panda": {
+      "smashgg_name": "Panda",
+      "codename": "Panda"
+    },
+    "Paul": {
+      "smashgg_name": "Paul",
+      "codename": "Paul"
+    },
+    "Shaheen": {
+      "smashgg_name": "Shaheen",
+      "codename": "Shaheen"
+    },
+    "Steve": {
+      "smashgg_name": "Steve",
+      "codename": "Steve"
+    },
+    "Violet": {
+      "smashgg_name": "Violet",
+      "codename": "Violet"
+    },
+    "Xiaoyu": {
+      "smashgg_name": "Xiaoyu",
+      "codename": "Xiaoyu"
+    },
+    "Yoshimitsu": {
+      "smashgg_name": "Yoshimitsu",
+      "codename": "Yoshimitsu"
+    },
+    "Geese": {
+      "smashgg_name": "Geese",
+      "codename": "Geese"
+    },
+    "Noctis": {
+      "smashgg_name": "Noctis",
+      "codename": "Noctis"
+    },
+    "Anna": {
+      "smashgg_name": "Anna",
+      "codename": "Anna"
+    },
+    "Marduk": {
+      "smashgg_name": "Marduk",
+      "codename": "Marduk"
+    },
+    "Armor King": {
+      "smashgg_name": "Armor King",
+      "codename": "ArmorKing"
+    },
+    "Lei": {
+      "smashgg_name": "Lei",
+      "codename": "Lei"
+    },
+    "Julia": {
+      "smashgg_name": "Julia",
+      "codename": "Julia"
+    },
+    "Negan": {
+      "smashgg_name": "Negan",
+      "codename": "Negan"
+    },
+    "Zafina": {
+      "smashgg_name": "Zafina",
+      "codename": "Zafina"
+    },
+    "Leroy": {
+      "smashgg_name": "Leroy",
+      "codename": "Leroy"
+    },
+    "Fahkumram": {
+      "smashgg_name": "Fahkumram",
+      "codename": "Fahkumram"
+    },
+    "Ganryu": {
+      "smashgg_name": "Ganryu",
+      "codename": "Ganryu"
+    },
+    "Kunimitsu II": {
+      "smashgg_name": "Kunimitsu II",
+      "codename": "KunimitsuII"
+    },
+    "Lidia": {
+      "smashgg_name": "Lidia",
+      "codename": "Lidia"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

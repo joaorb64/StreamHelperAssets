@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000479
+                        "size": 61000478
                     }
                 },
                 "name": "Renders",
@@ -147,7 +147,7 @@
                 "files": {
                     "sfv.portrait.7z": {
                         "name": "sfv.portrait.7z",
-                        "size": 23365979
+                        "size": 23365986
                     }
                 },
                 "name": "Portraits",
@@ -164,7 +164,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27537
+                        "size": 27538
                     }
                 },
                 "name": "Super Smash Bros",
@@ -172,15 +172,15 @@
             },
             "portrait": {
                 "credits": null,
-                "description": "Character select screen portraits",
+                "description": "Character select screen portraits without the background",
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 666020
+                        "size": 335275
                     }
                 },
                 "name": "Portraits",
-                "version": 0.8
+                "version": 0.81
             }
         },
         "name": "Super Smash Bros"
@@ -205,7 +205,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124537
+                        "size": 4124538
                     }
                 },
                 "name": "Portraits",
@@ -217,7 +217,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095988
+                        "size": 3095989
                     }
                 },
                 "name": "Stage Icons",
@@ -234,7 +234,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159614
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -246,7 +246,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022471
+                        "size": 296022463
                     }
                 },
                 "name": "Full",
@@ -258,7 +258,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 394194932
+                        "size": 394194937
                     }
                 },
                 "name": "Mural arts",
@@ -270,7 +270,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953195
+                        "size": 25953190
                     }
                 },
                 "name": "Portraits",
@@ -294,7 +294,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934025
+                        "size": 417934030
                     }
                 },
                 "name": "Webms",
@@ -311,7 +311,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z": {
                         "name": "ssbwiiu.base_files.7z",
-                        "size": 70425
+                        "size": 70424
                     }
                 },
                 "name": "Super Smash Bros. for Wii U",
@@ -328,7 +328,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991345
+                        "size": 1991344
                     }
                 },
                 "name": "Tekken 7",
@@ -345,7 +345,7 @@
                 "files": {
                     "windjammers.base_files.7z": {
                         "name": "windjammers.base_files.7z",
-                        "size": 31526
+                        "size": 31525
                     }
                 },
                 "name": "Windjammers",

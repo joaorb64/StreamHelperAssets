@@ -82,6 +82,10 @@
             "smashgg_name": "Wario",
             "codename": "wario"
         },
+        "Wolf": {
+            "smashgg_name": "Wolf",
+            "codename": "wolf"
+        },
         "Conker": {
             "smashgg_name": "Conker",
             "codename": "conker"
@@ -97,6 +101,6 @@
     },
     "stage_to_codename": {
     },
-    "version": "0.8",
+    "version": "0.81",
     "description": "Base config to use this game."
 }

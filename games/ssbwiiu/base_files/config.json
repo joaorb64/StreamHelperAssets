@@ -1,0 +1,250 @@
+{
+  "name": "Super Smash Bros. for Wii U",
+  "smashgg_game_id": 3,
+  "character_to_codename": {
+    "Mario": {
+      "smashgg_name": "Mario",
+      "codename": "Mario"
+    },
+    "Luigi": {
+      "smashgg_name": "Luigi",
+      "codename": "Luigi"
+    },
+    "Peach": {
+      "smashgg_name": "Peach",
+      "codename": "Peach"
+    },
+    "Bowser": {
+      "smashgg_name": "Bowser",
+      "codename": "Bowser"
+    },
+    "Dr. Mario": {
+      "smashgg_name": "Dr. Mario",
+      "codename": "DrMario"
+    },
+    "Yoshi": {
+      "smashgg_name": "Yoshi",
+      "codename": "Yoshi"
+    },
+    "Donkey Kong": {
+      "smashgg_name": "Donkey Kong",
+      "codename": "DonkeyKong"
+    },
+    "Diddy Kong": {
+      "smashgg_name": "Diddy Kong",
+      "codename": "DiddyKong"
+    },
+    "Link": {
+      "smashgg_name": "Link",
+      "codename": "Link"
+    },
+    "Zelda": {
+      "smashgg_name": "Zelda",
+      "codename": "Zelda"
+    },
+    "Sheik": {
+      "smashgg_name": "Sheik",
+      "codename": "Sheik"
+    },
+    "Ganondorf": {
+      "smashgg_name": "Ganondorf",
+      "codename": "Ganondorf"
+    },
+    "Toon Link": {
+      "smashgg_name": "Toon Link",
+      "codename": "ToonLink"
+    },
+    "Samus": {
+      "smashgg_name": "Samus",
+      "codename": "Samus"
+    },
+    "Zero Suit Samus": {
+      "smashgg_name": "Zero Suit Samus",
+      "codename": "ZeroSuitSamus"
+    },
+    "Kirby": {
+      "smashgg_name": "Kirby",
+      "codename": "Kirby"
+    },
+    "Meta Knight": {
+      "smashgg_name": "Meta Knight",
+      "codename": "MetaKnight"
+    },
+    "King Dedede": {
+      "smashgg_name": "King Dedede",
+      "codename": "KingDedede"
+    },
+    "Fox": {
+      "smashgg_name": "Fox",
+      "codename": "Fox"
+    },
+    "Falco": {
+      "smashgg_name": "Falco",
+      "codename": "Falco"
+    },
+    "Pikachu": {
+      "smashgg_name": "Pikachu",
+      "codename": "Pikachu"
+    },
+    "Jigglypuff": {
+      "smashgg_name": "Jigglypuff",
+      "codename": "Jigglypuff"
+    },
+    "Mewtwo": {
+      "smashgg_name": "Mewtwo",
+      "codename": "Mewtwo"
+    },
+    "Charizard": {
+      "smashgg_name": "Charizard",
+      "codename": "Charizard"
+    },
+    "Lucario": {
+      "smashgg_name": "Lucario",
+      "codename": "Lucario"
+    },
+    "Captain Falcon": {
+      "smashgg_name": "Captain Falcon",
+      "codename": "CaptainFalcon"
+    },
+    "Ness": {
+      "smashgg_name": "Ness",
+      "codename": "Ness"
+    },
+    "Lucas": {
+      "smashgg_name": "Lucas",
+      "codename": "Lucas"
+    },
+    "Marth": {
+      "smashgg_name": "Marth",
+      "codename": "Marth"
+    },
+    "Roy": {
+      "smashgg_name": "Roy",
+      "codename": "Roy"
+    },
+    "Ike": {
+      "smashgg_name": "Ike",
+      "codename": "Ike"
+    },
+    "Mr. Game & Watch": {
+      "smashgg_name": "Mr. Game & Watch",
+      "codename": "MrGameWatch"
+    },
+    "Pit": {
+      "smashgg_name": "Pit",
+      "codename": "Pit"
+    },
+    "Wario": {
+      "smashgg_name": "Wario",
+      "codename": "Wario"
+    },
+    "Olimar": {
+      "smashgg_name": "Olimar",
+      "codename": "Olimar"
+    },
+    "R.O.B.": {
+      "smashgg_name": "R.O.B.",
+      "codename": "ROB"
+    },
+    "Sonic": {
+      "smashgg_name": "Sonic",
+      "codename": "Sonic"
+    },
+    "Rosalina & Luma": {
+      "smashgg_name": "Rosalina & Luma",
+      "codename": "RosalinaLuma"
+    },
+    "Bowser Jr.": {
+      "smashgg_name": "Bowser Jr.",
+      "codename": "BowserJr"
+    },
+    "Greninja": {
+      "smashgg_name": "Greninja",
+      "codename": "Greninja"
+    },
+    "Robin": {
+      "smashgg_name": "Robin",
+      "codename": "Robin"
+    },
+    "Lucina": {
+      "smashgg_name": "Lucina",
+      "codename": "Lucina"
+    },
+    "Palutena": {
+      "smashgg_name": "Palutena",
+      "codename": "Palutena"
+    },
+    "Dark Pit": {
+      "smashgg_name": "Dark Pit",
+      "codename": "DarkPit"
+    },
+    "Villager": {
+      "smashgg_name": "Villager",
+      "codename": "Villager"
+    },
+    "Little Mac": {
+      "smashgg_name": "Little Mac",
+      "codename": "LittleMac"
+    },
+    "Wii Fit Trainer": {
+      "smashgg_name": "Wii Fit Trainer",
+      "codename": "WiiFitTrainer"
+    },
+    "Shulk": {
+      "smashgg_name": "Shulk",
+      "codename": "Shulk"
+    },
+    "Duck Hunt": {
+      "smashgg_name": "Duck Hunt",
+      "codename": "DuckHunt"
+    },
+    "Mega Man": {
+      "smashgg_name": "Mega Man",
+      "codename": "MegaMan"
+    },
+    "Pac-Man": {
+      "smashgg_name": "Pac-Man",
+      "codename": "Pac-Man"
+    },
+    "Ryu": {
+      "smashgg_name": "Ryu",
+      "codename": "Ryu"
+    },
+    "Mii Fighters": {
+      "smashgg_name": "Mii Fighters",
+      "codename": "MiiFighters"
+    },
+    "Cloud": {
+      "smashgg_name": "Cloud",
+      "codename": "Cloud"
+    },
+    "Corrin": {
+      "smashgg_name": "Corrin",
+      "codename": "Corrin"
+    },
+    "Bayonetta": {
+      "smashgg_name": "Bayonetta",
+      "codename": "Bayonetta"
+    },
+    "Random": {
+      "smashgg_name": "Random",
+      "codename": "Random"
+    },
+    "Mii Gunner": {
+      "smashgg_name": "Mii Gunner",
+      "codename": "MiiGunner"
+    },
+    "Mii Swordfighter": {
+      "smashgg_name": "Mii Swordfighter",
+      "codename": "MiiSwordfighter"
+    },
+    "Mii Brawler": {
+      "smashgg_name": "Mii Brawler",
+      "codename": "MiiBrawler"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Killer Instinct (2013)",
+  "smashgg_game_id": 19,
+  "character_to_codename": {
+    "Aganos": {
+      "smashgg_name": "Aganos",
+      "codename": "Aganos"
+    },
+    "Arbiter": {
+      "smashgg_name": "Arbiter",
+      "codename": "Arbiter"
+    },
+    "Aria": {
+      "smashgg_name": "Aria",
+      "codename": "Aria"
+    },
+    "Cinder": {
+      "smashgg_name": "Cinder",
+      "codename": "Cinder"
+    },
+    "Eyedol": {
+      "smashgg_name": "Eyedol",
+      "codename": "Eyedol"
+    },
+    "Fulgore": {
+      "smashgg_name": "Fulgore",
+      "codename": "Fulgore"
+    },
+    "Gargos": {
+      "smashgg_name": "Gargos",
+      "codename": "Gargos"
+    },
+    "Glacius": {
+      "smashgg_name": "Glacius",
+      "codename": "Glacius"
+    },
+    "Shin Hisako": {
+      "smashgg_name": "Shin Hisako",
+      "codename": "ShinHisako"
+    },
+    "Jago": {
+      "smashgg_name": "Jago",
+      "codename": "Jago"
+    },
+    "Kan-Ra": {
+      "smashgg_name": "Kan-Ra",
+      "codename": "Kan-Ra"
+    },
+    "Kim Wu": {
+      "smashgg_name": "Kim Wu",
+      "codename": "KimWu"
+    },
+    "Maya": {
+      "smashgg_name": "Maya",
+      "codename": "Maya"
+    },
+    "Mira": {
+      "smashgg_name": "Mira",
+      "codename": "Mira"
+    },
+    "Omen": {
+      "smashgg_name": "Omen",
+      "codename": "Omen"
+    },
+    "Orchid": {
+      "smashgg_name": "Orchid",
+      "codename": "Orchid"
+    },
+    "Raam": {
+      "smashgg_name": "Raam",
+      "codename": "Raam"
+    },
+    "Rash": {
+      "smashgg_name": "Rash",
+      "codename": "Rash"
+    },
+    "Riptor": {
+      "smashgg_name": "Riptor",
+      "codename": "Riptor"
+    },
+    "Sabrewulf": {
+      "smashgg_name": "Sabrewulf",
+      "codename": "Sabrewulf"
+    },
+    "Sadira": {
+      "smashgg_name": "Sadira",
+      "codename": "Sadira"
+    },
+    "Shadow Jago": {
+      "smashgg_name": "Shadow Jago",
+      "codename": "ShadowJago"
+    },
+    "Spinal": {
+      "smashgg_name": "Spinal",
+      "codename": "Spinal"
+    },
+    "Thunder": {
+      "smashgg_name": "Thunder",
+      "codename": "Thunder"
+    },
+    "TJ Combo": {
+      "smashgg_name": "TJ Combo",
+      "codename": "TJCombo"
+    },
+    "Tusk": {
+      "smashgg_name": "Tusk",
+      "codename": "Tusk"
+    },
+    "Kilgore": {
+      "smashgg_name": "Kilgore",
+      "codename": "Kilgore"
+    },
+    "Hisako": {
+      "smashgg_name": "Hisako",
+      "codename": "Hisako"
+    },
+    "Eagle": {
+      "smashgg_name": "Eagle",
+      "codename": "Eagle"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

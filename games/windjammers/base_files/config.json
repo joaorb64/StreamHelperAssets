@@ -1,0 +1,34 @@
+{
+  "name": "Windjammers",
+  "smashgg_game_id": 33,
+  "character_to_codename": {
+    "Hiromi Mita": {
+      "smashgg_name": "Hiromi Mita",
+      "codename": "HiromiMita"
+    },
+    "Steve Miller": {
+      "smashgg_name": "Steve Miller",
+      "codename": "SteveMiller"
+    },
+    "Jordi Costa": {
+      "smashgg_name": "Jordi Costa",
+      "codename": "JordiCosta"
+    },
+    "Loris Biaggi": {
+      "smashgg_name": "Loris Biaggi",
+      "codename": "LorisBiaggi"
+    },
+    "Gary Scott": {
+      "smashgg_name": "Gary Scott",
+      "codename": "GaryScott"
+    },
+    "Klaus Wessel": {
+      "smashgg_name": "Klaus Wessel",
+      "codename": "KlausWessel"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

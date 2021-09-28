@@ -48,5 +48,25 @@
         "name": "Killer Instinct (2013)",
         "smashgg_id": 19,
         "image_type": "stockIcon"
+    },
+    {
+        "name": "Super Street Fighter II Turbo",
+        "smashgg_id": 611,
+        "image_type": "stockIcon"
+    },
+    {
+        "name": "Street Fighter III: Third Strike",
+        "smashgg_id": 610,
+        "image_type": "stockIcon"
+    },
+    {
+        "name": "Super Smash Bros. Brawl",
+        "smashgg_id": 5,
+        "image_type": "stockIcon"
+    },
+    {
+        "name": "Windjammers",
+        "smashgg_id": 33,
+        "image_type": "icon"
     }
 ]

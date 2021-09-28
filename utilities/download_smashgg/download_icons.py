@@ -2,7 +2,7 @@ import json
 import requests
 from pathlib import Path
 
-game_id = 19
+game_id = 33
 
 with open(f"game_data.json", 'rt') as game_data_file:
     game_data = json.loads(game_data_file.read())
@@ -73,6 +73,7 @@ with open(f"{download_folder_name}/config.json", 'wt') as config_file:
                     config_dict["character_to_codename"][name] = value
                     stored_width = 0
                     for image_data in character.get("images"):
+                        print(image_data)
                         if image_data.get("type") == image_type and stored_width <= image_data.get("width"):
                             image_file = requests.get(image_data.get("url"))
                             image_filename = f"icon_{codename}_0.png"

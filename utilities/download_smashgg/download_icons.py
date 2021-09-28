@@ -2,7 +2,7 @@ import json
 import requests
 from pathlib import Path
 
-game_id = 3
+game_id = 287
 
 with open(f"game_data.json", 'rt') as game_data_file:
     game_data = json.loads(game_data_file.read())
@@ -65,7 +65,7 @@ with open(f"{download_folder_name}/config.json", 'wt') as config_file:
                 if character.get("videogameId") == game_id:
                     name:str = character.get("name")
                     print(name)
-                    codename = name.replace(' ', '').replace('&', '').replace('.', '')
+                    codename = name.replace(' ', '').replace('&', '').replace('.', '').replace('(', '').replace(')', '')
                     value = {
                         "smashgg_name": name,
                         "codename": codename

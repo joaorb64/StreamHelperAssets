@@ -1,8 +1,8 @@
 {
     "name": "Portraits",
-    "description": "Character select screen portraits",
+    "description": "Character select screen portraits without the background",
     "prefix": "",
     "postfix": "",
     "type": ["portrait"],
-    "version": 0.8
+    "version": 0.81
 }

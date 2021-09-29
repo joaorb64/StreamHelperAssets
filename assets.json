@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000478
+                        "size": 61000477
                     }
                 },
                 "name": "Renders",
@@ -89,7 +89,7 @@
                 "files": {
                     "ggst.base_files.7z": {
                         "name": "ggst.base_files.7z",
-                        "size": 414353
+                        "size": 414354
                     }
                 },
                 "name": "Guilty Gear -STRIVE-",
@@ -170,6 +170,18 @@
                 "name": "Super Smash Bros",
                 "version": "0.81"
             },
+            "full": {
+                "credits": "@joao_shino for all crops",
+                "description": "Classic Mode VS screen renders for player 1",
+                "files": {
+                    "ssb64.full.7z": {
+                        "name": "ssb64.full.7z",
+                        "size": 2152405
+                    }
+                },
+                "name": "VS screen renders (left)",
+                "version": 0.81
+            },
             "portrait": {
                 "credits": null,
                 "description": "Character select screen portraits without the background",
@@ -205,7 +217,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124538
+                        "size": 4124539
                     }
                 },
                 "name": "Portraits",
@@ -217,7 +229,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095989
+                        "size": 3095988
                     }
                 },
                 "name": "Stage Icons",
@@ -234,7 +246,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159626
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -246,7 +258,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022462
+                        "size": 296022469
                     }
                 },
                 "name": "Full",
@@ -258,7 +270,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 394194930
+                        "size": 394194932
                     }
                 },
                 "name": "Mural arts",
@@ -270,7 +282,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953190
+                        "size": 25953192
                     }
                 },
                 "name": "Portraits",
@@ -294,7 +306,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934025
+                        "size": 417934024
                     }
                 },
                 "name": "Webms",

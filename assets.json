@@ -31,7 +31,7 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1595616
+                        "size": 1595617
                     }
                 },
                 "name": "ARMS",
@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000479
+                        "size": 61000478
                     }
                 },
                 "name": "Renders",
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91201
+                        "size": 91202
                     }
                 },
                 "name": "Logos",
@@ -101,7 +101,7 @@
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 10656587
+                        "size": 10656586
                     }
                 },
                 "name": "Renders",
@@ -118,7 +118,7 @@
                 "files": {
                     "killerinstinct.base_files.7z": {
                         "name": "killerinstinct.base_files.7z",
-                        "size": 743942
+                        "size": 743943
                     }
                 },
                 "name": "Killer Instinct (2013)",
@@ -135,7 +135,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5553239
+                        "size": 5553240
                     }
                 },
                 "name": "Street Fighter V",
@@ -164,7 +164,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27544
+                        "size": 27543
                     }
                 },
                 "name": "Super Smash Bros",
@@ -172,15 +172,15 @@
             },
             "full": {
                 "credits": "@joao_shino for all crops",
-                "description": "Classic Mode VS screen renders for player 1",
+                "description": "Classic Mode VS screen renders for player 1.\nHas player 2 renders for a few characters.\nCould be extended to support alts.",
                 "files": {
                     "ssb64.full.7z": {
                         "name": "ssb64.full.7z",
-                        "size": 2152469
+                        "size": 3504948
                     }
                 },
-                "name": "VS screen renders (left)",
-                "version": 0.81
+                "name": "VS screen renders",
+                "version": 0.82
             },
             "portrait": {
                 "credits": null,
@@ -188,7 +188,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 335266
+                        "size": 335267
                     }
                 },
                 "name": "Portraits",
@@ -217,7 +217,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124537
+                        "size": 4124538
                     }
                 },
                 "name": "Portraits",
@@ -229,7 +229,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095988
+                        "size": 3095989
                     }
                 },
                 "name": "Stage Icons",
@@ -246,7 +246,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159614
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -258,7 +258,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022462
+                        "size": 296022469
                     }
                 },
                 "name": "Full",
@@ -270,7 +270,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 395883774
+                        "size": 395883766
                     }
                 },
                 "name": "Mural arts",
@@ -282,7 +282,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953192
+                        "size": 25953190
                     }
                 },
                 "name": "Portraits",
@@ -306,7 +306,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934032
+                        "size": 417934025
                     }
                 },
                 "name": "Webms",

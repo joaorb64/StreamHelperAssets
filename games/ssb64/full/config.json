@@ -1,8 +1,8 @@
 {
-    "name": "VS screen renders (left)",
-    "description": "Classic Mode VS screen renders for player 1",
+    "name": "VS screen renders",
+    "description": "Classic Mode VS screen renders for player 1.\nHas player 2 renders for a few characters.\nCould be extended to support alts.",
     "prefix": "",
     "postfix": "",
     "credits": "@joao_shino for all crops",
-    "version": 0.81
+    "version": 0.82
 }

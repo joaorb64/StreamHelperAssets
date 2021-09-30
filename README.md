@@ -1,5 +1,7 @@
 # StreamHelperAssets
-Character assets for use with TournamentStreamHelper
+Character assets for use with [TournamentStreamHelper](https://github.com/joaorb64/TournamentStreamHelper). You can download all assets directly from within the program.
+
+You may also use them in other projects, just be sure to check out the credits on each pack's README. In Releases you'll find direct downloads to 7z files containing the packs.
 
 # Contributing
 

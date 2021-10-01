@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000484
+                        "size": 61000485
                     }
                 },
                 "name": "Renders",
@@ -89,7 +89,7 @@
                 "files": {
                     "ggst.base_files.7z": {
                         "name": "ggst.base_files.7z",
-                        "size": 414354
+                        "size": 414353
                     }
                 },
                 "name": "Guilty Gear -STRIVE-",
@@ -164,11 +164,11 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27543
+                        "size": 27552
                     }
                 },
                 "name": "Super Smash Bros",
-                "version": "0.81"
+                "version": "0.84"
             },
             "full": {
                 "credits": "@joao_shino for all crops",
@@ -176,11 +176,11 @@
                 "files": {
                     "ssb64.full.7z": {
                         "name": "ssb64.full.7z",
-                        "size": 14673161
+                        "size": 14771782
                     }
                 },
                 "name": "VS screen renders",
-                "version": 0.83
+                "version": 0.84
             },
             "portrait": {
                 "credits": null,
@@ -270,7 +270,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 436010121
+                        "size": 436010120
                     }
                 },
                 "name": "Mural arts",

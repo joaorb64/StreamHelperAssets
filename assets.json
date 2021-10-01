@@ -31,7 +31,7 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1595617
+                        "size": 1595615
                     }
                 },
                 "name": "ARMS",
@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000477
+                        "size": 61000484
                     }
                 },
                 "name": "Renders",
@@ -172,15 +172,15 @@
             },
             "full": {
                 "credits": "@joao_shino for all crops",
-                "description": "Classic Mode VS screen renders for player 1.\nHas player 2 renders for a few characters.\nDoes not contain all alts.",
+                "description": "Classic Mode VS screen renders for player 1.\nHas player 2 renders for a few characters.\nContains all alts.",
                 "files": {
                     "ssb64.full.7z": {
                         "name": "ssb64.full.7z",
-                        "size": 11854790
+                        "size": 14673161
                     }
                 },
                 "name": "VS screen renders",
-                "version": 0.82
+                "version": 0.83
             },
             "portrait": {
                 "credits": null,
@@ -217,7 +217,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124538
+                        "size": 4124539
                     }
                 },
                 "name": "Portraits",
@@ -229,7 +229,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095989
+                        "size": 3095988
                     }
                 },
                 "name": "Stage Icons",
@@ -258,7 +258,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022469
+                        "size": 296022463
                     }
                 },
                 "name": "Full",
@@ -282,7 +282,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953192
+                        "size": 25953190
                     }
                 },
                 "name": "Portraits",
@@ -294,7 +294,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 29370013
+                        "size": 29370012
                     }
                 },
                 "name": "Stage Icons",
@@ -306,7 +306,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934025
+                        "size": 417934026
                     }
                 },
                 "name": "Webms",
@@ -323,7 +323,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z": {
                         "name": "ssbwiiu.base_files.7z",
-                        "size": 70424
+                        "size": 70425
                     }
                 },
                 "name": "Super Smash Bros. for Wii U",
@@ -340,7 +340,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991344
+                        "size": 1991345
                     }
                 },
                 "name": "Tekken 7",

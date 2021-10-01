@@ -1,9 +1,9 @@
 {
     "name": "VS screen renders",
-    "description": "Classic Mode VS screen renders for player 1.\nHas player 2 renders for a few characters.\nDoes not contain all alts.",
+    "description": "Classic Mode VS screen renders for player 1.\nHas player 2 renders for a few characters.\nContains all alts.",
     "prefix": "",
     "postfix": "_",
     "credits": "@joao_shino for all crops",
-    "version": 0.82,
+    "version": 0.84,
     "type": "portrait"
 }

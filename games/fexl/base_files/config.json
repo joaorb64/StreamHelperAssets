@@ -1,0 +1,64 @@
+{
+  "name": "Samurai Shodown (2019)",
+  "smashgg_game_id": 3568,
+  "character_to_codename": {
+    "Kairi": {
+      "codename": "01_kairi"
+    },
+    "Shirase": {
+      "codename": "02_shirase"
+    },
+    "Garuda": {
+      "codename": "03_garuda"
+    },
+    "Skullomania": {
+      "codename": "04_skullo"
+    },
+    "Darun Mister": {
+      "codename": "05_darun"
+    },
+    "Allen Snider": {
+      "codename": "06_allen"
+    },
+    "Doctrine Dark": {
+      "codename": "07_dark"
+    },
+    "Blair Dame": {
+      "codename": "08_blair"
+    },
+    "Jack": {
+      "codename": "09_jack"
+    },
+    "Shadowgeist": {
+      "codename": "10_shadowgeist"
+    },
+    "Sanane": {
+      "codename": "11_sanane"
+    },
+    "Hayate": {
+      "codename": "12_hayate"
+    },
+    "Pullum Purna": {
+      "codename": "13_pullum"
+    },
+    "Vulcano Rosso": {
+      "codename": "14_rosso"
+    },
+    "Sharon": {
+      "codename": "15_sharon"
+    },
+    "Area": {
+      "codename": "16_area"
+    },
+    "Hokuto": {
+      "codename": "17_hokuto"
+    },
+    "Terry Bogard": {
+      "codename": "18_terry"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.\nNote: This also works for Fighting EX Layer: Another Dash, but will not report your results to Smash.gg (Smash.gg ID for FEXL:AD: 39242)",
+  "credits": ""
+}

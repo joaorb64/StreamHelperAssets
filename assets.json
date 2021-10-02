@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000486
+                        "size": 61000478
                     }
                 },
                 "name": "Renders",
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91201
+                        "size": 91202
                     }
                 },
                 "name": "Logos",
@@ -89,7 +89,7 @@
                 "files": {
                     "fexl.base_files.7z": {
                         "name": "fexl.base_files.7z",
-                        "size": 8760200
+                        "size": 8760201
                     }
                 },
                 "name": "Fighting EX Layer",
@@ -147,7 +147,7 @@
                 "files": {
                     "jojohftf.base_files.7z": {
                         "name": "jojohftf.base_files.7z",
-                        "size": 841614
+                        "size": 841615
                     }
                 },
                 "name": "Jojo's Bizarre Adventure: Heritage for the Future",
@@ -159,7 +159,7 @@
                 "files": {
                     "jojohftf.full.7z": {
                         "name": "jojohftf.full.7z",
-                        "size": 519586
+                        "size": 519588
                     }
                 },
                 "name": "Portraits",
@@ -176,7 +176,7 @@
                 "files": {
                     "killerinstinct.base_files.7z": {
                         "name": "killerinstinct.base_files.7z",
-                        "size": 743942
+                        "size": 743943
                     }
                 },
                 "name": "Killer Instinct (2013)",
@@ -222,19 +222,19 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5553232
+                        "size": 5553233
                     }
                 },
                 "name": "Street Fighter V",
                 "version": 0.91
             },
-            "portrait": {
+            "full": {
                 "credits": null,
                 "description": "Bigger character portraits",
                 "files": {
-                    "sfv.portrait.7z": {
-                        "name": "sfv.portrait.7z",
-                        "size": 23365966
+                    "sfv.full.7z": {
+                        "name": "sfv.full.7z",
+                        "size": 23365962
                     }
                 },
                 "name": "Portraits",
@@ -251,7 +251,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27550
+                        "size": 27551
                     }
                 },
                 "name": "Super Smash Bros",
@@ -275,7 +275,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 335246
+                        "size": 335247
                     }
                 },
                 "name": "Portraits",
@@ -304,7 +304,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124537
+                        "size": 4124538
                     }
                 },
                 "name": "Portraits",
@@ -333,7 +333,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159614
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -345,7 +345,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022471
+                        "size": 296022470
                     }
                 },
                 "name": "Full",
@@ -357,7 +357,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 462364097
+                        "size": 462364091
                     }
                 },
                 "name": "Mural arts",
@@ -369,7 +369,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953190
+                        "size": 25953200
                     }
                 },
                 "name": "Portraits",
@@ -393,7 +393,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934030
+                        "size": 417934024
                     }
                 },
                 "name": "Webms",

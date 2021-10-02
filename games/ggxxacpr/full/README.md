@@ -1,8 +1,8 @@
-# Guilty Gear XX Accent Core Plus R
+# Portraits
 
 ## Description: 
 
-Base config to use this game.
+Character portraits
 
 ## Credits: 
 

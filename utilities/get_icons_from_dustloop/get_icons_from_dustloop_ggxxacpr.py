@@ -31,8 +31,7 @@ def get_icon_from_character_name(character_name):
             srcset = tag["srcset"].split(", ")
     for src in srcset:
         if "64" in src:
-            relative_link = src.split(' ')[0].replace("64", "68")
-            return(f"http://dustloop.com{relative_link}")
+            return(f"http://dustloop.com{src.split(' ')[0]}")
 
 
 def get_portrait(character_name, page_link):

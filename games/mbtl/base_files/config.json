@@ -1,0 +1,52 @@
+{
+  "name": "Melty Blood: Type Lumina",
+  "smashgg_game_id": 36865,
+  "character_to_codename": {
+    "Shiki Tohno": {
+      "codename": "ShikiTohno"
+    },
+    "Arcueid Brunestud": {
+      "codename": "ArcueidBrunestud"
+    },
+    "Akiha Tohno": {
+      "codename": "AkihaTohno"
+    },
+    "Ciel": {
+      "codename": "Ciel"
+    },
+    "Hisui": {
+      "codename": "Hisui"
+    },
+    "Kohaku": {
+      "codename": "Kohaku"
+    },
+    "Hisui & Kohaku": {
+      "codename": "HisuiKohaku"
+    },
+    "Miyako Arima": {
+      "codename": "MiyakoArima"
+    },
+    "Kouma Kishima": {
+      "codename": "KoumaKishima"
+    },
+    "Noel": {
+      "codename": "Noel"
+    },
+    "Michael Roa Valdamjong": {
+      "codename": "MichaelRoaValdamjong"
+    },
+    "Vlov Arkhangel": {
+      "codename": "VlovArkhangel"
+    },
+    "Red Arcueid": {
+      "codename": "RedArcueid"
+    },
+    "Saber": {
+      "codename": "Saber"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)"
+}

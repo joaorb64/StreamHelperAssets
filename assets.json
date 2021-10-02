@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000485
+                        "size": 61000478
                     }
                 },
                 "name": "Renders",
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91202
+                        "size": 91201
                     }
                 },
                 "name": "Logos",
@@ -81,6 +81,35 @@
         },
         "name": "Dragon Ball FighterZ"
     },
+    "fexl": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.\nNote: This also works for Fighting EX Layer: Another Dash, but will not report your results to Smash.gg (Smash.gg ID for FEXL:AD: 39242)",
+                "files": {
+                    "fexl.base_files.7z": {
+                        "name": "fexl.base_files.7z",
+                        "size": 8760207
+                    }
+                },
+                "name": "Fighting EX Layer",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character renders",
+                "files": {
+                    "fexl.full.7z": {
+                        "name": "fexl.full.7z",
+                        "size": 8591163
+                    }
+                },
+                "name": "Renders",
+                "version": "1.0"
+            }
+        },
+        "name": "Fighting EX Layer"
+    },
     "ggst": {
         "assets": {
             "base_files": {
@@ -89,7 +118,7 @@
                 "files": {
                     "ggst.base_files.7z": {
                         "name": "ggst.base_files.7z",
-                        "size": 414353
+                        "size": 414354
                     }
                 },
                 "name": "Guilty Gear -STRIVE-",
@@ -110,6 +139,35 @@
         },
         "name": "Guilty Gear -STRIVE-"
     },
+    "jojohftf": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "jojohftf.base_files.7z": {
+                        "name": "jojohftf.base_files.7z",
+                        "size": 841620
+                    }
+                },
+                "name": "Jojo's Bizarre Adventure: Heritage for the Future",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character portraits",
+                "files": {
+                    "jojohftf.full.7z": {
+                        "name": "jojohftf.full.7z",
+                        "size": 519526
+                    }
+                },
+                "name": "Portraits",
+                "version": "1.0"
+            }
+        },
+        "name": "Jojo's Bizarre Adventure: Heritage for the Future"
+    },
     "killerinstinct": {
         "assets": {
             "base_files": {
@@ -126,6 +184,35 @@
             }
         },
         "name": "Killer Instinct (2013)"
+    },
+    "samsho2019": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "samsho2019.base_files.7z": {
+                        "name": "samsho2019.base_files.7z",
+                        "size": 1099920
+                    }
+                },
+                "name": "Samurai Shodown (2019)",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character renders",
+                "files": {
+                    "samsho2019.full.7z": {
+                        "name": "samsho2019.full.7z",
+                        "size": 22444573
+                    }
+                },
+                "name": "Renders",
+                "version": "1.0"
+            }
+        },
+        "name": "Samurai Shodown (2019)"
     },
     "sfv": {
         "assets": {
@@ -229,7 +316,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095988
+                        "size": 3095989
                     }
                 },
                 "name": "Stage Icons",
@@ -246,7 +333,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159616
+                        "size": 5159615
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -258,7 +345,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022463
+                        "size": 296022469
                     }
                 },
                 "name": "Full",
@@ -270,7 +357,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 436010120
+                        "size": 462364096
                     }
                 },
                 "name": "Mural arts",
@@ -282,7 +369,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953190
+                        "size": 25953192
                     }
                 },
                 "name": "Portraits",
@@ -294,7 +381,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 29370012
+                        "size": 29370013
                     }
                 },
                 "name": "Stage Icons",
@@ -306,7 +393,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934026
+                        "size": 417934025
                     }
                 },
                 "name": "Webms",
@@ -323,7 +410,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z": {
                         "name": "ssbwiiu.base_files.7z",
-                        "size": 70425
+                        "size": 70423
                     }
                 },
                 "name": "Super Smash Bros. for Wii U",
@@ -340,7 +427,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991345
+                        "size": 1991344
                     }
                 },
                 "name": "Tekken 7",
@@ -357,7 +444,7 @@
                 "files": {
                     "windjammers.base_files.7z": {
                         "name": "windjammers.base_files.7z",
-                        "size": 31526
+                        "size": 31525
                     }
                 },
                 "name": "Windjammers",

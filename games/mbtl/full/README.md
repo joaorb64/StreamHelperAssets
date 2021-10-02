@@ -1,8 +1,8 @@
-# Melty Blood: Type Lumina
+# Portraits
 
 ## Description: 
 
-Base config to use this game.
+Character portraits
 
 ## Credits: 
 

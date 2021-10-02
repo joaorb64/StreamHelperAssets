@@ -31,7 +31,7 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1595616
+                        "size": 1595617
                     }
                 },
                 "name": "ARMS",
@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000478
+                        "size": 61000485
                     }
                 },
                 "name": "Renders",
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91202
+                        "size": 91201
                     }
                 },
                 "name": "Logos",
@@ -72,7 +72,7 @@
                 "files": {
                     "dbfz.base_files.7z": {
                         "name": "dbfz.base_files.7z",
-                        "size": 4301032
+                        "size": 4301033
                     }
                 },
                 "name": "Dragon Ball FighterZ",
@@ -101,7 +101,7 @@
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 8591202
+                        "size": 8591201
                     }
                 },
                 "name": "Renders",
@@ -118,7 +118,7 @@
                 "files": {
                     "ggst.base_files.7z": {
                         "name": "ggst.base_files.7z",
-                        "size": 768213
+                        "size": 768217
                     }
                 },
                 "name": "Guilty Gear -STRIVE-",
@@ -214,6 +214,35 @@
         },
         "name": "Killer Instinct (2013)"
     },
+    "mbtl": {
+        "assets": {
+            "base_files": {
+                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)",
+                "description": "Base config to use this game.",
+                "files": {
+                    "mbtl.base_files.7z": {
+                        "name": "mbtl.base_files.7z",
+                        "size": 110550
+                    }
+                },
+                "name": "Melty Blood: Type Lumina",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)",
+                "description": "Character portraits",
+                "files": {
+                    "mbtl.full.7z": {
+                        "name": "mbtl.full.7z",
+                        "size": 4626006
+                    }
+                },
+                "name": "Portraits",
+                "version": "1.0"
+            }
+        },
+        "name": "Melty Blood: Type Lumina"
+    },
     "samsho2019": {
         "assets": {
             "base_files": {
@@ -280,7 +309,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27550
+                        "size": 27551
                     }
                 },
                 "name": "Super Smash Bros",
@@ -292,7 +321,7 @@
                 "files": {
                     "ssb64.full.7z": {
                         "name": "ssb64.full.7z",
-                        "size": 14771789
+                        "size": 14771782
                     }
                 },
                 "name": "VS screen renders",
@@ -345,7 +374,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095989
+                        "size": 3095988
                     }
                 },
                 "name": "Stage Icons",
@@ -362,7 +391,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159616
+                        "size": 5159615
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -398,7 +427,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953190
+                        "size": 25953197
                     }
                 },
                 "name": "Portraits",

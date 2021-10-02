@@ -1,8 +1,10 @@
-
 # Mario Strikers Charged
 
-## Description:
+## Description: 
+
 Base config to use this game.
 
-## Credits:
+## Credits: 
+
+
 

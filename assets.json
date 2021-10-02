@@ -31,7 +31,7 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1595617
+                        "size": 1595616
                     }
                 },
                 "name": "ARMS",
@@ -43,11 +43,11 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000485
+                        "size": 61056042
                     }
                 },
                 "name": "Renders",
-                "version": "1.0"
+                "version": "1.1"
             },
             "logo": {
                 "credits": null,
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91201
+                        "size": 91202
                     }
                 },
                 "name": "Logos",
@@ -72,7 +72,7 @@
                 "files": {
                     "dbfz.base_files.7z": {
                         "name": "dbfz.base_files.7z",
-                        "size": 4301033
+                        "size": 4301032
                     }
                 },
                 "name": "Dragon Ball FighterZ",
@@ -101,7 +101,7 @@
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 8591201
+                        "size": 8591202
                     }
                 },
                 "name": "Renders",
@@ -130,7 +130,7 @@
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 10656587
+                        "size": 10656585
                     }
                 },
                 "name": "Renders",
@@ -147,7 +147,7 @@
                 "files": {
                     "ggxxacpr.base_files.7z": {
                         "name": "ggxxacpr.base_files.7z",
-                        "size": 266615
+                        "size": 266616
                     }
                 },
                 "name": "Guilty Gear XX Accent Core Plus R",
@@ -159,7 +159,7 @@
                 "files": {
                     "ggxxacpr.full.7z": {
                         "name": "ggxxacpr.full.7z",
-                        "size": 16631264
+                        "size": 16631265
                     }
                 },
                 "name": "Portraits",
@@ -188,7 +188,7 @@
                 "files": {
                     "jojohftf.full.7z": {
                         "name": "jojohftf.full.7z",
-                        "size": 519587
+                        "size": 519588
                     }
                 },
                 "name": "Portraits",
@@ -205,7 +205,7 @@
                 "files": {
                     "killerinstinct.base_files.7z": {
                         "name": "killerinstinct.base_files.7z",
-                        "size": 743942
+                        "size": 743943
                     }
                 },
                 "name": "Killer Instinct (2013)",
@@ -222,7 +222,7 @@
                 "files": {
                     "mbtl.base_files.7z": {
                         "name": "mbtl.base_files.7z",
-                        "size": 110550
+                        "size": 110536
                     }
                 },
                 "name": "Melty Blood: Type Lumina",
@@ -234,7 +234,7 @@
                 "files": {
                     "mbtl.full.7z": {
                         "name": "mbtl.full.7z",
-                        "size": 4626006
+                        "size": 4626026
                     }
                 },
                 "name": "Portraits",
@@ -242,6 +242,47 @@
             }
         },
         "name": "Melty Blood: Type Lumina"
+    },
+    "msc": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "msc.base_files.7z": {
+                        "name": "msc.base_files.7z",
+                        "size": 621827
+                    }
+                },
+                "name": "Mario Strikers Charged",
+                "version": "1.0"
+            },
+            "card": {
+                "credits": "",
+                "description": "Challenge Cards",
+                "files": {
+                    "msc.card.7z": {
+                        "name": "msc.card.7z",
+                        "size": 2149289
+                    }
+                },
+                "name": "Challenge Cards",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character Artworks",
+                "files": {
+                    "msc.full.7z": {
+                        "name": "msc.full.7z",
+                        "size": 16855529
+                    }
+                },
+                "name": "Artwork",
+                "version": "1.0"
+            }
+        },
+        "name": "Mario Strikers Charged"
     },
     "samsho2019": {
         "assets": {
@@ -251,7 +292,7 @@
                 "files": {
                     "samsho2019.base_files.7z": {
                         "name": "samsho2019.base_files.7z",
-                        "size": 1099900
+                        "size": 1099901
                     }
                 },
                 "name": "Samurai Shodown (2019)",
@@ -263,7 +304,7 @@
                 "files": {
                     "samsho2019.full.7z": {
                         "name": "samsho2019.full.7z",
-                        "size": 22444669
+                        "size": 22444668
                     }
                 },
                 "name": "Renders",
@@ -280,7 +321,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5553232
+                        "size": 5553233
                     }
                 },
                 "name": "Street Fighter V",
@@ -309,7 +350,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27551
+                        "size": 27552
                     }
                 },
                 "name": "Super Smash Bros",
@@ -333,7 +374,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 335246
+                        "size": 335247
                     }
                 },
                 "name": "Portraits",
@@ -362,7 +403,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124538
+                        "size": 4124539
                     }
                 },
                 "name": "Portraits",
@@ -374,7 +415,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095988
+                        "size": 3095989
                     }
                 },
                 "name": "Stage Icons",
@@ -391,7 +432,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159615
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -403,7 +444,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022463
+                        "size": 296022469
                     }
                 },
                 "name": "Full",
@@ -415,7 +456,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 462364097
+                        "size": 462364098
                     }
                 },
                 "name": "Mural arts",
@@ -427,7 +468,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953197
+                        "size": 25953190
                     }
                 },
                 "name": "Portraits",
@@ -451,7 +492,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934025
+                        "size": 417934031
                     }
                 },
                 "name": "Webms",

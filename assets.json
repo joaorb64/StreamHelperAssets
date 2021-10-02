@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61000479
+                        "size": 61000478
                     }
                 },
                 "name": "Renders",
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91201
+                        "size": 91202
                     }
                 },
                 "name": "Logos",
@@ -113,16 +113,16 @@
     "ggst": {
         "assets": {
             "base_files": {
-                "credits": "",
+                "credits": "Files ripped from Dustloop Wiki",
                 "description": "Base config to use this game.",
                 "files": {
                     "ggst.base_files.7z": {
                         "name": "ggst.base_files.7z",
-                        "size": 414353
+                        "size": 768213
                     }
                 },
                 "name": "Guilty Gear -STRIVE-",
-                "version": "1.0"
+                "version": "1.1"
             },
             "full": {
                 "credits": "",
@@ -147,7 +147,7 @@
                 "files": {
                     "ggxxacpr.base_files.7z": {
                         "name": "ggxxacpr.base_files.7z",
-                        "size": 266699
+                        "size": 266615
                     }
                 },
                 "name": "Guilty Gear XX Accent Core Plus R",
@@ -159,7 +159,7 @@
                 "files": {
                     "ggxxacpr.full.7z": {
                         "name": "ggxxacpr.full.7z",
-                        "size": 16631236
+                        "size": 16631264
                     }
                 },
                 "name": "Portraits",
@@ -263,7 +263,7 @@
                 "files": {
                     "sfv.full.7z": {
                         "name": "sfv.full.7z",
-                        "size": 23365968
+                        "size": 23365962
                     }
                 },
                 "name": "Portraits",
@@ -280,7 +280,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27552
+                        "size": 27550
                     }
                 },
                 "name": "Super Smash Bros",
@@ -292,7 +292,7 @@
                 "files": {
                     "ssb64.full.7z": {
                         "name": "ssb64.full.7z",
-                        "size": 14771782
+                        "size": 14771789
                     }
                 },
                 "name": "VS screen renders",
@@ -304,7 +304,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 335247
+                        "size": 335246
                     }
                 },
                 "name": "Portraits",
@@ -345,7 +345,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095988
+                        "size": 3095989
                     }
                 },
                 "name": "Stage Icons",
@@ -362,7 +362,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159615
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -422,7 +422,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934024
+                        "size": 417934025
                     }
                 },
                 "name": "Webms",

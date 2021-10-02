@@ -1,3 +1,5 @@
 *.7z*
 utilities/download_smashgg/download/*
 game_id_request.json
+utilities/txt_to_config_json/*.txt
+utilities/txt_to_config_json/*.json

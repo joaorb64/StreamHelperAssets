@@ -1,0 +1,85 @@
+{
+  "name": "Guilty Gear XX Accent Core Plus R",
+  "smashgg_game_id": 22406,
+  "character_to_codename": {
+    "A.B.A": {
+      "codename": "ABA"
+    },
+    "Anji Mito": {
+      "codename": "AnjiMito"
+    },
+    "Axl Low": {
+      "codename": "AxlLow"
+    },
+    "Baiken": {
+      "codename": "Baiken"
+    },
+    "Bridget": {
+      "codename": "Bridget"
+    },
+    "Chipp Zanuff": {
+      "codename": "ChippZanuff"
+    },
+    "Dizzy": {
+      "codename": "Dizzy"
+    },
+    "Eddie": {
+      "codename": "Eddie"
+    },
+    "Faust": {
+      "codename": "Faust"
+    },
+    "I-No": {
+      "codename": "INo"
+    },
+    "Jam Kuradoberi": {
+      "codename": "JamKuradoberi"
+    },
+    "Johnny": {
+      "codename": "Johnny"
+    },
+    "Justice": {
+      "codename": "Justice"
+    },
+    "Kliff Undersn": {
+      "codename": "KliffUndersn"
+    },
+    "Ky Kiske": {
+      "codename": "KyKiske"
+    },
+    "May": {
+      "codename": "May"
+    },
+    "Millia Rage": {
+      "codename": "MilliaRage"
+    },
+    "Order-Sol": {
+      "codename": "OrderSol"
+    },
+    "Potemkin": {
+      "codename": "Potemkin"
+    },
+    "Robo-Ky": {
+      "codename": "RoboKy"
+    },
+    "Slayer": {
+      "codename": "Slayer"
+    },
+    "Sol Badguy": {
+      "codename": "SolBadguy"
+    },
+    "Testament": {
+      "codename": "Testament"
+    },
+    "Venom": {
+      "codename": "Venom"
+    },
+    "Zappa": {
+      "codename": "Zappa"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Files ripped from Dustloop Wiki"
+}

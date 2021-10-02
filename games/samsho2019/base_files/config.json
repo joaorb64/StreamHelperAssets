@@ -1,0 +1,103 @@
+{
+  "name": "Samurai Shodown (2019)",
+  "smashgg_game_id": 3568,
+  "character_to_codename": {
+    "Haomaru": {
+      "codename": "Haomaru"
+    },
+    "Nakoruru": {
+      "codename": "Nakoruru"
+    },
+    "Genjuro Kibagami": {
+      "codename": "Genjuro"
+    },
+    "Charlotte": {
+      "codename": "Charlotte"
+    },
+    "Galford": {
+      "codename": "Galford"
+    },
+    "Jubei Yagyu": {
+      "codename": "Jubei"
+    },
+    "Earthquake": {
+      "codename": "Earthquake"
+    },
+    "Shiki": {
+      "codename": "Shiki"
+    },
+    "Ukyo": {
+      "codename": "Ukyo"
+    },
+    "Yoshitora Tokugawa": {
+      "codename": "Yoshitora"
+    },
+    "Hanzo Hattori": {
+      "codename": "Hanzo"
+    },
+    "Kyoshiro Senryo": {
+      "codename": "Kyoshiro"
+    },
+    "Tam Tam": {
+      "codename": "TamTam"
+    },
+    "Yashamaru Kurama": {
+      "codename": "Yashamaru"
+    },
+    "Darli Dagger": {
+      "codename": "Darli"
+    },
+    "Wu-Ruixiang": {
+      "codename": "WuRuixiang"
+    },
+    "Shizuka Gozen": {
+      "codename": "Shizuka"
+    },
+    "Rimururu": {
+      "codename": "Rimururu"
+    },
+    "Shizumaru Hisame": {
+      "codename": "Shizumaru"
+    },
+    "Basara": {
+      "codename": "Basara"
+    },
+    "Kazuki Kazama": {
+      "codename": "Kazuki"
+    },
+    "Wan-Fu": {
+      "codename": "WanFu"
+    },
+    "Mina Majikina": {
+      "codename": "Mina"
+    },
+    "Sogetsu Kazama": {
+      "codename": "Sogetsu"
+    },
+    "Iroha": {
+      "codename": "Iroha"
+    },
+    "Cham Cham": {
+      "codename": "ChamCham"
+    },
+    "Shiro Tokisada Amakusa": {
+      "codename": "Amakusa"
+    },
+    "Hibiki Takane": {
+      "codename": "Hibiki"
+    },
+    "Warden": {
+      "codename": "Warden"
+    },
+    "Gongsun Li": {
+      "codename": "GongsunLi"
+    },
+    "Baiken": {
+      "codename": "Baiken"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

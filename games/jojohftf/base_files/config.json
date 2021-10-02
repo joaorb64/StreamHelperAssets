@@ -1,0 +1,76 @@
+{
+  "name": "Jojo's Bizarre Adventure: Heritage for the Future",
+  "smashgg_game_id": 36403,
+  "character_to_codename": {
+    "Jotaro Kujo": {
+      "codename": "Jotaro"
+    },
+    "Joseph Joestar": {
+      "codename": "Joseph"
+    },
+    "Jean Pierre Polnareff": {
+      "codename": "Polnareff"
+    },
+    "Noriaki Kakyoin": {
+      "codename": "Kakyoin"
+    },
+    "Muhammad Avdol": {
+      "codename": "Avdol"
+    },
+    "Iggy": {
+      "codename": "Iggy"
+    },
+    "Devo": {
+      "codename": "Devo"
+    },
+    "Chaka": {
+      "codename": "Chaka"
+    },
+    "Midler": {
+      "codename": "Midler"
+    },
+    "Alessi": {
+      "codename": "Alessi"
+    },
+    "DIO": {
+      "codename": "DIO"
+    },
+    "Proud Lineage Joseph": {
+      "codename": "Joseph2"
+    },
+    "Shadow DIO": {
+      "codename": "DIO2"
+    },
+    "Hol Horse": {
+      "codename": "HolHorse"
+    },
+    "Pet Shop": {
+      "codename": "PetShop"
+    },
+    "Mariah": {
+      "codename": "Mariah"
+    },
+    "Anubis Polnareff": {
+      "codename": "Polnareff2"
+    },
+    "Vanilla Ice": {
+      "codename": "VanillaIce"
+    },
+    "Rubber Soul": {
+      "codename": "RubberSoul"
+    },
+    "Khan": {
+      "codename": "Khan"
+    },
+    "Hol Horse & Boingo": {
+      "codename": "HolHorse2"
+    },
+    "Fearless Kakyoin": {
+      "codename": "Kakyoin2"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

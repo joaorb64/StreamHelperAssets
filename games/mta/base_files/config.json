@@ -1,0 +1,130 @@
+{
+  "name": "Mario Tennis Aces",
+  "smashgg_game_id": 2054,
+  "character_to_codename": {
+    "Mario": {
+      "smashgg_name": "Mario",
+      "codename": "Mario"
+    },
+    "Luigi": {
+      "smashgg_name": "Luigi",
+      "codename": "Luigi"
+    },
+    "Wario": {
+      "smashgg_name": "Wario",
+      "codename": "Wario"
+    },
+    "Waluigi": {
+      "smashgg_name": "Waluigi",
+      "codename": "Waluigi"
+    },
+    "Peach": {
+      "smashgg_name": "Peach",
+      "codename": "Peach"
+    },
+    "Daisy": {
+      "smashgg_name": "Daisy",
+      "codename": "Daisy"
+    },
+    "Rosalina": {
+      "smashgg_name": "Rosalina",
+      "codename": "Rosalina"
+    },
+    "Toad": {
+      "smashgg_name": "Toad",
+      "codename": "Toad"
+    },
+    "Toadette": {
+      "smashgg_name": "Toadette",
+      "codename": "Toadette"
+    },
+    "Yoshi": {
+      "smashgg_name": "Yoshi",
+      "codename": "Yoshi"
+    },
+    "Bowser": {
+      "smashgg_name": "Bowser",
+      "codename": "Bowser"
+    },
+    "Bowser Jr.": {
+      "smashgg_name": "Bowser Jr.",
+      "codename": "BowserJr"
+    },
+    "Boo": {
+      "smashgg_name": "Boo",
+      "codename": "Boo"
+    },
+    "Spike": {
+      "smashgg_name": "Spike",
+      "codename": "Spike"
+    },
+    "Donkey Kong": {
+      "smashgg_name": "Donkey Kong",
+      "codename": "DonkeyKong"
+    },
+    "Chain Chomp": {
+      "smashgg_name": "Chain Chomp",
+      "codename": "ChainChomp"
+    },
+    "Koopa Troopa": {
+      "smashgg_name": "Koopa Troopa",
+      "codename": "KoopaTroopa"
+    },
+    "Blooper": {
+      "smashgg_name": "Blooper",
+      "codename": "Blooper"
+    },
+    "Diddy Kong": {
+      "smashgg_name": "Diddy Kong",
+      "codename": "DiddyKong"
+    },
+    "Birdo": {
+      "smashgg_name": "Birdo",
+      "codename": "Birdo"
+    },
+    "Koopa Paratroopa": {
+      "smashgg_name": "Koopa Paratroopa",
+      "codename": "KoopaParatroopa"
+    },
+    "Shy Guy": {
+      "smashgg_name": "Shy Guy",
+      "codename": "ShyGuy"
+    },
+    "Petey Piranha": {
+      "smashgg_name": "Petey Piranha",
+      "codename": "PeteyPiranha"
+    },
+    "Boom Boom": {
+      "smashgg_name": "Boom Boom",
+      "codename": "BoomBoom"
+    },
+    "Luma": {
+      "smashgg_name": "Luma",
+      "codename": "Luma"
+    },
+    "Pauline": {
+      "smashgg_name": "Pauline",
+      "codename": "Pauline"
+    },
+    "Kamek": {
+      "smashgg_name": "Kamek",
+      "codename": "Kamek"
+    },
+    "Dry Bones": {
+      "smashgg_name": "Dry Bones",
+      "codename": "DryBones"
+    },
+    "Fire Piranha Plant": {
+      "smashgg_name": "Fire Piranha Plant",
+      "codename": "FirePiranhaPlant"
+    },
+    "Dry Bowser": {
+      "smashgg_name": "Dry Bowser",
+      "codename": "DryBowser"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

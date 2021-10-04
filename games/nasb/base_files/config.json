@@ -1,0 +1,70 @@
+{
+  "name": "Nickelodeon All-Star Brawl",
+  "smashgg_game_id": 39281,
+  "character_to_codename": {
+    "SpongeBob SquarePants": {
+      "codename": "apple"
+    },
+    "Patrick Star": {
+      "codename": "star"
+    },
+    "Sandy Cheeks": {
+      "codename": "diver"
+    },
+    "Aang": {
+      "codename": "kite"
+    },
+    "Toph Beifong": {
+      "codename": "rock"
+    },
+    "Korra": {
+      "codename": "athlete"
+    },
+    "Leonardo": {
+      "codename": "moon"
+    },
+    "Michaelangelo": {
+      "codename": "pizza"
+    },
+    "April O'Neil": {
+      "codename": "reporter"
+    },
+    "Lincoln Loud": {
+      "codename": "rascal"
+    },
+    "Lucy Loud": {
+      "codename": "goth"
+    },
+    "Ren & Stimpy": {
+      "codename": "duo"
+    },
+    "Powdered Toast Man": {
+      "codename": "hero"
+    },
+    "Reptar": {
+      "codename": "mascot"
+    },
+    "Zim": {
+      "codename": "alien"
+    },
+    "Danny Phantom": {
+      "codename": "plasma"
+    },
+    "Helga Pataki": {
+      "codename": "rival"
+    },
+    "Nigel Thornberry": {
+      "codename": "narrator"
+    },
+    "Oblina": {
+      "codename": "snake"
+    },
+    "CatDog": {
+      "codename": "chimera"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

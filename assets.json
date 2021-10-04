@@ -31,7 +31,7 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1598243
+                        "size": 1598242
                     }
                 },
                 "name": "ARMS",
@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61056034
+                        "size": 61056035
                     }
                 },
                 "name": "Renders",
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91202
+                        "size": 91201
                     }
                 },
                 "name": "Logos",
@@ -101,7 +101,7 @@
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 8591201
+                        "size": 8591209
                     }
                 },
                 "name": "Renders",
@@ -159,7 +159,7 @@
                 "files": {
                     "ggxxacpr.full.7z": {
                         "name": "ggxxacpr.full.7z",
-                        "size": 16631271
+                        "size": 16631264
                     }
                 },
                 "name": "Portraits",
@@ -188,7 +188,7 @@
                 "files": {
                     "jojohftf.full.7z": {
                         "name": "jojohftf.full.7z",
-                        "size": 519586
+                        "size": 519588
                     }
                 },
                 "name": "Portraits",
@@ -205,7 +205,7 @@
                 "files": {
                     "killerinstinct.base_files.7z": {
                         "name": "killerinstinct.base_files.7z",
-                        "size": 743941
+                        "size": 743943
                     }
                 },
                 "name": "Killer Instinct (2013)",
@@ -263,7 +263,7 @@
                 "files": {
                     "msc.card.7z": {
                         "name": "msc.card.7z",
-                        "size": 2149377
+                        "size": 2149378
                     }
                 },
                 "name": "Challenge Cards",
@@ -292,7 +292,7 @@
                 "files": {
                     "mta.base_files.7z": {
                         "name": "mta.base_files.7z",
-                        "size": 688009
+                        "size": 688012
                     }
                 },
                 "name": "Mario Tennis Aces",
@@ -304,7 +304,7 @@
                 "files": {
                     "mta.full.7z": {
                         "name": "mta.full.7z",
-                        "size": 22531927
+                        "size": 22531928
                     }
                 },
                 "name": "Renders",
@@ -316,7 +316,7 @@
                 "files": {
                     "mta.logo.7z": {
                         "name": "mta.logo.7z",
-                        "size": 1702121
+                        "size": 1702122
                     }
                 },
                 "name": "Emblems",
@@ -324,6 +324,23 @@
             }
         },
         "name": "Mario Tennis Aces"
+    },
+    "nasb": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "nasb.base_files.7z": {
+                        "name": "nasb.base_files.7z",
+                        "size": 8767244
+                    }
+                },
+                "name": "Nickelodeon All-Star Brawl",
+                "version": "1.0"
+            }
+        },
+        "name": "Nickelodeon All-Star Brawl"
     },
     "samsho2019": {
         "assets": {
@@ -333,7 +350,7 @@
                 "files": {
                     "samsho2019.base_files.7z": {
                         "name": "samsho2019.base_files.7z",
-                        "size": 1099899
+                        "size": 1099900
                     }
                 },
                 "name": "Samurai Shodown (2019)",
@@ -345,7 +362,7 @@
                 "files": {
                     "samsho2019.full.7z": {
                         "name": "samsho2019.full.7z",
-                        "size": 22444667
+                        "size": 22444668
                     }
                 },
                 "name": "Renders",
@@ -362,7 +379,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5553230
+                        "size": 5553233
                     }
                 },
                 "name": "Street Fighter V",
@@ -374,7 +391,7 @@
                 "files": {
                     "sfv.full.7z": {
                         "name": "sfv.full.7z",
-                        "size": 23365960
+                        "size": 23365962
                     }
                 },
                 "name": "Portraits",
@@ -391,7 +408,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27549
+                        "size": 27551
                     }
                 },
                 "name": "Super Smash Bros",
@@ -415,7 +432,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 335246
+                        "size": 335247
                     }
                 },
                 "name": "Portraits",
@@ -432,7 +449,7 @@
                 "files": {
                     "ssbm.base_files.7z": {
                         "name": "ssbm.base_files.7z",
-                        "size": 89165
+                        "size": 89166
                     }
                 },
                 "name": "Super Smash Bros Melee",
@@ -444,7 +461,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124536
+                        "size": 4124538
                     }
                 },
                 "name": "Portraits",
@@ -456,7 +473,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095988
+                        "size": 3095989
                     }
                 },
                 "name": "Stage Icons",
@@ -473,7 +490,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159614
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -485,7 +502,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022461
+                        "size": 296022469
                     }
                 },
                 "name": "Full",
@@ -497,7 +514,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 462364097
+                        "size": 462364098
                     }
                 },
                 "name": "Mural arts",
@@ -521,7 +538,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 29370012
+                        "size": 29370013
                     }
                 },
                 "name": "Stage Icons",
@@ -533,7 +550,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934026
+                        "size": 417934031
                     }
                 },
                 "name": "Webms",
@@ -567,7 +584,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991344
+                        "size": 1991345
                     }
                 },
                 "name": "Tekken 7",

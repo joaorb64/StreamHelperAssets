@@ -1,8 +1,10 @@
-
 # Nickelodeon All-Star Brawl
 
-## Description:
+## Description: 
+
 Base config to use this game.
 
-## Credits:
+## Credits: 
+
+
 

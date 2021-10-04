@@ -3,68 +3,88 @@
   "smashgg_game_id": 39281,
   "character_to_codename": {
     "SpongeBob SquarePants": {
+      "smashgg_name": "SpongeBob",
       "codename": "apple"
     },
     "Patrick Star": {
+      "smashgg_name": "Patrick",
       "codename": "star"
     },
     "Sandy Cheeks": {
+      "smashgg_name": "Sandy",
       "codename": "diver"
     },
     "Aang": {
+      "smashgg_name": "Aang",
       "codename": "kite"
     },
     "Toph Beifong": {
+      "smashgg_name": "Toph",
       "codename": "rock"
     },
     "Korra": {
+      "smashgg_name": "Korra",
       "codename": "athlete"
     },
     "Leonardo": {
+      "smashgg_name": "Leonardo",
       "codename": "moon"
     },
-    "Michaelangelo": {
+    "Michelangelo": {
+      "smashgg_name": "Michelangelo",
       "codename": "pizza"
     },
     "April O'Neil": {
+      "smashgg_name": "April",
       "codename": "reporter"
     },
     "Lincoln Loud": {
+      "smashgg_name": "Lincoln",
       "codename": "rascal"
     },
     "Lucy Loud": {
+      "smashgg_name": "Lucy",
       "codename": "goth"
     },
     "Ren & Stimpy": {
+      "smashgg_name": "Ren & Stimpy",
       "codename": "duo"
     },
     "Powdered Toast Man": {
+      "smashgg_name": "Powdered Toast Man",
       "codename": "hero"
     },
     "Reptar": {
+      "smashgg_name": "Reptar",
       "codename": "mascot"
     },
     "Zim": {
+      "smashgg_name": "Zim",
       "codename": "alien"
     },
     "Danny Phantom": {
+      "smashgg_name": "Danny Phantom",
       "codename": "plasma"
     },
     "Helga Pataki": {
+      "smashgg_name": "Helga",
       "codename": "rival"
     },
     "Nigel Thornberry": {
+      "smashgg_name": "Nigel",
       "codename": "narrator"
     },
     "Oblina": {
+      "smashgg_name": "Oblina",
       "codename": "snake"
     },
     "CatDog": {
+      "smashgg_name": "CatDog",
       "codename": "chimera"
     }
   },
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.1",
   "description": "Base config to use this game.",
   "credits": ""
 }

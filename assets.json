@@ -7,7 +7,7 @@
                 "files": {
                     "arms.badge.7z": {
                         "name": "arms.badge.7z",
-                        "size": 300262
+                        "size": 300263
                     }
                 },
                 "name": "Badges",
@@ -31,7 +31,7 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1598242
+                        "size": 1598243
                     }
                 },
                 "name": "ARMS",
@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61056035
+                        "size": 61056042
                     }
                 },
                 "name": "Renders",
@@ -101,7 +101,7 @@
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 8591202
+                        "size": 8591201
                     }
                 },
                 "name": "Renders",
@@ -130,7 +130,7 @@
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 10656594
+                        "size": 10656586
                     }
                 },
                 "name": "Renders",
@@ -222,7 +222,7 @@
                 "files": {
                     "mbtl.base_files.7z": {
                         "name": "mbtl.base_files.7z",
-                        "size": 110536
+                        "size": 110537
                     }
                 },
                 "name": "Melty Blood: Type Lumina",
@@ -251,7 +251,7 @@
                 "files": {
                     "msc.base_files.7z": {
                         "name": "msc.base_files.7z",
-                        "size": 621826
+                        "size": 621825
                     }
                 },
                 "name": "Mario Strikers Charged",
@@ -304,7 +304,7 @@
                 "files": {
                     "mta.full.7z": {
                         "name": "mta.full.7z",
-                        "size": 22531928
+                        "size": 22531929
                     }
                 },
                 "name": "Renders",
@@ -333,11 +333,23 @@
                 "files": {
                     "nasb.base_files.7z": {
                         "name": "nasb.base_files.7z",
-                        "size": 8767338
+                        "size": 8714627
                     }
                 },
                 "name": "Nickelodeon All-Star Brawl",
-                "version": "1.1"
+                "version": "1.2"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character renders",
+                "files": {
+                    "nasb.full.7z": {
+                        "name": "nasb.full.7z",
+                        "size": 13330998
+                    }
+                },
+                "name": "Renders",
+                "version": "1.0"
             }
         },
         "name": "Nickelodeon All-Star Brawl"
@@ -461,7 +473,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124538
+                        "size": 4124539
                     }
                 },
                 "name": "Portraits",
@@ -502,7 +514,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022470
+                        "size": 296022469
                     }
                 },
                 "name": "Full",
@@ -526,7 +538,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953191
+                        "size": 25953192
                     }
                 },
                 "name": "Portraits",
@@ -538,7 +550,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 29370012
+                        "size": 29370013
                     }
                 },
                 "name": "Stage Icons",
@@ -550,7 +562,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934031
+                        "size": 417934025
                     }
                 },
                 "name": "Webms",
@@ -567,7 +579,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z": {
                         "name": "ssbwiiu.base_files.7z",
-                        "size": 70425
+                        "size": 70424
                     }
                 },
                 "name": "Super Smash Bros. for Wii U",
@@ -584,7 +596,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991345
+                        "size": 1991344
                     }
                 },
                 "name": "Tekken 7",
@@ -601,7 +613,7 @@
                 "files": {
                     "windjammers.base_files.7z": {
                         "name": "windjammers.base_files.7z",
-                        "size": 31526
+                        "size": 31525
                     }
                 },
                 "name": "Windjammers",

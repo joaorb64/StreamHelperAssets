@@ -83,8 +83,69 @@
       "codename": "chimera"
     }
   },
-  "stage_to_codename": {},
-  "version": "1.2",
+  "stage_to_codename": {
+    "Western Air Temple": {
+      "codename": "AirTemple"
+    },
+    "Irken Armada Invasion": {
+      "codename": "Armada"
+    },
+    "CatDog’s House": {
+      "codename": "CatDogHouse"
+    },
+    "Royal Woods Cemetery": {
+      "codename": "Cemetery"
+    },
+    "The Dump": {
+      "codename": "Dumpster"
+    },
+    "The Flying Dutchman’s Ship": {
+      "codename": "FlyingDutchman"
+    },
+    "Ghost Zone": {
+      "codename": "GhostZone"
+    },
+    "Glove World": {
+      "codename": "GloveWorld"
+    },
+    "Jellyfish Fields": {
+      "codename": "JellyFishFields"
+    },
+    "Powdered Toast Trouble": {
+      "codename": "Kitchen"
+    },
+    "The Loud House": {
+      "codename": "LoudHouse"
+    },
+    "Omashu": {
+      "codename": "Omashu"
+    },
+    "Showdown at Teeter Totter Gulch": {
+      "codename": "Playground"
+    },
+    "Harmonic Convergence": {
+      "codename": "Portals"
+    },
+    "Rooftop Rumble": {
+      "codename": "Rooftop"
+    },
+    "Traffic Jam": {
+      "codename": "SchoolBus"
+    },
+    "Sewers Slam": {
+      "codename": "Sewers"
+    },
+    "Space Madness": {
+      "codename": "SpaceMadness"
+    },
+    "Technodrome Takedown": {
+      "codename": "Technodome"
+    },
+    "Wild Waterfall": {
+      "codename": "WildJungle"
+    }
+  },
+  "version": "1.3",
   "description": "Base config to use this game.",
   "credits": ""
 }

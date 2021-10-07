@@ -7,7 +7,7 @@
                 "files": {
                     "arms.badge.7z": {
                         "name": "arms.badge.7z",
-                        "size": 300263
+                        "size": 300262
                     }
                 },
                 "name": "Badges",
@@ -31,19 +31,19 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1598243
+                        "size": 1598523
                     }
                 },
                 "name": "ARMS",
-                "version": "1.2"
+                "version": "1.3"
             },
             "full": {
-                "credits": "@Frosty_4267 & @LOSER_31_56 for the alternate color renders",
+                "credits": "@Frosty_4267 & @LOSER_31_56 for the alternate color renders\n@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61056042
+                        "size": 61056059
                     }
                 },
                 "name": "Renders",
@@ -59,6 +59,18 @@
                     }
                 },
                 "name": "Logos",
+                "version": "1.0"
+            },
+            "stage_icon": {
+                "credits": "g",
+                "description": "Stage icons",
+                "files": {
+                    "arms.stage_icon.7z": {
+                        "name": "arms.stage_icon.7z",
+                        "size": 7387744
+                    }
+                },
+                "name": "Stages",
                 "version": "1.0"
             }
         },
@@ -89,19 +101,19 @@
                 "files": {
                     "fexl.base_files.7z": {
                         "name": "fexl.base_files.7z",
-                        "size": 8760201
+                        "size": 8760200
                     }
                 },
                 "name": "Fighting EX Layer",
                 "version": "1.0"
             },
             "full": {
-                "credits": "",
+                "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 8591201
+                        "size": 8591227
                     }
                 },
                 "name": "Renders",
@@ -125,12 +137,12 @@
                 "version": "1.1"
             },
             "full": {
-                "credits": "",
+                "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 10656586
+                        "size": 10656615
                     }
                 },
                 "name": "Renders",
@@ -154,12 +166,12 @@
                 "version": "1.0"
             },
             "full": {
-                "credits": "Files ripped from Dustloop Wiki",
+                "credits": "Files ripped from Dustloop Wiki\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
                     "ggxxacpr.full.7z": {
                         "name": "ggxxacpr.full.7z",
-                        "size": 16631264
+                        "size": 16631262
                     }
                 },
                 "name": "Portraits",
@@ -183,12 +195,12 @@
                 "version": "1.0"
             },
             "full": {
-                "credits": "",
+                "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
                     "jojohftf.full.7z": {
                         "name": "jojohftf.full.7z",
-                        "size": 519588
+                        "size": 519615
                     }
                 },
                 "name": "Portraits",
@@ -205,7 +217,7 @@
                 "files": {
                     "killerinstinct.base_files.7z": {
                         "name": "killerinstinct.base_files.7z",
-                        "size": 743943
+                        "size": 743942
                     }
                 },
                 "name": "Killer Instinct (2013)",
@@ -222,19 +234,19 @@
                 "files": {
                     "mbtl.base_files.7z": {
                         "name": "mbtl.base_files.7z",
-                        "size": 110537
+                        "size": 110536
                     }
                 },
                 "name": "Melty Blood: Type Lumina",
                 "version": "1.0"
             },
             "full": {
-                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)",
+                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
                     "mbtl.full.7z": {
                         "name": "mbtl.full.7z",
-                        "size": 4626026
+                        "size": 4626105
                     }
                 },
                 "name": "Portraits",
@@ -251,7 +263,7 @@
                 "files": {
                     "msc.base_files.7z": {
                         "name": "msc.base_files.7z",
-                        "size": 621825
+                        "size": 621826
                     }
                 },
                 "name": "Mario Strikers Charged",
@@ -270,12 +282,12 @@
                 "version": "1.0"
             },
             "full": {
-                "credits": "",
+                "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Artworks",
                 "files": {
                     "msc.full.7z": {
                         "name": "msc.full.7z",
-                        "size": 16855618
+                        "size": 16855624
                     }
                 },
                 "name": "Artwork",
@@ -292,7 +304,7 @@
                 "files": {
                     "mta.base_files.7z": {
                         "name": "mta.base_files.7z",
-                        "size": 688012
+                        "size": 688011
                     }
                 },
                 "name": "Mario Tennis Aces",
@@ -316,7 +328,7 @@
                 "files": {
                     "mta.logo.7z": {
                         "name": "mta.logo.7z",
-                        "size": 1702122
+                        "size": 1702121
                     }
                 },
                 "name": "Emblems",
@@ -333,22 +345,34 @@
                 "files": {
                     "nasb.base_files.7z": {
                         "name": "nasb.base_files.7z",
-                        "size": 8714627
+                        "size": 8714961
                     }
                 },
                 "name": "Nickelodeon All-Star Brawl",
-                "version": "1.2"
+                "version": "1.3"
             },
             "full": {
-                "credits": "",
+                "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
                     "nasb.full.7z": {
                         "name": "nasb.full.7z",
-                        "size": 13330998
+                        "size": 13331030
                     }
                 },
                 "name": "Renders",
+                "version": "1.1"
+            },
+            "stage_icon": {
+                "credits": "g",
+                "description": "Stage icons",
+                "files": {
+                    "nasb.stage_icon.7z": {
+                        "name": "nasb.stage_icon.7z",
+                        "size": 68239572
+                    }
+                },
+                "name": "Stages",
                 "version": "1.0"
             }
         },
@@ -369,12 +393,12 @@
                 "version": "1.0"
             },
             "full": {
-                "credits": "",
+                "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
                     "samsho2019.full.7z": {
                         "name": "samsho2019.full.7z",
-                        "size": 22444668
+                        "size": 22444695
                     }
                 },
                 "name": "Renders",
@@ -391,7 +415,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5553233
+                        "size": 5553232
                     }
                 },
                 "name": "Street Fighter V",
@@ -420,7 +444,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27552
+                        "size": 27550
                     }
                 },
                 "name": "Super Smash Bros",
@@ -444,7 +468,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 335247
+                        "size": 335246
                     }
                 },
                 "name": "Portraits",
@@ -473,7 +497,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124539
+                        "size": 4124537
                     }
                 },
                 "name": "Portraits",
@@ -502,7 +526,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159616
+                        "size": 5159614
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -514,7 +538,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022469
+                        "size": 296022471
                     }
                 },
                 "name": "Full",
@@ -526,7 +550,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 462364098
+                        "size": 462364096
                     }
                 },
                 "name": "Mural arts",
@@ -538,7 +562,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953192
+                        "size": 25953190
                     }
                 },
                 "name": "Portraits",
@@ -550,7 +574,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 29370013
+                        "size": 29370012
                     }
                 },
                 "name": "Stage Icons",
@@ -579,7 +603,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z": {
                         "name": "ssbwiiu.base_files.7z",
-                        "size": 70424
+                        "size": 70425
                     }
                 },
                 "name": "Super Smash Bros. for Wii U",
@@ -596,7 +620,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991344
+                        "size": 1991345
                     }
                 },
                 "name": "Tekken 7",
@@ -613,7 +637,7 @@
                 "files": {
                     "windjammers.base_files.7z": {
                         "name": "windjammers.base_files.7z",
-                        "size": 31525
+                        "size": 31526
                     }
                 },
                 "name": "Windjammers",

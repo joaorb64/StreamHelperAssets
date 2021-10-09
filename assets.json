@@ -43,11 +43,11 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 61056059
+                        "size": 58533909
                     }
                 },
                 "name": "Renders",
-                "version": "1.1"
+                "version": "1.2"
             },
             "logo": {
                 "credits": null,
@@ -55,19 +55,19 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91202
+                        "size": 91201
                     }
                 },
                 "name": "Logos",
                 "version": "1.0"
             },
             "stage_icon": {
-                "credits": "g",
+                "credits": "",
                 "description": "Stage icons",
                 "files": {
                     "arms.stage_icon.7z": {
                         "name": "arms.stage_icon.7z",
-                        "size": 7387744
+                        "size": 7387807
                     }
                 },
                 "name": "Stages",
@@ -101,7 +101,7 @@
                 "files": {
                     "fexl.base_files.7z": {
                         "name": "fexl.base_files.7z",
-                        "size": 8760200
+                        "size": 8760201
                     }
                 },
                 "name": "Fighting EX Layer",
@@ -113,7 +113,7 @@
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 8591227
+                        "size": 8591230
                     }
                 },
                 "name": "Renders",
@@ -142,7 +142,7 @@
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 10656615
+                        "size": 10656669
                     }
                 },
                 "name": "Renders",
@@ -159,7 +159,7 @@
                 "files": {
                     "ggxxacpr.base_files.7z": {
                         "name": "ggxxacpr.base_files.7z",
-                        "size": 266616
+                        "size": 266615
                     }
                 },
                 "name": "Guilty Gear XX Accent Core Plus R",
@@ -171,7 +171,7 @@
                 "files": {
                     "ggxxacpr.full.7z": {
                         "name": "ggxxacpr.full.7z",
-                        "size": 16631262
+                        "size": 16631341
                     }
                 },
                 "name": "Portraits",
@@ -200,7 +200,7 @@
                 "files": {
                     "jojohftf.full.7z": {
                         "name": "jojohftf.full.7z",
-                        "size": 519615
+                        "size": 519617
                     }
                 },
                 "name": "Portraits",
@@ -246,7 +246,7 @@
                 "files": {
                     "mbtl.full.7z": {
                         "name": "mbtl.full.7z",
-                        "size": 4626105
+                        "size": 4626115
                     }
                 },
                 "name": "Portraits",
@@ -287,7 +287,7 @@
                 "files": {
                     "msc.full.7z": {
                         "name": "msc.full.7z",
-                        "size": 16855624
+                        "size": 16855616
                     }
                 },
                 "name": "Artwork",
@@ -316,7 +316,7 @@
                 "files": {
                     "mta.full.7z": {
                         "name": "mta.full.7z",
-                        "size": 22531929
+                        "size": 22531935
                     }
                 },
                 "name": "Renders",
@@ -328,7 +328,7 @@
                 "files": {
                     "mta.logo.7z": {
                         "name": "mta.logo.7z",
-                        "size": 1702121
+                        "size": 1702122
                     }
                 },
                 "name": "Emblems",
@@ -339,13 +339,25 @@
     },
     "nasb": {
         "assets": {
+            "ani": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Artwork from the original animated series",
+                "files": {
+                    "nasb.ani.7z": {
+                        "name": "nasb.ani.7z",
+                        "size": 7086547
+                    }
+                },
+                "name": "Source Artwork",
+                "version": "1.0"
+            },
             "base_files": {
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
                     "nasb.base_files.7z": {
                         "name": "nasb.base_files.7z",
-                        "size": 8714961
+                        "size": 8714962
                     }
                 },
                 "name": "Nickelodeon All-Star Brawl",
@@ -357,19 +369,19 @@
                 "files": {
                     "nasb.full.7z": {
                         "name": "nasb.full.7z",
-                        "size": 13331030
+                        "size": 13331357
                     }
                 },
                 "name": "Renders",
                 "version": "1.1"
             },
             "stage_icon": {
-                "credits": "g",
+                "credits": "",
                 "description": "Stage icons",
                 "files": {
                     "nasb.stage_icon.7z": {
                         "name": "nasb.stage_icon.7z",
-                        "size": 68239572
+                        "size": 68240339
                     }
                 },
                 "name": "Stages",
@@ -398,7 +410,7 @@
                 "files": {
                     "samsho2019.full.7z": {
                         "name": "samsho2019.full.7z",
-                        "size": 22444695
+                        "size": 22444691
                     }
                 },
                 "name": "Renders",
@@ -415,7 +427,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5553232
+                        "size": 5553233
                     }
                 },
                 "name": "Street Fighter V",
@@ -444,7 +456,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27550
+                        "size": 27552
                     }
                 },
                 "name": "Super Smash Bros",
@@ -468,7 +480,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 335246
+                        "size": 335247
                     }
                 },
                 "name": "Portraits",
@@ -497,7 +509,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124537
+                        "size": 4124539
                     }
                 },
                 "name": "Portraits",
@@ -509,7 +521,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095988
+                        "size": 3095989
                     }
                 },
                 "name": "Stage Icons",
@@ -526,7 +538,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159614
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -538,7 +550,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022471
+                        "size": 296022470
                     }
                 },
                 "name": "Full",
@@ -550,7 +562,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 462364096
+                        "size": 462364089
                     }
                 },
                 "name": "Mural arts",
@@ -574,7 +586,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 29370012
+                        "size": 29370019
                     }
                 },
                 "name": "Stage Icons",
@@ -586,7 +598,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934025
+                        "size": 417934024
                     }
                 },
                 "name": "Webms",
@@ -603,7 +615,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z": {
                         "name": "ssbwiiu.base_files.7z",
-                        "size": 70425
+                        "size": 70424
                     }
                 },
                 "name": "Super Smash Bros. for Wii U",
@@ -620,7 +632,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991345
+                        "size": 1991344
                     }
                 },
                 "name": "Tekken 7",

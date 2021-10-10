@@ -1,0 +1,70 @@
+{
+  "name": "Street Fighter III: Third Strike",
+  "smashgg_game_id": 610,
+  "character_to_codename": {
+    "Alex": {
+      "codename": "Alex"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Ken": {
+      "codename": "Ken"
+    },
+    "Sean": {
+      "codename": "Sean"
+    },
+    "Dudley": {
+      "codename": "Dudley"
+    },
+    "Necro": {
+      "codename": "Necro"
+    },
+    "Oro": {
+      "codename": "Oro"
+    },
+    "Elena": {
+      "codename": "Elena"
+    },
+    "Ibuki": {
+      "codename": "Ibuki"
+    },
+    "Makoto": {
+      "codename": "Makoto"
+    },
+    "Yang": {
+      "codename": "Yang"
+    },
+    "Yun": {
+      "codename": "Yun"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Hugo": {
+      "codename": "Hugo"
+    },
+    "Remy": {
+      "codename": "Remy"
+    },
+    "Akuma": {
+      "codename": "Akuma"
+    },
+    "Q": {
+      "codename": "Q"
+    },
+    "Twelve": {
+      "codename": "Twelve"
+    },
+    "Urien": {
+      "codename": "Urien"
+    },
+    "Gill": {
+      "codename": "Gill"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

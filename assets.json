@@ -67,7 +67,7 @@
                 "files": {
                     "arms.stage_icon.7z": {
                         "name": "arms.stage_icon.7z",
-                        "size": 7387807
+                        "size": 7387797
                     }
                 },
                 "name": "Stages",
@@ -75,6 +75,23 @@
             }
         },
         "name": "ARMS"
+    },
+    "cvs2": {
+        "assets": {
+            "base_files": {
+                "credits": "Assets ripped from SRK Wiki (https://srk.shib.live/w/Capcom_vs_SNK_2)",
+                "description": "Base config to use this game.",
+                "files": {
+                    "cvs2.base_files.7z": {
+                        "name": "cvs2.base_files.7z",
+                        "size": 469252
+                    }
+                },
+                "name": "Capcom VS SNK 2: Mark of the Millenium 2001",
+                "version": "1.0"
+            }
+        },
+        "name": "Capcom VS SNK 2: Mark of the Millenium 2001"
     },
     "dbfz": {
         "assets": {
@@ -84,7 +101,7 @@
                 "files": {
                     "dbfz.base_files.7z": {
                         "name": "dbfz.base_files.7z",
-                        "size": 4301032
+                        "size": 4301033
                     }
                 },
                 "name": "Dragon Ball FighterZ",
@@ -121,6 +138,35 @@
             }
         },
         "name": "Fighting EX Layer"
+    },
+    "garoumotw": {
+        "assets": {
+            "base_files": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Base config to use this game.",
+                "files": {
+                    "garoumotw.base_files.7z": {
+                        "name": "garoumotw.base_files.7z",
+                        "size": 278903
+                    }
+                },
+                "name": "Garou: Mark of the Wolves",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character portraits",
+                "files": {
+                    "garoumotw.full.7z": {
+                        "name": "garoumotw.full.7z",
+                        "size": 552421
+                    }
+                },
+                "name": "Portraits",
+                "version": "1.0"
+            }
+        },
+        "name": "Garou: Mark of the Wolves"
     },
     "ggst": {
         "assets": {
@@ -263,7 +309,7 @@
                 "files": {
                     "msc.base_files.7z": {
                         "name": "msc.base_files.7z",
-                        "size": 621826
+                        "size": 621825
                     }
                 },
                 "name": "Mario Strikers Charged",
@@ -275,7 +321,7 @@
                 "files": {
                     "msc.card.7z": {
                         "name": "msc.card.7z",
-                        "size": 2149378
+                        "size": 2149377
                     }
                 },
                 "name": "Challenge Cards",
@@ -304,7 +350,7 @@
                 "files": {
                     "mta.base_files.7z": {
                         "name": "mta.base_files.7z",
-                        "size": 688011
+                        "size": 688012
                     }
                 },
                 "name": "Mario Tennis Aces",
@@ -316,7 +362,7 @@
                 "files": {
                     "mta.full.7z": {
                         "name": "mta.full.7z",
-                        "size": 22531935
+                        "size": 22531929
                     }
                 },
                 "name": "Renders",
@@ -337,6 +383,35 @@
         },
         "name": "Mario Tennis Aces"
     },
+    "mvc2": {
+        "assets": {
+            "base_files": {
+                "credits": "Assets ripped from SRK Wiki (https://srk.shib.live/w/Marvel_vs_Capcom_2)",
+                "description": "Base config to use this game.",
+                "files": {
+                    "mvc2.base_files.7z": {
+                        "name": "mvc2.base_files.7z",
+                        "size": 574563
+                    }
+                },
+                "name": "Marvel VS Capcom 2: New Age of Heroes",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character portraits",
+                "files": {
+                    "mvc2.full.7z": {
+                        "name": "mvc2.full.7z",
+                        "size": 46265961
+                    }
+                },
+                "name": "Portraits",
+                "version": "1.0"
+            }
+        },
+        "name": "Marvel VS Capcom 2: New Age of Heroes"
+    },
     "nasb": {
         "assets": {
             "ani": {
@@ -345,7 +420,7 @@
                 "files": {
                     "nasb.ani.7z": {
                         "name": "nasb.ani.7z",
-                        "size": 7086547
+                        "size": 7086613
                     }
                 },
                 "name": "Source Artwork",
@@ -357,7 +432,7 @@
                 "files": {
                     "nasb.base_files.7z": {
                         "name": "nasb.base_files.7z",
-                        "size": 8714962
+                        "size": 8714961
                     }
                 },
                 "name": "Nickelodeon All-Star Brawl",
@@ -381,7 +456,7 @@
                 "files": {
                     "nasb.stage_icon.7z": {
                         "name": "nasb.stage_icon.7z",
-                        "size": 68240339
+                        "size": 68240519
                     }
                 },
                 "name": "Stages",
@@ -418,6 +493,47 @@
             }
         },
         "name": "Samurai Shodown (2019)"
+    },
+    "sf3ts": {
+        "assets": {
+            "base_files": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Base config to use this game.",
+                "files": {
+                    "sf3ts.base_files.7z": {
+                        "name": "sf3ts.base_files.7z",
+                        "size": 43810
+                    }
+                },
+                "name": "Street Fighter III: Third Strike",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character portraits",
+                "files": {
+                    "sf3ts.full.7z": {
+                        "name": "sf3ts.full.7z",
+                        "size": 10608052
+                    }
+                },
+                "name": "Portraits",
+                "version": "1.0"
+            },
+            "full_new": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character portraits from Street Fighter III: Third Strike - Online Edition",
+                "files": {
+                    "sf3ts.full_new.7z": {
+                        "name": "sf3ts.full_new.7z",
+                        "size": 11189637
+                    }
+                },
+                "name": "Portraits (Online Edition)",
+                "version": "1.0"
+            }
+        },
+        "name": "Street Fighter III: Third Strike"
     },
     "sfv": {
         "assets": {
@@ -509,7 +625,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124539
+                        "size": 4124538
                     }
                 },
                 "name": "Portraits",
@@ -521,7 +637,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095989
+                        "size": 3095988
                     }
                 },
                 "name": "Stage Icons",
@@ -562,7 +678,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 462364089
+                        "size": 462364097
                     }
                 },
                 "name": "Mural arts",
@@ -574,7 +690,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953190
+                        "size": 25953192
                     }
                 },
                 "name": "Portraits",
@@ -586,7 +702,7 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 29370019
+                        "size": 29370013
                     }
                 },
                 "name": "Stage Icons",
@@ -649,7 +765,7 @@
                 "files": {
                     "windjammers.base_files.7z": {
                         "name": "windjammers.base_files.7z",
-                        "size": 31526
+                        "size": 31525
                     }
                 },
                 "name": "Windjammers",

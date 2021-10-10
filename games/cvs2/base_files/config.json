@@ -1,0 +1,154 @@
+{
+  "name": "Marvel VS Capcom 2: New Age of Heroes",
+  "smashgg_game_id": 1731,
+  "character_to_codename": {
+    "Akuma": {
+      "codename": "Akuma"
+    },
+    "Balrog": {
+      "codename": "Balrog"
+    },
+    "Blanka": {
+      "codename": "Blanka"
+    },
+    "Cammy": {
+      "codename": "Cammy"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Dan": {
+      "codename": "Dan"
+    },
+    "Dhalsim": {
+      "codename": "Dhalsim"
+    },
+    "Eagle": {
+      "codename": "Eagle"
+    },
+    "E.Honda": {
+      "codename": "EHonda"
+    },
+    "Guile": {
+      "codename": "Guile"
+    },
+    "Ken": {
+      "codename": "Ken"
+    },
+    "Kyosuke": {
+      "codename": "Kyosuke"
+    },
+    "Maki": {
+      "codename": "Maki"
+    },
+    "M. Bison": {
+      "codename": "MBison"
+    },
+    "Morrigan": {
+      "codename": "Morrigan"
+    },
+    "Rolento": {
+      "codename": "Rolento"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sagat": {
+      "codename": "Sagat"
+    },
+    "Sakura": {
+      "codename": "Sakura"
+    },
+    "Vega": {
+      "codename": "Vega"
+    },
+    "Yun": {
+      "codename": "Yun"
+    },
+    "Zangief": {
+      "codename": "Zangief"
+    },
+    "Athena": {
+      "codename": "Athena"
+    },
+    "Benimaru": {
+      "codename": "Benimaru"
+    },
+    "Chang": {
+      "codename": "Chang"
+    },
+    "Geese": {
+      "codename": "Geese"
+    },
+    "Haohmaru": {
+      "codename": "Haohmaru"
+    },
+    "Hibiki": {
+      "codename": "Hibiki"
+    },
+    "Iori": {
+      "codename": "Iori"
+    },
+    "Joe": {
+      "codename": "Joe"
+    },
+    "Kim": {
+      "codename": "Kim"
+    },
+    "King": {
+      "codename": "King"
+    },
+    "Kyo": {
+      "codename": "Kyo"
+    },
+    "Mai": {
+      "codename": "Mai"
+    },
+    "Nakoruru": {
+      "codename": "Nakoruru"
+    },
+    "Raiden": {
+      "codename": "Raiden"
+    },
+    "Rock": {
+      "codename": "Rock"
+    },
+    "Rugal": {
+      "codename": "Rugal"
+    },
+    "Ryo": {
+      "codename": "Ryo"
+    },
+    "Terry": {
+      "codename": "Terry"
+    },
+    "Todo": {
+      "codename": "Todo"
+    },
+    "Vice": {
+      "codename": "Vice"
+    },
+    "Yamazaki": {
+      "codename": "Yamazaki"
+    },
+    "Yuri": {
+      "codename": "Yuri"
+    },
+    "Shin Akuma": {
+      "codename": "ShinAkuma"
+    },
+    "Ultimate Rugal": {
+      "codename": "UltimateRugal"
+    },
+    "Evil Ryu": {
+      "codename": "EvilRyu"
+    },
+    "Orochi Iori": {
+      "codename": "OrochiIori"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from SRK Wiki (https://srk.shib.live/w/Capcom_vs_SNK_2)"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Garou: Mark of the Wolves",
+  "smashgg_game_id": 10838,
+  "character_to_codename": {
+    "Rock Howard": {
+      "codename": "Rock"
+    },
+    "Terry Bogard": {
+      "codename": "Terry"
+    },
+    "Kevin Rian": {
+      "codename": "Kevin"
+    },
+    "Bonne Jenet": {
+      "codename": "BJenet"
+    },
+    "Kim Dong-Hwan": {
+      "codename": "DongHwan"
+    },
+    "Kim Jae-Hoon": {
+      "codename": "JaeHoon"
+    },
+    "Gato": {
+      "codename": "Gato"
+    },
+    "Hotaru Futaba": {
+      "codename": "Hotaru"
+    },
+    "Hokutomaru": {
+      "codename": "Hokutomaru"
+    },
+    "Khushnood Butt": {
+      "codename": "Marco"
+    },
+    "Tizoc": {
+      "codename": "Griffon"
+    },
+    "Freeman": {
+      "codename": "Freeman"
+    },
+    "Grant": {
+      "codename": "Grant"
+    },
+    "Kain R. Heinlein": {
+      "codename": "Kain"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

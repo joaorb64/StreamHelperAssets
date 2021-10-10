@@ -17,7 +17,7 @@ for tag in parse_tables:
         character_icons_table = character_icons_table + tag.findAll(
             'span', {'style': f'text-align:center; float:left; overflow:hidden; margin-top: 5px; margin-right: 1px;'})
 
-game_id = 1731
+game_id = 39
 
 download_folder_name = "../download_smashgg/download"
 base_files_folder_name = f"{download_folder_name}/base_files"

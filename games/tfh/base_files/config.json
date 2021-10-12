@@ -1,0 +1,38 @@
+{
+  "name": "Them's Fightin' Herds",
+  "smashgg_game_id": 1150,
+  "character_to_codename": {
+    "Arizona": {
+      "smashgg_name": "Arizona",
+      "codename": "Arizona"
+    },
+    "Oleander": {
+      "smashgg_name": "Oleander",
+      "codename": "Oleander"
+    },
+    "Paprika": {
+      "smashgg_name": "Paprika",
+      "codename": "Paprika"
+    },
+    "Pom": {
+      "smashgg_name": "Pom",
+      "codename": "Pom"
+    },
+    "Tianhuo": {
+      "smashgg_name": "Tianhuo",
+      "codename": "Tianhuo"
+    },
+    "Velvet": {
+      "smashgg_name": "Velvet",
+      "codename": "Velvet"
+    },
+    "Shanty": {
+      "smashgg_name": "Shanty",
+      "codename": "Shanty"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

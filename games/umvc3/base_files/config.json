@@ -1,0 +1,160 @@
+{
+  "name": "Ultimate Marvel VS Capcom 3",
+  "smashgg_game_id": 18,
+  "character_to_codename": {
+    "Captain America": {
+      "codename": "CapAmerica"
+    },
+    "Deadpool": {
+      "codename": "DeadPool"
+    },
+    "Doctor Doom": {
+      "codename": "DrDoom"
+    },
+    "Doctor Strange": {
+      "codename": "DrStrange"
+    },
+    "Dormammu": {
+      "codename": "Dormammu"
+    },
+    "Ghost Rider": {
+      "codename": "GhostRider"
+    },
+    "Hawkeye": {
+      "codename": "HawkEye"
+    },
+    "Hulk": {
+      "codename": "Hulk"
+    },
+    "Iron Fist": {
+      "codename": "IronFist"
+    },
+    "Iron Man": {
+      "codename": "IronMan"
+    },
+    "Magneto": {
+      "codename": "Magneto"
+    },
+    "MODOK": {
+      "codename": "Modok"
+    },
+    "Nova": {
+      "codename": "Nova"
+    },
+    "Phoenix": {
+      "codename": "Phoenix"
+    },
+    "Rocket Raccoon": {
+      "codename": "RRaccoon"
+    },
+    "Sentinel": {
+      "codename": "Sentinel"
+    },
+    "She-Hulk": {
+      "codename": "SheHulk"
+    },
+    "Shuma-Gorath": {
+      "codename": "Shuma"
+    },
+    "Spider-Man": {
+      "codename": "SpiderMan"
+    },
+    "Storm": {
+      "codename": "Storm"
+    },
+    "Super-Skrull": {
+      "codename": "SuperSkrull"
+    },
+    "Taskmaster": {
+      "codename": "TaskMaster"
+    },
+    "Thor": {
+      "codename": "Thor"
+    },
+    "Wolverine": {
+      "codename": "Wolverine"
+    },
+    "X-23": {
+      "codename": "X23"
+    },
+    "Akuma": {
+      "codename": "Gouki"
+    },
+    "Albert Wesker": {
+      "codename": "Wesker"
+    },
+    "Amaterasu": {
+      "codename": "Amaterasu"
+    },
+    "Arthur": {
+      "codename": "Arthur"
+    },
+    "Chris Redfield": {
+      "codename": "Chris"
+    },
+    "Chun-Li": {
+      "codename": "Chunli"
+    },
+    "Crimson Viper": {
+      "codename": "CViper"
+    },
+    "Dante": {
+      "codename": "Dante"
+    },
+    "Felicia": {
+      "codename": "Felicia"
+    },
+    "Firebrand": {
+      "codename": "RedArremer"
+    },
+    "Frank West": {
+      "codename": "Frank"
+    },
+    "Hsien-Ko": {
+      "codename": "Leilei"
+    },
+    "Jill Valentine": {
+      "codename": "Jill"
+    },
+    "Mike Haggar": {
+      "codename": "Haggar"
+    },
+    "Morrigan Aensland": {
+      "codename": "Morrigan"
+    },
+    "Nathan Spencer": {
+      "codename": "Spencer"
+    },
+    "Nemesis T-Type": {
+      "codename": "Nemesis"
+    },
+    "Phoenix Wright": {
+      "codename": "Naruhodo"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Strider Hiryu": {
+      "codename": "Hiryu"
+    },
+    "Trish": {
+      "codename": "Trish"
+    },
+    "Tron Bonne": {
+      "codename": "Tron"
+    },
+    "Vergil": {
+      "codename": "Vergil"
+    },
+    "Viewtiful Joe": {
+      "codename": "VJoe"
+    },
+    "Zero": {
+      "codename": "Zero"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Touhou 12.3: Hisoutensoku",
+  "smashgg_game_id": 33882,
+  "character_to_codename": {
+    "Reimu Hakurei": {
+      "codename": "Reimu"
+    },
+    "Marisa Kirisame": {
+      "codename": "Marisa"
+    },
+    "Sakuya Izayoi": {
+      "codename": "Sakuya"
+    },
+    "Alice Margatroid": {
+      "codename": "Alice"
+    },
+    "Patchouli Knowledge": {
+      "codename": "Patchouli"
+    },
+    "Youmu Konpaku": {
+      "codename": "Youmu"
+    },
+    "Remilia Scarlet": {
+      "codename": "Remilia"
+    },
+    "Yuyuko Saigyouji": {
+      "codename": "Yuyuko"
+    },
+    "Yukari Yakumo": {
+      "codename": "Yukari"
+    },
+    "Suika Ibuki": {
+      "codename": "Suika"
+    },
+    "Sanae Kochiya": {
+      "codename": "Sanae"
+    },
+    "Cirno": {
+      "codename": "Cirno"
+    },
+    "Hong Meiling": {
+      "codename": "Meiling"
+    },
+    "Utsuho Reiuji": {
+      "codename": "Utsuho"
+    },
+    "Suwako Moriya": {
+      "codename": "Suwako"
+    },
+    "Reisen Udongein Inaba": {
+      "codename": "Reisen"
+    },
+    "Aya Shameimaru": {
+      "codename": "Aya"
+    },
+    "Komachi Onozuka": {
+      "codename": "Komachi"
+    },
+    "Iku Nagae": {
+      "codename": "Iku"
+    },
+    "Tenshi Hinanawi": {
+      "codename": "Tenshi"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "@ArdanDoInfinito for cropping and integrating the assets"
+}

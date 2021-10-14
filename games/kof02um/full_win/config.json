@@ -1,0 +1,11 @@
+{
+  "name": "Win Portraits",
+  "description": "Character Portraits as seen on the Results Screen",
+  "prefix": "win_chara_",
+  "postfix": "_",
+  "type": [
+    "full_win"
+  ],
+  "credits": "@ATRyoSakazaki for HD redraws\n@MathiasWolfbrok for cropping",
+  "version": "1.0"
+}

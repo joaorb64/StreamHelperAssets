@@ -1,0 +1,11 @@
+{
+  "name": "Character Select Portraits",
+  "description": "Character Portraits as seen on the Character Select Screen",
+  "prefix": "chara_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "@ATRyoSakazaki for HD redraws\n@MathiasWolfbrok for cropping",
+  "version": "1.0"
+}

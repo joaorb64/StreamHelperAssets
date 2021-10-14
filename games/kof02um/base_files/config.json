@@ -1,0 +1,208 @@
+{
+  "name": "The King of Fighters 2002: Unlimited Match",
+  "smashgg_game_id": 33632,
+  "character_to_codename": {
+    "Kyo Kusanagi": {
+      "codename": "05"
+    },
+    "Benimaru Nikaido": {
+      "codename": "06"
+    },
+    "Goro Daimon": {
+      "codename": "07"
+    },
+    "Iori Yagami": {
+      "codename": "41"
+    },
+    "Mature": {
+      "codename": "42"
+    },
+    "Vice": {
+      "codename": "43"
+    },
+    "Terry Bogard": {
+      "codename": "08"
+    },
+    "Andy Bogard": {
+      "codename": "09"
+    },
+    "Joe Higashi": {
+      "codename": "10"
+    },
+    "Ryo Sakazaki": {
+      "codename": "11"
+    },
+    "Robert Garcia": {
+      "codename": "12"
+    },
+    "Yuri Sakazaki": {
+      "codename": "13"
+    },
+    "Athena Asamiya": {
+      "codename": "17"
+    },
+    "Sie Kensou": {
+      "codename": "18"
+    },
+    "Bao": {
+      "codename": "19"
+    },
+    "Vanessa": {
+      "codename": "44"
+    },
+    "Seth": {
+      "codename": "45"
+    },
+    "Ramon": {
+      "codename": "46"
+    },
+    "Leona Heidern": {
+      "codename": "14"
+    },
+    "Ralf Jones": {
+      "codename": "15"
+    },
+    "Clark Still": {
+      "codename": "16"
+    },
+    "Yashiro Nanakase": {
+      "codename": "32"
+    },
+    "Shermie": {
+      "codename": "33"
+    },
+    "Chris": {
+      "codename": "34"
+    },
+    "Orochi Yashiro": {
+      "codename": "35"
+    },
+    "Orochi Shermie": {
+      "codename": "36"
+    },
+    "Orochi Chris": {
+      "codename": "37"
+    },
+    "K'": {
+      "codename": "02"
+    },
+    "Maxima": {
+      "codename": "03"
+    },
+    "Whip": {
+      "codename": "04"
+    },
+    "Angel": {
+      "codename": "49"
+    },
+    "Kula Diamond": {
+      "codename": "47"
+    },
+    "Foxy": {
+      "codename": "48"
+    },
+    "Kim Kaphwan": {
+      "codename": "26"
+    },
+    "Chang Koehan": {
+      "codename": "27"
+    },
+    "Choi Bounge": {
+      "codename": "28"
+    },
+    "Jhun Hoon": {
+      "codename": "29"
+    },
+    "Lin": {
+      "codename": "30"
+    },
+    "Shingo Yabuki": {
+      "codename": "31"
+    },
+    "Ryuji Yamazaki": {
+      "codename": "38"
+    },
+    "Blue Mary": {
+      "codename": "39"
+    },
+    "Billy Kane": {
+      "codename": "40"
+    },
+    "Heidern": {
+      "codename": "50"
+    },
+    "Takuma Sakazaki": {
+      "codename": "51"
+    },
+    "Chin Gentsai": {
+      "codename": "52"
+    },
+    "Li Xiangfei": {
+      "codename": "25"
+    },
+    "Hinako Shijou": {
+      "codename": "24"
+    },
+    "May Lee": {
+      "codename": "23"
+    },
+    "King": {
+      "codename": "20"
+    },
+    "Mai Shiranui": {
+      "codename": "21"
+    },
+    "Kasumi Todoh": {
+      "codename": "22"
+    },
+    "Kusanagi": {
+      "codename": "53"
+    },
+    "Kyo - 1": {
+      "codename": "55"
+    },
+    "Kyo - 2": {
+      "codename": "54"
+    },
+    "EX Kensou": {
+      "codename": "57"
+    },
+    "EX Robert": {
+      "codename": "56"
+    },
+    "EX Takuma": {
+      "codename": "58"
+    },
+    "Nameless": {
+      "codename": "01"
+    },
+    "Goenitz": {
+      "codename": "60"
+    },
+    "Geese": {
+      "codename": "61"
+    },
+    "Krizalid": {
+      "codename": "63"
+    },
+    "Clone Zero": {
+      "codename": "64"
+    },
+    "Omega Rugal": {
+      "codename": "59"
+    },
+    "Zero": {
+      "codename": "65"
+    },
+    "Igniz": {
+      "codename": "66"
+    },
+    "Nightmare Geese": {
+      "codename": "62"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "@ATRyoSakazaki for HD redraws\n@MathiasWolfbrok for cropping"
+}

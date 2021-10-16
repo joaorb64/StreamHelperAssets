@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 58533908
+                        "size": 58533916
                     }
                 },
                 "name": "Renders",
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91202
+                        "size": 91201
                     }
                 },
                 "name": "Logos",
@@ -101,7 +101,7 @@
                 "files": {
                     "dbfz.base_files.7z": {
                         "name": "dbfz.base_files.7z",
-                        "size": 4301032
+                        "size": 4301033
                     }
                 },
                 "name": "Dragon Ball FighterZ",
@@ -118,7 +118,7 @@
                 "files": {
                     "fexl.base_files.7z": {
                         "name": "fexl.base_files.7z",
-                        "size": 8760200
+                        "size": 8760201
                     }
                 },
                 "name": "Fighting EX Layer",
@@ -147,7 +147,7 @@
                 "files": {
                     "garoumotw.base_files.7z": {
                         "name": "garoumotw.base_files.7z",
-                        "size": 278893
+                        "size": 278892
                     }
                 },
                 "name": "Garou: Mark of the Wolves",
@@ -159,7 +159,7 @@
                 "files": {
                     "garoumotw.full.7z": {
                         "name": "garoumotw.full.7z",
-                        "size": 552477
+                        "size": 552475
                     }
                 },
                 "name": "Portraits",
@@ -188,7 +188,7 @@
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 10656668
+                        "size": 10656669
                     }
                 },
                 "name": "Renders",
@@ -205,7 +205,7 @@
                 "files": {
                     "ggxxacpr.base_files.7z": {
                         "name": "ggxxacpr.base_files.7z",
-                        "size": 266616
+                        "size": 266615
                     }
                 },
                 "name": "Guilty Gear XX Accent Core Plus R",
@@ -246,7 +246,7 @@
                 "files": {
                     "jojohftf.full.7z": {
                         "name": "jojohftf.full.7z",
-                        "size": 519618
+                        "size": 519617
                     }
                 },
                 "name": "Portraits",
@@ -304,7 +304,7 @@
                 "files": {
                     "kof02um.full_win.7z": {
                         "name": "kof02um.full_win.7z",
-                        "size": 59029837
+                        "size": 59029836
                     }
                 },
                 "name": "Win Portraits",
@@ -312,6 +312,35 @@
             }
         },
         "name": "The King of Fighters 2002: Unlimited Match"
+    },
+    "kofxiii": {
+        "assets": {
+            "base_files": {
+                "credits": "Assets ripped from Dream Cancel Wiki (https://dreamcancel.com/wiki/index.php/The_King_of_Fighters_XIII)",
+                "description": "Base config to use this game.",
+                "files": {
+                    "kofxiii.base_files.7z": {
+                        "name": "kofxiii.base_files.7z",
+                        "size": 415582
+                    }
+                },
+                "name": "The King of Fighters XIII",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character Portraits",
+                "files": {
+                    "kofxiii.full.7z": {
+                        "name": "kofxiii.full.7z",
+                        "size": 14845035
+                    }
+                },
+                "name": "Portraits",
+                "version": "1.0"
+            }
+        },
+        "name": "The King of Fighters XIII"
     },
     "mbtl": {
         "assets": {
@@ -362,7 +391,7 @@
                 "files": {
                     "msc.card.7z": {
                         "name": "msc.card.7z",
-                        "size": 2149378
+                        "size": 2149377
                     }
                 },
                 "name": "Challenge Cards",
@@ -403,7 +432,7 @@
                 "files": {
                     "mta.full.7z": {
                         "name": "mta.full.7z",
-                        "size": 22531934
+                        "size": 22531929
                     }
                 },
                 "name": "Renders",
@@ -415,7 +444,7 @@
                 "files": {
                     "mta.logo.7z": {
                         "name": "mta.logo.7z",
-                        "size": 1702121
+                        "size": 1702122
                     }
                 },
                 "name": "Emblems",
@@ -444,7 +473,7 @@
                 "files": {
                     "mvc2.full.7z": {
                         "name": "mvc2.full.7z",
-                        "size": 46265873
+                        "size": 46265879
                     }
                 },
                 "name": "Portraits",
@@ -461,7 +490,7 @@
                 "files": {
                     "nasb.ani.7z": {
                         "name": "nasb.ani.7z",
-                        "size": 7086612
+                        "size": 7086613
                     }
                 },
                 "name": "Source Artwork",
@@ -485,7 +514,7 @@
                 "files": {
                     "nasb.full.7z": {
                         "name": "nasb.full.7z",
-                        "size": 13331356
+                        "size": 13331357
                     }
                 },
                 "name": "Renders",
@@ -497,7 +526,7 @@
                 "files": {
                     "nasb.stage_icon.7z": {
                         "name": "nasb.stage_icon.7z",
-                        "size": 68240520
+                        "size": 68240519
                     }
                 },
                 "name": "Stages",
@@ -526,7 +555,7 @@
                 "files": {
                     "samsho2019.full.7z": {
                         "name": "samsho2019.full.7z",
-                        "size": 22444692
+                        "size": 22444691
                     }
                 },
                 "name": "Renders",
@@ -555,7 +584,7 @@
                 "files": {
                     "sf3ts.full.7z": {
                         "name": "sf3ts.full.7z",
-                        "size": 10608135
+                        "size": 10608136
                     }
                 },
                 "name": "Portraits",
@@ -567,7 +596,7 @@
                 "files": {
                     "sf3ts.full_new.7z": {
                         "name": "sf3ts.full_new.7z",
-                        "size": 11189731
+                        "size": 11189732
                     }
                 },
                 "name": "Portraits (Online Edition)",
@@ -584,7 +613,7 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 5553232
+                        "size": 5553233
                     }
                 },
                 "name": "Street Fighter V",
@@ -596,7 +625,7 @@
                 "files": {
                     "sfv.full.7z": {
                         "name": "sfv.full.7z",
-                        "size": 23365969
+                        "size": 23365962
                     }
                 },
                 "name": "Portraits",
@@ -613,7 +642,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27552
+                        "size": 27551
                     }
                 },
                 "name": "Super Smash Bros",
@@ -666,7 +695,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124538
+                        "size": 4124539
                     }
                 },
                 "name": "Portraits",
@@ -678,7 +707,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095989
+                        "size": 3095988
                     }
                 },
                 "name": "Stage Icons",
@@ -695,7 +724,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159616
+                        "size": 5159615
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -707,7 +736,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022463
+                        "size": 296022468
                     }
                 },
                 "name": "Full",
@@ -731,7 +760,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953190
+                        "size": 25953191
                     }
                 },
                 "name": "Portraits",
@@ -755,7 +784,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 417934030
+                        "size": 417934024
                     }
                 },
                 "name": "Webms",
@@ -818,7 +847,7 @@
                 "files": {
                     "tfh.full.7z": {
                         "name": "tfh.full.7z",
-                        "size": 5408356
+                        "size": 5408362
                     }
                 },
                 "name": "Splash art",
@@ -835,7 +864,7 @@
                 "files": {
                     "touhou123hts.base_files.7z": {
                         "name": "touhou123hts.base_files.7z",
-                        "size": 2102969
+                        "size": 2103023
                     }
                 },
                 "name": "Touhou 12.3: Hisoutensoku",
@@ -847,7 +876,7 @@
                 "files": {
                     "touhou123hts.full.7z": {
                         "name": "touhou123hts.full.7z",
-                        "size": 5823333
+                        "size": 5823352
                     }
                 },
                 "name": "Portraits",
@@ -864,7 +893,7 @@
                 "files": {
                     "umvc3.base_files.7z": {
                         "name": "umvc3.base_files.7z",
-                        "size": 186529625
+                        "size": 186529624
                     }
                 },
                 "name": "Ultimate Marvel VS Capcom 3",
@@ -876,7 +905,7 @@
                 "files": {
                     "umvc3.full.7z": {
                         "name": "umvc3.full.7z",
-                        "size": 381304979
+                        "size": 381304982
                     }
                 },
                 "name": "Portraits",

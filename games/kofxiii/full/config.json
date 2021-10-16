@@ -1,0 +1,11 @@
+{
+  "name": "Portraits",
+  "description": "Character Portraits",
+  "prefix": "chara_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "@MathiasWolfbrok for cropping",
+  "version": "1.0"
+}

@@ -1,0 +1,124 @@
+{
+  "name": "The King of Fighters XIII",
+  "smashgg_game_id": 9690,
+  "character_to_codename": {
+    "Ash Crimson": {
+      "codename": "Ash"
+    },
+    "Billy Kane": {
+      "codename": "Billy"
+    },
+    "Saiki": {
+      "codename": "Saiki"
+    },
+    "Kyo Kusanagi": {
+      "codename": "Kyo"
+    },
+    "Benimaru Nikaido": {
+      "codename": "Benimaru"
+    },
+    "Goro Daimon": {
+      "codename": "Daimon"
+    },
+    "Elisabeth Branctorche": {
+      "codename": "Elisabeth"
+    },
+    "Shen Woo": {
+      "codename": "Shen"
+    },
+    "Duo Lon": {
+      "codename": "Duo_Lon"
+    },
+    "Terry Bogard": {
+      "codename": "Terry"
+    },
+    "Andy Bogard": {
+      "codename": "Andy"
+    },
+    "Joe Higashi": {
+      "codename": "Joe"
+    },
+    "Kim Kaphwan": {
+      "codename": "Kim"
+    },
+    "Raiden": {
+      "codename": "Raiden"
+    },
+    "Hwa Jai": {
+      "codename": "Hwa_Jai"
+    },
+    "King": {
+      "codename": "King"
+    },
+    "Mai Shiranui": {
+      "codename": "Mai"
+    },
+    "Yuri Sakazaki": {
+      "codename": "Yuri"
+    },
+    "Ryo Sakazaki": {
+      "codename": "Ryo"
+    },
+    "Robert Garcia": {
+      "codename": "Robert"
+    },
+    "Takuma Sakazaki": {
+      "codename": "Takuma"
+    },
+    "Iori Yagami": {
+      "codename": "Iori"
+    },
+    "Mature": {
+      "codename": "Mature"
+    },
+    "Vice": {
+      "codename": "Vice"
+    },
+    "Ralf Jones": {
+      "codename": "Ralf"
+    },
+    "Clark Still": {
+      "codename": "Clark"
+    },
+    "Leona Heidern": {
+      "codename": "Leona"
+    },
+    "Athena Asamiya": {
+      "codename": "Athena"
+    },
+    "Sie Kensou": {
+      "codename": "Kensou"
+    },
+    "Chin Gentsai": {
+      "codename": "Chin"
+    },
+    "K'": {
+      "codename": "K"
+    },
+    "Maxima": {
+      "codename": "Maxima"
+    },
+    "Kula Diamond": {
+      "codename": "Kula"
+    },
+    "Iori with the Power of Flames": {
+      "codename": "EX_Iori"
+    },
+    "Mr. Karate": {
+      "codename": "Mr_Karate"
+    },
+    "NESTS Style Kyo": {
+      "codename": "EX_Kyo"
+    },
+    "Saiki (Awakened Form)": {
+      "codename": "Boss_Saiki"
+    },
+    "Evil Ash": {
+      "codename": "Dark_Ash"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Dream Cancel Wiki (https://dreamcancel.com/wiki/index.php/The_King_of_Fighters_XIII)"
+}

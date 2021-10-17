@@ -2,7 +2,7 @@ import json
 import requests
 from pathlib import Path
 
-game_id = 16
+game_id = 5764
 character_list_filename = "characters_list.txt"
 
 with open(f"../download_smashgg/game_data.json", 'rt') as game_data_file:

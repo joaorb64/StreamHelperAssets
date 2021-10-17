@@ -159,7 +159,7 @@
                 "files": {
                     "garoumotw.full.7z": {
                         "name": "garoumotw.full.7z",
-                        "size": 552475
+                        "size": 552476
                     }
                 },
                 "name": "Portraits",
@@ -321,7 +321,7 @@
                 "files": {
                     "kofxiii.base_files.7z": {
                         "name": "kofxiii.base_files.7z",
-                        "size": 415582
+                        "size": 415764
                     }
                 },
                 "name": "The King of Fighters XIII",
@@ -333,7 +333,7 @@
                 "files": {
                     "kofxiii.full.7z": {
                         "name": "kofxiii.full.7z",
-                        "size": 14845035
+                        "size": 14845121
                     }
                 },
                 "name": "Portraits",
@@ -420,7 +420,7 @@
                 "files": {
                     "mta.base_files.7z": {
                         "name": "mta.base_files.7z",
-                        "size": 688012
+                        "size": 688011
                     }
                 },
                 "name": "Mario Tennis Aces",
@@ -543,7 +543,7 @@
                 "files": {
                     "samsho2019.base_files.7z": {
                         "name": "samsho2019.base_files.7z",
-                        "size": 1099900
+                        "size": 1099901
                     }
                 },
                 "name": "Samurai Shodown (2019)",
@@ -642,7 +642,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27551
+                        "size": 27552
                     }
                 },
                 "name": "Super Smash Bros",
@@ -695,7 +695,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4124539
+                        "size": 4124538
                     }
                 },
                 "name": "Portraits",
@@ -724,7 +724,7 @@
                 "files": {
                     "ssbu.base_files.7z": {
                         "name": "ssbu.base_files.7z",
-                        "size": 5159615
+                        "size": 5159616
                     }
                 },
                 "name": "Super Smash Bros Ultimate",
@@ -736,7 +736,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022468
+                        "size": 296022470
                     }
                 },
                 "name": "Full",
@@ -748,7 +748,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 462364097
+                        "size": 462364099
                     }
                 },
                 "name": "Mural arts",
@@ -760,7 +760,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953191
+                        "size": 25953192
                     }
                 },
                 "name": "Portraits",
@@ -893,7 +893,7 @@
                 "files": {
                     "umvc3.base_files.7z": {
                         "name": "umvc3.base_files.7z",
-                        "size": 186529624
+                        "size": 186529625
                     }
                 },
                 "name": "Ultimate Marvel VS Capcom 3",
@@ -905,7 +905,7 @@
                 "files": {
                     "umvc3.full.7z": {
                         "name": "umvc3.full.7z",
-                        "size": 381304982
+                        "size": 381304980
                     }
                 },
                 "name": "Portraits",
@@ -913,6 +913,35 @@
             }
         },
         "name": "Ultimate Marvel VS Capcom 3"
+    },
+    "usfiv": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "usfiv.base_files.7z": {
+                        "name": "usfiv.base_files.7z",
+                        "size": 22078058
+                    }
+                },
+                "name": "Ultra Street Fighter IV",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character Portraits",
+                "files": {
+                    "usfiv.full.7z": {
+                        "name": "usfiv.full.7z",
+                        "size": 44865895
+                    }
+                },
+                "name": "Portraits",
+                "version": "1.0"
+            }
+        },
+        "name": "Ultra Street Fighter IV"
     },
     "windjammers": {
         "assets": {

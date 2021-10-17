@@ -43,7 +43,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 58533916
+                        "size": 58533908
                     }
                 },
                 "name": "Renders",
@@ -55,7 +55,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91201
+                        "size": 91202
                     }
                 },
                 "name": "Logos",
@@ -101,7 +101,7 @@
                 "files": {
                     "dbfz.base_files.7z": {
                         "name": "dbfz.base_files.7z",
-                        "size": 4301033
+                        "size": 4301032
                     }
                 },
                 "name": "Dragon Ball FighterZ",
@@ -118,7 +118,7 @@
                 "files": {
                     "fexl.base_files.7z": {
                         "name": "fexl.base_files.7z",
-                        "size": 8760201
+                        "size": 8760200
                     }
                 },
                 "name": "Fighting EX Layer",
@@ -130,7 +130,7 @@
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 8591230
+                        "size": 8591229
                     }
                 },
                 "name": "Renders",
@@ -147,7 +147,7 @@
                 "files": {
                     "garoumotw.base_files.7z": {
                         "name": "garoumotw.base_files.7z",
-                        "size": 278892
+                        "size": 278893
                     }
                 },
                 "name": "Garou: Mark of the Wolves",
@@ -159,7 +159,7 @@
                 "files": {
                     "garoumotw.full.7z": {
                         "name": "garoumotw.full.7z",
-                        "size": 552476
+                        "size": 552477
                     }
                 },
                 "name": "Portraits",
@@ -188,7 +188,7 @@
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 10656669
+                        "size": 10656668
                     }
                 },
                 "name": "Renders",
@@ -205,7 +205,7 @@
                 "files": {
                     "ggxxacpr.base_files.7z": {
                         "name": "ggxxacpr.base_files.7z",
-                        "size": 266615
+                        "size": 266616
                     }
                 },
                 "name": "Guilty Gear XX Accent Core Plus R",
@@ -246,7 +246,7 @@
                 "files": {
                     "jojohftf.full.7z": {
                         "name": "jojohftf.full.7z",
-                        "size": 519617
+                        "size": 519618
                     }
                 },
                 "name": "Portraits",
@@ -263,7 +263,7 @@
                 "files": {
                     "killerinstinct.base_files.7z": {
                         "name": "killerinstinct.base_files.7z",
-                        "size": 743942
+                        "size": 743943
                     }
                 },
                 "name": "Killer Instinct (2013)",
@@ -304,7 +304,7 @@
                 "files": {
                     "kof02um.full_win.7z": {
                         "name": "kof02um.full_win.7z",
-                        "size": 59029836
+                        "size": 59029837
                     }
                 },
                 "name": "Win Portraits",
@@ -333,7 +333,7 @@
                 "files": {
                     "kofxiii.full.7z": {
                         "name": "kofxiii.full.7z",
-                        "size": 14845121
+                        "size": 14845126
                     }
                 },
                 "name": "Portraits",
@@ -420,7 +420,7 @@
                 "files": {
                     "mta.base_files.7z": {
                         "name": "mta.base_files.7z",
-                        "size": 688011
+                        "size": 688012
                     }
                 },
                 "name": "Mario Tennis Aces",
@@ -473,7 +473,7 @@
                 "files": {
                     "mvc2.full.7z": {
                         "name": "mvc2.full.7z",
-                        "size": 46265879
+                        "size": 46265872
                     }
                 },
                 "name": "Portraits",
@@ -514,7 +514,7 @@
                 "files": {
                     "nasb.full.7z": {
                         "name": "nasb.full.7z",
-                        "size": 13331357
+                        "size": 13331356
                     }
                 },
                 "name": "Renders",
@@ -526,7 +526,7 @@
                 "files": {
                     "nasb.stage_icon.7z": {
                         "name": "nasb.stage_icon.7z",
-                        "size": 68240519
+                        "size": 68240527
                     }
                 },
                 "name": "Stages",
@@ -543,7 +543,7 @@
                 "files": {
                     "samsho2019.base_files.7z": {
                         "name": "samsho2019.base_files.7z",
-                        "size": 1099901
+                        "size": 1099900
                     }
                 },
                 "name": "Samurai Shodown (2019)",
@@ -634,6 +634,35 @@
         },
         "name": "Street Fighter V"
     },
+    "sms": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "sms.base_files.7z": {
+                        "name": "sms.base_files.7z",
+                        "size": 62152
+                    }
+                },
+                "name": "Super Mario Strikers",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character Artworks",
+                "files": {
+                    "sms.full.7z": {
+                        "name": "sms.full.7z",
+                        "size": 9851517
+                    }
+                },
+                "name": "Artwork",
+                "version": "1.0"
+            }
+        },
+        "name": "Super Mario Strikers"
+    },
     "ssb64": {
         "assets": {
             "base_files": {
@@ -707,7 +736,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095988
+                        "size": 3095989
                     }
                 },
                 "name": "Stage Icons",
@@ -748,7 +777,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 462364099
+                        "size": 462364097
                     }
                 },
                 "name": "Mural arts",
@@ -760,7 +789,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953192
+                        "size": 25953191
                     }
                 },
                 "name": "Portraits",
@@ -893,7 +922,7 @@
                 "files": {
                     "umvc3.base_files.7z": {
                         "name": "umvc3.base_files.7z",
-                        "size": 186529625
+                        "size": 186529632
                     }
                 },
                 "name": "Ultimate Marvel VS Capcom 3",
@@ -905,7 +934,7 @@
                 "files": {
                     "umvc3.full.7z": {
                         "name": "umvc3.full.7z",
-                        "size": 381304980
+                        "size": 381304973
                     }
                 },
                 "name": "Portraits",
@@ -922,7 +951,7 @@
                 "files": {
                     "usfiv.base_files.7z": {
                         "name": "usfiv.base_files.7z",
-                        "size": 22078058
+                        "size": 22078337
                     }
                 },
                 "name": "Ultra Street Fighter IV",
@@ -934,7 +963,7 @@
                 "files": {
                     "usfiv.full.7z": {
                         "name": "usfiv.full.7z",
-                        "size": 44865895
+                        "size": 44865951
                     }
                 },
                 "name": "Portraits",
@@ -951,7 +980,7 @@
                 "files": {
                     "windjammers.base_files.7z": {
                         "name": "windjammers.base_files.7z",
-                        "size": 31525
+                        "size": 31526
                     }
                 },
                 "name": "Windjammers",

@@ -1,0 +1,142 @@
+{
+  "name": "Ultra Street Fighter IV",
+  "smashgg_game_id": 16,
+  "character_to_codename": {
+    "Abel": {
+      "codename": "01"
+    },
+    "Adon": {
+      "codename": "02"
+    },
+    "Akuma": {
+      "codename": "03"
+    },
+    "Balrog": {
+      "codename": "04"
+    },
+    "Blanka": {
+      "codename": "05"
+    },
+    "C. Viper": {
+      "codename": "09"
+    },
+    "Cammy": {
+      "codename": "06"
+    },
+    "Chun-Li": {
+      "codename": "07"
+    },
+    "Cody": {
+      "codename": "08"
+    },
+    "Dan": {
+      "codename": "10"
+    },
+    "Dee Jay": {
+      "codename": "12"
+    },
+    "Dhalsim": {
+      "codename": "13"
+    },
+    "Dudley": {
+      "codename": "14"
+    },
+    "E. Honda": {
+      "codename": "15"
+    },
+    "El Fuerte": {
+      "codename": "17"
+    },
+    "Evil Ryu": {
+      "codename": "18"
+    },
+    "Fei Long": {
+      "codename": "19"
+    },
+    "Gen": {
+      "codename": "20"
+    },
+    "Gouken": {
+      "codename": "21"
+    },
+    "Guile": {
+      "codename": "22"
+    },
+    "Guy": {
+      "codename": "23"
+    },
+    "Hakan": {
+      "codename": "24"
+    },
+    "Ibuki": {
+      "codename": "26"
+    },
+    "Juri": {
+      "codename": "27"
+    },
+    "Ken": {
+      "codename": "28"
+    },
+    "M. Bison": {
+      "codename": "30"
+    },
+    "Makoto": {
+      "codename": "29"
+    },
+    "Oni": {
+      "codename": "31"
+    },
+    "Rose": {
+      "codename": "34"
+    },
+    "Rufus": {
+      "codename": "35"
+    },
+    "Ryu": {
+      "codename": "36"
+    },
+    "Sagat": {
+      "codename": "37"
+    },
+    "Sakura": {
+      "codename": "38"
+    },
+    "Seth": {
+      "codename": "39"
+    },
+    "T. Hawk": {
+      "codename": "40"
+    },
+    "Vega": {
+      "codename": "41"
+    },
+    "Yang": {
+      "codename": "42"
+    },
+    "Yun": {
+      "codename": "43"
+    },
+    "Zangief": {
+      "codename": "44"
+    },
+    "Decapre": {
+      "codename": "11"
+    },
+    "Elena": {
+      "codename": "16"
+    },
+    "Hugo": {
+      "codename": "25"
+    },
+    "Poison": {
+      "codename": "32"
+    },
+    "Rolento": {
+      "codename": "33"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

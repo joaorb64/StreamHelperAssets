@@ -1,4 +1,33 @@
 {
+    "abaa": {
+        "assets": {
+            "base_files": {
+                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Akatsuki_Blitzkampf)",
+                "description": "Base config to use this game.",
+                "files": {
+                    "abaa.base_files.7z": {
+                        "name": "abaa.base_files.7z",
+                        "size": 64688
+                    }
+                },
+                "name": "Akatsuki Blitzkampf Ausf. Achse",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character portraits",
+                "files": {
+                    "abaa.full.7z": {
+                        "name": "abaa.full.7z",
+                        "size": 4163385
+                    }
+                },
+                "name": "Portraits",
+                "version": "1.0"
+            }
+        },
+        "name": "Akatsuki Blitzkampf Ausf. Achse"
+    },
     "arms": {
         "assets": {
             "badge": {
@@ -130,7 +159,7 @@
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 8591229
+                        "size": 8591230
                     }
                 },
                 "name": "Renders",
@@ -321,7 +350,7 @@
                 "files": {
                     "kofxiii.base_files.7z": {
                         "name": "kofxiii.base_files.7z",
-                        "size": 415764
+                        "size": 415765
                     }
                 },
                 "name": "The King of Fighters XIII",
@@ -333,7 +362,7 @@
                 "files": {
                     "kofxiii.full.7z": {
                         "name": "kofxiii.full.7z",
-                        "size": 14845126
+                        "size": 14845127
                     }
                 },
                 "name": "Portraits",
@@ -444,7 +473,7 @@
                 "files": {
                     "mta.logo.7z": {
                         "name": "mta.logo.7z",
-                        "size": 1702122
+                        "size": 1702121
                     }
                 },
                 "name": "Emblems",
@@ -526,7 +555,7 @@
                 "files": {
                     "nasb.stage_icon.7z": {
                         "name": "nasb.stage_icon.7z",
-                        "size": 68240527
+                        "size": 68240519
                     }
                 },
                 "name": "Stages",
@@ -555,7 +584,7 @@
                 "files": {
                     "samsho2019.full.7z": {
                         "name": "samsho2019.full.7z",
-                        "size": 22444691
+                        "size": 22444699
                     }
                 },
                 "name": "Renders",
@@ -596,7 +625,7 @@
                 "files": {
                     "sf3ts.full_new.7z": {
                         "name": "sf3ts.full_new.7z",
-                        "size": 11189732
+                        "size": 11189731
                     }
                 },
                 "name": "Portraits (Online Edition)",
@@ -642,7 +671,7 @@
                 "files": {
                     "sms.base_files.7z": {
                         "name": "sms.base_files.7z",
-                        "size": 62152
+                        "size": 62201
                     }
                 },
                 "name": "Super Mario Strikers",
@@ -654,7 +683,7 @@
                 "files": {
                     "sms.full.7z": {
                         "name": "sms.full.7z",
-                        "size": 9851517
+                        "size": 9851650
                     }
                 },
                 "name": "Artwork",
@@ -736,7 +765,7 @@
                 "files": {
                     "ssbm.stage_icon.7z": {
                         "name": "ssbm.stage_icon.7z",
-                        "size": 3095989
+                        "size": 3095988
                     }
                 },
                 "name": "Stage Icons",
@@ -765,7 +794,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 296022470
+                        "size": 296022463
                     }
                 },
                 "name": "Full",
@@ -777,7 +806,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 462364097
+                        "size": 462364094
                     }
                 },
                 "name": "Mural arts",
@@ -789,7 +818,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 25953191
+                        "size": 25953192
                     }
                 },
                 "name": "Portraits",
@@ -847,7 +876,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991344
+                        "size": 1991345
                     }
                 },
                 "name": "Tekken 7",
@@ -893,7 +922,7 @@
                 "files": {
                     "touhou123hts.base_files.7z": {
                         "name": "touhou123hts.base_files.7z",
-                        "size": 2103023
+                        "size": 2103032
                     }
                 },
                 "name": "Touhou 12.3: Hisoutensoku",
@@ -922,7 +951,7 @@
                 "files": {
                     "umvc3.base_files.7z": {
                         "name": "umvc3.base_files.7z",
-                        "size": 186529632
+                        "size": 186529626
                     }
                 },
                 "name": "Ultimate Marvel VS Capcom 3",
@@ -963,7 +992,7 @@
                 "files": {
                     "usfiv.full.7z": {
                         "name": "usfiv.full.7z",
-                        "size": 44865951
+                        "size": 44865943
                     }
                 },
                 "name": "Portraits",
@@ -980,7 +1009,7 @@
                 "files": {
                     "windjammers.base_files.7z": {
                         "name": "windjammers.base_files.7z",
-                        "size": 31526
+                        "size": 31525
                     }
                 },
                 "name": "Windjammers",

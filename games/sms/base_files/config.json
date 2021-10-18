@@ -1,0 +1,37 @@
+{
+  "name": "Super Mario Strikers",
+  "smashgg_game_id": 5764,
+  "character_to_codename": {
+    "Mario": {
+      "codename": "Mario"
+    },
+    "Luigi": {
+      "codename": "Luigi"
+    },
+    "Peach": {
+      "codename": "Peach"
+    },
+    "Daisy": {
+      "codename": "Daisy"
+    },
+    "Wario": {
+      "codename": "Wario"
+    },
+    "Waluigi": {
+      "codename": "Waluigi"
+    },
+    "Donkey Kong": {
+      "codename": "DK"
+    },
+    "Yoshi": {
+      "codename": "Yoshi"
+    },
+    "Super Team": {
+      "codename": "Super"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Akatsuki Blitzkampf Ausf. Achse",
+  "smashgg_game_id": 33670,
+  "character_to_codename": {
+    "Akatsuki": {
+      "codename": "Akatsuki"
+    },
+    "Mycale": {
+      "codename": "Mycale"
+    },
+    "Claude D'Aspermont": {
+      "codename": "Sai"
+    },
+    "Kanae": {
+      "codename": "Kanae"
+    },
+    "Fritz": {
+      "codename": "Fritz"
+    },
+    "Marilyn Sue Da Jie": {
+      "codename": "MarilynSue"
+    },
+    "Da Wei Ye Lue": {
+      "codename": "Wei"
+    },
+    "Anonym Merel Lambuth": {
+      "codename": "Anonym"
+    },
+    "Elektrosoldat": {
+      "codename": "Elektrosoldat"
+    },
+    "Blitztank": {
+      "codename": "Blitztank"
+    },
+    "Adler": {
+      "codename": "Adler"
+    },
+    "Murakumo": {
+      "codename": "Murakumo"
+    },
+    "Perfecti": {
+      "codename": "Perfecti"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Akatsuki_Blitzkampf)"
+}

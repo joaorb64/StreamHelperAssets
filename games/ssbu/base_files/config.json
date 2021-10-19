@@ -342,6 +342,10 @@
             "smashgg_name": "Kazuya",
             "codename": "demon"
         },
+        "Sora": {
+            "smashgg_name": "Sora",
+            "codename": "trail"
+        },
         "Random": {
             "smashgg_name": "Random Character",
             "codename": "random"
@@ -761,6 +765,6 @@
             "codename": "BattleFieldS"
         }
     },
-    "version": 0.9,
+    "version": 0.99,
     "description": "Base config to use this game."
 }

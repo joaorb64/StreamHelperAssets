@@ -1,0 +1,102 @@
+{
+  "name": "Pokken Tournament DX",
+  "smashgg_game_id": 447,
+  "character_to_codename": {
+    "Blaziken": {
+      "smashgg_name": "Blaziken",
+      "codename": "Blaziken"
+    },
+    "Braixen": {
+      "smashgg_name": "Braixen",
+      "codename": "Braixen"
+    },
+    "Chandelure": {
+      "smashgg_name": "Chandelure",
+      "codename": "Chandelure"
+    },
+    "Charizard": {
+      "smashgg_name": "Charizard",
+      "codename": "Charizard"
+    },
+    "Croagunk": {
+      "smashgg_name": "Croagunk",
+      "codename": "Croagunk"
+    },
+    "Empoleon": {
+      "smashgg_name": "Empoleon",
+      "codename": "Empoleon"
+    },
+    "Darkrai": {
+      "smashgg_name": "Darkrai",
+      "codename": "Darkrai"
+    },
+    "Decidueye": {
+      "smashgg_name": "Decidueye",
+      "codename": "Decidueye"
+    },
+    "Garchomp": {
+      "smashgg_name": "Garchomp",
+      "codename": "Garchomp"
+    },
+    "Gardevoir": {
+      "smashgg_name": "Gardevoir",
+      "codename": "Gardevoir"
+    },
+    "Gengar": {
+      "smashgg_name": "Gengar",
+      "codename": "Gengar"
+    },
+    "Lucario": {
+      "smashgg_name": "Lucario",
+      "codename": "Lucario"
+    },
+    "Machamp": {
+      "smashgg_name": "Machamp",
+      "codename": "Machamp"
+    },
+    "Mewtwo": {
+      "smashgg_name": "Mewtwo",
+      "codename": "Mewtwo"
+    },
+    "Pikachu": {
+      "smashgg_name": "Pikachu",
+      "codename": "Pikachu"
+    },
+    "Pikachu Libre": {
+      "smashgg_name": "Pikachu Libre",
+      "codename": "PikachuLibre"
+    },
+    "Sceptile": {
+      "smashgg_name": "Sceptile",
+      "codename": "Sceptile"
+    },
+    "Scizor": {
+      "smashgg_name": "Scizor",
+      "codename": "Scizor"
+    },
+    "Shadow Mewtwo": {
+      "smashgg_name": "Shadow Mewtwo",
+      "codename": "ShadowMewtwo"
+    },
+    "Suicune": {
+      "smashgg_name": "Suicune",
+      "codename": "Suicune"
+    },
+    "Weavile": {
+      "smashgg_name": "Weavile",
+      "codename": "Weavile"
+    },
+    "Blastoise": {
+      "smashgg_name": "Blastoise",
+      "codename": "Blastoise"
+    },
+    "Aegislash": {
+      "smashgg_name": "Aegislash",
+      "codename": "Aegislash"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "@MathiasWolfbrok for the custom Shadow Mewtwo icon"
+}

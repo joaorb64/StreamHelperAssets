@@ -7,7 +7,7 @@
                 "files": {
                     "abaa.base_files.7z": {
                         "name": "abaa.base_files.7z",
-                        "size": 64741
+                        "size": 64740
                     }
                 },
                 "name": "Akatsuki Blitzkampf Ausf. Achse",
@@ -84,7 +84,7 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91202
+                        "size": 91201
                     }
                 },
                 "name": "Logos",
@@ -130,7 +130,7 @@
                 "files": {
                     "dbfz.base_files.7z": {
                         "name": "dbfz.base_files.7z",
-                        "size": 4301032
+                        "size": 4301033
                     }
                 },
                 "name": "Dragon Ball FighterZ",
@@ -275,7 +275,7 @@
                 "files": {
                     "jojohftf.full.7z": {
                         "name": "jojohftf.full.7z",
-                        "size": 519625
+                        "size": 519617
                     }
                 },
                 "name": "Portraits",
@@ -321,7 +321,7 @@
                 "files": {
                     "kof02um.full.7z": {
                         "name": "kof02um.full.7z",
-                        "size": 43408490
+                        "size": 43408498
                     }
                 },
                 "name": "Character Select Portraits",
@@ -350,7 +350,7 @@
                 "files": {
                     "kofxiii.base_files.7z": {
                         "name": "kofxiii.base_files.7z",
-                        "size": 415764
+                        "size": 415765
                     }
                 },
                 "name": "The King of Fighters XIII",
@@ -379,7 +379,7 @@
                 "files": {
                     "mbtl.base_files.7z": {
                         "name": "mbtl.base_files.7z",
-                        "size": 110537
+                        "size": 110536
                     }
                 },
                 "name": "Melty Blood: Type Lumina",
@@ -408,7 +408,7 @@
                 "files": {
                     "msc.base_files.7z": {
                         "name": "msc.base_files.7z",
-                        "size": 621826
+                        "size": 621825
                     }
                 },
                 "name": "Mario Strikers Charged",
@@ -502,7 +502,7 @@
                 "files": {
                     "mvc2.full.7z": {
                         "name": "mvc2.full.7z",
-                        "size": 46265872
+                        "size": 46265871
                     }
                 },
                 "name": "Portraits",
@@ -563,6 +563,35 @@
             }
         },
         "name": "Nickelodeon All-Star Brawl"
+    },
+    "pokkendx": {
+        "assets": {
+            "base_files": {
+                "credits": "Icons ripped from Pok\u00e9mon Sun & Moon and Pok\u00e9mon Omega Ruby & Alpha Sapphire\nCustom Shadow Mewtwo icon by @MathiasWolfbrok",
+                "description": "Base config to use this game.",
+                "files": {
+                    "pokkendx.base_files.7z": {
+                        "name": "pokkendx.base_files.7z",
+                        "size": 30879
+                    }
+                },
+                "name": "Pokken Tournament DX",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character renders",
+                "files": {
+                    "pokkendx.full.7z": {
+                        "name": "pokkendx.full.7z",
+                        "size": 19217601
+                    }
+                },
+                "name": "Renders",
+                "version": "1.0"
+            }
+        },
+        "name": "Pokken Tournament DX"
     },
     "samsho2019": {
         "assets": {
@@ -700,7 +729,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27551
+                        "size": 27550
                     }
                 },
                 "name": "Super Smash Bros",
@@ -794,7 +823,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 299660336
+                        "size": 299660334
                     }
                 },
                 "name": "Full",
@@ -842,7 +871,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 423015136
+                        "size": 423015144
                     }
                 },
                 "name": "Webms",
@@ -859,7 +888,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z": {
                         "name": "ssbwiiu.base_files.7z",
-                        "size": 70424
+                        "size": 70423
                     }
                 },
                 "name": "Super Smash Bros. for Wii U",
@@ -876,7 +905,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991344
+                        "size": 1991352
                     }
                 },
                 "name": "Tekken 7",
@@ -934,7 +963,7 @@
                 "files": {
                     "touhou123hts.full.7z": {
                         "name": "touhou123hts.full.7z",
-                        "size": 5823351
+                        "size": 5823352
                     }
                 },
                 "name": "Portraits",
@@ -951,7 +980,7 @@
                 "files": {
                     "umvc3.base_files.7z": {
                         "name": "umvc3.base_files.7z",
-                        "size": 186529625
+                        "size": 186529626
                     }
                 },
                 "name": "Ultimate Marvel VS Capcom 3",
@@ -963,7 +992,7 @@
                 "files": {
                     "umvc3.full.7z": {
                         "name": "umvc3.full.7z",
-                        "size": 381304974
+                        "size": 381304975
                     }
                 },
                 "name": "Portraits",
@@ -980,7 +1009,7 @@
                 "files": {
                     "usfiv.base_files.7z": {
                         "name": "usfiv.base_files.7z",
-                        "size": 22078338
+                        "size": 22078337
                     }
                 },
                 "name": "Ultra Street Fighter IV",
@@ -992,7 +1021,7 @@
                 "files": {
                     "usfiv.full.7z": {
                         "name": "usfiv.full.7z",
-                        "size": 44865949
+                        "size": 44865943
                     }
                 },
                 "name": "Portraits",

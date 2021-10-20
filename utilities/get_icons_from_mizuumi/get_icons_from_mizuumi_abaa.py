@@ -90,15 +90,6 @@ def generate_configs(character_dict):
         "credits": str(credits)
     }
 
-    readme_file_content = f"""
-    # {game_name}
-
-    ## Description:
-    {description}
-
-    ## Credits:
-    {credits}
-    """.replace("    ", "")
     icon_config_dict = {
         "prefix": "icon_",
         "postfix": "_",
@@ -124,9 +115,6 @@ def generate_configs(character_dict):
     with open(f"{base_files_folder_name}/config.json", 'wt') as main_config_file:
         config_file_content = json.dumps(config_dict, indent=2)
         main_config_file.write(config_file_content)
-
-    with open(f"{download_folder_name}/README.md", 'wt') as readme_file:
-        readme_file.write(readme_file_content)
 
     with open(f"{icon_folder_name}/config.json", 'wt') as icon_config_file:
         icon_config_file_content = json.dumps(icon_config_dict, indent=2)

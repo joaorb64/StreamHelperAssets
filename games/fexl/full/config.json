@@ -1,9 +1,9 @@
 {
-    "name": "Renders",
-    "description": "Character renders",
+    "name": "Artwork",
+    "description": "Character artwork",
     "prefix": "",
     "postfix": "_",
     "type": ["full"],
     "credits": "@MathiasWolfbrok for cropping",
-    "version": "1.0"
+    "version": "1.1"
 }

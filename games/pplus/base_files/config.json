@@ -1,0 +1,188 @@
+{
+  "name": "Project+",
+  "smashgg_game_id": 33602,
+  "character_to_codename": {
+    "Mario": {
+      "smashgg_name": "Mario",
+      "codename": "00"
+    },
+    "Luigi": {
+      "smashgg_name": "Luigi",
+      "codename": "08"
+    },
+    "Peach": {
+      "smashgg_name": "Peach",
+      "codename": "12"
+    },
+    "Bowser": {
+      "smashgg_name": "Bowser",
+      "codename": "11"
+    },
+    "Yoshi": {
+      "smashgg_name": "Yoshi",
+      "codename": "04"
+    },
+    "Donkey Kong": {
+      "smashgg_name": "Donkey Kong",
+      "codename": "01"
+    },
+    "Diddy Kong": {
+      "smashgg_name": "Diddy Kong",
+      "codename": "26"
+    },
+    "Link": {
+      "smashgg_name": "Link",
+      "codename": "02"
+    },
+    "Zelda": {
+      "smashgg_name": "Zelda",
+      "codename": "13"
+    },
+    "Sheik": {
+      "smashgg_name": "Sheik",
+      "codename": "14"
+    },
+    "Ganondorf": {
+      "smashgg_name": "Ganondorf",
+      "codename": "19"
+    },
+    "Toon Link": {
+      "smashgg_name": "Toon Link",
+      "codename": "40"
+    },
+    "Samus": {
+      "smashgg_name": "Samus",
+      "codename": "03"
+    },
+    "Zero Suit Samus": {
+      "smashgg_name": "Zero Suit Samus",
+      "codename": "23"
+    },
+    "Kirby": {
+      "smashgg_name": "Kirby",
+      "codename": "05"
+    },
+    "Meta Knight": {
+      "smashgg_name": "Meta Knight",
+      "codename": "21"
+    },
+    "King Dedede": {
+      "smashgg_name": "King Dedede",
+      "codename": "31"
+    },
+    "Fox": {
+      "smashgg_name": "Fox",
+      "codename": "06"
+    },
+    "Falco": {
+      "smashgg_name": "Falco",
+      "codename": "18"
+    },
+    "Wolf": {
+      "smashgg_name": "Wolf",
+      "codename": "43"
+    },
+    "Pikachu": {
+      "smashgg_name": "Pikachu",
+      "codename": "07"
+    },
+    "Jigglypuff": {
+      "smashgg_name": "Jigglypuff",
+      "codename": "36"
+    },
+    "Mewtwo": {
+      "smashgg_name": "Mewtwo",
+      "codename": "27"
+    },
+    "Squirtle": {
+      "smashgg_name": "Squirtle",
+      "codename": "29"
+    },
+    "Ivysaur": {
+      "smashgg_name": "Ivysaur",
+      "codename": "30"
+    },
+    "Charizard": {
+      "smashgg_name": "Charizard",
+      "codename": "28"
+    },
+    "Lucario": {
+      "smashgg_name": "Lucario",
+      "codename": "32"
+    },
+    "Captain Falcon": {
+      "smashgg_name": "Captain Falcon",
+      "codename": "09"
+    },
+    "Ness": {
+      "smashgg_name": "Ness",
+      "codename": "10"
+    },
+    "Lucas": {
+      "smashgg_name": "Lucas",
+      "codename": "25"
+    },
+    "Ice Climbers": {
+      "smashgg_name": "Ice Climbers",
+      "codename": "15"
+    },
+    "Marth": {
+      "smashgg_name": "Marth",
+      "codename": "16"
+    },
+    "Roy": {
+      "smashgg_name": "Roy",
+      "codename": "39"
+    },
+    "Ike": {
+      "smashgg_name": "Ike",
+      "codename": "33"
+    },
+    "Mr. Game & Watch": {
+      "smashgg_name": "Mr. Game & Watch",
+      "codename": "17"
+    },
+    "Pit": {
+      "smashgg_name": "Pit",
+      "codename": "22"
+    },
+    "Wario": {
+      "smashgg_name": "Wario",
+      "codename": "37"
+    },
+    "Olimar": {
+      "smashgg_name": "Olimar",
+      "codename": "24"
+    },
+    "ROB": {
+      "smashgg_name": "ROB",
+      "codename": "34"
+    },
+    "Snake": {
+      "smashgg_name": "Snake",
+      "codename": "45"
+    },
+    "Sonic": {
+      "smashgg_name": "Sonic",
+      "codename": "46"
+    },
+    "Knuckles": {
+      "smashgg_name": "Knuckles",
+      "codename": "42"
+    },
+    "Random Character": {
+      "smashgg_name": "Random Character",
+      "codename": "50"
+    },
+    "Giga Bowser": {
+      "codename": "44"
+    },
+    "Wario-Man": {
+      "codename": "180"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

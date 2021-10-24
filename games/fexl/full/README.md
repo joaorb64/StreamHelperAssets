@@ -1,8 +1,8 @@
-# Renders
+# Artwork
 
 ## Description: 
 
-Character renders
+Character artwork
 
 ## Credits: 
 

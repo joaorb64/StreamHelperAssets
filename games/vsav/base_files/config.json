@@ -1,0 +1,64 @@
+{
+  "name": "Darkstalkers 3 / Vampire Savior",
+  "smashgg_game_id": 582,
+  "character_to_codename": {
+    "Anakaris": {
+      "codename": "03"
+    },
+    "Bishamon": {
+      "codename": "06"
+    },
+    "Demitri Maximoff": {
+      "codename": "01"
+    },
+    "Felicia": {
+      "codename": "05"
+    },
+    "Hsien-Ko": {
+      "codename": "15"
+    },
+    "Jon Talbain": {
+      "codename": "07"
+    },
+    "Lord Raptor": {
+      "codename": "10"
+    },
+    "Morrigan Aensland": {
+      "codename": "04"
+    },
+    "Rikuo": {
+      "codename": "14"
+    },
+    "Sasquatch": {
+      "codename": "08"
+    },
+    "Victor von Gerdenheim": {
+      "codename": "02"
+    },
+    "Baby Bonnie Hood": {
+      "codename": "09"
+    },
+    "Jedah Dohma": {
+      "codename": "11"
+    },
+    "Lilith": {
+      "codename": "12"
+    },
+    "Q-Bee": {
+      "codename": "13"
+    },
+    "Donovan Baine": {
+      "codename": "18"
+    },
+    "Huitzil": {
+      "codename": "17"
+    },
+    "Pyron": {
+      "codename": "16"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

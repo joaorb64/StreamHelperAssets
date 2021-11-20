@@ -1,0 +1,112 @@
+{
+  "name": "The King of Fighters XV",
+  "smashgg_game_id": 36963,
+  "character_to_codename": {
+    "Shun'ei": {
+      "codename": "Shunei"
+    },
+    "Meitenkun": {
+      "codename": "Meitenkun"
+    },
+    "Benimaru Nikaido": {
+      "codename": "BenimaruNikaido"
+    },
+    "Kyo Kusanagi": {
+      "codename": "KyoKusanagi"
+    },
+    "Iori Yagami": {
+      "codename": "IoriYagami"
+    },
+    "Chizuru Kagura": {
+      "codename": "ChizuruKagura"
+    },
+    "Terry Bogard": {
+      "codename": "TerryBogard"
+    },
+    "Andy Bogard": {
+      "codename": "AndyBogard"
+    },
+    "Joe Higashi": {
+      "codename": "JoeHigashi"
+    },
+    "Yashiro Nanakase": {
+      "codename": "YashiroNanakase"
+    },
+    "Shermie": {
+      "codename": "Shermie"
+    },
+    "Chris": {
+      "codename": "Chris"
+    },
+    "Ryo Sakazaki": {
+      "codename": "RyoSakazaki"
+    },
+    "Robert Garcia": {
+      "codename": "RobertGarcia"
+    },
+    "King": {
+      "codename": "King"
+    },
+    "Leona Heidern": {
+      "codename": "LeonaHeidern"
+    },
+    "Ralf Jones": {
+      "codename": "RalfJones"
+    },
+    "Clark Still": {
+      "codename": "ClarkStill"
+    },
+    "Blue Mary": {
+      "codename": "BlueMary"
+    },
+    "Vanessa": {
+      "codename": "Vanessa"
+    },
+    "Luong": {
+      "codename": "Luong"
+    },
+    "Athena Asamiya": {
+      "codename": "AthenaAsamiya"
+    },
+    "Mai Shiranui": {
+      "codename": "MaiShiranui"
+    },
+    "Yuri Sakazaki": {
+      "codename": "YuriSakazaki"
+    },
+    "Antonov": {
+      "codename": "Antonov"
+    },
+    "Ramón": {
+      "codename": "Ramon"
+    },
+    "The King of Dinosaurs": {
+      "codename": "TheKingofDinosaurs"
+    },
+    "Isla": {
+      "codename": "Isla"
+    },
+    "Heidern": {
+      "codename": "Heidern"
+    },
+    "Dolores": {
+      "codename": "Dolores"
+    },
+    "Ash Crimson": {
+      "codename": "AshCrimson"
+    },
+    "K'": {
+      "codename": "K"
+    },
+    "Kukri": {
+      "codename": "Kukri"
+    },
+    "Whip": {
+      "codename": "Whip"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "0.1",
+  "description": "Base config to use this game.",
+  "credits": "@MathiasWolfbrok for cropping"
+}

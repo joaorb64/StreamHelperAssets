@@ -1,0 +1,85 @@
+{
+  "name": "Power Rangers: Battle for the Grid",
+  "smashgg_game_id": 22156,
+  "character_to_codename": {
+    "Jason Lee Scott": {
+      "codename": "1-ranger"
+    },
+    "Tommy Oliver": {
+      "codename": "2-ranger"
+    },
+    "Gia Moran": {
+      "codename": "3-ranger"
+    },
+    "Lord Drakkon": {
+      "codename": "4-ranger"
+    },
+    "Goldar": {
+      "codename": "5-ranger"
+    },
+    "Ranger Slayer": {
+      "codename": "6-ranger"
+    },
+    "Magna Defender": {
+      "codename": "7-ranger"
+    },
+    "Kat Manx": {
+      "codename": "8-ranger"
+    },
+    "Mastodon Sentry": {
+      "codename": "9-ranger"
+    },
+    "Udonna": {
+      "codename": "10-ranger"
+    },
+    "Dragon Armor Trini": {
+      "codename": "11-ranger"
+    },
+    "Cenozoic Blue Ranger": {
+      "codename": "12-ranger"
+    },
+    "Jen Scotts": {
+      "codename": "13-ranger"
+    },
+    "Trey of Triforia": {
+      "codename": "14-ranger"
+    },
+    "Lord Zedd": {
+      "codename": "15-ranger"
+    },
+    "Anubis 'Doggie' Cruger": {
+      "codename": "16-ranger"
+    },
+    "Eric Myers": {
+      "codename": "17-ranger"
+    },
+    "Dai Shi": {
+      "codename": "18-ranger"
+    },
+    "Robert \u201cRJ\u201d James": {
+      "codename": "19-ranger"
+    },
+    "Lauren Shiba": {
+      "codename": "20-ranger"
+    },
+    "Scorpina": {
+      "codename": "21-ranger"
+    },
+    "Chun-Li": {
+      "codename": "22-ranger"
+    },
+    "Ryu": {
+      "codename": "23-ranger"
+    },
+    "Adam Park": {
+      "codename": "24-ranger"
+    },
+    "Poisandra": {
+      "codename": "25-ranger"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

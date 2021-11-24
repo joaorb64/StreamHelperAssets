@@ -1,0 +1,11 @@
+{
+  "name": "Renders",
+  "description": "Character renders",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "1.0",
+  "credits": "@MathiasWolfbrok for cropping"
+}

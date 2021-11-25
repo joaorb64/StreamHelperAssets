@@ -69,10 +69,13 @@
     "Jack-O'": {
       "smashgg_name": "Jack-O",
       "codename": "Jack-O"
+    },
+    "Happy Chaos": {
+      "codename": "HappyChaos"
     }
   },
   "stage_to_codename": {},
-  "version": "1.1",
+  "version": "1.2",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki"
 }

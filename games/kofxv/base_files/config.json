@@ -103,10 +103,13 @@
     },
     "Whip": {
       "codename": "Whip"
+    },
+    "Ángel": {
+      "codename": "Angel"
     }
   },
   "stage_to_codename": {},
-  "version": "0.1",
+  "version": "0.2",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

@@ -1,0 +1,64 @@
+{
+  "name": "Super Dragon Ball Z",
+  "smashgg_game_id": 5933,
+  "character_to_codename": {
+    "Android 16": {
+      "codename": "12"
+    },
+    "Android 17": {
+      "codename": "13"
+    },
+    "Android 18": {
+      "codename": "14"
+    },
+    "Cell": {
+      "codename": "11"
+    },
+    "Chi-Chi": {
+      "codename": "8"
+    },
+    "Frieza": {
+      "codename": "7"
+    },
+    "Goku": {
+      "codename": "2"
+    },
+    "King Piccolo": {
+      "codename": "19"
+    },
+    "Krillin": {
+      "codename": "5"
+    },
+    "Majin Buu": {
+      "codename": "15"
+    },
+    "Majin Vegeta": {
+      "codename": "18"
+    },
+    "Mecha-Frieza": {
+      "codename": "9"
+    },
+    "Piccolo": {
+      "codename": "4"
+    },
+    "Teen Gohan": {
+      "codename": "6"
+    },
+    "Trunks": {
+      "codename": "10"
+    },
+    "Ultimate Gohan": {
+      "codename": "16"
+    },
+    "Vegeta": {
+      "codename": "3"
+    },
+    "Videl": {
+      "codename": "17"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

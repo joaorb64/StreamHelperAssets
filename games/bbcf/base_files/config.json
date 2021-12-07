@@ -1,0 +1,118 @@
+{
+  "name": "BlazBlue: Central Fiction",
+  "smashgg_game_id": 37,
+  "character_to_codename": {
+    "Amane Nishiki": {
+      "codename": "AmaneNishiki"
+    },
+    "Arakune": {
+      "codename": "Arakune"
+    },
+    "Azrael": {
+      "codename": "Azrael"
+    },
+    "Bang Shishigami": {
+      "codename": "BangShishigami"
+    },
+    "Bullet": {
+      "codename": "Bullet"
+    },
+    "Carl Clover": {
+      "codename": "CarlClover"
+    },
+    "Celica A. Mercury": {
+      "codename": "CelicaAMercury"
+    },
+    "Es": {
+      "codename": "Es"
+    },
+    "Hakumen": {
+      "codename": "Hakumen"
+    },
+    "Hazama": {
+      "codename": "Hazama"
+    },
+    "Hibiki Kohaku": {
+      "codename": "HibikiKohaku"
+    },
+    "Iron Tager": {
+      "codename": "IronTager"
+    },
+    "Izanami": {
+      "codename": "Izanami"
+    },
+    "Izayoi": {
+      "codename": "Izayoi"
+    },
+    "Jin Kisaragi": {
+      "codename": "JinKisaragi"
+    },
+    "Jubei": {
+      "codename": "Jubei"
+    },
+    "Kagura Mutsuki": {
+      "codename": "KaguraMutsuki"
+    },
+    "Kokonoe": {
+      "codename": "Kokonoe"
+    },
+    "Litchi Faye Ling": {
+      "codename": "LitchiFayeLing"
+    },
+    "Mai Natsume": {
+      "codename": "MaiNatsume"
+    },
+    "Makoto Nanaya": {
+      "codename": "MakotoNanaya"
+    },
+    "Naoto Kurogane": {
+      "codename": "NaotoKurogane"
+    },
+    "Nine the Phantom": {
+      "codename": "NinethePhantom"
+    },
+    "Noel Vermillion": {
+      "codename": "NoelVermillion"
+    },
+    "Platinum the Trinity": {
+      "codename": "PlatinumtheTrinity"
+    },
+    "Rachel Alucard": {
+      "codename": "RachelAlucard"
+    },
+    "Ragna the Bloodedge": {
+      "codename": "RagnatheBloodedge"
+    },
+    "Relius Clover": {
+      "codename": "ReliusClover"
+    },
+    "Susano'o": {
+      "codename": "Susanoo"
+    },
+    "Taokaka": {
+      "codename": "Taokaka"
+    },
+    "Tsubaki Yayoi": {
+      "codename": "TsubakiYayoi"
+    },
+    "Valkenhayn R. Hellsing": {
+      "codename": "ValkenhaynRHellsing"
+    },
+    "Yuuki Terumi": {
+      "codename": "YuukiTerumi"
+    },
+    "Lambda-11": {
+      "codename": "Lambda11"
+    },
+    "Mu-12": {
+      "codename": "Mu12"
+    },
+    "Nu-13": {
+      "codename": "Nu13"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Files ripped from Dustloop Wiki"
+}

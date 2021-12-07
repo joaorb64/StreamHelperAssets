@@ -1,0 +1,37 @@
+{
+  "name": "Jackie Chan in Fists of Fire",
+  "smashgg_game_id": 16346,
+  "character_to_codename": {
+    "Lau": {
+      "codename": "Lau"
+    },
+    "Yeung": {
+      "codename": "Yeung"
+    },
+    "Thorsten": {
+      "codename": "Thorsten"
+    },
+    "Drunken Fist Jackie": {
+      "codename": "DrunkenFistJackie"
+    },
+    "Spiritual Kung-Fu Jackie": {
+      "codename": "SpiritualKungFuJackie"
+    },
+    "Admiral Jackie": {
+      "codename": "AdmiralJackie"
+    },
+    "Sam": {
+      "codename": "Sam"
+    },
+    "Kim-Maree": {
+      "codename": "KimMaree"
+    },
+    "Mysterious Lion": {
+      "codename": "MysteriousLion"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Jackie_Chan_in_Fists_of_Fire)"
+}

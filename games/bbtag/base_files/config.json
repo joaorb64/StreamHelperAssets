@@ -1,0 +1,169 @@
+{
+  "name": "BlazBlue Cross Tag Battle",
+  "smashgg_game_id": 1144,
+  "character_to_codename": {
+    "Azrael": {
+      "codename": "Azrael"
+    },
+    "Celica A. Mercury": {
+      "codename": "CelicaAMercury"
+    },
+    "Es": {
+      "codename": "Es"
+    },
+    "Hakumen": {
+      "codename": "Hakumen"
+    },
+    "Hazama": {
+      "codename": "Hazama"
+    },
+    "Iron Tager": {
+      "codename": "IronTager"
+    },
+    "Izayoi": {
+      "codename": "Izayoi"
+    },
+    "Jin Kisaragi": {
+      "codename": "JinKisaragi"
+    },
+    "Jubei": {
+      "codename": "Jubei"
+    },
+    "Mai Natsume": {
+      "codename": "MaiNatsume"
+    },
+    "Makoto Nanaya": {
+      "codename": "MakotoNanaya"
+    },
+    "Naoto Kurogane": {
+      "codename": "NaotoKurogane"
+    },
+    "Nine the Phantom": {
+      "codename": "NinethePhantom"
+    },
+    "Noel Vermillion": {
+      "codename": "NoelVermillion"
+    },
+    "Platinum the Trinity": {
+      "codename": "PlatinumtheTrinity"
+    },
+    "Rachel Alucard": {
+      "codename": "RachelAlucard"
+    },
+    "Ragna the Bloodedge": {
+      "codename": "RagnatheBloodedge"
+    },
+    "Susano'o": {
+      "codename": "Susanoo"
+    },
+    "Nu-13": {
+      "codename": "Nu13"
+    },
+    "Aegis": {
+      "codename": "Aegis"
+    },
+    "Akihiko Sanada": {
+      "codename": "AkihikoSanada"
+    },
+    "Chie Satonaka": {
+      "codename": "ChieSatonaka"
+    },
+    "Elizabeth": {
+      "codename": "Elizabeth"
+    },
+    "Kanji Tatsumi": {
+      "codename": "KanjiTatsumi"
+    },
+    "Labrys": {
+      "codename": "Labrys"
+    },
+    "Mitsuru Kirijo": {
+      "codename": "MitsuruKirijo"
+    },
+    "Naoto Shirogane": {
+      "codename": "NaotoShirogane"
+    },
+    "Teddie": {
+      "codename": "Teddie"
+    },
+    "Tohru Adachi": {
+      "codename": "TohruAdachi"
+    },
+    "Yosuke Hanamura": {
+      "codename": "YosukeHanamura"
+    },
+    "Yu Narukami": {
+      "codename": "YuNarukami"
+    },
+    "Yukiko Amagi": {
+      "codename": "YukikoAmagi"
+    },
+    "Carmine": {
+      "codename": "Carmine"
+    },
+    "Gordeau": {
+      "codename": "Gordeau"
+    },
+    "Hilda": {
+      "codename": "Hilda"
+    },
+    "Hyde": {
+      "codename": "Hyde"
+    },
+    "Linne": {
+      "codename": "Linne"
+    },
+    "Merkava": {
+      "codename": "Merkava"
+    },
+    "Mika": {
+      "codename": "Mika"
+    },
+    "Orie": {
+      "codename": "Orie"
+    },
+    "Seth": {
+      "codename": "Seth"
+    },
+    "Vatista": {
+      "codename": "Vatista"
+    },
+    "Waldstein": {
+      "codename": "Waldstein"
+    },
+    "Yuzuriha": {
+      "codename": "Yuzuriha"
+    },
+    "Blake Belladonna": {
+      "codename": "BlakeBelladonna"
+    },
+    "Neo Politan": {
+      "codename": "NeoPolitan"
+    },
+    "Ruby Rose": {
+      "codename": "RubyRose"
+    },
+    "Weiss Schnee": {
+      "codename": "WeissSchnee"
+    },
+    "Yang Xiao Long": {
+      "codename": "YangXiaoLong"
+    },
+    "Heart Aino": {
+      "codename": "HeartAino"
+    },
+    "Yumi": {
+      "codename": "Yumi"
+    },
+    "Akatsuki": {
+      "codename": "Akatsuki"
+    },
+    "Blitztank": {
+      "codename": "Blitztank"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Files ripped from Dustloop Wiki"
+}

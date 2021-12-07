@@ -7,13 +7,13 @@ import sys
 sys.setrecursionlimit(100)
 
 dustloop_page = requests.get(
-    "http://www.dustloop.com/wiki/index.php?title=BlazBlue:_Central_Fiction", timeout=30)
+    "http://www.dustloop.com/wiki/index.php?title=BlazBlue_Cross_Tag_Battle", timeout=30)
 dustloop_content = dustloop_page.text
 dustloop_soup = BS(dustloop_content, features="html.parser")
 character_table = dustloop_soup.findAll(
     'div', {'class': f'div-col columns column-width'})
 
-game_id = 37
+game_id = 1144
 
 download_folder_name = "../download_smashgg/download"
 base_files_folder_name = f"{download_folder_name}/base_files"
@@ -33,14 +33,17 @@ def robust_request(link):
     return(response)
 
 def get_icon_from_character_name(character_name):
+    print(character_name)
     list_img_tags = dustloop_soup.findAll('img')
     for tag in list_img_tags:
         try:
             alt_text = tag["alt"]
         except:
             alt_text = None
-        if (character_name in alt_text) and ("Icon.png" in alt_text):
-            srcset = tag["srcset"].split(", ")
+        for part in character_name.split(' '):
+            processing = part.split('-')[0].lower().replace("'", '')
+            if (processing != "the") and (processing in alt_text.lower()) and ("Icon.png".lower() in alt_text.lower()):
+                srcset = tag["srcset"].split(", ")
     return(f"http://dustloop.com{srcset[-1].split(' ')[0]}")
 
 
@@ -50,7 +53,7 @@ def get_portrait(character_name, page_link):
     character_page_links_tag_list = character_page_soup.findAll('a', href=True)
     for tag in character_page_links_tag_list:
         link = tag["href"]
-        if ("_Portrait" in link) and ("File:BBCF" in link):
+        if ("_Portrait" in link) and ("File:BBTag" in link):
             portrait_wiki_link = link
     portrait_wiki_page = robust_request(f"http://dustloop.com{portrait_wiki_link}")
     portrait_wiki_soup = BS(portrait_wiki_page.text, features="html.parser")
@@ -59,7 +62,7 @@ def get_portrait(character_name, page_link):
     for tag in portrait_page_links_tag_list:
         text = tag.get_text()
         link = tag["href"]
-        if (("Original file" in text) and ("_Portrait" in link)) or (("BBCF_" in text) and ("_Portrait.png" in text) and ("_Portrait" in link)):
+        if (("Original file" in text) and ("_Portrait" in link)) or (("BBTag_" in text) and ("_Portrait.png" in text) and ("_Portrait" in link)):
             break
     result = f"http://dustloop.com{link}"
     if result:
@@ -69,8 +72,13 @@ def get_portrait(character_name, page_link):
 
 
 def get_all_links():
-    list_characters_tag = character_table[0].findAll('b')
-    list_characters_page_tag = character_table[0].findAll('a', href=True)
+    list_characters_tag = []
+    list_characters_page_tag = []
+    for table_elem in character_table:
+        for character_tag in table_elem.findAll('b'):
+            list_characters_tag.append(character_tag)
+        for character_page_tag in table_elem.findAll('a', href=True):
+            list_characters_page_tag.append(character_page_tag)
 
     character_dict = {}
 

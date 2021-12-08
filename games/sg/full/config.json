@@ -1,0 +1,11 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Skullgirls)\n@MathiasWolfbrok for cropping",
+  "version": "1.0"
+}

@@ -106,10 +106,13 @@
     },
     "Ángel": {
       "codename": "Angel"
+    },
+    "Krohnen": {
+      "codename": "Krohnen"
     }
   },
   "stage_to_codename": {},
-  "version": "0.2",
+  "version": "0.3",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

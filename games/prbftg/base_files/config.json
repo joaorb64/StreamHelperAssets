@@ -76,10 +76,13 @@
     },
     "Poisandra": {
       "codename": "25-ranger"
+    },
+    "Rita Repulsa": {
+      "codename": "26-ranger"
     }
   },
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.1",
   "description": "Base config to use this game.",
   "credits": ""
 }

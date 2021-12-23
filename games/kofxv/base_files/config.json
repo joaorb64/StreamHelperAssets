@@ -109,10 +109,13 @@
     },
     "Krohnen": {
       "codename": "Krohnen"
+    },
+    "Maxima": {
+      "codename": "Maxima"
     }
   },
   "stage_to_codename": {},
-  "version": "0.3",
+  "version": "0.4",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

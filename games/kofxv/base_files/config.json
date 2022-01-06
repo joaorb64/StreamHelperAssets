@@ -112,10 +112,13 @@
     },
     "Maxima": {
       "codename": "Maxima"
+    },
+    "Kula Diamond": {
+      "codename": "KulaDiamond"
     }
   },
   "stage_to_codename": {},
-  "version": "0.4",
+  "version": "0.5",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

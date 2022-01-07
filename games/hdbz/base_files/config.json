@@ -1,0 +1,64 @@
+{
+  "name": "Hyper Dragon Ball Z",
+  "smashgg_game_id": 22389,
+  "character_to_codename": {
+    "Babidi": {
+      "codename": "babidi"
+    },
+    "Super Buu": {
+      "codename": "buu"
+    },
+    "Freeza": {
+      "codename": "freeza"
+    },
+    "Eighteen": {
+      "codename": "18"
+    },
+    "Jiren": {
+      "codename": "jiren"
+    },
+    "Gohan": {
+      "codename": "gohan"
+    },
+    "Goku": {
+      "codename": "goku"
+    },
+    "SSJ Goku": {
+      "codename": "gokussj"
+    },
+    "Gotenks": {
+      "codename": "gotenks"
+    },
+    "Krillin": {
+      "codename": "krillin"
+    },
+    "Piccolo": {
+      "codename": "piccolo"
+    },
+    "Pilaf Gang": {
+      "codename": "pilaf"
+    },
+    "Mr. Satan": {
+      "codename": "satan"
+    },
+    "Tenshinhan": {
+      "codename": "tien"
+    },
+    "Vegeta": {
+      "codename": "vegeta"
+    },
+    "SSJ Vegeta": {
+      "codename": "vegetassj"
+    },
+    "Majin Vegeta": {
+      "codename": "vegetam"
+    },
+    "Vegetto": {
+      "codename": "vegetto"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

@@ -83,8 +83,8 @@ def write_configs(config_dict):
         f.write(json.dumps(icon_config_dict, indent=2))
 
     portrait_config_dict = {
-        "name": "Portraits",
-        "description": "Character portraits",
+        "name": "Pokémon Home sprites",
+        "description": "Pokémon Home sprites",
         "prefix": "full_",
         "postfix": "_",
         "type": ["full"],

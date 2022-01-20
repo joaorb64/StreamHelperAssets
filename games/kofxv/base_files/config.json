@@ -115,10 +115,13 @@
     },
     "Kula Diamond": {
       "codename": "KulaDiamond"
+    },
+    "Elisabeth Blanctorche": {
+      "codename": "ElisabethBlanctorche"
     }
   },
   "stage_to_codename": {},
-  "version": "0.5",
+  "version": "1.0",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

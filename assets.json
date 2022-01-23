@@ -60,7 +60,7 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1598523
+                        "size": 1598522
                     }
                 },
                 "name": "ARMS",
@@ -113,7 +113,7 @@
                 "files": {
                     "bbcf.base_files.7z": {
                         "name": "bbcf.base_files.7z",
-                        "size": 604626
+                        "size": 604625
                     }
                 },
                 "name": "BlazBlue: Central Fiction",
@@ -125,7 +125,7 @@
                 "files": {
                     "bbcf.full.7z": {
                         "name": "bbcf.full.7z",
-                        "size": 24721930
+                        "size": 24721924
                     }
                 },
                 "name": "Portraits",
@@ -142,7 +142,7 @@
                 "files": {
                     "bbtag.base_files.7z": {
                         "name": "bbtag.base_files.7z",
-                        "size": 440028
+                        "size": 440029
                     }
                 },
                 "name": "BlazBlue Cross Tag Battle",
@@ -154,7 +154,7 @@
                 "files": {
                     "bbtag.full.7z": {
                         "name": "bbtag.full.7z",
-                        "size": 31139846
+                        "size": 31139845
                     }
                 },
                 "name": "Portraits",
@@ -188,7 +188,7 @@
                 "files": {
                     "dbfz.base_files.7z": {
                         "name": "dbfz.base_files.7z",
-                        "size": 4301032
+                        "size": 4301033
                     }
                 },
                 "name": "Dragon Ball FighterZ",
@@ -217,7 +217,7 @@
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 9416002
+                        "size": 9416009
                     }
                 },
                 "name": "Artwork",
@@ -263,7 +263,7 @@
                 "files": {
                     "ggst.base_files.7z": {
                         "name": "ggst.base_files.7z",
-                        "size": 816695
+                        "size": 816694
                     }
                 },
                 "name": "Guilty Gear -STRIVE-",
@@ -275,7 +275,7 @@
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 11036662
+                        "size": 11036661
                     }
                 },
                 "name": "Renders",
@@ -333,7 +333,7 @@
                 "files": {
                     "hdbz.full.7z": {
                         "name": "hdbz.full.7z",
-                        "size": 200680
+                        "size": 200679
                     }
                 },
                 "name": "Portraits",
@@ -536,7 +536,7 @@
                 "files": {
                     "mbtl.full.7z": {
                         "name": "mbtl.full.7z",
-                        "size": 5753280
+                        "size": 5753279
                     }
                 },
                 "name": "Portraits",
@@ -606,7 +606,7 @@
                 "files": {
                     "mta.full.7z": {
                         "name": "mta.full.7z",
-                        "size": 22531928
+                        "size": 22531934
                     }
                 },
                 "name": "Renders",
@@ -618,7 +618,7 @@
                 "files": {
                     "mta.logo.7z": {
                         "name": "mta.logo.7z",
-                        "size": 1702129
+                        "size": 1702122
                     }
                 },
                 "name": "Emblems",
@@ -729,7 +729,7 @@
                 "files": {
                     "pkmn.full.7z": {
                         "name": "pkmn.full.7z",
-                        "size": 122911572
+                        "size": 122911573
                     }
                 },
                 "name": "Pok\u00e9mon Home sprites",
@@ -837,6 +837,71 @@
         },
         "name": "Power Rangers: Battle for the Grid"
     },
+    "roa": {
+        "assets": {
+            "art": {
+                "credits": "@Readeku for ripping the assets\n@MathiasWolfbrok for cropping",
+                "description": "Character artworks",
+                "files": {
+                    "roa.art.7z": {
+                        "name": "roa.art.7z",
+                        "size": 19414965
+                    }
+                },
+                "name": "Artwork",
+                "version": "1.0"
+            },
+            "base_files": {
+                "credits": "@Readeku for ripping the assets",
+                "description": "Base config to use this game.",
+                "files": {
+                    "roa.base_files.7z": {
+                        "name": "roa.base_files.7z",
+                        "size": 5187253
+                    }
+                },
+                "name": "Rivals of Aether",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@Readeku for ripping the assets\n@MathiasWolfbrok for cropping",
+                "description": "Character portraits",
+                "files": {
+                    "roa.full.7z": {
+                        "name": "roa.full.7z",
+                        "size": 3070774
+                    }
+                },
+                "name": "Portraits",
+                "version": "1.0"
+            },
+            "stage_bg": {
+                "credits": "@Readeku for ripping the assets",
+                "description": "Stage backgrounds",
+                "files": {
+                    "roa.stage_bg.7z": {
+                        "name": "roa.stage_bg.7z",
+                        "size": 167283911
+                    }
+                },
+                "name": "Stage Backgrounds",
+                "version": "1.0"
+            },
+            "stage_icon": {
+                "credits": "@Readeku for ripping the assets",
+                "description": "Stage icons",
+                "files": {
+                    "roa.stage_icon.7z": {
+                        "name": "roa.stage_icon.7z",
+                        "size": 1680134
+                    }
+                },
+                "name": "Stages",
+                "version": "1.0"
+            }
+        },
+        "name": "Rivals of Aether"
+    },
     "samsho2019": {
         "assets": {
             "base_files": {
@@ -845,7 +910,7 @@
                 "files": {
                     "samsho2019.base_files.7z": {
                         "name": "samsho2019.base_files.7z",
-                        "size": 1099901
+                        "size": 1099900
                     }
                 },
                 "name": "Samurai Shodown (2019)",
@@ -857,7 +922,7 @@
                 "files": {
                     "samsho2019.full.7z": {
                         "name": "samsho2019.full.7z",
-                        "size": 22444691
+                        "size": 22444692
                     }
                 },
                 "name": "Renders",
@@ -927,7 +992,7 @@
                 "files": {
                     "sf3ts.full_new.7z": {
                         "name": "sf3ts.full_new.7z",
-                        "size": 11189732
+                        "size": 11189731
                     }
                 },
                 "name": "Portraits (Online Edition)",
@@ -985,7 +1050,7 @@
                 "files": {
                     "sg.full.7z": {
                         "name": "sg.full.7z",
-                        "size": 18927106
+                        "size": 18927105
                     }
                 },
                 "name": "Portraits",
@@ -1031,7 +1096,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 27552
+                        "size": 27551
                     }
                 },
                 "name": "Super Smash Bros",
@@ -1055,7 +1120,7 @@
                 "files": {
                     "ssb64.portrait.7z": {
                         "name": "ssb64.portrait.7z",
-                        "size": 335247
+                        "size": 335246
                     }
                 },
                 "name": "Portraits",
@@ -1084,7 +1149,7 @@
                 "files": {
                     "ssbm.portrait.7z": {
                         "name": "ssbm.portrait.7z",
-                        "size": 4125274
+                        "size": 4125282
                     }
                 },
                 "name": "Portraits",
@@ -1137,7 +1202,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 299660335
+                        "size": 299660327
                     }
                 },
                 "name": "Full",
@@ -1161,7 +1226,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 26269365
+                        "size": 26269366
                     }
                 },
                 "name": "Portraits",
@@ -1185,7 +1250,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 423015139
+                        "size": 423015169
                     }
                 },
                 "name": "Webms",
@@ -1202,7 +1267,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z": {
                         "name": "ssbwiiu.base_files.7z",
-                        "size": 70424
+                        "size": 70425
                     }
                 },
                 "name": "Super Smash Bros. for Wii U",
@@ -1219,7 +1284,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1991344
+                        "size": 1991345
                     }
                 },
                 "name": "Tekken 7",
@@ -1265,7 +1330,7 @@
                 "files": {
                     "touhou123hts.base_files.7z": {
                         "name": "touhou123hts.base_files.7z",
-                        "size": 2103023
+                        "size": 2103024
                     }
                 },
                 "name": "Touhou 12.3: Hisoutensoku",
@@ -1277,7 +1342,7 @@
                 "files": {
                     "touhou123hts.full.7z": {
                         "name": "touhou123hts.full.7z",
-                        "size": 5823351
+                        "size": 5823352
                     }
                 },
                 "name": "Portraits",
@@ -1294,7 +1359,7 @@
                 "files": {
                     "umvc3.base_files.7z": {
                         "name": "umvc3.base_files.7z",
-                        "size": 186529633
+                        "size": 186529636
                     }
                 },
                 "name": "Ultimate Marvel VS Capcom 3",
@@ -1306,7 +1371,7 @@
                 "files": {
                     "umvc3.full.7z": {
                         "name": "umvc3.full.7z",
-                        "size": 381305009
+                        "size": 381304980
                     }
                 },
                 "name": "Portraits",
@@ -1323,7 +1388,7 @@
                 "files": {
                     "uniclr.base_files.7z": {
                         "name": "uniclr.base_files.7z",
-                        "size": 192932
+                        "size": 192931
                     }
                 },
                 "name": "Under Night In-Birth Exe:Late[cl-r]",
@@ -1335,7 +1400,7 @@
                 "files": {
                     "uniclr.full.7z": {
                         "name": "uniclr.full.7z",
-                        "size": 10356604
+                        "size": 10356611
                     }
                 },
                 "name": "Portraits",
@@ -1352,7 +1417,7 @@
                 "files": {
                     "usfiv.base_files.7z": {
                         "name": "usfiv.base_files.7z",
-                        "size": 22078337
+                        "size": 22078338
                     }
                 },
                 "name": "Ultra Street Fighter IV",
@@ -1381,7 +1446,7 @@
                 "files": {
                     "vsav.base_files.7z": {
                         "name": "vsav.base_files.7z",
-                        "size": 99001
+                        "size": 99002
                     }
                 },
                 "name": "Darkstalkers 3 / Vampire Savior",
@@ -1451,7 +1516,7 @@
                 "files": {
                     "windjammers2.base_files.7z": {
                         "name": "windjammers2.base_files.7z",
-                        "size": 334444
+                        "size": 334487
                     }
                 },
                 "name": "Windjammers 2",

@@ -92,6 +92,7 @@
       "codename": "AirTemple"
     },
     "Irken Armada Invasion": {
+      "smashgg_id": 512,
       "codename": "Armada"
     },
     "CatDog’s House": {
@@ -113,6 +114,7 @@
       "codename": "GloveWorld"
     },
     "Jellyfish Fields": {
+      "smashgg_id": 509,
       "codename": "JellyFishFields"
     },
     "Powdered Toast Trouble": {
@@ -128,15 +130,18 @@
       "codename": "Playground"
     },
     "Harmonic Convergence": {
+      "smashgg_id": 510,
       "codename": "Portals"
     },
     "Rooftop Rumble": {
+      "smashgg_id": 511,
       "codename": "Rooftop"
     },
     "Traffic Jam": {
       "codename": "SchoolBus"
     },
     "Sewers Slam": {
+      "smashgg_id": 519,
       "codename": "Sewers"
     },
     "Space Madness": {
@@ -149,6 +154,7 @@
       "codename": "WildJungle"
     },
     "Sweet Dreams": {
+      "smashgg_id": 518,
       "codename": "FoodDream"
     }
   },

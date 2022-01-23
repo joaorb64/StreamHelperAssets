@@ -1,0 +1,151 @@
+{
+  "name": "Rivals of Aether",
+  "smashgg_game_id": 24,
+  "character_to_codename": {
+    "Zetterburn": {
+      "smashgg_name": "Zetterburn",
+      "codename": "Zetterburn"
+    },
+    "Orcane": {
+      "smashgg_name": "Orcane",
+      "codename": "Orcane"
+    },
+    "Wrastor": {
+      "smashgg_name": "Wrastor",
+      "codename": "Wrastor"
+    },
+    "Kragg": {
+      "smashgg_name": "Kragg",
+      "codename": "Kragg"
+    },
+    "Forsburn": {
+      "smashgg_name": "Forsburn",
+      "codename": "Forsburn"
+    },
+    "Maypul": {
+      "smashgg_name": "Maypul",
+      "codename": "Maypul"
+    },
+    "Absa": {
+      "smashgg_name": "Absa",
+      "codename": "Absa"
+    },
+    "Etalus": {
+      "smashgg_name": "Etalus",
+      "codename": "Etalus"
+    },
+    "Ori": {
+      "smashgg_name": "Ori",
+      "codename": "Ori"
+    },
+    "Ranno": {
+      "smashgg_name": "Ranno",
+      "codename": "Ranno"
+    },
+    "Clairen": {
+      "smashgg_name": "Clairen",
+      "codename": "Clairen"
+    },
+    "Sylvanos": {
+      "smashgg_name": "Sylvanos",
+      "codename": "Sylvanos"
+    },
+    "Elliana": {
+      "smashgg_name": "Elliana",
+      "codename": "Elliana"
+    },
+    "Shovel Knight": {
+      "smashgg_name": "Shovel Knight",
+      "codename": "ShovelKnight"
+    },
+    "Mollo": {
+      "codename": "Mollo"
+    },
+    "Hodan": {
+      "codename": "Hodan"
+    },
+    "Olympia": {
+      "codename": "Olympia"
+    },
+    "Pomme": {
+      "codename": "Pomme"
+    }
+  },
+  "stage_to_codename": {
+    "Aether High": {
+      "codename": "uni"
+    },
+    "Aetherial Gates": {
+      "codename": "aether"
+    },
+    "Air Armada": {
+      "codename": "armada"
+    },
+    "Blazing Hideout": {
+      "codename": "hideout"
+    },
+    "Diamond Grove": {
+      "codename": "grove"
+    },
+    "Fire Capital": {
+      "codename": "capital"
+    },
+    "Frozen Fortress": {
+      "codename": "fortress"
+    },
+    "Frozen Gates": {
+      "codename": "frozen"
+    },
+    "Julesvale": {
+      "codename": "julesvale"
+    },
+    "Merchant Port": {
+      "codename": "port"
+    },
+    "Neo Fire Capital": {
+      "codename": "neo"
+    },
+    "Pridemoor Keep": {
+      "codename": "keep"
+    },
+    "Tempest Peak": {
+      "codename": "tempest"
+    },
+    "Tetherball Court": {
+      "codename": "tether"
+    },
+    "The CEO Ring": {
+      "codename": "ceo"
+    },
+    "The Endless Abyss": {
+      "codename": "abyss"
+    },
+    "The Forest Floor": {
+      "codename": "floor"
+    },
+    "The RoA Ring": {
+      "codename": "ring"
+    },
+    "The Rock Wall": {
+      "codename": "wall"
+    },
+    "The Spirit Tree": {
+      "codename": "oristage"
+    },
+    "The Swampy Estuary": {
+      "codename": "swamp"
+    },
+    "Tower of Heaven": {
+      "codename": "heaven"
+    },
+    "Treetop Lodge": {
+      "codename": "treetop"
+    },
+    "Troupple Pond": {
+      "codename": "shovelstage"
+    }
+  },
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "@Readeku for ripping the assets"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Artwork",
+    "description": "Character artworks",
+    "prefix": "art_",
+    "postfix": "_",
+    "type": ["art"],
+    "credits": "@Readeku for ripping the assets\n@MathiasWolfbrok for cropping",
+    "version": "1.0"
+}

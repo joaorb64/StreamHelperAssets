@@ -1,0 +1,61 @@
+{
+  "name": "Super Street Fighter II Turbo",
+  "smashgg_game_id": 611,
+  "character_to_codename": {
+    "Balrog": {
+      "codename": "mbison"
+    },
+    "Blanka": {
+      "codename": "blanka"
+    },
+    "Cammy": {
+      "codename": "cammy"
+    },
+    "Chun-Li": {
+      "codename": "chunli"
+    },
+    "Dee Jay": {
+      "codename": "deejay"
+    },
+    "Dhalsim": {
+      "codename": "dhalsim"
+    },
+    "E. Honda": {
+      "codename": "ehonda"
+    },
+    "Fei Long": {
+      "codename": "feilong"
+    },
+    "Guile": {
+      "codename": "guile"
+    },
+    "Ken": {
+      "codename": "ken"
+    },
+    "M. Bison": {
+      "codename": "vega"
+    },
+    "Ryu": {
+      "codename": "ryu"
+    },
+    "Sagat": {
+      "codename": "sagat"
+    },
+    "T. Hawk": {
+      "codename": "thawk"
+    },
+    "Vega": {
+      "codename": "balrog"
+    },
+    "Zangief": {
+      "codename": "zangief"
+    },
+    "Akuma": {
+      "codename": "gouki"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

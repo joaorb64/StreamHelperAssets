@@ -3,153 +3,153 @@
   "smashgg_game_id": 39,
   "character_to_codename": {
     "Akuma": {
-      "codename": "Akuma"
+      "codename": "05"
     },
     "Balrog": {
-      "codename": "Balrog"
+      "codename": "24"
     },
     "Blanka": {
-      "codename": "Blanka"
+      "codename": "04"
     },
     "Cammy": {
-      "codename": "Cammy"
+      "codename": "09"
     },
     "Chun-Li": {
-      "codename": "ChunLi"
+      "codename": "11"
     },
     "Dan": {
-      "codename": "Dan"
+      "codename": "12"
     },
     "Dhalsim": {
-      "codename": "Dhalsim"
+      "codename": "17"
     },
     "Eagle": {
-      "codename": "Eagle"
+      "codename": "19"
     },
     "E.Honda": {
-      "codename": "EHonda"
+      "codename": "18"
     },
     "Guile": {
-      "codename": "Guile"
+      "codename": "06"
     },
     "Ken": {
-      "codename": "Ken"
+      "codename": "15"
     },
     "Kyosuke": {
-      "codename": "Kyosuke"
+      "codename": "23"
     },
     "Maki": {
-      "codename": "Maki"
+      "codename": "26"
     },
     "M. Bison": {
-      "codename": "MBison"
+      "codename": "31"
     },
     "Morrigan": {
-      "codename": "Morrigan"
+      "codename": "27"
     },
     "Rolento": {
-      "codename": "Rolento"
+      "codename": "35"
     },
     "Ryu": {
-      "codename": "Ryu"
+      "codename": "42"
     },
     "Sagat": {
-      "codename": "Sagat"
+      "codename": "43"
     },
     "Sakura": {
-      "codename": "Sakura"
+      "codename": "44"
     },
     "Vega": {
-      "codename": "Vega"
+      "codename": "02"
     },
     "Yun": {
-      "codename": "Yun"
+      "codename": "38"
     },
     "Zangief": {
-      "codename": "Zangief"
+      "codename": "40"
     },
     "Athena": {
-      "codename": "Athena"
+      "codename": "01"
     },
     "Benimaru": {
-      "codename": "Benimaru"
+      "codename": "03"
     },
     "Chang": {
-      "codename": "Chang"
+      "codename": "10"
     },
     "Geese": {
-      "codename": "Geese"
+      "codename": "20"
     },
     "Haohmaru": {
-      "codename": "Haohmaru"
+      "codename": "07"
     },
     "Hibiki": {
-      "codename": "Hibiki"
+      "codename": "08"
     },
     "Iori": {
-      "codename": "Iori"
+      "codename": "13"
     },
     "Joe": {
-      "codename": "Joe"
+      "codename": "14"
     },
     "Kim": {
-      "codename": "Kim"
+      "codename": "16"
     },
     "King": {
-      "codename": "King"
+      "codename": "21"
     },
     "Kyo": {
-      "codename": "Kyo"
+      "codename": "22"
     },
     "Mai": {
-      "codename": "Mai"
+      "codename": "25"
     },
     "Nakoruru": {
-      "codename": "Nakoruru"
+      "codename": "28"
     },
     "Raiden": {
-      "codename": "Raiden"
+      "codename": "33"
     },
     "Rock": {
-      "codename": "Rock"
+      "codename": "34"
     },
     "Rugal": {
-      "codename": "Rugal"
+      "codename": "36"
     },
     "Ryo": {
-      "codename": "Ryo"
+      "codename": "41"
     },
     "Terry": {
-      "codename": "Terry"
+      "codename": "29"
     },
     "Todo": {
-      "codename": "Todo"
+      "codename": "30"
     },
     "Vice": {
-      "codename": "Vice"
+      "codename": "32"
     },
     "Yamazaki": {
-      "codename": "Yamazaki"
+      "codename": "37"
     },
     "Yuri": {
-      "codename": "Yuri"
+      "codename": "39"
     },
     "Shin Akuma": {
-      "codename": "ShinAkuma"
+      "codename": "48"
     },
     "Ultimate Rugal": {
-      "codename": "UltimateRugal"
+      "codename": "47"
     },
     "Evil Ryu": {
-      "codename": "EvilRyu"
+      "codename": "46"
     },
     "Orochi Iori": {
-      "codename": "OrochiIori"
+      "codename": "45"
     }
   },
   "stage_to_codename": {},
-  "version": "1.1",
+  "version": "1.2",
   "description": "Base config to use this game.",
-  "credits": "Assets ripped from SRK Wiki (https://srk.shib.live/w/Capcom_vs_SNK_2)",
+  "credits": "",
   "ratio_game": true
 }

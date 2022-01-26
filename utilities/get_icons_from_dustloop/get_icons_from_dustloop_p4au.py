@@ -42,7 +42,7 @@ def get_icon_from_character_name(character_name):
             alt_text = None
         character_name_split = character_name.split(" ")
         for character_name_part in character_name_split:
-            if (character_name_part in alt_text.replace("PSho", "Minazuki")) and ("Icon.png" in tag['src']):
+            if (character_name_part in alt_text.replace("PSho", "Minazuki")) and ("Icon.png" in tag['src']) and ("px" not in tag["srcset"].split(", ")[-1]):
                 if ("Labrys" not in character_name):
                     srcset = tag["srcset"].split(", ")
                 if ("Labrys" in character_name):

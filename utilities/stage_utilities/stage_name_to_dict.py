@@ -12,4 +12,4 @@ for file in listdir:
             "codename": codename
         }
 
-print (json.dumps(stage_dict))
+print (json.dumps(stage_dict, sort_keys=True))

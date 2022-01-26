@@ -1,0 +1,11 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Files ripped from Dustloop Wiki\n@MathiasWolfbrok for cropping",
+  "version": "1.0"
+}

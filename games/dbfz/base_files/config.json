@@ -1,181 +1,181 @@
 {
-  "name": "Dragon Ball FighterZ",
-  "smashgg_game_id": 287,
   "character_to_codename": {
-    "Master Roshi": {
-      "codename": "MasterRoshi",
-      "smashgg_name": "Master Roshi"
+    "Android 16": {
+      "codename": "Android16",
+      "smashgg_name": "Android 16"
+    },
+    "Android 17": {
+      "codename": "Android17",
+      "smashgg_name": "Android 17"
+    },
+    "Android 18": {
+      "codename": "Android18",
+      "smashgg_name": "Android 18"
+    },
+    "Android 21": {
+      "codename": "Android21",
+      "smashgg_name": "Android 21"
+    },
+    "Bardock": {
+      "codename": "Bardock",
+      "smashgg_name": "Bardock"
+    },
+    "Beerus": {
+      "codename": "Beerus",
+      "smashgg_name": "Beerus"
+    },
+    "Broly": {
+      "codename": "Broly",
+      "smashgg_name": "Broly"
+    },
+    "Broly (DBS)": {
+      "codename": "BrolyDBS",
+      "smashgg_name": "Broly (DBS)"
+    },
+    "Captain Ginyu": {
+      "codename": "CaptainGinyu",
+      "smashgg_name": "Captain Ginyu"
+    },
+    "Cell": {
+      "codename": "Cell",
+      "smashgg_name": "Cell"
+    },
+    "Cooler": {
+      "codename": "Cooler",
+      "smashgg_name": "Cooler"
+    },
+    "Frieza": {
+      "codename": "Frieza",
+      "smashgg_name": "Frieza"
+    },
+    "Gogeta (SS4)": {
+      "codename": "GogetaSS4"
     },
     "Gogeta (SSGSS)": {
       "codename": "GogetaSSGSS",
       "smashgg_name": "Gogeta (SSGSS)"
     },
-    "Goku": {
-      "smashgg_name": "Goku",
-      "codename": "Goku"
-    },
-    "Tien": {
-      "smashgg_name": "Tien",
-      "codename": "Tien"
-    },
-    "Yamcha": {
-      "smashgg_name": "Yamcha",
-      "codename": "Yamcha"
-    },
-    "Krillin": {
-      "smashgg_name": "Krillin",
-      "codename": "Krillin"
-    },
-    "Goku (Super Saiyan)": {
-      "smashgg_name": "Goku (Super Saiyan)",
-      "codename": "GokuSuperSaiyan"
-    },
-    "Frieza": {
-      "smashgg_name": "Frieza",
-      "codename": "Frieza"
-    },
-    "Kid Buu": {
-      "smashgg_name": "Kid Buu",
-      "codename": "KidBuu"
-    },
-    "Captain Ginyu": {
-      "smashgg_name": "Captain Ginyu",
-      "codename": "CaptainGinyu"
-    },
-    "Nappa": {
-      "smashgg_name": "Nappa",
-      "codename": "Nappa"
-    },
-    "Vegeta": {
-      "smashgg_name": "Vegeta",
-      "codename": "Vegeta"
-    },
-    "Broly (DBS)": {
-      "smashgg_name": "Broly (DBS)",
-      "codename": "BrolyDBS"
-    },
-    "Super Baby 2": {
-      "smashgg_name": "Super Baby 2",
-      "codename": "SuperBaby2"
-    },
-    "Goku (GT)": {
-      "smashgg_name": "Goku (GT)",
-      "codename": "GokuGT"
-    },
-    "Android 17": {
-      "smashgg_name": "Android 17",
-      "codename": "Android17"
-    },
-    "Bardock": {
-      "smashgg_name": "Bardock",
-      "codename": "Bardock"
-    },
-    "Goku (SSGSS)": {
-      "smashgg_name": "Goku (SSGSS)",
-      "codename": "GokuSSGSS"
-    },
     "Gohan (Adult)": {
-      "smashgg_name": "Gohan (Adult)",
-      "codename": "GohanAdult"
-    },
-    "Trunks": {
-      "smashgg_name": "Trunks",
-      "codename": "Trunks"
-    },
-    "Vegeta (Super Saiyan)": {
-      "smashgg_name": "Vegeta (Super Saiyan)",
-      "codename": "VegetaSuperSaiyan"
-    },
-    "Cell": {
-      "smashgg_name": "Cell",
-      "codename": "Cell"
-    },
-    "Android 18": {
-      "smashgg_name": "Android 18",
-      "codename": "Android18"
-    },
-    "Android 16": {
-      "smashgg_name": "Android 16",
-      "codename": "Android16"
-    },
-    "Android 21": {
-      "smashgg_name": "Android 21",
-      "codename": "Android21"
-    },
-    "Broly": {
-      "smashgg_name": "Broly",
-      "codename": "Broly"
-    },
-    "Cooler": {
-      "smashgg_name": "Cooler",
-      "codename": "Cooler"
-    },
-    "Janemba": {
-      "smashgg_name": "Janemba",
-      "codename": "Janemba"
-    },
-    "Goku (Ultra Instinct)": {
-      "smashgg_name": "Goku (Ultra Instinct)",
-      "codename": "GokuUltraInstinct"
-    },
-    "Videl": {
-      "smashgg_name": "Videl",
-      "codename": "Videl"
-    },
-    "Vegito (SSGSS)": {
-      "smashgg_name": "Vegito (SSGSS)",
-      "codename": "VegitoSSGSS"
-    },
-    "Vegeta (SSGSS)": {
-      "smashgg_name": "Vegeta (SSGSS)",
-      "codename": "VegetaSSGSS"
-    },
-    "Gotenks": {
-      "smashgg_name": "Gotenks",
-      "codename": "Gotenks"
-    },
-    "Piccolo": {
-      "smashgg_name": "Piccolo",
-      "codename": "Piccolo"
+      "codename": "GohanAdult",
+      "smashgg_name": "Gohan (Adult)"
     },
     "Gohan (Teen)": {
-      "smashgg_name": "Gohan (Teen)",
-      "codename": "GohanTeen"
+      "codename": "GohanTeen",
+      "smashgg_name": "Gohan (Teen)"
     },
-    "Gogeta (SS4)": {
-      "codename": "GogetaSS4"
+    "Goku": {
+      "codename": "Goku",
+      "smashgg_name": "Goku"
     },
-    "Majin Buu": {
-      "smashgg_name": "Majin Buu",
-      "codename": "MajinBuu"
+    "Goku (GT)": {
+      "codename": "GokuGT",
+      "smashgg_name": "Goku (GT)"
     },
-    "Beerus": {
-      "smashgg_name": "Beerus",
-      "codename": "Beerus"
+    "Goku (SSGSS)": {
+      "codename": "GokuSSGSS",
+      "smashgg_name": "Goku (SSGSS)"
     },
-    "Hit": {
-      "smashgg_name": "Hit",
-      "codename": "Hit"
+    "Goku (Super Saiyan)": {
+      "codename": "GokuSuperSaiyan",
+      "smashgg_name": "Goku (Super Saiyan)"
+    },
+    "Goku (Ultra Instinct)": {
+      "codename": "GokuUltraInstinct",
+      "smashgg_name": "Goku (Ultra Instinct)"
     },
     "Goku Black": {
-      "smashgg_name": "Goku Black",
-      "codename": "GokuBlack"
+      "codename": "GokuBlack",
+      "smashgg_name": "Goku Black"
     },
-    "Zamasu (Fused)": {
-      "smashgg_name": "Zamasu (Fused)",
-      "codename": "ZamasuFused"
+    "Gotenks": {
+      "codename": "Gotenks",
+      "smashgg_name": "Gotenks"
+    },
+    "Hit": {
+      "codename": "Hit",
+      "smashgg_name": "Hit"
+    },
+    "Janemba": {
+      "codename": "Janemba",
+      "smashgg_name": "Janemba"
     },
     "Jiren": {
-      "smashgg_name": "Jiren",
-      "codename": "Jiren"
+      "codename": "Jiren",
+      "smashgg_name": "Jiren"
     },
     "Kefla": {
-      "smashgg_name": "Kefla",
-      "codename": "Kefla"
+      "codename": "Kefla",
+      "smashgg_name": "Kefla"
+    },
+    "Kid Buu": {
+      "codename": "KidBuu",
+      "smashgg_name": "Kid Buu"
+    },
+    "Krillin": {
+      "codename": "Krillin",
+      "smashgg_name": "Krillin"
+    },
+    "Majin Buu": {
+      "codename": "MajinBuu",
+      "smashgg_name": "Majin Buu"
+    },
+    "Master Roshi": {
+      "codename": "MasterRoshi",
+      "smashgg_name": "Master Roshi"
+    },
+    "Nappa": {
+      "codename": "Nappa",
+      "smashgg_name": "Nappa"
+    },
+    "Piccolo": {
+      "codename": "Piccolo",
+      "smashgg_name": "Piccolo"
+    },
+    "Super Baby 2": {
+      "codename": "SuperBaby2",
+      "smashgg_name": "Super Baby 2"
+    },
+    "Tien": {
+      "codename": "Tien",
+      "smashgg_name": "Tien"
+    },
+    "Trunks": {
+      "codename": "Trunks",
+      "smashgg_name": "Trunks"
+    },
+    "Vegeta": {
+      "codename": "Vegeta",
+      "smashgg_name": "Vegeta"
+    },
+    "Vegeta (SSGSS)": {
+      "codename": "VegetaSSGSS",
+      "smashgg_name": "Vegeta (SSGSS)"
+    },
+    "Vegeta (Super Saiyan)": {
+      "codename": "VegetaSuperSaiyan",
+      "smashgg_name": "Vegeta (Super Saiyan)"
+    },
+    "Vegito (SSGSS)": {
+      "codename": "VegitoSSGSS",
+      "smashgg_name": "Vegito (SSGSS)"
+    },
+    "Videl": {
+      "codename": "Videl",
+      "smashgg_name": "Videl"
+    },
+    "Yamcha": {
+      "codename": "Yamcha",
+      "smashgg_name": "Yamcha"
+    },
+    "Zamasu (Fused)": {
+      "codename": "ZamasuFused",
+      "smashgg_name": "Zamasu (Fused)"
     }
   },
-  "stage_to_codename": {},
-  "version": "1.1",
+  "credits": "Files ripped from Dustloop Wiki",
   "description": "Base config to use this game.",
-  "credits": "Files ripped from Dustloop Wiki"
+  "name": "Dragon Ball FighterZ",
+  "smashgg_game_id": 287,
+  "stage_to_codename": {},
+  "version": "1.1"
 }

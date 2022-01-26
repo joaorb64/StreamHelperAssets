@@ -48,5 +48,5 @@ with open(f"config.json", 'wt') as config_file:
                 with open(f"{blank_files_folder}/{codename}_0.png", "wb") as blank_character_file:
                     blank_character_file.write(bytearray())
 
-    config_file_content = json.dumps(config_dict, indent=2)
+    config_file_content = json.dumps(config_dict, indent=2, sort_keys=True)
     config_file.write(config_file_content)

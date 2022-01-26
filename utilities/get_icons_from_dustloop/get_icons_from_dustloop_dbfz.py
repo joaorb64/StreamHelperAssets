@@ -41,7 +41,12 @@ def get_icon_from_character_name(character_name):
             alt_text = None
         if (character_name in alt_text) and (alt_text in character_name) and ("Icon.png" in tag["src"]):
             srcset = tag["srcset"].split(", ")
-    return(f"http://dustloop.com{srcset[-1].split(' ')[0]}")
+    url:str = srcset[-1].split(' ')[0]
+    if "thumb" in url:
+        url = url.replace("/thumb", "")
+        url_split = url.split("/")
+        url = '/'.join(url_split[:-1])
+    return(f"http://dustloop.com{url}")
 
 
 def get_portrait(character_name, page_link):

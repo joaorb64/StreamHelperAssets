@@ -1,0 +1,77 @@
+{
+  "challonge_game_id": 23768,
+  "character_to_codename": {
+    "Aigis": {
+      "codename": "Aigis"
+    },
+    "Akihiko Sanada": {
+      "codename": "AkihikoSanada"
+    },
+    "Chie Satonaka": {
+      "codename": "ChieSatonaka"
+    },
+    "Elizabeth": {
+      "codename": "Elizabeth"
+    },
+    "Junpei Iori": {
+      "codename": "JunpeiIori"
+    },
+    "Kanji Tatsumi": {
+      "codename": "KanjiTatsumi"
+    },
+    "Ken Amada": {
+      "codename": "KenAmada"
+    },
+    "Labrys": {
+      "codename": "Labrys"
+    },
+    "Margaret": {
+      "codename": "Margaret"
+    },
+    "Marie": {
+      "codename": "Marie"
+    },
+    "Minazuki": {
+      "codename": "Minazuki"
+    },
+    "Mitsuru Kirijo": {
+      "codename": "MitsuruKirijo"
+    },
+    "Naoto Shirogane": {
+      "codename": "NaotoShirogane"
+    },
+    "Rise Kujikawa": {
+      "codename": "RiseKujikawa"
+    },
+    "Shadow Labrys": {
+      "codename": "ShadowLabrys"
+    },
+    "Sho": {
+      "codename": "Sho"
+    },
+    "Teddie": {
+      "codename": "Teddie"
+    },
+    "Tohru Adachi": {
+      "codename": "TohruAdachi"
+    },
+    "Yosuke Hanamura": {
+      "codename": "YosukeHanamura"
+    },
+    "Yu Narukami": {
+      "codename": "YuNarukami"
+    },
+    "Yukari Takeba": {
+      "codename": "YukariTakeba"
+    },
+    "Yukiko Amagi": {
+      "codename": "YukikoAmagi"
+    }
+  },
+  "credits": "Files ripped from Dustloop Wiki",
+  "description": "Base config to use this game.",
+  "name": "Persona 4 Arena Ultimax",
+  "smashgg_game_id": 11065,
+  "stage_to_codename": {},
+  "version": "1.1"
+}

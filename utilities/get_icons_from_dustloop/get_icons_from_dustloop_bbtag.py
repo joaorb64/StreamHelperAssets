@@ -116,6 +116,7 @@ def generate_configs(character_dict):
         if game.get("smashgg_id") == game_id:
             game_name = game.get("name")
             image_type = game.get("image_type")
+            challonge_id = game.get("challonge_id")
             found = True
 
     if not found:
@@ -129,6 +130,7 @@ def generate_configs(character_dict):
     config_dict: dict = {
         "name": str(game_name),
         "smashgg_game_id": game_id,
+        "challonge_game_id": challonge_id,
         "character_to_codename": {},
         "stage_to_codename": {},
         "version": version,

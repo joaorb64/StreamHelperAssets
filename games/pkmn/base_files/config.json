@@ -2695,10 +2695,31 @@
     },
     "Calyrex": {
       "codename": "898"
+    },
+    "Wyrdeer": {
+      "codename": "899"
+    },
+    "Kleavor": {
+      "codename": "900"
+    },
+    "Ursaluna": {
+      "codename": "901"
+    },
+    "Basculegion": {
+      "codename": "902"
+    },
+    "Sneasler": {
+      "codename": "903"
+    },
+    "Overqwil": {
+      "codename": "904"
+    },
+    "Enamorus": {
+      "codename": "905"
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.1",
   "description": "Base config to use this game.",
   "credits": "",
   "challonge_game_id": 159142

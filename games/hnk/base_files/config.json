@@ -1,0 +1,41 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Heart": {
+      "codename": "Heart"
+    },
+    "Jagi": {
+      "codename": "Jagi"
+    },
+    "Juda": {
+      "codename": "Juda"
+    },
+    "Kenshiro": {
+      "codename": "Kenshiro"
+    },
+    "Mamiya": {
+      "codename": "Mamiya"
+    },
+    "Raoh": {
+      "codename": "Raoh"
+    },
+    "Rei": {
+      "codename": "Rei"
+    },
+    "Shin": {
+      "codename": "Shin"
+    },
+    "Thouther": {
+      "codename": "Thouther"
+    },
+    "Toki": {
+      "codename": "Toki"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Fist of the North Star",
+  "smashgg_game_id": 33726,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

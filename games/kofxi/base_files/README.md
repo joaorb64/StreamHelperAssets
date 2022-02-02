@@ -1,11 +1,10 @@
-# Portraits
+# The King of Fighters XI
 
 ## Description: 
 
-Character portraits
+Base config to use this game.
 
 ## Credits: 
 
 Files ripped from Hardedge Wiki
-@MathiasWolfbrok for cropping
 

@@ -1,0 +1,152 @@
+{
+  "name": "The King of Fighters XI",
+  "smashgg_game_id": 34054,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Kyo Kusanagi": {
+      "codename": "KyoKusanagi"
+    },
+    "Iori Yagami": {
+      "codename": "IoriYagami"
+    },
+    "Shingo Yabuki": {
+      "codename": "ShingoYabuki"
+    },
+    "Ash Crimson": {
+      "codename": "AshCrimson"
+    },
+    "Oswald": {
+      "codename": "Oswald"
+    },
+    "Shen Woo": {
+      "codename": "ShenWoo"
+    },
+    "Terry Bogard": {
+      "codename": "TerryBogard"
+    },
+    "Kim Kaphwan": {
+      "codename": "KimKaphwan"
+    },
+    "Duck King": {
+      "codename": "DuckKing"
+    },
+    "Vanessa": {
+      "codename": "Vanessa"
+    },
+    "Blue Mary": {
+      "codename": "BlueMary"
+    },
+    "Ramón": {
+      "codename": "Ramon"
+    },
+    "Ryo Sakazaki": {
+      "codename": "RyoSakazaki"
+    },
+    "Yuri Sakazaki": {
+      "codename": "YuriSakazaki"
+    },
+    "King": {
+      "codename": "King"
+    },
+    "Elisabeth Blanctorche": {
+      "codename": "Elisabeth"
+    },
+    "Duo Lon": {
+      "codename": "DuoLon"
+    },
+    "Benimaru Nikaido": {
+      "codename": "BenimaruNikaido"
+    },
+    "K'": {
+      "codename": "K"
+    },
+    "Kula Diamond": {
+      "codename": "KulaDiamond"
+    },
+    "Maxima": {
+      "codename": "Maxima"
+    },
+    "B. Jenet": {
+      "codename": "BJenet"
+    },
+    "Gato": {
+      "codename": "Gato"
+    },
+    "Tizoc": {
+      "codename": "Griffon"
+    },
+    "Ralf Jones": {
+      "codename": "Ralf"
+    },
+    "Clark Still": {
+      "codename": "Clark"
+    },
+    "Whip": {
+      "codename": "Whip"
+    },
+    "Malin": {
+      "codename": "Malin"
+    },
+    "Kasumi Todo": {
+      "codename": "KasumiTodo"
+    },
+    "Eiji Kisaragi": {
+      "codename": "Eiji"
+    },
+    "Athena Asamiya": {
+      "codename": "AthenaAsamiya"
+    },
+    "Sie Kensou": {
+      "codename": "SieKensou"
+    },
+    "Momoko": {
+      "codename": "Momoko"
+    },
+    "Adelheid Bernstein": {
+      "codename": "Adelheid"
+    },
+    "Gai Tendo": {
+      "codename": "GaiTendo"
+    },
+    "Sho Hayate": {
+      "codename": "Hayate"
+    },
+    "Silber": {
+      "codename": "Silber"
+    },
+    "Jyazu": {
+      "codename": "Jyazu"
+    },
+    "Shion": {
+      "codename": "Shion"
+    },
+    "Magaki": {
+      "codename": "Magaki"
+    },
+    "Hotaru Futaba": {
+      "codename": "Hotaru"
+    },
+    "Mai Shiranui": {
+      "codename": "MaiShiranui"
+    },
+    "Robert Garcia": {
+      "codename": "RobertGarcia"
+    },
+    "Tung Fu Rue": {
+      "codename": "TungFuRue"
+    },
+    "EX Kyo": {
+      "codename": "EXKyo"
+    },
+    "Mr. Big": {
+      "codename": "MrBig"
+    },
+    "Geese Howard": {
+      "codename": "Geese"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Files ripped from Hardedge Wiki"
+}

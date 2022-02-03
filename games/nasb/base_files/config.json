@@ -86,6 +86,9 @@
     "Garfield": {
       "smashgg_name": "Garfield",
       "codename": "orb"
+    },
+    "Shredder": {
+      "codename": "cheese"
     }
   },
   "stage_to_codename": {
@@ -157,9 +160,12 @@
     "Sweet Dreams": {
       "smashgg_id": 518,
       "codename": "FoodDream"
+    },
+    "Slime Time": {
+      "codename": "LifeShow"
     }
   },
-  "version": "1.41",
+  "version": "1.5",
   "description": "Base config to use this game.",
   "credits": ""
 }

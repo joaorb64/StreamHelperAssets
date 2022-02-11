@@ -1,0 +1,41 @@
+{
+  "name": "Art of Fighting 3: The Path of the Warrior",
+  "smashgg_game_id": 8893,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Jin Fu-Ha": {
+      "codename": "Jin"
+    },
+    "Karman Cole": {
+      "codename": "Karman"
+    },
+    "Kasumi Todoh": {
+      "codename": "Kasumi"
+    },
+    "Lenny Creston": {
+      "codename": "Lenny"
+    },
+    "Robert Garcia": {
+      "codename": "Robert"
+    },
+    "Rody Birts": {
+      "codename": "Rody"
+    },
+    "Ryo Sakazaki": {
+      "codename": "Ryo"
+    },
+    "Sinclair": {
+      "codename": "Sinclair"
+    },
+    "Wang Koh-San": {
+      "codename": "Wang"
+    },
+    "Wyler": {
+      "codename": "Wyler"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Art_of_Fighting_3)"
+}

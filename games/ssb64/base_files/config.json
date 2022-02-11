@@ -95,6 +95,10 @@
             "smashgg_name": "Lucas",
             "codename": "lucas"
         },
+        "Sonic": {
+            "smashgg_name": "Sonic",
+            "codename": "sonic"
+        },
         "Random Character": {
             "smashgg_name": "Random Character",
             "codename": "random"
@@ -391,8 +395,32 @@
         },
         "Zebes Ω": {
             "codename": "zebes_omega"
+        },
+        "Green Hill Zone": {
+            "codename": "green_hill_zone"
+        },
+        "Subcon": {
+            "codename": "subcon"
+        },
+        "Metallic Madness Zone": {
+            "codename": "metallic_madness_zone"
+        },
+        "Casino Night Zone": {
+            "codename": "cassino_night_zone"
+        },
+        "Pirate Land": {
+            "codename": "pirate_land"
+        },
+        "Hyrule Castle SR": {
+            "codename": "hyrule_castle_sr"
+        },
+        "Sector Z SR": {
+            "codename": "sector_z_sr"
+        },
+        "Mushroom Kingdom SR": {
+            "codename": "mushroom_kingdom_sr"
         }
     },
-    "version": "1.0",
+    "version": "1.1",
     "description": "Base config to use this game."
 }

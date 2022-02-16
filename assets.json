@@ -7,7 +7,7 @@
                 "files": {
                     "abaa.base_files.7z": {
                         "name": "abaa.base_files.7z",
-                        "size": 64740
+                        "size": 64741
                     }
                 },
                 "name": "Akatsuki Blitzkampf Ausf. Achse",
@@ -36,7 +36,7 @@
                 "files": {
                     "aof3.base_files.7z": {
                         "name": "aof3.base_files.7z",
-                        "size": 95557
+                        "size": 95558
                     }
                 },
                 "name": "Art of Fighting 3: The Path of the Warrior",
@@ -77,7 +77,7 @@
                 "files": {
                     "arms.badge_alt.7z": {
                         "name": "arms.badge_alt.7z",
-                        "size": 382238
+                        "size": 382239
                     }
                 },
                 "name": "Party Crash Badges",
@@ -101,7 +101,7 @@
                 "files": {
                     "arms.full.7z": {
                         "name": "arms.full.7z",
-                        "size": 58533916
+                        "size": 58533908
                     }
                 },
                 "name": "Renders",
@@ -171,7 +171,7 @@
                 "files": {
                     "bbtag.base_files.7z": {
                         "name": "bbtag.base_files.7z",
-                        "size": 439967
+                        "size": 439966
                     }
                 },
                 "name": "BlazBlue Cross Tag Battle",
@@ -191,6 +191,35 @@
             }
         },
         "name": "BlazBlue Cross Tag Battle"
+    },
+    "breakers": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "breakers.base_files.7z": {
+                        "name": "breakers.base_files.7z",
+                        "size": 232708
+                    }
+                },
+                "name": "Breakers Revenge",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character Win Screens",
+                "files": {
+                    "breakers.full.7z": {
+                        "name": "breakers.full.7z",
+                        "size": 251656
+                    }
+                },
+                "name": "Win Screens",
+                "version": "1.0"
+            }
+        },
+        "name": "Breakers Revenge"
     },
     "cvs2": {
         "assets": {
@@ -229,7 +258,7 @@
                 "files": {
                     "dbfz.base_files.7z": {
                         "name": "dbfz.base_files.7z",
-                        "size": 691311
+                        "size": 691312
                     }
                 },
                 "name": "Dragon Ball FighterZ",
@@ -241,7 +270,7 @@
                 "files": {
                     "dbfz.full.7z": {
                         "name": "dbfz.full.7z",
-                        "size": 25155117
+                        "size": 25155125
                     }
                 },
                 "name": "Portraits",
@@ -258,7 +287,7 @@
                 "files": {
                     "fexl.base_files.7z": {
                         "name": "fexl.base_files.7z",
-                        "size": 8760201
+                        "size": 8760200
                     }
                 },
                 "name": "Fighting EX Layer",
@@ -270,7 +299,7 @@
                 "files": {
                     "fexl.full.7z": {
                         "name": "fexl.full.7z",
-                        "size": 9416002
+                        "size": 9416001
                     }
                 },
                 "name": "Artwork",
@@ -287,7 +316,7 @@
                 "files": {
                     "garoumotw.base_files.7z": {
                         "name": "garoumotw.base_files.7z",
-                        "size": 278893
+                        "size": 278892
                     }
                 },
                 "name": "Garou: Mark of the Wolves",
@@ -299,7 +328,7 @@
                 "files": {
                     "garoumotw.full.7z": {
                         "name": "garoumotw.full.7z",
-                        "size": 552477
+                        "size": 552475
                     }
                 },
                 "name": "Portraits",
@@ -316,7 +345,7 @@
                 "files": {
                     "ggst.base_files.7z": {
                         "name": "ggst.base_files.7z",
-                        "size": 879876
+                        "size": 879875
                     }
                 },
                 "name": "Guilty Gear -STRIVE-",
@@ -345,7 +374,7 @@
                 "files": {
                     "ggxxacpr.base_files.7z": {
                         "name": "ggxxacpr.base_files.7z",
-                        "size": 266653
+                        "size": 266652
                     }
                 },
                 "name": "Guilty Gear XX Accent Core Plus R",
@@ -357,7 +386,7 @@
                 "files": {
                     "ggxxacpr.full.7z": {
                         "name": "ggxxacpr.full.7z",
-                        "size": 16631342
+                        "size": 16631341
                     }
                 },
                 "name": "Portraits",
@@ -386,7 +415,7 @@
                 "files": {
                     "hdbz.full.7z": {
                         "name": "hdbz.full.7z",
-                        "size": 200679
+                        "size": 200678
                     }
                 },
                 "name": "Portraits",
@@ -403,7 +432,7 @@
                 "files": {
                     "hnk.base_files.7z": {
                         "name": "hnk.base_files.7z",
-                        "size": 780053
+                        "size": 780052
                     }
                 },
                 "name": "Fist of the North Star",
@@ -432,7 +461,7 @@
                 "files": {
                     "jackie.base_files.7z": {
                         "name": "jackie.base_files.7z",
-                        "size": 155569
+                        "size": 155567
                     }
                 },
                 "name": "Jackie Chan in Fists of Fire",
@@ -461,7 +490,7 @@
                 "files": {
                     "jojohftf.base_files.7z": {
                         "name": "jojohftf.base_files.7z",
-                        "size": 841629
+                        "size": 841628
                     }
                 },
                 "name": "Jojo's Bizarre Adventure: Heritage for the Future",
@@ -473,7 +502,7 @@
                 "files": {
                     "jojohftf.full.7z": {
                         "name": "jojohftf.full.7z",
-                        "size": 519618
+                        "size": 519617
                     }
                 },
                 "name": "Portraits",
@@ -490,7 +519,7 @@
                 "files": {
                     "killerinstinct.base_files.7z": {
                         "name": "killerinstinct.base_files.7z",
-                        "size": 743963
+                        "size": 743962
                     }
                 },
                 "name": "Killer Instinct (2013)",
@@ -502,7 +531,7 @@
                 "files": {
                     "killerinstinct.full.7z": {
                         "name": "killerinstinct.full.7z",
-                        "size": 25856300
+                        "size": 25856298
                     }
                 },
                 "name": "Renders",
@@ -531,7 +560,7 @@
                 "files": {
                     "kof02um.full.7z": {
                         "name": "kof02um.full.7z",
-                        "size": 43408499
+                        "size": 43408490
                     }
                 },
                 "name": "Character Select Portraits",
@@ -543,7 +572,7 @@
                 "files": {
                     "kof02um.full_win.7z": {
                         "name": "kof02um.full_win.7z",
-                        "size": 59029837
+                        "size": 59029836
                     }
                 },
                 "name": "Win Portraits",
@@ -572,7 +601,7 @@
                 "files": {
                     "kofxi.full.7z": {
                         "name": "kofxi.full.7z",
-                        "size": 3954466
+                        "size": 3954465
                     }
                 },
                 "name": "Portraits",
@@ -601,7 +630,7 @@
                 "files": {
                     "kofxiii.full.7z": {
                         "name": "kofxiii.full.7z",
-                        "size": 14845122
+                        "size": 14845121
                     }
                 },
                 "name": "Portraits",
@@ -647,7 +676,7 @@
                 "files": {
                     "mbtl.base_files.7z": {
                         "name": "mbtl.base_files.7z",
-                        "size": 131164
+                        "size": 131163
                     }
                 },
                 "name": "Melty Blood: Type Lumina",
@@ -659,7 +688,7 @@
                 "files": {
                     "mbtl.full.7z": {
                         "name": "mbtl.full.7z",
-                        "size": 6355467
+                        "size": 6355356
                     }
                 },
                 "name": "Portraits",
@@ -676,7 +705,7 @@
                 "files": {
                     "msc.base_files.7z": {
                         "name": "msc.base_files.7z",
-                        "size": 621840
+                        "size": 621839
                     }
                 },
                 "name": "Mario Strikers Charged",
@@ -700,7 +729,7 @@
                 "files": {
                     "msc.full.7z": {
                         "name": "msc.full.7z",
-                        "size": 16855616
+                        "size": 16855623
                     }
                 },
                 "name": "Artwork",
@@ -729,7 +758,7 @@
                 "files": {
                     "mta.full.7z": {
                         "name": "mta.full.7z",
-                        "size": 22531929
+                        "size": 22531928
                     }
                 },
                 "name": "Renders",
@@ -770,7 +799,7 @@
                 "files": {
                     "mvc2.full.7z": {
                         "name": "mvc2.full.7z",
-                        "size": 46265873
+                        "size": 46265872
                     }
                 },
                 "name": "Portraits",
@@ -787,7 +816,7 @@
                 "files": {
                     "nasb.ani.7z": {
                         "name": "nasb.ani.7z",
-                        "size": 7925289
+                        "size": 7925288
                     }
                 },
                 "name": "Source Artwork",
@@ -823,7 +852,7 @@
                 "files": {
                     "nasb.stage_icon.7z": {
                         "name": "nasb.stage_icon.7z",
-                        "size": 75648610
+                        "size": 75648604
                     }
                 },
                 "name": "Stages",
@@ -869,7 +898,7 @@
                 "files": {
                     "pkmn.base_files.7z": {
                         "name": "pkmn.base_files.7z",
-                        "size": 667534
+                        "size": 667543
                     }
                 },
                 "name": "Pok\u00e9mon",
@@ -881,7 +910,7 @@
                 "files": {
                     "pkmn.full.7z": {
                         "name": "pkmn.full.7z",
-                        "size": 125588961
+                        "size": 125588962
                     }
                 },
                 "name": "Pok\u00e9mon Home sprites",
@@ -939,7 +968,7 @@
                 "files": {
                     "pplus.full.7z": {
                         "name": "pplus.full.7z",
-                        "size": 29115465
+                        "size": 29115464
                     }
                 },
                 "name": "Renders",
@@ -968,7 +997,7 @@
                 "files": {
                     "prbftg.base_files.7z": {
                         "name": "prbftg.base_files.7z",
-                        "size": 805630
+                        "size": 805629
                     }
                 },
                 "name": "Power Rangers: Battle for the Grid",
@@ -980,7 +1009,7 @@
                 "files": {
                     "prbftg.full.7z": {
                         "name": "prbftg.full.7z",
-                        "size": 24750079
+                        "size": 24750070
                     }
                 },
                 "name": "Renders",
@@ -1009,7 +1038,7 @@
                 "files": {
                     "roa.base_files.7z": {
                         "name": "roa.base_files.7z",
-                        "size": 5187302
+                        "size": 5187301
                     }
                 },
                 "name": "Rivals of Aether",
@@ -1033,7 +1062,7 @@
                 "files": {
                     "roa.stage_bg.7z": {
                         "name": "roa.stage_bg.7z",
-                        "size": 167277395
+                        "size": 167277402
                     }
                 },
                 "name": "Stage Backgrounds",
@@ -1062,7 +1091,7 @@
                 "files": {
                     "samsho2019.base_files.7z": {
                         "name": "samsho2019.base_files.7z",
-                        "size": 1099840
+                        "size": 1099841
                     }
                 },
                 "name": "Samurai Shodown (2019)",
@@ -1074,7 +1103,7 @@
                 "files": {
                     "samsho2019.full.7z": {
                         "name": "samsho2019.full.7z",
-                        "size": 22444692
+                        "size": 22444691
                     }
                 },
                 "name": "Renders",
@@ -1132,7 +1161,7 @@
                 "files": {
                     "sf3ts.full.7z": {
                         "name": "sf3ts.full.7z",
-                        "size": 10608135
+                        "size": 10608136
                     }
                 },
                 "name": "Portraits",
@@ -1144,7 +1173,7 @@
                 "files": {
                     "sf3ts.full_new.7z": {
                         "name": "sf3ts.full_new.7z",
-                        "size": 11189731
+                        "size": 11189732
                     }
                 },
                 "name": "Portraits (Online Edition)",
@@ -1161,7 +1190,7 @@
                 "files": {
                     "sfalpha3.base_files.7z": {
                         "name": "sfalpha3.base_files.7z",
-                        "size": 464134
+                        "size": 464135
                     }
                 },
                 "name": "Street Fighter Alpha 3",
@@ -1231,7 +1260,7 @@
                 "files": {
                     "sg.full.7z": {
                         "name": "sg.full.7z",
-                        "size": 18927106
+                        "size": 18927105
                     }
                 },
                 "name": "Portraits",
@@ -1277,7 +1306,7 @@
                 "files": {
                     "ssb64.base_files.7z": {
                         "name": "ssb64.base_files.7z",
-                        "size": 32722
+                        "size": 32724
                     }
                 },
                 "name": "Super Smash Bros",
@@ -1313,7 +1342,7 @@
                 "files": {
                     "ssb64.stage_icon.7z": {
                         "name": "ssb64.stage_icon.7z",
-                        "size": 18382813
+                        "size": 18382806
                     }
                 },
                 "name": "Stage Icons",
@@ -1395,7 +1424,7 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 299660336
+                        "size": 299660332
                     }
                 },
                 "name": "Full",
@@ -1407,7 +1436,7 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 470715525
+                        "size": 470715537
                     }
                 },
                 "name": "Mural arts",
@@ -1419,7 +1448,7 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 26269378
+                        "size": 26269366
                     }
                 },
                 "name": "Portraits",
@@ -1443,7 +1472,7 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 423015140
+                        "size": 423015144
                     }
                 },
                 "name": "Webms",
@@ -1460,7 +1489,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z": {
                         "name": "ssbwiiu.base_files.7z",
-                        "size": 70432
+                        "size": 70431
                     }
                 },
                 "name": "Super Smash Bros. for Wii U",
@@ -1489,7 +1518,7 @@
                 "files": {
                     "ssf2x.full.7z": {
                         "name": "ssf2x.full.7z",
-                        "size": 13484671
+                        "size": 13484670
                     }
                 },
                 "name": "Artwork",
@@ -1506,7 +1535,7 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 1632143
+                        "size": 1632142
                     }
                 },
                 "name": "Tekken 7",
@@ -1523,7 +1552,7 @@
                 "files": {
                     "tfh.base_files.7z": {
                         "name": "tfh.base_files.7z",
-                        "size": 183519
+                        "size": 183518
                     }
                 },
                 "name": "Them's Fightin' Herds",
@@ -1552,7 +1581,7 @@
                 "files": {
                     "touhou123hts.base_files.7z": {
                         "name": "touhou123hts.base_files.7z",
-                        "size": 2103036
+                        "size": 2103027
                     }
                 },
                 "name": "Touhou 12.3: Hisoutensoku",
@@ -1564,7 +1593,7 @@
                 "files": {
                     "touhou123hts.full.7z": {
                         "name": "touhou123hts.full.7z",
-                        "size": 5823352
+                        "size": 5823351
                     }
                 },
                 "name": "Portraits",
@@ -1581,7 +1610,7 @@
                 "files": {
                     "umvc3.base_files.7z": {
                         "name": "umvc3.base_files.7z",
-                        "size": 186528428
+                        "size": 186528429
                     }
                 },
                 "name": "Ultimate Marvel VS Capcom 3",
@@ -1610,7 +1639,7 @@
                 "files": {
                     "uniclr.base_files.7z": {
                         "name": "uniclr.base_files.7z",
-                        "size": 193010
+                        "size": 193009
                     }
                 },
                 "name": "Under Night In-Birth Exe:Late[cl-r]",
@@ -1639,7 +1668,7 @@
                 "files": {
                     "usfiv.base_files.7z": {
                         "name": "usfiv.base_files.7z",
-                        "size": 22078395
+                        "size": 22078385
                     }
                 },
                 "name": "Ultra Street Fighter IV",
@@ -1651,7 +1680,7 @@
                 "files": {
                     "usfiv.full.7z": {
                         "name": "usfiv.full.7z",
-                        "size": 44865943
+                        "size": 44865951
                     }
                 },
                 "name": "Portraits",
@@ -1668,7 +1697,7 @@
                 "files": {
                     "vsav.base_files.7z": {
                         "name": "vsav.base_files.7z",
-                        "size": 99017
+                        "size": 99018
                     }
                 },
                 "name": "Darkstalkers 3 / Vampire Savior",
@@ -1680,7 +1709,7 @@
                 "files": {
                     "vsav.full.7z": {
                         "name": "vsav.full.7z",
-                        "size": 178698
+                        "size": 178699
                     }
                 },
                 "name": "Portraits",
@@ -1692,7 +1721,7 @@
                 "files": {
                     "vsav.full_new.7z": {
                         "name": "vsav.full_new.7z",
-                        "size": 12156531
+                        "size": 12156532
                     }
                 },
                 "name": "Artwork (Resurrection)",
@@ -1721,7 +1750,7 @@
                 "files": {
                     "windjammers.full.7z": {
                         "name": "windjammers.full.7z",
-                        "size": 44754
+                        "size": 44755
                     }
                 },
                 "name": "Portraits",
@@ -1738,7 +1767,7 @@
                 "files": {
                     "windjammers2.base_files.7z": {
                         "name": "windjammers2.base_files.7z",
-                        "size": 12111234
+                        "size": 12111235
                     }
                 },
                 "name": "Windjammers 2",
@@ -1750,7 +1779,7 @@
                 "files": {
                     "windjammers2.full.7z": {
                         "name": "windjammers2.full.7z",
-                        "size": 12119621
+                        "size": 12119622
                     }
                 },
                 "name": "Portraits",

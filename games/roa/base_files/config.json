@@ -60,16 +60,20 @@
       "codename": "ShovelKnight"
     },
     "Mollo": {
-      "codename": "Mollo"
+      "codename": "Mollo",
+      "smashgg_name": "Mollo"
     },
     "Hodan": {
-      "codename": "Hodan"
+      "codename": "Hodan",
+      "smashgg_name": "Hodan"
     },
     "Olympia": {
-      "codename": "Olympia"
+      "codename": "Olympia",
+      "smashgg_name": "Olympia"
     },
     "Pomme": {
-      "codename": "Pomme"
+      "codename": "Pomme",
+      "smashgg_name": "Pomme"
     }
   },
   "stage_to_codename": {
@@ -158,7 +162,7 @@
       "codename": "concert"
     }
   },
-  "version": "2.0",
+  "version": "2.01",
   "description": "Base config to use this game.",
   "credits": "@Readeku for ripping the assets"
 }

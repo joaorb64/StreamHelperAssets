@@ -144,9 +144,21 @@
     },
     "Troupple Pond": {
       "codename": "shovelstage"
+    },
+    "Crystal Oasis": {
+      "codename": "crystal"
+    },
+    "Highdive Hideaway": {
+      "codename": "hideaway"
+    },
+    "Neo Blazing Rail": {
+      "codename": "railroad"
+    },
+    "Neo Julesvale": {
+      "codename": "concert"
     }
   },
-  "version": "1.0",
+  "version": "2.0",
   "description": "Base config to use this game.",
   "credits": "@Readeku for ripping the assets"
 }

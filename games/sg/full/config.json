@@ -7,5 +7,103 @@
     "full"
   ],
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Skullgirls)\n@MathiasWolfbrok for cropping",
-  "version": "1.0"
+  "version": "1.01",
+  "eyesights": {
+    "Annie": {
+      "0": {
+        "x": 534,
+        "y": 231
+      }
+    },
+    "Beowulf": {
+      "0": {
+        "x": 460,
+        "y": 535
+      }
+    },
+    "BigBand": {
+      "0": {
+        "x": 319,
+        "y": 399
+      }
+    },
+    "Cerebella": {
+      "0": {
+        "x": 511,
+        "y": 535
+      }
+    },
+    "Double": {
+      "0": {
+        "x": 400,
+        "y": 115
+      }
+    },
+    "Eliza": {
+      "0": {
+        "x": 400,
+        "y": 240
+      }
+    },
+    "Filia": {
+      "0": {
+        "x": 196,
+        "y": 484
+      }
+    },
+    "Fukua": {
+      "0": {
+        "x": 658,
+        "y": 484
+      }
+    },
+    "MsFortune": {
+      "0": {
+        "x": 133,
+        "y": 297
+      }
+    },
+    "Painwheel": {
+      "0": {
+        "x": 393,
+        "y": 495
+      }
+    },
+    "Parasoul": {
+      "0": {
+        "x": 270,
+        "y": 163
+      }
+    },
+    "Peacock": {
+      "0": {
+        "x": 346,
+        "y": 444
+      }
+    },
+    "RoboFortune": {
+      "0": {
+        "x": 342,
+        "y": 426
+      }
+    },
+    "Squigly": {
+      "0": {
+        "x": 262,
+        "y": 294
+      }
+    },
+    "Umbrella": {
+      "0": {
+        "x": 694,
+        "y": 541
+      }
+    },
+    "Valentine": {
+      "0": {
+        "x": 420,
+        "y": 274
+      }
+    }
+  }
 }

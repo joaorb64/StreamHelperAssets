@@ -77,7 +77,7 @@
     "Antonov": {
       "codename": "Antonov"
     },
-    "Ramón": {
+    "Ram\u00f3n": {
       "codename": "Ramon"
     },
     "The King of Dinosaurs": {
@@ -104,7 +104,7 @@
     "Whip": {
       "codename": "Whip"
     },
-    "Ángel": {
+    "\u00c1ngel": {
       "codename": "Angel"
     },
     "Krohnen McDougall": {
@@ -121,7 +121,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.01",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

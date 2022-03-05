@@ -1,212 +1,212 @@
 {
-    "name": "Super Smash Bros Melee",
-    "smashgg_game_id": 1,
-    "challonge_game_id": 394,
-    "character_to_codename": {
-        "Mario": {
-            "smashgg_name": "Mario",
-            "codename": "mario"
-        },
-        "Donkey Kong": {
-            "smashgg_name": "Donkey Kong",
-            "codename": "donkey_kong"
-        },
-        "Link": {
-            "smashgg_name": "Link",
-            "codename": "link"
-        },
-        "Samus": {
-            "smashgg_name": "Samus",
-            "codename": "samus"
-        },
-        "Yoshi": {
-            "smashgg_name": "Yoshi",
-            "codename": "yoshi"
-        },
-        "Kirby": {
-            "smashgg_name": "Kirby",
-            "codename": "kirby"
-        },
-        "Fox": {
-            "smashgg_name": "Fox",
-            "codename": "fox"
-        },
-        "Pikachu": {
-            "smashgg_name": "Pikachu",
-            "codename": "pikachu"
-        },
-        "Luigi": {
-            "smashgg_name": "Luigi",
-            "codename": "luigi"
-        },
-        "Ness": {
-            "smashgg_name": "Ness",
-            "codename": "ness"
-        },
-        "Captain Falcon": {
-            "smashgg_name": "Captain Falcon",
-            "codename": "captain_falcon"
-        },
-        "Jigglypuff": {
-            "smashgg_name": "Jigglypuff",
-            "codename": "jigglypuff"
-        },
-        "Peach": {
-            "smashgg_name": "Peach",
-            "codename": "peach"
-        },
-        "Bowser": {
-            "smashgg_name": "Bowser",
-            "codename": "bowser"
-        },
-        "Ice Climbers": {
-            "smashgg_name": "Ice Climbers",
-            "codename": "ice_climbers"
-        },
-        "Sheik": {
-            "smashgg_name": "Sheik",
-            "codename": "sheik"
-        },
-        "Zelda": {
-            "smashgg_name": "Zelda",
-            "codename": "zelda"
-        },
-        "Dr. Mario": {
-            "smashgg_name": "Dr. Mario",
-            "codename": "dr_mario"
-        },
-        "Pichu": {
-            "smashgg_name": "Pichu",
-            "codename": "pichu"
-        },
-        "Falco": {
-            "smashgg_name": "Falco",
-            "codename": "falco"
-        },
-        "Marth": {
-            "smashgg_name": "Marth",
-            "codename": "marth"
-        },
-        "Young Link": {
-            "smashgg_name": "Young Link",
-            "codename": "young_link"
-        },
-        "Ganondorf": {
-            "smashgg_name": "Ganondorf",
-            "codename": "ganondorf"
-        },
-        "Mewtwo": {
-            "smashgg_name": "Mewtwo",
-            "codename": "mewtwo"
-        },
-        "Roy": {
-            "smashgg_name": "Roy",
-            "codename": "roy"
-        },
-        "Mr. Game & Watch": {
-            "smashgg_name": "Mr. Game & Watch",
-            "codename": "game_&_watch"
-        },
-        "Random Character": {
-            "smashgg_name": "Random Character",
-            "codename": "random"
-        }
+  "name": "Super Smash Bros Melee",
+  "smashgg_game_id": 1,
+  "challonge_game_id": 394,
+  "character_to_codename": {
+    "Mario": {
+      "smashgg_name": "Mario",
+      "codename": "mario"
     },
-    "stage_to_codename": {
-        "Yoshi's Story": {
-            "smashgg_id": "5",
-            "codename": "yoshis_story"
-        },
-        "Fountain of Dreams": {
-            "smashgg_id": "11",
-            "codename": "fountain_of_dreams"
-        },
-        "Pokémon Stadium": {
-            "smashgg_id": "15",
-            "codename": "pokemon_stadium"
-        },
-        "Battlefield": {
-            "smashgg_id": "19",
-            "codename": "battlefield"
-        },
-        "Final Destination": {
-            "smashgg_id": "20",
-            "codename": "final_destination"
-        },
-        "Dream Land": {
-            "smashgg_id": "25",
-            "codename": "dream_land"
-        },
-        "Big Blue": {
-            "codename": "big_blue"
-        },
-        "Brinstar Depths": {
-            "codename": "brinstar_depths"
-        },
-        "Brinstar": {
-            "codename": "brinstar"
-        },
-        "Corneria": {
-            "codename": "corneria"
-        },
-        "Flat Zone": {
-            "codename": "flat_zone"
-        },
-        "Fourside": {
-            "codename": "fourside"
-        },
-        "Great Bay": {
-            "codename": "great_bay"
-        },
-        "Green Greens": {
-            "codename": "green_greens"
-        },
-        "Icicle Mountain": {
-            "codename": "icicle_mountain"
-        },
-        "Jungle Japes": {
-            "codename": "jungle_japes"
-        },
-        "Kong Jungle (N64)": {
-            "codename": "kong_jungle_64"
-        },
-        "Kongo Jungle": {
-            "codename": "kongo_jungle"
-        },
-        "Mushroom Kingdom II": {
-            "codename": "mushroom_kingdom_ii"
-        },
-        "Mushroom Kingdom": {
-            "codename": "mushroom_kingdom"
-        },
-        "Mute City": {
-            "codename": "mute_city"
-        },
-        "Onett": {
-            "codename": "onett"
-        },
-        "Peach's Castle": {
-            "codename": "peachs_castle"
-        },
-        "Pokéfloats": {
-            "codename": "pokefloats"
-        },
-        "Rainbow Cruise": {
-            "codename": "rainbow_cruise"
-        },
-        "Temple": {
-            "codename": "temple"
-        },
-        "Venom": {
-            "codename": "venom"
-        },
-        "Yoshi's Island (N64)": {
-            "codename": "yoshis_island_64"
-        },
-        "Yoshi's Island": {
-            "codename": "yoshis_island"
-        }
+    "Donkey Kong": {
+      "smashgg_name": "Donkey Kong",
+      "codename": "donkey_kong"
     },
-    "version": "0.92",
-    "description": "Base config to use this game."
+    "Link": {
+      "smashgg_name": "Link",
+      "codename": "link"
+    },
+    "Samus": {
+      "smashgg_name": "Samus",
+      "codename": "samus"
+    },
+    "Yoshi": {
+      "smashgg_name": "Yoshi",
+      "codename": "yoshi"
+    },
+    "Kirby": {
+      "smashgg_name": "Kirby",
+      "codename": "kirby"
+    },
+    "Fox": {
+      "smashgg_name": "Fox",
+      "codename": "fox"
+    },
+    "Pikachu": {
+      "smashgg_name": "Pikachu",
+      "codename": "pikachu"
+    },
+    "Luigi": {
+      "smashgg_name": "Luigi",
+      "codename": "luigi"
+    },
+    "Ness": {
+      "smashgg_name": "Ness",
+      "codename": "ness"
+    },
+    "Captain Falcon": {
+      "smashgg_name": "Captain Falcon",
+      "codename": "captain_falcon"
+    },
+    "Jigglypuff": {
+      "smashgg_name": "Jigglypuff",
+      "codename": "jigglypuff"
+    },
+    "Peach": {
+      "smashgg_name": "Peach",
+      "codename": "peach"
+    },
+    "Bowser": {
+      "smashgg_name": "Bowser",
+      "codename": "bowser"
+    },
+    "Ice Climbers": {
+      "smashgg_name": "Ice Climbers",
+      "codename": "ice_climbers"
+    },
+    "Sheik": {
+      "smashgg_name": "Sheik",
+      "codename": "sheik"
+    },
+    "Zelda": {
+      "smashgg_name": "Zelda",
+      "codename": "zelda"
+    },
+    "Dr. Mario": {
+      "smashgg_name": "Dr. Mario",
+      "codename": "dr_mario"
+    },
+    "Pichu": {
+      "smashgg_name": "Pichu",
+      "codename": "pichu"
+    },
+    "Falco": {
+      "smashgg_name": "Falco",
+      "codename": "falco"
+    },
+    "Marth": {
+      "smashgg_name": "Marth",
+      "codename": "marth"
+    },
+    "Young Link": {
+      "smashgg_name": "Young Link",
+      "codename": "young_link"
+    },
+    "Ganondorf": {
+      "smashgg_name": "Ganondorf",
+      "codename": "ganondorf"
+    },
+    "Mewtwo": {
+      "smashgg_name": "Mewtwo",
+      "codename": "mewtwo"
+    },
+    "Roy": {
+      "smashgg_name": "Roy",
+      "codename": "roy"
+    },
+    "Mr. Game & Watch": {
+      "smashgg_name": "Mr. Game & Watch",
+      "codename": "game_&_watch"
+    },
+    "Random Character": {
+      "smashgg_name": "Random Character",
+      "codename": "random"
+    }
+  },
+  "stage_to_codename": {
+    "Yoshi's Story": {
+      "smashgg_id": "5",
+      "codename": "yoshis_story"
+    },
+    "Fountain of Dreams": {
+      "smashgg_id": "11",
+      "codename": "fountain_of_dreams"
+    },
+    "Pok\u00e9mon Stadium": {
+      "smashgg_id": "15",
+      "codename": "pokemon_stadium"
+    },
+    "Battlefield": {
+      "smashgg_id": "19",
+      "codename": "battlefield"
+    },
+    "Final Destination": {
+      "smashgg_id": "20",
+      "codename": "final_destination"
+    },
+    "Dream Land": {
+      "smashgg_id": "25",
+      "codename": "dream_land"
+    },
+    "Big Blue": {
+      "codename": "big_blue"
+    },
+    "Brinstar Depths": {
+      "codename": "brinstar_depths"
+    },
+    "Brinstar": {
+      "codename": "brinstar"
+    },
+    "Corneria": {
+      "codename": "corneria"
+    },
+    "Flat Zone": {
+      "codename": "flat_zone"
+    },
+    "Fourside": {
+      "codename": "fourside"
+    },
+    "Great Bay": {
+      "codename": "great_bay"
+    },
+    "Green Greens": {
+      "codename": "green_greens"
+    },
+    "Icicle Mountain": {
+      "codename": "icicle_mountain"
+    },
+    "Jungle Japes": {
+      "codename": "jungle_japes"
+    },
+    "Kong Jungle (N64)": {
+      "codename": "kong_jungle_64"
+    },
+    "Kongo Jungle": {
+      "codename": "kongo_jungle"
+    },
+    "Mushroom Kingdom II": {
+      "codename": "mushroom_kingdom_ii"
+    },
+    "Mushroom Kingdom": {
+      "codename": "mushroom_kingdom"
+    },
+    "Mute City": {
+      "codename": "mute_city"
+    },
+    "Onett": {
+      "codename": "onett"
+    },
+    "Peach's Castle": {
+      "codename": "peachs_castle"
+    },
+    "Pok\u00e9floats": {
+      "codename": "pokefloats"
+    },
+    "Rainbow Cruise": {
+      "codename": "rainbow_cruise"
+    },
+    "Temple": {
+      "codename": "temple"
+    },
+    "Venom": {
+      "codename": "venom"
+    },
+    "Yoshi's Island (N64)": {
+      "codename": "yoshis_island_64"
+    },
+    "Yoshi's Island": {
+      "codename": "yoshis_island"
+    }
+  },
+  "version": "0.93",
+  "description": "Base config to use this game."
 }

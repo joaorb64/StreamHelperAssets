@@ -5,5 +5,49 @@
     "postfix": "_Action_",
     "type": ["full"],
     "credits": "@MathiasWolfbrok for cropping",
-    "version": "0.91"
+    "version": "1.01",
+    "eyesights": {
+        "Arizona": {
+          "0": {
+            "x": 466,
+            "y": 781
+          }
+        },
+        "Oleander": {
+          "0": {
+            "x": 406,
+            "y": 270
+          }
+        },
+        "Paprika": {
+          "0": {
+            "x": 399,
+            "y": 253
+          }
+        },
+        "Pom": {
+          "0": {
+            "x": 516,
+            "y": 295
+          }
+        },
+        "Shanty": {
+          "0": {
+            "x": 178,
+            "y": 541
+          }
+        },
+        "Tianhuo": {
+          "0": {
+            "x": 433,
+            "y": 363
+          }
+        },
+        "Velvet": {
+          "0": {
+            "x": 484,
+            "y": 346
+          }
+        }
+      }
 }

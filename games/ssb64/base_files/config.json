@@ -1,426 +1,426 @@
 {
-    "name": "Super Smash Bros",
-    "smashgg_game_id": 4,
-    "challonge_game_id": 392,
-    "character_to_codename": {
-        "Mario": {
-            "smashgg_name": "Mario",
-            "codename": "mario"
-        },
-        "Donkey Kong": {
-            "smashgg_name": "Donkey Kong",
-            "codename": "donkey_kong"
-        },
-        "Link": {
-            "smashgg_name": "Link",
-            "codename": "link"
-        },
-        "Samus": {
-            "smashgg_name": "Samus",
-            "codename": "samus"
-        },
-        "Yoshi": {
-            "smashgg_name": "Yoshi",
-            "codename": "yoshi"
-        },
-        "Kirby": {
-            "smashgg_name": "Kirby",
-            "codename": "kirby"
-        },
-        "Fox": {
-            "smashgg_name": "Fox",
-            "codename": "fox"
-        },
-        "Pikachu": {
-            "smashgg_name": "Pikachu",
-            "codename": "pikachu"
-        },
-        "Luigi": {
-            "smashgg_name": "Luigi",
-            "codename": "luigi"
-        },
-        "Ness": {
-            "smashgg_name": "Ness",
-            "codename": "ness"
-        },
-        "Captain Falcon": {
-            "smashgg_name": "Captain Falcon",
-            "codename": "captain_falcon"
-        },
-        "Jigglypuff": {
-            "smashgg_name": "Jigglypuff",
-            "codename": "jigglypuff"
-        },
-        "Bowser": {
-            "smashgg_name": "Bowser",
-            "codename": "bowser"
-        },
-        "Dr. Mario": {
-            "smashgg_name": "Dr. Mario",
-            "codename": "dr_mario"
-        },
-        "Falco": {
-            "smashgg_name": "Falco",
-            "codename": "falco"
-        },
-        "Marth": {
-            "smashgg_name": "Marth",
-            "codename": "marth"
-        },
-        "Young Link": {
-            "smashgg_name": "Young Link",
-            "codename": "young_link"
-        },
-        "Ganondorf": {
-            "smashgg_name": "Ganondorf",
-            "codename": "ganondorf"
-        },
-        "Mewtwo": {
-            "smashgg_name": "Mewtwo",
-            "codename": "mewtwo"
-        },
-        "Wario": {
-            "smashgg_name": "Wario",
-            "codename": "wario"
-        },
-        "Wolf": {
-            "smashgg_name": "Wolf",
-            "codename": "wolf"
-        },
-        "Conker": {
-            "smashgg_name": "Conker",
-            "codename": "conker"
-        },
-        "Lucas": {
-            "smashgg_name": "Lucas",
-            "codename": "lucas"
-        },
-        "Sonic": {
-            "smashgg_name": "Sonic",
-            "codename": "sonic"
-        },
-        "Random Character": {
-            "smashgg_name": "Random Character",
-            "codename": "random"
-        }
+  "name": "Super Smash Bros",
+  "smashgg_game_id": 4,
+  "challonge_game_id": 392,
+  "character_to_codename": {
+    "Mario": {
+      "smashgg_name": "Mario",
+      "codename": "mario"
     },
-    "stage_to_codename": {
-        "Battlefield": {
-            "codename": "battlefield"
-        },
-        "Big Blue": {
-            "codename": "big_blue"
-        },
-        "Bowser's Keep": {
-            "codename": "bowsers_keep"
-        },
-        "Bowser's Stadium": {
-            "codename": "bowsers_stadium"
-        },
-        "Castle Siege": {
-            "codename": "castle_siege"
-        },
-        "Congo Falls": {
-            "codename": "congo_falls"
-        },
-        "Congo Jungle": {
-            "codename": "congo_jungle"
-        },
-        "Cool Cool Mountain": {
-            "codename": "cool_cool_mountain"
-        },
-        "Corneria City": {
-            "codename": "corneria_city"
-        },
-        "Corneria": {
-            "codename": "corneria"
-        },
-        "dataDyne": {
-            "codename": "datadyne"
-        },
-        "Deku Tree": {
-            "codename": "deku_tree"
-        },
-        "Delfino Plaza": {
-            "codename": "delfino_plaza"
-        },
-        "Dragon King": {
-            "codename": "dragon_king"
-        },
-        "Dream Land Beta 1": {
-            "codename": "dream_land_beta_1"
-        },
-        "Dream Land Beta 2": {
-            "codename": "dream_land_beta_2"
-        },
-        "Dream Land": {
-            "codename": "dream_land"
-        },
-        "Dr. Mario": {
-            "codename": "dr_mario"
-        },
-        "Duel Zone": {
-            "codename": "duel_zone"
-        },
-        "Final Destination": {
-            "codename": "final_destination"
-        },
-        "First Destination": {
-            "codename": "first_destination"
-        },
-        "Flat Zone 2": {
-            "codename": "flat_zone_2"
-        },
-        "Flat Zone": {
-            "codename": "flat_zone"
-        },
-        "Fountain of Dreams": {
-            "codename": "fountain_of_dreams"
-        },
-        "Fray's Stage": {
-            "codename": "frays_stage"
-        },
-        "Game Boy Land": {
-            "codename": "game_boy_land"
-        },
-        "Ganon's Tower": {
-            "codename": "ganons_tower"
-        },
-        "Gerudo Valley": {
-            "codename": "gerudo_valley"
-        },
-        "Glacial River": {
-            "codename": "glacial_river"
-        },
-        "Goomba Road": {
-            "codename": "goomba_road"
-        },
-        "Great Bay": {
-            "codename": "great_bay"
-        },
-        "How to Play": {
-            "codename": "how_to_play"
-        },
-        "Hyrule Castle": {
-            "codename": "hyrule_castle"
-        },
-        "Hyrule Temple": {
-            "codename": "hyrule_temple"
-        },
-        "Jungle Japes": {
-            "codename": "jungle_japes"
-        },
-        "Kalos Pokémon League": {
-            "codename": "kalos_pokemon_league"
-        },
-        "Kitchen Island": {
-            "codename": "kitchen_island"
-        },
-        "Mad Monster Mansion": {
-            "codename": "mad_monster_mansion"
-        },
-        "Mementos": {
-            "codename": "mementos"
-        },
-        "Meta Crystal": {
-            "codename": "meta_crystal"
-        },
-        "Mini Yoshi's Island": {
-            "codename": "mini_yoshis_island"
-        },
-        "Mushroom Kingdom": {
-            "codename": "mushroom_kindgdom"
-        },
-        "Mute City": {
-            "codename": "mute_city"
-        },
-        "N64": {
-            "codename": "n64"
-        },
-        "New Pork City": {
-            "codename": "new_pork_city"
-        },
-        "Norfair": {
-            "codename": "norfair"
-        },
-        "Onett": {
-            "codename": "onett"
-        },
-        "Oshoe Castle": {
-            "codename": "oshoe_castle"
-        },
-        "Peach's Castle 2": {
-            "codename": "peachs_castle_2"
-        },
-        "Peach's Castle": {
-            "codename": "peachs_castle"
-        },
-        "Planet Clancer": {
-            "codename": "planet_clancer"
-        },
-        "Planet Zebes": {
-            "codename": "planet_zebes"
-        },
-        "Pokémon Stadium": {
-            "codename": "pokemon_stadium"
-        },
-        "Random": {
-            "codename": "random"
-        },
-        "Rith Essa": {
-            "codename": "rith_essa"
-        },
-        "Saffron City": {
-            "codename": "saffron_city"
-        },
-        "Sector Z": {
-            "codename": "sector_z"
-        },
-        "Showdown": {
-            "codename": "showdown"
-        },
-        "Skyloft": {
-            "codename": "skyloft"
-        },
-        "Smashketball": {
-            "codename": "smashketball"
-        },
-        "Smashville": {
-            "codename": "smashville"
-        },
-        "Spiral Mountain": {
-            "codename": "spiral_mountain"
-        },
-        "Tower of Heaven": {
-            "codename": "tower_of_heaven"
-        },
-        "Venom": {
-            "codename": "venom"
-        },
-        "Warioware Inc.": {
-            "codename": "warioware_inc"
-        },
-        "Windy": {
-            "codename": "windy"
-        },
-        "World 1-1": {
-            "codename": "world_1_1"
-        },
-        "Yoshi's Island 2": {
-            "codename": "yoshis_island_2"
-        },
-        "Yoshi's Island": {
-            "codename": "yoshis_island"
-        },
-        "Yoshi's Story": {
-            "codename": "yoshis_story"
-        },
-        "Zebes Landing": {
-            "codename": "zebes_landing"
-        },
-        "Congo Jungle DL": {
-            "codename": "congo_jungle_dl"
-        },
-        "Congo Jungle Ω": {
-            "codename": "congo_jungle_omega"
-        },
-        "Cool Cool Mountain DL": {
-            "codename": "cool_cool_mountain_dl"
-        },
-        "Cool Cool Mountain Ω": {
-            "codename": "cool_cool_mountain_sr"
-        },
-        "Dream Greens": {
-            "codename": "dream_greens"
-        },
-        "Dream Land DL": {
-            "codename": "dream_land_dl"
-        },
-        "Duel Zone DL": {
-            "codename": "duel_zone_dl"
-        },
-        "Final Destination DL": {
-            "codename": "final_destination_dl"
-        },
-        "Fray's Stage - Night": {
-            "codename": "frays_stage_night"
-        },
-        "Hyrule Castle DL": {
-            "codename": "hyrule_castle_dl"
-        },
-        "Hyrule Castle Ω": {
-            "codename": "hyrule_castle_omega"
-        },
-        "Meta Crystal DL": {
-            "codename": "meta_crystal_dl"
-        },
-        "Muda Kingdom": {
-            "codename": "muda_kingdom"
-        },
-        "Mushroom Kingdom DL": {
-            "codename": "mushroom_kindgom_dl"
-        },
-        "Mushroom Kingdom Ω": {
-            "codename": "mushroom_kindgom_omega"
-        },
-        "Peach's Castle DL": {
-            "codename": "peachs_castle_dl"
-        },
-        "Peach's Castle Ω": {
-            "codename": "peachs_castle_omega"
-        },
-        "Saffron City DL": {
-            "codename": "saffron_city_dl"
-        },
-        "Saffron City Ω": {
-            "codename": "saffron_city_omega"
-        },
-        "Sector Z DL": {
-            "codename": "sector_z_dl"
-        },
-        "Sector Z Ω": {
-            "codename": "sector_z_omega"
-        },
-        "Tent Final Destination": {
-            "codename": "tent_final_destination"
-        },
-        "Yoshi's Island DL": {
-            "codename": "yoshis_island_dl"
-        },
-        "Yoshi's Island Ω": {
-            "codename": "yoshis_island_omega"
-        },
-        "Zebes DL": {
-            "codename": "zebes_dl"
-        },
-        "Zebes Ω": {
-            "codename": "zebes_omega"
-        },
-        "Green Hill Zone": {
-            "codename": "green_hill_zone"
-        },
-        "Subcon": {
-            "codename": "subcon"
-        },
-        "Metallic Madness Zone": {
-            "codename": "metallic_madness_zone"
-        },
-        "Casino Night Zone": {
-            "codename": "cassino_night_zone"
-        },
-        "Pirate Land": {
-            "codename": "pirate_land"
-        },
-        "Hyrule Castle SR": {
-            "codename": "hyrule_castle_sr"
-        },
-        "Sector Z SR": {
-            "codename": "sector_z_sr"
-        },
-        "Mushroom Kingdom SR": {
-            "codename": "mushroom_kingdom_sr"
-        }
+    "Donkey Kong": {
+      "smashgg_name": "Donkey Kong",
+      "codename": "donkey_kong"
     },
-    "version": "1.1",
-    "description": "Base config to use this game."
+    "Link": {
+      "smashgg_name": "Link",
+      "codename": "link"
+    },
+    "Samus": {
+      "smashgg_name": "Samus",
+      "codename": "samus"
+    },
+    "Yoshi": {
+      "smashgg_name": "Yoshi",
+      "codename": "yoshi"
+    },
+    "Kirby": {
+      "smashgg_name": "Kirby",
+      "codename": "kirby"
+    },
+    "Fox": {
+      "smashgg_name": "Fox",
+      "codename": "fox"
+    },
+    "Pikachu": {
+      "smashgg_name": "Pikachu",
+      "codename": "pikachu"
+    },
+    "Luigi": {
+      "smashgg_name": "Luigi",
+      "codename": "luigi"
+    },
+    "Ness": {
+      "smashgg_name": "Ness",
+      "codename": "ness"
+    },
+    "Captain Falcon": {
+      "smashgg_name": "Captain Falcon",
+      "codename": "captain_falcon"
+    },
+    "Jigglypuff": {
+      "smashgg_name": "Jigglypuff",
+      "codename": "jigglypuff"
+    },
+    "Bowser": {
+      "smashgg_name": "Bowser",
+      "codename": "bowser"
+    },
+    "Dr. Mario": {
+      "smashgg_name": "Dr. Mario",
+      "codename": "dr_mario"
+    },
+    "Falco": {
+      "smashgg_name": "Falco",
+      "codename": "falco"
+    },
+    "Marth": {
+      "smashgg_name": "Marth",
+      "codename": "marth"
+    },
+    "Young Link": {
+      "smashgg_name": "Young Link",
+      "codename": "young_link"
+    },
+    "Ganondorf": {
+      "smashgg_name": "Ganondorf",
+      "codename": "ganondorf"
+    },
+    "Mewtwo": {
+      "smashgg_name": "Mewtwo",
+      "codename": "mewtwo"
+    },
+    "Wario": {
+      "smashgg_name": "Wario",
+      "codename": "wario"
+    },
+    "Wolf": {
+      "smashgg_name": "Wolf",
+      "codename": "wolf"
+    },
+    "Conker": {
+      "smashgg_name": "Conker",
+      "codename": "conker"
+    },
+    "Lucas": {
+      "smashgg_name": "Lucas",
+      "codename": "lucas"
+    },
+    "Sonic": {
+      "smashgg_name": "Sonic",
+      "codename": "sonic"
+    },
+    "Random Character": {
+      "smashgg_name": "Random Character",
+      "codename": "random"
+    }
+  },
+  "stage_to_codename": {
+    "Battlefield": {
+      "codename": "battlefield"
+    },
+    "Big Blue": {
+      "codename": "big_blue"
+    },
+    "Bowser's Keep": {
+      "codename": "bowsers_keep"
+    },
+    "Bowser's Stadium": {
+      "codename": "bowsers_stadium"
+    },
+    "Castle Siege": {
+      "codename": "castle_siege"
+    },
+    "Congo Falls": {
+      "codename": "congo_falls"
+    },
+    "Congo Jungle": {
+      "codename": "congo_jungle"
+    },
+    "Cool Cool Mountain": {
+      "codename": "cool_cool_mountain"
+    },
+    "Corneria City": {
+      "codename": "corneria_city"
+    },
+    "Corneria": {
+      "codename": "corneria"
+    },
+    "dataDyne": {
+      "codename": "datadyne"
+    },
+    "Deku Tree": {
+      "codename": "deku_tree"
+    },
+    "Delfino Plaza": {
+      "codename": "delfino_plaza"
+    },
+    "Dragon King": {
+      "codename": "dragon_king"
+    },
+    "Dream Land Beta 1": {
+      "codename": "dream_land_beta_1"
+    },
+    "Dream Land Beta 2": {
+      "codename": "dream_land_beta_2"
+    },
+    "Dream Land": {
+      "codename": "dream_land"
+    },
+    "Dr. Mario": {
+      "codename": "dr_mario"
+    },
+    "Duel Zone": {
+      "codename": "duel_zone"
+    },
+    "Final Destination": {
+      "codename": "final_destination"
+    },
+    "First Destination": {
+      "codename": "first_destination"
+    },
+    "Flat Zone 2": {
+      "codename": "flat_zone_2"
+    },
+    "Flat Zone": {
+      "codename": "flat_zone"
+    },
+    "Fountain of Dreams": {
+      "codename": "fountain_of_dreams"
+    },
+    "Fray's Stage": {
+      "codename": "frays_stage"
+    },
+    "Game Boy Land": {
+      "codename": "game_boy_land"
+    },
+    "Ganon's Tower": {
+      "codename": "ganons_tower"
+    },
+    "Gerudo Valley": {
+      "codename": "gerudo_valley"
+    },
+    "Glacial River": {
+      "codename": "glacial_river"
+    },
+    "Goomba Road": {
+      "codename": "goomba_road"
+    },
+    "Great Bay": {
+      "codename": "great_bay"
+    },
+    "How to Play": {
+      "codename": "how_to_play"
+    },
+    "Hyrule Castle": {
+      "codename": "hyrule_castle"
+    },
+    "Hyrule Temple": {
+      "codename": "hyrule_temple"
+    },
+    "Jungle Japes": {
+      "codename": "jungle_japes"
+    },
+    "Kalos Pok\u00e9mon League": {
+      "codename": "kalos_pokemon_league"
+    },
+    "Kitchen Island": {
+      "codename": "kitchen_island"
+    },
+    "Mad Monster Mansion": {
+      "codename": "mad_monster_mansion"
+    },
+    "Mementos": {
+      "codename": "mementos"
+    },
+    "Meta Crystal": {
+      "codename": "meta_crystal"
+    },
+    "Mini Yoshi's Island": {
+      "codename": "mini_yoshis_island"
+    },
+    "Mushroom Kingdom": {
+      "codename": "mushroom_kindgdom"
+    },
+    "Mute City": {
+      "codename": "mute_city"
+    },
+    "N64": {
+      "codename": "n64"
+    },
+    "New Pork City": {
+      "codename": "new_pork_city"
+    },
+    "Norfair": {
+      "codename": "norfair"
+    },
+    "Onett": {
+      "codename": "onett"
+    },
+    "Oshoe Castle": {
+      "codename": "oshoe_castle"
+    },
+    "Peach's Castle 2": {
+      "codename": "peachs_castle_2"
+    },
+    "Peach's Castle": {
+      "codename": "peachs_castle"
+    },
+    "Planet Clancer": {
+      "codename": "planet_clancer"
+    },
+    "Planet Zebes": {
+      "codename": "planet_zebes"
+    },
+    "Pok\u00e9mon Stadium": {
+      "codename": "pokemon_stadium"
+    },
+    "Random": {
+      "codename": "random"
+    },
+    "Rith Essa": {
+      "codename": "rith_essa"
+    },
+    "Saffron City": {
+      "codename": "saffron_city"
+    },
+    "Sector Z": {
+      "codename": "sector_z"
+    },
+    "Showdown": {
+      "codename": "showdown"
+    },
+    "Skyloft": {
+      "codename": "skyloft"
+    },
+    "Smashketball": {
+      "codename": "smashketball"
+    },
+    "Smashville": {
+      "codename": "smashville"
+    },
+    "Spiral Mountain": {
+      "codename": "spiral_mountain"
+    },
+    "Tower of Heaven": {
+      "codename": "tower_of_heaven"
+    },
+    "Venom": {
+      "codename": "venom"
+    },
+    "Warioware Inc.": {
+      "codename": "warioware_inc"
+    },
+    "Windy": {
+      "codename": "windy"
+    },
+    "World 1-1": {
+      "codename": "world_1_1"
+    },
+    "Yoshi's Island 2": {
+      "codename": "yoshis_island_2"
+    },
+    "Yoshi's Island": {
+      "codename": "yoshis_island"
+    },
+    "Yoshi's Story": {
+      "codename": "yoshis_story"
+    },
+    "Zebes Landing": {
+      "codename": "zebes_landing"
+    },
+    "Congo Jungle DL": {
+      "codename": "congo_jungle_dl"
+    },
+    "Congo Jungle \u03a9": {
+      "codename": "congo_jungle_omega"
+    },
+    "Cool Cool Mountain DL": {
+      "codename": "cool_cool_mountain_dl"
+    },
+    "Cool Cool Mountain \u03a9": {
+      "codename": "cool_cool_mountain_sr"
+    },
+    "Dream Greens": {
+      "codename": "dream_greens"
+    },
+    "Dream Land DL": {
+      "codename": "dream_land_dl"
+    },
+    "Duel Zone DL": {
+      "codename": "duel_zone_dl"
+    },
+    "Final Destination DL": {
+      "codename": "final_destination_dl"
+    },
+    "Fray's Stage - Night": {
+      "codename": "frays_stage_night"
+    },
+    "Hyrule Castle DL": {
+      "codename": "hyrule_castle_dl"
+    },
+    "Hyrule Castle \u03a9": {
+      "codename": "hyrule_castle_omega"
+    },
+    "Meta Crystal DL": {
+      "codename": "meta_crystal_dl"
+    },
+    "Muda Kingdom": {
+      "codename": "muda_kingdom"
+    },
+    "Mushroom Kingdom DL": {
+      "codename": "mushroom_kindgom_dl"
+    },
+    "Mushroom Kingdom \u03a9": {
+      "codename": "mushroom_kindgom_omega"
+    },
+    "Peach's Castle DL": {
+      "codename": "peachs_castle_dl"
+    },
+    "Peach's Castle \u03a9": {
+      "codename": "peachs_castle_omega"
+    },
+    "Saffron City DL": {
+      "codename": "saffron_city_dl"
+    },
+    "Saffron City \u03a9": {
+      "codename": "saffron_city_omega"
+    },
+    "Sector Z DL": {
+      "codename": "sector_z_dl"
+    },
+    "Sector Z \u03a9": {
+      "codename": "sector_z_omega"
+    },
+    "Tent Final Destination": {
+      "codename": "tent_final_destination"
+    },
+    "Yoshi's Island DL": {
+      "codename": "yoshis_island_dl"
+    },
+    "Yoshi's Island \u03a9": {
+      "codename": "yoshis_island_omega"
+    },
+    "Zebes DL": {
+      "codename": "zebes_dl"
+    },
+    "Zebes \u03a9": {
+      "codename": "zebes_omega"
+    },
+    "Green Hill Zone": {
+      "codename": "green_hill_zone"
+    },
+    "Subcon": {
+      "codename": "subcon"
+    },
+    "Metallic Madness Zone": {
+      "codename": "metallic_madness_zone"
+    },
+    "Casino Night Zone": {
+      "codename": "cassino_night_zone"
+    },
+    "Pirate Land": {
+      "codename": "pirate_land"
+    },
+    "Hyrule Castle SR": {
+      "codename": "hyrule_castle_sr"
+    },
+    "Sector Z SR": {
+      "codename": "sector_z_sr"
+    },
+    "Mushroom Kingdom SR": {
+      "codename": "mushroom_kingdom_sr"
+    }
+  },
+  "version": "1.11",
+  "description": "Base config to use this game."
 }

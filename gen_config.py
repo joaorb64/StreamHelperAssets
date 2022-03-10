@@ -15,9 +15,10 @@ list = {}
 
 games = [f for f in os.listdir("./games/") if os.path.isdir("./games/"+f)]
 
-lastModified = 0
-with open("last_modified.json", 'r', encoding='utf-8') as modified:
-    lastModified = json.load(modified).get("modified", 0)
+lastVersions = {}
+
+with open("last_versions.json", 'r', encoding='utf-8') as lastVersionsFile:
+    lastVersions = json.load(lastVersionsFile)
 
 for game in games:
     print("Game: "+game)
@@ -40,7 +41,9 @@ for game in games:
     for assetDir in assetDirs:
         assetPath = "./games/"+game+"/"+assetDir+"/"
 
-        modified = True if any(x for x in os.listdir(assetPath) if os.path.getmtime(assetPath+"/"+x) > lastModified) else False
+        modified = True if config.get("version", 0) > lastVersions.get(f'{game}.{assetDir}', 0) else False
+
+        lastVersions[f'{game}.{assetDir}'] = config.get("version", 0)
 
         if modified:
             deleteOldZips = subprocess.Popen(
@@ -76,7 +79,9 @@ for game in games:
                     "credits": config.get("credits"),
                     "description": config.get("description"),
                     "files": files,
-                    "version": config.get("version")
+                    "version": config.get("version"),
+                    "has_stage_data": len(config.get("stage_to_codename", {})) > 0,
+                    "has_eyesight_data": len(config.get("eyesights", {})) > 0
                 }
 
                 with open(assetPath+"README.md", 'w', encoding='utf-8') as readme:
@@ -89,5 +94,5 @@ for game in games:
 with open('assets.json', 'w') as outfile:
     json.dump(list, outfile, indent=4, sort_keys=True)
 
-with open('last_modified.json', 'w') as outfile:
-    json.dump({"modified": time.time()}, outfile, indent=4, sort_keys=True)
+with open('last_versions.json', 'w') as outfile:
+    json.dump(lastVersions, outfile, indent=4, sort_keys=True)

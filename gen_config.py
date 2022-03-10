@@ -43,6 +43,11 @@ for game in games:
 
         modified = True if config.get("version", 0) > lastVersions.get(f'{game}.{assetDir}', 0) else False
 
+        # Actually, we NEED to generate new zips since the process has to upload them to the release.
+        # Unless in the future we keep old release links, but then the latest release in github won't have
+        # assets for all files...
+        modified = True
+
         lastVersions[f'{game}.{assetDir}'] = config.get("version", 0)
 
         if modified:

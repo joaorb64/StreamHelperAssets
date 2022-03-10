@@ -17,13 +17,13 @@ games = [f for f in os.listdir("./games/") if os.path.isdir("./games/"+f)]
 
 oldAssets = {}
 
-# with open("assets.json", 'r', encoding='utf-8') as oldAssetsFile:
-#     oldAssets = json.load(oldAssetsFile)
+with open("assets.json", 'r', encoding='utf-8') as oldAssetsFile:
+    oldAssets = json.load(oldAssetsFile)
 
 lastVersions = {}
 
-with open("last_versions.json", 'r', encoding='utf-8') as lastVersionsFile:
-    lastVersions = json.load(lastVersionsFile)
+# with open("last_versions.json", 'r', encoding='utf-8') as lastVersionsFile:
+#     lastVersions = json.load(lastVersionsFile)
 
 for game in games:
     print("Game: "+game)

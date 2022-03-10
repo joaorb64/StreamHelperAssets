@@ -7,9 +7,11 @@
                 "files": {
                     "abaa.base_files.7z": {
                         "name": "abaa.base_files.7z",
-                        "size": 167762
+                        "size": 167761
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Akatsuki Blitzkampf Ausf. Achse",
                 "version": "1.01"
             },
@@ -19,9 +21,11 @@
                 "files": {
                     "abaa.full.7z": {
                         "name": "abaa.full.7z",
-                        "size": 4163440
+                        "size": 4163438
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -39,6 +43,8 @@
                         "size": 99544
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Art of Fighting 3: The Path of the Warrior",
                 "version": "1.01"
             },
@@ -48,9 +54,11 @@
                 "files": {
                     "aof3.full.7z": {
                         "name": "aof3.full.7z",
-                        "size": 83450
+                        "size": 83449
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Win Screens",
                 "version": "1.0"
             }
@@ -65,9 +73,11 @@
                 "files": {
                     "arms.badge.7z": {
                         "name": "arms.badge.7z",
-                        "size": 300262
+                        "size": 300261
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Badges",
                 "version": "1.0"
             },
@@ -77,9 +87,11 @@
                 "files": {
                     "arms.badge_alt.7z": {
                         "name": "arms.badge_alt.7z",
-                        "size": 382239
+                        "size": 382238
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Party Crash Badges",
                 "version": "1.0"
             },
@@ -89,9 +101,11 @@
                 "files": {
                     "arms.base_files.7z": {
                         "name": "arms.base_files.7z",
-                        "size": 1649863
+                        "size": 1649862
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": true,
                 "name": "ARMS",
                 "version": "1.31"
             },
@@ -104,6 +118,8 @@
                         "size": 58534175
                     }
                 },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.21"
             },
@@ -113,9 +129,11 @@
                 "files": {
                     "arms.logo.7z": {
                         "name": "arms.logo.7z",
-                        "size": 91202
+                        "size": 91200
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Logos",
                 "version": "1.0"
             },
@@ -125,9 +143,11 @@
                 "files": {
                     "arms.stage_icon.7z": {
                         "name": "arms.stage_icon.7z",
-                        "size": 7387797
+                        "size": 7387795
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Stages",
                 "version": "1.0"
             }
@@ -142,9 +162,11 @@
                 "files": {
                     "bbcf.base_files.7z": {
                         "name": "bbcf.base_files.7z",
-                        "size": 785404
+                        "size": 785403
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "BlazBlue: Central Fiction",
                 "version": "1.01"
             },
@@ -157,6 +179,8 @@
                         "size": 24721924
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -171,9 +195,11 @@
                 "files": {
                     "bbtag.base_files.7z": {
                         "name": "bbtag.base_files.7z",
-                        "size": 701818
+                        "size": 701817
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "BlazBlue Cross Tag Battle",
                 "version": "1.01"
             },
@@ -183,9 +209,11 @@
                 "files": {
                     "bbtag.full.7z": {
                         "name": "bbtag.full.7z",
-                        "size": 31139853
+                        "size": 31139843
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -200,9 +228,11 @@
                 "files": {
                     "breakers.base_files.7z": {
                         "name": "breakers.base_files.7z",
-                        "size": 341051
+                        "size": 341049
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Breakers Revenge",
                 "version": "1.01"
             },
@@ -212,9 +242,11 @@
                 "files": {
                     "breakers.full.7z": {
                         "name": "breakers.full.7z",
-                        "size": 251715
+                        "size": 251713
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Win Screens",
                 "version": "1.0"
             }
@@ -232,6 +264,8 @@
                         "size": 7087471
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Capcom VS SNK 2: Mark of the Millenium 2001",
                 "version": "1.21"
             },
@@ -241,9 +275,11 @@
                 "files": {
                     "cvs2.full.7z": {
                         "name": "cvs2.full.7z",
-                        "size": 81185437
+                        "size": 81185436
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.2"
             }
@@ -261,6 +297,8 @@
                         "size": 1165590
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Dragon Ball FighterZ",
                 "version": "1.12"
             },
@@ -270,9 +308,11 @@
                 "files": {
                     "dbfz.full.7z": {
                         "name": "dbfz.full.7z",
-                        "size": 25155118
+                        "size": 25155117
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -290,6 +330,8 @@
                         "size": 9697576
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Fighting EX Layer",
                 "version": "1.01"
             },
@@ -302,6 +344,8 @@
                         "size": 9416002
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Artwork",
                 "version": "1.1"
             }
@@ -316,9 +360,11 @@
                 "files": {
                     "garoumotw.base_files.7z": {
                         "name": "garoumotw.base_files.7z",
-                        "size": 471335
+                        "size": 471336
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Garou: Mark of the Wolves",
                 "version": "1.01"
             },
@@ -328,9 +374,11 @@
                 "files": {
                     "garoumotw.full.7z": {
                         "name": "garoumotw.full.7z",
-                        "size": 552476
+                        "size": 552477
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -345,9 +393,11 @@
                 "files": {
                     "ggst.base_files.7z": {
                         "name": "ggst.base_files.7z",
-                        "size": 976409
+                        "size": 976410
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Guilty Gear -STRIVE-",
                 "version": "1.41"
             },
@@ -357,9 +407,11 @@
                 "files": {
                     "ggst.full.7z": {
                         "name": "ggst.full.7z",
-                        "size": 11270747
+                        "size": 11270746
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.4"
             }
@@ -374,9 +426,11 @@
                 "files": {
                     "ggxxacpr.base_files.7z": {
                         "name": "ggxxacpr.base_files.7z",
-                        "size": 579038
+                        "size": 579039
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Guilty Gear XX Accent Core Plus R",
                 "version": "1.01"
             },
@@ -386,9 +440,11 @@
                 "files": {
                     "ggxxacpr.full.7z": {
                         "name": "ggxxacpr.full.7z",
-                        "size": 16631341
+                        "size": 16631342
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -406,6 +462,8 @@
                         "size": 49218
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Hyper Dragon Ball Z",
                 "version": "1.01"
             },
@@ -418,6 +476,8 @@
                         "size": 200679
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -432,9 +492,11 @@
                 "files": {
                     "hnk.base_files.7z": {
                         "name": "hnk.base_files.7z",
-                        "size": 877127
+                        "size": 877128
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Fist of the North Star",
                 "version": "1.01"
             },
@@ -447,6 +509,8 @@
                         "size": 706199
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -464,6 +528,8 @@
                         "size": 268736
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Jackie Chan in Fists of Fire",
                 "version": "1.01"
             },
@@ -476,6 +542,8 @@
                         "size": 2265480
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -493,6 +561,8 @@
                         "size": 1040140
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Jojo's Bizarre Adventure: Heritage for the Future",
                 "version": "1.01"
             },
@@ -505,6 +575,8 @@
                         "size": 519618
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -522,6 +594,8 @@
                         "size": 2480174
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Killer Instinct (2013)",
                 "version": "1.11"
             },
@@ -531,9 +605,11 @@
                 "files": {
                     "killerinstinct.full.7z": {
                         "name": "killerinstinct.full.7z",
-                        "size": 25856299
+                        "size": 25856300
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.1"
             }
@@ -551,6 +627,8 @@
                         "size": 7165675
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "The King of Fighters 2002: Unlimited Match",
                 "version": "1.01"
             },
@@ -560,9 +638,11 @@
                 "files": {
                     "kof02um.full.7z": {
                         "name": "kof02um.full.7z",
-                        "size": 43408497
+                        "size": 43408499
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Character Select Portraits",
                 "version": "1.0"
             },
@@ -575,6 +655,8 @@
                         "size": 59029837
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Win Portraits",
                 "version": "1.0"
             }
@@ -592,6 +674,8 @@
                         "size": 859100
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "The King of Fighters XI",
                 "version": "1.01"
             },
@@ -601,9 +685,11 @@
                 "files": {
                     "kofxi.full.7z": {
                         "name": "kofxi.full.7z",
-                        "size": 3954467
+                        "size": 3954465
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -618,9 +704,11 @@
                 "files": {
                     "kofxiii.base_files.7z": {
                         "name": "kofxiii.base_files.7z",
-                        "size": 579579
+                        "size": 579578
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "The King of Fighters XIII",
                 "version": "1.01"
             },
@@ -630,9 +718,11 @@
                 "files": {
                     "kofxiii.full.7z": {
                         "name": "kofxiii.full.7z",
-                        "size": 14845122
+                        "size": 14845121
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -647,9 +737,11 @@
                 "files": {
                     "kofxv.base_files.7z": {
                         "name": "kofxv.base_files.7z",
-                        "size": 5391058
+                        "size": 5391059
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "The King of Fighters XV",
                 "version": "1.01"
             },
@@ -662,6 +754,8 @@
                         "size": 21518737
                     }
                 },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.01"
             }
@@ -679,6 +773,8 @@
                         "size": 165995
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Melty Blood: Type Lumina",
                 "version": "1.21"
             },
@@ -688,9 +784,11 @@
                 "files": {
                     "mbtl.full.7z": {
                         "name": "mbtl.full.7z",
-                        "size": 6355357
+                        "size": 6355356
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.31"
             }
@@ -708,6 +806,8 @@
                         "size": 818475
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Mario Strikers Charged",
                 "version": "1.01"
             },
@@ -720,6 +820,8 @@
                         "size": 2149377
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Challenge Cards",
                 "version": "1.0"
             },
@@ -729,9 +831,11 @@
                 "files": {
                     "msc.full.7z": {
                         "name": "msc.full.7z",
-                        "size": 16855923
+                        "size": 16855924
                     }
                 },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
                 "name": "Artwork",
                 "version": "1.01"
             }
@@ -746,9 +850,11 @@
                 "files": {
                     "mta.base_files.7z": {
                         "name": "mta.base_files.7z",
-                        "size": 1124317
+                        "size": 1124316
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Mario Tennis Aces",
                 "version": "1.01"
             },
@@ -758,9 +864,11 @@
                 "files": {
                     "mta.full.7z": {
                         "name": "mta.full.7z",
-                        "size": 22531928
+                        "size": 22531929
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.0"
             },
@@ -773,6 +881,8 @@
                         "size": 1702122
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Emblems",
                 "version": "1.0"
             }
@@ -790,6 +900,8 @@
                         "size": 1186868
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Marvel VS Capcom 2: New Age of Heroes",
                 "version": "1.01"
             },
@@ -799,9 +911,11 @@
                 "files": {
                     "mvc2.full.7z": {
                         "name": "mvc2.full.7z",
-                        "size": 46265879
+                        "size": 46265872
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -816,9 +930,11 @@
                 "files": {
                     "nasb.ani.7z": {
                         "name": "nasb.ani.7z",
-                        "size": 7925288
+                        "size": 7925289
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Source Artwork",
                 "version": "1.5"
             },
@@ -828,9 +944,11 @@
                 "files": {
                     "nasb.base_files.7z": {
                         "name": "nasb.base_files.7z",
-                        "size": 7862424
+                        "size": 7862430
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": true,
                 "name": "Nickelodeon All-Star Brawl",
                 "version": "1.51"
             },
@@ -840,9 +958,11 @@
                 "files": {
                     "nasb.full.7z": {
                         "name": "nasb.full.7z",
-                        "size": 26385630
+                        "size": 26385631
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.5"
             },
@@ -852,9 +972,11 @@
                 "files": {
                     "nasb.stage_icon.7z": {
                         "name": "nasb.stage_icon.7z",
-                        "size": 75648603
+                        "size": 75648604
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Stages",
                 "version": "1.5"
             }
@@ -872,6 +994,8 @@
                         "size": 609262
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Persona 4 Arena Ultimax",
                 "version": "1.11"
             },
@@ -884,6 +1008,8 @@
                         "size": 8335520
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -901,6 +1027,8 @@
                         "size": 936143
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Pok\u00e9mon",
                 "version": "1.13"
             },
@@ -910,9 +1038,11 @@
                 "files": {
                     "pkmn.full.7z": {
                         "name": "pkmn.full.7z",
-                        "size": 125588970
+                        "size": 125588971
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Pok\u00e9mon Home sprites",
                 "version": "1.12"
             }
@@ -930,6 +1060,8 @@
                         "size": 416643
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Pokken Tournament DX",
                 "version": "1.01"
             },
@@ -939,9 +1071,11 @@
                 "files": {
                     "pokkendx.full.7z": {
                         "name": "pokkendx.full.7z",
-                        "size": 19217766
+                        "size": 19217767
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.0"
             }
@@ -959,6 +1093,8 @@
                         "size": 434204
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Project+",
                 "version": "1.11"
             },
@@ -968,9 +1104,11 @@
                 "files": {
                     "pplus.full.7z": {
                         "name": "pplus.full.7z",
-                        "size": 29115465
+                        "size": 29115464
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.1"
             },
@@ -980,9 +1118,11 @@
                 "files": {
                     "pplus.portrait.7z": {
                         "name": "pplus.portrait.7z",
-                        "size": 6698086
+                        "size": 6698087
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.1"
             }
@@ -1000,6 +1140,8 @@
                         "size": 1706014
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Power Rangers: Battle for the Grid",
                 "version": "1.11"
             },
@@ -1012,6 +1154,8 @@
                         "size": 24750071
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.1"
             }
@@ -1026,9 +1170,11 @@
                 "files": {
                     "roa.art.7z": {
                         "name": "roa.art.7z",
-                        "size": 19414977
+                        "size": 19414976
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Artwork",
                 "version": "2.0"
             },
@@ -1038,9 +1184,11 @@
                 "files": {
                     "roa.base_files.7z": {
                         "name": "roa.base_files.7z",
-                        "size": 2990052
+                        "size": 2990051
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": true,
                 "name": "Rivals of Aether",
                 "version": "2.02"
             },
@@ -1050,9 +1198,11 @@
                 "files": {
                     "roa.full.7z": {
                         "name": "roa.full.7z",
-                        "size": 2256851
+                        "size": 2256844
                     }
                 },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "2.1"
             },
@@ -1062,9 +1212,11 @@
                 "files": {
                     "roa.stage_bg.7z": {
                         "name": "roa.stage_bg.7z",
-                        "size": 220043071
+                        "size": 220043079
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Stage Backgrounds",
                 "version": "2.0"
             },
@@ -1077,6 +1229,8 @@
                         "size": 2245551
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Stages",
                 "version": "2.0"
             }
@@ -1091,9 +1245,11 @@
                 "files": {
                     "samsho2019.base_files.7z": {
                         "name": "samsho2019.base_files.7z",
-                        "size": 1419708
+                        "size": 1419709
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Samurai Shodown (2019)",
                 "version": "1.01"
             },
@@ -1106,6 +1262,8 @@
                         "size": 22444691
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.0"
             }
@@ -1120,9 +1278,11 @@
                 "files": {
                     "sdbz.base_files.7z": {
                         "name": "sdbz.base_files.7z",
-                        "size": 502819
+                        "size": 502820
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Super Dragon Ball Z",
                 "version": "1.01"
             },
@@ -1132,9 +1292,11 @@
                 "files": {
                     "sdbz.full.7z": {
                         "name": "sdbz.full.7z",
-                        "size": 8953642
+                        "size": 8953643
                     }
                 },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
                 "name": "Renders",
                 "version": "1.01"
             }
@@ -1152,6 +1314,8 @@
                         "size": 237149
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Street Fighter III: Third Strike",
                 "version": "1.01"
             },
@@ -1161,9 +1325,11 @@
                 "files": {
                     "sf3ts.full.7z": {
                         "name": "sf3ts.full.7z",
-                        "size": 10608926
+                        "size": 10608928
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.01"
             },
@@ -1173,9 +1339,11 @@
                 "files": {
                     "sf3ts.full_new.7z": {
                         "name": "sf3ts.full_new.7z",
-                        "size": 11189730
+                        "size": 11189738
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits (Online Edition)",
                 "version": "1.0"
             }
@@ -1190,9 +1358,11 @@
                 "files": {
                     "sfalpha3.base_files.7z": {
                         "name": "sfalpha3.base_files.7z",
-                        "size": 1134148
+                        "size": 1134142
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Street Fighter Alpha 3",
                 "version": "1.01"
             },
@@ -1205,6 +1375,8 @@
                         "size": 480000
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -1219,9 +1391,11 @@
                 "files": {
                     "sfv.base_files.7z": {
                         "name": "sfv.base_files.7z",
-                        "size": 16517897
+                        "size": 16517896
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Street Fighter V",
                 "version": "0.92"
             },
@@ -1234,6 +1408,8 @@
                         "size": 23926769
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": 0.91
             }
@@ -1251,6 +1427,8 @@
                         "size": 258172
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Skullgirls: 2nd Encore+",
                 "version": "1.01"
             },
@@ -1263,6 +1441,8 @@
                         "size": 18927578
                     }
                 },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.01"
             }
@@ -1277,9 +1457,11 @@
                 "files": {
                     "sms.base_files.7z": {
                         "name": "sms.base_files.7z",
-                        "size": 450804
+                        "size": 450803
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Super Mario Strikers",
                 "version": "1.01"
             },
@@ -1292,6 +1474,8 @@
                         "size": 9851911
                     }
                 },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
                 "name": "Artwork",
                 "version": "1.01"
             }
@@ -1309,6 +1493,8 @@
                         "size": 209769
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": true,
                 "name": "Super Smash Bros",
                 "version": "1.11"
             },
@@ -1321,6 +1507,8 @@
                         "size": 16669532
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "VS screen renders",
                 "version": 1.1
             },
@@ -1333,6 +1521,8 @@
                         "size": 349879
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": 1.1
             },
@@ -1342,9 +1532,11 @@
                 "files": {
                     "ssb64.stage_icon.7z": {
                         "name": "ssb64.stage_icon.7z",
-                        "size": 18382806
+                        "size": 18382805
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Stage Icons",
                 "version": 1.1
             }
@@ -1359,9 +1551,11 @@
                 "files": {
                     "ssbm.base_files.7z": {
                         "name": "ssbm.base_files.7z",
-                        "size": 823021
+                        "size": 823020
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": true,
                 "name": "Super Smash Bros Melee",
                 "version": "0.93"
             },
@@ -1374,6 +1568,8 @@
                         "size": 4125274
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "0.91"
             },
@@ -1386,6 +1582,8 @@
                         "size": 24129055
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Stage Icons",
                 "version": 0.92
             },
@@ -1395,9 +1593,11 @@
                 "files": {
                     "ssbm.vs_crops.7z": {
                         "name": "ssbm.vs_crops.7z",
-                        "size": 6713147
+                        "size": 6713146
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Vs face crops",
                 "version": "1.0"
             }
@@ -1415,6 +1615,8 @@
                         "size": 5278649
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": true,
                 "name": "Super Smash Bros Ultimate",
                 "version": "1.01"
             },
@@ -1424,9 +1626,11 @@
                 "files": {
                     "ssbu.full.7z": {
                         "name": "ssbu.full.7z",
-                        "size": 299660327
+                        "size": 299660328
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Full",
                 "version": 0.99
             },
@@ -1436,9 +1640,11 @@
                 "files": {
                     "ssbu.mural_art.7z": {
                         "name": "ssbu.mural_art.7z",
-                        "size": 478595133
+                        "size": 478595132
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Mural arts",
                 "version": "0.991"
             },
@@ -1448,9 +1654,11 @@
                 "files": {
                     "ssbu.portrait.7z": {
                         "name": "ssbu.portrait.7z",
-                        "size": 26269372
+                        "size": 26269366
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": 0.99
             },
@@ -1460,9 +1668,11 @@
                 "files": {
                     "ssbu.stage_icon.7z": {
                         "name": "ssbu.stage_icon.7z",
-                        "size": 27305868
+                        "size": 27305877
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Stage Icons",
                 "version": 0.9
             },
@@ -1472,9 +1682,11 @@
                 "files": {
                     "ssbu.webm.7z": {
                         "name": "ssbu.webm.7z",
-                        "size": 423015143
+                        "size": 423015145
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Webms",
                 "version": 0.99
             }
@@ -1492,6 +1704,8 @@
                         "size": 3839469
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Super Smash Bros. for Wii U",
                 "version": "1.01"
             }
@@ -1506,9 +1720,11 @@
                 "files": {
                     "ssf2x.base_files.7z": {
                         "name": "ssf2x.base_files.7z",
-                        "size": 1699940
+                        "size": 1699942
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Super Street Fighter II Turbo",
                 "version": "1.01"
             },
@@ -1518,9 +1734,11 @@
                 "files": {
                     "ssf2x.full.7z": {
                         "name": "ssf2x.full.7z",
-                        "size": 13484669
+                        "size": 13484671
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Artwork",
                 "version": "1.0"
             }
@@ -1535,9 +1753,11 @@
                 "files": {
                     "tekken7.base_files.7z": {
                         "name": "tekken7.base_files.7z",
-                        "size": 2638073
+                        "size": 2638074
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Tekken 7",
                 "version": "1.01"
             }
@@ -1552,9 +1772,11 @@
                 "files": {
                     "tfh.base_files.7z": {
                         "name": "tfh.base_files.7z",
-                        "size": 353612
+                        "size": 353614
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Them's Fightin' Herds",
                 "version": "1.01"
             },
@@ -1564,9 +1786,11 @@
                 "files": {
                     "tfh.full.7z": {
                         "name": "tfh.full.7z",
-                        "size": 5408509
+                        "size": 5408510
                     }
                 },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
                 "name": "Splash art",
                 "version": "1.01"
             }
@@ -1581,9 +1805,11 @@
                 "files": {
                     "touhou123hts.base_files.7z": {
                         "name": "touhou123hts.base_files.7z",
-                        "size": 2222930
+                        "size": 2222933
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Touhou 12.3: Hisoutensoku",
                 "version": "1.01"
             },
@@ -1593,9 +1819,11 @@
                 "files": {
                     "touhou123hts.full.7z": {
                         "name": "touhou123hts.full.7z",
-                        "size": 5823350
+                        "size": 5823352
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -1610,9 +1838,11 @@
                 "files": {
                     "ttt2.base_files.7z": {
                         "name": "ttt2.base_files.7z",
-                        "size": 1367968
+                        "size": 1367969
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Tekken Tag Tournament 2",
                 "version": "1.02"
             },
@@ -1622,9 +1852,11 @@
                 "files": {
                     "ttt2.full.7z": {
                         "name": "ttt2.full.7z",
-                        "size": 48515035
+                        "size": 48515027
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -1639,9 +1871,11 @@
                 "files": {
                     "umvc3.base_files.7z": {
                         "name": "umvc3.base_files.7z",
-                        "size": 190483165
+                        "size": 190483163
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Ultimate Marvel VS Capcom 3",
                 "version": "1.01"
             },
@@ -1651,9 +1885,11 @@
                 "files": {
                     "umvc3.full.7z": {
                         "name": "umvc3.full.7z",
-                        "size": 381304986
+                        "size": 381304991
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -1668,9 +1904,11 @@
                 "files": {
                     "uniclr.base_files.7z": {
                         "name": "uniclr.base_files.7z",
-                        "size": 1813956
+                        "size": 1813957
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Under Night In-Birth Exe:Late[cl-r]",
                 "version": "1.01"
             },
@@ -1683,6 +1921,8 @@
                         "size": 10356604
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -1697,9 +1937,11 @@
                 "files": {
                     "usfiv.base_files.7z": {
                         "name": "usfiv.base_files.7z",
-                        "size": 22173277
+                        "size": 22173269
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Ultra Street Fighter IV",
                 "version": "1.01"
             },
@@ -1709,9 +1951,11 @@
                 "files": {
                     "usfiv.full.7z": {
                         "name": "usfiv.full.7z",
-                        "size": 44865943
+                        "size": 44865950
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.0"
             }
@@ -1729,6 +1973,8 @@
                         "size": 315096
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Darkstalkers 3 / Vampire Savior",
                 "version": "1.01"
             },
@@ -1741,6 +1987,8 @@
                         "size": 148795
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.01"
             },
@@ -1750,9 +1998,11 @@
                 "files": {
                     "vsav.full_new.7z": {
                         "name": "vsav.full_new.7z",
-                        "size": 12156532
+                        "size": 12156531
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Artwork (Resurrection)",
                 "version": "1.0"
             }
@@ -1770,6 +2020,8 @@
                         "size": 368045
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Windjammers",
                 "version": "1.11"
             },
@@ -1779,9 +2031,11 @@
                 "files": {
                     "windjammers.full.7z": {
                         "name": "windjammers.full.7z",
-                        "size": 44755
+                        "size": 44754
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.1"
             }
@@ -1799,6 +2053,8 @@
                         "size": 12212804
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Windjammers 2",
                 "version": "1.11"
             },
@@ -1811,6 +2067,8 @@
                         "size": 12119622
                     }
                 },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
                 "name": "Portraits",
                 "version": "1.1"
             }

@@ -18,7 +18,6 @@ jobs:
     name: Upload Release Asset
     runs-on: ubuntu-latest
     steps:
-      steps:
       - name: Shallow clone repository
         run: git clone --single-branch --branch "${{ github.head_ref }}"" --depth 1 "https://${{ secrets.CLONE_TOKEN }}:x-oauth-basic@github.com/${{ github.repository }}.git" .
       - name: setup python

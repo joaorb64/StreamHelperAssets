@@ -15,6 +15,11 @@ list = {}
 
 games = [f for f in os.listdir("./games/") if os.path.isdir("./games/"+f)]
 
+oldAssets = {}
+
+with open("assets.json", 'r', encoding='utf-8') as oldAssetsFile:
+    oldAssets = json.load(oldAssetsFile)
+
 lastVersions = {}
 
 with open("last_versions.json", 'r', encoding='utf-8') as lastVersionsFile:
@@ -41,12 +46,7 @@ for game in games:
     for assetDir in assetDirs:
         assetPath = "./games/"+game+"/"+assetDir+"/"
 
-        modified = True if config.get("version", 0) > lastVersions.get(f'{game}.{assetDir}', 0) else False
-
-        # Actually, we NEED to generate new zips since the process has to upload them to the release.
-        # Unless in the future we keep old release links, but then the latest release in github won't have
-        # assets for all files...
-        modified = True
+        modified = True if float(config.get("version", 0)) > float(lastVersions.get(f'{game}.{assetDir}', 0)) else False
 
         lastVersions[f'{game}.{assetDir}'] = config.get("version", 0)
 
@@ -58,11 +58,14 @@ for game in games:
             deleteOldZips.communicate()
 
         print(">"+assetPath)
+        print("Was modified", modified)
 
         try:
             with open(assetPath+"config.json", 'r', encoding='utf-8') as configFile:
                 config = json.load(configFile)
                 
+                files = {}
+
                 if modified:
                     _zip = subprocess.Popen([
                         "7z", "-r", "a",
@@ -71,13 +74,14 @@ for game in games:
                     ])
                     result = _zip.communicate()
 
-                fileNames = [f for f in os.listdir("./games/"+game+"/") if f.startswith(game+"."+assetDir+".7z")]
-                files = {}
-                for f in fileNames:
-                    files[f] = {
-                        "name": f,
-                        "size": os.path.getsize("./games/"+game+"/"+f)
-                    }
+                    fileNames = [f for f in os.listdir("./games/"+game+"/") if f.startswith(game+"."+assetDir+".7z")]
+                    for f in fileNames:
+                        files[f] = {
+                            "name": f,
+                            "size": os.path.getsize("./games/"+game+"/"+f)
+                        }
+                else:
+                    files = oldAssets[game]["assets"][assetDir]["files"]
 
                 list[game]["assets"][assetDir] = {
                     "name": config.get("name"),

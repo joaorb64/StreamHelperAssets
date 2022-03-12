@@ -173,10 +173,14 @@
     "Zamasu (Fused)": {
       "codename": "ZamasuFused",
       "smashgg_name": "Zamasu (Fused)"
+    },
+    "Android 21 (Lab Coat)": {
+      "codename": "Lab21",
+      "smashgg_name": "Android 21 (Lab Coat)"
     }
   },
   "credits": "Files ripped from Dustloop Wiki",
   "description": "Base config to use this game.",
   "stage_to_codename": {},
-  "version": "1.12"
+  "version": "1.2"
 }

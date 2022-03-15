@@ -1,0 +1,86 @@
+{
+  "name": "Granblue Fantasy Versus",
+  "smashgg_game_id": 22107,
+  "challonge_game_id": 157010,
+  "character_to_codename": {
+    "Anre": {
+      "codename": "Anre"
+    },
+    "Avatar Belial": {
+      "codename": "AvatarBelial"
+    },
+    "Beelzebub": {
+      "codename": "Beelzebub"
+    },
+    "Belial": {
+      "codename": "Belial"
+    },
+    "Cagliostro": {
+      "codename": "Cagliostro"
+    },
+    "Charlotta": {
+      "codename": "Charlotta"
+    },
+    "Djeeta": {
+      "codename": "Djeeta"
+    },
+    "Eustace": {
+      "codename": "Eustace"
+    },
+    "Ferry": {
+      "codename": "Ferry"
+    },
+    "Gran": {
+      "codename": "Gran"
+    },
+    "Katalina": {
+      "codename": "Katalina"
+    },
+    "Ladiva": {
+      "codename": "Ladiva"
+    },
+    "Lancelot": {
+      "codename": "Lancelot"
+    },
+    "Lowain": {
+      "codename": "Lowain"
+    },
+    "Metera": {
+      "codename": "Metera"
+    },
+    "Narmaya": {
+      "codename": "Narmaya"
+    },
+    "Percival": {
+      "codename": "Percival"
+    },
+    "Seox": {
+      "codename": "Seox"
+    },
+    "Soriz": {
+      "codename": "Soriz"
+    },
+    "Vaseraga": {
+      "codename": "Vaseraga"
+    },
+    "Vira": {
+      "codename": "Vira"
+    },
+    "Yuel": {
+      "codename": "Yuel"
+    },
+    "Zeta": {
+      "codename": "Zeta"
+    },
+    "Zooey": {
+      "codename": "Zooey"
+    },
+    "Lunalu": {
+      "codename": "Lunalu"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Files ripped from Dustloop Wiki"
+}

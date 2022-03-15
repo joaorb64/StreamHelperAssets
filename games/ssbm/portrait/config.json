@@ -4,5 +4,111 @@
     "prefix": "",
     "postfix": "_",
     "type": ["portrait"],
-    "version": "0.91"
+    "version": "1.0",
+    "eyesights": {
+        "Mario": {
+          "x": 93,
+          "y": 42
+        },
+        "Donkey Kong": {
+          "x": 124,
+          "y": 78
+        },
+        "Link": {
+          "x": 112,
+          "y": 42
+        },
+        "Samus": {
+          "x": 102,
+          "y": 47
+        },
+        "Yoshi": {
+          "x": 66,
+          "y": 34
+        },
+        "Kirby": {
+          "x": 97,
+          "y": 70
+        },
+        "Fox": {
+          "x": 86,
+          "y": 51
+        },
+        "Pikachu": {
+          "x": 99,
+          "y": 56
+        },
+        "Luigi": {
+          "x": 105,
+          "y": 53
+        },
+        "Ness": {
+          "x": 95,
+          "y": 60
+        },
+        "Captain Falcon": {
+          "x": 105,
+          "y": 29
+        },
+        "Jigglypuff": {
+          "x": 110,
+          "y": 95
+        },
+        "Peach": {
+          "x": 70,
+          "y": 65
+        },
+        "Bowser": {
+          "x": 44,
+          "y": 94
+        },
+        "Ice Climbers": {
+          "x": 104,
+          "y": 59
+        },
+        "Sheik": {
+          "x": 100,
+          "y": 40
+        },
+        "Zelda": {
+          "x": 94,
+          "y": 41
+        },
+        "Dr. Mario": {
+          "x": 103,
+          "y": 54
+        },
+        "Pichu": {
+          "x": 111,
+          "y": 68
+        },
+        "Falco": {
+          "x": 101,
+          "y": 47
+        },
+        "Marth": {
+          "x": 99,
+          "y": 46
+        },
+        "Young Link": {
+          "x": 85,
+          "y": 49
+        },
+        "Ganondorf": {
+          "x": 27,
+          "y": 43
+        },
+        "Mewtwo": {
+          "x": 81,
+          "y": 71
+        },
+        "Roy": {
+          "x": 98,
+          "y": 50
+        },
+        "Mr. Game & Watch": {
+          "x": 77,
+          "y": 35
+        }
+    }
 }

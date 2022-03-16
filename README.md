@@ -46,7 +46,29 @@ The file `config.json` contains basic definitions for the pack:
   - Check in `/games/<GAMECODE>/base_files/config.json` the character codenames. Have your files named after the codenames.
   - Check in other assets packs or official sources what is the game's skins orders, if the game has multiple skins per character, so that you follow the same order as other assets packs.
   - Add all data you need in `config.json` inside your assets pack directory.
-  
+
+### Adding eyesight data to an asset pack
+
+  - Check in `/games/<GAMECODE>/base_files/config.json` the character codenames.
+  - Open the `config.json` file inside the asset pack directory.
+  - Add an `"eyesights"` section to the JSON with the X and Y coordinates of each character's eyesight, usually situated between both eyes. This section of the JSON will look something like this:
+```
+ "eyesights": {
+    "codename1": {
+      "0": {
+        "x": 462,
+        "y": 135
+      }
+    },
+    "codename2": {
+      "0": {
+        "x": 417,
+        "y": 322
+      }
+    }
+  }
+```
+
 ### Testing
 
 You can build your own structure in your TournamentStreamHelper install so that you can easly test your files and configuration. I'd suggest copying everything from other game for a quicker start!

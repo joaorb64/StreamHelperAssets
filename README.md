@@ -51,7 +51,7 @@ The file `config.json` contains basic definitions for the pack:
 
   - Check in `/games/<GAMECODE>/base_files/config.json` the character codenames.
   - Open the `config.json` file inside the asset pack directory.
-  - Add an `"eyesights"` section to the JSON with the X and Y coordinates of each character's eyesight, usually situated between both eyes. This section of the JSON will look something like this:
+  - Add an `"eyesights"` section to the JSON with the X and Y coordinates of each character's eyesight (in pixels), usually situated between both eyes. This section of the JSON will look something like this:
 ```
  "eyesights": {
     "codename1": {

@@ -1,0 +1,137 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Baby Daisy": {
+      "codename": "BabyDaisy"
+    },
+    "Baby Luigi": {
+      "codename": "BabyLuigi"
+    },
+    "Baby Mario": {
+      "codename": "BabyMario"
+    },
+    "Baby Peach": {
+      "codename": "BabyPeach"
+    },
+    "Baby Rosalina": {
+      "codename": "BabyRosalina"
+    },
+    "Bowser": {
+      "codename": "Bowser"
+    },
+    "Bowser Jr.": {
+      "codename": "BowserJr"
+    },
+    "Cat Peach": {
+      "codename": "CatPeach"
+    },
+    "Daisy": {
+      "codename": "Daisy"
+    },
+    "Donkey Kong": {
+      "codename": "DonkeyKong"
+    },
+    "Dry Bones": {
+      "codename": "DryBones"
+    },
+    "Dry Bowser": {
+      "codename": "DryBowser"
+    },
+    "Iggy": {
+      "codename": "Iggy"
+    },
+    "Inkling Boy": {
+      "codename": "InklingBoy"
+    },
+    "Inkling Girl": {
+      "codename": "InklingGirl"
+    },
+    "Isabelle": {
+      "codename": "Isabelle"
+    },
+    "King Boo": {
+      "codename": "KingBoo"
+    },
+    "Koopa Troopa": {
+      "codename": "KoopaTroopa"
+    },
+    "Lakitu": {
+      "codename": "Lakitu"
+    },
+    "Larry": {
+      "codename": "Larry"
+    },
+    "Lemmy": {
+      "codename": "Lemmy"
+    },
+    "Link": {
+      "codename": "Link"
+    },
+    "Ludwig": {
+      "codename": "Ludwig"
+    },
+    "Luigi": {
+      "codename": "Luigi"
+    },
+    "Mario": {
+      "codename": "Mario"
+    },
+    "Metal Mario": {
+      "codename": "MetalMario"
+    },
+    "Mii": {
+      "codename": "Mii"
+    },
+    "Morton": {
+      "codename": "Morton"
+    },
+    "Peach": {
+      "codename": "Peach"
+    },
+    "Pink Gold Peach": {
+      "codename": "PinkGoldPeach"
+    },
+    "Rosalina": {
+      "codename": "Rosalina"
+    },
+    "Roy": {
+      "codename": "Roy"
+    },
+    "Shy Guy": {
+      "codename": "ShyGuy"
+    },
+    "Tanooki Mario": {
+      "codename": "TanookiMario"
+    },
+    "Toad": {
+      "codename": "Toad"
+    },
+    "Toadette": {
+      "codename": "Toadette"
+    },
+    "Villager (Male)": {
+      "codename": "Villager"
+    },
+    "Villager (Female)": {
+      "codename": "VillagerF"
+    },
+    "Waluigi": {
+      "codename": "Waluigi"
+    },
+    "Wario": {
+      "codename": "Wario"
+    },
+    "Wendy": {
+      "codename": "Wendy"
+    },
+    "Yoshi": {
+      "codename": "Yoshi"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Mario Kart 8 Deluxe",
+  "smashgg_game_id": 2165,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

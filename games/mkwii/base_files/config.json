@@ -1,0 +1,83 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Baby Daisy": {
+      "codename": "BabyDaisy"
+    },
+    "Baby Luigi": {
+      "codename": "BabyLuigi"
+    },
+    "Baby Mario": {
+      "codename": "BabyMario"
+    },
+    "Baby Peach": {
+      "codename": "BabyPeach"
+    },
+    "Birdo": {
+      "codename": "Birdo"
+    },
+    "Bowser": {
+      "codename": "Bowser"
+    },
+    "Bowser Jr.": {
+      "codename": "BowserJr"
+    },
+    "Daisy": {
+      "codename": "Daisy"
+    },
+    "Diddy Kong": {
+      "codename": "DiddyKong"
+    },
+    "Donkey Kong": {
+      "codename": "DonkeyKong"
+    },
+    "Dry Bones": {
+      "codename": "DryBones"
+    },
+    "Dry Bowser": {
+      "codename": "DryBowser"
+    },
+    "Funky Kong": {
+      "codename": "FunkyKong"
+    },
+    "King Boo": {
+      "codename": "KingBoo"
+    },
+    "Koopa Troopa": {
+      "codename": "KoopaTroopa"
+    },
+    "Luigi": {
+      "codename": "Luigi"
+    },
+    "Mario": {
+      "codename": "Mario"
+    },
+    "Peach": {
+      "codename": "Peach"
+    },
+    "Rosalina": {
+      "codename": "Rosalina"
+    },
+    "Toad": {
+      "codename": "Toad"
+    },
+    "Toadette": {
+      "codename": "Toadette"
+    },
+    "Waluigi": {
+      "codename": "Waluigi"
+    },
+    "Wario": {
+      "codename": "Wario"
+    },
+    "Yoshi": {
+      "codename": "Yoshi"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Mario Kart Wii",
+  "smashgg_game_id": 5757,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

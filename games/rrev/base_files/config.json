@@ -1,0 +1,35 @@
+{
+  "challonge_game_id": 212835,
+  "character_to_codename": {
+    "Afi & Galu": {
+      "codename": "AfiGalu"
+    },
+    "Ashani": {
+      "codename": "Ashani"
+    },
+    "Ezzie": {
+      "codename": "Ezzie"
+    },
+    "Kidd": {
+      "codename": "Kidd"
+    },
+    "Raymer": {
+      "codename": "Raymer"
+    },
+    "Urdah": {
+      "codename": "Urdah"
+    },
+    "Weishan": {
+      "codename": "Weishan"
+    },
+    "Zhurong": {
+      "codename": "Zhurong"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Rushdown Revolt",
+  "smashgg_game_id": 34863,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "@MathiasWolfbrok for cropping",
+  "version": "1.0",
+  "eyesights": {
+    "AfiGalu": {
+      "0": {
+        "x": 583,
+        "y": 765
+      }
+    },
+    "Ashani": {
+      "0": {
+        "x": 531,
+        "y": 198
+      }
+    },
+    "Ezzie": {
+      "0": {
+        "x": 490,
+        "y": 381
+      }
+    },
+    "Kidd": {
+      "0": {
+        "x": 403,
+        "y": 283
+      }
+    },
+    "Raymer": {
+      "0": {
+        "x": 564,
+        "y": 237
+      }
+    },
+    "Urdah": {
+      "0": {
+        "x": 403,
+        "y": 132
+      }
+    },
+    "Weishan": {
+      "0": {
+        "x": 669,
+        "y": 235
+      }
+    },
+    "Zhurong": {
+      "0": {
+        "x": 469,
+        "y": 193
+      }
+    }
+  }
+}

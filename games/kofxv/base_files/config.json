@@ -118,10 +118,19 @@
     },
     "Elisabeth Blanctorche": {
       "codename": "ElisabethBlanctorche"
+    },
+    "Rock Howard": {
+      "codename": "RockHoward"
+    },
+    "Gato": {
+      "codename": "Gato"
+    },
+    "B. Jenet": {
+      "codename": "BJenet"
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.1",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

@@ -76,10 +76,13 @@
     },
     "Baiken": {
       "codename": "Baiken"
+    },
+    "Testament": {
+      "codename": "Testament"
     }
   },
   "stage_to_codename": {},
-  "version": "1.41",
+  "version": "1.5",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki"
 }

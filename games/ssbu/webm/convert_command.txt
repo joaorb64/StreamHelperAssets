@@ -1,0 +1,1 @@
+ffmpeg -c:v libvpx-vp9 -i <INPUT> -ss 1 -to 5 -c:v libvpx -pix_fmt yuva420p -b:v 2M -auto-alt-ref 0 <OUTPUT>

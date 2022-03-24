@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { ListGroup } from 'react-bootstrap';
 import { FaEye } from 'react-icons/fa';
 import { GiFloatingPlatforms } from 'react-icons/gi';
+import { BrowserRouter, HashRouter, Route, Routes, Link } from 'react-router-dom';
 
 class GameList extends React.Component {
 
@@ -25,21 +26,23 @@ class GameList extends React.Component {
                 </div>
                 <div style={{display: 'flex', gap: "8px"}}>
                   {Object.entries(game.assets).map((asset, j)=>(
-                    <h5>
-                      <span class="badge bg-primary">
-                        {asset[0]}
-                        {asset[1].has_eyesight_data ? 
-                          <>{" "}<FaEye /></>
-                          :
-                          null
-                        }
-                        {asset[1].has_stage_data ? 
-                          <>{" "}<GiFloatingPlatforms /></>
-                          :
-                          null
-                        }
-                      </span>
-                    </h5>
+                    <Link to={`assetpack/${id}/${asset[0]}`}>
+                      <h5>
+                        <span class="badge bg-primary">
+                          {asset[0]}
+                          {asset[1].has_eyesight_data ? 
+                            <>{" "}<FaEye /></>
+                            :
+                            null
+                          }
+                          {asset[1].has_stage_data ? 
+                            <>{" "}<GiFloatingPlatforms /></>
+                            :
+                            null
+                          }
+                        </span>
+                      </h5>
+                    </Link>
                   ))}
                 </div>
               </div>

@@ -1,0 +1,47 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Armaggon": {
+      "codename": "Armaggon"
+    },
+    "Aska": {
+      "codename": "Aska"
+    },
+    "Chrome Dome": {
+      "codename": "ChromeDome"
+    },
+    "Cyber Shredder": {
+      "codename": "CyberShredder"
+    },
+    "Donatello": {
+      "codename": "Donatello"
+    },
+    "Karai": {
+      "codename": "Karai"
+    },
+    "Leonardo": {
+      "codename": "Leonardo"
+    },
+    "Michaelangelo": {
+      "codename": "Michaelangelo"
+    },
+    "Raphael": {
+      "codename": "Raphael"
+    },
+    "Rat King": {
+      "codename": "RatKing"
+    },
+    "War": {
+      "codename": "War"
+    },
+    "Wingnut": {
+      "codename": "Wingnut"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+  "smashgg_game_id": 33578,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

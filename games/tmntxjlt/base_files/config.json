@@ -1,0 +1,86 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "April": {
+      "codename": "april"
+    },
+    "Aquaman": {
+      "codename": "aquaman"
+    },
+    "Armaggon": {
+      "codename": "armaggon"
+    },
+    "Batman": {
+      "codename": "batman"
+    },
+    "Bizarro": {
+      "codename": "bizarro"
+    },
+    "Casey": {
+      "codename": "casey"
+    },
+    "Cheetah": {
+      "codename": "cheetah"
+    },
+    "Chrome Dome": {
+      "codename": "chromedome"
+    },
+    "Darkseid": {
+      "codename": "darkseid"
+    },
+    "Despero": {
+      "codename": "despero"
+    },
+    "Donatello": {
+      "codename": "donatello"
+    },
+    "Flash": {
+      "codename": "flash"
+    },
+    "Green Arrow": {
+      "codename": "greenarrow"
+    },
+    "Kirby": {
+      "codename": "kirby"
+    },
+    "Leonardo": {
+      "codename": "leonardo"
+    },
+    "Michaelangelo": {
+      "codename": "michelangelo"
+    },
+    "Raphael": {
+      "codename": "raphael"
+    },
+    "Rat King": {
+      "codename": "ratking"
+    },
+    "Shredder": {
+      "codename": "shredder"
+    },
+    "Superman": {
+      "codename": "superman"
+    },
+    "War": {
+      "codename": "war"
+    },
+    "Wingnut": {
+      "codename": "wingnut"
+    },
+    "Wonder Woman": {
+      "codename": "wonderwoman"
+    },
+    "Zoom": {
+      "codename": "zoom"
+    },
+    "\u03a9 Shredder": {
+      "codename": "omegashredder"
+    }
+  },
+  "credits": "Assets by @aywhatsgoingon",
+  "description": "Base config to use this game.",
+  "name": "Teenage Mutant Ninja Turtles X Justice League Turbo",
+  "smashgg_game_id": 42300,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

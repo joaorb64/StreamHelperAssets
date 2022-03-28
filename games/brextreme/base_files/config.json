@@ -1,0 +1,62 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Alice the Rabbit": {
+      "codename": "Alice"
+    },
+    "Bakuryu the Mole": {
+      "codename": "Bakuryu"
+    },
+    "Busuzima the Chameleon": {
+      "codename": "Busuzima"
+    },
+    "Cronos the Penguin/Phoenix": {
+      "codename": "Cronos"
+    },
+    "Fang the Wolf": {
+      "codename": "Fang"
+    },
+    "Gado the Lion": {
+      "codename": "Gado"
+    },
+    "Ganesha the Elephant": {
+      "codename": "Ganesha"
+    },
+    "Jenny the Bat": {
+      "codename": "Jenny"
+    },
+    "Kohryu the Iron Mole": {
+      "codename": "Kohryu"
+    },
+    "Long the Tiger": {
+      "codename": "Long"
+    },
+    "Shenlong the Tiger": {
+      "codename": "Shenlong"
+    },
+    "Shina the Leopard": {
+      "codename": "Shina"
+    },
+    "Stun the Insect": {
+      "codename": "Stun"
+    },
+    "Uranus the Chimera": {
+      "codename": "Uranus"
+    },
+    "Uriko the Half-Beast": {
+      "codename": "Uriko"
+    },
+    "Xion the Unborn": {
+      "codename": "Xion"
+    },
+    "Yugo the Wolf": {
+      "codename": "Yugo"
+    }
+  },
+  "credits": "Icons ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Bloody_Roar_Extreme)",
+  "description": "Base config to use this game.",
+  "name": "Bloody Roar Extreme",
+  "smashgg_game_id": 12398,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

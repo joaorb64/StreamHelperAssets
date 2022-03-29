@@ -1,0 +1,29 @@
+{
+  "name": "Neo Turf Masters",
+  "smashgg_game_id": 13140,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "George Spinner": {
+      "codename": "YoungHero"
+    },
+    "Thomas Stewart": {
+      "codename": "Technician"
+    },
+    "Frank Adams": {
+      "codename": "Veteran"
+    },
+    "Robert Landolt": {
+      "codename": "ShotMaker"
+    },
+    "Fernando Almeida": {
+      "codename": "PowerGolfer"
+    },
+    "Toyoshige Takeno": {
+      "codename": "PuttMaster"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Neo_Turf_Masters)"
+}

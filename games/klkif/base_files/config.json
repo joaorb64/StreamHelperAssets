@@ -1,0 +1,47 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "H\u014dka Inumuta": {
+      "codename": "Inumuta"
+    },
+    "Ira Gamagoori": {
+      "codename": "Gamagoori"
+    },
+    "Mako Mankanshoku": {
+      "codename": "Mako"
+    },
+    "Nonon Jakuzure": {
+      "codename": "Jakuzure"
+    },
+    "Nui Harime": {
+      "codename": "Nui"
+    },
+    "Ragyo Kiryuin": {
+      "codename": "Ragyo"
+    },
+    "Ryuko Matoi": {
+      "codename": "Ryuko"
+    },
+    "Ryuko Matoi -Dual-Wield Variation-": {
+      "codename": "Ryuko2"
+    },
+    "Satsuki Kiryuin": {
+      "codename": "Satsuki"
+    },
+    "Satsuki Kiryuin -Dual-Wield Variation-": {
+      "codename": "Satsuki2"
+    },
+    "Ultimate Double Naked DTR": {
+      "codename": "DTR"
+    },
+    "Uzu Sanageyama": {
+      "codename": "Sanageyama"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Kill la Kill the Game: IF",
+  "smashgg_game_id": 21850,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

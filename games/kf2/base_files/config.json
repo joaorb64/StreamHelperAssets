@@ -1,0 +1,77 @@
+{
+  "name": "Kirby Fighters 2",
+  "smashgg_game_id": 34915,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Sword": {
+      "codename": "Sword"
+    },
+    "Bomb": {
+      "codename": "Bomb"
+    },
+    "Staff": {
+      "codename": "Staff"
+    },
+    "Artist": {
+      "codename": "Artist"
+    },
+    "Fighter": {
+      "codename": "Fighter"
+    },
+    "Yo-Yo": {
+      "codename": "YoYo"
+    },
+    "Beetle": {
+      "codename": "Beetle"
+    },
+    "Bell": {
+      "codename": "Bell"
+    },
+    "Archer": {
+      "codename": "Archer"
+    },
+    "Parasol": {
+      "codename": "Parasol"
+    },
+    "Cutter": {
+      "codename": "Cutter"
+    },
+    "Hammer": {
+      "codename": "Hammer"
+    },
+    "Beam": {
+      "codename": "Beam"
+    },
+    "Wrestler": {
+      "codename": "Wrestler"
+    },
+    "Ninja": {
+      "codename": "Ninja"
+    },
+    "Whip": {
+      "codename": "Whip"
+    },
+    "Water": {
+      "codename": "Water"
+    },
+    "Bandana Waddle Dee": {
+      "codename": "BandanaWaddleDee"
+    },
+    "Gooey": {
+      "codename": "Gooey"
+    },
+    "Magolor": {
+      "codename": "Magolor"
+    },
+    "King Dedede": {
+      "codename": "KingDedede"
+    },
+    "Meta Knight": {
+      "codename": "MetaKnight"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Kirby_Fighters_2)"
+}

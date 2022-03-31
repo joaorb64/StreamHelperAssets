@@ -1,0 +1,50 @@
+{
+  "name": "Asuka 120% LimitOver BURNING Fest.",
+  "smashgg_game_id": 39241,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Asuka Honda": {
+      "codename": "AsukaHonda"
+    },
+    "Ryuko Yamazaki": {
+      "codename": "RyukoYamazaki"
+    },
+    "Torami Houjyou": {
+      "codename": "ToramiHoujyou"
+    },
+    "Megumi Suzuki": {
+      "codename": "MegumiSuzuki"
+    },
+    "Kumi Ookubo": {
+      "codename": "KumiOokubo"
+    },
+    "Tamaki Shindou": {
+      "codename": "TamakiShindou"
+    },
+    "Karina Toyota": {
+      "codename": "KarinaToyota"
+    },
+    "Nana Owada": {
+      "codename": "NanaOwada"
+    },
+    "Kiyoko Mitarai": {
+      "codename": "KiyokoMitarai"
+    },
+    "Cathy Wild": {
+      "codename": "CathyWild"
+    },
+    "Shinobu Kawasaki": {
+      "codename": "ShinobuKawasaki"
+    },
+    "Tetsuko Ougigaya": {
+      "codename": "TetsukoOugigaya"
+    },
+    "Genichirou Shindou": {
+      "codename": "GenichirouShindou"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Asuka_120_LimitOver)"
+}

@@ -1,0 +1,92 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Assassin": {
+      "codename": "Assassin"
+    },
+    "Astaroth": {
+      "codename": "Astaroth"
+    },
+    "Berserker": {
+      "codename": "Berserker"
+    },
+    "Cassandra Alexandra": {
+      "codename": "CassandraAlexandra"
+    },
+    "Cervantes de Leon": {
+      "codename": "CervantesdeLeon"
+    },
+    "Chai Xianghua": {
+      "codename": "ChaiXianghua"
+    },
+    "Charade": {
+      "codename": "Charade"
+    },
+    "Heihachi Mishima": {
+      "codename": "HeihachiMishima"
+    },
+    "Heishiro Mitsurugi": {
+      "codename": "HeishiroMitsurugi"
+    },
+    "Hong Yun-Seong": {
+      "codename": "HongYunsung"
+    },
+    "Isabella \"Ivy\" Valentine": {
+      "codename": "IsabellaIvyValentine"
+    },
+    "Kilik": {
+      "codename": "Kilik"
+    },
+    "Link": {
+      "codename": "Link"
+    },
+    "Lizardman": {
+      "codename": "Lizardman"
+    },
+    "Maxi": {
+      "codename": "Maxi"
+    },
+    "Necrid": {
+      "codename": "Necrid"
+    },
+    "Nightmare (Siegfried Schtauffen)": {
+      "codename": "Nightmare"
+    },
+    "Raphael Sorel": {
+      "codename": "RaphaelSorel"
+    },
+    "Seong Mi-na": {
+      "codename": "SeungMina"
+    },
+    "Sophitia Alexandra": {
+      "codename": "SophitiaAlexandra"
+    },
+    "Spawn": {
+      "codename": "Spawn"
+    },
+    "Taki": {
+      "codename": "Taki"
+    },
+    "Talim": {
+      "codename": "Talim"
+    },
+    "Voldo": {
+      "codename": "Voldo"
+    },
+    "Yoshimitsu": {
+      "codename": "Yoshimitsu"
+    },
+    "Inferno": {
+      "codename": "Inferno"
+    },
+    "Random": {
+      "codename": "Random"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "SoulCalibur II",
+  "smashgg_game_id": 5582,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

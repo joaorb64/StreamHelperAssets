@@ -6,6 +6,6 @@ Character portraits
 
 ## Credits: 
 
-Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Kirby_Fighters_2)
+Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/KILL_la_KILL_IF)
 @MathiasWolfbrok for cropping
 

@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Kirby_Fighters_2)",
-  "version": "1.0",
+  "version": "1.01",
   "eyesights": {
     "Archer": {
       "0": {
@@ -41,7 +41,7 @@
     },
     "Bell": {
       "0": {
-        "x": 687,
+        "x": 996,
         "y": 1569
       }
     },
@@ -89,8 +89,8 @@
     },
     "MetaKnight": {
       "0": {
-        "x": 234,
-        "y": 260
+        "x": 290,
+        "y": 232
       }
     },
     "Ninja": {

@@ -1,0 +1,83 @@
+{
+    "name": "DFO Portraits",
+    "description": "Portraits from Dungeon Fighter Online",
+    "prefix": "mobile_",
+    "postfix": "_",
+    "type": ["mobile"],
+    "credits": "",
+    "version": "0.1",
+    "eyesights": {
+        "Berserker": {
+          "0": {
+            "x": 233,
+            "y": 111
+          }
+        },
+        "Crusader": {
+          "0": {
+            "x": 193,
+            "y": 129
+          }
+        },
+        "DragonKnight": {
+          "0": {
+            "x": 122,
+            "y": 137
+          }
+        },
+        "Ghostblade": {
+          "0": {
+            "x": 196,
+            "y": 163
+          }
+        },
+        "Grappler": {
+          "0": {
+            "x": 185,
+            "y": 68
+          }
+        },
+        "Hitman": {
+          "0": {
+            "x": 133,
+            "y": 67
+          }
+        },
+        "Inquisitor": {
+          "0": {
+            "x": 86,
+            "y": 60
+          }
+        },
+        "Kunoichi": {
+          "0": {
+            "x": 168,
+            "y": 91
+          }
+        },
+        "Mechanic": {
+          "0": {
+            "x": 163,
+            "y": 73
+          }
+        },
+        "Ranger": {
+          "0": {
+            "x": 95,
+            "y": 64
+          }
+        },
+        "Striker": {
+          "0": {
+            "x": 182,
+            "y": 98
+          }
+        },
+        "Vanguard": {
+          "0": {
+            "x": 136,
+            "y": 123
+          }
+        }
+      }
+}

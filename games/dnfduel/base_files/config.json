@@ -1,0 +1,47 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Berserker": {
+      "codename": "Berserker"
+    },
+    "Crusader": {
+      "codename": "Crusader"
+    },
+    "Dragon Knight": {
+      "codename": "DragonKnight"
+    },
+    "Ghostblade": {
+      "codename": "Ghostblade"
+    },
+    "Grappler": {
+      "codename": "Grappler"
+    },
+    "Hitman": {
+      "codename": "Hitman"
+    },
+    "Inquisitor": {
+      "codename": "Inquisitor"
+    },
+    "Kunoichi": {
+      "codename": "Kunoichi"
+    },
+    "Ranger": {
+      "codename": "Ranger"
+    },
+    "Striker": {
+      "codename": "Striker"
+    },
+    "Vanguard": {
+      "codename": "Vanguard"
+    },
+    "Mechanic": {
+      "codename": "Mechanic"
+    }
+  },
+  "credits": "Assets ripped from Dustloop (http://www.dustloop.com/wiki/index.php?title=DNF_Duel)",
+  "description": "Base config to use this game.",
+  "name": "DNF Duel",
+  "smashgg_game_id": 41040,
+  "stage_to_codename": {},
+  "version": "0.1"
+}

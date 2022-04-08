@@ -23,3 +23,5 @@ with open(f"./list_games.txt", 'wt', encoding='utf-8') as list_file:
         if nb_asset_packs_for_game > 1:
             has_s = 's'
         list_file.write(f"- {game_name} ({nb_asset_packs_for_game} asset pack{has_s})\n")
+
+print("Number of games found:", len(list_games))

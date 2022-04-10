@@ -66,51 +66,96 @@
   },
   "stage_to_codename": {
     "Sky Arena": {
-      "codename": "arena"
+      "codename": "arena",
+      "locale": {
+        "fr": "Colisée aérien"
+      }
     },
     "Buster Beach": {
-      "codename": "beach"
+      "codename": "beach",
+      "locale": {
+        "fr": "Plage des galas"
+      }
     },
     "Cinema Deux": {
-      "codename": "cinema"
+      "codename": "cinema",
+      "locale": {
+        "fr": "Palais du festival"
+      }
     },
     "Ninja College": {
-      "codename": "college"
+      "codename": "college",
+      "locale": {
+        "fr": "Académie des ninja"
+      }
     },
     "DNA Lab": {
-      "codename": "dna"
+      "codename": "dna",
+      "locale": {
+        "fr": "Laboratoire"
+      }
     },
     "Mausoleum": {
-      "codename": "mausoleum"
+      "codename": "mausoleum",
+      "locale": {
+        "fr": "Sanatorium"
+      }
     },
     "Ramen Bowl": {
-      "codename": "ramen"
+      "codename": "ramen",
+      "locale": {
+        "fr": "Ramenville"
+      }
     },
     "[NAME REDACTED]": {
-      "codename": "redacted"
+      "codename": "redacted",
+      "locale": {
+        "fr": "Laboratoire secret"
+      }
     },
     "Ribbon Ring": {
-      "codename": "ribbon"
+      "codename": "ribbon",
+      "locale": {
+        "fr": "Studio Ribbon"
+      }
     },
     "Scrapyard": {
-      "codename": "scrapyard"
+      "codename": "scrapyard",
+      "locale": {
+        "fr": "Fonderie"
+      }
     },
     "Snake Park": {
-      "codename": "snake"
+      "codename": "snake",
+      "locale": {
+        "fr": "Glissodrome"
+      }
     },
     "Sparring Ring": {
-      "codename": "sparring"
+      "codename": "sparring",
+      "locale": {
+        "fr": "Ring aux rixes"
+      }
     },
     "Spring Stadium": {
-      "codename": "stadium"
+      "codename": "stadium",
+      "locale": {
+        "fr": "Stade Spring"
+      }
     },
     "Temple Grounds": {
-      "codename": "temple"
+      "codename": "temple",
+      "locale": {
+        "fr": "Temple"
+      }
     },
     "Via Dolce": {
-      "codename": "via"
+      "codename": "via",
+      "locale": {
+        "fr": "Via Dolce"
+      }
     }
   },
-  "version": "1.31",
+  "version": "1.32",
   "description": "Base config to use this game."
 }

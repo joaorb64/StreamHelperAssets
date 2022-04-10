@@ -21,7 +21,10 @@
     },
     "Dark Samus": {
       "smashgg_name": "Dark Samus",
-      "codename": "samusd"
+      "codename": "samusd",
+      "locale": {
+        "fr": "Samus Sombre"
+      }
     },
     "Yoshi": {
       "smashgg_name": "Yoshi",
@@ -53,7 +56,10 @@
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
-      "codename": "purin"
+      "codename": "purin",
+      "locale": {
+        "fr": "Rondoudou"
+      }
     },
     "Peach": {
       "smashgg_name": "Peach",
@@ -101,7 +107,10 @@
     },
     "Young Link": {
       "smashgg_name": "Young Link",
-      "codename": "younglink"
+      "codename": "younglink",
+      "locale": {
+        "fr": "Link Enfant"
+      }
     },
     "Ganondorf": {
       "smashgg_name": "Ganondorf",
@@ -133,11 +142,17 @@
     },
     "Dark Pit": {
       "smashgg_name": "Dark Pit",
-      "codename": "pitb"
+      "codename": "pitb",
+      "locale": {
+        "fr": "Pit Maléfique"
+      }
     },
     "Zero Suit Samus": {
       "smashgg_name": "Zero Suit Samus",
-      "codename": "szerosuit"
+      "codename": "szerosuit",
+      "locale": {
+        "fr": "Samus sans armure"
+      }
     },
     "Wario": {
       "smashgg_name": "Wario",
@@ -153,7 +168,10 @@
     },
     "Pokemon Trainer": {
       "smashgg_name": "Pokemon Trainer",
-      "codename": "ptrainer"
+      "codename": "ptrainer",
+      "locale": {
+        "fr": "Dresseur de Pokémon"
+      }
     },
     "Diddy Kong": {
       "smashgg_name": "Diddy Kong",
@@ -169,7 +187,10 @@
     },
     "King Dedede": {
       "smashgg_name": "King Dedede",
-      "codename": "dedede"
+      "codename": "dedede",
+      "locale": {
+        "fr": "Roi DaDiDou"
+      }
     },
     "Olimar": {
       "smashgg_name": "Olimar",
@@ -185,7 +206,10 @@
     },
     "Toon Link": {
       "smashgg_name": "Toon Link",
-      "codename": "toonlink"
+      "codename": "toonlink",
+      "locale": {
+        "fr": "Link Cartoon"
+      }
     },
     "Wolf": {
       "smashgg_name": "Wolf",
@@ -193,7 +217,10 @@
     },
     "Villager": {
       "smashgg_name": "Villager",
-      "codename": "murabito"
+      "codename": "murabito",
+      "locale": {
+        "fr": "Villageois"
+      }
     },
     "Mega Man": {
       "smashgg_name": "Mega Man",
@@ -201,11 +228,17 @@
     },
     "Wii Fit Trainer": {
       "smashgg_name": "Wii Fit Trainer",
-      "codename": "wiifit"
+      "codename": "wiifit",
+      "locale": {
+        "fr": "Entraîneuse Wii Fit"
+      }
     },
     "Rosalina": {
       "smashgg_name": "Rosalina",
-      "codename": "rosetta"
+      "codename": "rosetta",
+      "locale": {
+        "fr": "Harmonie & Luma"
+      }
     },
     "Little Mac": {
       "smashgg_name": "Little Mac",
@@ -213,19 +246,31 @@
     },
     "Greninja": {
       "smashgg_name": "Greninja",
-      "codename": "gekkouga"
+      "codename": "gekkouga",
+      "locale": {
+        "fr": "Amphinobi"
+      }
     },
     "Mii Brawler": {
       "smashgg_name": "Mii Brawler",
-      "codename": "miifighter"
+      "codename": "miifighter",
+      "locale": {
+        "fr": "Boxeur Mii"
+      }
     },
     "Mii Swordfighter": {
       "smashgg_name": "Mii Swordfighter",
-      "codename": "miiswordsman"
+      "codename": "miiswordsman",
+      "locale": {
+        "fr": "Épéiste Mii"
+      }
     },
     "Mii Gunner": {
       "smashgg_name": "Mii Gunner",
-      "codename": "miigunner"
+      "codename": "miigunner",
+      "locale": {
+        "fr": "Tireur Mii"
+      }
     },
     "Palutena": {
       "smashgg_name": "Palutena",
@@ -237,7 +282,10 @@
     },
     "Robin": {
       "smashgg_name": "Robin",
-      "codename": "reflet"
+      "codename": "reflet",
+      "locale": {
+        "fr": "Daraen"
+      }
     },
     "Shulk": {
       "smashgg_name": "Shulk",
@@ -249,7 +297,10 @@
     },
     "Duck Hunt": {
       "smashgg_name": "Duck Hunt",
-      "codename": "duckhunt"
+      "codename": "duckhunt",
+      "locale": {
+        "fr": "Duo Duck Hunt"
+      }
     },
     "Ryu": {
       "smashgg_name": "Ryu",
@@ -293,15 +344,24 @@
     },
     "Isabelle": {
       "smashgg_name": "Isabelle",
-      "codename": "shizue"
+      "codename": "shizue",
+      "locale": {
+        "fr": "Marie"
+      }
     },
     "Incineroar": {
       "smashgg_name": "Incineroar",
-      "codename": "gaogaen"
+      "codename": "gaogaen",
+      "locale": {
+        "fr": "Félinferno"
+      }
     },
     "Piranha Plant": {
       "smashgg_name": "Piranha Plant",
-      "codename": "packun"
+      "codename": "packun",
+      "locale": {
+        "fr": "Plante Piranha"
+      }
     },
     "Joker": {
       "smashgg_name": "Joker",
@@ -349,7 +409,10 @@
     },
     "Random": {
       "smashgg_name": "Random Character",
-      "codename": "random"
+      "codename": "random",
+      "locale": {
+        "fr": "Aléatoire"
+      }
     }
   },
   "stage_to_codename": {
@@ -359,11 +422,17 @@
     },
     "75m": {
       "smashgg_id": "308",
-      "codename": "75m"
+      "codename": "75m",
+      "locale": {
+        "fr": "75 m"
+      }
     },
     "Arena Ferox": {
       "smashgg_id": "309",
-      "codename": "FE_Arena"
+      "codename": "FE_Arena",
+      "locale": {
+        "fr": "Arène de Ferox"
+      }
     },
     "Balloon Fight": {
       "smashgg_id": "310",
@@ -371,11 +440,17 @@
     },
     "Battlefield": {
       "smashgg_id": "311",
-      "codename": "BattleField"
+      "codename": "BattleField",
+      "locale": {
+        "fr": "Champ de Bataille"
+      }
     },
     "Big Battlefield": {
       "smashgg_id": "312",
-      "codename": "BattleFieldL"
+      "codename": "BattleFieldL",
+      "locale": {
+        "fr": "Vaste Champ de Bataille"
+      }
     },
     "Big Blue": {
       "smashgg_id": "313",
@@ -383,11 +458,17 @@
     },
     "Boxing Ring": {
       "smashgg_id": "314",
-      "codename": "PunchOutW"
+      "codename": "PunchOutW",
+      "locale": {
+        "fr": "Ring de boxe"
+      }
     },
     "Bridge of Eldin": {
       "smashgg_id": "315",
-      "codename": "Zelda_Oldin"
+      "codename": "Zelda_Oldin",
+      "locale": {
+        "fr": "Pont d'Ordinn"
+      }
     },
     "Brinstar": {
       "smashgg_id": "316",
@@ -395,15 +476,24 @@
     },
     "Brinstar Depths": {
       "smashgg_id": "317",
-      "codename": "Metroid_Kraid"
+      "codename": "Metroid_Kraid",
+      "locale": {
+        "fr": "Profondeurs de Brinstar"
+      }
     },
     "Castle Siege": {
       "smashgg_id": "318",
-      "codename": "FE_Siege"
+      "codename": "FE_Siege",
+      "locale": {
+        "fr": "Château assiégé"
+      }
     },
     "Coliseum": {
       "smashgg_id": "319",
-      "codename": "FE_Colloseum"
+      "codename": "FE_Colloseum",
+      "locale": {
+        "fr": "Arène"
+      }
     },
     "Corneria": {
       "smashgg_id": "320",
@@ -411,15 +501,24 @@
     },
     "Delfino Plaza": {
       "smashgg_id": "321",
-      "codename": "Mario_Dolpic"
+      "codename": "Mario_Dolpic",
+      "locale": {
+        "fr": "Place Delfino"
+      }
     },
     "Distant Planet": {
       "smashgg_id": "322",
-      "codename": "Pikmin_Planet"
+      "codename": "Pikmin_Planet",
+      "locale": {
+        "fr": "Planète lointaine"
+      }
     },
     "Dracula's Castle": {
       "smashgg_id": "323",
-      "codename": "Dracula_Castle"
+      "codename": "Dracula_Castle",
+      "locale": {
+        "fr": "Château de Dracula"
+      }
     },
     "Dream Land": {
       "smashgg_id": "324",
@@ -435,23 +534,38 @@
     },
     "Figure-8 Circuit": {
       "smashgg_id": "327",
-      "codename": "Kart_CircuitX"
+      "codename": "Kart_CircuitX",
+      "locale": {
+        "fr": "Circuit en 8"
+      }
     },
     "Final Destination": {
       "smashgg_id": "328",
-      "codename": "End"
+      "codename": "End",
+      "locale": {
+        "fr": "Destination Finale"
+      }
     },
     "Find Mii": {
       "smashgg_id": "329",
-      "codename": "StreetPass"
+      "codename": "StreetPass",
+      "locale": {
+        "fr": "Mii en péril"
+      }
     },
     "Flat Zone X": {
       "smashgg_id": "330",
-      "codename": "FlatZoneX"
+      "codename": "FlatZoneX",
+      "locale": {
+        "fr": "Espace 2D X"
+      }
     },
     "Fountain of Dreams": {
       "smashgg_id": "331",
-      "codename": "Kirby_Fountain"
+      "codename": "Kirby_Fountain",
+      "locale": {
+        "fr": "Fontaine des Rêves"
+      }
     },
     "Fourside": {
       "smashgg_id": "332",
@@ -459,7 +573,10 @@
     },
     "Frigate Orpheon": {
       "smashgg_id": "333",
-      "codename": "Metroid_Orpheon"
+      "codename": "Metroid_Orpheon",
+      "locale": {
+        "fr": "Frégate Orphéon"
+      }
     },
     "Gamer": {
       "smashgg_id": "334",
@@ -467,39 +584,66 @@
     },
     "Garden of Hope": {
       "smashgg_id": "335",
-      "codename": "Pikmin_Garden"
+      "codename": "Pikmin_Garden",
+      "locale": {
+        "fr": "Verger de l'espoir"
+      }
     },
     "Gaur Plain": {
       "smashgg_id": "336",
-      "codename": "Xeno_Gaur"
+      "codename": "Xeno_Gaur",
+      "locale": {
+        "fr": "Plaine de Gaur"
+      }
     },
     "Gerudo Valley": {
       "smashgg_id": "337",
-      "codename": "Zelda_Gerudo"
+      "codename": "Zelda_Gerudo",
+      "locale": {
+        "fr": "Vallée Gerudo"
+      }
     },
     "Golden Plains": {
       "smashgg_id": "338",
-      "codename": "Mario_NewBros2"
+      "codename": "Mario_NewBros2",
+      "locale": {
+        "fr": "Buttes au butin"
+      }
     },
     "Great Bay": {
       "smashgg_id": "339",
-      "codename": "Zelda_Greatbay"
+      "codename": "Zelda_Greatbay",
+      "locale": {
+        "fr": "Grande baie"
+      }
     },
     "The Great Cave Offensive": {
       "smashgg_id": "340",
-      "codename": "Kirby_Cave"
+      "codename": "Kirby_Cave",
+      "locale": {
+        "fr": "La Caverne du Péril"
+      }
     },
     "Great Plateau Tower": {
       "smashgg_id": "341",
-      "codename": "Zelda_Tower"
+      "codename": "Zelda_Tower",
+      "locale": {
+        "fr": "Tour du Prélude"
+      }
     },
     "Green Greens": {
       "smashgg_id": "342",
-      "codename": "Kirby_Greens"
+      "codename": "Kirby_Greens",
+      "locale": {
+        "fr": "Vertes Prairies"
+      }
     },
     "Green Hill Zone": {
       "smashgg_id": "343",
-      "codename": "Sonic_Greenhill"
+      "codename": "Sonic_Greenhill",
+      "locale": {
+        "fr": "Zone Green Hill"
+      }
     },
     "Halberd": {
       "smashgg_id": "344",
@@ -511,35 +655,59 @@
     },
     "Hyrule Castle": {
       "smashgg_id": "346",
-      "codename": "Zelda_Hyrule"
+      "codename": "Zelda_Hyrule",
+      "locale": {
+        "fr": "Château d'Hyrule"
+      }
     },
     "Jungle Japes": {
       "smashgg_id": "347",
-      "codename": "Jungle Japes"
+      "codename": "Jungle Japes",
+      "locale": {
+        "fr": "Jungle des Jobards"
+      }
     },
     "Kalos Pok\u00e9mon League": {
       "smashgg_id": "348",
-      "codename": "Poke_Kalos"
+      "codename": "Poke_Kalos",
+      "locale": {
+        "fr": "Ligue Pokémon de Kalos"
+      }
     },
     "Kongo Falls": {
       "smashgg_id": "349",
-      "codename": "DK_WaterFall"
+      "codename": "DK_WaterFall",
+      "locale": {
+        "fr": "Cascade Kongo"
+      }
     },
     "Kongo Jungle": {
       "smashgg_id": "350",
-      "codename": "DK_Jungle"
+      "codename": "DK_Jungle",
+      "locale": {
+        "fr": "Jungle Kongo"
+      }
     },
     "Living Room": {
       "smashgg_id": "351",
-      "codename": "NintenDogs"
+      "codename": "NintenDogs",
+      "locale": {
+        "fr": "Salon"
+      }
     },
     "Luigi's Mansion": {
       "smashgg_id": "352",
-      "codename": "LuigiMansion"
+      "codename": "LuigiMansion",
+      "locale": {
+        "fr": "Manoir de Luigi"
+      }
     },
     "Lylat Cruise": {
       "smashgg_id": "353",
-      "codename": "Fox_LylatCruise"
+      "codename": "Fox_LylatCruise",
+      "locale": {
+        "fr": "Traversée de Lylat"
+      }
     },
     "Magicant": {
       "smashgg_id": "354",
@@ -551,7 +719,10 @@
     },
     "Mario Circuit": {
       "smashgg_id": "356",
-      "codename": "Kart_CircuitFor"
+      "codename": "Kart_CircuitFor",
+      "locale": {
+        "fr": "Circuit Mario"
+      }
     },
     "Mario Galaxy": {
       "smashgg_id": "357",
@@ -563,23 +734,38 @@
     },
     "Moray Towers": {
       "smashgg_id": "359",
-      "codename": "Spla_Parking"
+      "codename": "Spla_Parking",
+      "locale": {
+        "fr": "Tours Girelle"
+      }
     },
     "Mushroom Kingdom": {
       "smashgg_id": "360",
-      "codename": "Mushroom Kingdom"
+      "codename": "Mushroom Kingdom",
+      "locale": {
+        "fr": "Royaume Champignon"
+      }
     },
     "Mushroom Kingdom II": {
       "smashgg_id": "361",
-      "codename": "Mushroom Kingdom II"
+      "codename": "Mushroom Kingdom II",
+      "locale": {
+        "fr": "Royaume Champignon II"
+      }
     },
     "Mushroomy Kingdom": {
       "smashgg_id": "362",
-      "codename": "Mushroomy Kingdom"
+      "codename": "Mushroomy Kingdom",
+      "locale": {
+        "fr": "Royaume Champiternel"
+      }
     },
     "Mushroom Kingdom U": {
       "smashgg_id": "363",
-      "codename": "Mario_Uworld"
+      "codename": "Mario_Uworld",
+      "locale": {
+        "fr": "Royaume Champignon U"
+      }
     },
     "Mute City SNES": {
       "smashgg_id": "364",
@@ -587,7 +773,10 @@
     },
     "New Donk City Hall": {
       "smashgg_id": "365",
-      "codename": "Mario_Odyssey"
+      "codename": "Mario_Odyssey",
+      "locale": {
+        "fr": "Hôtel de ville de New Donk City"
+      }
     },
     "New Pork City": {
       "smashgg_id": "366",
@@ -607,7 +796,10 @@
     },
     "Palutena's Temple": {
       "smashgg_id": "370",
-      "codename": "Icarus_Angeland"
+      "codename": "Icarus_Angeland",
+      "locale": {
+        "fr": "Temple de Palutena"
+      }
     },
     "Paper Mario": {
       "smashgg_id": "371",
@@ -615,11 +807,17 @@
     },
     "Peach's Castle": {
       "smashgg_id": "372",
-      "codename": "Mario_Castle64"
+      "codename": "Mario_Castle64",
+      "locale": {
+        "fr": "Château de Peach"
+      }
     },
     "Princess Peach's Castle": {
       "smashgg_id": "373",
-      "codename": "Mario_CastleDx"
+      "codename": "Mario_CastleDx",
+      "locale": {
+        "fr": "Château de la princesse Peach"
+      }
     },
     "PictoChat 2": {
       "smashgg_id": "374",
@@ -631,67 +829,115 @@
     },
     "Pirate Ship": {
       "smashgg_id": "376",
-      "codename": "Zelda_Pirates"
+      "codename": "Zelda_Pirates",
+      "locale": {
+        "fr": "Vaisseau pirate"
+      }
     },
     "Pok\u00e9mon Stadium": {
       "smashgg_id": "377",
-      "codename": "Poke_Stadium"
+      "codename": "Poke_Stadium",
+      "locale": {
+        "fr": "Stade Pokémon"
+      }
     },
     "Pok\u00e9mon Stadium 2": {
       "smashgg_id": "378",
-      "codename": "Poke_Stadium2"
+      "codename": "Poke_Stadium2",
+      "locale": {
+        "fr": "Stade Pokémon 2"
+      }
     },
     "Port Town Aero Dive": {
       "smashgg_id": "379",
-      "codename": "Fzero_Porttown"
+      "codename": "Fzero_Porttown",
+      "locale": {
+        "fr": "Port Town"
+      }
     },
     "Prism Tower": {
       "smashgg_id": "380",
-      "codename": "Poke_Tower"
+      "codename": "Poke_Tower",
+      "locale": {
+        "fr": "Tour Prismatique"
+      }
     },
     "Rainbow Cruise": {
       "smashgg_id": "381",
-      "codename": "Mario_Rainbow"
+      "codename": "Mario_Rainbow",
+      "locale": {
+        "fr": "Course Arc-en-ciel"
+      }
     },
     "Reset Bomb Forest": {
       "smashgg_id": "382",
-      "codename": "Icarus_Uprising"
+      "codename": "Icarus_Uprising",
+      "locale": {
+        "fr": "Forêt des Bombes zéro"
+      }
     },
     "Saffron City": {
       "smashgg_id": "383",
-      "codename": "Poke_Yamabuki"
+      "codename": "Poke_Yamabuki",
+      "locale": {
+        "fr": "Safrania"
+      }
     },
     "Shadow Moses Island": {
       "smashgg_id": "384",
-      "codename": "MG_Shadowmoses"
+      "codename": "MG_Shadowmoses",
+      "locale": {
+        "fr": "Île de Shadow Moses"
+      }
     },
     "Skyloft": {
       "smashgg_id": "385",
-      "codename": "Zelda_Skyward"
+      "codename": "Zelda_Skyward",
+      "locale": {
+        "fr": "Célesbourg"
+      }
     },
     "Skyworld": {
       "smashgg_id": "386",
-      "codename": "Icarus_SkyWorld"
+      "codename": "Icarus_SkyWorld",
+      "locale": {
+        "fr": "Royaume céleste"
+      }
     },
     "Smashville": {
       "smashgg_id": "387",
-      "codename": "Animal_Village"
+      "codename": "Animal_Village",
+      "locale": {
+        "fr": "Smash Ville"
+      }
     },
     "Spear Pillar": {
       "smashgg_id": "388",
-      "codename": "Poke_Tengam"
+      "codename": "Poke_Tengam",
+      "locale": {
+        "fr": "Colonnes Lances"
+      }
     },
     "Spirit Train": {
       "smashgg_id": "389",
-      "codename": "Zelda_Train"
+      "codename": "Zelda_Train",
+      "locale": {
+        "fr": "Locomotive des dieux"
+      }
     },
     "Summit": {
       "smashgg_id": "390",
-      "codename": "Ice_Top"
+      "codename": "Ice_Top",
+      "locale": {
+        "fr": "Sommet"
+      }
     },
     "Super Happy Tree": {
       "smashgg_id": "391",
-      "codename": "Yoshi_Story"
+      "codename": "Yoshi_Story",
+      "locale": {
+        "fr": "Arbre Magique du Bonheur"
+      }
     },
     "Super Mario Maker": {
       "smashgg_id": "392",
@@ -711,19 +957,31 @@
     },
     "Tortimer Island": {
       "smashgg_id": "396",
-      "codename": "Animal_Island"
+      "codename": "Animal_Island",
+      "locale": {
+        "fr": "Tortiland"
+      }
     },
     "Town and City": {
       "smashgg_id": "397",
-      "codename": "Animal_City"
+      "codename": "Animal_City",
+      "locale": {
+        "fr": "Ville & centre-ville"
+      }
     },
     "Umbra Clock Tower": {
       "smashgg_id": "398",
-      "codename": "Bayo_Clock"
+      "codename": "Bayo_Clock",
+      "locale": {
+        "fr": "Tour de l'horloge de l'Umbra"
+      }
     },
     "Unova Pok\u00e9mon League": {
       "smashgg_id": "399",
-      "codename": "Poke_Unova"
+      "codename": "Poke_Unova",
+      "locale": {
+        "fr": "Ligue Pokémon d'Unys"
+      }
     },
     "Venom": {
       "smashgg_id": "400",
@@ -735,11 +993,17 @@
     },
     "Wii Fit Studio": {
       "smashgg_id": "402",
-      "codename": "WiiFit"
+      "codename": "WiiFit",
+      "locale": {
+        "fr": "Studio Wii Fit"
+      }
     },
     "Windy Hill Zone": {
       "smashgg_id": "403",
-      "codename": "Sonic_Windyhill"
+      "codename": "Sonic_Windyhill",
+      "locale": {
+        "fr": "Zone Windy Hill"
+      }
     },
     "Wrecking Crew": {
       "smashgg_id": "404",
@@ -747,11 +1011,23 @@
     },
     "Wuhu Island": {
       "smashgg_id": "405",
-      "codename": "WufuIsland"
+      "codename": "WufuIsland",
+      "locale": {
+        "fr": "Île Wuhu"
+      }
     },
     "Yoshi's Island": {
       "smashgg_id": "406",
-      "codename": "Yoshi_Island"
+      "codename": "Yoshi_Island",
+      "locale": {
+        "fr": "Île de Yoshi"
+      }
+    },
+    "Yoshi's Island (Melee)": {
+      "codename": "Yoshi_Yoster",
+      "locale": {
+        "fr": "Île de Yoshi (Melee)"
+      }
     },
     "Yoshi's Story": {
       "smashgg_id": "407",
@@ -759,25 +1035,40 @@
     },
     "Wily's Castle": {
       "smashgg_id": "408",
-      "codename": "Rock_Wily"
+      "codename": "Rock_Wily",
+      "locale": {
+        "fr": "Château du Dr Willy"
+      }
     },
     "Small Battlefield": {
       "smashgg_id": "484",
-      "codename": "BattleFieldS"
+      "codename": "BattleFieldS",
+      "locale": {
+        "fr": "Petit Champ de Bataille"
+      }
     },
     "Cloud Sea of Alrest": {
       "smashgg_id": "Xeno_Alst",
-      "codename": "Xeno_Alst"
+      "codename": "Xeno_Alst",
+      "locale": {
+        "fr": "Mer de nuages d'Alrest"
+      }
     },
     "Hollow Bastion": {
       "smashgg_id": "513",
-      "codename": "Trail_Castle"
+      "codename": "Trail_Castle",
+      "locale": {
+        "fr": "Forteresse oubliée"
+      }
     },
     "Northern Cave": {
       "smashgg_id": "497",
-      "codename": "FF_Cave"
+      "codename": "FF_Cave",
+      "locale": {
+        "fr": "Cratère nord"
+      }
     }
   },
-  "version": "1.01",
+  "version": "1.02",
   "description": "Base config to use this game."
 }

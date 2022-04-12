@@ -1,0 +1,23 @@
+{
+  "name": "Red Earth",
+  "smashgg_game_id": 16177,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Tessa": {
+      "codename": "Tessa"
+    },
+    "Leo": {
+      "codename": "Leo"
+    },
+    "Mai Ling": {
+      "codename": "MaiLing"
+    },
+    "Kenji": {
+      "codename": "Kenji"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Red_Earth/War-Zard)"
+}

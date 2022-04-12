@@ -1,0 +1,104 @@
+{
+  "name": "Melty Blood Actress Again Current Code",
+  "smashgg_game_id": 22407,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aoko Aozaki": {
+      "codename": "Aoko"
+    },
+    "Shiki Tohno": {
+      "codename": "Tohno"
+    },
+    "Archetype: Earth": {
+      "codename": "Hime"
+    },
+    "Shiki Nanaya": {
+      "codename": "Nanaya"
+    },
+    "Kouma Kishima": {
+      "codename": "Kouma"
+    },
+    "Miyako Arima": {
+      "codename": "Miyako"
+    },
+    "Ciel": {
+      "codename": "Ciel"
+    },
+    "Sion Eltnam Atlasia": {
+      "codename": "Sion"
+    },
+    "Riesbyfe Stridberg": {
+      "codename": "Riesbyfe"
+    },
+    "Sion TATARI": {
+      "codename": "VSion"
+    },
+    "Night of Wallachia": {
+      "codename": "Warachia"
+    },
+    "Michael Roa Valdamjong": {
+      "codename": "Roa"
+    },
+    "Hisui & Kohaku": {
+      "codename": "Maids"
+    },
+    "Akiha Tohno": {
+      "codename": "Akiha"
+    },
+    "Arcueid Brunestud": {
+      "codename": "Arcueid"
+    },
+    "Powered Ciel": {
+      "codename": "PowerdCiel"
+    },
+    "Red Arcueid": {
+      "codename": "RedArcueid"
+    },
+    "Akiha Vermillion": {
+      "codename": "VAkiha"
+    },
+    "Mech-Hisui": {
+      "codename": "MechHisui"
+    },
+    "Akiha Tohno (Seifuku)": {
+      "codename": "Seifuku"
+    },
+    "Satsuki Yumiduka": {
+      "codename": "Satsuki"
+    },
+    "Len": {
+      "codename": "Len"
+    },
+    "Shiki Ryougi": {
+      "codename": "Ryougi"
+    },
+    "White Len": {
+      "codename": "WhiteLen"
+    },
+    "Nrvnqsr Chaos": {
+      "codename": "Nero"
+    },
+    "Neco-Arc Chaos": {
+      "codename": "NAC"
+    },
+    "Kohaku & Mech-Hisui": {
+      "codename": "KohaMech"
+    },
+    "Hisui": {
+      "codename": "Hisui"
+    },
+    "Neco-Arc": {
+      "codename": "NecoArc"
+    },
+    "Kohaku": {
+      "codename": "Kohaku"
+    },
+    "Mech-Hisui & Neco Arc": {
+      "codename": "NecoMech"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBAACC)"
+}

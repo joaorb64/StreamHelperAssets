@@ -1,0 +1,11 @@
+{
+  "name": "Banners",
+  "description": "Character banners",
+  "prefix": "banner_",
+  "postfix": "_",
+  "type": [
+    "banner"
+  ],
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBAACC)",
+  "version": "1.0"
+}

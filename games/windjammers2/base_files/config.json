@@ -1,5 +1,8 @@
 {
   "name": "Windjammers 2",
+  "locale": {
+    "jp": "Windjammers 2 - フライング・パワー・ディスク"
+  },
   "smashgg_game_id": 21953,
   "challonge_game_id": 207362,
   "character_to_codename": {
@@ -38,7 +41,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.11",
+  "version": "1.12",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for detouring the in-game portraits"
 }

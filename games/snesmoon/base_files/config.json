@@ -1,0 +1,41 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Sailor Chibi Moon": {
+      "codename": "SailorChibiMoon"
+    },
+    "Sailor Jupiter": {
+      "codename": "SailorJupiter"
+    },
+    "Sailor Mars": {
+      "codename": "SailorMars"
+    },
+    "Sailor Mercury": {
+      "codename": "SailorMercury"
+    },
+    "Sailor Moon": {
+      "codename": "SailorMoon"
+    },
+    "Sailor Neptune": {
+      "codename": "SailorNeptune"
+    },
+    "Sailor Pluto": {
+      "codename": "SailorPluto"
+    },
+    "Sailor Uranus": {
+      "codename": "SailorUranus"
+    },
+    "Sailor Venus": {
+      "codename": "SailorVenus"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Bishoujo Senshi Sailor Moon S: Jougai Rantou!? Shuyaku Soudatsusen",
+  "locale": {
+    "jp": "美少女戦士セーラームーンS: 場外乱闘！？主役争奪戦"
+  },
+  "smashgg_game_id": 16904,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -26,7 +26,7 @@ class GameList extends React.Component {
                 </div>
                 <div style={{display: 'flex', gap: "8px"}}>
                   {Object.entries(game.assets).map((asset, j)=>(
-                    <Link to={`assetpack/${id}/${asset[0]}`}>
+                    <Link to={`/game/${id}/${asset[0]}`}>
                       <h5>
                         <span class="badge bg-primary">
                           {asset[0]}

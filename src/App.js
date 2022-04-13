@@ -37,12 +37,12 @@ class App extends React.Component {
         <HashRouter>
           <Navbar bg="dark" variant="dark" expand="lg">
             <Container>
-              <Navbar.Brand href="#home">StreamHelperAssets</Navbar.Brand>
+              <Navbar.Brand href="/">StreamHelperAssets</Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
                   <Nav.Link as={Link} to={"/"}>Home</Nav.Link>
-                  <Nav.Link as={Link} to={"/"}>GitHub</Nav.Link>
+                  <Nav.Link href={"https://github.com/joaorb64/StreamHelperAssets"}>GitHub</Nav.Link>
                 </Nav>
               </Navbar.Collapse>
             </Container>
@@ -56,7 +56,7 @@ class App extends React.Component {
                   null
                 }>
               </Route>
-              <Route path="assetpack/:game/:pack" element={
+              <Route path="/game/:game/:pack" element={
                 this.state.gameList ? 
                   <AssetPack games={this.state.gameList}></AssetPack>
                   :

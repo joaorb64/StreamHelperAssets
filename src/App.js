@@ -37,7 +37,11 @@ class App extends React.Component {
         <HashRouter>
           <Navbar bg="dark" variant="dark" expand="lg">
             <Container>
-              <Navbar.Brand href="/">StreamHelperAssets</Navbar.Brand>
+              <Link to={"/"} style={{textDecoration: "none"}}>
+                <Navbar.Brand>
+                  StreamHelperAssets
+                </Navbar.Brand>
+              </Link>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">

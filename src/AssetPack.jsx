@@ -64,31 +64,58 @@ export default function AssetPack(props) {
   useEffect(()=>{
     if(asset && baseFiles){
       let key = getAssetKey(asset);
-      
-      Object.entries(baseFiles[key]).forEach(([name, charData])=>{
-        let assetName = pack;
-        if(assetName == "base_files"){
-          assetName = "base_files/icon";
-        }
+
+      let assetName = pack;
+
+      if(assetName == "base_files"){
+        assetName = "base_files/icon";
+      }
+
+      fetch(`https://api.github.com/repos/joaorb64/StreamHelperAssets/contents/games/${game}/${assetName}`)
+      .then((response) => response.json())
+      .then((responseJson) => {
+        console.log(responseJson);
 
         let prefix = asset.prefix ? asset.prefix : "";
         let postfix = asset.postfix ? asset.postfix : "";
 
-        ["", "0", "00"].forEach((skinName)=>{
-          let img = new Image();
-          img.src = `https://github.com/joaorb64/StreamHelperAssets/raw/main/games/${game}/${assetName}/${prefix}${charData.codename}${postfix}${skinName}.png`;
-  
-          img.onload = ()=>{
-            imageSizes[charData.codename] = {
-              width: img.naturalWidth,
-              height: img.naturalHeight,
-              url: img.src
-            };
-            setImageSizes(imageSizes);
-            forceUpdate();
+        imageSizes[pack] = {}
+
+        Object.entries(baseFiles[key]).forEach(([name, charData])=>{
+          imageSizes[pack][charData.codename] = {};
+
+          let characterAssets = responseJson.filter((entry)=>entry.name.startsWith(`${prefix}${charData.codename}${postfix}`));
+
+          let file = characterAssets[0];
+
+          if(file){
+            if(!file.name.endsWith("webm")){
+              let img = new Image();
+              img.src = file.download_url;
+      
+              img.onload = () => {
+                if(imageSizes[pack][charData.codename]){
+                  imageSizes[pack][charData.codename].width = img.naturalWidth;
+                  imageSizes[pack][charData.codename].height = img.naturalHeight;
+                  imageSizes[pack][charData.codename].url = img.src;
+                  setImageSizes(imageSizes);
+                  forceUpdate();
+                  console.log(imageSizes)
+                }
+              }
+            } else {
+              if(imageSizes[pack][charData.codename]){
+                imageSizes[pack][charData.codename].video = file.download_url
+                setImageSizes(imageSizes);
+                forceUpdate();
+              }
+            }
           }
         })
       })
+      .catch((error) => {
+        console.error(error);
+      });
     }
   }, [asset, baseFiles, game, pack])
 
@@ -97,41 +124,51 @@ export default function AssetPack(props) {
       <h3>/{game}/{pack}</h3>
 
       {props.games && game in props.games ?
-        <ListGroup>
+        <ListGroup style={{marginTop: 16, marginBottom: 16}}>
           {Object.entries(props.games).filter((g)=>g[0]==game).map(([id, game], i)=>(
-              <ListGroup.Item style={{display: "flex", gap: 32, marginTop: 16, marginBottom: 16}}>
-              <div style={{
-                width: 100, height: 64,
-                backgroundSize: "contain", backgroundRepeat: "no-repeat", backgroundPosition: "center",
-                backgroundImage: `url(https://github.com/joaorb64/StreamHelperAssets/raw/main/games/${id}/base_files/logo.png)`,
-              }}></div>
-              <div style={{display: "flex", flexDirection: "column", alignItems: "flex-start"}}>
-                <div style={{display: "flex", alignItems: "baseline", gap: 8}}>
-                  <h4>{game.name}</h4><h6>{id}</h6>
+              <>
+                <ListGroup.Item style={{display: "flex", gap: 32}}>
+                <div style={{
+                  width: 100, height: 64,
+                  backgroundSize: "contain", backgroundRepeat: "no-repeat", backgroundPosition: "center",
+                  backgroundImage: `url(https://github.com/joaorb64/StreamHelperAssets/raw/main/games/${id}/base_files/logo.png)`,
+                }}></div>
+                <div style={{display: "flex", flexDirection: "column", alignItems: "flex-start"}}>
+                  <div style={{display: "flex", alignItems: "baseline", gap: 8}}>
+                    <h4>{game.name}</h4><h6>{id}</h6>
+                  </div>
+                  <div style={{display: 'flex', gap: "8px"}}>
+                    {Object.entries(game.assets).map((asset, j)=>(
+                      <Link to={`/game/${id}/${asset[0]}`}>
+                        <h5>
+                          <span class="badge bg-primary">
+                            {asset[0]}
+                            {asset[1].has_eyesight_data ? 
+                              <>{" "}<FaEye /></>
+                              :
+                              null
+                            }
+                            {asset[1].has_stage_data ? 
+                              <>{" "}<GiFloatingPlatforms /></>
+                              :
+                              null
+                            }
+                          </span>
+                        </h5>
+                      </Link>
+                    ))}
+                  </div>
                 </div>
-                <div style={{display: 'flex', gap: "8px"}}>
-                  {Object.entries(game.assets).map((asset, j)=>(
-                    <Link to={`/game/${id}/${asset[0]}`}>
-                      <h5>
-                        <span class="badge bg-primary">
-                          {asset[0]}
-                          {asset[1].has_eyesight_data ? 
-                            <>{" "}<FaEye /></>
-                            :
-                            null
-                          }
-                          {asset[1].has_stage_data ? 
-                            <>{" "}<GiFloatingPlatforms /></>
-                            :
-                            null
-                          }
-                        </span>
-                      </h5>
-                    </Link>
-                  ))}
-                </div>
-              </div>
-            </ListGroup.Item>
+              </ListGroup.Item>
+              <ListGroup.Item style={{whiteSpace: "pre-wrap"}}>
+                <h4>Description</h4>
+                <p>{game.assets[pack].description}</p>
+              </ListGroup.Item>
+              <ListGroup.Item style={{whiteSpace: "pre-wrap"}}>
+                <h4>Credits</h4>
+                <p>{game.assets[pack].credits}</p>
+              </ListGroup.Item>
+            </>
           ))}
         </ListGroup>
       : null}
@@ -146,12 +183,12 @@ export default function AssetPack(props) {
         </a>
       </h4>
 
-      {asset && baseFiles && imageSizes ?
+      {asset && baseFiles && imageSizes && imageSizes[pack] ?
         <div style={{display: "flex", flexWrap: "wrap", justifyContent: "center"}}>
           {Object.entries(baseFiles[getAssetKey(asset)]).map(([name, charData])=>(
             <div class="card">
               <div class="card-body">
-                {imageSizes[charData.codename] != null ?
+                {imageSizes[pack][charData.codename] != null ?
                   <>
                   <h5 class="card-title">{name}</h5>
                   <h6 class="card-subtitle mb-2 text-muted">{charData.codename}</h6>
@@ -159,21 +196,33 @@ export default function AssetPack(props) {
                     <div style={{
                       position: "relative",
                       transformOrigin: "top left",
-                      transform: "scale("+Math.min( 
-                        256 / imageSizes[charData.codename].width, 
-                        256 / imageSizes[charData.codename].height 
-                      )+")",
+                      transform:
+                        imageSizes[pack][charData.codename].video ?
+                          ""
+                          :
+                          "scale("+Math.min( 
+                            256 / imageSizes[pack][charData.codename].width, 
+                            256 / imageSizes[pack][charData.codename].height 
+                          )+")"
+                      ,
                       width: 256,
                       height: 256
                     }}>
                       <div style={{
                         top: 0,
                         left: 0,
-                        width: imageSizes[charData.codename].width,
-                        height: imageSizes[charData.codename].height,
+                        width: imageSizes[pack][charData.codename].width,
+                        height: imageSizes[pack][charData.codename].height,
                         position: "absolute"
                       }}>
-                        <img src={imageSizes[charData.codename].url} style={{position: "absolute", top: 0, left: 0}} ></img>
+                        <img src={imageSizes[pack][charData.codename].url} style={{position: "absolute", top: 0, left: 0}} ></img>
+                        {imageSizes[pack][charData.codename].video ? 
+                          <video controls preload="metadata" width={256}>
+                            <source src={imageSizes[pack][charData.codename].video+"#t=0"}></source>
+                          </video> 
+                          :
+                          null
+                        }
                         {asset.eyesights && asset.eyesights[charData.codename] ?
                           <div style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%", pointerEvents: "none"}}>
                             <div style={{
@@ -198,7 +247,7 @@ export default function AssetPack(props) {
                     </div>
                   </div>
                   <p class="card-text">
-                    <a href={imageSizes[charData.codename].url} download target="_blank"><span class="badge bg-primary"><FaDownload /> Download</span></a>
+                    <a href={imageSizes[pack][charData.codename].url} download target="_blank"><span class="badge bg-primary"><FaDownload /> Download</span></a>
                   </p>
                   </>
                   :

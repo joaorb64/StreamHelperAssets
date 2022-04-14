@@ -7,7 +7,7 @@
   "type": [
       "full"
   ],
-  "version": "1.0",
+  "version": "1.01",
   "eyesights": {
       "mario": {
           "0": {
@@ -89,8 +89,8 @@
       },
       "bowser": {
           "0": {
-              "x": 44,
-              "y": 94
+              "x": 614,
+              "y": 288
           }
       },
       "ice_climbers": {

@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.11",
+  "version": "1.2",
   "eyesights": {
     "AndyBogard": {
       "0": {
@@ -259,6 +259,12 @@
       "0": {
         "x": 481,
         "y": 87
+      }
+    },
+    "OmegaRugal": {
+      "0": {
+        "x": 556,
+        "y": 64
       }
     }
   }

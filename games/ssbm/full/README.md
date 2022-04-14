@@ -1,8 +1,8 @@
-# Portraits
+# Full
 
 ## Description: 
 
-Character portraits used on the character select screen player slots
+VS screen renders from Classic Mode (Left side)
 
 ## Credits: 
 

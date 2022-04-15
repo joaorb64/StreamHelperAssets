@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "ggst"
+game_codename = "mbtl"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

@@ -1,13 +1,13 @@
 {
     "name": "Full",
-    "description": "VS screen renders from Classic Mode (Left side)",
+    "description": "VS screen renders from Classic Mode (Left side). Image borders adjusted to make characters proportionally better with one another.",
     "credits": "Render captures by UnclePunch's pack in SmashBoards.",
     "prefix": "",
     "postfix": "_",
     "type": [
         "full"
     ],
-    "version": "1.02",
+    "version": "1.03",
     "eyesights": {
         "mario": {
             "0": {
@@ -17,8 +17,8 @@
         },
         "donkey_kong": {
             "0": {
-                "x": 502,
-                "y": 346
+                "x": 378,
+                "y": 228
             }
         },
         "link": {
@@ -29,8 +29,8 @@
         },
         "samus": {
             "0": {
-                "x": 553,
-                "y": 354
+                "x": 460,
+                "y": 263
             }
         },
         "yoshi": {
@@ -83,19 +83,19 @@
         },
         "peach": {
             "0": {
-                "x": 621,
-                "y": 274
+                "x": 671,
+                "y": 366
             }
         },
         "bowser": {
             "0": {
-                "x": 614,
-                "y": 288
+                "x": 492,
+                "y": 170
             }
         },
         "ice_climbers": {
             "0": {
-                "x": 578,
+                "x": 458,
                 "y": 345
             }
         },
@@ -107,8 +107,8 @@
         },
         "zelda": {
             "0": {
-                "x": 509,
-                "y": 154
+                "x": 537,
+                "y": 211
             }
         },
         "dr_mario": {
@@ -125,26 +125,26 @@
         },
         "falco": {
             "0": {
-                "x": 624,
-                "y": 328
+                "x": 576,
+                "y": 278
             }
         },
         "marth": {
             "0": {
-                "x": 426,
-                "y": 189
+                "x": 395,
+                "y": 230
             }
         },
         "young_link": {
             "0": {
-                "x": 625,
+                "x": 534,
                 "y": 315
             }
         },
         "ganondorf": {
             "0": {
-                "x": 495,
-                "y": 228
+                "x": 446,
+                "y": 110
             }
         },
         "mewtwo": {
@@ -155,7 +155,7 @@
         },
         "roy": {
             "0": {
-                "x": 479,
+                "x": 388,
                 "y": 347
             }
         },

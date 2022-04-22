@@ -1,0 +1,40 @@
+{
+  "challonge_game_id": null,
+  "locale": {
+    "jp": "マリオカート64",
+    "zh_CN": "马力欧卡丁车",
+    "zh_TW": "瑪利歐賽車64"
+  },
+  "character_to_codename": {
+    "Bowser": {
+      "codename": "koopa"
+    },
+    "Donkey Kong": {
+      "codename": "dk"
+    },
+    "Luigi": {
+      "codename": "luigi"
+    },
+    "Mario": {
+      "codename": "mario"
+    },
+    "Peach": {
+      "codename": "peach"
+    },
+    "Toad": {
+      "codename": "kinopio"
+    },
+    "Wario": {
+      "codename": "wario"
+    },
+    "Yoshi": {
+      "codename": "yoshi"
+    }
+  },
+  "credits": "HD Renders by @mk64hd",
+  "description": "Base config to use this game.",
+  "name": "Mario Kart 64",
+  "smashgg_game_id": 5682,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

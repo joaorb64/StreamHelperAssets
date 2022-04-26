@@ -1,0 +1,95 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Ace": {
+      "codename": "ace"
+    },
+    "Area": {
+      "codename": "area"
+    },
+    "Bison II": {
+      "codename": "mbison2"
+    },
+    "Blanka": {
+      "codename": "blanka"
+    },
+    "Bloody Hokuto": {
+      "codename": "hokuto2"
+    },
+    "Chun-Li": {
+      "codename": "chunli"
+    },
+    "Cracker Jack": {
+      "codename": "cjack"
+    },
+    "Darun Mister": {
+      "codename": "darun"
+    },
+    "Dhalsim": {
+      "codename": "dhalsim"
+    },
+    "Doctrine Dark": {
+      "codename": "ddark"
+    },
+    "Evil Ryu": {
+      "codename": "ryu2"
+    },
+    "Garuda": {
+      "codename": "garuda"
+    },
+    "Guile": {
+      "codename": "guile"
+    },
+    "Hokuto": {
+      "codename": "hokuto"
+    },
+    "Kairi": {
+      "codename": "kairi"
+    },
+    "Ken": {
+      "codename": "ken"
+    },
+    "M. Bison": {
+      "codename": "mbison"
+    },
+    "Nanase": {
+      "codename": "nanase"
+    },
+    "Pullum Purna": {
+      "codename": "pullum"
+    },
+    "Ryu": {
+      "codename": "ryu"
+    },
+    "Sagat": {
+      "codename": "sagat"
+    },
+    "Sakura": {
+      "codename": "sakura"
+    },
+    "Shadowgeist": {
+      "codename": "shadowgeist"
+    },
+    "Sharon": {
+      "codename": "sharon"
+    },
+    "Skullomania": {
+      "codename": "skullomania"
+    },
+    "Vega": {
+      "codename": "vega"
+    },
+    "Vulcano Rosso": {
+      "codename": "vulcano"
+    },
+    "Zangief": {
+      "codename": "zangief"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Street Fighter EX3",
+  "smashgg_game_id": 20372,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

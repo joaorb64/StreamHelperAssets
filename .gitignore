@@ -18,3 +18,6 @@ utilities/get_icons_from_tekken7/Tekken 7*
 utilities/generate_eyesights_dict/*.json
 node_modules
 build
+utilities/generate_sound_pack/*.json
+utilities/generate_sound_pack/sound/*
+utilities/generate_sound_pack/archive/*

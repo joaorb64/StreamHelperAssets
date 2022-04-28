@@ -17,5 +17,5 @@ for character_name in characters.keys():
 
 url_dict = collections.OrderedDict(sorted(url_dict.items()))
 
-with open("url.json", "wt", encoding="utf-8") as eyesights_file:
+with open("sound.json", "wt", encoding="utf-8") as eyesights_file:
     eyesights_file.write(json.dumps({"sound": url_dict}, indent=2))

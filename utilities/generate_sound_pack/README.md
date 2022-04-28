@@ -2,7 +2,7 @@
 
 1. Install the `youtube-dl` library using the command `pip install youtube-dl`
 2. Install `ffmpeg` on your computer and make sure it is added to your `PATH`
-3. Create a `url.json` file with the following format:
+3. Create a `sound.json` file with the following format:
 
 ```json
 {

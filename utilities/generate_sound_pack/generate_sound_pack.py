@@ -1,4 +1,4 @@
-import json, youtube_dl, requests, shutil, time
+import json, youtube_dl, requests, shutil, time, os
 from pathlib import Path
 
 directory = "./sound"
@@ -60,7 +60,8 @@ def generate_config(directory):
     with open(f"{directory}/config.json", "wt", encoding="utf-8") as config_file:
         config_file.write(config_contents)
 
-shutil.rmtree(directory)
+if os.path.exists(directory):
+    shutil.rmtree(directory)
 Path(directory).mkdir(parents=True, exist_ok=True)
 
 for codename in url_dict.keys():
@@ -72,6 +73,16 @@ for codename in url_dict.keys():
             download_from_youtube(url, filename, directory)
         else:
             download_from_direct_url(url, filename, directory)
+    alt_versions = url_dict[codename].get("alt")
+    if alt_versions:
+        for index in alt_versions.keys():
+            filename = f"sound_{codename}_{index}"
+            url = alt_versions[index]
+            if url:
+                if "youtube.com" in url or "youtu.be" in url:
+                    download_from_youtube(url, filename, directory)
+                else:
+                    download_from_direct_url(url, filename, directory)
 
 generate_config(directory)
 

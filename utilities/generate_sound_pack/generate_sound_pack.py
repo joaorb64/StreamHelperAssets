@@ -18,6 +18,7 @@ def robust_request(link, timeout=30):
 
 def download_from_youtube(url, filename, directory, retries=0):
     ydl_options = {
+        'noplaylist': True,
         'format': 'bestaudio/best',
         'outtmpl': f'{directory}/{filename}.%(ext)s',
         'postprocessors': [{

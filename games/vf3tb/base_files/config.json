@@ -1,0 +1,50 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akira Yuki": {
+      "codename": "01"
+    },
+    "Aoi Umenokoji": {
+      "codename": "11"
+    },
+    "Dural": {
+      "codename": "12"
+    },
+    "Jacky Bryant": {
+      "codename": "08"
+    },
+    "Jeffry McWild": {
+      "codename": "05"
+    },
+    "Kage-Maru": {
+      "codename": "06"
+    },
+    "Lau Chan": {
+      "codename": "03"
+    },
+    "Lion Rafale": {
+      "codename": "10"
+    },
+    "Pai Chan": {
+      "codename": "02"
+    },
+    "Sarah Bryant": {
+      "codename": "07"
+    },
+    "Shun Di": {
+      "codename": "09"
+    },
+    "Taka-Arashi": {
+      "codename": "13"
+    },
+    "Wolf Hawkfield": {
+      "codename": "04"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Virtua Fighter 3tb",
+  "smashgg_game_id": 4122,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

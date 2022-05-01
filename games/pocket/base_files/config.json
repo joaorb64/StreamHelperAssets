@@ -1,0 +1,50 @@
+{
+  "challonge_game_id": null,
+  "locale": {
+    "jp": "ポケットファイター"
+  },
+  "character_to_codename": {
+    "Akuma": {
+      "codename": "Akuma"
+    },
+    "Chun Li": {
+      "codename": "ChunLi"
+    },
+    "Dan": {
+      "codename": "Dan"
+    },
+    "Felicia": {
+      "codename": "Felicia"
+    },
+    "Hsien-Ko": {
+      "codename": "HsienKo"
+    },
+    "Ibuki": {
+      "codename": "Ibuki"
+    },
+    "Ken": {
+      "codename": "Ken"
+    },
+    "Morrigan": {
+      "codename": "Morrigan"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sakura": {
+      "codename": "Sakura"
+    },
+    "Tessa": {
+      "codename": "Tessa"
+    },
+    "Zangief": {
+      "codename": "Zangief"
+    }
+  },
+  "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Pocket_Fighter)",
+  "description": "Base config to use this game.",
+  "name": "Super Gem Fighter: Mini Mix",
+  "smashgg_game_id": 16124,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

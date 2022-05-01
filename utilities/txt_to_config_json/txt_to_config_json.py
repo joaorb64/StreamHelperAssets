@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-game_id = 20372
+game_id = 4122
 character_list_filename = "characters_list.txt"
 
 blank_files_folder="blank_files"
@@ -46,7 +46,7 @@ with open(f"config.json", 'wt') as config_file:
                 config_dict["character_to_codename"][character_name] = {
                     "codename": codename
                 }
-                with open(f"{blank_files_folder}/{codename}_0.png", "wb") as blank_character_file:
+                with open(f"{blank_files_folder}/file_{codename}_0.png", "wb") as blank_character_file:
                     blank_character_file.write(bytearray())
 
     config_file_content = json.dumps(config_dict, indent=2, sort_keys=True)

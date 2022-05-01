@@ -1,0 +1,47 @@
+{
+  "name": "Fight of Animals: Legend of the Strongest Creature",
+  "smashgg_game_id": 36677,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bad Dog": {
+      "codename": "BadDog"
+    },
+    "Crowrilla": {
+      "codename": "Crowrilla"
+    },
+    "Egg Dog": {
+      "codename": "EggDog"
+    },
+    "Fluffy Sheep": {
+      "codename": "FluffySheep"
+    },
+    "Kungfu Dachshund": {
+      "codename": "KungfuDachshund"
+    },
+    "Magic Squirrel": {
+      "codename": "MagicSquirrel"
+    },
+    "Mighty Fox": {
+      "codename": "MightyFox"
+    },
+    "Muscle Beluga": {
+      "codename": "MuscleBeluga"
+    },
+    "Power Hook Dog": {
+      "codename": "PowerHookDog"
+    },
+    "Slender Cat": {
+      "codename": "SlenderCat"
+    },
+    "Tricky Fox": {
+      "codename": "TrickyFox"
+    },
+    "Walking Cat": {
+      "codename": "WalkingCat"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Fight_of_Animals)"
+}

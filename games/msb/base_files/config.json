@@ -1,0 +1,50 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Birdo": {
+      "codename": "Birdo"
+    },
+    "Bowser": {
+      "codename": "Bowser"
+    },
+    "Bowser Jr.": {
+      "codename": "BowserJr"
+    },
+    "Daisy": {
+      "codename": "Daisy"
+    },
+    "Diddy Kong": {
+      "codename": "DiddyKong"
+    },
+    "Donkey Kong": {
+      "codename": "DonkeyKong"
+    },
+    "Luigi": {
+      "codename": "Luigi"
+    },
+    "Mario": {
+      "codename": "Mario"
+    },
+    "Peach": {
+      "codename": "Peach"
+    },
+    "Waluigi": {
+      "codename": "Waluigi"
+    },
+    "Wario": {
+      "codename": "Wario"
+    },
+    "Yoshi": {
+      "codename": "Yoshi"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Mario Superstar Baseball",
+  "smashgg_game_id": 6660,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "jp": "スーパーマリオスタジアム ミラクルベースボール"
+  }
+}

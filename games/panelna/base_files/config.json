@@ -1,0 +1,53 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bowser": {
+      "codename": "Bowser"
+    },
+    "Bumpty": {
+      "codename": "Bumpty"
+    },
+    "Flying Wiggler": {
+      "codename": "FlyingWiggler"
+    },
+    "Froggy": {
+      "codename": "Froggy"
+    },
+    "Gargantua Blargg": {
+      "codename": "GargantuaBlargg"
+    },
+    "Hookbill the Koopa": {
+      "codename": "HookbilltheKoopa"
+    },
+    "Kamek": {
+      "codename": "Kamek"
+    },
+    "Lakitu": {
+      "codename": "Lakitu"
+    },
+    "Lunge Fish": {
+      "codename": "LungeFish"
+    },
+    "Naval Piranha": {
+      "codename": "NavalPiranha"
+    },
+    "Poochy": {
+      "codename": "Poochy"
+    },
+    "Raphael the Raven": {
+      "codename": "RaphaeltheRaven"
+    },
+    "Yoshi": {
+      "codename": "Yoshi"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Tetris Attack",
+  "smashgg_game_id": 5998,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "jp": "ヨッシーのパネポン"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Cordelia": {
+      "codename": "Cordelia"
+    },
+    "Dragon": {
+      "codename": "Dragon"
+    },
+    "Elias": {
+      "codename": "Elias"
+    },
+    "Flare": {
+      "codename": "Flare"
+    },
+    "Lip": {
+      "codename": "Lip"
+    },
+    "Neris": {
+      "codename": "Neris"
+    },
+    "Phoenix": {
+      "codename": "Phoenix"
+    },
+    "Ruby": {
+      "codename": "Ruby"
+    },
+    "Seren": {
+      "codename": "Seren"
+    },
+    "Sherbet": {
+      "codename": "Sherbet"
+    },
+    "Thanatos": {
+      "codename": "Thanatos"
+    },
+    "Thiana": {
+      "codename": "Thiana"
+    },
+    "Windy": {
+      "codename": "Windy"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Panel de Pon",
+  "smashgg_game_id": 34421,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale":{
+    "jp": "パネルでポン"
+  }
+}

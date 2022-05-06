@@ -1,0 +1,55 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bowser": {
+      "codename": "Bowser"
+    },
+    "Donkey Kong": {
+      "codename": "DonkeyKong"
+    },
+    "Luigi": {
+      "codename": "Luigi"
+    },
+    "Mario": {
+      "codename": "Mario"
+    },
+    "Peach": {
+      "codename": "Peach"
+    },
+    "Rosalina": {
+      "codename": "Rosalina"
+    },
+    "Toad": {
+      "codename": "Toad"
+    },
+    "Waluigi": {
+      "codename": "Waluigi"
+    },
+    "Wario": {
+      "codename": "Wario"
+    },
+    "Yoshi": {
+      "codename": "Yoshi"
+    },
+    "Boom Boom": {
+      "codename": "BoomBoom"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Mario Strikers: Battle League",
+  "smashgg_game_id": 42285,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "jp": "マリオストライカーズ: バトルリーグ",
+    "zh_CN": "马力欧激战前锋 战斗联赛",
+    "zh_TW": "瑪利歐激戰前鋒 戰鬥聯賽",
+    "ko": "마리오 스트라이커즈 배틀 리그",
+    "fr_FR": "Mario Strikers: Battle League Football",
+    "it": "Mario Strikers: Battle League Football",
+    "de": "Mario Strikers: Battle League Football",
+    "nl": "Mario Strikers: Battle League Football",
+    "es_ES": "Mario Strikers: Battle League Football"
+  }
+}

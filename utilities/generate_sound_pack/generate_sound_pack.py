@@ -9,8 +9,9 @@ from pathlib import Path
 directory = "./sound"
 url_json_path = "./sound.json"
 with open(url_json_path, 'rt', encoding="utf-8") as url_json_file:
-    url_dict = json.loads(url_json_file.read()).get("sound")
-    version = json.loads(url_json_file.read()).get("version")
+    content = url_json_file.read()
+    url_dict = json.loads(content).get("sound")
+    version = json.loads(content).get("version")
 
 
 def robust_request(link, timeout=30):

@@ -37,11 +37,35 @@
       "codename": "Yoshi"
     },
     "Petey Piranha": {
-      "codename": "Petey"
+      "codename": "Petey",
+      "locale": {
+        "fr_FR": "Flora Piranha",
+        "de": "Mutant-Tyranha",
+        "it": "Pipino Piranha",
+        "es_ES": "Floro Piraña",
+        "es_US": "Pepito piraña"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.02",
   "description": "Base config to use this game.",
-  "credits": ""
+  "credits": "",
+  "locale": {
+    "fr_FR": {
+      "name": "Mario Strikers Charged Football"
+    },
+    "it": {
+      "name": "Mario Strikers Charged Football"
+    },
+    "de": {
+      "name": "Mario Strikers Charged Football"
+    },
+    "nl": {
+      "name": "Mario Strikers Charged Football"
+    },
+    "es_ES": {
+      "name": "Mario Strikers Charged Football"
+    }
+  }
 }

@@ -4,7 +4,7 @@
     "prefix": "chara_1_",
     "postfix": "_",
     "type": ["full"],
-    "version": 1.0,
+    "version": 1.1,
     "eyesights": {
         "mario": {
             "0": {
@@ -218,8 +218,8 @@
         },
         "snake": {
             "0": {
-                "x": 363,
-                "y": 150
+                "x": 342,
+                "y": 143
             }
         },
         "ike": {

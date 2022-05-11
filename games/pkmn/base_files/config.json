@@ -9959,13 +9959,13 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.16",
+  "version": "1.17",
   "description": "Base config to use this game.",
   "credits": "Arclart for the Pok\u00e9mon Legends: Arceus icons",
   "challonge_game_id": 159142,
   "locale": {
     "fr": {
-      "description": "Configuration initial pour pouvoir charger ce jeu",
+      "description": "Configuration initiale pour pouvoir charger ce jeu",
       "credits": "Arclart pour les icones des Pokémon de Légendes Pokémon : Arceus"
     },
     "ja": {

@@ -2,37 +2,113 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Bowser": {
-      "codename": "Bowser"
+      "codename": "Bowser",
+      "locale": {
+        "jp": "クッパ",
+        "zh_CN": "酷霸王",
+        "zh_TW": "酷霸王",
+        "ko": "쿠파"
+      }
     },
     "Donkey Kong": {
-      "codename": "DonkeyKong"
+      "codename": "DonkeyKong",
+      "locale": {
+        "jp": "ドンキーコング",
+        "zh_CN": "森喜刚",
+        "zh_TW": "森喜剛",
+        "ko": "동키콩"
+      }
     },
     "Luigi": {
-      "codename": "Luigi"
+      "codename": "Luigi",
+      "locale": {
+        "jp": "ルイージ",
+        "zh_CN": "路易吉",
+        "zh_TW": "路易吉",
+        "ko": "루이지"
+      }
     },
     "Mario": {
-      "codename": "Mario"
+      "codename": "Mario",
+      "locale": {
+        "jp": "マリオ",
+        "zh_CN": "马力欧",
+        "zh_TW": "瑪利歐",
+        "ko": "마리오"
+      }
     },
     "Peach": {
-      "codename": "Peach"
+      "codename": "Peach",
+      "locale": {
+        "jp": "ピーチ姫",
+        "zh_CN": "桃花公主",
+        "zh_TW": "碧琪公主",
+        "ko": "피치 공주"
+      }
     },
     "Rosalina": {
-      "codename": "Rosalina"
+      "codename": "Rosalina",
+      "locale": {
+        "fr_FR": "Harmonie",
+        "it": "Rosalinda",
+        "jp": "ロゼッタ",
+        "zh_CN": "罗莎塔",
+        "zh_TW": "羅潔塔",
+        "ko": "로젤리나",
+        "es_ES": "Estela"
+      }
     },
     "Toad": {
-      "codename": "Toad"
+      "codename": "Toad",
+      "locale": {
+        "jp": "キノピオ",
+        "zh_CN": "奇诺比奥",
+        "zh_TW": "奇諾比奧",
+        "ko": "키노피오"
+      }
     },
     "Waluigi": {
-      "codename": "Waluigi"
+      "codename": "Waluigi",
+      "locale": {
+        "jp": "ワルイージ",
+        "zh_CN": "瓦路易吉",
+        "zh_TW": "瓦路易吉",
+        "ko": "와루이지"
+      }
     },
     "Wario": {
-      "codename": "Wario"
+      "codename": "Wario",
+      "locale": {
+        "jp": "ワリオ",
+        "zh_CN": "瓦力欧",
+        "zh_TW": "瓦利歐",
+        "ko": "와리오"
+      }
     },
     "Yoshi": {
-      "codename": "Yoshi"
+      "codename": "Yoshi",
+      "locale": {
+        "jp": "ヨッシー",
+        "zh_CN": "耀西",
+        "zh_TW": "耀西",
+        "ko": "요시"
+      }
     },
     "Boom Boom": {
-      "codename": "BoomBoom"
+      "codename": "BoomBoom",
+      "locale": {
+        "jp": "ブンブン",
+        "zh_CN": "奔奔",
+        "zh_TW": "奔奔",
+        "ko": "부웅부웅",
+        "fr": "Boum Boum",
+        "de": "Bumm Bumm",
+        "it": "Boom-Boom",
+        "es_ES": "Bum Bum",
+        "es_US": "Bum bum",
+        "pt_BR": "Dom Dom",
+        "pt_PT": "Bum Bum"
+      }
     }
   },
   "credits": "",
@@ -40,16 +116,37 @@
   "name": "Mario Strikers: Battle League",
   "smashgg_game_id": 42285,
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.01",
   "locale": {
-    "jp": "マリオストライカーズ: バトルリーグ",
-    "zh_CN": "马力欧激战前锋 战斗联赛",
-    "zh_TW": "瑪利歐激戰前鋒 戰鬥聯賽",
-    "ko": "마리오 스트라이커즈 배틀 리그",
-    "fr_FR": "Mario Strikers: Battle League Football",
-    "it": "Mario Strikers: Battle League Football",
-    "de": "Mario Strikers: Battle League Football",
-    "nl": "Mario Strikers: Battle League Football",
-    "es_ES": "Mario Strikers: Battle League Football"
+    "ja": {
+      "name": "マリオストライカーズ: バトルリーグ"
+    },
+    "zh_CN": {
+      "name": "马力欧激战前锋 战斗联赛"
+    },
+    "zh_TW": {
+      "name": "瑪利歐激戰前鋒 戰鬥聯賽"
+    },
+    "ko": {
+      "name": "마리오 스트라이커즈 배틀 리그"
+    },
+    "fr_FR": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "it": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "de": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "nl": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "es_ES": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "pt_PT": {
+      "name": "Mario Strikers: Battle League Football"
+    }
   }
 }

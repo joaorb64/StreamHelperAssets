@@ -1,9 +1,15 @@
 {
   "challonge_game_id": null,
   "locale": {
-    "jp": "マリオカート64",
-    "zh_CN": "马力欧卡丁车",
-    "zh_TW": "瑪利歐賽車64"
+    "ja": {
+      "name": "マリオカート64"
+    },
+    "zh_CN": {
+      "name": "马力欧卡丁车"
+    },
+    "zh_TW": {
+      "name": "瑪利歐賽車64"
+    }
   },
   "character_to_codename": {
     "Bowser": {
@@ -36,5 +42,5 @@
   "name": "Mario Kart 64",
   "smashgg_game_id": 5682,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01"
 }

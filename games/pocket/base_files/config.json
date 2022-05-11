@@ -1,7 +1,7 @@
 {
   "challonge_game_id": null,
   "locale": {
-    "jp": "ポケットファイター"
+    "ja": {"name":"ポケットファイター"}
   },
   "character_to_codename": {
     "Akuma": {
@@ -46,5 +46,5 @@
   "name": "Super Gem Fighter: Mini Mix",
   "smashgg_game_id": 16124,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01"
 }

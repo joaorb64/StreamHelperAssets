@@ -19,6 +19,10 @@
       "smashgg_name": "Samus",
       "codename": "samus"
     },
+    "Dark Samus": {
+      "smashgg_name": "Dark Samus",
+      "codename": "dark_samus"
+    },
     "Yoshi": {
       "smashgg_name": "Yoshi",
       "codename": "yoshi"
@@ -421,6 +425,6 @@
       "codename": "mushroom_kingdom_sr"
     }
   },
-  "version": "1.11",
+  "version": "1.12",
   "description": "Base config to use this game."
 }

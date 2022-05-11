@@ -43,8 +43,10 @@
   "name": "Mario Superstar Baseball",
   "smashgg_game_id": 6660,
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.01",
   "locale": {
-    "jp": "スーパーマリオスタジアム ミラクルベースボール"
+    "ja": {
+      "name": "スーパーマリオスタジアム ミラクルベースボール"
+    }
   }
 }

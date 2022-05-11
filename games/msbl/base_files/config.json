@@ -40,16 +40,34 @@
   "name": "Mario Strikers: Battle League",
   "smashgg_game_id": 42285,
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.01",
   "locale": {
-    "jp": "マリオストライカーズ: バトルリーグ",
-    "zh_CN": "马力欧激战前锋 战斗联赛",
-    "zh_TW": "瑪利歐激戰前鋒 戰鬥聯賽",
-    "ko": "마리오 스트라이커즈 배틀 리그",
-    "fr_FR": "Mario Strikers: Battle League Football",
-    "it": "Mario Strikers: Battle League Football",
-    "de": "Mario Strikers: Battle League Football",
-    "nl": "Mario Strikers: Battle League Football",
-    "es_ES": "Mario Strikers: Battle League Football"
+    "ja": {
+      "name": "マリオストライカーズ: バトルリーグ"
+    },
+    "zh_CN": {
+      "name": "马力欧激战前锋 战斗联赛"
+    },
+    "zh_TW": {
+      "name": "瑪利歐激戰前鋒 戰鬥聯賽"
+    },
+    "ko": {
+      "name": "마리오 스트라이커즈 배틀 리그"
+    },
+    "fr_FR": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "it": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "de": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "nl": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "es_ES": {
+      "name": "Mario Strikers: Battle League Football"
+    }
   }
 }

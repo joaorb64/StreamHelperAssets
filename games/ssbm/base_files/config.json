@@ -1,5 +1,13 @@
 {
   "name": "Super Smash Bros Melee",
+  "locale": {
+    "ja": {
+      "name": "大乱闘スマッシュブラザーズＤＸ"
+    },
+    "ko": {
+      "name": "대난투 스매시브라더스 DX"
+    }
+  },
   "smashgg_game_id": 1,
   "challonge_game_id": 394,
   "character_to_codename": {
@@ -49,7 +57,10 @@
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
-      "codename": "jigglypuff"
+      "codename": "jigglypuff",
+      "locale": {
+        "fr": "Rondoudou"
+      }
     },
     "Peach": {
       "smashgg_name": "Peach",
@@ -89,7 +100,10 @@
     },
     "Young Link": {
       "smashgg_name": "Young Link",
-      "codename": "young_link"
+      "codename": "young_link",
+      "locale": {
+        "fr": "Link Enfant"
+      }
     },
     "Ganondorf": {
       "smashgg_name": "Ganondorf",
@@ -109,7 +123,10 @@
     },
     "Random Character": {
       "smashgg_name": "Random Character",
-      "codename": "random"
+      "codename": "random",
+      "locale": {
+        "fr": "Aléatoire"
+      }
     }
   },
   "stage_to_codename": {
@@ -119,19 +136,31 @@
     },
     "Fountain of Dreams": {
       "smashgg_id": "11",
-      "codename": "fountain_of_dreams"
+      "codename": "fountain_of_dreams",
+      "locale": {
+        "fr": "Fontaine des Rêves"
+      }
     },
     "Pok\u00e9mon Stadium": {
       "smashgg_id": "15",
-      "codename": "pokemon_stadium"
+      "codename": "pokemon_stadium",
+      "locale": {
+        "fr": "Stade Pokémon"
+      }
     },
     "Battlefield": {
       "smashgg_id": "19",
-      "codename": "battlefield"
+      "codename": "battlefield",
+      "locale": {
+        "fr": "Champ de Bataille"
+      }
     },
     "Final Destination": {
       "smashgg_id": "20",
-      "codename": "final_destination"
+      "codename": "final_destination",
+      "locale": {
+        "fr": "Destination Finale"
+      }
     },
     "Dream Land": {
       "smashgg_id": "25",
@@ -141,7 +170,10 @@
       "codename": "big_blue"
     },
     "Brinstar Depths": {
-      "codename": "brinstar_depths"
+      "codename": "brinstar_depths",
+      "locale": {
+        "fr": "Profondeurs de Brinstar"
+      }
     },
     "Brinstar": {
       "codename": "brinstar"
@@ -156,28 +188,52 @@
       "codename": "fourside"
     },
     "Great Bay": {
-      "codename": "great_bay"
+      "codename": "great_bay",
+      "locale": {
+        "fr": "Grande baie"
+      }
     },
     "Green Greens": {
-      "codename": "green_greens"
+      "codename": "green_greens",
+      "locale": {
+        "fr": "Vertes Prairies"
+      }
     },
     "Icicle Mountain": {
-      "codename": "icicle_mountain"
+      "codename": "icicle_mountain",
+      "locale": {
+        "fr": "Montagne Icicle"
+      }
     },
     "Jungle Japes": {
-      "codename": "jungle_japes"
+      "codename": "jungle_japes",
+      "locale": {
+        "fr": "Jungle des Jobards"
+      }
     },
     "Kong Jungle (N64)": {
-      "codename": "kong_jungle_64"
+      "codename": "kong_jungle_64",
+      "locale": {
+        "fr": "Jungle Kongo (N64)"
+      }
     },
     "Kongo Jungle": {
-      "codename": "kongo_jungle"
+      "codename": "kongo_jungle",
+      "locale": {
+        "fr": "Jungle Kongo"
+      }
     },
     "Mushroom Kingdom II": {
-      "codename": "mushroom_kingdom_ii"
+      "codename": "mushroom_kingdom_ii",
+      "locale": {
+        "fr": "Royaume Champignon II"
+      }
     },
     "Mushroom Kingdom": {
-      "codename": "mushroom_kingdom"
+      "codename": "mushroom_kingdom",
+      "locale": {
+        "fr": "Royaume Champignon"
+      }
     },
     "Mute City": {
       "codename": "mute_city"
@@ -186,13 +242,22 @@
       "codename": "onett"
     },
     "Peach's Castle": {
-      "codename": "peachs_castle"
+      "codename": "peachs_castle",
+      "locale": {
+        "fr": "Château de Peach"
+      }
     },
     "Pok\u00e9floats": {
-      "codename": "pokefloats"
+      "codename": "pokefloats",
+      "locale": {
+        "fr": "Poké-Flotte"
+      }
     },
     "Rainbow Cruise": {
-      "codename": "rainbow_cruise"
+      "codename": "rainbow_cruise",
+      "locale": {
+        "fr": "Course Arc-en-ciel"
+      }
     },
     "Temple": {
       "codename": "temple"
@@ -201,12 +266,18 @@
       "codename": "venom"
     },
     "Yoshi's Island (N64)": {
-      "codename": "yoshis_island_64"
+      "codename": "yoshis_island_64",
+      "locale": {
+        "fr": "Île de Yoshi (N64)"
+      }
     },
     "Yoshi's Island": {
-      "codename": "yoshis_island"
+      "codename": "yoshis_island",
+      "locale": {
+        "fr": "Île de Yoshi"
+      }
     }
   },
-  "version": "0.93",
+  "version": "0.94",
   "description": "Base config to use this game."
 }

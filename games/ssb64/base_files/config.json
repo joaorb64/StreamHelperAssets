@@ -1,5 +1,16 @@
 {
   "name": "Super Smash Bros",
+  "locale": {
+    "ja": {
+      "name": "ニンテンドウオールスター！大乱闘スマッシュブラザーズ"
+    },
+    "ko": {
+      "name": "대난투 스매시브라더스"
+    },
+    "zh_CN": {
+      "name": "任天堂明星大亂鬥/任天堂明星大乱斗"
+    }
+  },
   "smashgg_game_id": 4,
   "challonge_game_id": 392,
   "character_to_codename": {
@@ -21,7 +32,10 @@
     },
     "Dark Samus": {
       "smashgg_name": "Dark Samus",
-      "codename": "dark_samus"
+      "codename": "dark_samus",
+      "locale": {
+        "fr": "Samus Sombre"
+      }
     },
     "Yoshi": {
       "smashgg_name": "Yoshi",
@@ -53,7 +67,10 @@
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
-      "codename": "jigglypuff"
+      "codename": "jigglypuff",
+      "locale": {
+        "fr": "Rondoudou"
+      }
     },
     "Bowser": {
       "smashgg_name": "Bowser",
@@ -73,7 +90,10 @@
     },
     "Young Link": {
       "smashgg_name": "Young Link",
-      "codename": "young_link"
+      "codename": "young_link",
+      "locale": {
+        "fr": "Link Enfant"
+      }
     },
     "Ganondorf": {
       "smashgg_name": "Ganondorf",
@@ -105,7 +125,10 @@
     },
     "Random Character": {
       "smashgg_name": "Random Character",
-      "codename": "random"
+      "codename": "random",
+      "locale": {
+        "fr": "Aléatoire"
+      }
     }
   },
   "stage_to_codename": {
@@ -425,6 +448,6 @@
       "codename": "mushroom_kingdom_sr"
     }
   },
-  "version": "1.12",
+  "version": "1.13",
   "description": "Base config to use this game."
 }

@@ -1,5 +1,19 @@
 {
   "name": "Super Smash Bros. for Wii U",
+  "locale": {
+    "ja": {
+      "name": "大乱闘スマッシュブラザーズ for Wii U"
+    },
+    "zh_CN": {
+      "name": "群星劲爆大乱斗 for Wii U"
+    },
+    "zh_TW": {
+      "name": "任天堂明星大亂鬥 for Wii U"
+    },
+    "ko": {
+      "name": "슈퍼 스매시브라더스 for Wii U"
+    }
+  },
   "smashgg_game_id": 3,
   "challonge_game_id": 20988,
   "character_to_codename": {
@@ -53,7 +67,10 @@
     },
     "Toon Link": {
       "smashgg_name": "Toon Link",
-      "codename": "ToonLink"
+      "codename": "ToonLink",
+      "locale": {
+        "fr": "Link Cartoon"
+      }
     },
     "Samus": {
       "smashgg_name": "Samus",
@@ -61,7 +78,10 @@
     },
     "Zero Suit Samus": {
       "smashgg_name": "Zero Suit Samus",
-      "codename": "ZeroSuitSamus"
+      "codename": "ZeroSuitSamus",
+      "locale": {
+        "fr": "Samus sans armure"
+      }
     },
     "Kirby": {
       "smashgg_name": "Kirby",
@@ -73,7 +93,10 @@
     },
     "King Dedede": {
       "smashgg_name": "King Dedede",
-      "codename": "KingDedede"
+      "codename": "KingDedede",
+      "locale": {
+        "fr": "Roi DaDiDou"
+      }
     },
     "Fox": {
       "smashgg_name": "Fox",
@@ -89,7 +112,10 @@
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
-      "codename": "Jigglypuff"
+      "codename": "Jigglypuff",
+      "locale": {
+        "fr": "Rondoudou"
+      }
     },
     "Mewtwo": {
       "smashgg_name": "Mewtwo",
@@ -97,7 +123,10 @@
     },
     "Charizard": {
       "smashgg_name": "Charizard",
-      "codename": "Charizard"
+      "codename": "Charizard",
+      "locale": {
+        "fr": "Dracaufeu"
+      }
     },
     "Lucario": {
       "smashgg_name": "Lucario",
@@ -153,7 +182,10 @@
     },
     "Rosalina & Luma": {
       "smashgg_name": "Rosalina & Luma",
-      "codename": "RosalinaLuma"
+      "codename": "RosalinaLuma",
+      "locale": {
+        "fr": "Harmonie & Luma"
+      }
     },
     "Bowser Jr.": {
       "smashgg_name": "Bowser Jr.",
@@ -161,11 +193,17 @@
     },
     "Greninja": {
       "smashgg_name": "Greninja",
-      "codename": "Greninja"
+      "codename": "Greninja",
+      "locale": {
+        "fr": "Amphinobi"
+      }
     },
     "Robin": {
       "smashgg_name": "Robin",
-      "codename": "Robin"
+      "codename": "Robin",
+      "locale": {
+        "fr": "Daraen"
+      }
     },
     "Lucina": {
       "smashgg_name": "Lucina",
@@ -177,11 +215,17 @@
     },
     "Dark Pit": {
       "smashgg_name": "Dark Pit",
-      "codename": "DarkPit"
+      "codename": "DarkPit",
+      "locale": {
+        "fr": "Pit Maléfique"
+      }
     },
     "Villager": {
       "smashgg_name": "Villager",
-      "codename": "Villager"
+      "codename": "Villager",
+      "locale": {
+        "fr": "Villageois"
+      }
     },
     "Little Mac": {
       "smashgg_name": "Little Mac",
@@ -189,7 +233,10 @@
     },
     "Wii Fit Trainer": {
       "smashgg_name": "Wii Fit Trainer",
-      "codename": "WiiFitTrainer"
+      "codename": "WiiFitTrainer",
+      "locale": {
+        "fr": "Entraîneuse Wii Fit"
+      }
     },
     "Shulk": {
       "smashgg_name": "Shulk",
@@ -211,10 +258,6 @@
       "smashgg_name": "Ryu",
       "codename": "Ryu"
     },
-    "Mii Fighters": {
-      "smashgg_name": "Mii Fighters",
-      "codename": "MiiFighters"
-    },
     "Cloud": {
       "smashgg_name": "Cloud",
       "codename": "Cloud"
@@ -229,23 +272,35 @@
     },
     "Random": {
       "smashgg_name": "Random",
-      "codename": "Random"
+      "codename": "Random",
+      "locale": {
+        "fr": "Aléatoire"
+      }
     },
     "Mii Gunner": {
       "smashgg_name": "Mii Gunner",
-      "codename": "MiiGunner"
+      "codename": "MiiGunner",
+      "locale": {
+        "fr": "Tireur Mii"
+      }
     },
     "Mii Swordfighter": {
       "smashgg_name": "Mii Swordfighter",
-      "codename": "MiiSwordfighter"
+      "codename": "MiiSwordfighter",
+      "locale": {
+        "fr": "Épéiste Mii"
+      }
     },
     "Mii Brawler": {
       "smashgg_name": "Mii Brawler",
-      "codename": "MiiBrawler"
+      "codename": "MiiBrawler",
+      "locale": {
+        "fr": "Boxeur Mii"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.02",
   "description": "Base config to use this game.",
   "credits": ""
 }

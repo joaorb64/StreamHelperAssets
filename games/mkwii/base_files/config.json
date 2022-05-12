@@ -17,19 +17,99 @@
       "codename": "Birdo"
     },
     "Bowser": {
-      "codename": "Bowser"
+      "codename": "Bowser",
+      "locale": {
+        "ja": "\u30af\u30c3\u30d1",
+        "en_GB": "Bowser",
+        "en_AU": "Bowser",
+        "fr": "Bowser",
+        "fr_CA": "Bowser",
+        "es_ES": "Bowser",
+        "es_LA": "Bowser",
+        "de": "Bowser",
+        "it": "Bowser",
+        "nl": "Bowser",
+        "ru": "\u0411\u043e\u0443\u0437\u0435\u0440",
+        "ko": "\ucfe0\ud30c",
+        "zh_TW": "\u5eab\u5df4",
+        "zh_CN": "\u9177\u9738\u738b"
+      }
     },
     "Bowser Jr.": {
-      "codename": "BowserJr"
+      "codename": "BowserJr",
+      "locale": {
+        "ja": "\u30af\u30c3\u30d1 Jr.",
+        "en_GB": "Bowser Jr.",
+        "en_AU": "Bowser Jr.",
+        "fr": "Bowser Jr.",
+        "fr_CA": "Bowser Jr.",
+        "es_ES": "Bowsy",
+        "es_LA": "Bowser Jr.",
+        "de": "Bowser Jr.",
+        "it": "Bowser Junior",
+        "nl": "Bowser Jr.",
+        "ru": "\u0411\u043e\u0443\u0437\u0435\u0440-\u041c\u043b\u0430\u0434\u0448\u0438\u0439",
+        "ko": "\ucfe0\ud30c\uc8fc\ub2c8\uc5b4",
+        "zh_TW": "\u5eab\u5df4Jr.",
+        "zh_CN": "\u9177\u9738\u738bJr."
+      }
     },
     "Daisy": {
-      "codename": "Daisy"
+      "codename": "Daisy",
+      "locale": {
+        "ja": "\u30c7\u30a4\u30b8\u30fc",
+        "en_GB": "Daisy",
+        "en_AU": "Daisy",
+        "fr": "Daisy",
+        "fr_CA": "Daisy",
+        "es_ES": "Daisy",
+        "es_LA": "Daisy",
+        "de": "Daisy",
+        "it": "Daisy",
+        "nl": "Daisy",
+        "ru": "\u0414\u0435\u0439\u0437\u0438",
+        "ko": "\ub370\uc774\uc9c0",
+        "zh_TW": "\u9edb\u897f\u516c\u4e3b",
+        "zh_CN": "\u83ca\u82b1\u516c\u4e3b"
+      }
     },
     "Diddy Kong": {
-      "codename": "DiddyKong"
+      "codename": "DiddyKong",
+      "locale": {
+        "ja": "\u30c7\u30a3\u30c7\u30a3\u30fc\u30b3\u30f3\u30b0",
+        "en_GB": "Diddy Kong",
+        "en_AU": "Diddy Kong",
+        "fr": "Diddy Kong",
+        "fr_CA": "Diddy Kong",
+        "es_ES": "Diddy Kong",
+        "es_LA": "Diddy Kong",
+        "de": "Diddy Kong",
+        "it": "Diddy Kong",
+        "nl": "Diddy Kong",
+        "ru": "\u0414\u0438\u0434\u0434\u0438 \u041a\u043e\u043d\u0433",
+        "ko": "\ub514\ub514\ucf69",
+        "zh_TW": "\u72c4\u72c4\u525b",
+        "zh_CN": "\u8fea\u8fea\u521a"
+      }
     },
     "Donkey Kong": {
-      "codename": "DonkeyKong"
+      "codename": "DonkeyKong",
+      "locale": {
+        "ja": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
+        "en_GB": "Donkey Kong",
+        "en_AU": "Donkey Kong",
+        "fr": "Donkey Kong",
+        "fr_CA": "Donkey Kong",
+        "es_ES": "Donkey Kong",
+        "es_LA": "Donkey Kong",
+        "de": "Donkey Kong",
+        "it": "Donkey Kong",
+        "nl": "Donkey Kong",
+        "ru": "\u0414\u043e\u043d\u043a\u0438 \u041a\u043e\u043d\u0433",
+        "ko": "\ub3d9\ud0a4\ucf69",
+        "zh_TW": "\u68ee\u559c\u525b",
+        "zh_CN": "\u68ee\u559c\u521a"
+      }
     },
     "Dry Bones": {
       "codename": "DryBones"
@@ -47,13 +127,61 @@
       "codename": "KoopaTroopa"
     },
     "Luigi": {
-      "codename": "Luigi"
+      "codename": "Luigi",
+      "locale": {
+        "ja": "\u30eb\u30a4\u30fc\u30b8",
+        "en_GB": "Luigi",
+        "en_AU": "Luigi",
+        "fr": "Luigi",
+        "fr_CA": "Luigi",
+        "es_ES": "Luigi",
+        "es_LA": "Luigi",
+        "de": "Luigi",
+        "it": "Luigi",
+        "nl": "Luigi",
+        "ru": "\u041b\u0443\u0438\u0434\u0436\u0438",
+        "ko": "\ub8e8\uc774\uc9c0",
+        "zh_TW": "\u8def\u6613\u5409",
+        "zh_CN": "\u8def\u6613\u5409"
+      }
     },
     "Mario": {
-      "codename": "Mario"
+      "codename": "Mario",
+      "locale": {
+        "ja": "\u30de\u30ea\u30aa",
+        "en_GB": "Mario",
+        "en_AU": "Mario",
+        "fr": "Mario",
+        "fr_CA": "Mario",
+        "es_ES": "Mario",
+        "es_LA": "Mario",
+        "de": "Mario",
+        "it": "Mario",
+        "nl": "Mario",
+        "ru": "\u041c\u0430\u0440\u0438\u043e",
+        "ko": "\ub9c8\ub9ac\uc624",
+        "zh_TW": "\u746a\u5229\u6b50",
+        "zh_CN": "\u9a6c\u529b\u6b27"
+      }
     },
     "Peach": {
-      "codename": "Peach"
+      "codename": "Peach",
+      "locale": {
+        "ja": "\u30d4\u30fc\u30c1",
+        "en_GB": "Peach",
+        "en_AU": "Peach",
+        "fr": "Peach",
+        "fr_CA": "Peach",
+        "es_ES": "Peach",
+        "es_LA": "Peach",
+        "de": "Peach",
+        "it": "Peach",
+        "nl": "Peach",
+        "ru": "\u041f\u0438\u0447",
+        "ko": "\ud53c\uce58\uacf5\uc8fc",
+        "zh_TW": "\u78a7\u59ec\u516c\u4e3b",
+        "zh_CN": "\u6843\u82b1\u516c\u4e3b"
+      }
     },
     "Rosalina": {
       "codename": "Rosalina"
@@ -68,10 +196,42 @@
       "codename": "Waluigi"
     },
     "Wario": {
-      "codename": "Wario"
+      "codename": "Wario",
+      "locale": {
+        "ja": "\u30ef\u30ea\u30aa",
+        "en_GB": "Wario",
+        "en_AU": "Wario",
+        "fr": "Wario",
+        "fr_CA": "Wario",
+        "es_ES": "Wario",
+        "es_LA": "Wario",
+        "de": "Wario",
+        "it": "Wario",
+        "nl": "Wario",
+        "ru": "\u0412\u0430\u0440\u0438\u043e",
+        "ko": "\uc640\ub9ac\uc624",
+        "zh_TW": "\u74e6\u5229\u6b50",
+        "zh_CN": "\u74e6\u529b\u6b27"
+      }
     },
     "Yoshi": {
-      "codename": "Yoshi"
+      "codename": "Yoshi",
+      "locale": {
+        "ja": "\u30e8\u30c3\u30b7\u30fc",
+        "en_GB": "Yoshi",
+        "en_AU": "Yoshi",
+        "fr": "Yoshi",
+        "fr_CA": "Yoshi",
+        "es_ES": "Yoshi",
+        "es_LA": "Yoshi",
+        "de": "Yoshi",
+        "it": "Yoshi",
+        "nl": "Yoshi",
+        "ru": "\u0419\u043e\u0448\u0438",
+        "ko": "\uc694\uc2dc",
+        "zh_TW": "\u8000\u897f",
+        "zh_CN": "\u8000\u897f"
+      }
     },
     "Mii": {
       "codename": "Mii"
@@ -82,5 +242,5 @@
   "name": "Mario Kart Wii",
   "smashgg_game_id": 5757,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01"
 }

@@ -91,5 +91,10 @@
   "name": "Street Fighter EX3",
   "smashgg_game_id": 20372,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01",
+  "locale": {
+    "ja": {
+      "name": "ストリートファイターEX3"
+    }
+  }
 }

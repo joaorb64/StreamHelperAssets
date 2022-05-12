@@ -58,7 +58,12 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.02",
   "description": "Base config to use this game.\nNote: This also works for Fighting EX Layer: Another Dash, but will not report your results to Smash.gg (Smash.gg ID for FEXL:AD: 39242)",
-  "credits": ""
+  "credits": "",
+  "locale":{
+    "ja": {
+      "name": "ファイティングEXレイヤー"
+    }
+  }
 }

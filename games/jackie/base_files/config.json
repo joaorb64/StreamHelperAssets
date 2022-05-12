@@ -32,7 +32,12 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.02",
   "description": "Base config to use this game.",
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Jackie_Chan_in_Fists_of_Fire)"
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Jackie_Chan_in_Fists_of_Fire)",
+  "locale": {
+    "ja": {
+      "name": "ジャッキー・チェン FISTS OF FIRE 成龍伝説"
+    }
+  }
 }

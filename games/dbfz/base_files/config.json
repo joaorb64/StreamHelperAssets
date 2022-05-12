@@ -182,5 +182,10 @@
   "credits": "Files ripped from Dustloop Wiki",
   "description": "Base config to use this game.",
   "stage_to_codename": {},
-  "version": "1.2"
+  "version": "1.21",
+  "locale": {
+    "ja": {
+      "name": "ドラゴンボール ファイターズ"
+    }
+  }
 }

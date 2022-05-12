@@ -73,5 +73,10 @@
   "name": "Persona 4 Arena Ultimax",
   "smashgg_game_id": 11065,
   "stage_to_codename": {},
-  "version": "1.11"
+  "version": "1.12",
+  "locale": {
+    "ja": {
+      "name": "ペルソナ4 ジ・アルティマックス ウルトラスープレックスホールド"
+    }
+  }
 }

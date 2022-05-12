@@ -183,5 +183,10 @@
   "description": "Base config to use this game.",
   "name": "Tekken Tag Tournament 2",
   "smashgg_game_id": 4985,
-  "version": "1.03"
+  "version": "1.04",
+  "locale": {
+    "ja": {
+      "name": "鉄拳タッグトーナメント2"
+    }
+  }
 }

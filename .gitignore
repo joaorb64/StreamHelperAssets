@@ -21,3 +21,4 @@ build
 utilities/generate_sound_pack/*.json
 utilities/generate_sound_pack/sound/*
 utilities/generate_sound_pack/archive/*
+games/*/sound.json

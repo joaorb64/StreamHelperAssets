@@ -1593,9 +1593,25 @@
         "zh_CN": "\u8428\u83f2\u7f57\u65af"
       }
     },
-    "Pyra & Mythra": {
+    "Pyra / Mythra": {
       "smashgg_name": "Pyra & Mythra",
-      "codename": "eflame"
+      "codename": "eflame",
+      "locale": {
+        "ja": "\u30db\u30e0\u30e9 / \u30d2\u30ab\u30ea",
+        "en_GB": "Pyra / Mythra",
+        "en_AU": "Pyra / Mythra",
+        "fr": "Pyra / Mythra",
+        "fr_CA": "Pyra / Mythra",
+        "es_ES": "Pyra / Mythra",
+        "es_LA": "Pyra / Mythra",
+        "de": "Pyra / Mythra",
+        "it": "Pyra / Mythra",
+        "nl": "Pyra / Mythra",
+        "ru": "\u041f\u0430\u0439\u0440\u0430 / \u041c\u0438\u0444\u0440\u0430",
+        "ko": "\ud638\ubb34\ub77c / \ud788\uce74\ub9ac",
+        "zh_TW": "\u7130 / \u5149",
+        "zh_CN": "\u7130 / \u5149"
+      }
     },
     "Kazuya": {
       "smashgg_name": "Kazuya",

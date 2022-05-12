@@ -148,12 +148,15 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.03",
+  "version": "1.04",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
-    "fr_FR": {
+    "fr": {
       "name": "Mario Smash Football"
+    },
+    "fr_CA": {
+      "name": "Super Mario Strikers"
     },
     "it": {
       "name": "Mario Smash Football"
@@ -166,6 +169,9 @@
     },
     "es_ES": {
       "name": "Mario Smash Football"
+    },
+    "es_LA": {
+      "name": "Super Mario Strikers"
     },
     "en_UK": {
       "name": "Mario Smash Football"

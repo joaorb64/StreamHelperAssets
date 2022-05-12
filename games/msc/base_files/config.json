@@ -39,7 +39,7 @@
     "Petey Piranha": {
       "codename": "Petey",
       "locale": {
-        "fr_FR": "Flora Piranha",
+        "fr": "Flora Piranha",
         "de": "Mutant-Tyranha",
         "it": "Pipino Piranha",
         "es_ES": "Floro Piraña",
@@ -48,12 +48,15 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.03",
+  "version": "1.04",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
-    "fr_FR": {
+    "fr": {
       "name": "Mario Strikers Charged Football"
+    },
+    "fr_CA": {
+      "name": "Mario Strikers Charged"
     },
     "it": {
       "name": "Mario Strikers Charged Football"
@@ -66,6 +69,9 @@
     },
     "es_ES": {
       "name": "Mario Strikers Charged Football"
+    },
+    "es_US": {
+      "name": "Mario Strikers Charged"
     },
     "en_UK": {
       "name": "Mario Strikers Charged Football"

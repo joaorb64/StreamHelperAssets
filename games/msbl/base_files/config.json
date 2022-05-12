@@ -49,13 +49,15 @@
     "Rosalina": {
       "codename": "Rosalina",
       "locale": {
-        "fr_FR": "Harmonie",
+        "fr": "Harmonie",
+        "fr_CA": "Harmonie",
         "it": "Rosalinda",
         "ja": "ロゼッタ",
         "zh_CN": "罗莎塔",
         "zh_TW": "羅潔塔",
         "ko": "로젤리나",
-        "es_ES": "Estela"
+        "es_ES": "Estela",
+        "es_US": "Estela"
       }
     },
     "Toad": {
@@ -116,7 +118,7 @@
   "name": "Mario Strikers: Battle League",
   "smashgg_game_id": 42285,
   "stage_to_codename": {},
-  "version": "1.03",
+  "version": "1.04",
   "locale": {
     "ja": {
       "name": "マリオストライカーズ: バトルリーグ"
@@ -130,8 +132,11 @@
     "ko": {
       "name": "마리오 스트라이커즈 배틀 리그"
     },
-    "fr_FR": {
+    "fr": {
       "name": "Mario Strikers: Battle League Football"
+    },
+    "fr_CA": {
+      "name": "Mario Strikers: Battle League"
     },
     "it": {
       "name": "Mario Strikers: Battle League Football"
@@ -144,6 +149,9 @@
     },
     "es_ES": {
       "name": "Mario Strikers: Battle League Football"
+    },
+    "es_US": {
+      "name": "Mario Strikers: Battle League"
     },
     "pt_PT": {
       "name": "Mario Strikers: Battle League Football"

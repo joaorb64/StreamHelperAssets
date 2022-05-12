@@ -1,5 +1,19 @@
 {
   "name": "Super Smash Bros Ultimate",
+  "locale": {
+    "ja": {
+      "name": "大乱闘スマッシュブラザーズ SPECIAL"
+    },
+    "ko": {
+      "name": "슈퍼 스매시브라더스 얼티밋"
+    },
+    "zh_CN": {
+      "name": "任天堂明星大乱斗 特别版"
+    },
+    "zh_TW": {
+      "name": "任天堂明星大亂鬥 特別版"
+    }
+  },
   "smashgg_game_id": 1386,
   "challonge_game_id": 141059,
   "character_to_codename": {
@@ -166,7 +180,7 @@
       "smashgg_name": "Ike",
       "codename": "ike"
     },
-    "Pokemon Trainer": {
+    "Pokémon Trainer": {
       "smashgg_name": "Pokemon Trainer",
       "codename": "ptrainer",
       "locale": {
@@ -1069,6 +1083,6 @@
       }
     }
   },
-  "version": "1.02",
+  "version": "1.03",
   "description": "Base config to use this game."
 }

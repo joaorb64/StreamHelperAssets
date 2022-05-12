@@ -48,7 +48,10 @@
     },
     "Toon Link": {
       "smashgg_name": "Toon Link",
-      "codename": "40"
+      "codename": "40",
+      "locale": {
+        "fr": "Link Cartoon"
+      }
     },
     "Samus": {
       "smashgg_name": "Samus",
@@ -56,7 +59,10 @@
     },
     "Zero Suit Samus": {
       "smashgg_name": "Zero Suit Samus",
-      "codename": "23"
+      "codename": "23",
+      "locale": {
+        "fr": "Samus sans armure"
+      }
     },
     "Kirby": {
       "smashgg_name": "Kirby",
@@ -68,7 +74,10 @@
     },
     "King Dedede": {
       "smashgg_name": "King Dedede",
-      "codename": "31"
+      "codename": "31",
+      "locale": {
+        "fr": "Roi DaDiDou"
+      }
     },
     "Fox": {
       "smashgg_name": "Fox",
@@ -88,7 +97,10 @@
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
-      "codename": "36"
+      "codename": "36",
+      "locale": {
+        "fr": "Rondoudou"
+      }
     },
     "Mewtwo": {
       "smashgg_name": "Mewtwo",
@@ -96,15 +108,24 @@
     },
     "Squirtle": {
       "smashgg_name": "Squirtle",
-      "codename": "29"
+      "codename": "29",
+      "locale": {
+        "fr": "Carapuce"
+      }
     },
     "Ivysaur": {
       "smashgg_name": "Ivysaur",
-      "codename": "30"
+      "codename": "30",
+      "locale": {
+        "fr": "Herbizarre"
+      }
     },
     "Charizard": {
       "smashgg_name": "Charizard",
-      "codename": "28"
+      "codename": "28",
+      "locale": {
+        "fr": "Dracaufeu"
+      }
     },
     "Lucario": {
       "smashgg_name": "Lucario",
@@ -154,7 +175,7 @@
       "smashgg_name": "Olimar",
       "codename": "24"
     },
-    "ROB": {
+    "R.O.B.": {
       "smashgg_name": "ROB",
       "codename": "34"
     },
@@ -172,7 +193,10 @@
     },
     "Random Character": {
       "smashgg_name": "Random Character",
-      "codename": "50"
+      "codename": "50",
+      "locale": {
+        "fr": "Aléatoire"
+      }
     },
     "Giga Bowser": {
       "codename": "44"
@@ -182,7 +206,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.11",
+  "version": "1.12",
   "description": "Base config to use this game.",
   "credits": ""
 }

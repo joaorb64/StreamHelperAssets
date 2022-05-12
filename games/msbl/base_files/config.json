@@ -4,7 +4,7 @@
     "Bowser": {
       "codename": "Bowser",
       "locale": {
-        "jp": "クッパ",
+        "ja": "クッパ",
         "zh_CN": "酷霸王",
         "zh_TW": "酷霸王",
         "ko": "쿠파"
@@ -13,7 +13,7 @@
     "Donkey Kong": {
       "codename": "DonkeyKong",
       "locale": {
-        "jp": "ドンキーコング",
+        "ja": "ドンキーコング",
         "zh_CN": "森喜刚",
         "zh_TW": "森喜剛",
         "ko": "동키콩"
@@ -22,7 +22,7 @@
     "Luigi": {
       "codename": "Luigi",
       "locale": {
-        "jp": "ルイージ",
+        "ja": "ルイージ",
         "zh_CN": "路易吉",
         "zh_TW": "路易吉",
         "ko": "루이지"
@@ -31,7 +31,7 @@
     "Mario": {
       "codename": "Mario",
       "locale": {
-        "jp": "マリオ",
+        "ja": "マリオ",
         "zh_CN": "马力欧",
         "zh_TW": "瑪利歐",
         "ko": "마리오"
@@ -40,7 +40,7 @@
     "Peach": {
       "codename": "Peach",
       "locale": {
-        "jp": "ピーチ姫",
+        "ja": "ピーチ姫",
         "zh_CN": "桃花公主",
         "zh_TW": "碧琪公主",
         "ko": "피치 공주"
@@ -51,7 +51,7 @@
       "locale": {
         "fr_FR": "Harmonie",
         "it": "Rosalinda",
-        "jp": "ロゼッタ",
+        "ja": "ロゼッタ",
         "zh_CN": "罗莎塔",
         "zh_TW": "羅潔塔",
         "ko": "로젤리나",
@@ -61,7 +61,7 @@
     "Toad": {
       "codename": "Toad",
       "locale": {
-        "jp": "キノピオ",
+        "ja": "キノピオ",
         "zh_CN": "奇诺比奥",
         "zh_TW": "奇諾比奧",
         "ko": "키노피오"
@@ -70,7 +70,7 @@
     "Waluigi": {
       "codename": "Waluigi",
       "locale": {
-        "jp": "ワルイージ",
+        "ja": "ワルイージ",
         "zh_CN": "瓦路易吉",
         "zh_TW": "瓦路易吉",
         "ko": "와루이지"
@@ -79,7 +79,7 @@
     "Wario": {
       "codename": "Wario",
       "locale": {
-        "jp": "ワリオ",
+        "ja": "ワリオ",
         "zh_CN": "瓦力欧",
         "zh_TW": "瓦利歐",
         "ko": "와리오"
@@ -88,7 +88,7 @@
     "Yoshi": {
       "codename": "Yoshi",
       "locale": {
-        "jp": "ヨッシー",
+        "ja": "ヨッシー",
         "zh_CN": "耀西",
         "zh_TW": "耀西",
         "ko": "요시"
@@ -97,7 +97,7 @@
     "Boom Boom": {
       "codename": "BoomBoom",
       "locale": {
-        "jp": "ブンブン",
+        "ja": "ブンブン",
         "zh_CN": "奔奔",
         "zh_TW": "奔奔",
         "ko": "부웅부웅",
@@ -116,7 +116,7 @@
   "name": "Mario Strikers: Battle League",
   "smashgg_game_id": 42285,
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.02",
   "locale": {
     "ja": {
       "name": "マリオストライカーズ: バトルリーグ"

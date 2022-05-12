@@ -116,7 +116,7 @@
   "name": "Mario Strikers: Battle League",
   "smashgg_game_id": 42285,
   "stage_to_codename": {},
-  "version": "1.02",
+  "version": "1.03",
   "locale": {
     "ja": {
       "name": "マリオストライカーズ: バトルリーグ"
@@ -146,6 +146,12 @@
       "name": "Mario Strikers: Battle League Football"
     },
     "pt_PT": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "en_UK": {
+      "name": "Mario Strikers: Battle League Football"
+    },
+    "en_IE": {
       "name": "Mario Strikers: Battle League Football"
     }
   }

@@ -48,7 +48,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.02",
+  "version": "1.03",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
@@ -65,6 +65,12 @@
       "name": "Mario Strikers Charged Football"
     },
     "es_ES": {
+      "name": "Mario Strikers Charged Football"
+    },
+    "en_UK": {
+      "name": "Mario Strikers Charged Football"
+    },
+    "en_IE": {
       "name": "Mario Strikers Charged Football"
     }
   }

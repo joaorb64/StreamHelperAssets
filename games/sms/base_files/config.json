@@ -32,7 +32,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.02",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
@@ -49,6 +49,12 @@
       "name": "Mario Smash Football"
     },
     "es_ES": {
+      "name": "Mario Smash Football"
+    },
+    "en_UK": {
+      "name": "Mario Smash Football"
+    },
+    "en_IE": {
       "name": "Mario Smash Football"
     }
   }

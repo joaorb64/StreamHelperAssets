@@ -4,46 +4,96 @@
     "Bowser": {
       "codename": "Bowser",
       "locale": {
-        "ja": "クッパ",
-        "zh_CN": "酷霸王",
-        "zh_TW": "酷霸王",
-        "ko": "쿠파"
+        "ja": "\u30af\u30c3\u30d1",
+        "zh_CN": "\u9177\u9738\u738b",
+        "zh_TW": "\u9177\u9738\u738b",
+        "ko": "\ucfe0\ud30c",
+        "en_GB": "Bowser",
+        "en_AU": "Bowser",
+        "fr": "Bowser",
+        "fr_CA": "Bowser",
+        "es_ES": "Bowser",
+        "es_LA": "Bowser",
+        "de": "Bowser",
+        "it": "Bowser",
+        "nl": "Bowser",
+        "ru": "\u0411\u043e\u0443\u0437\u0435\u0440"
       }
     },
     "Donkey Kong": {
       "codename": "DonkeyKong",
       "locale": {
-        "ja": "ドンキーコング",
-        "zh_CN": "森喜刚",
-        "zh_TW": "森喜剛",
-        "ko": "동키콩"
+        "ja": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
+        "zh_CN": "\u68ee\u559c\u521a",
+        "zh_TW": "\u68ee\u559c\u525b",
+        "ko": "\ub3d9\ud0a4\ucf69",
+        "en_GB": "Donkey Kong",
+        "en_AU": "Donkey Kong",
+        "fr": "Donkey Kong",
+        "fr_CA": "Donkey Kong",
+        "es_ES": "Donkey Kong",
+        "es_LA": "Donkey Kong",
+        "de": "Donkey Kong",
+        "it": "Donkey Kong",
+        "nl": "Donkey Kong",
+        "ru": "\u0414\u043e\u043d\u043a\u0438 \u041a\u043e\u043d\u0433"
       }
     },
     "Luigi": {
       "codename": "Luigi",
       "locale": {
-        "ja": "ルイージ",
-        "zh_CN": "路易吉",
-        "zh_TW": "路易吉",
-        "ko": "루이지"
+        "ja": "\u30eb\u30a4\u30fc\u30b8",
+        "zh_CN": "\u8def\u6613\u5409",
+        "zh_TW": "\u8def\u6613\u5409",
+        "ko": "\ub8e8\uc774\uc9c0",
+        "en_GB": "Luigi",
+        "en_AU": "Luigi",
+        "fr": "Luigi",
+        "fr_CA": "Luigi",
+        "es_ES": "Luigi",
+        "es_LA": "Luigi",
+        "de": "Luigi",
+        "it": "Luigi",
+        "nl": "Luigi",
+        "ru": "\u041b\u0443\u0438\u0434\u0436\u0438"
       }
     },
     "Mario": {
       "codename": "Mario",
       "locale": {
-        "ja": "マリオ",
-        "zh_CN": "马力欧",
-        "zh_TW": "瑪利歐",
-        "ko": "마리오"
+        "ja": "\u30de\u30ea\u30aa",
+        "zh_CN": "\u9a6c\u529b\u6b27",
+        "zh_TW": "\u746a\u5229\u6b50",
+        "ko": "\ub9c8\ub9ac\uc624",
+        "en_GB": "Mario",
+        "en_AU": "Mario",
+        "fr": "Mario",
+        "fr_CA": "Mario",
+        "es_ES": "Mario",
+        "es_LA": "Mario",
+        "de": "Mario",
+        "it": "Mario",
+        "nl": "Mario",
+        "ru": "\u041c\u0430\u0440\u0438\u043e"
       }
     },
     "Peach": {
       "codename": "Peach",
       "locale": {
-        "ja": "ピーチ姫",
-        "zh_CN": "桃花公主",
-        "zh_TW": "碧琪公主",
-        "ko": "피치 공주"
+        "ja": "\u30d4\u30fc\u30c1\u59eb",
+        "zh_CN": "\u6843\u82b1\u516c\u4e3b",
+        "zh_TW": "\u78a7\u742a\u516c\u4e3b",
+        "ko": "\ud53c\uce58 \uacf5\uc8fc",
+        "en_GB": "Peach",
+        "en_AU": "Peach",
+        "fr": "Peach",
+        "fr_CA": "Peach",
+        "es_ES": "Peach",
+        "es_LA": "Peach",
+        "de": "Peach",
+        "it": "Peach",
+        "nl": "Peach",
+        "ru": "\u041f\u0438\u0447"
       }
     },
     "Rosalina": {
@@ -52,10 +102,10 @@
         "fr": "Harmonie",
         "fr_CA": "Rosalina",
         "it": "Rosalinda",
-        "ja": "ロゼッタ",
-        "zh_CN": "罗莎塔",
-        "zh_TW": "羅潔塔",
-        "ko": "로젤리나",
+        "ja": "\u30ed\u30bc\u30c3\u30bf",
+        "zh_CN": "\u7f57\u838e\u5854",
+        "zh_TW": "\u7f85\u6f54\u5854",
+        "ko": "\ub85c\uc824\ub9ac\ub098",
         "es_ES": "Estela",
         "es_LA": "Estela"
       }
@@ -63,46 +113,66 @@
     "Toad": {
       "codename": "Toad",
       "locale": {
-        "ja": "キノピオ",
-        "zh_CN": "奇诺比奥",
-        "zh_TW": "奇諾比奧",
-        "ko": "키노피오"
+        "ja": "\u30ad\u30ce\u30d4\u30aa",
+        "zh_CN": "\u5947\u8bfa\u6bd4\u5965",
+        "zh_TW": "\u5947\u8afe\u6bd4\u5967",
+        "ko": "\ud0a4\ub178\ud53c\uc624"
       }
     },
     "Waluigi": {
       "codename": "Waluigi",
       "locale": {
-        "ja": "ワルイージ",
-        "zh_CN": "瓦路易吉",
-        "zh_TW": "瓦路易吉",
-        "ko": "와루이지"
+        "ja": "\u30ef\u30eb\u30a4\u30fc\u30b8",
+        "zh_CN": "\u74e6\u8def\u6613\u5409",
+        "zh_TW": "\u74e6\u8def\u6613\u5409",
+        "ko": "\uc640\ub8e8\uc774\uc9c0"
       }
     },
     "Wario": {
       "codename": "Wario",
       "locale": {
-        "ja": "ワリオ",
-        "zh_CN": "瓦力欧",
-        "zh_TW": "瓦利歐",
-        "ko": "와리오"
+        "ja": "\u30ef\u30ea\u30aa",
+        "zh_CN": "\u74e6\u529b\u6b27",
+        "zh_TW": "\u74e6\u5229\u6b50",
+        "ko": "\uc640\ub9ac\uc624",
+        "en_GB": "Wario",
+        "en_AU": "Wario",
+        "fr": "Wario",
+        "fr_CA": "Wario",
+        "es_ES": "Wario",
+        "es_LA": "Wario",
+        "de": "Wario",
+        "it": "Wario",
+        "nl": "Wario",
+        "ru": "\u0412\u0430\u0440\u0438\u043e"
       }
     },
     "Yoshi": {
       "codename": "Yoshi",
       "locale": {
-        "ja": "ヨッシー",
-        "zh_CN": "耀西",
-        "zh_TW": "耀西",
-        "ko": "요시"
+        "ja": "\u30e8\u30c3\u30b7\u30fc",
+        "zh_CN": "\u8000\u897f",
+        "zh_TW": "\u8000\u897f",
+        "ko": "\uc694\uc2dc",
+        "en_GB": "Yoshi",
+        "en_AU": "Yoshi",
+        "fr": "Yoshi",
+        "fr_CA": "Yoshi",
+        "es_ES": "Yoshi",
+        "es_LA": "Yoshi",
+        "de": "Yoshi",
+        "it": "Yoshi",
+        "nl": "Yoshi",
+        "ru": "\u0419\u043e\u0448\u0438"
       }
     },
     "Boom Boom": {
       "codename": "BoomBoom",
       "locale": {
-        "ja": "ブンブン",
-        "zh_CN": "奔奔",
-        "zh_TW": "奔奔",
-        "ko": "부웅부웅",
+        "ja": "\u30d6\u30f3\u30d6\u30f3",
+        "zh_CN": "\u5954\u5954",
+        "zh_TW": "\u5954\u5954",
+        "ko": "\ubd80\uc6c5\ubd80\uc6c5",
         "fr": "Boum Boum",
         "de": "Bumm Bumm",
         "it": "Boom-Boom",
@@ -121,16 +191,16 @@
   "version": "1.04",
   "locale": {
     "ja": {
-      "name": "マリオストライカーズ: バトルリーグ"
+      "name": "\u30de\u30ea\u30aa\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\u30ba: \u30d0\u30c8\u30eb\u30ea\u30fc\u30b0"
     },
     "zh_CN": {
-      "name": "马力欧激战前锋 战斗联赛"
+      "name": "\u9a6c\u529b\u6b27\u6fc0\u6218\u524d\u950b \u6218\u6597\u8054\u8d5b"
     },
     "zh_TW": {
-      "name": "瑪利歐激戰前鋒 戰鬥聯賽"
+      "name": "\u746a\u5229\u6b50\u6fc0\u6230\u524d\u92d2 \u6230\u9b25\u806f\u8cfd"
     },
     "ko": {
-      "name": "마리오 스트라이커즈 배틀 리그"
+      "name": "\ub9c8\ub9ac\uc624 \uc2a4\ud2b8\ub77c\uc774\ucee4\uc988 \ubc30\ud2c0 \ub9ac\uadf8"
     },
     "fr": {
       "name": "Mario Strikers: Battle League Football"

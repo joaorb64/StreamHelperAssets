@@ -1,0 +1,110 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Alien": {
+      "codename": "Alien"
+    },
+    "Bo' Rai Cho": {
+      "codename": "BoRaiCho"
+    },
+    "Cassie Cage": {
+      "codename": "CassieCage"
+    },
+    "D'Vorah": {
+      "codename": "DVorah"
+    },
+    "Ermac": {
+      "codename": "Ermac"
+    },
+    "Erron Black": {
+      "codename": "ErronBlack"
+    },
+    "Ferra/Torr": {
+      "codename": "FerraTorr"
+    },
+    "Goro": {
+      "codename": "Goro"
+    },
+    "Jacqui Briggs": {
+      "codename": "JacquiBriggs"
+    },
+    "Jason Voorhees": {
+      "codename": "JasonVoorhees"
+    },
+    "Jackson \"Jax\" Briggs": {
+      "codename": "Jax"
+    },
+    "Johnny Cage": {
+      "codename": "JohnnyCage"
+    },
+    "Kano": {
+      "codename": "Kano"
+    },
+    "Kenshi Takahashi": {
+      "codename": "Kenshi"
+    },
+    "Kitana": {
+      "codename": "Kitana"
+    },
+    "Kotal Kahn": {
+      "codename": "KotalKahn"
+    },
+    "Kung Jin": {
+      "codename": "KungJin"
+    },
+    "Kung Lao": {
+      "codename": "KungLao"
+    },
+    "Leatherface": {
+      "codename": "Leatherface"
+    },
+    "Liu Kang": {
+      "codename": "LiuKang"
+    },
+    "Mileena": {
+      "codename": "Mileena"
+    },
+    "Predator": {
+      "codename": "Predator"
+    },
+    "Quan Chi": {
+      "codename": "QuanChi"
+    },
+    "Raiden": {
+      "codename": "Raiden"
+    },
+    "Reptile": {
+      "codename": "Reptile"
+    },
+    "Scorpion": {
+      "codename": "Scorpion"
+    },
+    "Shinnok": {
+      "codename": "Shinnok"
+    },
+    "Sonya Blade": {
+      "codename": "SonyaBlade"
+    },
+    "Sub-Zero": {
+      "codename": "SubZero"
+    },
+    "Takeda": {
+      "codename": "Takeda"
+    },
+    "Tanya": {
+      "codename": "Tanya"
+    },
+    "Tremor": {
+      "codename": "Tremor"
+    },
+    "Triborg": {
+      "codename": "Triborg"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Mortal Kombat XL",
+  "smashgg_game_id": 23,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

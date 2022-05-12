@@ -46,7 +46,12 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.02",
   "description": "Base config to use this game.",
-  "credits": "@MathiasWolfbrok for cropping"
+  "credits": "@MathiasWolfbrok for cropping",
+  "locale": {
+    "ja": {
+      "name": "餓狼マークオブザウルブズ"
+    }
+  }
 }

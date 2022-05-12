@@ -149,8 +149,13 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.21",
+  "version": "1.22",
   "description": "Base config to use this game.",
   "credits": "",
-  "ratio_game": true
+  "ratio_game": true,
+  "locale": {
+    "ja": {
+      "name": "Capcom vs. SNK 2: Millionaire Fighting 2001"
+    }
+  }
 }

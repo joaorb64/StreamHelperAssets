@@ -183,13 +183,16 @@
       "smashgg_name": "Zeku",
       "codename": "zeku"
     },
-    "Random Character": {
+    "Random": {
       "smashgg_name": "Random Character",
-      "codename": "random"
+      "codename": "random",
+      "locale": {
+        "fr": "Al\u00e9atoire"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "0.93",
+  "version": "0.94",
   "description": "Base config to use this game.",
   "locale": {"ja": {"name": "ストリートファイターV"}}
 }

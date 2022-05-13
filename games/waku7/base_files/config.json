@@ -1,0 +1,43 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Arina": {
+      "codename": "Arina"
+    },
+    "Bonus Kun": {
+      "codename": "BonusKun"
+    },
+    "DandyJ": {
+      "codename": "DandyJ"
+    },
+    "Fernandez": {
+      "codename": "Fernandez"
+    },
+    "Mauru": {
+      "codename": "Mauru"
+    },
+    "PolitankZ": {
+      "codename": "PolitankZ"
+    },
+    "Rai": {
+      "codename": "Rai"
+    },
+    "Slash": {
+      "codename": "Slash"
+    },
+    "Tesse": {
+      "codename": "Tesse"
+    }
+  },
+  "credits": "Assets ripped from Supercombo.gg (https://wiki.supercombo.gg/w/Waku_Waku_7)",
+  "description": "Base config to use this game.",
+  "name": "Waku Waku 7",
+  "smashgg_game_id": 14887,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "わくわく7"
+    }
+  }
+}

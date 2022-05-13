@@ -3,6 +3,12 @@
   "smashgg_game_id": 39281,
   "challonge_game_id": 248436,
   "character_to_codename": {
+    "Random": {
+      "codename": "random",
+      "locale": {
+        "fr": "Al\u00e9atoire"
+      }
+    },
     "SpongeBob SquarePants": {
       "smashgg_name": "SpongeBob",
       "codename": "apple",
@@ -114,6 +120,13 @@
     "Shredder": {
       "smashgg_name": "Shredder",
       "codename": "cheese"
+    },
+    "Jenny \"XJ-9\" Wakeman": {
+      "smashgg_name": "Jenny",
+      "codename": "neo",
+      "locale": {
+        "fr": "Jenny « XJ-9 » Wakeman"
+      }
     }
   },
   "stage_to_codename": {
@@ -248,9 +261,12 @@
     },
     "Slime Time": {
       "codename": "LifeShow"
+    },
+    "Tremorton Joyride": {
+      "codename": "neo_transformer"
     }
   },
-  "version": "1.52",
+  "version": "1.6",
   "description": "Base config to use this game.",
   "credits": ""
 }

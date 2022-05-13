@@ -65,7 +65,14 @@
     },
     "Waluigi": {
       "smashgg_name": "Waluigi",
-      "codename": "Waluigi"
+      "codename": "Waluigi",
+      "locale": {
+        "ja": "\u30ef\u30eb\u30a4\u30fc\u30b8",
+        "zh_CN": "\u74e6\u8def\u6613\u5409",
+        "zh_TW": "\u74e6\u8def\u6613\u5409",
+        "ko": "\uc640\ub8e8\uc774\uc9c0",
+        "ru": "\u0412\u0430\u043b\u0443\u0438\u0434\u0436\u0438"
+      }
     },
     "Peach": {
       "smashgg_name": "Peach",
@@ -109,15 +116,41 @@
     },
     "Rosalina": {
       "smashgg_name": "Rosalina",
-      "codename": "Rosalina"
+      "codename": "Rosalina",
+      "locale": {
+        "fr": "Harmonie",
+        "fr_CA": "Rosalina",
+        "it": "Rosalinda",
+        "ja": "\u30ed\u30bc\u30c3\u30bf",
+        "zh_CN": "\u7f57\u838e\u5854",
+        "zh_TW": "\u7f85\u6f54\u5854",
+        "ko": "\ub85c\uc824\ub9ac\ub098",
+        "es_ES": "Estela",
+        "es_LA": "Rosalina",
+        "ru": "\u0420\u043e\u0437\u0430\u043b\u0438\u043d\u0430"
+      }
     },
     "Toad": {
       "smashgg_name": "Toad",
-      "codename": "Toad"
+      "codename": "Toad",
+      "locale": {
+        "ja": "\u30ad\u30ce\u30d4\u30aa",
+        "zh_CN": "\u5947\u8bfa\u6bd4\u5965",
+        "zh_TW": "\u5947\u8afe\u6bd4\u5967",
+        "ko": "\ud0a4\ub178\ud53c\uc624",
+        "ru": "\u0422\u043e\u0430\u0434"
+      }
     },
     "Toadette": {
       "smashgg_name": "Toadette",
-      "codename": "Toadette"
+      "codename": "Toadette",
+      "locale": {
+        "ja": "\u30ad\u30ce\u30d4\u30b3",
+        "zh_CN": "\u5947\u8bfa\u6bd4\u73c2",
+        "zh_TW": "\u5947\u8afe\u6bd4\u73c2",
+        "ko": "\ud0a4\ub178\ud53c\ucf54",
+        "ru": "\u0422\u043e\u0430\u0434\u0435\u0442\u0442\u0430"
+      }
     },
     "Yoshi": {
       "smashgg_name": "Yoshi",
@@ -181,11 +214,34 @@
     },
     "Boo": {
       "smashgg_name": "Boo",
-      "codename": "Boo"
+      "codename": "Boo",
+      "locale": {
+        "ja": "\u30c6\u30ec\u30b5",
+        "zh_CN": "\u5bb3\u7f9e\u5e7d\u7075",
+        "zh_TW": "\u5bb3\u7f9e\u5e7d\u9748",
+        "ko": "\ubd80\ub044\ubd80\ub044",
+        "fr": "Boo",
+        "de": "Buu Huu",
+        "it": "Boo",
+        "es_ES": "Boo",
+        "es_LA": "Boo",
+        "pt_PT": "Bu",
+        "ru": "\u0411\u0443"
+      }
     },
     "Spike": {
       "smashgg_name": "Spike",
-      "codename": "Spike"
+      "codename": "Spike",
+      "locale": {
+        "ja": "\u30ac\u30dc\u30f3",
+        "zh_CN": "\u52a0\u90a6",
+        "zh_TW": "\u52a0\u90a6",
+        "ko": "\uac00\ubd09",
+        "it": "Spunzo",
+        "pt_PT": "Espig\u00e3o",
+        "es_LA": "Escupicos",
+        "ru": "\u0421\u043f\u0430\u0439\u043a"
+      }
     },
     "Donkey Kong": {
       "smashgg_name": "Donkey Kong",
@@ -209,15 +265,49 @@
     },
     "Chain Chomp": {
       "smashgg_name": "Chain Chomp",
-      "codename": "ChainChomp"
+      "codename": "ChainChomp",
+      "locale": {
+        "ja": "\u30ef\u30f3\u30ef\u30f3",
+        "zh_CN": "\u6c6a\u6c6a",
+        "zh_TW": "\u6c6a\u6c6a",
+        "ko": "\uba4d\uba4d\uc774",
+        "fr": "Chomp",
+        "fr_CA": "Boulouf",
+        "de": "Kettenhund",
+        "it": "Categnaccio",
+        "es_ES": "Chomp Cadenas",
+        "es_LA": "Chomp cadenas",
+        "pt_PT": "Corrente Dentada",
+        "pt_BR": "Chomp Chomp",
+        "ru": "\u041a\u0443\u0441\u0430\u043b\u043a\u0438\u043d \u043d\u0430 \u0446\u0435\u043f\u0438"
+      }
     },
     "Koopa Troopa": {
       "smashgg_name": "Koopa Troopa",
-      "codename": "KoopaTroopa"
+      "codename": "KoopaTroopa",
+      "locale": {
+        "ja": "\u30ce\u30b3\u30ce\u30b3",
+        "zh_CN": "\u6162\u6162\u9f9f",
+        "zh_TW": "\u6162\u6162\u9f9c",
+        "ko": "\uc5c9\uae08\uc5c9\uae08",
+        "fr": "Koopa",
+        "de": "Koopa",
+        "it": "Koopa",
+        "ru": "\u041a\u0443\u043f\u0430-\u0442\u0440\u0443\u043f\u0430"
+      }
     },
     "Blooper": {
       "smashgg_name": "Blooper",
-      "codename": "Blooper"
+      "codename": "Blooper",
+      "locale": {
+        "ja": "\u30b2\u30c3\u30bd\u30fc",
+        "zh_CN": "\u9c7f\u9c7f",
+        "zh_TW": "\u9b77\u9b77",
+        "ko": "\uc9d5\uc624\uc9d5\uc624",
+        "fr": "Bloups",
+        "it": "Calamako",
+        "ru": "\u0411\u043b\u0443\u043f\u0435\u0440"
+      }
     },
     "Diddy Kong": {
       "smashgg_name": "Diddy Kong",
@@ -241,56 +331,177 @@
     },
     "Birdo": {
       "smashgg_name": "Birdo",
-      "codename": "Birdo"
+      "codename": "Birdo",
+      "locale": {
+        "ja": "\u30ad\u30e3\u30b5\u30ea\u30f3",
+        "zh_CN": "\u51ef\u745f\u7433",
+        "zh_TW": "\u51f1\u745f\u7433",
+        "ko": "\uce90\uc11c\ub9b0",
+        "it": "Strutzi",
+        "ru": "\u0411\u0438\u0440\u0434\u043e"
+      }
     },
     "Koopa Paratroopa": {
       "smashgg_name": "Koopa Paratroopa",
-      "codename": "KoopaParatroopa"
+      "codename": "KoopaParatroopa",
+      "locale": {
+        "ja": "\u30d1\u30bf\u30d1\u30bf",
+        "zh_CN": "\u98de\u884c\u9f9f",
+        "zh_TW": "\u98db\u884c\u9f9c",
+        "ko": "\ud384\ub7ed\ud384\ub7ed",
+        "fr": "Paratroopa",
+        "de": "Paratroopa",
+        "it": "Paratroopa",
+        "ru": "\u041b\u0435\u0442\u0443\u0447\u0438\u0439 \u043a\u0443\u043f\u0430"
+      }
     },
     "Shy Guy": {
       "smashgg_name": "Shy Guy",
-      "codename": "ShyGuy"
+      "codename": "ShyGuy",
+      "locale": {
+        "ja": "\u30d8\u30a4\u30db\u30fc",
+        "zh_CN": "\u563f\u5475",
+        "zh_TW": "\u563f\u5475",
+        "ko": "\ud5e4\uc774\ud638",
+        "fr": "Maskass",
+        "fr_CA": "Maskache",
+        "it": "Tipo Timido",
+        "pt_PT": "Masquito",
+        "ru": "\u0421\u043a\u0440\u043e\u043c\u043d\u044f\u0433\u0430"
+      }
     },
     "Petey Piranha": {
       "smashgg_name": "Petey Piranha",
-      "codename": "PeteyPiranha"
+      "codename": "PeteyPiranha",
+      "locale": {
+        "fr": "Flora Piranha",
+        "de": "Mutant-Tyranha",
+        "it": "Pipino Piranha",
+        "es_ES": "Floro Pira\u00f1a",
+        "es_LA": "Pepito pira\u00f1a",
+        "ja": "\u30dc\u30b9\u30d1\u30c3\u30af\u30f3",
+        "ko": "\ubed0\ub054\uc655",
+        "zh_CN": "\u541e\u98df\u82b1\u8001\u5927",
+        "zh_TW": "\u541e\u98df\u82b1\u8001\u5927",
+        "fr_CA": "Petey Piranha"
+      }
     },
     "Boom Boom": {
       "smashgg_name": "Boom Boom",
-      "codename": "BoomBoom"
+      "codename": "BoomBoom",
+      "locale": {
+        "ja": "\u30d6\u30f3\u30d6\u30f3",
+        "zh_CN": "\u5954\u5954",
+        "zh_TW": "\u5954\u5954",
+        "ko": "\ubd80\uc6c5\ubd80\uc6c5",
+        "fr": "Boum Boum",
+        "de": "Bumm Bumm",
+        "it": "Boom-Boom",
+        "es_ES": "Bum Bum",
+        "es_LA": "Bum bum",
+        "pt_BR": "Dom Dom",
+        "pt_PT": "Bum Bum",
+        "ru": "\u0411\u0443\u043c-\u0431\u0443\u043c"
+      }
     },
     "Luma": {
       "smashgg_name": "Luma",
-      "codename": "Luma"
+      "codename": "Luma",
+      "locale": {
+        "ja": "\u30c1\u30b3",
+        "zh_CN": "\u742a\u742a",
+        "zh_TW": "\u5947\u53ef",
+        "ko": "\uce58\ucf54",
+        "it": "Sfavillotto",
+        "es_ES": "Destello",
+        "es_LA": "Destello",
+        "ru": "\u041b\u044e\u043c\u0430"
+      }
     },
     "Pauline": {
       "smashgg_name": "Pauline",
-      "codename": "Pauline"
+      "codename": "Pauline",
+      "locale": {
+        "ja": "\u30dd\u30ea\u30fc\u30f3",
+        "zh_CN": "\u5b9d\u7433",
+        "zh_TW": "\u6ce2\u7433",
+        "ko": "\ud3f4\ub9b0",
+        "ru": "\u041f\u043e\u043b\u0438\u043d\u0430"
+      }
     },
     "Kamek": {
       "smashgg_name": "Kamek",
-      "codename": "Kamek"
+      "codename": "Kamek",
+      "locale": {
+        "ja": "\u30ab\u30e1\u30c3\u30af",
+        "zh_CN": "\u5361\u7f8e\u514b",
+        "zh_TW": "\u5361\u7f8e\u514b",
+        "ko": "\ub9c8\uadc0",
+        "ru": "\u041a\u0430\u043c\u0435\u043a"
+      }
     },
     "Dry Bones": {
       "smashgg_name": "Dry Bones",
-      "codename": "DryBones"
+      "codename": "DryBones",
+      "locale": {
+        "ja": "\u30ab\u30ed\u30f3",
+        "zh_CN": "\u788e\u788e\u9f9f",
+        "zh_TW": "\u788e\u788e\u9f9c",
+        "ko": "\uc640\ub974\ub974",
+        "fr": "Skelerex",
+        "fr_CA": "Skelex",
+        "de": "Knochentrocken",
+        "it": "Tartosso",
+        "es_ES": "Huesitos",
+        "es_LA": "Huesitos",
+        "pt_PT": "Quebra-ossos",
+        "ru": "\u041a\u0443\u043f\u0430-\u0441\u043a\u0435\u043b\u0435\u0442",
+        "pt_BR": "Caveirinha"
+      }
     },
     "Fire Piranha Plant": {
       "smashgg_name": "Fire Piranha Plant",
-      "codename": "FirePiranhaPlant"
+      "codename": "FirePiranhaPlant",
+      "locale": {
+        "ja": "\u30d5\u30a1\u30a4\u30a2\u30d1\u30c3\u30af\u30f3",
+        "zh_CN": "\u706b\u7130\u541e\u98df\u82b1",
+        "zh_TW": "\u706b\u7130\u541e\u98df\u82b1",
+        "ko": "\ud30c\uc774\uc5b4\ubed0\ub054\ud50c\ub77c\uc6cc",
+        "fr": "Pyro Piranha",
+        "de": "Feuer-Piranha-Pflanze",
+        "it": "Pianta Piranha fal\u00f2",
+        "pt_PT": "Planta Piranha Pir\u00f3mana",
+        "es_ES": "Pira\u00f1a Pir\u00f3mana",
+        "es_LA": "Pira\u00f1a pir\u00f3mana",
+        "ru": "\u043e\u0433\u043d\u0435\u043d\u043d\u043e\u0435 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0435-\u043f\u0438\u0440\u0430\u043d\u044c\u044f"
+      }
     },
     "Dry Bowser": {
       "smashgg_name": "Dry Bowser",
-      "codename": "DryBowser"
+      "codename": "DryBowser",
+      "locale": {
+        "ja": "\u9aa8\u30af\u30c3\u30d1",
+        "zh_CN": "\u67af\u9aa8\u9177\u9738\u738b",
+        "zh_TW": "\u67af\u9aa8\u5eab\u5df4",
+        "ko": "\uc880\ube44\ucfe0\ud30c",
+        "fr": "Bowser Skelet",
+        "de": "Knochen-Bowser",
+        "it": "Skelobowser",
+        "es_ES": "Bowsitos",
+        "es_LA": "Bowsitos",
+        "pt_PT": "Bowser Esqueleto",
+        "ru": "\u0411\u043e\u0443\u0437\u0435\u0440-\u0441\u043a\u0435\u043b\u0435\u0442",
+        "pt_BR": "Bowsosso"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.03",
+  "version": "1.04",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
     "ja": {
-      "name": "マリオテニス エース"
+      "name": "\u30de\u30ea\u30aa\u30c6\u30cb\u30b9 \u30a8\u30fc\u30b9"
     }
   }
 }

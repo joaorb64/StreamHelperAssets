@@ -5,15 +5,24 @@
   "character_to_codename": {
     "SpongeBob SquarePants": {
       "smashgg_name": "SpongeBob",
-      "codename": "apple"
+      "codename": "apple",
+      "locale": {
+        "fr": "Bob l'Éponge"
+      }
     },
     "Patrick Star": {
       "smashgg_name": "Patrick",
-      "codename": "star"
+      "codename": "star",
+      "locale": {
+        "fr": "Patrick Étoile de mer"
+      }
     },
     "Sandy Cheeks": {
       "smashgg_name": "Sandy",
-      "codename": "diver"
+      "codename": "diver",
+      "locale": {
+        "fr": "Sandy Écureuil"
+      }
     },
     "Aang": {
       "smashgg_name": "Aang",
@@ -53,7 +62,10 @@
     },
     "Powdered Toast Man": {
       "smashgg_name": "Powdered Toast Man",
-      "codename": "hero"
+      "codename": "hero",
+      "locale": {
+        "fr": "Supertoast"
+      }
     },
     "Reptar": {
       "smashgg_name": "Reptar",
@@ -65,7 +77,10 @@
     },
     "Danny Phantom": {
       "smashgg_name": "Danny Phantom",
-      "codename": "plasma"
+      "codename": "plasma",
+      "locale": {
+        "fr": "Danny Fantôme"
+      }
     },
     "Helga Pataki": {
       "smashgg_name": "Helga",
@@ -73,15 +88,24 @@
     },
     "Nigel Thornberry": {
       "smashgg_name": "Nigel",
-      "codename": "narrator"
+      "codename": "narrator",
+      "locale": {
+        "fr": "Nigel Delajungle"
+      }
     },
     "Oblina": {
       "smashgg_name": "Oblina",
-      "codename": "snake"
+      "codename": "snake",
+      "locale": {
+        "fr": "Obline"
+      }
     },
     "CatDog": {
       "smashgg_name": "CatDog",
-      "codename": "chimera"
+      "codename": "chimera",
+      "locale": {
+        "fr": "Michat-Michien"
+      }
     },
     "Garfield": {
       "smashgg_name": "Garfield",
@@ -94,79 +118,139 @@
   },
   "stage_to_codename": {
     "Western Air Temple": {
-      "codename": "AirTemple"
+      "codename": "AirTemple",
+      "locale": {
+        "fr": "Temple de l'air de l'Ouest"
+      }
     },
     "Irken Armada Invasion": {
       "smashgg_id": 512,
-      "codename": "Armada"
+      "codename": "Armada",
+      "locale": {
+        "fr": "Invasion de l'armada irken"
+      }
     },
     "CatDog\u2019s House": {
-      "codename": "CatDogHouse"
+      "codename": "CatDogHouse",
+      "locale": {
+        "fr": "Maison de Michat-Michien"
+      }
     },
     "Royal Woods Cemetery": {
-      "codename": "Cemetery"
+      "codename": "Cemetery",
+      "locale": {
+        "fr": "Cimetière de Royal Woods"
+      }
     },
     "The Dump": {
-      "codename": "Dumpster"
+      "codename": "Dumpster",
+      "locale": {
+        "fr": "La décharge"
+      }
     },
     "The Flying Dutchman\u2019s Ship": {
-      "codename": "FlyingDutchman"
+      "codename": "FlyingDutchman",
+      "locale": {
+        "fr": "Le vaisseau du Hollandais volant"
+      }
     },
     "Ghost Zone": {
-      "codename": "GhostZone"
+      "codename": "GhostZone",
+      "locale": {
+        "fr": "Zone fantomatique"
+      }
     },
     "Glove World": {
-      "codename": "GloveWorld"
+      "codename": "GloveWorld",
+      "locale": {
+        "fr": "Monde du gant"
+      }
     },
     "Jellyfish Fields": {
       "smashgg_id": 509,
-      "codename": "JellyFishFields"
+      "codename": "JellyFishFields",
+      "locale": {
+        "fr": "Champs de méduses"
+      }
     },
     "Powdered Toast Trouble": {
-      "codename": "Kitchen"
+      "codename": "Kitchen",
+      "locale": {
+        "fr": "Biscotte en poudre à problèmes"
+      }
     },
     "The Loud House": {
-      "codename": "LoudHouse"
+      "codename": "LoudHouse",
+      "locale": {
+        "fr": "La maison Loud"
+      }
     },
     "Omashu": {
       "codename": "Omashu"
     },
     "Showdown at Teeter Totter Gulch": {
-      "codename": "Playground"
+      "codename": "Playground",
+      "locale": {
+        "fr": "Duel au canyon du tape-cul"
+      }
     },
     "Harmonic Convergence": {
       "smashgg_id": 510,
-      "codename": "Portals"
+      "codename": "Portals",
+      "locale": {
+        "fr": "Convergence harmonique"
+      }
     },
     "Rooftop Rumble": {
       "smashgg_id": 511,
-      "codename": "Rooftop"
+      "codename": "Rooftop",
+      "locale": {
+        "fr": "Du rififi sur les toits"
+      }
     },
     "Traffic Jam": {
-      "codename": "SchoolBus"
+      "codename": "SchoolBus",
+      "locale": {
+        "fr": "Embouteillage"
+      }
     },
     "Sewers Slam": {
       "smashgg_id": 519,
-      "codename": "Sewers"
+      "codename": "Sewers",
+      "locale": {
+        "fr": "Baroud dans les égouts"
+      }
     },
     "Space Madness": {
-      "codename": "SpaceMadness"
+      "codename": "SpaceMadness",
+      "locale": {
+        "fr": "Folie de l'espace"
+      }
     },
     "Technodrome Takedown": {
-      "codename": "Technodome"
+      "codename": "Technodome",
+      "locale": {
+        "fr": "Chicane au technodrome"
+      }
     },
     "Wild Waterfall": {
-      "codename": "WildJungle"
+      "codename": "WildJungle",
+      "locale": {
+        "fr": "Cascade sauvage"
+      }
     },
     "Sweet Dreams": {
       "smashgg_id": 518,
-      "codename": "FoodDream"
+      "codename": "FoodDream",
+      "locale": {
+        "fr": "Doux rêves"
+      }
     },
     "Slime Time": {
       "codename": "LifeShow"
     }
   },
-  "version": "1.51",
+  "version": "1.52",
   "description": "Base config to use this game.",
   "credits": ""
 }

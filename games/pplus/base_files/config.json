@@ -466,21 +466,36 @@
       "smashgg_name": "Squirtle",
       "codename": "29",
       "locale": {
-        "fr": "Carapuce"
+        "fr": "Carapuce",
+        "ja": "ゼニガメ",
+        "de": "Schiggy",
+        "ko": "꼬부기",
+        "zh_CN": "杰尼龟",
+        "zh_TW": "傑尼龜"
       }
     },
     "Ivysaur": {
       "smashgg_name": "Ivysaur",
       "codename": "30",
       "locale": {
-        "fr": "Herbizarre"
+        "fr": "Herbizarre",
+        "ja": "フシギソウ",
+        "de": "Bisaknosp",
+        "ko": "이상해풀",
+        "zh_CN": "妙蛙草",
+        "zh_TW": "妙蛙草"
       }
     },
     "Charizard": {
       "smashgg_name": "Charizard",
       "codename": "28",
       "locale": {
-        "fr": "Dracaufeu"
+        "fr": "Dracaufeu",
+        "ja": "リザードン",
+        "de": "Glurak",
+        "ko": "리자몽",
+        "zh_CN": "喷火龙",
+        "zh_TW": "噴火龍"
       }
     },
     "Lucario": {
@@ -785,7 +800,14 @@
     },
     "Knuckles": {
       "smashgg_name": "Knuckles",
-      "codename": "42"
+      "codename": "42",
+      "locale": {
+        "ja": "ナックルズ",
+        "zh_CN": "纳克鲁斯",
+        "zh_TW": "納克魯斯",
+        "ko": "너클즈",
+        "ru": "Наклз"
+      }
     },
     "Random Character": {
       "smashgg_name": "Random Character",
@@ -795,10 +817,23 @@
       }
     },
     "Giga Bowser": {
-      "codename": "44"
+      "codename": "44",
+      "locale": {
+        "ja": "ギガクッパ",
+        "zh_CN": "巨兽酷霸王",
+        "zh_TW": "巨獸庫巴",
+        "ru": "Гига-Боузер"
+      }
     },
     "Wario-Man": {
-      "codename": "180"
+      "codename": "180",
+      "locale": {
+        "ja": "ワリオマン",
+        "zh_CN": "瓦力欧超人",
+        "zh_TW": "瓦利歐超人",
+        "ru": "Вариомен",
+        "ko": "와리오맨"
+      }
     }
   },
   "stage_to_codename": {},

@@ -481,7 +481,12 @@
       "smashgg_name": "Charizard",
       "codename": "Charizard",
       "locale": {
-        "fr": "Dracaufeu"
+        "fr": "Dracaufeu",
+        "ja": "リザードン",
+        "de": "Glurak",
+        "ko": "리자몽",
+        "zh_CN": "喷火龙",
+        "zh_TW": "噴火龍"
       }
     },
     "Lucario": {
@@ -1115,21 +1120,52 @@
       "smashgg_name": "Mii Gunner",
       "codename": "MiiGunner",
       "locale": {
-        "fr": "Tireur Mii"
+        "fr": "Tireuse Mii",
+        "es_ES": "Tiradora Mii",
+        "es_LA": "Tiradora Mii",
+        "de": "Mii-Schützin",
+        "it": "Fuciliere Mii",
+        "nl": "Mii-Cyborg",
+        "ru": "Mii-Стрелок",
+        "ko": "Mii 사격",
+        "zh_TW": "Mii射擊類型",
+        "zh_CN": "Mii射击类型",
+        "ja": "Mii 射撃タイプ"
       }
     },
     "Mii Swordfighter": {
       "smashgg_name": "Mii Swordfighter",
       "codename": "MiiSwordfighter",
       "locale": {
-        "fr": "\u00c9p\u00e9iste Mii"
+        "fr": "\u00c9p\u00e9iste Mii",
+        "es_ES": "Espadachín Mii",
+        "es_LA": "Espadachín Mii",
+        "de": "Mii-Schwertkämpfer",
+        "it": "Spadaccino Mii",
+        "nl": "Mii-Zwaardvechter",
+        "ru": "Mii-Мечник",
+        "ko": "Mii 검술",
+        "zh_TW": "Mii劍術類型",
+        "zh_CN": "Mii剑术类型",
+        "ja": "Mii 剣術タイプ"
       }
     },
     "Mii Brawler": {
       "smashgg_name": "Mii Brawler",
       "codename": "MiiBrawler",
       "locale": {
-        "fr": "Boxeur Mii"
+        "fr": "Boxeur Mii",
+        "fr_CA": "Bagarreur Mii",
+        "es_ES": "Karateka Mii",
+        "es_LA": "Peleador Mii",
+        "de": "Mii-Boxer",
+        "it": "Lottatore Mii",
+        "nl": "Mii-Bokser",
+        "ru": "Mii-Драчун",
+        "ko": "Mii 격투",
+        "zh_TW": "Mii格鬥類型",
+        "zh_CN": "Mii格斗类型",
+        "ja": "Mii 格闘タイプ"
       }
     }
   },

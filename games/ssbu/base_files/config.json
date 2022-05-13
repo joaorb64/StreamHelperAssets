@@ -1723,1901 +1723,1901 @@
   },
   "stage_to_codename": {
     "3D Land": {
-        "smashgg_id": "307",
-        "codename": "Mario_3DLand"
+      "smashgg_id": "307",
+      "codename": "Mario_3DLand"
     },
     "75m": {
-        "smashgg_id": "308",
-        "codename": "75m",
-        "locale": {
-            "fr": "75 m",
-            "en_GB": "75 m",
-            "fr_CA": "75 m",
-            "es": "75 m",
-            "es_LA": "75 m",
-            "de": "Donkey Kong Classic",
-            "it": "75 m",
-            "nl": "75 m",
-            "ru": "75 \u043c",
-            "ja": "75m",
-            "zh_CN": "75m",
-            "zh_TW": "75m",
-            "ko": "75m"
-        }
+      "smashgg_id": "308",
+      "codename": "75m",
+      "locale": {
+        "fr": "75 m",
+        "en_GB": "75 m",
+        "fr_CA": "75 m",
+        "es": "75 m",
+        "es_LA": "75 m",
+        "de": "Donkey Kong Classic",
+        "it": "75 m",
+        "nl": "75 m",
+        "ru": "75 \u043c",
+        "ja": "75m",
+        "zh_CN": "75m",
+        "zh_TW": "75m",
+        "ko": "75m"
+      }
     },
     "Arena Ferox": {
-        "smashgg_id": "309",
-        "codename": "FE_Arena",
-        "locale": {
-            "fr": "Ar\u00e8ne de Ferox",
-            "en_GB": "Arena Ferox",
-            "fr_CA": "Ar\u00e8ne de Ferox",
-            "es": "Coliseo de Regna Ferox",
-            "es_LA": "Coliseo de Regna Ferox",
-            "de": "Feroxer Arena",
-            "it": "Arena Ferox",
-            "nl": "Ferox-Arena",
-            "ru": "\u0410\u0440\u0435\u043d\u0430 \u0424\u0435\u0440\u043e\u043a\u0441",
-            "ja": "\u30d5\u30a7\u30ea\u30a2\u95d8\u6280\u5834",
-            "zh_CN": "\u83f2\u5229\u4e9a\u6597\u6280\u573a",
-            "zh_TW": "\u83f2\u5229\u4e9e\u9b25\u6280\u5834",
-            "ko": "\ud398\ub85d\uc2a4 \ud22c\uae30\uc7a5"
-        }
+      "smashgg_id": "309",
+      "codename": "FE_Arena",
+      "locale": {
+        "fr": "Ar\u00e8ne de Ferox",
+        "en_GB": "Arena Ferox",
+        "fr_CA": "Ar\u00e8ne de Ferox",
+        "es": "Coliseo de Regna Ferox",
+        "es_LA": "Coliseo de Regna Ferox",
+        "de": "Feroxer Arena",
+        "it": "Arena Ferox",
+        "nl": "Ferox-Arena",
+        "ru": "\u0410\u0440\u0435\u043d\u0430 \u0424\u0435\u0440\u043e\u043a\u0441",
+        "ja": "\u30d5\u30a7\u30ea\u30a2\u95d8\u6280\u5834",
+        "zh_CN": "\u83f2\u5229\u4e9a\u6597\u6280\u573a",
+        "zh_TW": "\u83f2\u5229\u4e9e\u9b25\u6280\u5834",
+        "ko": "\ud398\ub85d\uc2a4 \ud22c\uae30\uc7a5"
+      }
     },
     "Balloon Fight": {
-        "smashgg_id": "310",
-        "codename": "BalloonFight"
+      "smashgg_id": "310",
+      "codename": "BalloonFight"
     },
     "Battlefield": {
-        "smashgg_id": "311",
-        "codename": "BattleField",
-        "locale": {
-            "fr": "Champ de Bataille",
-            "en_GB": "Battlefield",
-            "fr_CA": "Champ de Bataille",
-            "es": "Campo de batalla",
-            "es_LA": "Campo de batalla",
-            "de": "Schlachtfeld",
-            "it": "Le rovine",
-            "nl": "Slagveld",
-            "ru": "\u041f\u043e\u043b\u0435 \u0431\u043e\u044f",
-            "ja": "\u6226\u5834",
-            "zh_CN": "\u6218\u573a",
-            "zh_TW": "\u6230\u5834",
-            "ko": "\uc804\uc7a5"
-        }
+      "smashgg_id": "311",
+      "codename": "BattleField",
+      "locale": {
+        "fr": "Champ de Bataille",
+        "en_GB": "Battlefield",
+        "fr_CA": "Champ de Bataille",
+        "es": "Campo de batalla",
+        "es_LA": "Campo de batalla",
+        "de": "Schlachtfeld",
+        "it": "Le rovine",
+        "nl": "Slagveld",
+        "ru": "\u041f\u043e\u043b\u0435 \u0431\u043e\u044f",
+        "ja": "\u6226\u5834",
+        "zh_CN": "\u6218\u573a",
+        "zh_TW": "\u6230\u5834",
+        "ko": "\uc804\uc7a5"
+      }
     },
     "Big Battlefield": {
-        "smashgg_id": "312",
-        "codename": "BattleFieldL",
-        "locale": {
-            "fr": "Vaste Champ de Bataille",
-            "en_GB": "Big Battlefield",
-            "fr_CA": "Vaste Champ de Bataille",
-            "es": "Gran campo de batalla",
-            "es_LA": "Gran campo de batalla",
-            "de": "Gro\u00dfes Schlachtfeld",
-            "it": "Le rovine XL",
-            "nl": "Groot Slagveld",
-            "ru": "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f",
-            "ja": "\u5927\u6226\u5834",
-            "zh_CN": "\u5927\u6218\u573a",
-            "zh_TW": "\u5927\u6230\u5834",
-            "ko": "\ub300\uc804\uc7a5"
-        }
+      "smashgg_id": "312",
+      "codename": "BattleFieldL",
+      "locale": {
+        "fr": "Vaste Champ de Bataille",
+        "en_GB": "Big Battlefield",
+        "fr_CA": "Vaste Champ de Bataille",
+        "es": "Gran campo de batalla",
+        "es_LA": "Gran campo de batalla",
+        "de": "Gro\u00dfes Schlachtfeld",
+        "it": "Le rovine XL",
+        "nl": "Groot Slagveld",
+        "ru": "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f",
+        "ja": "\u5927\u6226\u5834",
+        "zh_CN": "\u5927\u6218\u573a",
+        "zh_TW": "\u5927\u6230\u5834",
+        "ko": "\ub300\uc804\uc7a5"
+      }
     },
     "Big Blue": {
-        "smashgg_id": "313",
-        "codename": "Fzero_Bigblue",
-        "locale": {
-            "en_GB": "Big Blue",
-            "fr": "Big Blue",
-            "fr_CA": "Big Blue",
-            "es": "Big Blue",
-            "es_LA": "Gran Azul",
-            "de": "Big Blue",
-            "it": "Big Blue",
-            "nl": "Big Blue",
-            "ru": "\u0421\u0438\u043d\u0435\u043c\u043e\u0440\u044c",
-            "ja": "\u30d3\u30c3\u30b0\u30d6\u30eb\u30fc",
-            "zh_CN": "\u78a7\u6d77",
-            "zh_TW": "\u78a7\u6d77",
-            "ko": "\ube45 \ube14\ub8e8"
-        }
+      "smashgg_id": "313",
+      "codename": "Fzero_Bigblue",
+      "locale": {
+        "en_GB": "Big Blue",
+        "fr": "Big Blue",
+        "fr_CA": "Big Blue",
+        "es": "Big Blue",
+        "es_LA": "Gran Azul",
+        "de": "Big Blue",
+        "it": "Big Blue",
+        "nl": "Big Blue",
+        "ru": "\u0421\u0438\u043d\u0435\u043c\u043e\u0440\u044c",
+        "ja": "\u30d3\u30c3\u30b0\u30d6\u30eb\u30fc",
+        "zh_CN": "\u78a7\u6d77",
+        "zh_TW": "\u78a7\u6d77",
+        "ko": "\ube45 \ube14\ub8e8"
+      }
     },
     "Boxing Ring": {
-        "smashgg_id": "314",
-        "codename": "PunchOutW",
-        "locale": {
-            "fr": "Ring de boxe",
-            "en_GB": "Boxing Ring",
-            "fr_CA": "Ring de boxe",
-            "es": "Cuadril\u00e1tero",
-            "es_LA": "Cuadril\u00e1tero",
-            "de": "Boxring",
-            "it": "Il ring",
-            "nl": "Boksring",
-            "ru": "\u0411\u043e\u043a\u0441\u0435\u0440\u0441\u043a\u0438\u0439 \u0440\u0438\u043d\u0433",
-            "ja": "\u7279\u8a2d\u30ea\u30f3\u30b0",
-            "zh_CN": "\u7279\u8bbe\u64c2\u53f0",
-            "zh_TW": "\u7279\u8a2d\u64c2\u53f0",
-            "ko": "\ud2b9\uc124 \ub9c1"
-        }
+      "smashgg_id": "314",
+      "codename": "PunchOutW",
+      "locale": {
+        "fr": "Ring de boxe",
+        "en_GB": "Boxing Ring",
+        "fr_CA": "Ring de boxe",
+        "es": "Cuadril\u00e1tero",
+        "es_LA": "Cuadril\u00e1tero",
+        "de": "Boxring",
+        "it": "Il ring",
+        "nl": "Boksring",
+        "ru": "\u0411\u043e\u043a\u0441\u0435\u0440\u0441\u043a\u0438\u0439 \u0440\u0438\u043d\u0433",
+        "ja": "\u7279\u8a2d\u30ea\u30f3\u30b0",
+        "zh_CN": "\u7279\u8bbe\u64c2\u53f0",
+        "zh_TW": "\u7279\u8a2d\u64c2\u53f0",
+        "ko": "\ud2b9\uc124 \ub9c1"
+      }
     },
     "Bridge of Eldin": {
-        "smashgg_id": "315",
-        "codename": "Zelda_Oldin",
-        "locale": {
-            "fr": "Pont d'Ordinn",
-            "en_GB": "Bridge of Eldin",
-            "fr_CA": "Pont d'Ordinn",
-            "es": "Gran Puente de Eldin",
-            "es_LA": "Gran Puente de Eldin",
-            "de": "Br\u00fccke von Eldin",
-            "it": "Il ponte di Oldin",
-            "nl": "Eldinbrug",
-            "ru": "\u041c\u043e\u0441\u0442 \u042d\u043b\u0434\u0438\u043d\u0430",
-            "ja": "\u30aa\u30eb\u30c7\u30a3\u30f3\u5927\u6a4b",
-            "zh_CN": "\u5965\u5c14\u6c40\u5927\u6865",
-            "zh_TW": "\u5967\u723e\u6c40\u5927\u6a4b",
-            "ko": "\uc62c\ub518\ub300\uad50"
-        }
+      "smashgg_id": "315",
+      "codename": "Zelda_Oldin",
+      "locale": {
+        "fr": "Pont d'Ordinn",
+        "en_GB": "Bridge of Eldin",
+        "fr_CA": "Pont d'Ordinn",
+        "es": "Gran Puente de Eldin",
+        "es_LA": "Gran Puente de Eldin",
+        "de": "Br\u00fccke von Eldin",
+        "it": "Il ponte di Oldin",
+        "nl": "Eldinbrug",
+        "ru": "\u041c\u043e\u0441\u0442 \u042d\u043b\u0434\u0438\u043d\u0430",
+        "ja": "\u30aa\u30eb\u30c7\u30a3\u30f3\u5927\u6a4b",
+        "zh_CN": "\u5965\u5c14\u6c40\u5927\u6865",
+        "zh_TW": "\u5967\u723e\u6c40\u5927\u6a4b",
+        "ko": "\uc62c\ub518\ub300\uad50"
+      }
     },
     "Brinstar": {
-        "smashgg_id": "316",
-        "codename": "Metroid_ZebesDx"
+      "smashgg_id": "316",
+      "codename": "Metroid_ZebesDx"
     },
     "Brinstar Depths": {
-        "smashgg_id": "317",
-        "codename": "Metroid_Kraid",
-        "locale": {
-            "fr": "Profondeurs de Brinstar",
-            "en_GB": "Brinstar Depths",
-            "fr_CA": "Profondeurs de Brinstar",
-            "es": "Abismo de Brinstar",
-            "es_LA": "Abismo de Brinstar",
-            "de": "Tiefen von Brinstar",
-            "it": "Le profondit\u00e0 di Brinstar",
-            "nl": "Dieptes van Brinstar",
-            "ru": "\u0413\u043b\u0443\u0431\u0438\u043d\u044b \u0411\u0440\u0438\u043d\u0441\u0442\u0430\u0440\u0430",
-            "ja": "\u30d6\u30ea\u30f3\u30b9\u30bf\u6df1\u90e8",
-            "zh_CN": "\u5e03\u6797\u65af\u5854\u6df1\u90e8",
-            "zh_TW": "Brinstar Depths",
-            "ko": "\ube0c\ub9b0\uc2a4\ud0c0 \uc2ec\uce35\ubd80"
-        }
+      "smashgg_id": "317",
+      "codename": "Metroid_Kraid",
+      "locale": {
+        "fr": "Profondeurs de Brinstar",
+        "en_GB": "Brinstar Depths",
+        "fr_CA": "Profondeurs de Brinstar",
+        "es": "Abismo de Brinstar",
+        "es_LA": "Abismo de Brinstar",
+        "de": "Tiefen von Brinstar",
+        "it": "Le profondit\u00e0 di Brinstar",
+        "nl": "Dieptes van Brinstar",
+        "ru": "\u0413\u043b\u0443\u0431\u0438\u043d\u044b \u0411\u0440\u0438\u043d\u0441\u0442\u0430\u0440\u0430",
+        "ja": "\u30d6\u30ea\u30f3\u30b9\u30bf\u6df1\u90e8",
+        "zh_CN": "\u5e03\u6797\u65af\u5854\u6df1\u90e8",
+        "zh_TW": "Brinstar Depths",
+        "ko": "\ube0c\ub9b0\uc2a4\ud0c0 \uc2ec\uce35\ubd80"
+      }
     },
     "Castle Siege": {
-        "smashgg_id": "318",
-        "codename": "FE_Siege",
-        "locale": {
-            "fr": "Ch\u00e2teau assi\u00e9g\u00e9",
-            "en_GB": "Castle Siege",
-            "fr_CA": "Ch\u00e2teau assi\u00e9g\u00e9",
-            "es": "Castillo asediado",
-            "es_LA": "Castillo asediado",
-            "de": "Die belagerte Burg",
-            "it": "Il castello assediato",
-            "nl": "Belaagde Burcht",
-            "ru": "\u041e\u0441\u0430\u0434\u0430 \u0437\u0430\u043c\u043a\u0430",
-            "ja": "\u653b\u57ce\u6226",
-            "zh_CN": "\u653b\u57ce\u6218",
-            "zh_TW": "\u653b\u57ce\u6230",
-            "ko": "\uacf5\uc131\uc804"
-        }
+      "smashgg_id": "318",
+      "codename": "FE_Siege",
+      "locale": {
+        "fr": "Ch\u00e2teau assi\u00e9g\u00e9",
+        "en_GB": "Castle Siege",
+        "fr_CA": "Ch\u00e2teau assi\u00e9g\u00e9",
+        "es": "Castillo asediado",
+        "es_LA": "Castillo asediado",
+        "de": "Die belagerte Burg",
+        "it": "Il castello assediato",
+        "nl": "Belaagde Burcht",
+        "ru": "\u041e\u0441\u0430\u0434\u0430 \u0437\u0430\u043c\u043a\u0430",
+        "ja": "\u653b\u57ce\u6226",
+        "zh_CN": "\u653b\u57ce\u6218",
+        "zh_TW": "\u653b\u57ce\u6230",
+        "ko": "\uacf5\uc131\uc804"
+      }
     },
     "Coliseum": {
-        "smashgg_id": "319",
-        "codename": "FE_Colloseum",
-        "locale": {
-            "fr": "Ar\u00e8ne",
-            "en_GB": "Coliseum",
-            "fr_CA": "Ar\u00e8ne",
-            "es": "Coliseo",
-            "es_LA": "Coliseo",
-            "de": "Kolosseum",
-            "it": "Arena",
-            "nl": "Arena",
-            "ru": "\u041a\u043e\u043b\u0438\u0437\u0435\u0439",
-            "ja": "\u95d8\u6280\u5834",
-            "zh_CN": "\u6597\u6280\u573a",
-            "zh_TW": "\u9b25\u6280\u5834",
-            "ko": "\ud22c\uae30\uc7a5"
-        }
+      "smashgg_id": "319",
+      "codename": "FE_Colloseum",
+      "locale": {
+        "fr": "Ar\u00e8ne",
+        "en_GB": "Coliseum",
+        "fr_CA": "Ar\u00e8ne",
+        "es": "Coliseo",
+        "es_LA": "Coliseo",
+        "de": "Kolosseum",
+        "it": "Arena",
+        "nl": "Arena",
+        "ru": "\u041a\u043e\u043b\u0438\u0437\u0435\u0439",
+        "ja": "\u95d8\u6280\u5834",
+        "zh_CN": "\u6597\u6280\u573a",
+        "zh_TW": "\u9b25\u6280\u5834",
+        "ko": "\ud22c\uae30\uc7a5"
+      }
     },
     "Corneria": {
-        "smashgg_id": "320",
-        "codename": "Fox_Corneria",
-        "locale": {
-            "en_GB": "Corneria",
-            "fr": "Corneria",
-            "fr_CA": "Corneria",
-            "es": "Corneria",
-            "es_LA": "Corneria",
-            "de": "Corneria",
-            "it": "Corneria",
-            "nl": "Corneria",
-            "ru": "\u041a\u043e\u0440\u043d\u0435\u0440\u0438\u044f",
-            "ja": "\u60d1\u661f\u30b3\u30fc\u30cd\u30ea\u30a2",
-            "zh_CN": "\u884c\u661f\u514b\u5c3c\u5229\u4e9a",
-            "zh_TW": "\u884c\u661f\u67ef\u5167\u8389\u4e9e",
-            "ko": "\ucf54\ub124\ub9ac\uc544 \ud589\uc131"
-        }
+      "smashgg_id": "320",
+      "codename": "Fox_Corneria",
+      "locale": {
+        "en_GB": "Corneria",
+        "fr": "Corneria",
+        "fr_CA": "Corneria",
+        "es": "Corneria",
+        "es_LA": "Corneria",
+        "de": "Corneria",
+        "it": "Corneria",
+        "nl": "Corneria",
+        "ru": "\u041a\u043e\u0440\u043d\u0435\u0440\u0438\u044f",
+        "ja": "\u60d1\u661f\u30b3\u30fc\u30cd\u30ea\u30a2",
+        "zh_CN": "\u884c\u661f\u514b\u5c3c\u5229\u4e9a",
+        "zh_TW": "\u884c\u661f\u67ef\u5167\u8389\u4e9e",
+        "ko": "\ucf54\ub124\ub9ac\uc544 \ud589\uc131"
+      }
     },
     "Delfino Plaza": {
-        "smashgg_id": "321",
-        "codename": "Mario_Dolpic",
-        "locale": {
-            "fr": "Place Delfino",
-            "en_GB": "Delfino Plaza",
-            "fr_CA": "Place Delfino",
-            "es": "Ciudad Delfino",
-            "es_LA": "Ciudad Delfino",
-            "de": "Piazza Delfino",
-            "it": "Delfinia",
-            "nl": "Delfino Plaza",
-            "ru": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0414\u0435\u043b\u044c\u0444\u0438\u043d\u043e",
-            "ja": "\u30c9\u30eb\u30d4\u30c3\u30af\u30bf\u30a6\u30f3",
-            "zh_CN": "\u5fb7\u5c14\u76ae\u514b\u9547",
-            "zh_TW": "Delfino Plaza",
-            "ko": "\ub3cc\ud53d \ud0c0\uc6b4"
-        }
+      "smashgg_id": "321",
+      "codename": "Mario_Dolpic",
+      "locale": {
+        "fr": "Place Delfino",
+        "en_GB": "Delfino Plaza",
+        "fr_CA": "Place Delfino",
+        "es": "Ciudad Delfino",
+        "es_LA": "Ciudad Delfino",
+        "de": "Piazza Delfino",
+        "it": "Delfinia",
+        "nl": "Delfino Plaza",
+        "ru": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0414\u0435\u043b\u044c\u0444\u0438\u043d\u043e",
+        "ja": "\u30c9\u30eb\u30d4\u30c3\u30af\u30bf\u30a6\u30f3",
+        "zh_CN": "\u5fb7\u5c14\u76ae\u514b\u9547",
+        "zh_TW": "Delfino Plaza",
+        "ko": "\ub3cc\ud53d \ud0c0\uc6b4"
+      }
     },
     "Distant Planet": {
-        "smashgg_id": "322",
-        "codename": "Pikmin_Planet",
-        "locale": {
-            "fr": "Plan\u00e8te lointaine",
-            "en_GB": "Distant Planet",
-            "fr_CA": "Plan\u00e8te lointaine",
-            "es": "Planeta remoto",
-            "es_LA": "Planeta remoto",
-            "de": "Ferner Planet",
-            "it": "Il pianeta remoto",
-            "nl": "Verre Planeet",
-            "ru": "\u0414\u0430\u043b\u0435\u043a\u0430\u044f \u043f\u043b\u0430\u043d\u0435\u0442\u0430",
-            "ja": "\u3068\u3042\u308b\u661f",
-            "zh_CN": "\u67d0\u4e2a\u661f\u7403",
-            "zh_TW": "\u67d0\u500b\u661f\u7403",
-            "ko": "\uc5b4\ub290 \ubcc4"
-        }
+      "smashgg_id": "322",
+      "codename": "Pikmin_Planet",
+      "locale": {
+        "fr": "Plan\u00e8te lointaine",
+        "en_GB": "Distant Planet",
+        "fr_CA": "Plan\u00e8te lointaine",
+        "es": "Planeta remoto",
+        "es_LA": "Planeta remoto",
+        "de": "Ferner Planet",
+        "it": "Il pianeta remoto",
+        "nl": "Verre Planeet",
+        "ru": "\u0414\u0430\u043b\u0435\u043a\u0430\u044f \u043f\u043b\u0430\u043d\u0435\u0442\u0430",
+        "ja": "\u3068\u3042\u308b\u661f",
+        "zh_CN": "\u67d0\u4e2a\u661f\u7403",
+        "zh_TW": "\u67d0\u500b\u661f\u7403",
+        "ko": "\uc5b4\ub290 \ubcc4"
+      }
     },
     "Dracula's Castle": {
-        "smashgg_id": "323",
-        "codename": "Dracula_Castle",
-        "locale": {
-            "fr": "Ch\u00e2teau de Dracula",
-            "en_GB": "Dracula's Castle",
-            "fr_CA": "Ch\u00e2teau de Dracula",
-            "es": "Castillo de Dr\u00e1cula",
-            "es_LA": "Castillo de Dr\u00e1cula",
-            "de": "Schloss Dracula",
-            "it": "Castello di Dracula",
-            "nl": "Dracula's Kasteel",
-            "ru": "\u0417\u0430\u043c\u043e\u043a \u0414\u0440\u0430\u043a\u0443\u043b\u044b",
-            "ja": "\u30c9\u30e9\u30ad\u30e5\u30e9\u57ce",
-            "zh_CN": "Dracula's Castle",
-            "zh_TW": "Dracula's Castle",
-            "ko": "\ub4dc\ub77c\ud058\ub77c \uc131"
-        }
+      "smashgg_id": "323",
+      "codename": "Dracula_Castle",
+      "locale": {
+        "fr": "Ch\u00e2teau de Dracula",
+        "en_GB": "Dracula's Castle",
+        "fr_CA": "Ch\u00e2teau de Dracula",
+        "es": "Castillo de Dr\u00e1cula",
+        "es_LA": "Castillo de Dr\u00e1cula",
+        "de": "Schloss Dracula",
+        "it": "Castello di Dracula",
+        "nl": "Dracula's Kasteel",
+        "ru": "\u0417\u0430\u043c\u043e\u043a \u0414\u0440\u0430\u043a\u0443\u043b\u044b",
+        "ja": "\u30c9\u30e9\u30ad\u30e5\u30e9\u57ce",
+        "zh_CN": "Dracula's Castle",
+        "zh_TW": "Dracula's Castle",
+        "ko": "\ub4dc\ub77c\ud058\ub77c \uc131"
+      }
     },
     "Dream Land": {
-        "smashgg_id": "324",
-        "codename": "Kirby_Pupupu64",
-        "locale": {
-            "en_GB": "Dream Land",
-            "fr": "Dream Land",
-            "fr_CA": "Dream Land",
-            "es": "Dream Land",
-            "es_LA": "Dream Land",
-            "de": "Dream Land",
-            "it": "Dream Land",
-            "nl": "Dream Land",
-            "ru": "\u0421\u0442\u0440\u0430\u043d\u0430 \u0433\u0440\u0435\u0437",
-            "ja": "\u30d7\u30d7\u30d7\u30e9\u30f3\u30c9",
-            "zh_CN": "\u5657\u5657\u5657\u4e4b\u56fd",
-            "zh_TW": "\u5657\u5657\u5657\u4e4b\u56fd",
-            "ko": "\ud478\ud478\ud478\ub79c\ub4dc"
-        }
+      "smashgg_id": "324",
+      "codename": "Kirby_Pupupu64",
+      "locale": {
+        "en_GB": "Dream Land",
+        "fr": "Dream Land",
+        "fr_CA": "Dream Land",
+        "es": "Dream Land",
+        "es_LA": "Dream Land",
+        "de": "Dream Land",
+        "it": "Dream Land",
+        "nl": "Dream Land",
+        "ru": "\u0421\u0442\u0440\u0430\u043d\u0430 \u0433\u0440\u0435\u0437",
+        "ja": "\u30d7\u30d7\u30d7\u30e9\u30f3\u30c9",
+        "zh_CN": "\u5657\u5657\u5657\u4e4b\u56fd",
+        "zh_TW": "\u5657\u5657\u5657\u4e4b\u56fd",
+        "ko": "\ud478\ud478\ud478\ub79c\ub4dc"
+      }
     },
     "Dream Land GB": {
-        "smashgg_id": "325",
-        "codename": "Kirby_Gameboy",
-        "locale": {
-            "en_GB": "Dream Land GB",
-            "fr": "Dream Land GB",
-            "fr_CA": "Dream Land GB",
-            "es": "Dream Land (GB)",
-            "es_LA": "Dream Land (GB)",
-            "de": "Dream Land (GB)",
-            "it": "Dream Land GB",
-            "nl": "Dream Land GB",
-            "ru": "\u0421\u0442\u0440\u0430\u043d\u0430 \u0433\u0440\u0435\u0437 (GB)",
-            "ja": "\u30d7\u30d7\u30d7\u30e9\u30f3\u30c9GB",
-            "zh_CN": "\u5657\u5657\u5657\u4e4b\u56fdGB",
-            "zh_TW": "\u5657\u5657\u5657\u4e4b\u570bGB",
-            "ko": "\ud478\ud478\ud478\ub79c\ub4dc GB"
-        }
+      "smashgg_id": "325",
+      "codename": "Kirby_Gameboy",
+      "locale": {
+        "en_GB": "Dream Land GB",
+        "fr": "Dream Land GB",
+        "fr_CA": "Dream Land GB",
+        "es": "Dream Land (GB)",
+        "es_LA": "Dream Land (GB)",
+        "de": "Dream Land (GB)",
+        "it": "Dream Land GB",
+        "nl": "Dream Land GB",
+        "ru": "\u0421\u0442\u0440\u0430\u043d\u0430 \u0433\u0440\u0435\u0437 (GB)",
+        "ja": "\u30d7\u30d7\u30d7\u30e9\u30f3\u30c9GB",
+        "zh_CN": "\u5657\u5657\u5657\u4e4b\u56fdGB",
+        "zh_TW": "\u5657\u5657\u5657\u4e4b\u570bGB",
+        "ko": "\ud478\ud478\ud478\ub79c\ub4dc GB"
+      }
     },
     "Duck Hunt": {
-        "smashgg_id": "326",
-        "codename": "DuckHunt",
-        "locale": {
-            "en_GB": "Duck Hunt",
-            "fr": "Duck Hunt",
-            "fr_CA": "Duck Hunt",
-            "es": "Duck Hunt",
-            "es_LA": "Duck Hunt",
-            "de": "Duck-Hunt-Duo",
-            "it": "Duck Hunt",
-            "nl": "Duck Hunt",
-            "ru": "\u0423\u0442\u0438\u043d\u0430\u044f \u043e\u0445\u043e\u0442\u0430",
-            "ja": "\u30c0\u30c3\u30af\u30cf\u30f3\u30c8",
-            "zh_CN": "\u6253\u730e",
-            "zh_TW": "\u6253\u7375",
-            "ko": "\ub355\ud5cc\ud2b8"
-        }
+      "smashgg_id": "326",
+      "codename": "DuckHunt",
+      "locale": {
+        "en_GB": "Duck Hunt",
+        "fr": "Duck Hunt",
+        "fr_CA": "Duck Hunt",
+        "es": "Duck Hunt",
+        "es_LA": "Duck Hunt",
+        "de": "Duck-Hunt-Duo",
+        "it": "Duck Hunt",
+        "nl": "Duck Hunt",
+        "ru": "\u0423\u0442\u0438\u043d\u0430\u044f \u043e\u0445\u043e\u0442\u0430",
+        "ja": "\u30c0\u30c3\u30af\u30cf\u30f3\u30c8",
+        "zh_CN": "\u6253\u730e",
+        "zh_TW": "\u6253\u7375",
+        "ko": "\ub355\ud5cc\ud2b8"
+      }
     },
     "Figure-8 Circuit": {
-        "smashgg_id": "327",
-        "codename": "Kart_CircuitX",
-        "locale": {
-            "fr": "Circuit en 8",
-            "en_GB": "Figure-8 Circuit",
-            "fr_CA": "Circuit en 8",
-            "es": "Circuito en 8",
-            "es_LA": "Circuito en 8",
-            "de": "Achterpiste",
-            "it": "Ottotornante",
-            "nl": "8-Baan",
-            "ru": "\u0422\u0440\u0430\u0441\u0441\u0430-\u0432\u043e\u0441\u044c\u043c\u0435\u0440\u043a\u0430",
-            "ja": "\u30a8\u30a4\u30c8\u30af\u30ed\u30b9\u30b5\u30fc\u30ad\u30c3\u30c8",
-            "zh_CN": "8\u5b57\u5f62\u8d5b\u9053",
-            "zh_TW": "8\u5b57\u5f62\u8cfd\u9053",
-            "ko": "8\uc790 \uc11c\ud0b7"
-        }
+      "smashgg_id": "327",
+      "codename": "Kart_CircuitX",
+      "locale": {
+        "fr": "Circuit en 8",
+        "en_GB": "Figure-8 Circuit",
+        "fr_CA": "Circuit en 8",
+        "es": "Circuito en 8",
+        "es_LA": "Circuito en 8",
+        "de": "Achterpiste",
+        "it": "Ottotornante",
+        "nl": "8-Baan",
+        "ru": "\u0422\u0440\u0430\u0441\u0441\u0430-\u0432\u043e\u0441\u044c\u043c\u0435\u0440\u043a\u0430",
+        "ja": "\u30a8\u30a4\u30c8\u30af\u30ed\u30b9\u30b5\u30fc\u30ad\u30c3\u30c8",
+        "zh_CN": "8\u5b57\u5f62\u8d5b\u9053",
+        "zh_TW": "8\u5b57\u5f62\u8cfd\u9053",
+        "ko": "8\uc790 \uc11c\ud0b7"
+      }
     },
     "Final Destination": {
-        "smashgg_id": "328",
-        "codename": "End",
-        "locale": {
-            "fr": "Destination Finale",
-            "en_GB": "Final Destination",
-            "fr_CA": "Destination Finale",
-            "es": "Destino final",
-            "es_LA": "Destino final",
-            "de": "Letzte Station",
-            "it": "Destinazione finale",
-            "nl": "Eindstation",
-            "ru": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u0430\u0440\u0435\u043d\u0430",
-            "ja": "\u7d42\u70b9",
-            "zh_CN": "\u7ec8\u70b9",
-            "zh_TW": "\u7d42\u9ede",
-            "ko": "\uc885\uc810"
-        }
+      "smashgg_id": "328",
+      "codename": "End",
+      "locale": {
+        "fr": "Destination Finale",
+        "en_GB": "Final Destination",
+        "fr_CA": "Destination Finale",
+        "es": "Destino final",
+        "es_LA": "Destino final",
+        "de": "Letzte Station",
+        "it": "Destinazione finale",
+        "nl": "Eindstation",
+        "ru": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u0430\u0440\u0435\u043d\u0430",
+        "ja": "\u7d42\u70b9",
+        "zh_CN": "\u7ec8\u70b9",
+        "zh_TW": "\u7d42\u9ede",
+        "ko": "\uc885\uc810"
+      }
     },
     "Find Mii": {
-        "smashgg_id": "329",
-        "codename": "StreetPass",
-        "locale": {
-            "fr": "Mii en p\u00e9ril",
-            "en_GB": "StreetPass\u2122 Quest",
-            "fr_CA": "Mii en p\u00e9ril",
-            "es": "Rescate Mii",
-            "es_LA": "Rescate Mii",
-            "de": "Rette die Krone!",
-            "it": "Libera Mii",
-            "nl": "Mii in Mis\u00e8re",
-            "ru": "\u0421\u043f\u0430\u0441\u0438 Mii",
-            "ja": "\u3059\u308c\u3061\u304c\u3044\u4f1d\u8aac",
-            "zh_CN": "\u77ac\u7f18\u4f20\u8bf4",
-            "zh_TW": "\u77ac\u9593\u4ea4\u932f\u50b3\u8aaa",
-            "ko": "\uc5c7\uac08\ub9bc \uc804\uc124"
-        }
+      "smashgg_id": "329",
+      "codename": "StreetPass",
+      "locale": {
+        "fr": "Mii en p\u00e9ril",
+        "en_GB": "StreetPass\u2122 Quest",
+        "fr_CA": "Mii en p\u00e9ril",
+        "es": "Rescate Mii",
+        "es_LA": "Rescate Mii",
+        "de": "Rette die Krone!",
+        "it": "Libera Mii",
+        "nl": "Mii in Mis\u00e8re",
+        "ru": "\u0421\u043f\u0430\u0441\u0438 Mii",
+        "ja": "\u3059\u308c\u3061\u304c\u3044\u4f1d\u8aac",
+        "zh_CN": "\u77ac\u7f18\u4f20\u8bf4",
+        "zh_TW": "\u77ac\u9593\u4ea4\u932f\u50b3\u8aaa",
+        "ko": "\uc5c7\uac08\ub9bc \uc804\uc124"
+      }
     },
     "Flat Zone X": {
-        "smashgg_id": "330",
-        "codename": "FlatZoneX",
-        "locale": {
-            "fr": "Espace 2D X",
-            "en_GB": "Flat Zone X[2]",
-            "fr_CA": "Espace 2D X",
-            "es": "Zona extraplana X",
-            "es_LA": "Zona extraplana X",
-            "de": "2D-Welt X",
-            "it": "La zona bidimensionale X",
-            "nl": "2D-Zone X",
-            "ru": "\u041f\u043b\u043e\u0441\u043a\u0430\u044f \u0437\u043e\u043d\u0430 X",
-            "ja": "\u30d5\u30e9\u30c3\u30c8\u30be\u30fc\u30f3X",
-            "zh_CN": "\u5e73\u9762\u4e16\u754cX",
-            "zh_TW": "\u5e73\u9762\u4e16\u754cX",
-            "ko": "\ud50c\ub7ab \uc874X"
-        }
+      "smashgg_id": "330",
+      "codename": "FlatZoneX",
+      "locale": {
+        "fr": "Espace 2D X",
+        "en_GB": "Flat Zone X[2]",
+        "fr_CA": "Espace 2D X",
+        "es": "Zona extraplana X",
+        "es_LA": "Zona extraplana X",
+        "de": "2D-Welt X",
+        "it": "La zona bidimensionale X",
+        "nl": "2D-Zone X",
+        "ru": "\u041f\u043b\u043e\u0441\u043a\u0430\u044f \u0437\u043e\u043d\u0430 X",
+        "ja": "\u30d5\u30e9\u30c3\u30c8\u30be\u30fc\u30f3X",
+        "zh_CN": "\u5e73\u9762\u4e16\u754cX",
+        "zh_TW": "\u5e73\u9762\u4e16\u754cX",
+        "ko": "\ud50c\ub7ab \uc874X"
+      }
     },
     "Fountain of Dreams": {
-        "smashgg_id": "331",
-        "codename": "Kirby_Fountain",
-        "locale": {
-            "fr": "Fontaine des R\u00eaves",
-            "en_GB": "Fountain of Dreams",
-            "fr_CA": "Fontaine des R\u00eaves",
-            "es": "Fuente de los sue\u00f1os",
-            "es_LA": "Fuente de los sue\u00f1os",
-            "de": "Traumbrunnen",
-            "it": "Fontana dei sogni",
-            "nl": "Droomfontein",
-            "ru": "\u0424\u043e\u043d\u0442\u0430\u043d \u0433\u0440\u0435\u0437",
-            "ja": "\u5922\u306e\u6cc9",
-            "zh_CN": "Fountain of Dreams",
-            "zh_TW": "Fountain of Dreams",
-            "ko": "\uafc8\uc758 \uc0d8"
-        }
+      "smashgg_id": "331",
+      "codename": "Kirby_Fountain",
+      "locale": {
+        "fr": "Fontaine des R\u00eaves",
+        "en_GB": "Fountain of Dreams",
+        "fr_CA": "Fontaine des R\u00eaves",
+        "es": "Fuente de los sue\u00f1os",
+        "es_LA": "Fuente de los sue\u00f1os",
+        "de": "Traumbrunnen",
+        "it": "Fontana dei sogni",
+        "nl": "Droomfontein",
+        "ru": "\u0424\u043e\u043d\u0442\u0430\u043d \u0433\u0440\u0435\u0437",
+        "ja": "\u5922\u306e\u6cc9",
+        "zh_CN": "Fountain of Dreams",
+        "zh_TW": "Fountain of Dreams",
+        "ko": "\uafc8\uc758 \uc0d8"
+      }
     },
     "Fourside": {
-        "smashgg_id": "332",
-        "codename": "Mother_Fourside"
+      "smashgg_id": "332",
+      "codename": "Mother_Fourside"
     },
     "Frigate Orpheon": {
-        "smashgg_id": "333",
-        "codename": "Metroid_Orpheon",
-        "locale": {
-            "fr": "Fr\u00e9gate Orph\u00e9on",
-            "en_GB": "Frigate Orpheon",
-            "fr_CA": "Fr\u00e9gate Orph\u00e9on",
-            "es": "Fragata Orpheon",
-            "es_LA": "Fragata Orpheon",
-            "de": "Fregatte Orpheon",
-            "it": "La Fregata Orpheon",
-            "nl": "Fregat Orpheon",
-            "ru": "\u0424\u0440\u0435\u0433\u0430\u0442 \u041e\u0440\u0444\u0435\u043e\u043d",
-            "ja": "\u30d5\u30ea\u30b2\u30fc\u30c8\u30aa\u30eb\u30d5\u30a7\u30aa\u30f3",
-            "zh_CN": "\u9a71\u9010\u8230\u5965\u98de\u6602",
-            "zh_TW": "Frigate Orpheon",
-            "ko": "\ud504\ub9ac\uae43 \uc624\ub974\ud53c\uc628"
-        }
+      "smashgg_id": "333",
+      "codename": "Metroid_Orpheon",
+      "locale": {
+        "fr": "Fr\u00e9gate Orph\u00e9on",
+        "en_GB": "Frigate Orpheon",
+        "fr_CA": "Fr\u00e9gate Orph\u00e9on",
+        "es": "Fragata Orpheon",
+        "es_LA": "Fragata Orpheon",
+        "de": "Fregatte Orpheon",
+        "it": "La Fregata Orpheon",
+        "nl": "Fregat Orpheon",
+        "ru": "\u0424\u0440\u0435\u0433\u0430\u0442 \u041e\u0440\u0444\u0435\u043e\u043d",
+        "ja": "\u30d5\u30ea\u30b2\u30fc\u30c8\u30aa\u30eb\u30d5\u30a7\u30aa\u30f3",
+        "zh_CN": "\u9a71\u9010\u8230\u5965\u98de\u6602",
+        "zh_TW": "Frigate Orpheon",
+        "ko": "\ud504\ub9ac\uae43 \uc624\ub974\ud53c\uc628"
+      }
     },
     "Gamer": {
-        "smashgg_id": "334",
-        "codename": "Wario_Gamer"
+      "smashgg_id": "334",
+      "codename": "Wario_Gamer"
     },
     "Garden of Hope": {
-        "smashgg_id": "335",
-        "codename": "Pikmin_Garden",
-        "locale": {
-            "fr": "Verger de l'espoir",
-            "en_GB": "Garden of Hope",
-            "fr_CA": "Verger de l'espoir",
-            "es": "Vergel de la Esperanza",
-            "es_LA": "Vergel de la Esperanza",
-            "de": "Garten der Begegnung",
-            "it": "Serra speranza",
-            "nl": "Pikmin-Paradijs",
-            "ru": "\u0421\u0430\u0434 \u041d\u0430\u0434\u0435\u0436\u0434\u044b",
-            "ja": "\u518d\u4f1a\u306e\u82b1\u5712",
-            "zh_CN": "\u518d\u4f1a\u82b1\u56ed",
-            "zh_TW": "\u518d\u6703\u82b1\u5712",
-            "ko": "\uc7ac\ud68c\uc758 \ud654\uc6d0"
-        }
+      "smashgg_id": "335",
+      "codename": "Pikmin_Garden",
+      "locale": {
+        "fr": "Verger de l'espoir",
+        "en_GB": "Garden of Hope",
+        "fr_CA": "Verger de l'espoir",
+        "es": "Vergel de la Esperanza",
+        "es_LA": "Vergel de la Esperanza",
+        "de": "Garten der Begegnung",
+        "it": "Serra speranza",
+        "nl": "Pikmin-Paradijs",
+        "ru": "\u0421\u0430\u0434 \u041d\u0430\u0434\u0435\u0436\u0434\u044b",
+        "ja": "\u518d\u4f1a\u306e\u82b1\u5712",
+        "zh_CN": "\u518d\u4f1a\u82b1\u56ed",
+        "zh_TW": "\u518d\u6703\u82b1\u5712",
+        "ko": "\uc7ac\ud68c\uc758 \ud654\uc6d0"
+      }
     },
     "Gaur Plain": {
-        "smashgg_id": "336",
-        "codename": "Xeno_Gaur",
-        "locale": {
-            "fr": "Plaine de Gaur",
-            "en_GB": "Gaur Plain",
-            "fr_CA": "Plaine de Gaur",
-            "es": "Llanuras de Gaur",
-            "es_LA": "Llanuras de Gaur",
-            "de": "Gaur-Ebene",
-            "it": "Piana di Gaur",
-            "nl": "Gaur-Plateau",
-            "ru": "\u0420\u0430\u0432\u043d\u0438\u043d\u0430 \u0413\u0430\u0443\u0440",
-            "ja": "\u30ac\u30a6\u30eb\u5e73\u539f",
-            "zh_CN": "Gaur Plain",
-            "zh_TW": "Gaur Plain",
-            "ko": "\uac00\uc6b8 \ud3c9\uc6d0"
-        }
+      "smashgg_id": "336",
+      "codename": "Xeno_Gaur",
+      "locale": {
+        "fr": "Plaine de Gaur",
+        "en_GB": "Gaur Plain",
+        "fr_CA": "Plaine de Gaur",
+        "es": "Llanuras de Gaur",
+        "es_LA": "Llanuras de Gaur",
+        "de": "Gaur-Ebene",
+        "it": "Piana di Gaur",
+        "nl": "Gaur-Plateau",
+        "ru": "\u0420\u0430\u0432\u043d\u0438\u043d\u0430 \u0413\u0430\u0443\u0440",
+        "ja": "\u30ac\u30a6\u30eb\u5e73\u539f",
+        "zh_CN": "Gaur Plain",
+        "zh_TW": "Gaur Plain",
+        "ko": "\uac00\uc6b8 \ud3c9\uc6d0"
+      }
     },
     "Gerudo Valley": {
-        "smashgg_id": "337",
-        "codename": "Zelda_Gerudo",
-        "locale": {
-            "fr": "Vall\u00e9e Gerudo",
-            "en_GB": "Gerudo Valley",
-            "fr_CA": "Vall\u00e9e Gerudo",
-            "es": "Valle Gerudo",
-            "es_LA": "Valle Gerudo",
-            "de": "Gerudotal",
-            "it": "Valle Gerudo",
-            "nl": "Gerudovallei",
-            "ru": "\u0414\u043e\u043b\u0438\u043d\u0430 \u0413\u0435\u0440\u0443\u0434\u043e",
-            "ja": "\u30b2\u30eb\u30c9\u306e\u8c37",
-            "zh_CN": "\u683c\u9c81\u5fb7\u4e4b\u8c37",
-            "zh_TW": "\u683c\u9b6f\u5fb7\u4e4b\u8c37",
-            "ko": "\uac94\ub4dc \ud611\uace1"
-        }
+      "smashgg_id": "337",
+      "codename": "Zelda_Gerudo",
+      "locale": {
+        "fr": "Vall\u00e9e Gerudo",
+        "en_GB": "Gerudo Valley",
+        "fr_CA": "Vall\u00e9e Gerudo",
+        "es": "Valle Gerudo",
+        "es_LA": "Valle Gerudo",
+        "de": "Gerudotal",
+        "it": "Valle Gerudo",
+        "nl": "Gerudovallei",
+        "ru": "\u0414\u043e\u043b\u0438\u043d\u0430 \u0413\u0435\u0440\u0443\u0434\u043e",
+        "ja": "\u30b2\u30eb\u30c9\u306e\u8c37",
+        "zh_CN": "\u683c\u9c81\u5fb7\u4e4b\u8c37",
+        "zh_TW": "\u683c\u9b6f\u5fb7\u4e4b\u8c37",
+        "ko": "\uac94\ub4dc \ud611\uace1"
+      }
     },
     "Golden Plains": {
-        "smashgg_id": "338",
-        "codename": "Mario_NewBros2",
-        "locale": {
-            "fr": "Buttes au butin",
-            "en_GB": "Golden Plains",
-            "fr_CA": "Prairie dor\u00e9e",
-            "es": "Pradera Monetaria",
-            "es_LA": "Pradera aur\u00edfera",
-            "de": "M\u00fcnz-Parcours",
-            "it": "Pascoli dorati",
-            "nl": "Muntenvallei",
-            "ru": "\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u043f\u043e\u043b\u044f",
-            "ja": "\u91ce\u539f",
-            "zh_CN": "\u539f\u91ce",
-            "zh_TW": "\u539f\u91ce",
-            "ko": "\ub4e4\ud310"
-        }
+      "smashgg_id": "338",
+      "codename": "Mario_NewBros2",
+      "locale": {
+        "fr": "Buttes au butin",
+        "en_GB": "Golden Plains",
+        "fr_CA": "Prairie dor\u00e9e",
+        "es": "Pradera Monetaria",
+        "es_LA": "Pradera aur\u00edfera",
+        "de": "M\u00fcnz-Parcours",
+        "it": "Pascoli dorati",
+        "nl": "Muntenvallei",
+        "ru": "\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u043f\u043e\u043b\u044f",
+        "ja": "\u91ce\u539f",
+        "zh_CN": "\u539f\u91ce",
+        "zh_TW": "\u539f\u91ce",
+        "ko": "\ub4e4\ud310"
+      }
     },
     "Great Bay": {
-        "smashgg_id": "339",
-        "codename": "Zelda_Greatbay",
-        "locale": {
-            "fr": "Grande baie",
-            "en_GB": "Great Bay",
-            "fr_CA": "Grande baie",
-            "es": "Gran Bah\u00eda",
-            "es_LA": "Gran Bah\u00eda",
-            "de": "Sch\u00e4delbucht",
-            "it": "Grande Baia",
-            "nl": "Grote Baai",
-            "ru": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432",
-            "ja": "\u30b0\u30ec\u30fc\u30c8\u30d9\u30a4",
-            "zh_CN": "Great Bay",
-            "zh_TW": "Great Bay",
-            "ko": "\uadf8\ub808\uc774\ud2b8 \ubca0\uc774"
-        }
+      "smashgg_id": "339",
+      "codename": "Zelda_Greatbay",
+      "locale": {
+        "fr": "Grande baie",
+        "en_GB": "Great Bay",
+        "fr_CA": "Grande baie",
+        "es": "Gran Bah\u00eda",
+        "es_LA": "Gran Bah\u00eda",
+        "de": "Sch\u00e4delbucht",
+        "it": "Grande Baia",
+        "nl": "Grote Baai",
+        "ru": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432",
+        "ja": "\u30b0\u30ec\u30fc\u30c8\u30d9\u30a4",
+        "zh_CN": "Great Bay",
+        "zh_TW": "Great Bay",
+        "ko": "\uadf8\ub808\uc774\ud2b8 \ubca0\uc774"
+      }
     },
     "The Great Cave Offensive": {
-        "smashgg_id": "340",
-        "codename": "Kirby_Cave",
-        "locale": {
-            "fr": "La Caverne du P\u00e9ril",
-            "en_GB": "The Great Cave Offensive",
-            "fr_CA": "La Caverne du P\u00e9ril",
-            "es": "El gran ataque de las cavernas",
-            "es_LA": "El gran ataque de las cavernas",
-            "de": "Das H\u00f6hlen-Abenteuer",
-            "it": "La Grande Offensiva Speleologica",
-            "nl": "Het Grote Grotavontuur",
-            "ru": "\u041f\u0435\u0449\u0435\u0440\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u043f\u043e\u043b\u043e\u0445",
-            "ja": "\u6d1e\u7a9f\u5927\u4f5c\u6226",
-            "zh_CN": "\u6d1e\u7a9f\u5927\u4f5c\u6218",
-            "zh_TW": "\u6d1e\u7a9f\u5927\u4f5c\u6230",
-            "ko": "\ub3d9\uad74\ub300\uc791\uc804"
-        }
+      "smashgg_id": "340",
+      "codename": "Kirby_Cave",
+      "locale": {
+        "fr": "La Caverne du P\u00e9ril",
+        "en_GB": "The Great Cave Offensive",
+        "fr_CA": "La Caverne du P\u00e9ril",
+        "es": "El gran ataque de las cavernas",
+        "es_LA": "El gran ataque de las cavernas",
+        "de": "Das H\u00f6hlen-Abenteuer",
+        "it": "La Grande Offensiva Speleologica",
+        "nl": "Het Grote Grotavontuur",
+        "ru": "\u041f\u0435\u0449\u0435\u0440\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u043f\u043e\u043b\u043e\u0445",
+        "ja": "\u6d1e\u7a9f\u5927\u4f5c\u6226",
+        "zh_CN": "\u6d1e\u7a9f\u5927\u4f5c\u6218",
+        "zh_TW": "\u6d1e\u7a9f\u5927\u4f5c\u6230",
+        "ko": "\ub3d9\uad74\ub300\uc791\uc804"
+      }
     },
     "Great Plateau Tower": {
-        "smashgg_id": "341",
-        "codename": "Zelda_Tower",
-        "locale": {
-            "fr": "Tour du Pr\u00e9lude",
-            "en_GB": "Great Plateau Tower",
-            "fr_CA": "Tour de l'\u00c9veil",
-            "es": "Torre de la meseta",
-            "es_LA": "Torre de la meseta",
-            "de": "Turm des Plateaus",
-            "it": "Torre delle origini",
-            "nl": "Toren der Wederopstanding",
-            "ru": "\u0411\u0430\u0448\u043d\u044f \u041f\u043b\u0430\u0442\u043e",
-            "ja": "\u59cb\u307e\u308a\u306e\u5854",
-            "zh_CN": "\u521d\u59cb\u4e4b\u5854",
-            "zh_TW": "\u521d\u59cb\u4e4b\u5854",
-            "ko": "\uc2dc\uc791\uc758 \ud0d1"
-        }
+      "smashgg_id": "341",
+      "codename": "Zelda_Tower",
+      "locale": {
+        "fr": "Tour du Pr\u00e9lude",
+        "en_GB": "Great Plateau Tower",
+        "fr_CA": "Tour de l'\u00c9veil",
+        "es": "Torre de la meseta",
+        "es_LA": "Torre de la meseta",
+        "de": "Turm des Plateaus",
+        "it": "Torre delle origini",
+        "nl": "Toren der Wederopstanding",
+        "ru": "\u0411\u0430\u0448\u043d\u044f \u041f\u043b\u0430\u0442\u043e",
+        "ja": "\u59cb\u307e\u308a\u306e\u5854",
+        "zh_CN": "\u521d\u59cb\u4e4b\u5854",
+        "zh_TW": "\u521d\u59cb\u4e4b\u5854",
+        "ko": "\uc2dc\uc791\uc758 \ud0d1"
+      }
     },
     "Green Greens": {
-        "smashgg_id": "342",
-        "codename": "Kirby_Greens",
-        "locale": {
-            "fr": "Vertes Prairies",
-            "en_GB": "Green Greens",
-            "fr_CA": "Vertes Prairies",
-            "es": "Prados Verdes",
-            "es_LA": "Prados Verdes",
-            "de": "Fr\u00fchlingswiese",
-            "it": "La verde aiuola",
-            "nl": "Green Greens",
-            "ru": "\u0417\u0435\u043b\u0435\u043d\u044b\u0435 \u043f\u043e\u043b\u044f\u043d\u044b",
-            "ja": "\u30b0\u30ea\u30fc\u30f3\u30b0\u30ea\u30fc\u30f3\u30ba",
-            "zh_CN": "Green Greens",
-            "zh_TW": "Green Greens",
-            "ko": "\uadf8\ub9b0 \uadf8\ub9b0"
-        }
+      "smashgg_id": "342",
+      "codename": "Kirby_Greens",
+      "locale": {
+        "fr": "Vertes Prairies",
+        "en_GB": "Green Greens",
+        "fr_CA": "Vertes Prairies",
+        "es": "Prados Verdes",
+        "es_LA": "Prados Verdes",
+        "de": "Fr\u00fchlingswiese",
+        "it": "La verde aiuola",
+        "nl": "Green Greens",
+        "ru": "\u0417\u0435\u043b\u0435\u043d\u044b\u0435 \u043f\u043e\u043b\u044f\u043d\u044b",
+        "ja": "\u30b0\u30ea\u30fc\u30f3\u30b0\u30ea\u30fc\u30f3\u30ba",
+        "zh_CN": "Green Greens",
+        "zh_TW": "Green Greens",
+        "ko": "\uadf8\ub9b0 \uadf8\ub9b0"
+      }
     },
     "Green Hill Zone": {
-        "smashgg_id": "343",
-        "codename": "Sonic_Greenhill",
-        "locale": {
-            "fr": "Zone Green Hill",
-            "en_GB": "Green Hill Zone",
-            "fr_CA": "Zone Green Hill",
-            "es": "Zona Green Hill",
-            "es_LA": "Zona Green Hill",
-            "de": "Green Hill Zone",
-            "it": "Zona Green Hill",
-            "nl": "Green Hill Zone",
-            "ru": "\u0417\u0435\u043b\u0435\u043d\u044b\u0435 \u0445\u043e\u043b\u043c\u044b",
-            "ja": "\u30b0\u30ea\u30fc\u30f3\u30d2\u30eb\u30be\u30fc\u30f3",
-            "zh_CN": "Green Hill Zone",
-            "zh_TW": "Green Hill Zone",
-            "ko": "\uadf8\ub9b0 \ud790 \uc874"
-        }
+      "smashgg_id": "343",
+      "codename": "Sonic_Greenhill",
+      "locale": {
+        "fr": "Zone Green Hill",
+        "en_GB": "Green Hill Zone",
+        "fr_CA": "Zone Green Hill",
+        "es": "Zona Green Hill",
+        "es_LA": "Zona Green Hill",
+        "de": "Green Hill Zone",
+        "it": "Zona Green Hill",
+        "nl": "Green Hill Zone",
+        "ru": "\u0417\u0435\u043b\u0435\u043d\u044b\u0435 \u0445\u043e\u043b\u043c\u044b",
+        "ja": "\u30b0\u30ea\u30fc\u30f3\u30d2\u30eb\u30be\u30fc\u30f3",
+        "zh_CN": "Green Hill Zone",
+        "zh_TW": "Green Hill Zone",
+        "ko": "\uadf8\ub9b0 \ud790 \uc874"
+      }
     },
     "Halberd": {
-        "smashgg_id": "344",
-        "codename": "Kirby_Halberd",
-        "locale": {
-            "en_GB": "Halberd",
-            "fr": "Halberd",
-            "fr_CA": "Halberd",
-            "es": "Hal Abarda",
-            "es_LA": "Hal Abarda",
-            "de": "Halberd",
-            "it": "La Halberd",
-            "nl": "Halberd",
-            "ru": "\u0410\u043b\u0435\u0431\u0430\u0440\u0434\u0430",
-            "ja": "\u6226\u8266\u30cf\u30eb\u30d0\u30fc\u30c9",
-            "zh_CN": "Halberd",
-            "zh_TW": "Halberd",
-            "ko": "\uc804\ud568 \ud560\ubc84\ub4dc"
-        }
+      "smashgg_id": "344",
+      "codename": "Kirby_Halberd",
+      "locale": {
+        "en_GB": "Halberd",
+        "fr": "Halberd",
+        "fr_CA": "Halberd",
+        "es": "Hal Abarda",
+        "es_LA": "Hal Abarda",
+        "de": "Halberd",
+        "it": "La Halberd",
+        "nl": "Halberd",
+        "ru": "\u0410\u043b\u0435\u0431\u0430\u0440\u0434\u0430",
+        "ja": "\u6226\u8266\u30cf\u30eb\u30d0\u30fc\u30c9",
+        "zh_CN": "Halberd",
+        "zh_TW": "Halberd",
+        "ko": "\uc804\ud568 \ud560\ubc84\ub4dc"
+      }
     },
     "Hanenbow": {
-        "smashgg_id": "345",
-        "codename": "Plankton",
-        "locale": {
-            "en_GB": "Hanenbow",
-            "fr": "Hanenbow",
-            "fr_CA": "Hanenbow",
-            "es": "Hanenbow",
-            "es_LA": "Hanenbow",
-            "de": "Hanenbow",
-            "it": "Hanenbow",
-            "nl": "Hanenbow",
-            "ru": "\u0425\u0430\u043d\u0435\u043d\u0431\u043e\u0443",
-            "ja": "\u30a8\u30ec\u30af\u30c8\u30ed\u30d7\u30e9\u30f3\u30af\u30c8\u30f3",
-            "zh_CN": "Hanenbow",
-            "zh_TW": "Hanenbow",
-            "ko": "\uc77c\ub809\ud2b8\ub85c \ud50c\ub791\ud06c\ud1a4"
-        }
+      "smashgg_id": "345",
+      "codename": "Plankton",
+      "locale": {
+        "en_GB": "Hanenbow",
+        "fr": "Hanenbow",
+        "fr_CA": "Hanenbow",
+        "es": "Hanenbow",
+        "es_LA": "Hanenbow",
+        "de": "Hanenbow",
+        "it": "Hanenbow",
+        "nl": "Hanenbow",
+        "ru": "\u0425\u0430\u043d\u0435\u043d\u0431\u043e\u0443",
+        "ja": "\u30a8\u30ec\u30af\u30c8\u30ed\u30d7\u30e9\u30f3\u30af\u30c8\u30f3",
+        "zh_CN": "Hanenbow",
+        "zh_TW": "Hanenbow",
+        "ko": "\uc77c\ub809\ud2b8\ub85c \ud50c\ub791\ud06c\ud1a4"
+      }
     },
     "Hyrule Castle": {
-        "smashgg_id": "346",
-        "codename": "Zelda_Hyrule",
-        "locale": {
-            "fr": "Ch\u00e2teau d'Hyrule",
-            "en_GB": "Hyrule Castle",
-            "fr_CA": "Ch\u00e2teau d'Hyrule",
-            "es": "Castillo de Hyrule",
-            "es_LA": "Castillo de Hyrule",
-            "de": "Schloss Hyrule",
-            "it": "Castello di Hyrule",
-            "nl": "Kasteel Hyrule",
-            "ru": "\u0417\u0430\u043c\u043e\u043a \u0425\u0430\u0439\u0440\u0443\u043b",
-            "ja": "\u30cf\u30a4\u30e9\u30eb\u57ce",
-            "zh_CN": "\u6d77\u62c9\u9c81\u57ce\u5821",
-            "zh_TW": "\u6d77\u62c9\u9c81\u57ce\u5821",
-            "ko": "\ud558\uc774\ub784 \uc131"
-        }
+      "smashgg_id": "346",
+      "codename": "Zelda_Hyrule",
+      "locale": {
+        "fr": "Ch\u00e2teau d'Hyrule",
+        "en_GB": "Hyrule Castle",
+        "fr_CA": "Ch\u00e2teau d'Hyrule",
+        "es": "Castillo de Hyrule",
+        "es_LA": "Castillo de Hyrule",
+        "de": "Schloss Hyrule",
+        "it": "Castello di Hyrule",
+        "nl": "Kasteel Hyrule",
+        "ru": "\u0417\u0430\u043c\u043e\u043a \u0425\u0430\u0439\u0440\u0443\u043b",
+        "ja": "\u30cf\u30a4\u30e9\u30eb\u57ce",
+        "zh_CN": "\u6d77\u62c9\u9c81\u57ce\u5821",
+        "zh_TW": "\u6d77\u62c9\u9c81\u57ce\u5821",
+        "ko": "\ud558\uc774\ub784 \uc131"
+      }
     },
     "Jungle Japes": {
-        "smashgg_id": "347",
-        "codename": "Jungle Japes",
-        "locale": {
-            "fr": "Jungle des Jobards",
-            "en_GB": "Jungle Japes",
-            "fr_CA": "Jungle des Jobards",
-            "es": "Jungla Jocosa",
-            "es_LA": "Jungla Jocosa",
-            "de": "Tropen-Trubel",
-            "it": "La capanna nella giungla",
-            "nl": "Tropenkolder",
-            "ru": "\u0414\u0438\u043a\u0438\u0435 \u0434\u0436\u0443\u043d\u0433\u043b\u0438",
-            "ja": "\u30b8\u30e3\u30f3\u30b0\u30eb\u30ac\u30fc\u30c7\u30f3",
-            "zh_CN": "\u4e1b\u6797\u82b1\u56ed",
-            "zh_TW": "\u53e2\u6797\u82b1\u5712",
-            "ko": "\uc815\uae00 \uac00\ub4e0"
-        }
+      "smashgg_id": "347",
+      "codename": "Jungle Japes",
+      "locale": {
+        "fr": "Jungle des Jobards",
+        "en_GB": "Jungle Japes",
+        "fr_CA": "Jungle des Jobards",
+        "es": "Jungla Jocosa",
+        "es_LA": "Jungla Jocosa",
+        "de": "Tropen-Trubel",
+        "it": "La capanna nella giungla",
+        "nl": "Tropenkolder",
+        "ru": "\u0414\u0438\u043a\u0438\u0435 \u0434\u0436\u0443\u043d\u0433\u043b\u0438",
+        "ja": "\u30b8\u30e3\u30f3\u30b0\u30eb\u30ac\u30fc\u30c7\u30f3",
+        "zh_CN": "\u4e1b\u6797\u82b1\u56ed",
+        "zh_TW": "\u53e2\u6797\u82b1\u5712",
+        "ko": "\uc815\uae00 \uac00\ub4e0"
+      }
     },
     "Kalos Pok\u00e9mon League": {
-        "smashgg_id": "348",
-        "codename": "Poke_Kalos",
-        "locale": {
-            "fr": "Ligue Pok\u00e9mon de Kalos",
-            "en_GB": "Kalos Pok\u00e9mon League",
-            "fr_CA": "Ligue Pok\u00e9mon de Kalos",
-            "es": "Liga Pok\u00e9mon de Kalos",
-            "es_LA": "Liga Pok\u00e9mon de Kalos",
-            "de": "Kalos-Pok\u00e9mon-Liga",
-            "it": "Lega Pok\u00e9mon di Kalos",
-            "nl": "Kalos League",
-            "ru": "\u041b\u0438\u0433\u0430 \u041a\u0430\u043b\u043e\u0441",
-            "ja": "\u30ab\u30ed\u30b9\u30dd\u30b1\u30e2\u30f3\u30ea\u30fc\u30b0",
-            "zh_CN": "\u5361\u6d1b\u65af\u5b9d\u53ef\u68a6\u8054\u76df",
-            "zh_TW": "\u5361\u6d1b\u65af\u5bf6\u53ef\u5922\u806f\u76df",
-            "ko": "\uce7c\ub85c\uc2a4 \ud3ec\ucf13\ubaac\ub9ac\uadf8"
-        }
+      "smashgg_id": "348",
+      "codename": "Poke_Kalos",
+      "locale": {
+        "fr": "Ligue Pok\u00e9mon de Kalos",
+        "en_GB": "Kalos Pok\u00e9mon League",
+        "fr_CA": "Ligue Pok\u00e9mon de Kalos",
+        "es": "Liga Pok\u00e9mon de Kalos",
+        "es_LA": "Liga Pok\u00e9mon de Kalos",
+        "de": "Kalos-Pok\u00e9mon-Liga",
+        "it": "Lega Pok\u00e9mon di Kalos",
+        "nl": "Kalos League",
+        "ru": "\u041b\u0438\u0433\u0430 \u041a\u0430\u043b\u043e\u0441",
+        "ja": "\u30ab\u30ed\u30b9\u30dd\u30b1\u30e2\u30f3\u30ea\u30fc\u30b0",
+        "zh_CN": "\u5361\u6d1b\u65af\u5b9d\u53ef\u68a6\u8054\u76df",
+        "zh_TW": "\u5361\u6d1b\u65af\u5bf6\u53ef\u5922\u806f\u76df",
+        "ko": "\uce7c\ub85c\uc2a4 \ud3ec\ucf13\ubaac\ub9ac\uadf8"
+      }
     },
     "Kongo Falls": {
-        "smashgg_id": "349",
-        "codename": "DK_WaterFall",
-        "locale": {
-            "fr": "Cascade Kongo",
-            "en_GB": "Kongo Falls",
-            "fr_CA": "Cascade Kongo",
-            "es": "Cascada Kongo",
-            "es_LA": "Cascada Kongo",
-            "de": "Kongo-Wasserfall",
-            "it": "Cascate Kongo",
-            "nl": "Kongo-Waterval",
-            "ru": "\u0412\u043e\u0434\u043e\u043f\u0430\u0434 \u041a\u043e\u043d\u0433\u0430",
-            "ja": "\u3044\u304b\u3060\u3068\u6edd",
-            "zh_CN": "\u6728\u7b4f\u548c\u7011\u5e03",
-            "zh_TW": "\u6728\u7b4f\u548c\u7011\u5e03",
-            "ko": "\ub5cf\ubaa9\uacfc \ud3ed\ud3ec"
-        }
+      "smashgg_id": "349",
+      "codename": "DK_WaterFall",
+      "locale": {
+        "fr": "Cascade Kongo",
+        "en_GB": "Kongo Falls",
+        "fr_CA": "Cascade Kongo",
+        "es": "Cascada Kongo",
+        "es_LA": "Cascada Kongo",
+        "de": "Kongo-Wasserfall",
+        "it": "Cascate Kongo",
+        "nl": "Kongo-Waterval",
+        "ru": "\u0412\u043e\u0434\u043e\u043f\u0430\u0434 \u041a\u043e\u043d\u0433\u0430",
+        "ja": "\u3044\u304b\u3060\u3068\u6edd",
+        "zh_CN": "\u6728\u7b4f\u548c\u7011\u5e03",
+        "zh_TW": "\u6728\u7b4f\u548c\u7011\u5e03",
+        "ko": "\ub5cf\ubaa9\uacfc \ud3ed\ud3ec"
+      }
     },
     "Kongo Jungle": {
-        "smashgg_id": "350",
-        "codename": "DK_Jungle",
-        "locale": {
-            "fr": "Jungle Kongo",
-            "en_GB": "Kongo Jungle",
-            "fr_CA": "Jungle Kongo",
-            "es": "Selva Kongo",
-            "es_LA": "Selva Kongo",
-            "de": "Tiefster Kongo",
-            "it": "Giungla Kongo",
-            "nl": "Kongo-Jungle",
-            "ru": "\u0414\u0436\u0443\u043d\u0433\u043b\u0438 \u041a\u043e\u043d\u0433\u0430",
-            "ja": "\u30b3\u30f3\u30b4\u30b8\u30e3\u30f3\u30b0\u30eb",
-            "zh_CN": "\u5eb7\u52a0\u4e1b\u6797",
-            "zh_TW": "\u5eb7\u52a0\u53e2\u6797",
-            "ko": "\ucf69\uace0 \uc815\uae00"
-        }
+      "smashgg_id": "350",
+      "codename": "DK_Jungle",
+      "locale": {
+        "fr": "Jungle Kongo",
+        "en_GB": "Kongo Jungle",
+        "fr_CA": "Jungle Kongo",
+        "es": "Selva Kongo",
+        "es_LA": "Selva Kongo",
+        "de": "Tiefster Kongo",
+        "it": "Giungla Kongo",
+        "nl": "Kongo-Jungle",
+        "ru": "\u0414\u0436\u0443\u043d\u0433\u043b\u0438 \u041a\u043e\u043d\u0433\u0430",
+        "ja": "\u30b3\u30f3\u30b4\u30b8\u30e3\u30f3\u30b0\u30eb",
+        "zh_CN": "\u5eb7\u52a0\u4e1b\u6797",
+        "zh_TW": "\u5eb7\u52a0\u53e2\u6797",
+        "ko": "\ucf69\uace0 \uc815\uae00"
+      }
     },
     "Living Room": {
-        "smashgg_id": "351",
-        "codename": "NintenDogs",
-        "locale": {
-            "fr": "Salon",
-            "en_GB": "Living Room",
-            "fr_CA": "Salon",
-            "es": "Casa rural",
-            "es_LA": "Sala rural",
-            "de": "Wohnzimmer",
-            "it": "Salotto",
-            "nl": "Woonkamer",
-            "ru": "\u0413\u0430\u0432-\u0433\u043e\u0441\u0442\u0438\u043d\u0430\u044f",
-            "ja": "\u5b50\u72ac\u304c\u3044\u308b\u30ea\u30d3\u30f3\u30b0",
-            "zh_CN": "\u72d7\u72d7\u5ba2\u5385",
-            "zh_TW": "\u72d7\u72d7\u5ba2\u5ef3",
-            "ko": "\uac15\uc544\uc9c0\uac00 \uc788\ub294 \uac70\uc2e4"
-        }
+      "smashgg_id": "351",
+      "codename": "NintenDogs",
+      "locale": {
+        "fr": "Salon",
+        "en_GB": "Living Room",
+        "fr_CA": "Salon",
+        "es": "Casa rural",
+        "es_LA": "Sala rural",
+        "de": "Wohnzimmer",
+        "it": "Salotto",
+        "nl": "Woonkamer",
+        "ru": "\u0413\u0430\u0432-\u0433\u043e\u0441\u0442\u0438\u043d\u0430\u044f",
+        "ja": "\u5b50\u72ac\u304c\u3044\u308b\u30ea\u30d3\u30f3\u30b0",
+        "zh_CN": "\u72d7\u72d7\u5ba2\u5385",
+        "zh_TW": "\u72d7\u72d7\u5ba2\u5ef3",
+        "ko": "\uac15\uc544\uc9c0\uac00 \uc788\ub294 \uac70\uc2e4"
+      }
     },
     "Luigi's Mansion": {
-        "smashgg_id": "352",
-        "codename": "LuigiMansion",
-        "locale": {
-            "fr": "Manoir de Luigi",
-            "en_GB": "Luigi's Mansion",
-            "fr_CA": "Manoir de Luigi",
-            "es": "Mansi\u00f3n de Luigi",
-            "es_LA": "Mansi\u00f3n de Luigi",
-            "de": "Luigi's Mansion",
-            "it": "Il palazzo di Luigi",
-            "nl": "Luigi's Landhuis",
-            "ru": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u041b\u0443\u0438\u0434\u0436\u0438",
-            "ja": "\u30eb\u30a4\u30fc\u30b8\u30de\u30f3\u30b7\u30e7\u30f3",
-            "zh_CN": "\u8def\u6613\u5409\u6d0b\u9986",
-            "zh_TW": "\u8def\u6613\u5409\u6d0b\u6a13",
-            "ko": "\ub8e8\uc774\uc9c0 \ub9e8\uc158"
-        }
+      "smashgg_id": "352",
+      "codename": "LuigiMansion",
+      "locale": {
+        "fr": "Manoir de Luigi",
+        "en_GB": "Luigi's Mansion",
+        "fr_CA": "Manoir de Luigi",
+        "es": "Mansi\u00f3n de Luigi",
+        "es_LA": "Mansi\u00f3n de Luigi",
+        "de": "Luigi's Mansion",
+        "it": "Il palazzo di Luigi",
+        "nl": "Luigi's Landhuis",
+        "ru": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u041b\u0443\u0438\u0434\u0436\u0438",
+        "ja": "\u30eb\u30a4\u30fc\u30b8\u30de\u30f3\u30b7\u30e7\u30f3",
+        "zh_CN": "\u8def\u6613\u5409\u6d0b\u9986",
+        "zh_TW": "\u8def\u6613\u5409\u6d0b\u6a13",
+        "ko": "\ub8e8\uc774\uc9c0 \ub9e8\uc158"
+      }
     },
     "Lylat Cruise": {
-        "smashgg_id": "353",
-        "codename": "Fox_LylatCruise",
-        "locale": {
-            "fr": "Travers\u00e9e de Lylat",
-            "en_GB": "Lylat Cruise",
-            "fr_CA": "Travers\u00e9e de Lylat",
-            "es": "Sistema Lylat",
-            "es_LA": "Sistema Lylat",
-            "de": "Lylat-Patrouille",
-            "it": "Il Sistema Lylat",
-            "nl": "Lylat-Stelsel",
-            "ru": "\u0422\u0443\u0440 \u041b\u0430\u0439\u043b\u0430\u0442",
-            "ja": "\u30e9\u30a4\u30e9\u30c3\u30c8\u30af\u30eb\u30fc\u30ba",
-            "zh_CN": "\u83b1\u62c9\u7279\u5de1\u822a",
-            "zh_TW": "\u840a\u62c9\u7279\u5de1\u822a",
-            "ko": "\ub77c\uc77c\ub77c\ud2b8 \ud06c\ub8e8\uc988"
-        }
+      "smashgg_id": "353",
+      "codename": "Fox_LylatCruise",
+      "locale": {
+        "fr": "Travers\u00e9e de Lylat",
+        "en_GB": "Lylat Cruise",
+        "fr_CA": "Travers\u00e9e de Lylat",
+        "es": "Sistema Lylat",
+        "es_LA": "Sistema Lylat",
+        "de": "Lylat-Patrouille",
+        "it": "Il Sistema Lylat",
+        "nl": "Lylat-Stelsel",
+        "ru": "\u0422\u0443\u0440 \u041b\u0430\u0439\u043b\u0430\u0442",
+        "ja": "\u30e9\u30a4\u30e9\u30c3\u30c8\u30af\u30eb\u30fc\u30ba",
+        "zh_CN": "\u83b1\u62c9\u7279\u5de1\u822a",
+        "zh_TW": "\u840a\u62c9\u7279\u5de1\u822a",
+        "ko": "\ub77c\uc77c\ub77c\ud2b8 \ud06c\ub8e8\uc988"
+      }
     },
     "Magicant": {
-        "smashgg_id": "354",
-        "codename": "Mother_Magicant"
+      "smashgg_id": "354",
+      "codename": "Mother_Magicant"
     },
     "Mario Bros.": {
-        "smashgg_id": "355",
-        "codename": "MarioBros"
+      "smashgg_id": "355",
+      "codename": "MarioBros"
     },
     "Mario Circuit": {
-        "smashgg_id": "356",
-        "codename": "Kart_CircuitFor",
-        "locale": {
-            "fr": "Circuit Mario",
-            "en_GB": "Mario Circuit",
-            "fr_CA": "Circuit Mario",
-            "es": "Circuito Mario",
-            "es_LA": "Circuito Mario",
-            "de": "Marios Piste",
-            "it": "Il Circuito di Mario",
-            "nl": "Mario's Circuit",
-            "ru": "\u0422\u0440\u0430\u0441\u0441\u0430 \u041c\u0430\u0440\u0438\u043e",
-            "ja": "\u30de\u30ea\u30aa\u30b5\u30fc\u30ad\u30c3\u30c8",
-            "zh_CN": "\u9a6c\u529b\u6b27\u8d5b\u9053",
-            "zh_TW": "\u746a\u5229\u6b50\u8cfd\u9053",
-            "ko": "\ub9c8\ub9ac\uc624 \uc11c\ud0b7"
-        }
+      "smashgg_id": "356",
+      "codename": "Kart_CircuitFor",
+      "locale": {
+        "fr": "Circuit Mario",
+        "en_GB": "Mario Circuit",
+        "fr_CA": "Circuit Mario",
+        "es": "Circuito Mario",
+        "es_LA": "Circuito Mario",
+        "de": "Marios Piste",
+        "it": "Il Circuito di Mario",
+        "nl": "Mario's Circuit",
+        "ru": "\u0422\u0440\u0430\u0441\u0441\u0430 \u041c\u0430\u0440\u0438\u043e",
+        "ja": "\u30de\u30ea\u30aa\u30b5\u30fc\u30ad\u30c3\u30c8",
+        "zh_CN": "\u9a6c\u529b\u6b27\u8d5b\u9053",
+        "zh_TW": "\u746a\u5229\u6b50\u8cfd\u9053",
+        "ko": "\ub9c8\ub9ac\uc624 \uc11c\ud0b7"
+      }
     },
     "Mario Galaxy": {
-        "smashgg_id": "357",
-        "codename": "Mario_Galaxy",
-        "locale": {
-            "en_GB": "Mario Galaxy",
-            "fr": "Mario Galaxy",
-            "fr_CA": "Mario Galaxy",
-            "es": "Mario Galaxy",
-            "es_LA": "Galaxia de Mario",
-            "de": "Mario-Galaxie",
-            "it": "Mario Galaxy",
-            "nl": "Mario's Melkweg",
-            "ru": "\u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u043e",
-            "ja": "\u30de\u30ea\u30aa\u30ae\u30e3\u30e9\u30af\u30b7\u30fc",
-            "zh_CN": "\u9a6c\u529b\u6b27\u94f6\u6cb3",
-            "zh_TW": "\u746a\u5229\u6b50\u9280\u6cb3",
-            "ko": "\ub9c8\ub9ac\uc624 \uac24\ub7ed\uc2dc"
-        }
+      "smashgg_id": "357",
+      "codename": "Mario_Galaxy",
+      "locale": {
+        "en_GB": "Mario Galaxy",
+        "fr": "Mario Galaxy",
+        "fr_CA": "Mario Galaxy",
+        "es": "Mario Galaxy",
+        "es_LA": "Galaxia de Mario",
+        "de": "Mario-Galaxie",
+        "it": "Mario Galaxy",
+        "nl": "Mario's Melkweg",
+        "ru": "\u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u043e",
+        "ja": "\u30de\u30ea\u30aa\u30ae\u30e3\u30e9\u30af\u30b7\u30fc",
+        "zh_CN": "\u9a6c\u529b\u6b27\u94f6\u6cb3",
+        "zh_TW": "\u746a\u5229\u6b50\u9280\u6cb3",
+        "ko": "\ub9c8\ub9ac\uc624 \uac24\ub7ed\uc2dc"
+      }
     },
     "Midgar": {
-        "smashgg_id": "358",
-        "codename": "FF_Midgar"
+      "smashgg_id": "358",
+      "codename": "FF_Midgar"
     },
     "Moray Towers": {
-        "smashgg_id": "359",
-        "codename": "Spla_Parking",
-        "locale": {
-            "fr": "Tours Girelle",
-            "en_GB": "Moray Towers",
-            "fr_CA": "Tours Girelle",
-            "es": "Torres Merluza",
-            "es_LA": "Torres Merluza",
-            "de": "Mur\u00e4nent\u00fcrme",
-            "it": "Torri cittadine",
-            "nl": "Tonijntorens",
-            "ru": "\u041c\u0443\u0440\u0435\u043d\u0441\u043a\u0438\u0435 \u0431\u0430\u0448\u043d\u0438",
-            "ja": "\u30bf\u30c1\u30a6\u30aa\u30d1\u30fc\u30ad\u30f3\u30b0",
-            "zh_CN": "Moray Towers",
-            "zh_TW": "Moray Towers",
-            "ko": "\uac08\uce58 \uc8fc\ucc28\uc7a5"
-        }
+      "smashgg_id": "359",
+      "codename": "Spla_Parking",
+      "locale": {
+        "fr": "Tours Girelle",
+        "en_GB": "Moray Towers",
+        "fr_CA": "Tours Girelle",
+        "es": "Torres Merluza",
+        "es_LA": "Torres Merluza",
+        "de": "Mur\u00e4nent\u00fcrme",
+        "it": "Torri cittadine",
+        "nl": "Tonijntorens",
+        "ru": "\u041c\u0443\u0440\u0435\u043d\u0441\u043a\u0438\u0435 \u0431\u0430\u0448\u043d\u0438",
+        "ja": "\u30bf\u30c1\u30a6\u30aa\u30d1\u30fc\u30ad\u30f3\u30b0",
+        "zh_CN": "Moray Towers",
+        "zh_TW": "Moray Towers",
+        "ko": "\uac08\uce58 \uc8fc\ucc28\uc7a5"
+      }
     },
     "Mushroom Kingdom": {
-        "smashgg_id": "360",
-        "codename": "Mushroom Kingdom",
-        "locale": {
-            "fr": "Royaume Champignon",
-            "en_GB": "Mushroom Kingdom",
-            "fr_CA": "Royaume Champignon",
-            "es": "Reino Champi\u00f1\u00f3n",
-            "es_LA": "Reino Champi\u00f1\u00f3n",
-            "de": "Pilz-K\u00f6nigreich",
-            "it": "Regno dei Funghi",
-            "nl": "Paddenstoelenrijk",
-            "ru": "\u0413\u0440\u0438\u0431\u043d\u043e\u0435 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
-            "ja": "\u3044\u306b\u3057\u3048\u306e\u738b\u56fd",
-            "zh_CN": "\u53e4\u8001\u7684\u738b\u56fd",
-            "zh_TW": "\u53e4\u8001\u7684\u738b\u570b",
-            "ko": "\uace0\ub300 \uc655\uad6d"
-        }
+      "smashgg_id": "360",
+      "codename": "Mushroom Kingdom",
+      "locale": {
+        "fr": "Royaume Champignon",
+        "en_GB": "Mushroom Kingdom",
+        "fr_CA": "Royaume Champignon",
+        "es": "Reino Champi\u00f1\u00f3n",
+        "es_LA": "Reino Champi\u00f1\u00f3n",
+        "de": "Pilz-K\u00f6nigreich",
+        "it": "Regno dei Funghi",
+        "nl": "Paddenstoelenrijk",
+        "ru": "\u0413\u0440\u0438\u0431\u043d\u043e\u0435 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "ja": "\u3044\u306b\u3057\u3048\u306e\u738b\u56fd",
+        "zh_CN": "\u53e4\u8001\u7684\u738b\u56fd",
+        "zh_TW": "\u53e4\u8001\u7684\u738b\u570b",
+        "ko": "\uace0\ub300 \uc655\uad6d"
+      }
     },
     "Mushroom Kingdom II": {
-        "smashgg_id": "361",
-        "codename": "Mushroom Kingdom II",
-        "locale": {
-            "fr": "Royaume Champignon II",
-            "en_GB": "Mushroom Kingdom II",
-            "fr_CA": "Royaume Champignon II",
-            "es": "Reino Champi\u00f1\u00f3n II",
-            "es_LA": "Reino Champi\u00f1\u00f3n II",
-            "de": "Pilz-K\u00f6nigreich 2",
-            "it": "Regno dei Funghi II",
-            "nl": "Paddenstoelenrijk 2",
-            "ru": "\u0413\u0440\u0438\u0431\u043d\u043e\u0435 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e 2",
-            "ja": "\u3044\u306b\u3057\u3048\u306e\u738b\u56fd USA",
-            "zh_CN": "\u53e4\u8001\u7684\u738b\u56fdUSA",
-            "zh_TW": "\u53e4\u8001\u7684\u738b\u570bUSA",
-            "ko": "\uace0\ub300 \uc655\uad6d USA"
-        }
+      "smashgg_id": "361",
+      "codename": "Mushroom Kingdom II",
+      "locale": {
+        "fr": "Royaume Champignon II",
+        "en_GB": "Mushroom Kingdom II",
+        "fr_CA": "Royaume Champignon II",
+        "es": "Reino Champi\u00f1\u00f3n II",
+        "es_LA": "Reino Champi\u00f1\u00f3n II",
+        "de": "Pilz-K\u00f6nigreich 2",
+        "it": "Regno dei Funghi II",
+        "nl": "Paddenstoelenrijk 2",
+        "ru": "\u0413\u0440\u0438\u0431\u043d\u043e\u0435 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e 2",
+        "ja": "\u3044\u306b\u3057\u3048\u306e\u738b\u56fd USA",
+        "zh_CN": "\u53e4\u8001\u7684\u738b\u56fdUSA",
+        "zh_TW": "\u53e4\u8001\u7684\u738b\u570bUSA",
+        "ko": "\uace0\ub300 \uc655\uad6d USA"
+      }
     },
     "Mushroomy Kingdom": {
-        "smashgg_id": "362",
-        "codename": "Mushroomy Kingdom",
-        "locale": {
-            "fr": "Royaume Champiternel",
-            "en_GB": "Mushroomy Kingdom",
-            "fr_CA": "Royaume Champiternel",
-            "es": "Reino Champi\u00f1\u00f3nico",
-            "es_LA": "Reino Champi\u00f1\u00f3nico",
-            "de": "Pilz-Urk\u00f6nigreich",
-            "it": "Il Regno Fungoso",
-            "nl": "Verlaten Paddenstoelenrijk",
-            "ru": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0433\u0440\u0438\u0431\u043e\u0432",
-            "ja": "\u3044\u306b\u3057\u3048\u3063\u307d\u3044\u738b\u56fd",
-            "zh_CN": "\u4eff\u4f5b\u53e4\u8001\u7684\u738b\u56fd",
-            "zh_TW": "\u4eff\u4f5b\u53e4\u8001\u7684\u738b\u570b",
-            "ko": "\uc608\uc2a4\ub7ec\uc6b4 \uc655\uad6d"
-        }
+      "smashgg_id": "362",
+      "codename": "Mushroomy Kingdom",
+      "locale": {
+        "fr": "Royaume Champiternel",
+        "en_GB": "Mushroomy Kingdom",
+        "fr_CA": "Royaume Champiternel",
+        "es": "Reino Champi\u00f1\u00f3nico",
+        "es_LA": "Reino Champi\u00f1\u00f3nico",
+        "de": "Pilz-Urk\u00f6nigreich",
+        "it": "Il Regno Fungoso",
+        "nl": "Verlaten Paddenstoelenrijk",
+        "ru": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0433\u0440\u0438\u0431\u043e\u0432",
+        "ja": "\u3044\u306b\u3057\u3048\u3063\u307d\u3044\u738b\u56fd",
+        "zh_CN": "\u4eff\u4f5b\u53e4\u8001\u7684\u738b\u56fd",
+        "zh_TW": "\u4eff\u4f5b\u53e4\u8001\u7684\u738b\u570b",
+        "ko": "\uc608\uc2a4\ub7ec\uc6b4 \uc655\uad6d"
+      }
     },
     "Mushroom Kingdom U": {
-        "smashgg_id": "363",
-        "codename": "Mario_Uworld",
-        "locale": {
-            "fr": "Royaume Champignon U",
-            "en_GB": "Mushroom Kingdom U",
-            "fr_CA": "Royaume Champignon U",
-            "es": "Reino Champi\u00f1\u00f3n U",
-            "es_LA": "Reino Champi\u00f1\u00f3n U",
-            "de": "Pilz-K\u00f6nigreich U",
-            "it": "Regno dei Funghi U",
-            "nl": "Paddenstoelenrijk U",
-            "ru": "\u0413\u0440\u0438\u0431\u043d\u043e\u0435 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e U",
-            "ja": "\u30de\u30ea\u30aaU\u30ef\u30fc\u30eb\u30c9",
-            "zh_CN": "\u9a6c\u529b\u6b27U\u4e16\u754c",
-            "zh_TW": "\u746a\u5229\u6b50U\u4e16\u754c",
-            "ko": "\ub9c8\ub9ac\uc624 U \uc6d4\ub4dc"
-        }
+      "smashgg_id": "363",
+      "codename": "Mario_Uworld",
+      "locale": {
+        "fr": "Royaume Champignon U",
+        "en_GB": "Mushroom Kingdom U",
+        "fr_CA": "Royaume Champignon U",
+        "es": "Reino Champi\u00f1\u00f3n U",
+        "es_LA": "Reino Champi\u00f1\u00f3n U",
+        "de": "Pilz-K\u00f6nigreich U",
+        "it": "Regno dei Funghi U",
+        "nl": "Paddenstoelenrijk U",
+        "ru": "\u0413\u0440\u0438\u0431\u043d\u043e\u0435 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e U",
+        "ja": "\u30de\u30ea\u30aaU\u30ef\u30fc\u30eb\u30c9",
+        "zh_CN": "\u9a6c\u529b\u6b27U\u4e16\u754c",
+        "zh_TW": "\u746a\u5229\u6b50U\u4e16\u754c",
+        "ko": "\ub9c8\ub9ac\uc624 U \uc6d4\ub4dc"
+      }
     },
     "Mute City SNES": {
-        "smashgg_id": "364",
-        "codename": "Fzero_Mutecity3DS",
-        "locale": {
-            "en_GB": "Mute City SNES",
-            "fr": "Mute City SNES",
-            "fr_CA": "Mute City SNES",
-            "es": "Mute City (SNES)",
-            "es_LA": "Ciudad Muda (SNES)",
-            "de": "Mute City (SNES)",
-            "it": "Mute City SNES",
-            "nl": "Mute City SNES",
-            "ru": "\u041c\u044c\u044e\u0442-\u0421\u0438\u0442\u0438 (SNES)",
-            "ja": "\u30df\u30e5\u30fc\u30c8\u30b7\u30c6\u30a3SFC",
-            "zh_CN": "\u5bc2\u9759\u57ce\u5e02SFC",
-            "zh_TW": "\u5bc2\u975c\u57ce\u5e02SFC",
-            "ko": "\ubba4\ud2b8 \uc2dc\ud2f0 SFC"
-        }
+      "smashgg_id": "364",
+      "codename": "Fzero_Mutecity3DS",
+      "locale": {
+        "en_GB": "Mute City SNES",
+        "fr": "Mute City SNES",
+        "fr_CA": "Mute City SNES",
+        "es": "Mute City (SNES)",
+        "es_LA": "Ciudad Muda (SNES)",
+        "de": "Mute City (SNES)",
+        "it": "Mute City SNES",
+        "nl": "Mute City SNES",
+        "ru": "\u041c\u044c\u044e\u0442-\u0421\u0438\u0442\u0438 (SNES)",
+        "ja": "\u30df\u30e5\u30fc\u30c8\u30b7\u30c6\u30a3SFC",
+        "zh_CN": "\u5bc2\u9759\u57ce\u5e02SFC",
+        "zh_TW": "\u5bc2\u975c\u57ce\u5e02SFC",
+        "ko": "\ubba4\ud2b8 \uc2dc\ud2f0 SFC"
+      }
     },
     "New Donk City Hall": {
-        "smashgg_id": "365",
-        "codename": "Mario_Odyssey",
-        "locale": {
-            "fr": "H\u00f4tel de ville de New Donk City",
-            "en_GB": "New Donk City Hall",
-            "fr_CA": "H\u00f4tel de ville de New Donk City",
-            "es": "Ayuntamiento de Nueva Donk",
-            "es_LA": "Ayuntamiento de Nueva Donk",
-            "de": "New Donk City-Rathaus",
-            "it": "Municipio di New Donk City",
-            "nl": "Stadhuis van New Donk City",
-            "ru": "\u041c\u044d\u0440\u0438\u044f \u041d\u044c\u044e-\u0414\u043e\u043d\u043a\u0430",
-            "ja": "\u30cb\u30e5\u30fc\u30c9\u30f3\u30af\u5e02\u5e81\u820e",
-            "zh_CN": "\u7ebd\u6566\u5e02\u653f\u5385",
-            "zh_TW": "\u7d10\u9813\u5e02\u653f\u5ef3",
-            "ko": "\ub274\ub3d9\ud06c\uc2dc\uccad"
-        }
+      "smashgg_id": "365",
+      "codename": "Mario_Odyssey",
+      "locale": {
+        "fr": "H\u00f4tel de ville de New Donk City",
+        "en_GB": "New Donk City Hall",
+        "fr_CA": "H\u00f4tel de ville de New Donk City",
+        "es": "Ayuntamiento de Nueva Donk",
+        "es_LA": "Ayuntamiento de Nueva Donk",
+        "de": "New Donk City-Rathaus",
+        "it": "Municipio di New Donk City",
+        "nl": "Stadhuis van New Donk City",
+        "ru": "\u041c\u044d\u0440\u0438\u044f \u041d\u044c\u044e-\u0414\u043e\u043d\u043a\u0430",
+        "ja": "\u30cb\u30e5\u30fc\u30c9\u30f3\u30af\u5e02\u5e81\u820e",
+        "zh_CN": "\u7ebd\u6566\u5e02\u653f\u5385",
+        "zh_TW": "\u7d10\u9813\u5e02\u653f\u5ef3",
+        "ko": "\ub274\ub3d9\ud06c\uc2dc\uccad"
+      }
     },
     "New Pork City": {
-        "smashgg_id": "366",
-        "codename": "Mother_Newpork"
+      "smashgg_id": "366",
+      "codename": "Mother_Newpork"
     },
     "Norfair": {
-        "smashgg_id": "367",
-        "codename": "Metroid_Norfair"
+      "smashgg_id": "367",
+      "codename": "Metroid_Norfair"
     },
     "Onett": {
-        "smashgg_id": "368",
-        "codename": "Mother_Onett"
+      "smashgg_id": "368",
+      "codename": "Mother_Onett"
     },
     "Pac-Land": {
-        "smashgg_id": "369",
-        "codename": "Pac_Land"
+      "smashgg_id": "369",
+      "codename": "Pac_Land"
     },
     "Palutena's Temple": {
-        "smashgg_id": "370",
-        "codename": "Icarus_Angeland",
-        "locale": {
-            "fr": "Temple de Palutena",
-            "en_GB": "Palutena's Temple",
-            "fr_CA": "Royaume des Cieux",
-            "es": "Templo de Palutena",
-            "es_LA": "Templo de Palutena",
-            "de": "Palutenas Tempel",
-            "it": "Tempio di Palutena",
-            "nl": "Palutena's Tempel",
-            "ru": "\u0425\u0440\u0430\u043c \u041f\u0430\u043b\u044e\u0442\u0435\u043d\u044b",
-            "ja": "\u30a8\u30f3\u30b8\u30a7\u30e9\u30f3\u30c9",
-            "zh_CN": "Palutena's Temple",
-            "zh_TW": "Palutena's Temple",
-            "ko": "\uc5d4\uc824\ub79c\ub4dc"
-        }
+      "smashgg_id": "370",
+      "codename": "Icarus_Angeland",
+      "locale": {
+        "fr": "Temple de Palutena",
+        "en_GB": "Palutena's Temple",
+        "fr_CA": "Royaume des Cieux",
+        "es": "Templo de Palutena",
+        "es_LA": "Templo de Palutena",
+        "de": "Palutenas Tempel",
+        "it": "Tempio di Palutena",
+        "nl": "Palutena's Tempel",
+        "ru": "\u0425\u0440\u0430\u043c \u041f\u0430\u043b\u044e\u0442\u0435\u043d\u044b",
+        "ja": "\u30a8\u30f3\u30b8\u30a7\u30e9\u30f3\u30c9",
+        "zh_CN": "Palutena's Temple",
+        "zh_TW": "Palutena's Temple",
+        "ko": "\uc5d4\uc824\ub79c\ub4dc"
+      }
     },
     "Paper Mario": {
-        "smashgg_id": "371",
-        "codename": "Mario_Paper"
+      "smashgg_id": "371",
+      "codename": "Mario_Paper"
     },
     "Peach's Castle": {
-        "smashgg_id": "372",
-        "codename": "Mario_Castle64",
-        "locale": {
-            "fr": "Ch\u00e2teau de Peach",
-            "en_GB": "Peach's Castle",
-            "fr_CA": "Ch\u00e2teau de Peach",
-            "es": "Castillo de Peach",
-            "es_LA": "Castillo de Peach",
-            "de": "Peachs Schloss",
-            "it": "Il castello di Peach",
-            "nl": "Peach' Kasteel",
-            "ru": "\u0417\u0430\u043c\u043e\u043a \u041f\u0438\u0447",
-            "ja": "\u30d4\u30fc\u30c1\u57ce \u4e0a\u7a7a",
-            "zh_CN": "\u6843\u82b1\u516c\u4e3b\u57ce\u5821 \u4e0a\u7a7a",
-            "zh_TW": "\u78a7\u59ec\u516c\u4e3b\u57ce\u5821 \u4e0a\u7a7a",
-            "ko": "\ud53c\uce58 \uc131 \uc0c1\uacf5"
-        }
+      "smashgg_id": "372",
+      "codename": "Mario_Castle64",
+      "locale": {
+        "fr": "Ch\u00e2teau de Peach",
+        "en_GB": "Peach's Castle",
+        "fr_CA": "Ch\u00e2teau de Peach",
+        "es": "Castillo de Peach",
+        "es_LA": "Castillo de Peach",
+        "de": "Peachs Schloss",
+        "it": "Il castello di Peach",
+        "nl": "Peach' Kasteel",
+        "ru": "\u0417\u0430\u043c\u043e\u043a \u041f\u0438\u0447",
+        "ja": "\u30d4\u30fc\u30c1\u57ce \u4e0a\u7a7a",
+        "zh_CN": "\u6843\u82b1\u516c\u4e3b\u57ce\u5821 \u4e0a\u7a7a",
+        "zh_TW": "\u78a7\u59ec\u516c\u4e3b\u57ce\u5821 \u4e0a\u7a7a",
+        "ko": "\ud53c\uce58 \uc131 \uc0c1\uacf5"
+      }
     },
     "Princess Peach's Castle": {
-        "smashgg_id": "373",
-        "codename": "Mario_CastleDx",
-        "locale": {
-            "fr": "Ch\u00e2teau de la princesse Peach",
-            "en_GB": "Princess Peach's Castle",
-            "fr_CA": "Ch\u00e2teau de la princesse Peach",
-            "es": "Castillo de Peach (Melee)",
-            "es_LA": "Castillo de Peach (Melee)",
-            "de": "Prinzessin Peachs Schloss",
-            "it": "Castello della Principessa Peach",
-            "nl": "Prinses Peach' Kasteel",
-            "ru": "\u0417\u0430\u043c\u043e\u043a \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u044b \u041f\u0438\u0447",
-            "ja": "\u30d4\u30fc\u30c1\u57ce",
-            "zh_CN": "\u6843\u82b1\u516c\u4e3b\u57ce\u5821",
-            "zh_TW": "\u78a7\u59ec\u516c\u4e3b\u57ce\u5821",
-            "ko": "\ud53c\uce58 \uc131"
-        }
+      "smashgg_id": "373",
+      "codename": "Mario_CastleDx",
+      "locale": {
+        "fr": "Ch\u00e2teau de la princesse Peach",
+        "en_GB": "Princess Peach's Castle",
+        "fr_CA": "Ch\u00e2teau de la princesse Peach",
+        "es": "Castillo de Peach (Melee)",
+        "es_LA": "Castillo de Peach (Melee)",
+        "de": "Prinzessin Peachs Schloss",
+        "it": "Castello della Principessa Peach",
+        "nl": "Prinses Peach' Kasteel",
+        "ru": "\u0417\u0430\u043c\u043e\u043a \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u044b \u041f\u0438\u0447",
+        "ja": "\u30d4\u30fc\u30c1\u57ce",
+        "zh_CN": "\u6843\u82b1\u516c\u4e3b\u57ce\u5821",
+        "zh_TW": "\u78a7\u59ec\u516c\u4e3b\u57ce\u5821",
+        "ko": "\ud53c\uce58 \uc131"
+      }
     },
     "PictoChat 2": {
-        "smashgg_id": "374",
-        "codename": "Pictochat2"
+      "smashgg_id": "374",
+      "codename": "Pictochat2"
     },
     "Pilotwings": {
-        "smashgg_id": "375",
-        "codename": "Pilotwings"
+      "smashgg_id": "375",
+      "codename": "Pilotwings"
     },
     "Pirate Ship": {
-        "smashgg_id": "376",
-        "codename": "Zelda_Pirates",
-        "locale": {
-            "fr": "Vaisseau pirate",
-            "en_GB": "Pirate Ship",
-            "fr_CA": "Vaisseau pirate",
-            "es": "Barco pirata",
-            "es_LA": "Barco pirata",
-            "de": "Piratenschiff",
-            "it": "La nave dei pirati",
-            "nl": "Piratenschip",
-            "ru": "\u041f\u0438\u0440\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u043e\u0440\u0430\u0431\u043b\u044c",
-            "ja": "\u6d77\u8cca\u8239",
-            "zh_CN": "\u6d77\u76d7\u8239",
-            "zh_TW": "\u6d77\u76dc\u8239",
-            "ko": "\ud574\uc801\uc120"
-        }
+      "smashgg_id": "376",
+      "codename": "Zelda_Pirates",
+      "locale": {
+        "fr": "Vaisseau pirate",
+        "en_GB": "Pirate Ship",
+        "fr_CA": "Vaisseau pirate",
+        "es": "Barco pirata",
+        "es_LA": "Barco pirata",
+        "de": "Piratenschiff",
+        "it": "La nave dei pirati",
+        "nl": "Piratenschip",
+        "ru": "\u041f\u0438\u0440\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u043e\u0440\u0430\u0431\u043b\u044c",
+        "ja": "\u6d77\u8cca\u8239",
+        "zh_CN": "\u6d77\u76d7\u8239",
+        "zh_TW": "\u6d77\u76dc\u8239",
+        "ko": "\ud574\uc801\uc120"
+      }
     },
     "Pok\u00e9mon Stadium": {
-        "smashgg_id": "377",
-        "codename": "Poke_Stadium",
-        "locale": {
-            "fr": "Stade Pok\u00e9mon",
-            "en_GB": "Pok\u00e9mon Stadium",
-            "fr_CA": "Stade Pok\u00e9mon",
-            "es": "Estadio Pok\u00e9mon",
-            "es_LA": "Estadio Pok\u00e9mon",
-            "de": "Pok\u00e9mon Stadium",
-            "it": "Lo Stadio Pok\u00e9mon",
-            "nl": "Pok\u00e9mon Stadium",
-            "ru": "\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u041f\u043e\u043a\u0435\u043c\u043e\u043d\u043e\u0432",
-            "ja": "\u30dd\u30b1\u30e2\u30f3\u30b9\u30bf\u30b8\u30a2\u30e0",
-            "zh_CN": "Pok\u00e9mon Stadium",
-            "zh_TW": "Pok\u00e9mon Stadium",
-            "ko": "\ud3ec\ucf13\ubaac \uc2a4\ud0c0\ub514\uc6c0"
-        }
+      "smashgg_id": "377",
+      "codename": "Poke_Stadium",
+      "locale": {
+        "fr": "Stade Pok\u00e9mon",
+        "en_GB": "Pok\u00e9mon Stadium",
+        "fr_CA": "Stade Pok\u00e9mon",
+        "es": "Estadio Pok\u00e9mon",
+        "es_LA": "Estadio Pok\u00e9mon",
+        "de": "Pok\u00e9mon Stadium",
+        "it": "Lo Stadio Pok\u00e9mon",
+        "nl": "Pok\u00e9mon Stadium",
+        "ru": "\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u041f\u043e\u043a\u0435\u043c\u043e\u043d\u043e\u0432",
+        "ja": "\u30dd\u30b1\u30e2\u30f3\u30b9\u30bf\u30b8\u30a2\u30e0",
+        "zh_CN": "Pok\u00e9mon Stadium",
+        "zh_TW": "Pok\u00e9mon Stadium",
+        "ko": "\ud3ec\ucf13\ubaac \uc2a4\ud0c0\ub514\uc6c0"
+      }
     },
     "Pok\u00e9mon Stadium 2": {
-        "smashgg_id": "378",
-        "codename": "Poke_Stadium2",
-        "locale": {
-            "fr": "Stade Pok\u00e9mon 2",
-            "en_GB": "Pok\u00e9mon Stadium 2",
-            "fr_CA": "Stade Pok\u00e9mon 2",
-            "es": "Estadio Pok\u00e9mon 2",
-            "es_LA": "Estadio Pok\u00e9mon 2",
-            "de": "Pok\u00e9mon Stadium 2",
-            "it": "Lo Stadio Pok\u00e9mon 2",
-            "nl": "Pok\u00e9mon Stadium 2",
-            "ru": "\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u041f\u043e\u043a\u0435\u043c\u043e\u043d\u043e\u0432 2",
-            "ja": "\u30dd\u30b1\u30e2\u30f3\u30b9\u30bf\u30b8\u30a2\u30e02",
-            "zh_CN": "Pok\u00e9mon Stadium 2",
-            "zh_TW": "Pok\u00e9mon Stadium 2",
-            "ko": "\ud3ec\ucf13\ubaac \uc2a4\ud0c0\ub514\uc6c0 2"
-        }
+      "smashgg_id": "378",
+      "codename": "Poke_Stadium2",
+      "locale": {
+        "fr": "Stade Pok\u00e9mon 2",
+        "en_GB": "Pok\u00e9mon Stadium 2",
+        "fr_CA": "Stade Pok\u00e9mon 2",
+        "es": "Estadio Pok\u00e9mon 2",
+        "es_LA": "Estadio Pok\u00e9mon 2",
+        "de": "Pok\u00e9mon Stadium 2",
+        "it": "Lo Stadio Pok\u00e9mon 2",
+        "nl": "Pok\u00e9mon Stadium 2",
+        "ru": "\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u041f\u043e\u043a\u0435\u043c\u043e\u043d\u043e\u0432 2",
+        "ja": "\u30dd\u30b1\u30e2\u30f3\u30b9\u30bf\u30b8\u30a2\u30e02",
+        "zh_CN": "Pok\u00e9mon Stadium 2",
+        "zh_TW": "Pok\u00e9mon Stadium 2",
+        "ko": "\ud3ec\ucf13\ubaac \uc2a4\ud0c0\ub514\uc6c0 2"
+      }
     },
     "Port Town Aero Dive": {
-        "smashgg_id": "379",
-        "codename": "Fzero_Porttown",
-        "locale": {
-            "fr": "Port Town",
-            "en_GB": "Port Town Aero Dive",
-            "fr_CA": "Port Town Aero Dive",
-            "es": "Port Town Aero Dive",
-            "es_LA": "Port Town Aero Dive",
-            "de": "Port Town",
-            "it": "Port Town",
-            "nl": "Port Town Aero Dive",
-            "ru": "\u0410\u044d\u0440\u043e\u0433\u043e\u043d\u043a\u0430 \u041f\u043e\u0440\u0442-\u0422\u0430\u0443\u043d\u0430",
-            "ja": "\u30dd\u30fc\u30c8\u30bf\u30a6\u30f3 \u30a8\u30a2\u30ed\u30c0\u30a4\u30d6",
-            "zh_CN": "\u6e2f\u53e3\u9547 \u9ad8\u7a7a\u4fef\u51b2",
-            "zh_TW": "Port Town Aero Dive",
-            "ko": "\ud3ec\ud2b8 \ud0c0\uc6b4 \uc5d0\uc5b4\ub85c\ub2e4\uc774\ube0c"
-        }
+      "smashgg_id": "379",
+      "codename": "Fzero_Porttown",
+      "locale": {
+        "fr": "Port Town",
+        "en_GB": "Port Town Aero Dive",
+        "fr_CA": "Port Town Aero Dive",
+        "es": "Port Town Aero Dive",
+        "es_LA": "Port Town Aero Dive",
+        "de": "Port Town",
+        "it": "Port Town",
+        "nl": "Port Town Aero Dive",
+        "ru": "\u0410\u044d\u0440\u043e\u0433\u043e\u043d\u043a\u0430 \u041f\u043e\u0440\u0442-\u0422\u0430\u0443\u043d\u0430",
+        "ja": "\u30dd\u30fc\u30c8\u30bf\u30a6\u30f3 \u30a8\u30a2\u30ed\u30c0\u30a4\u30d6",
+        "zh_CN": "\u6e2f\u53e3\u9547 \u9ad8\u7a7a\u4fef\u51b2",
+        "zh_TW": "Port Town Aero Dive",
+        "ko": "\ud3ec\ud2b8 \ud0c0\uc6b4 \uc5d0\uc5b4\ub85c\ub2e4\uc774\ube0c"
+      }
     },
     "Prism Tower": {
-        "smashgg_id": "380",
-        "codename": "Poke_Tower",
-        "locale": {
-            "fr": "Tour Prismatique",
-            "en_GB": "Prism Tower",
-            "fr_CA": "Tour Prismatique",
-            "es": "Torre Prisma",
-            "es_LA": "Torre Prisma",
-            "de": "Prismaturm",
-            "it": "Torre Prisma",
-            "nl": "Prismatoren",
-            "ru": "\u0411\u0430\u0448\u043d\u044f \u041f\u0440\u0438\u0437\u043c\u044b",
-            "ja": "\u30d7\u30ea\u30ba\u30e0\u30bf\u30ef\u30fc",
-            "zh_CN": "\u68f1\u955c\u5854",
-            "zh_TW": "\u7a1c\u93e1\u5854",
-            "ko": "\ud504\ub9ac\uc998\ud0c0\uc6cc"
-        }
+      "smashgg_id": "380",
+      "codename": "Poke_Tower",
+      "locale": {
+        "fr": "Tour Prismatique",
+        "en_GB": "Prism Tower",
+        "fr_CA": "Tour Prismatique",
+        "es": "Torre Prisma",
+        "es_LA": "Torre Prisma",
+        "de": "Prismaturm",
+        "it": "Torre Prisma",
+        "nl": "Prismatoren",
+        "ru": "\u0411\u0430\u0448\u043d\u044f \u041f\u0440\u0438\u0437\u043c\u044b",
+        "ja": "\u30d7\u30ea\u30ba\u30e0\u30bf\u30ef\u30fc",
+        "zh_CN": "\u68f1\u955c\u5854",
+        "zh_TW": "\u7a1c\u93e1\u5854",
+        "ko": "\ud504\ub9ac\uc998\ud0c0\uc6cc"
+      }
     },
     "Rainbow Cruise": {
-        "smashgg_id": "381",
-        "codename": "Mario_Rainbow",
-        "locale": {
-            "fr": "Course Arc-en-ciel",
-            "en_GB": "Rainbow Cruise",
-            "fr_CA": "Course Arc-en-ciel",
-            "es": "Rainbow Ride",
-            "es_LA": "Paseo arco\u00edris",
-            "de": "Regenbogen Raserei",
-            "it": "Il Cammino Arcobaleno",
-            "nl": "Regenboogboot",
-            "ru": "\u0420\u0430\u0434\u0443\u0436\u043d\u0430\u044f \u0432\u044b\u0441\u044c",
-            "ja": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30af\u30eb\u30fc\u30ba",
-            "zh_CN": "\u5f69\u8679\u5de1\u822a",
-            "zh_TW": "\u5f69\u8679\u5de1\u822a",
-            "ko": "\ub808\uc778\ubcf4\uc6b0\ud06c\ub8e8\uc988"
-        }
+      "smashgg_id": "381",
+      "codename": "Mario_Rainbow",
+      "locale": {
+        "fr": "Course Arc-en-ciel",
+        "en_GB": "Rainbow Cruise",
+        "fr_CA": "Course Arc-en-ciel",
+        "es": "Rainbow Ride",
+        "es_LA": "Paseo arco\u00edris",
+        "de": "Regenbogen Raserei",
+        "it": "Il Cammino Arcobaleno",
+        "nl": "Regenboogboot",
+        "ru": "\u0420\u0430\u0434\u0443\u0436\u043d\u0430\u044f \u0432\u044b\u0441\u044c",
+        "ja": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30af\u30eb\u30fc\u30ba",
+        "zh_CN": "\u5f69\u8679\u5de1\u822a",
+        "zh_TW": "\u5f69\u8679\u5de1\u822a",
+        "ko": "\ub808\uc778\ubcf4\uc6b0\ud06c\ub8e8\uc988"
+      }
     },
     "Reset Bomb Forest": {
-        "smashgg_id": "382",
-        "codename": "Icarus_Uprising",
-        "locale": {
-            "fr": "For\u00eat des Bombes z\u00e9ro",
-            "en_GB": "Reset Bomb Forest",
-            "fr_CA": "For\u00eat des Bombaz\u00e9ros",
-            "es": "Bosque g\u00e9nesis",
-            "es_LA": "Bosque g\u00e9nesis",
-            "de": "Nullbombenwald",
-            "it": "Foresta Zero",
-            "nl": "Nulbommenbos",
-            "ru": "\u041b\u0435\u0441 \u0430\u043b\u044c\u0444\u0430-\u0431\u043e\u043c\u0431",
-            "ja": "\u521d\u671f\u5316\u7206\u5f3e\u306e\u68ee",
-            "zh_CN": "Reset Bomb Forest",
-            "zh_TW": "Reset Bomb Forest",
-            "ko": "\ucd08\uae30\ud654 \ud3ed\ud0c4\uc758 \uc232"
-        }
+      "smashgg_id": "382",
+      "codename": "Icarus_Uprising",
+      "locale": {
+        "fr": "For\u00eat des Bombes z\u00e9ro",
+        "en_GB": "Reset Bomb Forest",
+        "fr_CA": "For\u00eat des Bombaz\u00e9ros",
+        "es": "Bosque g\u00e9nesis",
+        "es_LA": "Bosque g\u00e9nesis",
+        "de": "Nullbombenwald",
+        "it": "Foresta Zero",
+        "nl": "Nulbommenbos",
+        "ru": "\u041b\u0435\u0441 \u0430\u043b\u044c\u0444\u0430-\u0431\u043e\u043c\u0431",
+        "ja": "\u521d\u671f\u5316\u7206\u5f3e\u306e\u68ee",
+        "zh_CN": "Reset Bomb Forest",
+        "zh_TW": "Reset Bomb Forest",
+        "ko": "\ucd08\uae30\ud654 \ud3ed\ud0c4\uc758 \uc232"
+      }
     },
     "Saffron City": {
-        "smashgg_id": "383",
-        "codename": "Poke_Yamabuki",
-        "locale": {
-            "fr": "Safrania",
-            "en_GB": "Saffron City",
-            "fr_CA": "Safrania",
-            "es": "Ciudad Azafr\u00e1n",
-            "es_LA": "Ciudad Azafr\u00e1n",
-            "de": "Saffronia City",
-            "it": "Zafferanopoli",
-            "nl": "Saffron City",
-            "ru": "\u0428\u0430\u0444\u0440\u0430\u043d-\u0421\u0438\u0442\u0438",
-            "ja": "\u30e4\u30de\u30d6\u30ad\u30b7\u30c6\u30a3",
-            "zh_CN": "\u91d1\u9ec4\u5e02",
-            "zh_TW": "\u91d1\u9ec3\u5e02",
-            "ko": "\ub178\ub791\uc2dc\ud2f0"
-        }
+      "smashgg_id": "383",
+      "codename": "Poke_Yamabuki",
+      "locale": {
+        "fr": "Safrania",
+        "en_GB": "Saffron City",
+        "fr_CA": "Safrania",
+        "es": "Ciudad Azafr\u00e1n",
+        "es_LA": "Ciudad Azafr\u00e1n",
+        "de": "Saffronia City",
+        "it": "Zafferanopoli",
+        "nl": "Saffron City",
+        "ru": "\u0428\u0430\u0444\u0440\u0430\u043d-\u0421\u0438\u0442\u0438",
+        "ja": "\u30e4\u30de\u30d6\u30ad\u30b7\u30c6\u30a3",
+        "zh_CN": "\u91d1\u9ec4\u5e02",
+        "zh_TW": "\u91d1\u9ec3\u5e02",
+        "ko": "\ub178\ub791\uc2dc\ud2f0"
+      }
     },
     "Shadow Moses Island": {
-        "smashgg_id": "384",
-        "codename": "MG_Shadowmoses",
-        "locale": {
-            "fr": "\u00cele de Shadow Moses",
-            "en_GB": "Shadow Moses Island",
-            "fr_CA": "\u00cele de Shadow Moses",
-            "es": "Isla Shadow Moses",
-            "es_LA": "Isla Shadow Moses",
-            "de": "Shadow Moses Island",
-            "it": "L'isola di Shadow Moses",
-            "nl": "Shadow Moses",
-            "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0428\u0435\u0434\u043e\u0443 \u041c\u043e\u0437\u0435\u0441",
-            "ja": "\u30b7\u30e3\u30c9\u30fc\u30e2\u30bb\u30b9\u5cf6",
-            "zh_CN": "Shadow Moses Island",
-            "zh_TW": "Shadow Moses Island",
-            "ko": "\uc250\ub3c4\uc6b0 \ubaa8\uc138\uc2a4 \uc12c"
-        }
+      "smashgg_id": "384",
+      "codename": "MG_Shadowmoses",
+      "locale": {
+        "fr": "\u00cele de Shadow Moses",
+        "en_GB": "Shadow Moses Island",
+        "fr_CA": "\u00cele de Shadow Moses",
+        "es": "Isla Shadow Moses",
+        "es_LA": "Isla Shadow Moses",
+        "de": "Shadow Moses Island",
+        "it": "L'isola di Shadow Moses",
+        "nl": "Shadow Moses",
+        "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0428\u0435\u0434\u043e\u0443 \u041c\u043e\u0437\u0435\u0441",
+        "ja": "\u30b7\u30e3\u30c9\u30fc\u30e2\u30bb\u30b9\u5cf6",
+        "zh_CN": "Shadow Moses Island",
+        "zh_TW": "Shadow Moses Island",
+        "ko": "\uc250\ub3c4\uc6b0 \ubaa8\uc138\uc2a4 \uc12c"
+      }
     },
     "Skyloft": {
-        "smashgg_id": "385",
-        "codename": "Zelda_Skyward",
-        "locale": {
-            "fr": "C\u00e9lesbourg",
-            "en_GB": "Skyloft",
-            "fr_CA": "C\u00e9lesbourg",
-            "es": "Alt\u00e1rea",
-            "es_LA": "Neburia",
-            "de": "Wolkenhort",
-            "it": "Oltrenuvola",
-            "nl": "Skyloft",
-            "ru": "\u041d\u0435\u0431\u043e\u0437\u0435\u043c\u044c",
-            "ja": "\u30b9\u30ab\u30a4\u30ed\u30d5\u30c8",
-            "zh_CN": "\u7a7a\u4e2d\u697c\u9601",
-            "zh_TW": "\u7a7a\u4e2d\u6a13\u95a3",
-            "ko": "\uc2a4\uce74\uc774\ub85c\ud504\ud2b8"
-        }
+      "smashgg_id": "385",
+      "codename": "Zelda_Skyward",
+      "locale": {
+        "fr": "C\u00e9lesbourg",
+        "en_GB": "Skyloft",
+        "fr_CA": "C\u00e9lesbourg",
+        "es": "Alt\u00e1rea",
+        "es_LA": "Neburia",
+        "de": "Wolkenhort",
+        "it": "Oltrenuvola",
+        "nl": "Skyloft",
+        "ru": "\u041d\u0435\u0431\u043e\u0437\u0435\u043c\u044c",
+        "ja": "\u30b9\u30ab\u30a4\u30ed\u30d5\u30c8",
+        "zh_CN": "\u7a7a\u4e2d\u697c\u9601",
+        "zh_TW": "\u7a7a\u4e2d\u6a13\u95a3",
+        "ko": "\uc2a4\uce74\uc774\ub85c\ud504\ud2b8"
+      }
     },
     "Skyworld": {
-        "smashgg_id": "386",
-        "codename": "Icarus_SkyWorld",
-        "locale": {
-            "fr": "Royaume c\u00e9leste",
-            "en_GB": "Skyworld",
-            "fr_CA": "Royaume c\u00e9leste",
-            "es": "Reino del Cielo",
-            "es_LA": "Reino del Cielo",
-            "de": "Reich der L\u00fcfte",
-            "it": "Il Regno celeste",
-            "nl": "Luchtrijk",
-            "ru": "\u041f\u043e\u0434\u043d\u0435\u0431\u0435\u0441\u044c\u0435",
-            "ja": "\u5929\u7a7a\u754c",
-            "zh_CN": "Skyworld",
-            "zh_TW": "Skyworld",
-            "ko": "\ucc9c\uacf5\uacc4"
-        }
+      "smashgg_id": "386",
+      "codename": "Icarus_SkyWorld",
+      "locale": {
+        "fr": "Royaume c\u00e9leste",
+        "en_GB": "Skyworld",
+        "fr_CA": "Royaume c\u00e9leste",
+        "es": "Reino del Cielo",
+        "es_LA": "Reino del Cielo",
+        "de": "Reich der L\u00fcfte",
+        "it": "Il Regno celeste",
+        "nl": "Luchtrijk",
+        "ru": "\u041f\u043e\u0434\u043d\u0435\u0431\u0435\u0441\u044c\u0435",
+        "ja": "\u5929\u7a7a\u754c",
+        "zh_CN": "Skyworld",
+        "zh_TW": "Skyworld",
+        "ko": "\ucc9c\uacf5\uacc4"
+      }
     },
     "Smashville": {
-        "smashgg_id": "387",
-        "codename": "Animal_Village",
-        "locale": {
-            "fr": "Smash Ville",
-            "en_GB": "Smashville",
-            "fr_CA": "Smash Ville",
-            "es": "Pueblo Smash",
-            "es_LA": "Pueblo Smash",
-            "de": "Smash-Stadt",
-            "it": "Smash Village",
-            "nl": "Smashdorp",
-            "ru": "\u0421\u043c\u0435\u0448\u0432\u0438\u043b\u044c",
-            "ja": "\u3059\u307e\u6751",
-            "zh_CN": "\u4efb\u5929\u6751",
-            "zh_TW": "\u4efb\u5929\u6751",
-            "ko": "\uc2a4\ub9e4\uc2dc \ub9c8\uc744"
-        }
+      "smashgg_id": "387",
+      "codename": "Animal_Village",
+      "locale": {
+        "fr": "Smash Ville",
+        "en_GB": "Smashville",
+        "fr_CA": "Smash Ville",
+        "es": "Pueblo Smash",
+        "es_LA": "Pueblo Smash",
+        "de": "Smash-Stadt",
+        "it": "Smash Village",
+        "nl": "Smashdorp",
+        "ru": "\u0421\u043c\u0435\u0448\u0432\u0438\u043b\u044c",
+        "ja": "\u3059\u307e\u6751",
+        "zh_CN": "\u4efb\u5929\u6751",
+        "zh_TW": "\u4efb\u5929\u6751",
+        "ko": "\uc2a4\ub9e4\uc2dc \ub9c8\uc744"
+      }
     },
     "Spear Pillar": {
-        "smashgg_id": "388",
-        "codename": "Poke_Tengam",
-        "locale": {
-            "fr": "Colonnes Lances",
-            "en_GB": "Spear Pillar",
-            "fr_CA": "Colonnes Lances",
-            "es": "Columna Lanza",
-            "es_LA": "Columna Lanza",
-            "de": "Speers\u00e4ule",
-            "it": "Vetta Lancia",
-            "nl": "Spear Pillar",
-            "ru": "\u041a\u043e\u043f\u0435\u0439\u043d\u043e\u0435 \u041f\u043b\u0430\u0442\u043e",
-            "ja": "\u30c6\u30f3\u30ac\u30f3\u3056\u3093 \u3084\u308a\u306e\u306f\u3057\u3089",
-            "zh_CN": "\u5929\u51a0\u5c71 \u67aa\u4e4b\u67f1",
-            "zh_TW": "\u5929\u51a0\u5c71 \u69cd\u4e4b\u67f1",
-            "ko": "\ucc9c\uad00\uc0b0 \ucc3d\uae30\ub465"
-        }
+      "smashgg_id": "388",
+      "codename": "Poke_Tengam",
+      "locale": {
+        "fr": "Colonnes Lances",
+        "en_GB": "Spear Pillar",
+        "fr_CA": "Colonnes Lances",
+        "es": "Columna Lanza",
+        "es_LA": "Columna Lanza",
+        "de": "Speers\u00e4ule",
+        "it": "Vetta Lancia",
+        "nl": "Spear Pillar",
+        "ru": "\u041a\u043e\u043f\u0435\u0439\u043d\u043e\u0435 \u041f\u043b\u0430\u0442\u043e",
+        "ja": "\u30c6\u30f3\u30ac\u30f3\u3056\u3093 \u3084\u308a\u306e\u306f\u3057\u3089",
+        "zh_CN": "\u5929\u51a0\u5c71 \u67aa\u4e4b\u67f1",
+        "zh_TW": "\u5929\u51a0\u5c71 \u69cd\u4e4b\u67f1",
+        "ko": "\ucc9c\uad00\uc0b0 \ucc3d\uae30\ub465"
+      }
     },
     "Spirit Train": {
-        "smashgg_id": "389",
-        "codename": "Zelda_Train",
-        "locale": {
-            "fr": "Locomotive des dieux",
-            "en_GB": "Spirit Train",
-            "fr_CA": "Locomotive des Esprits",
-            "es": "Tren de los Dioses",
-            "es_LA": "Tren de los Dioses",
-            "de": "Zug der G\u00f6tter",
-            "it": "Treno degli Spiriti",
-            "nl": "Trein der Wijzen",
-            "ru": "\u041f\u043e\u0435\u0437\u0434 \u0434\u0443\u0445\u043e\u0432",
-            "ja": "\u6c7d\u8eca",
-            "zh_CN": "\u84b8\u6c7d\u706b\u8f66",
-            "zh_TW": "\u84b8\u6c7d\u706b\u8eca",
-            "ko": "\uae30\ucc28"
-        }
+      "smashgg_id": "389",
+      "codename": "Zelda_Train",
+      "locale": {
+        "fr": "Locomotive des dieux",
+        "en_GB": "Spirit Train",
+        "fr_CA": "Locomotive des Esprits",
+        "es": "Tren de los Dioses",
+        "es_LA": "Tren de los Dioses",
+        "de": "Zug der G\u00f6tter",
+        "it": "Treno degli Spiriti",
+        "nl": "Trein der Wijzen",
+        "ru": "\u041f\u043e\u0435\u0437\u0434 \u0434\u0443\u0445\u043e\u0432",
+        "ja": "\u6c7d\u8eca",
+        "zh_CN": "\u84b8\u6c7d\u706b\u8f66",
+        "zh_TW": "\u84b8\u6c7d\u706b\u8eca",
+        "ko": "\uae30\ucc28"
+      }
     },
     "Summit": {
-        "smashgg_id": "390",
-        "codename": "Ice_Top",
-        "locale": {
-            "fr": "Sommet",
-            "en_GB": "Summit",
-            "fr_CA": "Sommet",
-            "es": "La C\u00faspide",
-            "es_LA": "La C\u00faspide",
-            "de": "Gipfel",
-            "it": "La cima",
-            "nl": "Bergtop",
-            "ru": "\u0421\u043d\u0435\u0436\u043d\u0430\u044f \u0432\u0435\u0440\u0448\u0438\u043d\u0430",
-            "ja": "\u9802\u4e0a",
-            "zh_CN": "\u5cf0\u9876",
-            "zh_TW": "\u5cf0\u9802",
-            "ko": "\uc815\uc0c1"
-        }
+      "smashgg_id": "390",
+      "codename": "Ice_Top",
+      "locale": {
+        "fr": "Sommet",
+        "en_GB": "Summit",
+        "fr_CA": "Sommet",
+        "es": "La C\u00faspide",
+        "es_LA": "La C\u00faspide",
+        "de": "Gipfel",
+        "it": "La cima",
+        "nl": "Bergtop",
+        "ru": "\u0421\u043d\u0435\u0436\u043d\u0430\u044f \u0432\u0435\u0440\u0448\u0438\u043d\u0430",
+        "ja": "\u9802\u4e0a",
+        "zh_CN": "\u5cf0\u9876",
+        "zh_TW": "\u5cf0\u9802",
+        "ko": "\uc815\uc0c1"
+      }
     },
     "Super Happy Tree": {
-        "smashgg_id": "391",
-        "codename": "Yoshi_Story",
-        "locale": {
-            "fr": "Arbre Magique du Bonheur",
-            "en_GB": "Super Happy Tree",
-            "fr_CA": "Arbre Magique du Bonheur",
-            "es": "\u00c1rbol de la superfelicidad[1]",
-            "es_LA": "\u00c1rbol de la superfelicidad[1]",
-            "de": "Happy-Baum",
-            "it": "Grande Albero della Felicit\u00e0",
-            "nl": "Bijzonder Blije Boom",
-            "ru": "\u0421\u0443\u043f\u0435\u0440\u0434\u0435\u0440\u0435\u0432\u043e \u0441\u0447\u0430\u0441\u0442\u044c\u044f",
-            "ja": "\u30b9\u30fc\u30d1\u30fc\u3057\u3042\u308f\u305b\u306e\u30c4\u30ea\u30fc",
-            "zh_CN": "\u8d85\u7ea7\u5feb\u4e50\u6811",
-            "zh_TW": "Super Happy Tree",
-            "ko": "\uc288\ud37c \ud574\ud53c \ud2b8\ub9ac"
-        }
+      "smashgg_id": "391",
+      "codename": "Yoshi_Story",
+      "locale": {
+        "fr": "Arbre Magique du Bonheur",
+        "en_GB": "Super Happy Tree",
+        "fr_CA": "Arbre Magique du Bonheur",
+        "es": "\u00c1rbol de la superfelicidad[1]",
+        "es_LA": "\u00c1rbol de la superfelicidad[1]",
+        "de": "Happy-Baum",
+        "it": "Grande Albero della Felicit\u00e0",
+        "nl": "Bijzonder Blije Boom",
+        "ru": "\u0421\u0443\u043f\u0435\u0440\u0434\u0435\u0440\u0435\u0432\u043e \u0441\u0447\u0430\u0441\u0442\u044c\u044f",
+        "ja": "\u30b9\u30fc\u30d1\u30fc\u3057\u3042\u308f\u305b\u306e\u30c4\u30ea\u30fc",
+        "zh_CN": "\u8d85\u7ea7\u5feb\u4e50\u6811",
+        "zh_TW": "Super Happy Tree",
+        "ko": "\uc288\ud37c \ud574\ud53c \ud2b8\ub9ac"
+      }
     },
     "Super Mario Maker": {
-        "smashgg_id": "392",
-        "codename": "Mario_Maker"
+      "smashgg_id": "392",
+      "codename": "Mario_Maker"
     },
     "Suzaku Castle": {
-        "smashgg_id": "393",
-        "codename": "SF_Suzaku",
-        "locale": {
-            "en_GB": "Suzaku Castle",
-            "fr": "Suzaku Castle",
-            "fr_CA": "Ch\u00e2teau Suzaku",
-            "es": "Suzaku Castle",
-            "es_LA": "Castillo de Suzaku",
-            "de": "Suzaku Castle",
-            "it": "Suzaku Castle",
-            "nl": "Suzaku-Kasteel",
-            "ru": "\u0417\u0430\u043c\u043e\u043a \u0421\u0443\u0434\u0437\u0430\u043a\u0443",
-            "ja": "\u6731\u96c0\u57ce",
-            "zh_CN": "\u6731\u96c0\u57ce",
-            "zh_TW": "Suzaku Castle",
-            "ko": "\uc8fc\uc791\uc131"
-        }
+      "smashgg_id": "393",
+      "codename": "SF_Suzaku",
+      "locale": {
+        "en_GB": "Suzaku Castle",
+        "fr": "Suzaku Castle",
+        "fr_CA": "Ch\u00e2teau Suzaku",
+        "es": "Suzaku Castle",
+        "es_LA": "Castillo de Suzaku",
+        "de": "Suzaku Castle",
+        "it": "Suzaku Castle",
+        "nl": "Suzaku-Kasteel",
+        "ru": "\u0417\u0430\u043c\u043e\u043a \u0421\u0443\u0434\u0437\u0430\u043a\u0443",
+        "ja": "\u6731\u96c0\u57ce",
+        "zh_CN": "\u6731\u96c0\u57ce",
+        "zh_TW": "Suzaku Castle",
+        "ko": "\uc8fc\uc791\uc131"
+      }
     },
     "Temple": {
-        "smashgg_id": "394",
-        "codename": "Zelda_Temple",
-        "locale": {
-            "en_GB": "Temple",
-            "fr": "Temple",
-            "fr_CA": "Temple",
-            "es": "Templo",
-            "es_LA": "Templo",
-            "de": "Hyrule-Tempel",
-            "it": "Il tempio",
-            "nl": "Tempel",
-            "ru": "\u0425\u0440\u0430\u043c",
-            "ja": "\u795e\u6bbf",
-            "zh_CN": "\u795e\u6bbf",
-            "zh_TW": "\u795e\u6bbf",
-            "ko": "\uc2e0\uc804"
-        }
+      "smashgg_id": "394",
+      "codename": "Zelda_Temple",
+      "locale": {
+        "en_GB": "Temple",
+        "fr": "Temple",
+        "fr_CA": "Temple",
+        "es": "Templo",
+        "es_LA": "Templo",
+        "de": "Hyrule-Tempel",
+        "it": "Il tempio",
+        "nl": "Tempel",
+        "ru": "\u0425\u0440\u0430\u043c",
+        "ja": "\u795e\u6bbf",
+        "zh_CN": "\u795e\u6bbf",
+        "zh_TW": "\u795e\u6bbf",
+        "ko": "\uc2e0\uc804"
+      }
     },
     "Tomodachi Life": {
-        "smashgg_id": "395",
-        "codename": "Tomodachi",
-        "locale": {
-            "en_GB": "Tomodachi Life",
-            "fr": "Tomodachi Life",
-            "fr_CA": "Tomodachi Life",
-            "es": "Tomodachi Life",
-            "es_LA": "Tomodachi Life",
-            "de": "Tomodachi Life",
-            "it": "Tomodachi Life",
-            "nl": "Tomodachi Life",
-            "ru": "\u0423\u0442\u0438\u043d\u0430\u044f \u043e\u0445\u043e\u0442\u0430",
-            "ja": "\u30c8\u30e2\u30c0\u30c1\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-            "zh_CN": "Tomodachi Life",
-            "zh_TW": "Tomodachi Life",
-            "ko": "\uce5c\uad6c\ubaa8\uc544 \uc544\ud30c\ud2b8"
-        }
+      "smashgg_id": "395",
+      "codename": "Tomodachi",
+      "locale": {
+        "en_GB": "Tomodachi Life",
+        "fr": "Tomodachi Life",
+        "fr_CA": "Tomodachi Life",
+        "es": "Tomodachi Life",
+        "es_LA": "Tomodachi Life",
+        "de": "Tomodachi Life",
+        "it": "Tomodachi Life",
+        "nl": "Tomodachi Life",
+        "ru": "\u0423\u0442\u0438\u043d\u0430\u044f \u043e\u0445\u043e\u0442\u0430",
+        "ja": "\u30c8\u30e2\u30c0\u30c1\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "zh_CN": "Tomodachi Life",
+        "zh_TW": "Tomodachi Life",
+        "ko": "\uce5c\uad6c\ubaa8\uc544 \uc544\ud30c\ud2b8"
+      }
     },
     "Tortimer Island": {
-        "smashgg_id": "396",
-        "codename": "Animal_Island",
-        "locale": {
-            "fr": "Tortiland",
-            "en_GB": "Tortimer Island",
-            "fr_CA": "Tortiland",
-            "es": "Isla T\u00f3rtimer",
-            "es_LA": "Isla T\u00f3rtimer",
-            "de": "T\u00f6rtel-Insel",
-            "it": "Isola di Tortimer",
-            "nl": "Tortimer-Eiland",
-            "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0422\u043e\u0440\u0442\u0438\u043c\u0435\u0440\u0430",
-            "ja": "\u30b3\u30c8\u30d6\u30ad\u30e9\u30f3\u30c9",
-            "zh_CN": "Tortimer Island",
-            "zh_TW": "Tortimer Island",
-            "ko": "\uace0\ubd81\ub79c\ub4dc"
-        }
+      "smashgg_id": "396",
+      "codename": "Animal_Island",
+      "locale": {
+        "fr": "Tortiland",
+        "en_GB": "Tortimer Island",
+        "fr_CA": "Tortiland",
+        "es": "Isla T\u00f3rtimer",
+        "es_LA": "Isla T\u00f3rtimer",
+        "de": "T\u00f6rtel-Insel",
+        "it": "Isola di Tortimer",
+        "nl": "Tortimer-Eiland",
+        "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0422\u043e\u0440\u0442\u0438\u043c\u0435\u0440\u0430",
+        "ja": "\u30b3\u30c8\u30d6\u30ad\u30e9\u30f3\u30c9",
+        "zh_CN": "Tortimer Island",
+        "zh_TW": "Tortimer Island",
+        "ko": "\uace0\ubd81\ub79c\ub4dc"
+      }
     },
     "Town and City": {
-        "smashgg_id": "397",
-        "codename": "Animal_City",
-        "locale": {
-            "fr": "Ville & centre-ville",
-            "en_GB": "Town and City",
-            "fr_CA": "Ville et village",
-            "es": "Sobrevolando el pueblo",
-            "es_LA": "El pueblo y la ciudad",
-            "de": "Stadt und Gro\u00dfstadt",
-            "it": "Campagna e citt\u00e0",
-            "nl": "Dorp en Stad",
-            "ru": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a \u0438 \u0433\u043e\u0440\u043e\u0434",
-            "ja": "\u6751\u3068\u8857",
-            "zh_CN": "\u6751\u5e84\u4e0e\u8857\u9053",
-            "zh_TW": "\u6751\u838a\u8207\u8857\u9053",
-            "ko": "\ub9c8\uc744\uacfc \ud0c0\uc6b4"
-        }
+      "smashgg_id": "397",
+      "codename": "Animal_City",
+      "locale": {
+        "fr": "Ville & centre-ville",
+        "en_GB": "Town and City",
+        "fr_CA": "Ville et village",
+        "es": "Sobrevolando el pueblo",
+        "es_LA": "El pueblo y la ciudad",
+        "de": "Stadt und Gro\u00dfstadt",
+        "it": "Campagna e citt\u00e0",
+        "nl": "Dorp en Stad",
+        "ru": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a \u0438 \u0433\u043e\u0440\u043e\u0434",
+        "ja": "\u6751\u3068\u8857",
+        "zh_CN": "\u6751\u5e84\u4e0e\u8857\u9053",
+        "zh_TW": "\u6751\u838a\u8207\u8857\u9053",
+        "ko": "\ub9c8\uc744\uacfc \ud0c0\uc6b4"
+      }
     },
     "Umbra Clock Tower": {
-        "smashgg_id": "398",
-        "codename": "Bayo_Clock",
-        "locale": {
-            "fr": "Tour de l'horloge de l'Umbra",
-            "en_GB": "Umbra Clock Tower",
-            "fr_CA": "Tour de l'horloge de l'Umbra",
-            "es": "Torre del reloj de Umbra",
-            "es_LA": "Torre del reloj de Umbra",
-            "de": "Umbra-Uhrturm",
-            "it": "Torre dell'orologio di Umbra",
-            "nl": "Umbra-Klokkentoren",
-            "ru": "\u0427\u0430\u0441\u043e\u0432\u0430\u044f \u0431\u0430\u0448\u043d\u044f \u0423\u043c\u0431\u0440\u044b",
-            "ja": "\u30a2\u30f3\u30d6\u30e9\u306e\u6642\u8a08\u5854",
-            "zh_CN": "\u5b89\u67cf\u62c9\u7684\u65f6\u949f\u5854",
-            "zh_TW": "\u5b89\u67cf\u62c9\u7684\u6642\u9418\u5854",
-            "ko": "\uc5c4\ube0c\ub77c\uc758 \uc2dc\uacc4\ud0d1"
-        }
+      "smashgg_id": "398",
+      "codename": "Bayo_Clock",
+      "locale": {
+        "fr": "Tour de l'horloge de l'Umbra",
+        "en_GB": "Umbra Clock Tower",
+        "fr_CA": "Tour de l'horloge de l'Umbra",
+        "es": "Torre del reloj de Umbra",
+        "es_LA": "Torre del reloj de Umbra",
+        "de": "Umbra-Uhrturm",
+        "it": "Torre dell'orologio di Umbra",
+        "nl": "Umbra-Klokkentoren",
+        "ru": "\u0427\u0430\u0441\u043e\u0432\u0430\u044f \u0431\u0430\u0448\u043d\u044f \u0423\u043c\u0431\u0440\u044b",
+        "ja": "\u30a2\u30f3\u30d6\u30e9\u306e\u6642\u8a08\u5854",
+        "zh_CN": "\u5b89\u67cf\u62c9\u7684\u65f6\u949f\u5854",
+        "zh_TW": "\u5b89\u67cf\u62c9\u7684\u6642\u9418\u5854",
+        "ko": "\uc5c4\ube0c\ub77c\uc758 \uc2dc\uacc4\ud0d1"
+      }
     },
     "Unova Pok\u00e9mon League": {
-        "smashgg_id": "399",
-        "codename": "Poke_Unova",
-        "locale": {
-            "fr": "Ligue Pok\u00e9mon d'Unys",
-            "en_GB": "Unova Pok\u00e9mon League",
-            "fr_CA": "Ligue Pok\u00e9mon d'Unys",
-            "es": "Liga Pok\u00e9mon de Teselia",
-            "es_LA": "Liga Pok\u00e9mon de Teselia",
-            "de": "Einall-Pok\u00e9mon-Liga",
-            "it": "Lega Pok\u00e9mon di Unima",
-            "nl": "Unova League",
-            "ru": "\u041b\u0438\u0433\u0430 \u042e\u043d\u043e\u0432\u0430",
-            "ja": "\u30a4\u30c3\u30b7\u30e5\u30dd\u30b1\u30e2\u30f3\u30ea\u30fc\u30b0",
-            "zh_CN": "\u5408\u4f17\u5b9d\u53ef\u68a6\u8054\u76df",
-            "zh_TW": "\u5408\u773e\u5bf6\u53ef\u5922\u806f\u76df",
-            "ko": "\ud558\ub098 \ud3ec\ucf13\ubaac\ub9ac\uadf8"
-        }
+      "smashgg_id": "399",
+      "codename": "Poke_Unova",
+      "locale": {
+        "fr": "Ligue Pok\u00e9mon d'Unys",
+        "en_GB": "Unova Pok\u00e9mon League",
+        "fr_CA": "Ligue Pok\u00e9mon d'Unys",
+        "es": "Liga Pok\u00e9mon de Teselia",
+        "es_LA": "Liga Pok\u00e9mon de Teselia",
+        "de": "Einall-Pok\u00e9mon-Liga",
+        "it": "Lega Pok\u00e9mon di Unima",
+        "nl": "Unova League",
+        "ru": "\u041b\u0438\u0433\u0430 \u042e\u043d\u043e\u0432\u0430",
+        "ja": "\u30a4\u30c3\u30b7\u30e5\u30dd\u30b1\u30e2\u30f3\u30ea\u30fc\u30b0",
+        "zh_CN": "\u5408\u4f17\u5b9d\u53ef\u68a6\u8054\u76df",
+        "zh_TW": "\u5408\u773e\u5bf6\u53ef\u5922\u806f\u76df",
+        "ko": "\ud558\ub098 \ud3ec\ucf13\ubaac\ub9ac\uadf8"
+      }
     },
     "Venom": {
-        "smashgg_id": "400",
-        "codename": "Fox_Venom",
-        "locale": {
-            "en_GB": "Venom",
-            "fr": "Venom",
-            "fr_CA": "Venom",
-            "es": "Venom",
-            "es_LA": "Venom",
-            "de": "Venom",
-            "it": "Venom",
-            "nl": "Venom",
-            "ru": "\u0412\u0435\u043d\u043e\u043c",
-            "ja": "\u60d1\u661f\u30d9\u30ce\u30e0",
-            "zh_CN": "\u884c\u661f\u7ef4\u8bfa",
-            "zh_TW": "\u884c\u661f\u7dad\u8afe",
-            "ko": "\ubca0\ub188 \ud589\uc131"
-        }
+      "smashgg_id": "400",
+      "codename": "Fox_Venom",
+      "locale": {
+        "en_GB": "Venom",
+        "fr": "Venom",
+        "fr_CA": "Venom",
+        "es": "Venom",
+        "es_LA": "Venom",
+        "de": "Venom",
+        "it": "Venom",
+        "nl": "Venom",
+        "ru": "\u0412\u0435\u043d\u043e\u043c",
+        "ja": "\u60d1\u661f\u30d9\u30ce\u30e0",
+        "zh_CN": "\u884c\u661f\u7ef4\u8bfa",
+        "zh_TW": "\u884c\u661f\u7dad\u8afe",
+        "ko": "\ubca0\ub188 \ud589\uc131"
+      }
     },
     "WarioWare, Inc.": {
-        "smashgg_id": "401",
-        "codename": "Wario_Madein",
-        "locale": {
-            "en_GB": "WarioWare, Inc.",
-            "fr": "WarioWare, Inc.",
-            "fr_CA": "WarioWare, Inc.",
-            "es": "WarioWare, Inc.",
-            "es_LA": "WarioWare, Inc.",
-            "de": "WarioWare, Inc.",
-            "it": "WarioWare, Inc.",
-            "nl": "WarioWare, Inc.",
-            "ru": "\u0412\u0430\u0440\u0438\u043e\u0412\u044d\u0440, \u0418\u043d\u043a.",
-            "ja": "\u30e1\u30a4\u30c9 \u30a4\u30f3 \u30ef\u30ea\u30aa",
-            "zh_CN": "\u74e6\u529b\u6b27\u5236\u9020",
-            "zh_TW": "WarioWare, Inc.",
-            "ko": "\uba54\uc774\ub4dc \uc778 \uc640\ub9ac\uc624"
-        }
+      "smashgg_id": "401",
+      "codename": "Wario_Madein",
+      "locale": {
+        "en_GB": "WarioWare, Inc.",
+        "fr": "WarioWare, Inc.",
+        "fr_CA": "WarioWare, Inc.",
+        "es": "WarioWare, Inc.",
+        "es_LA": "WarioWare, Inc.",
+        "de": "WarioWare, Inc.",
+        "it": "WarioWare, Inc.",
+        "nl": "WarioWare, Inc.",
+        "ru": "\u0412\u0430\u0440\u0438\u043e\u0412\u044d\u0440, \u0418\u043d\u043a.",
+        "ja": "\u30e1\u30a4\u30c9 \u30a4\u30f3 \u30ef\u30ea\u30aa",
+        "zh_CN": "\u74e6\u529b\u6b27\u5236\u9020",
+        "zh_TW": "WarioWare, Inc.",
+        "ko": "\uba54\uc774\ub4dc \uc778 \uc640\ub9ac\uc624"
+      }
     },
     "Wii Fit Studio": {
-        "smashgg_id": "402",
-        "codename": "WiiFit",
-        "locale": {
-            "fr": "Studio Wii Fit",
-            "en_GB": "Wii Fit Studio",
-            "fr_CA": "Salle d'entra\u00eenement Wii Fit",
-            "es": "Sala de Wii Fit",
-            "es_LA": "Sala de Wii Fit",
-            "de": "Wii Fit-Studio",
-            "it": "Palestra Wii Fit",
-            "nl": "Wii Fit-Studio",
-            "ru": "\u0417\u0430\u043b Wii Fit",
-            "ja": "Wii Fit \u30b9\u30bf\u30b8\u30aa",
-            "zh_CN": "Wii Fit\u5065\u8eab\u623f",
-            "zh_TW": "Wii Fit\u5065\u8eab\u623f",
-            "ko": "Wii Fit \uc2a4\ud29c\ub514\uc624"
-        }
+      "smashgg_id": "402",
+      "codename": "WiiFit",
+      "locale": {
+        "fr": "Studio Wii Fit",
+        "en_GB": "Wii Fit Studio",
+        "fr_CA": "Salle d'entra\u00eenement Wii Fit",
+        "es": "Sala de Wii Fit",
+        "es_LA": "Sala de Wii Fit",
+        "de": "Wii Fit-Studio",
+        "it": "Palestra Wii Fit",
+        "nl": "Wii Fit-Studio",
+        "ru": "\u0417\u0430\u043b Wii Fit",
+        "ja": "Wii Fit \u30b9\u30bf\u30b8\u30aa",
+        "zh_CN": "Wii Fit\u5065\u8eab\u623f",
+        "zh_TW": "Wii Fit\u5065\u8eab\u623f",
+        "ko": "Wii Fit \uc2a4\ud29c\ub514\uc624"
+      }
     },
     "Windy Hill Zone": {
-        "smashgg_id": "403",
-        "codename": "Sonic_Windyhill",
-        "locale": {
-            "fr": "Zone Windy Hill",
-            "en_GB": "Windy Hill Zone",
-            "fr_CA": "Zone Windy Hill",
-            "es": "Zona Windy Hill",
-            "es_LA": "Zona Windy Hill",
-            "de": "Windy Hill Zone",
-            "it": "Zona Windy Hill",
-            "nl": "Windy Hill Zone",
-            "ru": "\u0425\u043e\u043b\u043c\u044b \u0432\u0435\u0442\u0440\u043e\u0432",
-            "ja": "\u30a6\u30a4\u30f3\u30c7\u30a3\u30d2\u30eb",
-            "zh_CN": "Windy Hill Zone",
-            "zh_TW": "Windy Hill Zone",
-            "ko": "\uc708\ub514 \ud790"
-        }
+      "smashgg_id": "403",
+      "codename": "Sonic_Windyhill",
+      "locale": {
+        "fr": "Zone Windy Hill",
+        "en_GB": "Windy Hill Zone",
+        "fr_CA": "Zone Windy Hill",
+        "es": "Zona Windy Hill",
+        "es_LA": "Zona Windy Hill",
+        "de": "Windy Hill Zone",
+        "it": "Zona Windy Hill",
+        "nl": "Windy Hill Zone",
+        "ru": "\u0425\u043e\u043b\u043c\u044b \u0432\u0435\u0442\u0440\u043e\u0432",
+        "ja": "\u30a6\u30a4\u30f3\u30c7\u30a3\u30d2\u30eb",
+        "zh_CN": "Windy Hill Zone",
+        "zh_TW": "Windy Hill Zone",
+        "ko": "\uc708\ub514 \ud790"
+      }
     },
     "Wrecking Crew": {
-        "smashgg_id": "404",
-        "codename": "WreckingCrew"
+      "smashgg_id": "404",
+      "codename": "WreckingCrew"
     },
     "Wuhu Island": {
-        "smashgg_id": "405",
-        "codename": "WufuIsland",
-        "locale": {
-            "fr": "\u00cele Wuhu",
-            "en_GB": "Wuhu Island",
-            "fr_CA": "\u00cele Wuhu",
-            "es": "Islas Wuhu",
-            "es_LA": "Islas Wuhu",
-            "de": "Wuhu Island",
-            "it": "Arcipelago di Wuhu",
-            "nl": "Wuhu-Eiland",
-            "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0412\u0443\u0445\u0443",
-            "ja": "\u30a6\u30fc\u30d5\u30fc\u30a2\u30a4\u30e9\u30f3\u30c9",
-            "zh_CN": "\u4e4c\u5bcc\u5c9b",
-            "zh_TW": "\u70cf\u5bcc\u5cf6",
-            "ko": "\uc6b0\ud6c4 \uc544\uc77c\ub79c\ub4dc"
-        }
+      "smashgg_id": "405",
+      "codename": "WufuIsland",
+      "locale": {
+        "fr": "\u00cele Wuhu",
+        "en_GB": "Wuhu Island",
+        "fr_CA": "\u00cele Wuhu",
+        "es": "Islas Wuhu",
+        "es_LA": "Islas Wuhu",
+        "de": "Wuhu Island",
+        "it": "Arcipelago di Wuhu",
+        "nl": "Wuhu-Eiland",
+        "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0412\u0443\u0445\u0443",
+        "ja": "\u30a6\u30fc\u30d5\u30fc\u30a2\u30a4\u30e9\u30f3\u30c9",
+        "zh_CN": "\u4e4c\u5bcc\u5c9b",
+        "zh_TW": "\u70cf\u5bcc\u5cf6",
+        "ko": "\uc6b0\ud6c4 \uc544\uc77c\ub79c\ub4dc"
+      }
     },
     "Yoshi's Island": {
-        "smashgg_id": "406",
-        "codename": "Yoshi_Island",
-        "locale": {
-            "fr": "\u00cele de Yoshi",
-            "en_GB": "Yoshi's Island",
-            "fr_CA": "\u00cele de Yoshi",
-            "es": "Isla de Yoshi",
-            "es_LA": "Isla de Yoshi",
-            "de": "Yoshi's Island",
-            "it": "L'Isola Yoshi",
-            "nl": "Yoshi's Eiland",
-            "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0419\u043e\u0448\u0438",
-            "ja": "\u30e8\u30c3\u30b7\u30fc\u30a2\u30a4\u30e9\u30f3\u30c9",
-            "zh_CN": "\u8000\u897f\u5c9b",
-            "zh_TW": "Yoshi's Island",
-            "ko": "\uc694\uc2dc \uc544\uc77c\ub79c\ub4dc"
-        }
+      "smashgg_id": "406",
+      "codename": "Yoshi_Island",
+      "locale": {
+        "fr": "\u00cele de Yoshi",
+        "en_GB": "Yoshi's Island",
+        "fr_CA": "\u00cele de Yoshi",
+        "es": "Isla de Yoshi",
+        "es_LA": "Isla de Yoshi",
+        "de": "Yoshi's Island",
+        "it": "L'Isola Yoshi",
+        "nl": "Yoshi's Eiland",
+        "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0419\u043e\u0448\u0438",
+        "ja": "\u30e8\u30c3\u30b7\u30fc\u30a2\u30a4\u30e9\u30f3\u30c9",
+        "zh_CN": "\u8000\u897f\u5c9b",
+        "zh_TW": "Yoshi's Island",
+        "ko": "\uc694\uc2dc \uc544\uc77c\ub79c\ub4dc"
+      }
     },
     "Yoshi's Island (Melee)": {
-        "codename": "Yoshi_Yoster",
-        "locale": {
-            "fr": "\u00cele de Yoshi (Melee)",
-            "en_GB": "Yoshi's Island (Melee)",
-            "fr_CA": "\u00cele de Yoshi (Melee)",
-            "es": "Isla de Yoshi (Melee)",
-            "es_LA": "Isla de Yoshi (Melee)",
-            "de": "Yoshi's Island (Melee)",
-            "it": "L'Isola Yoshi (Melee)",
-            "nl": "Yoshi's Eiland (Melee)",
-            "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0419\u043e\u0448\u0438 (Melee)",
-            "ja": "\u30e8\u30fc\u30b9\u30bf\u30fc\u5cf6",
-            "zh_CN": "Yoshi's Island (Melee)",
-            "zh_TW": "Yoshi's Island (Melee)",
-            "ko": "\uc694\uc2a4\ud0c0 \uc12c"
-        }
+      "codename": "Yoshi_Yoster",
+      "locale": {
+        "fr": "\u00cele de Yoshi (Melee)",
+        "en_GB": "Yoshi's Island (Melee)",
+        "fr_CA": "\u00cele de Yoshi (Melee)",
+        "es": "Isla de Yoshi (Melee)",
+        "es_LA": "Isla de Yoshi (Melee)",
+        "de": "Yoshi's Island (Melee)",
+        "it": "L'Isola Yoshi (Melee)",
+        "nl": "Yoshi's Eiland (Melee)",
+        "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0419\u043e\u0448\u0438 (Melee)",
+        "ja": "\u30e8\u30fc\u30b9\u30bf\u30fc\u5cf6",
+        "zh_CN": "Yoshi's Island (Melee)",
+        "zh_TW": "Yoshi's Island (Melee)",
+        "ko": "\uc694\uc2a4\ud0c0 \uc12c"
+      }
     },
     "Yoshi's Story": {
-        "smashgg_id": "407",
-        "codename": "Yoshi_CartBoard"
+      "smashgg_id": "407",
+      "codename": "Yoshi_CartBoard"
     },
     "Wily's Castle": {
-        "smashgg_id": "408",
-        "codename": "Rock_Wily",
-        "locale": {
-            "fr": "Ch\u00e2teau du Dr Wily",
-            "en_GB": "Wily Castle",
-            "fr_CA": "Ch\u00e2teau du Dr Wily",
-            "es": "Castillo de Wily",
-            "es_LA": "Castillo de Wily",
-            "de": "Wilys Schloss",
-            "it": "Castello del Dr. Wily",
-            "nl": "Wily's Kasteel",
-            "ru": "\u0417\u0430\u043c\u043e\u043a \u0423\u0430\u0439\u043b\u0438",
-            "ja": "\u30ef\u30a4\u30ea\u30fc\u57fa\u5730",
-            "zh_CN": "Wily Castle",
-            "zh_TW": "Wily Castle",
-            "ko": "\uc640\uc774\ub9ac \uae30\uc9c0"
-        }
+      "smashgg_id": "408",
+      "codename": "Rock_Wily",
+      "locale": {
+        "fr": "Ch\u00e2teau du Dr Wily",
+        "en_GB": "Wily Castle",
+        "fr_CA": "Ch\u00e2teau du Dr Wily",
+        "es": "Castillo de Wily",
+        "es_LA": "Castillo de Wily",
+        "de": "Wilys Schloss",
+        "it": "Castello del Dr. Wily",
+        "nl": "Wily's Kasteel",
+        "ru": "\u0417\u0430\u043c\u043e\u043a \u0423\u0430\u0439\u043b\u0438",
+        "ja": "\u30ef\u30a4\u30ea\u30fc\u57fa\u5730",
+        "zh_CN": "Wily Castle",
+        "zh_TW": "Wily Castle",
+        "ko": "\uc640\uc774\ub9ac \uae30\uc9c0"
+      }
     },
     "Small Battlefield": {
-        "smashgg_id": "484",
-        "codename": "BattleFieldS",
-        "locale": {
-            "fr": "Petit Champ de Bataille",
-            "en_GB": "Small Battlefield",
-            "fr_CA": "Petit Champ de Bataille",
-            "es": "Peque\u00f1o campo de batalla",
-            "es_LA": "Peque\u00f1o campo de batalla",
-            "de": "Kleines Schlachtfeld",
-            "it": "Le rovine XS",
-            "nl": "Klein Slagveld",
-            "ru": "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u043e\u0435 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f",
-            "ja": "\u5c0f\u6226\u5834",
-            "zh_CN": "\u5c0f\u6218\u573a",
-            "zh_TW": "\u5c0f\u6230\u5834",
-            "ko": "\uc18c\uc804\uc7a5"
-        }
+      "smashgg_id": "484",
+      "codename": "BattleFieldS",
+      "locale": {
+        "fr": "Petit Champ de Bataille",
+        "en_GB": "Small Battlefield",
+        "fr_CA": "Petit Champ de Bataille",
+        "es": "Peque\u00f1o campo de batalla",
+        "es_LA": "Peque\u00f1o campo de batalla",
+        "de": "Kleines Schlachtfeld",
+        "it": "Le rovine XS",
+        "nl": "Klein Slagveld",
+        "ru": "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u043e\u0435 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f",
+        "ja": "\u5c0f\u6226\u5834",
+        "zh_CN": "\u5c0f\u6218\u573a",
+        "zh_TW": "\u5c0f\u6230\u5834",
+        "ko": "\uc18c\uc804\uc7a5"
+      }
     },
     "Cloud Sea of Alrest": {
-        "smashgg_id": "Xeno_Alst",
-        "codename": "Xeno_Alst",
-        "locale": {
-            "fr": "Mer de nuanges d'Alrest",
-            "en_GB": "Cloud Sea of Alrest",
-            "fr_CA": "Mer de nuanges d'Alrest",
-            "es": "Mar de nubes de Alrest",
-            "es_LA": "Mar de nubes de Alrest",
-            "de": "Wolkenmeer von Alrest",
-            "it": "Mare di nuvole di Alrest",
-            "nl": "Wolkenzee van Alrest",
-            "ru": "\u041c\u043e\u0440\u0435 \u041e\u0431\u043b\u0430\u043a\u043e\u0432 \u0410\u043b\u044c\u0440\u0435\u0441\u0442\u0430",
-            "ja": "\u30a2\u30ec\u30b9\u30c8\u306e\u96f2\u6d77",
-            "zh_CN": "\u5e7d\u754c\u4e91\u6d77",
-            "zh_TW": "\u963f\u723e\u65af\u7279\u96f2\u6d77",
-            "ko": "\uc544\ub974\uc2a4\ud2b8\uc758 \uc6b4\ud574"
-        }
+      "smashgg_id": "Xeno_Alst",
+      "codename": "Xeno_Alst",
+      "locale": {
+        "fr": "Mer de nuanges d'Alrest",
+        "en_GB": "Cloud Sea of Alrest",
+        "fr_CA": "Mer de nuanges d'Alrest",
+        "es": "Mar de nubes de Alrest",
+        "es_LA": "Mar de nubes de Alrest",
+        "de": "Wolkenmeer von Alrest",
+        "it": "Mare di nuvole di Alrest",
+        "nl": "Wolkenzee van Alrest",
+        "ru": "\u041c\u043e\u0440\u0435 \u041e\u0431\u043b\u0430\u043a\u043e\u0432 \u0410\u043b\u044c\u0440\u0435\u0441\u0442\u0430",
+        "ja": "\u30a2\u30ec\u30b9\u30c8\u306e\u96f2\u6d77",
+        "zh_CN": "\u5e7d\u754c\u4e91\u6d77",
+        "zh_TW": "\u963f\u723e\u65af\u7279\u96f2\u6d77",
+        "ko": "\uc544\ub974\uc2a4\ud2b8\uc758 \uc6b4\ud574"
+      }
     },
     "Hollow Bastion": {
-        "smashgg_id": "513",
-        "codename": "Trail_Castle",
-        "locale": {
-            "fr": "Forteresse oubli\u00e9e",
-            "en_GB": "Hollow Bastion",
-            "fr_CA": "Forteresse oubli\u00e9e",
-            "es": "Basti\u00f3n Hueco",
-            "es_LA": "Basti\u00f3n Hueco",
-            "de": "Hollow Bastion",
-            "it": "La Fortezza Oscura",
-            "nl": "Vergeten Kasteel",
-            "ru": "\u041f\u043e\u043b\u044b\u0439 \u0431\u0430\u0441\u0442\u0438\u043e\u043d",
-            "ja": "\u30db\u30ed\u30a6\u30d0\u30b9\u30c6\u30a3\u30aa\u30f3",
-            "zh_CN": "\u865a\u7a7a\u57ce",
-            "zh_TW": "\u865b\u7a7a\u57ce",
-            "ko": "\ud560\ub85c\uc6b0 \ubc14\uc2a4\ud2f0\uc628"
-        }
+      "smashgg_id": "513",
+      "codename": "Trail_Castle",
+      "locale": {
+        "fr": "Forteresse oubli\u00e9e",
+        "en_GB": "Hollow Bastion",
+        "fr_CA": "Forteresse oubli\u00e9e",
+        "es": "Basti\u00f3n Hueco",
+        "es_LA": "Basti\u00f3n Hueco",
+        "de": "Hollow Bastion",
+        "it": "La Fortezza Oscura",
+        "nl": "Vergeten Kasteel",
+        "ru": "\u041f\u043e\u043b\u044b\u0439 \u0431\u0430\u0441\u0442\u0438\u043e\u043d",
+        "ja": "\u30db\u30ed\u30a6\u30d0\u30b9\u30c6\u30a3\u30aa\u30f3",
+        "zh_CN": "\u865a\u7a7a\u57ce",
+        "zh_TW": "\u865b\u7a7a\u57ce",
+        "ko": "\ud560\ub85c\uc6b0 \ubc14\uc2a4\ud2f0\uc628"
+      }
     },
     "Northern Cave": {
-        "smashgg_id": "497",
-        "codename": "FF_Cave",
-        "locale": {
-            "fr": "Crat\u00e8re nord",
-            "en_GB": "Northern Cave",
-            "fr_CA": "Crat\u00e8re nord",
-            "es": "Cueva del Norte",
-            "es_LA": "Cueva del Norte",
-            "de": "Nordh\u00f6hle",
-            "it": "Caverna a nord",
-            "nl": "Noordergrot",
-            "ru": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0421\u0435\u0432\u0435\u0440\u0430",
-            "ja": "\u5317\u306e\u5927\u7a7a\u6d1e",
-            "zh_CN": "\u5317\u65b9\u5927\u7a7a\u6d1e",
-            "zh_TW": "\u5317\u65b9\u5927\u7a7a\u6d1e",
-            "ko": "\ubd81\ucabd \ub300\uacf5\ub3d9"
-        }
+      "smashgg_id": "497",
+      "codename": "FF_Cave",
+      "locale": {
+        "fr": "Crat\u00e8re nord",
+        "en_GB": "Northern Cave",
+        "fr_CA": "Crat\u00e8re nord",
+        "es": "Cueva del Norte",
+        "es_LA": "Cueva del Norte",
+        "de": "Nordh\u00f6hle",
+        "it": "Caverna a nord",
+        "nl": "Noordergrot",
+        "ru": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0421\u0435\u0432\u0435\u0440\u0430",
+        "ja": "\u5317\u306e\u5927\u7a7a\u6d1e",
+        "zh_CN": "\u5317\u65b9\u5927\u7a7a\u6d1e",
+        "zh_TW": "\u5317\u65b9\u5927\u7a7a\u6d1e",
+        "ko": "\ubd81\ucabd \ub300\uacf5\ub3d9"
+      }
     },
     "Yggdrasil's Altar": {
-        "smashgg_id": "Brave_Altar",
-        "codename": "Brave_Altar",
-        "locale": {
-            "en_GB": "Yggdrasil's Altar",
-            "fr": "Autel de l'Yggdrasil",
-            "fr_CA": "Autel de l'Yggdrasil",
-            "es": "Altar de Yggdrasil",
-            "es_LA": "Altar de Yggdrasil",
-            "de": "Yggdrasils Altar",
-            "it": "Altare di Ygdrasil",
-            "nl": "Altaar van Yggdrasil",
-            "ru": "\u0410\u043b\u0442\u0430\u0440\u044c \u0418\u0433\u0433\u0434\u0440\u0430\u0441\u0438\u043b\u044f",
-            "ja": "\u5929\u7a7a\u306e\u796d\u58c7",
-            "zh_CN": "\u5929\u7a7a\u796d\u575b",
-            "zh_TW": "\u5929\u7a7a\u796d\u58c7",
-            "ko": "\ucc9c\uacf5\uc758 \uc81c\ub2e8"
-        }
+      "smashgg_id": "Brave_Altar",
+      "codename": "Brave_Altar",
+      "locale": {
+        "en_GB": "Yggdrasil's Altar",
+        "fr": "Autel de l'Yggdrasil",
+        "fr_CA": "Autel de l'Yggdrasil",
+        "es": "Altar de Yggdrasil",
+        "es_LA": "Altar de Yggdrasil",
+        "de": "Yggdrasils Altar",
+        "it": "Altare di Ygdrasil",
+        "nl": "Altaar van Yggdrasil",
+        "ru": "\u0410\u043b\u0442\u0430\u0440\u044c \u0418\u0433\u0433\u0434\u0440\u0430\u0441\u0438\u043b\u044f",
+        "ja": "\u5929\u7a7a\u306e\u796d\u58c7",
+        "zh_CN": "\u5929\u7a7a\u796d\u575b",
+        "zh_TW": "\u5929\u7a7a\u796d\u58c7",
+        "ko": "\ucc9c\uacf5\uc758 \uc81c\ub2e8"
+      }
     },
     "Spiral Mountain": {
-        "smashgg_id": "Buddy_Spiral",
-        "codename": "Buddy_Spiral",
-        "locale": {
-            "en_GB": "Spiral Mountain",
-            "fr": "Montagne Perch\u00e9e",
-            "fr_CA": "Montagne Perch\u00e9e",
-            "es": "Monta\u00f1a Espiral",
-            "es_LA": "Monta\u00f1a Espiral",
-            "de": "Spiral Mountain",
-            "it": "Monte Spirale",
-            "nl": "Spiral Mountain",
-            "ru": "\u0421\u043f\u0438\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0433\u043e\u0440\u0430",
-            "ja": "\u30af\u30eb\u30af\u30eb\u3084\u307e",
-            "zh_CN": "\u87ba\u65cb\u5c71",
-            "zh_TW": "\u87ba\u65cb\u5c71",
-            "ko": "\ube59\uae00\ube59\uae00\uc0b0"
-        }
+      "smashgg_id": "Buddy_Spiral",
+      "codename": "Buddy_Spiral",
+      "locale": {
+        "en_GB": "Spiral Mountain",
+        "fr": "Montagne Perch\u00e9e",
+        "fr_CA": "Montagne Perch\u00e9e",
+        "es": "Monta\u00f1a Espiral",
+        "es_LA": "Monta\u00f1a Espiral",
+        "de": "Spiral Mountain",
+        "it": "Monte Spirale",
+        "nl": "Spiral Mountain",
+        "ru": "\u0421\u043f\u0438\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0433\u043e\u0440\u0430",
+        "ja": "\u30af\u30eb\u30af\u30eb\u3084\u307e",
+        "zh_CN": "\u87ba\u65cb\u5c71",
+        "zh_TW": "\u87ba\u65cb\u5c71",
+        "ko": "\ube59\uae00\ube59\uae00\uc0b0"
+      }
     },
     "King of Fighters Stadium": {
-        "smashgg_id": "Dolly_Stadium",
-        "codename": "Dolly_Stadium",
-        "locale": {
-            "en_GB": "King of Fighters Stadium",
-            "fr": "Stade de King of Fighters",
-            "fr_CA": "Stade de King of Fighters",
-            "es": "Estadio de King of Fighters",
-            "es_LA": "Estadio de King of Fighters",
-            "de": "King of Fighters Stadium",
-            "it": "Stadio di King of Fighters",
-            "nl": "King of Fighters-stadion",
-            "ru": "\u0421\u0442\u0430\u0434\u0438\u043e\u043d King of Fighters",
-            "ja": "KOF\u30b9\u30bf\u30b8\u30a2\u30e0",
-            "zh_CN": "\u62f3\u7687\u7ade\u6280\u573a",
-            "zh_TW": "\u62f3\u7687\u7af6\u6280\u5834",
-            "ko": "KOF \uc2a4\ud0c0\ub514\uc6c0"
-        }
+      "smashgg_id": "Dolly_Stadium",
+      "codename": "Dolly_Stadium",
+      "locale": {
+        "en_GB": "King of Fighters Stadium",
+        "fr": "Stade de King of Fighters",
+        "fr_CA": "Stade de King of Fighters",
+        "es": "Estadio de King of Fighters",
+        "es_LA": "Estadio de King of Fighters",
+        "de": "King of Fighters Stadium",
+        "it": "Stadio di King of Fighters",
+        "nl": "King of Fighters-stadion",
+        "ru": "\u0421\u0442\u0430\u0434\u0438\u043e\u043d King of Fighters",
+        "ja": "KOF\u30b9\u30bf\u30b8\u30a2\u30e0",
+        "zh_CN": "\u62f3\u7687\u7ade\u6280\u573a",
+        "zh_TW": "\u62f3\u7687\u7af6\u6280\u5834",
+        "ko": "KOF \uc2a4\ud0c0\ub514\uc6c0"
+      }
     },
     "Garreg Mach Monastery": {
-        "smashgg_id": "FE_Shrine",
-        "codename": "FE_Shrine",
-        "locale": {
-            "en_GB": "Garreg Mach Monastery",
-            "fr": "Monast\u00e8re de Garreg Mach",
-            "fr_CA": "Monast\u00e8re de Garreg Mach",
-            "es": "Monasterio de Garreg Mach",
-            "es_LA": "Monasterio de Garreg Mach",
-            "de": "Closter Garreg Mach",
-            "it": "Monastero del Garreg Mach",
-            "nl": "Garreg Mach-klooster",
-            "ru": "\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c \u0413\u0430\u0440\u0440\u0435\u0433 \u041c\u0430\u0445",
-            "ja": "\u30ac\u30eb\u30b0\uff1d\u30de\u30af\u5927\u4fee\u9053\u9662",
-            "zh_CN": "\u52a0\u5c14\u53e4\u00b7\u739b\u5e93\u5927\u4fee\u9053\u9662",
-            "zh_TW": "\u52a0\u723e\u53e4\u2027\u746a\u5eab\u5927\u4fee\u9053\u9662",
-            "ko": "\uac00\ub974\uadf8 \ub9c8\ud06c \ub300\uc218\ub3c4\uc6d0"
-        }
+      "smashgg_id": "FE_Shrine",
+      "codename": "FE_Shrine",
+      "locale": {
+        "en_GB": "Garreg Mach Monastery",
+        "fr": "Monast\u00e8re de Garreg Mach",
+        "fr_CA": "Monast\u00e8re de Garreg Mach",
+        "es": "Monasterio de Garreg Mach",
+        "es_LA": "Monasterio de Garreg Mach",
+        "de": "Closter Garreg Mach",
+        "it": "Monastero del Garreg Mach",
+        "nl": "Garreg Mach-klooster",
+        "ru": "\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c \u0413\u0430\u0440\u0440\u0435\u0433 \u041c\u0430\u0445",
+        "ja": "\u30ac\u30eb\u30b0\uff1d\u30de\u30af\u5927\u4fee\u9053\u9662",
+        "zh_CN": "\u52a0\u5c14\u53e4\u00b7\u739b\u5e93\u5927\u4fee\u9053\u9662",
+        "zh_TW": "\u52a0\u723e\u53e4\u2027\u746a\u5eab\u5927\u4fee\u9053\u9662",
+        "ko": "\uac00\ub974\uadf8 \ub9c8\ud06c \ub300\uc218\ub3c4\uc6d0"
+      }
     },
     "Spring Stadium": {
-        "smashgg_id": "Tantan_Spring",
-        "codename": "Tantan_Spring",
-        "locale": {
-            "en_GB": "Spring Stadium",
-            "fr": "Stade Spring",
-            "fr_CA": "Stade Spring",
-            "es": "Estadio muelle",
-            "es_LA": "Estadio resorte",
-            "de": "Spring-Stadion",
-            "it": "Stadio Boing",
-            "nl": "Springstadion",
-            "ru": "\u0421\u043f\u0440\u0438\u043d\u0433-\u0421\u0442\u0430\u0434\u0438\u043e\u043d",
-            "ja": "\u30b9\u30d7\u30ea\u30f3\u30b0\u30b9\u30bf\u30b8\u30a2\u30e0",
-            "zh_CN": "\u5f39\u7c27\u7ade\u6280\u573a",
-            "zh_TW": "\u5f48\u7c27\u7af6\u6280\u5834",
-            "ko": "\uc2a4\ud504\ub9c1 \uc2a4\ud0c0\ub514\uc6c0"
-        }
+      "smashgg_id": "Tantan_Spring",
+      "codename": "Tantan_Spring",
+      "locale": {
+        "en_GB": "Spring Stadium",
+        "fr": "Stade Spring",
+        "fr_CA": "Stade Spring",
+        "es": "Estadio muelle",
+        "es_LA": "Estadio resorte",
+        "de": "Spring-Stadion",
+        "it": "Stadio Boing",
+        "nl": "Springstadion",
+        "ru": "\u0421\u043f\u0440\u0438\u043d\u0433-\u0421\u0442\u0430\u0434\u0438\u043e\u043d",
+        "ja": "\u30b9\u30d7\u30ea\u30f3\u30b0\u30b9\u30bf\u30b8\u30a2\u30e0",
+        "zh_CN": "\u5f39\u7c27\u7ade\u6280\u573a",
+        "zh_TW": "\u5f48\u7c27\u7af6\u6280\u5834",
+        "ko": "\uc2a4\ud504\ub9c1 \uc2a4\ud0c0\ub514\uc6c0"
+      }
     },
     "Minecraft World": {
-        "smashgg_id": "Pickel_World",
-        "codename": "Pickel_World",
-        "locale": {
-            "en_GB": "Minecraft World",
-            "fr": "Monde Minecraft",
-            "fr_CA": "Monde Minecraft",
-            "es": "Mundo de Minecraft",
-            "es_LA": "Mundo de Minecraft",
-            "de": "Minecraft-Welt",
-            "it": "Mondo di Minecraft",
-            "nl": "Minecraft-wereld",
-            "ru": "\u041c\u0438\u0440 Minecraft",
-            "ja": "\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8\u30ef\u30fc\u30eb\u30c9",
-            "zh_CN": "\u300a\u6211\u7684\u4e16\u754c\u300b\u7684\u4e16\u754c",
-            "zh_TW": "Minecraft\u4e16\u754c",
-            "ko": "Minecraft \uc6d4\ub4dc"
-        }
+      "smashgg_id": "Pickel_World",
+      "codename": "Pickel_World",
+      "locale": {
+        "en_GB": "Minecraft World",
+        "fr": "Monde Minecraft",
+        "fr_CA": "Monde Minecraft",
+        "es": "Mundo de Minecraft",
+        "es_LA": "Mundo de Minecraft",
+        "de": "Minecraft-Welt",
+        "it": "Mondo di Minecraft",
+        "nl": "Minecraft-wereld",
+        "ru": "\u041c\u0438\u0440 Minecraft",
+        "ja": "\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8\u30ef\u30fc\u30eb\u30c9",
+        "zh_CN": "\u300a\u6211\u7684\u4e16\u754c\u300b\u7684\u4e16\u754c",
+        "zh_TW": "Minecraft\u4e16\u754c",
+        "ko": "Minecraft \uc6d4\ub4dc"
+      }
     },
     "Mishima Dojo": {
-        "smashgg_id": "Demon_Dojo",
-        "codename": "Demon_Dojo",
-        "locale": {
-            "en_GB": "Mishima Dojo",
-            "fr": "Mishima Dojo",
-            "fr_CA": "Mishima Dojo",
-            "es": "Mishima Dojo",
-            "es_LA": "Mishima Dojo",
-            "de": "Mishima Dojo",
-            "it": "Mishima Dojo",
-            "nl": "Mishima Dojo",
-            "ru": "\u041c\u0438\u0441\u0438\u043c\u0430-\u0434\u043e\u0434\u0437\u0435",
-            "ja": "\u4e09\u5cf6\u9053\u5834",
-            "zh_CN": "\u4e09\u5c9b\u9053\u573a",
-            "zh_TW": "\u4e09\u5cf6\u9053\u5834",
-            "ko": "Mishima Dojo"
-        }
+      "smashgg_id": "Demon_Dojo",
+      "codename": "Demon_Dojo",
+      "locale": {
+        "en_GB": "Mishima Dojo",
+        "fr": "Mishima Dojo",
+        "fr_CA": "Mishima Dojo",
+        "es": "Mishima Dojo",
+        "es_LA": "Mishima Dojo",
+        "de": "Mishima Dojo",
+        "it": "Mishima Dojo",
+        "nl": "Mishima Dojo",
+        "ru": "\u041c\u0438\u0441\u0438\u043c\u0430-\u0434\u043e\u0434\u0437\u0435",
+        "ja": "\u4e09\u5cf6\u9053\u5834",
+        "zh_CN": "\u4e09\u5c9b\u9053\u573a",
+        "zh_TW": "\u4e09\u5cf6\u9053\u5834",
+        "ko": "Mishima Dojo"
+      }
     }
-},
+  },
   "version": "1.06",
   "description": "Base config to use this game."
 }

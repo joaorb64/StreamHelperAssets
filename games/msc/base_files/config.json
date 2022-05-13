@@ -137,7 +137,14 @@
       }
     },
     "Waluigi": {
-      "codename": "Waluigi"
+      "codename": "Waluigi",
+      "locale": {
+        "ja": "\u30ef\u30eb\u30a4\u30fc\u30b8",
+        "zh_CN": "\u74e6\u8def\u6613\u5409",
+        "zh_TW": "\u74e6\u8def\u6613\u5409",
+        "ko": "\uc640\ub8e8\uc774\uc9c0",
+        "ru": "\u0412\u0430\u043b\u0443\u0438\u0434\u0436\u0438"
+      }
     },
     "Donkey Kong": {
       "codename": "DK",
@@ -203,12 +210,17 @@
         "de": "Mutant-Tyranha",
         "it": "Pipino Piranha",
         "es_ES": "Floro Pira\u00f1a",
-        "es_LA": "Pepito pira\u00f1a"
+        "es_LA": "Pepito pira\u00f1a",
+        "ja": "\u30dc\u30b9\u30d1\u30c3\u30af\u30f3",
+        "ko": "\ubed0\ub054\uc655",
+        "zh_CN": "\u541e\u98df\u82b1\u8001\u5927",
+        "zh_TW": "\u541e\u98df\u82b1\u8001\u5927",
+        "fr_CA": "Petey Piranha"
       }
     }
   },
   "stage_to_codename": {},
-  "version": "1.06",
+  "version": "1.07",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
@@ -240,10 +252,10 @@
       "name": "Mario Strikers Charged Football"
     },
     "ja": {
-      "name": "マリオストライカーズ チャージド"
+      "name": "\u30de\u30ea\u30aa\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\u30ba \u30c1\u30e3\u30fc\u30b8\u30c9"
     },
     "ko": {
-      "name": "마리오 파워 사커"
+      "name": "\ub9c8\ub9ac\uc624 \ud30c\uc6cc \uc0ac\ucee4"
     }
   }
 }

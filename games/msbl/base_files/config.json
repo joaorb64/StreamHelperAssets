@@ -107,7 +107,8 @@
         "zh_TW": "\u7f85\u6f54\u5854",
         "ko": "\ub85c\uc824\ub9ac\ub098",
         "es_ES": "Estela",
-        "es_LA": "Estela"
+        "es_LA": "Rosalina",
+        "ru": "\u0420\u043e\u0437\u0430\u043b\u0438\u043d\u0430"
       }
     },
     "Toad": {
@@ -116,7 +117,8 @@
         "ja": "\u30ad\u30ce\u30d4\u30aa",
         "zh_CN": "\u5947\u8bfa\u6bd4\u5965",
         "zh_TW": "\u5947\u8afe\u6bd4\u5967",
-        "ko": "\ud0a4\ub178\ud53c\uc624"
+        "ko": "\ud0a4\ub178\ud53c\uc624",
+        "ru": "\u0422\u043e\u0430\u0434"
       }
     },
     "Waluigi": {
@@ -125,7 +127,8 @@
         "ja": "\u30ef\u30eb\u30a4\u30fc\u30b8",
         "zh_CN": "\u74e6\u8def\u6613\u5409",
         "zh_TW": "\u74e6\u8def\u6613\u5409",
-        "ko": "\uc640\ub8e8\uc774\uc9c0"
+        "ko": "\uc640\ub8e8\uc774\uc9c0",
+        "ru": "\u0412\u0430\u043b\u0443\u0438\u0434\u0436\u0438"
       }
     },
     "Wario": {
@@ -179,7 +182,8 @@
         "es_ES": "Bum Bum",
         "es_LA": "Bum bum",
         "pt_BR": "Dom Dom",
-        "pt_PT": "Bum Bum"
+        "pt_PT": "Bum Bum",
+        "ru": "\u0411\u0443\u043c-\u0431\u0443\u043c"
       }
     }
   },
@@ -188,7 +192,7 @@
   "name": "Mario Strikers: Battle League",
   "smashgg_game_id": 42285,
   "stage_to_codename": {},
-  "version": "1.05",
+  "version": "1.06",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\u30ba: \u30d0\u30c8\u30eb\u30ea\u30fc\u30b0"

@@ -108,7 +108,14 @@
       }
     },
     "Toad": {
-      "codename": "kinopio"
+      "codename": "kinopio",
+      "locale": {
+        "ja": "\u30ad\u30ce\u30d4\u30aa",
+        "zh_CN": "\u5947\u8bfa\u6bd4\u5965",
+        "zh_TW": "\u5947\u8afe\u6bd4\u5967",
+        "ko": "\ud0a4\ub178\ud53c\uc624",
+        "ru": "\u0422\u043e\u0430\u0434"
+      }
     },
     "Wario": {
       "codename": "wario",
@@ -154,5 +161,5 @@
   "name": "Mario Kart 64",
   "smashgg_game_id": 5682,
   "stage_to_codename": {},
-  "version": "1.02"
+  "version": "1.03"
 }

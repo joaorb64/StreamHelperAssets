@@ -1,0 +1,561 @@
+{
+    "fighters": [
+        {
+            "displayName": {
+                "en_US": "Waluigi",
+                "ja": "\u30ef\u30eb\u30a4\u30fc\u30b8",
+                "zh_CN": "\u74e6\u8def\u6613\u5409",
+                "zh_TW": "\u74e6\u8def\u6613\u5409",
+                "ko": "\uc640\ub8e8\uc774\uc9c0",
+                "ru": "Валуиджи"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Toad",
+                "ja": "\u30ad\u30ce\u30d4\u30aa",
+                "zh_CN": "\u5947\u8bfa\u6bd4\u5965",
+                "zh_TW": "\u5947\u8afe\u6bd4\u5967",
+                "ko": "\ud0a4\ub178\ud53c\uc624",
+                "ru": "Тоад"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Rosalina",
+                "fr": "Harmonie",
+                "fr_CA": "Rosalina",
+                "it": "Rosalinda",
+                "ja": "\u30ed\u30bc\u30c3\u30bf",
+                "zh_CN": "\u7f57\u838e\u5854",
+                "zh_TW": "\u7f85\u6f54\u5854",
+                "ko": "\ub85c\uc824\ub9ac\ub098",
+                "es_ES": "Estela",
+                "es_LA": "Rosalina",
+                "ru": "Розалина"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Boom Boom",
+                "ja": "\u30d6\u30f3\u30d6\u30f3",
+                "zh_CN": "\u5954\u5954",
+                "zh_TW": "\u5954\u5954",
+                "ko": "\ubd80\uc6c5\ubd80\uc6c5",
+                "fr": "Boum Boum",
+                "de": "Bumm Bumm",
+                "it": "Boom-Boom",
+                "es_ES": "Bum Bum",
+                "es_LA": "Bum bum",
+                "pt_BR": "Dom Dom",
+                "pt_PT": "Bum Bum",
+                "ru": "Бум-бум"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Baby Daisy",
+                "ja": "ベビィデイジー",
+                "zh_CN": "菊花公主宝贝",
+                "zh_TW": "黛西公主寶寶",
+                "ko": "베이비데이지",
+                "fr": "Bébé Daisy",
+                "es_ES": "Bebé Daisy",
+                "es_LA": "Bebé Daisy",
+                "pt_PT": "Daisy Bebé",
+                "ru": "Малышка Дейзи",
+                "pt_BR": "Bebê Daisy"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Baby Luigi",
+                "ja": "ベビィルイージ",
+                "zh_CN": "路易吉宝宝",
+                "zh_TW": "路易吉寶寶",
+                "ko": "베이비루이지",
+                "fr": "Bébé Luigi",
+                "es_ES": "Bebé Luigi",
+                "es_LA": "Bebé Luigi",
+                "pt_PT": "Luigi Bebé",
+                "ru": "Малыш Луиджи",
+                "pt_BR": "Bebê Luigi"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Baby Mario",
+                "ja": "ベビィマリオ",
+                "zh_CN": "马力欧宝宝",
+                "zh_TW": "瑪利歐寶寶",
+                "ko": "베이비 마리오",
+                "fr": "Bébé Mario",
+                "es_ES": "Bebé Mario",
+                "es_LA": "Bebé Mario",
+                "pt_PT": "Mario Bebé",
+                "ru": "Малыш Марио",
+                "pt_BR": "Bebê Mario"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Baby Rosalina",
+                "ja": "ベビィロゼッタ",
+                "zh_CN": "罗莎塔宝贝",
+                "zh_TW": "羅潔塔寶寶",
+                "ko": "베이비로젤리나",
+                "fr": "Bébé Harmonie",
+                "es_ES": "Bebé Estela",
+                "es_LA": "Bebé Rosalina",
+                "pt_PT": "Rosalina Bebé",
+                "ru": "Малышка Розалина",
+                "pt_BR": "Bebê Rosalina",
+                "it": "Baby Rosalinda"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Baby Peach",
+                "ja": "ベビィピーチ",
+                "zh_CN": "桃花公主宝贝",
+                "zh_TW": "碧姬公主寶寶",
+                "ko": "베이비피치",
+                "fr": "Bébé Peach",
+                "es_ES": "Bebé Peach",
+                "es_LA": "Bebé Peach",
+                "pt_PT": "Peach Bebé",
+                "ru": "Малышка Пич",
+                "pt_BR": "Bebê Peach"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Cat Peach",
+                "ja": "ネコピーチ",
+                "zh_CN": "猫咪桃花公主",
+                "zh_TW": "貓咪碧姬公主",
+                "ko": "고양이피치",
+                "fr": "Peach chat",
+                "nl": "Kat-Peach",
+                "de": "Katzen-Peach",
+                "it": "Peach gatto",
+                "es_ES": "Peach Felina",
+                "es_LA": "Peach felina",
+                "pt_PT": "Peach Gata",
+                "ru": "Пич-кошка",
+                "pt_BR": "Peach gata"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Dry Bones",
+                "ja": "カロン",
+                "zh_CN": "碎碎龟",
+                "zh_TW": "碎碎龜",
+                "ko": "와르르",
+                "fr": "Skelerex",
+                "fr_CA": "Skelex",
+                "de": "Knochentrocken",
+                "it": "Tartosso",
+                "es_ES": "Huesitos",
+                "es_LA": "Huesitos",
+                "pt_PT": "Quebra-ossos",
+                "ru": "Купа-скелет",
+                "pt_BR": "Caveirinha"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Dry Bowser",
+                "ja": "骨クッパ",
+                "zh_CN": "枯骨酷霸王",
+                "zh_TW": "枯骨庫巴",
+                "ko": "좀비쿠파",
+                "fr": "Bowser Skelet",
+                "de": "Knochen-Bowser",
+                "it": "Skelobowser",
+                "es_ES": "Bowsitos",
+                "es_LA": "Bowsitos",
+                "pt_PT": "Bowser Esqueleto",
+                "ru": "Боузер-скелет",
+                "pt_BR": "Bowsosso"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Iggy",
+                "ja": "イギー",
+                "zh_CN": "伊吉",
+                "zh_TW": "伊吉",
+                "ko": "이기",
+                "ru": "Игги"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Roy",
+                "ja": "ロイ",
+                "zh_CN": "洛伊",
+                "zh_TW": "洛伊",
+                "ko": "로이",
+                "ru": "Рой"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Inkling Boy",
+                "ja": "インクリング（ボーイ）",
+                "zh_CN": "Inkling（男孩）",
+                "zh_TW": "Inkling（男孩）",
+                "fr": "Inkling (Garçon)"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Inkling Girl",
+                "ja": "インクリング（ガール）",
+                "zh_CN": "Inkling（女孩）",
+                "zh_TW": "Inkling（女孩）",
+                "fr": "Inkling (Fille)"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "King Boo",
+                "ja": "キングテレサ",
+                "zh_CN": "害羞幽灵王",
+                "zh_TW": "害羞幽靈王",
+                "ko": "킹부끄",
+                "fr": "Roi Boo",
+                "de": "König Buu Huu",
+                "it": "Re Boo",
+                "es_ES": "Rey Boo",
+                "es_LA": "Rey Boo",
+                "pt_PT": "Rei Bu",
+                "ru": "Бу-король"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Boo",
+                "ja": "テレサ",
+                "zh_CN": "害羞幽灵",
+                "zh_TW": "害羞幽靈",
+                "ko": "부끄부끄",
+                "fr": "Boo",
+                "de": "Buu Huu",
+                "it": "Boo",
+                "es_ES": "Boo",
+                "es_LA": "Boo",
+                "pt_PT": "Bu",
+                "ru": "Бу"
+            }
+        },
+        {
+            "displayName":{
+                "en_US": "Petey Piranha",
+                "fr": "Flora Piranha",
+                "de": "Mutant-Tyranha",
+                "it": "Pipino Piranha",
+                "es_ES": "Floro Pira\u00f1a",
+                "es_LA": "Pepito pira\u00f1a",
+                "ja": "ボスパックン",
+                "ko": "뻐끔왕",
+                "zh_CN": "吞食花老大",
+                "zh_TW": "吞食花老大",
+                "fr_CA": "Petey Piranha"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Koopa Troopa",
+                "ja": "ノコノコ",
+                "zh_CN": "慢慢龟",
+                "zh_TW": "慢慢龜",
+                "ko": "엉금엉금",
+                "fr": "Koopa",
+                "de": "Koopa",
+                "it": "Koopa",
+                "ru": "Купа-трупа"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Koopa Paratroopa",
+                "ja": "パタパタ",
+                "zh_CN": "飞行龟",
+                "zh_TW": "飛行龜",
+                "ko": "펄럭펄럭",
+                "fr": "Paratroopa",
+                "de": "Paratroopa",
+                "it": "Paratroopa",
+                "ru": "Летучий купа"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Lakitu",
+                "ja": "ジュゲム",
+                "zh_CN": "球盖姆",
+                "zh_TW": "球蓋姆",
+                "ko": "김수한무",
+                "fr_CA": "Lakitou",
+                "es_LA": "El Koopa de la Nube",
+                "ru": "Лакиту"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Pauline",
+                "ja": "ポリーン",
+                "zh_CN": "宝琳",
+                "zh_TW": "波琳",
+                "ko": "폴린",
+                "ru": "Полина"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Larry",
+                "ja": "ラリー",
+                "zh_CN": "拉里",
+                "zh_TW": "拉里",
+                "ko": "래리",
+                "ru": "Ларри"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Lemmy",
+                "ja": "レミー",
+                "zh_CN": "雷米",
+                "zh_TW": "雷米",
+                "ko": "레미",
+                "ru": "Лемми"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Luma",
+                "ja": "チコ",
+                "zh_CN": "琪琪",
+                "zh_TW": "奇可",
+                "ko": "치코",
+                "it": "Sfavillotto",
+                "es_ES": "Destello",
+                "es_LA": "Destello",
+                "ru": "Люма"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Chain Chomp",
+                "ja": "ワンワン",
+                "zh_CN": "汪汪",
+                "zh_TW": "汪汪",
+                "ko": "멍멍이",
+                "fr": "Chomp",
+                "fr_CA": "Boulouf",
+                "de": "Kettenhund",
+                "it": "Categnaccio",
+                "es_ES": "Chomp Cadenas",
+                "es_LA": "Chomp cadenas",
+                "pt_PT": "Corrente Dentada",
+                "pt_BR": "Chomp Chomp",
+                "ru": "Кусалкин на цепи"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Kamek",
+                "ja": "カメック",
+                "zh_CN": "卡美克",
+                "zh_TW": "卡美克",
+                "ko": "마귀",
+                "ru": "Камек"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Blooper",
+                "ja": "ゲッソー",
+                "zh_CN": "鱿鱿",
+                "zh_TW": "魷魷",
+                "ko": "징오징오",
+                "fr": "Bloups",
+                "it": "Calamako",
+                "ru": "Блупер"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Birdo",
+                "ja": "キャサリン",
+                "zh_CN": "凯瑟琳",
+                "zh_TW": "凱瑟琳",
+                "ko": "캐서린",
+                "it": "Strutzi",
+                "ru": "Бирдо"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Funky Kong",
+                "ja": "ファンキーコング",
+                "zh_CN": "酷喜刚",
+                "zh_TW": "酷喜剛",
+                "ko": "펑키 콩",
+                "ru": "Фанки Конг"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Ludwig",
+                "ja": "ルドウィッグ",
+                "zh_CN": "洛德威格",
+                "zh_TW": "洛德威格",
+                "ko": "루드윅",
+                "ru": "Людвиг"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Metal Mario",
+                "ja": "メタルマリオ",
+                "zh_CN": "金属马力欧",
+                "zh_TW": "金屬瑪利歐",
+                "ko": "메탈마리오",
+                "fr": "Mario de métal",
+                "nl": "Metalen Mario",
+                "de": "Metall-Mario",
+                "it": "Mario metallo",
+                "es_ES": "Mario de Metal",
+                "es_LA": "Mario de metal",
+                "pt_PT": "Mario Metálico",
+                "pt_BR": "Mario metálico",
+                "ru": "Марио-металл"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Pink Gold Peach",
+                "ja": "ピンクゴールドピーチ",
+                "zh_CN": "粉金色桃花公主",
+                "zh_TW": "粉金色碧姬公主",
+                "ko": "핑크골드피치",
+                "fr": "Peach d'or rose",
+                "nl": "Rozegouden Peach",
+                "de": "Rosagold-Peach",
+                "it": "Peach oro rosa",
+                "pt_PT": "Peach Rosa Metálico",
+                "pt_BR": "Peach de ouro rosa",
+                "es_ES": "Peach de ero rosa",
+                "es_LA": "Peach de Oro Rosa",
+                "ru": "Пич из роз. золота"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Fire Piranha Plant",
+                "ja": "ファイアパックン",
+                "zh_CN": "火焰吞食花",
+                "zh_TW": "火焰吞食花",
+                "ko": "파이어뻐끔플라워",
+                "fr": "Pyro Piranha",
+                "de": "Feuer-Piranha-Pflanze",
+                "it": "Pianta Piranha falò",
+                "pt_PT": "Planta Piranha Pirómana",
+                "es_ES": "Piraña Pirómana",
+                "es_LA": "Piraña pirómana",
+                "ru": "огненное растение-пиранья"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Shy Guy",
+                "ja": "ヘイホー",
+                "zh_CN": "嘿呵",
+                "zh_TW": "嘿呵",
+                "ko": "헤이호",
+                "fr": "Maskass",
+                "fr_CA": "Maskache",
+                "it": "Tipo Timido",
+                "pt_PT": "Masquito",
+                "ru": "Скромняга"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Tanooki Mario",
+                "ja": "タヌキマリオ",
+                "zh_CN": "狸猫马力欧",
+                "zh_TW": "狸貓瑪利歐",
+                "ko": "너구리마리오",
+                "fr": "Mario tanuki",
+                "nl": "Tanuki-Mario",
+                "de": "Tanuki-Mario",
+                "it": "Mario tanuki",
+                "pt_PT": "Mario Tanuki",
+                "pt_BR": "Mario tanuki",
+                "es_ES": "Mario Tanuki",
+                "es_LA": "Mario tanuki",
+                "ru": "Марио Тануки"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Toadette",
+                "ja": "キノピコ",
+                "zh_CN": "奇诺比珂",
+                "zh_TW": "奇諾比珂",
+                "ko": "키노피코",
+                "ru": "Тоадетта"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Villager (Male)",
+                "fr": "Villageois"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Villager (Female)",
+                "fr": "Villageoise"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Wendy",
+                "ja": "ウェンディ",
+                "zh_CN": "温缇",
+                "zh_TW": "溫緹",
+                "ko": "웬디",
+                "ru": "Венди"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Morton",
+                "ja": "モートン",
+                "zh_CN": "莫顿",
+                "zh_TW": "莫顿",
+                "ko": "모톤",
+                "ru": "Мортон"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Spike",
+                "ja": "ガボン",
+                "zh_CN": "加邦",
+                "zh_TW": "加邦",
+                "ko": "가봉",
+                "it": "Spunzo",
+                "pt_PT": "Espigão",
+                "es_LA": "Escupicos",
+                "ru": "Спайк"
+            }
+        }
+    ]
+}

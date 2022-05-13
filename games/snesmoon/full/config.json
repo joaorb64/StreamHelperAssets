@@ -5,5 +5,61 @@
   "postfix": "_",
   "type": ["full"],
   "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.0"
+  "version": "1.01",
+  "eyesights": {
+    "SailorChibiMoon": {
+      "0": {
+        "x": 547,
+        "y": 261
+      }
+    },
+    "SailorJupiter": {
+      "0": {
+        "x": 537,
+        "y": 154
+      }
+    },
+    "SailorMars": {
+      "0": {
+        "x": 508,
+        "y": 126
+      }
+    },
+    "SailorMercury": {
+      "0": {
+        "x": 544,
+        "y": 126
+      }
+    },
+    "SailorMoon": {
+      "0": {
+        "x": 576,
+        "y": 112
+      }
+    },
+    "SailorNeptune": {
+      "0": {
+        "x": 501,
+        "y": 135
+      }
+    },
+    "SailorPluto": {
+      "0": {
+        "x": 408,
+        "y": 151
+      }
+    },
+    "SailorUranus": {
+      "0": {
+        "x": 463,
+        "y": 145
+      }
+    },
+    "SailorVenus": {
+      "0": {
+        "x": 562,
+        "y": 136
+      }
+    }
+  }
 }

@@ -1,0 +1,65 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Arya Stark": {
+      "codename": "AryaStark"
+    },
+    "Batman": {
+      "codename": "Batman"
+    },
+    "Bugs Bunny": {
+      "codename": "BugsBunny"
+    },
+    "Finn the Human": {
+      "codename": "FinntheHuman",
+      "locale": {
+        "fr": "Finn l'Humain"
+      }
+    },
+    "Garnet": {
+      "codename": "Garnet"
+    },
+    "Harley Quinn": {
+      "codename": "HarleyQuinn"
+    },
+    "Jake the Dog": {
+      "codename": "JaketheDog",
+      "locale": {
+        "fr": "Jake le Chien"
+      }
+    },
+    "Reindog": {
+      "codename": "Reindog",
+      "locale": {
+        "fr": "Chien-Renne"
+      }
+    },
+    "Shaggy": {
+      "codename": "Shaggy",
+      "locale": {
+        "fr": "Sammy"
+      }
+    },
+    "Steven Universe": {
+      "codename": "StevenUniverse"
+    },
+    "Superman": {
+      "codename": "Superman"
+    },
+    "Tom and Jerry": {
+      "codename": "TomandJerry",
+      "locale": {
+        "fr": "Tom et Jerry"
+      }
+    },
+    "Wonder Woman": {
+      "codename": "WonderWoman"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Multiversus",
+  "smashgg_game_id": 40849,
+  "stage_to_codename": {},
+  "version": "0.1"
+}

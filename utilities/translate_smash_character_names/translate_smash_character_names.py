@@ -2,7 +2,7 @@ import requests
 import json
 from copy import deepcopy
 
-list_games_to_translate = ["ssbu", "ssb64", "ssbm", "ssbwiiu", "pplus", "sms", "msc", "msbl", "mkwii", "mk64", "mk8dx", "msb", "mta"]
+list_games_to_translate = ["ssbu", "ssb64", "ssbm", "ssbwiiu", "pplus", "sms", "msc", "msbl", "mkwii", "mk64", "msb", "mta"]
 exclude_locale = ["en_US"]
 convert_locale = {"SC": "zh_CN", "TC": "zh_TW", "fr_FR": "fr",
                   "de_DE": "de", "it_IT": "it", "nl_NL": "nl", "ru_RU": "ru", "ko_KR": "ko", "ja_JP": "ja"}
@@ -21,7 +21,7 @@ for game in list_games_to_translate:
     config_character_dict = deepcopy(config_file_json["character_to_codename"])
     for character in config_character_dict.keys():
         for data in fighter_database["fighters"]:
-            if data["displayName"]["en_US"].upper().replace("<BR>& ", "& ") == character.upper():
+            if data["displayName"]["en_US"].upper().replace("<BR>", "") == character.upper():
                 if not config_character_dict[character].get("locale"):
                     config_character_dict[character]["locale"] = {}
                 for locale in data["displayName"].keys():

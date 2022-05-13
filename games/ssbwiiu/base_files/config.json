@@ -481,7 +481,12 @@
       "smashgg_name": "Charizard",
       "codename": "Charizard",
       "locale": {
-        "fr": "Dracaufeu"
+        "fr": "Dracaufeu",
+        "ja": "リザードン",
+        "de": "Glurak",
+        "ko": "리자몽",
+        "zh_CN": "喷火龙",
+        "zh_TW": "噴火龍"
       }
     },
     "Lucario": {
@@ -506,7 +511,23 @@
     },
     "Captain Falcon": {
       "smashgg_name": "Captain Falcon",
-      "codename": "CaptainFalcon"
+      "codename": "CaptainFalcon",
+      "locale": {
+        "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30d5\u30a1\u30eb\u30b3\u30f3",
+        "en_GB": "Captain Falcon",
+        "en_AU": "Captain Falcon",
+        "fr": "Captain Falcon",
+        "fr_CA": "Capitaine Falcon",
+        "es_ES": "Captain Falcon",
+        "es_LA": "Capit\u00e1n Falcon",
+        "de": "Captain Falcon",
+        "it": "Captain Falcon",
+        "nl": "Captain Falcon",
+        "ru": "\u041a\u0430\u043f\u0438\u0442\u0430\u043d \u0424\u044d\u043b\u043a\u043e\u043d",
+        "ko": "\ucea1\ud2f4 \ud314\ucf58",
+        "zh_TW": "\u98db\u96bc\u968a\u9577",
+        "zh_CN": "\u98de\u96bc\u961f\u957f"
+      }
     },
     "Ness": {
       "smashgg_name": "Ness",
@@ -1099,26 +1120,57 @@
       "smashgg_name": "Mii Gunner",
       "codename": "MiiGunner",
       "locale": {
-        "fr": "Tireur Mii"
+        "fr": "Tireuse Mii",
+        "es_ES": "Tiradora Mii",
+        "es_LA": "Tiradora Mii",
+        "de": "Mii-Schützin",
+        "it": "Fuciliere Mii",
+        "nl": "Mii-Cyborg",
+        "ru": "Mii-Стрелок",
+        "ko": "Mii 사격",
+        "zh_TW": "Mii射擊類型",
+        "zh_CN": "Mii射击类型",
+        "ja": "Mii 射撃タイプ"
       }
     },
     "Mii Swordfighter": {
       "smashgg_name": "Mii Swordfighter",
       "codename": "MiiSwordfighter",
       "locale": {
-        "fr": "\u00c9p\u00e9iste Mii"
+        "fr": "\u00c9p\u00e9iste Mii",
+        "es_ES": "Espadachín Mii",
+        "es_LA": "Espadachín Mii",
+        "de": "Mii-Schwertkämpfer",
+        "it": "Spadaccino Mii",
+        "nl": "Mii-Zwaardvechter",
+        "ru": "Mii-Мечник",
+        "ko": "Mii 검술",
+        "zh_TW": "Mii劍術類型",
+        "zh_CN": "Mii剑术类型",
+        "ja": "Mii 剣術タイプ"
       }
     },
     "Mii Brawler": {
       "smashgg_name": "Mii Brawler",
       "codename": "MiiBrawler",
       "locale": {
-        "fr": "Boxeur Mii"
+        "fr": "Boxeur Mii",
+        "fr_CA": "Bagarreur Mii",
+        "es_ES": "Karateka Mii",
+        "es_LA": "Peleador Mii",
+        "de": "Mii-Boxer",
+        "it": "Lottatore Mii",
+        "nl": "Mii-Bokser",
+        "ru": "Mii-Драчун",
+        "ko": "Mii 격투",
+        "zh_TW": "Mii格鬥類型",
+        "zh_CN": "Mii格斗类型",
+        "ja": "Mii 格闘タイプ"
       }
     }
   },
   "stage_to_codename": {},
-  "version": "1.03",
+  "version": "1.05",
   "description": "Base config to use this game.",
   "credits": ""
 }

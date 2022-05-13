@@ -236,7 +236,23 @@
     },
     "Captain Falcon": {
       "smashgg_name": "Captain Falcon",
-      "codename": "captain_falcon"
+      "codename": "captain_falcon",
+      "locale": {
+        "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30d5\u30a1\u30eb\u30b3\u30f3",
+        "en_GB": "Captain Falcon",
+        "en_AU": "Captain Falcon",
+        "fr": "Captain Falcon",
+        "fr_CA": "Capitaine Falcon",
+        "es_ES": "Captain Falcon",
+        "es_LA": "Capit\u00e1n Falcon",
+        "de": "Captain Falcon",
+        "it": "Captain Falcon",
+        "nl": "Captain Falcon",
+        "ru": "\u041a\u0430\u043f\u0438\u0442\u0430\u043d \u0424\u044d\u043b\u043a\u043e\u043d",
+        "ko": "\ucea1\ud2f4 \ud314\ucf58",
+        "zh_TW": "\u98db\u96bc\u968a\u9577",
+        "zh_CN": "\u98de\u96bc\u961f\u957f"
+      }
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
@@ -440,7 +456,13 @@
     },
     "Conker": {
       "smashgg_name": "Conker",
-      "codename": "conker"
+      "codename": "conker",
+      "locale": {
+        "ja": "コンカー",
+        "zh_CN": "松鼠库克",
+        "zh_TW": "松鼠庫克",
+        "ko": "컨커스"
+      }
     },
     "Lucas": {
       "smashgg_name": "Lucas",
@@ -482,7 +504,7 @@
         "zh_CN": "\u7d22\u5c3c\u514b"
       }
     },
-    "Random Character": {
+    "Random": {
       "smashgg_name": "Random Character",
       "codename": "random",
       "locale": {
@@ -807,6 +829,6 @@
       "codename": "mushroom_kingdom_sr"
     }
   },
-  "version": "1.14",
+  "version": "1.15",
   "description": "Base config to use this game."
 }

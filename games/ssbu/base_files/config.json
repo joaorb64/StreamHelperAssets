@@ -239,7 +239,23 @@
     },
     "Captain Falcon": {
       "smashgg_name": "Captain Falcon",
-      "codename": "captain"
+      "codename": "captain",
+      "locale": {
+        "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30d5\u30a1\u30eb\u30b3\u30f3",
+        "en_GB": "Captain Falcon",
+        "en_AU": "Captain Falcon",
+        "fr": "Captain Falcon",
+        "fr_CA": "Capitaine Falcon",
+        "es_ES": "Captain Falcon",
+        "es_LA": "Capit\u00e1n Falcon",
+        "de": "Captain Falcon",
+        "it": "Captain Falcon",
+        "nl": "Captain Falcon",
+        "ru": "\u041a\u0430\u043f\u0438\u0442\u0430\u043d \u0424\u044d\u043b\u043a\u043e\u043d",
+        "ko": "\ucea1\ud2f4 \ud314\ucf58",
+        "zh_TW": "\u98db\u96bc\u968a\u9577",
+        "zh_CN": "\u98de\u96bc\u961f\u957f"
+      }
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
@@ -745,7 +761,20 @@
       "smashgg_name": "Pokemon Trainer",
       "codename": "ptrainer",
       "locale": {
-        "fr": "Dresseur de Pok\u00e9mon"
+        "fr": "Dresseur de Pok\u00e9mon",
+        "ja": "\u30dd\u30b1\u30e2\u30f3\u30c8\u30ec\u30fc\u30ca\u30fc",
+        "en_GB": "Pok\u00e9mon Trainer",
+        "en_AU": "Pok\u00e9mon Trainer",
+        "fr_CA": "Dresseur De Pok\u00e9mon",
+        "es_ES": "Entrenador Pok\u00e9mon",
+        "es_LA": "Entrenador Pok\u00e9mon",
+        "de": "Pok\u00e9mon-Trainer",
+        "it": "Allenatore Di Pok\u00e9mon",
+        "nl": "Pok\u00e9mon Trainer",
+        "ru": "\u0422\u0440\u0435\u043d\u0435\u0440 \u041f\u043e\u043a\u0435\u043c\u043e\u043d\u043e\u0432",
+        "ko": "\ud3ec\ucf13\ubaac \ud2b8\ub808\uc774\ub108",
+        "zh_TW": "\u5bf6\u53ef\u5922\u8a13\u7df4\u5bb6",
+        "zh_CN": "\u5b9d\u53ef\u68a6\u8bad\u7ec3\u5bb6"
       }
     },
     "Diddy Kong": {
@@ -1052,21 +1081,52 @@
       "smashgg_name": "Mii Brawler",
       "codename": "miifighter",
       "locale": {
-        "fr": "Boxeur Mii"
+        "fr": "Boxeur Mii",
+        "fr_CA": "Bagarreur Mii",
+        "es_ES": "Karateka Mii",
+        "es_LA": "Peleador Mii",
+        "de": "Mii-Boxer",
+        "it": "Lottatore Mii",
+        "nl": "Mii-Bokser",
+        "ru": "Mii-Драчун",
+        "ko": "Mii 격투",
+        "zh_TW": "Mii格鬥類型",
+        "zh_CN": "Mii格斗类型",
+        "ja": "Mii 格闘タイプ"
       }
     },
     "Mii Swordfighter": {
       "smashgg_name": "Mii Swordfighter",
       "codename": "miiswordsman",
       "locale": {
-        "fr": "\u00c9p\u00e9iste Mii"
+        "fr": "\u00c9p\u00e9iste Mii",
+        "es_ES": "Espadachín Mii",
+        "es_LA": "Espadachín Mii",
+        "de": "Mii-Schwertkämpfer",
+        "it": "Spadaccino Mii",
+        "nl": "Mii-Zwaardvechter",
+        "ru": "Mii-Мечник",
+        "ko": "Mii 검술",
+        "zh_TW": "Mii劍術類型",
+        "zh_CN": "Mii剑术类型",
+        "ja": "Mii 剣術タイプ"
       }
     },
     "Mii Gunner": {
       "smashgg_name": "Mii Gunner",
       "codename": "miigunner",
       "locale": {
-        "fr": "Tireur Mii"
+        "fr": "Tireuse Mii",
+        "es_ES": "Tiradora Mii",
+        "es_LA": "Tiradora Mii",
+        "de": "Mii-Schützin",
+        "it": "Fuciliere Mii",
+        "nl": "Mii-Cyborg",
+        "ru": "Mii-Стрелок",
+        "ko": "Mii 사격",
+        "zh_TW": "Mii射擊類型",
+        "zh_CN": "Mii射击类型",
+        "ja": "Mii 射撃タイプ"
       }
     },
     "Palutena": {
@@ -2315,6 +2375,6 @@
       }
     }
   },
-  "version": "1.04",
+  "version": "1.05",
   "description": "Base config to use this game."
 }

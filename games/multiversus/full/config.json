@@ -1,0 +1,91 @@
+{
+  "name": "Artwork",
+  "description": "Character artwork",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "0.1",
+  "eyesights": {
+    "AryaStark": {
+      "0": {
+        "x": 179,
+        "y": 147
+      }
+    },
+    "Batman": {
+      "0": {
+        "x": 252,
+        "y": 97
+      }
+    },
+    "BugsBunny": {
+      "0": {
+        "x": 163,
+        "y": 287
+      }
+    },
+    "FinntheHuman": {
+      "0": {
+        "x": 145,
+        "y": 245
+      }
+    },
+    "Garnet": {
+      "0": {
+        "x": 170,
+        "y": 126
+      }
+    },
+    "HarleyQuinn": {
+      "0": {
+        "x": 216,
+        "y": 165
+      }
+    },
+    "JaketheDog": {
+      "0": {
+        "x": 191,
+        "y": 258
+      }
+    },
+    "Reindog": {
+      "0": {
+        "x": 126,
+        "y": 249
+      }
+    },
+    "Shaggy": {
+      "0": {
+        "x": 196,
+        "y": 123
+      }
+    },
+    "StevenUniverse": {
+      "0": {
+        "x": 218,
+        "y": 234
+      }
+    },
+    "Superman": {
+      "0": {
+        "x": 125,
+        "y": 75
+      }
+    },
+    "TomandJerry": {
+      "0": {
+        "x": 42,
+        "y": 248
+      }
+    },
+    "WonderWoman": {
+      "0": {
+        "x": 217,
+        "y": 103
+      }
+    }
+  }
+}

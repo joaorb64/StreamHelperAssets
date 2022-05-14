@@ -1,0 +1,85 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Andy Bogard": {
+      "codename": "05"
+    },
+    "Billy Kane": {
+      "codename": "03"
+    },
+    "Blue Mary": {
+      "codename": "17"
+    },
+    "Bob Wilson": {
+      "codename": "04"
+    },
+    "Cheng Sinzan": {
+      "codename": "09"
+    },
+    "Duck King": {
+      "codename": "16"
+    },
+    "Franco Bash": {
+      "codename": "21"
+    },
+    "Geese Howard": {
+      "codename": "08"
+    },
+    "Hon Fu": {
+      "codename": "13"
+    },
+    "Jin Chonrei": {
+      "codename": "20"
+    },
+    "Jin Chonshu": {
+      "codename": "18"
+    },
+    "Joe Higashi": {
+      "codename": "06"
+    },
+    "Kim Kaphwan": {
+      "codename": "12"
+    },
+    "Laurence Blood": {
+      "codename": "19"
+    },
+    "Li Xiangfei": {
+      "codename": "11"
+    },
+    "Mai Shiranui": {
+      "codename": "10"
+    },
+    "Rick Strowd": {
+      "codename": "22"
+    },
+    "Ryuji Yamazaki": {
+      "codename": "02"
+    },
+    "Sokaku Mochizuki": {
+      "codename": "07"
+    },
+    "Terry Bogard": {
+      "codename": "01"
+    },
+    "Tung Fu Rue": {
+      "codename": "15"
+    },
+    "Wolfgang Krauser": {
+      "codename": "14"
+    },
+    "Alfred": {
+      "codename": "23"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Real Bout Fatal Fury 2: The Newcomers",
+  "smashgg_game_id": 18590,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "リアルバウト餓狼伝説2 THE NEWCOMERS"
+    }
+  }
+}

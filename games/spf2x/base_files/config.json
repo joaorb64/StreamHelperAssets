@@ -1,0 +1,49 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akuma": {
+      "codename": "10"
+    },
+    "Chun-Li": {
+      "codename": "02"
+    },
+    "Dan": {
+      "codename": "09"
+    },
+    "Devilot": {
+      "codename": "11"
+    },
+    "Donovan": {
+      "codename": "07"
+    },
+    "Felicia": {
+      "codename": "08"
+    },
+    "Hsien-Ko": {
+      "codename": "06"
+    },
+    "Ken": {
+      "codename": "04"
+    },
+    "Morrigan": {
+      "codename": "05"
+    },
+    "Ryu": {
+      "codename": "01"
+    },
+    "Sakura": {
+      "codename": "03"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Super Puzzle Fighter II Turbo",
+  "smashgg_game_id": 13362,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "スーパーパズルファイターIIX"
+    }
+  }
+}

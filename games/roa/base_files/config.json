@@ -5,164 +5,309 @@
   "character_to_codename": {
     "Zetterburn": {
       "smashgg_name": "Zetterburn",
-      "codename": "Zetterburn"
+      "codename": "Zetterburn",
+      "locale": {
+        "ru": "Зеттерберн"
+      }
     },
     "Orcane": {
       "smashgg_name": "Orcane",
-      "codename": "Orcane"
+      "codename": "Orcane",
+      "locale": {
+        "ru": "Оркан"
+      }
     },
     "Wrastor": {
       "smashgg_name": "Wrastor",
-      "codename": "Wrastor"
+      "codename": "Wrastor",
+      "locale": {
+        "ru": "Рэстор"
+      }
     },
     "Kragg": {
       "smashgg_name": "Kragg",
-      "codename": "Kragg"
+      "codename": "Kragg",
+      "locale": {
+        "ru": "Крэгг"
+      }
     },
     "Forsburn": {
       "smashgg_name": "Forsburn",
-      "codename": "Forsburn"
+      "codename": "Forsburn",
+      "locale": {
+        "ru": "Форсберн"
+      }
     },
     "Maypul": {
       "smashgg_name": "Maypul",
-      "codename": "Maypul"
+      "codename": "Maypul",
+      "locale": {
+        "ru": "Мейпул"
+      }
     },
     "Absa": {
       "smashgg_name": "Absa",
-      "codename": "Absa"
+      "codename": "Absa",
+      "locale": {
+        "ru": "Абса"
+      }
     },
     "Etalus": {
       "smashgg_name": "Etalus",
-      "codename": "Etalus"
+      "codename": "Etalus",
+      "locale": {
+        "ru": "Эталус"
+      }
     },
-    "Ori": {
+    "Ori & Sein": {
       "smashgg_name": "Ori",
-      "codename": "Ori"
+      "codename": "Ori",
+      "locale": {
+        "ru": "Ори и Сейн"
+      }
     },
     "Ranno": {
       "smashgg_name": "Ranno",
-      "codename": "Ranno"
+      "codename": "Ranno",
+      "locale": {
+        "ru": "Ранно"
+      }
     },
     "Clairen": {
       "smashgg_name": "Clairen",
-      "codename": "Clairen"
+      "codename": "Clairen",
+      "locale": {
+        "ru": "Клайрен"
+      }
     },
     "Sylvanos": {
       "smashgg_name": "Sylvanos",
-      "codename": "Sylvanos"
+      "codename": "Sylvanos",
+      "locale": {
+        "ru": "Сильванос"
+      }
     },
     "Elliana": {
       "smashgg_name": "Elliana",
-      "codename": "Elliana"
+      "codename": "Elliana",
+      "locale": {
+        "ru": "Элиана"
+      }
     },
     "Shovel Knight": {
       "smashgg_name": "Shovel Knight",
-      "codename": "ShovelKnight"
+      "codename": "ShovelKnight",
+      "locale": {
+        "ru": "Л. Рыцарь"
+      }
     },
     "Mollo": {
       "codename": "Mollo",
-      "smashgg_name": "Mollo"
+      "smashgg_name": "Mollo",
+      "locale": {
+        "ru": "Молло"
+      }
     },
     "Hodan": {
       "codename": "Hodan",
-      "smashgg_name": "Hodan"
+      "smashgg_name": "Hodan",
+      "locale": {
+        "ru": "Худан"
+      }
     },
     "Olympia": {
       "codename": "Olympia",
-      "smashgg_name": "Olympia"
+      "smashgg_name": "Olympia",
+      "locale": {
+        "ru": "Олимпия"
+      }
     },
     "Pomme": {
       "codename": "Pomme",
-      "smashgg_name": "Pomme"
+      "smashgg_name": "Pomme",
+      "locale": {
+        "ru": "Помм"
+      }
+    },
+    "Sandbert": {
+      "codename": "Sandbert",
+      "smashgg_name": "Sandbert",
+      "locale": {
+        "ru": "Сендберт"
+      }
     }
   },
   "stage_to_codename": {
     "Aether High": {
-      "codename": "uni"
+      "codename": "uni",
+      "locale": {
+        "ru": "Астральный Пик"
+      }
     },
-    "Aetherial Gates": {
-      "codename": "aether"
+    "Aethereal Gates": {
+      "codename": "aether",
+      "locale": {
+        "ru": "Астральные Врата"
+      }
     },
     "Air Armada": {
-      "codename": "armada"
+      "codename": "armada",
+      "locale": {
+        "ru": "Каменная Стена"
+      }
     },
     "Blazing Hideout": {
-      "codename": "hideout"
+      "codename": "hideout",
+      "locale": {
+        "ru": "Пылающее Убежище"
+      }
     },
     "Diamond Grove": {
-      "codename": "grove"
+      "codename": "grove",
+      "locale": {
+        "ru": "Бриллиантовая Роща"
+      }
     },
     "Fire Capital": {
-      "codename": "capital"
+      "codename": "capital",
+      "locale": {
+        "ru": "Огненная Столица"
+      }
     },
     "Frozen Fortress": {
-      "codename": "fortress"
+      "codename": "fortress",
+      "locale": {
+        "ru": "Ледяная Крепость"
+      }
     },
     "Frozen Gates": {
-      "codename": "frozen"
+      "codename": "frozen",
+      "locale": {
+        "ru": "Ледяные Врата"
+      }
     },
     "Julesvale": {
-      "codename": "julesvale"
+      "codename": "julesvale",
+      "locale": {
+        "ru": "Жюльвилль"
+      }
     },
     "Merchant Port": {
-      "codename": "port"
+      "codename": "port",
+      "locale": {
+        "ru": "Торговый Порт"
+      }
     },
     "Neo Fire Capital": {
-      "codename": "neo"
+      "codename": "neo",
+      "locale": {
+        "ru": "Неоновая Столица"
+      }
     },
     "Pridemoor Keep": {
-      "codename": "keep"
+      "codename": "keep",
+      "locale": {
+        "ru": "Замок Славнотопи"
+      }
     },
     "Tempest Peak": {
-      "codename": "tempest"
+      "codename": "tempest",
+      "locale": {
+        "ru": "Пик Бурь"
+      }
     },
     "Tetherball Court": {
-      "codename": "tether"
+      "codename": "tether",
+      "locale": {
+        "ru": "Площадка для тетербола"
+      }
     },
     "The CEO Ring": {
-      "codename": "ceo"
+      "codename": "ceo",
+      "locale": {
+        "ru": "CEO Ринг"
+      }
     },
     "The Endless Abyss": {
-      "codename": "abyss"
+      "codename": "abyss",
+      "locale": {
+        "ru": "Бескрайняя Бездна"
+      }
     },
     "The Forest Floor": {
-      "codename": "floor"
+      "codename": "floor",
+      "locale": {
+        "ru": "Сердце Леса"
+      }
     },
     "The RoA Ring": {
-      "codename": "ring"
+      "codename": "ring",
+      "locale": {
+        "ru": "RoA Ринг"
+      }
     },
     "The Rock Wall": {
-      "codename": "wall"
+      "codename": "wall",
+      "locale": {
+        "ru": "Каменная Стена"
+      }
     },
     "The Spirit Tree": {
-      "codename": "oristage"
+      "codename": "oristage",
+      "locale": {
+        "ru": "Древо Духов"
+      }
     },
     "The Swampy Estuary": {
-      "codename": "swamp"
+      "codename": "swamp",
+      "locale": {
+        "ru": "Забытое Болото"
+      }
     },
     "Tower of Heaven": {
-      "codename": "heaven"
+      "codename": "heaven",
+      "locale": {
+        "ru": "Небесный Замок"
+      }
     },
     "Treetop Lodge": {
-      "codename": "treetop"
+      "codename": "treetop",
+      "locale": {
+        "ru": "Дом-на-Дереве"
+      }
     },
     "Troupple Pond": {
-      "codename": "shovelstage"
+      "codename": "shovelstage",
+      "locale": {
+        "ru": "Пруд Рыблок"
+      }
     },
     "Crystal Oasis": {
-      "codename": "crystal"
+      "codename": "crystal",
+      "locale": {
+        "ru": "Кристальный Оазис"
+      }
     },
     "Highdive Hideaway": {
-      "codename": "hideaway"
+      "codename": "hideaway",
+      "locale": {
+        "ru": "Высокое Убежище"
+      }
     },
     "Neo Blazing Rail": {
-      "codename": "railroad"
+      "codename": "railroad",
+      "locale": {
+        "ru": "Пылающая Дорога"
+      }
     },
     "Neo Julesvale": {
-      "codename": "concert"
+      "codename": "concert",
+      "locale": {
+        "ru": "Неоновый Жюльвилль"
+      }
     }
   },
-  "version": "2.02",
+  "version": "2.2",
   "description": "Base config to use this game.",
   "credits": "@Readeku for ripping the assets"
 }

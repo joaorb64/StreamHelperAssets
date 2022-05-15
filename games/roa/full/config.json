@@ -7,7 +7,7 @@
         "full"
     ],
     "credits": "@Readeku for ripping the assets\n@MathiasWolfbrok for cropping",
-    "version": "2.11",
+    "version": "2.2",
     "eyesights": {
         "Absa": {
             "0": {
@@ -139,6 +139,12 @@
             "18": {
                 "x": 727,
                 "y": 351
+            }
+        },
+        "Sandbert": {
+            "0": {
+                "x": 717,
+                "y": 349
             }
         }
     }

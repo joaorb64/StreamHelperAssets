@@ -1,0 +1,47 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Candyman": {
+      "codename": "Candyman"
+    },
+    "Dice": {
+      "codename": "Dice"
+    },
+    "Doombox": {
+      "codename": "Doombox"
+    },
+    "Dust & Ashes": {
+      "codename": "DustAshes"
+    },
+    "Grid": {
+      "codename": "Grid"
+    },
+    "Jet": {
+      "codename": "Jet"
+    },
+    "Latch": {
+      "codename": "Latch"
+    },
+    "Nitro": {
+      "codename": "Nitro"
+    },
+    "Raptor": {
+      "codename": "Raptor"
+    },
+    "Sonata": {
+      "codename": "Sonata"
+    },
+    "Switch": {
+      "codename": "Switch"
+    },
+    "Toxic": {
+      "codename": "Toxic"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Lethal League Blaze",
+  "smashgg_game_id": 2868,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

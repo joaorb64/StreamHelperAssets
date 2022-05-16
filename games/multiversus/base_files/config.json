@@ -34,10 +34,10 @@
         "fr": "Chien-Renne"
       }
     },
-    "Shaggy": {
+    "Shaggy Rogers": {
       "codename": "Shaggy",
       "locale": {
-        "fr": "Sammy"
+        "fr": "Sammy Rogers"
       }
     },
     "Steven Universe": {
@@ -54,6 +54,24 @@
     },
     "Wonder Woman": {
       "codename": "WonderWoman"
+    },
+    "The Iron Giant": {
+      "codename": "IronGiant",
+      "locale": {
+        "fr": "Le Géant de Fer"
+      }
+    },
+    "The Tasmanian Devil": {
+      "codename": "Taz",
+      "locale": {
+        "fr": "Taz"
+      }
+    },
+    "Velma Dinkley": {
+      "codename": "Velma",
+      "locale": {
+        "fr": "Véra Dinkley"
+      }
     }
   },
   "credits": "",
@@ -61,5 +79,5 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "0.1"
+  "version": "0.2"
 }

@@ -1,0 +1,203 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Andy Bogard": {
+      "codename": "09_02"
+    },
+    "Athena Asamiya": {
+      "codename": "27_01"
+    },
+    "Benimaru Nikaido": {
+      "codename": "07_02"
+    },
+    "Billy Kane": {
+      "codename": "47_03"
+    },
+    "Blue Mary": {
+      "codename": "47_02"
+    },
+    "Brian Battler": {
+      "codename": "59_03"
+    },
+    "Chang Koehan": {
+      "codename": "37_02"
+    },
+    "Chin Gentsai": {
+      "codename": "27_03"
+    },
+    "Chizuru Kagura": {
+      "codename": "29_01"
+    },
+    "Choi Bounge": {
+      "codename": "37_03"
+    },
+    "Chris": {
+      "codename": "39_03"
+    },
+    "Clark Still": {
+      "codename": "19_03"
+    },
+    "EX Andy": {
+      "codename": "09_02-EX"
+    },
+    "EX Billy": {
+      "codename": "47_03-EX"
+    },
+    "EX Blue Mary": {
+      "codename": "47_02-EX"
+    },
+    "EX Geese": {
+      "codename": "67_01-EX"
+    },
+    "EX Joe": {
+      "codename": "09_03-EX"
+    },
+    "EX King": {
+      "codename": "29_03-EX"
+    },
+    "EX Kyo": {
+      "codename": "07_01-EX"
+    },
+    "EX Mai": {
+      "codename": "29_02-EX"
+    },
+    "EX Robert": {
+      "codename": "17_02-EX"
+    },
+    "EX Ryo": {
+      "codename": "17_01-EX"
+    },
+    "EX Terry": {
+      "codename": "09_01-EX"
+    },
+    "EX Yamazaki": {
+      "codename": "47_01-EX"
+    },
+    "EX Yuri": {
+      "codename": "17_03-EX"
+    },
+    "Eiji Kisaragi": {
+      "codename": "77_01"
+    },
+    "Geese Howard": {
+      "codename": "67_01"
+    },
+    "Goro Daimon": {
+      "codename": "07_03"
+    },
+    "Heavy D!": {
+      "codename": "59_01"
+    },
+    "Heidern": {
+      "codename": "57_01"
+    },
+    "Iori Yagami": {
+      "codename": "49_01"
+    },
+    "Joe Higashi": {
+      "codename": "09_03"
+    },
+    "Kasumi Todoh": {
+      "codename": "77_02"
+    },
+    "Kim Kaphwan": {
+      "codename": "37_01"
+    },
+    "King": {
+      "codename": "29_03"
+    },
+    "Kyo Kusanagi": {
+      "codename": "07_01"
+    },
+    "Leona Heidern": {
+      "codename": "19_01"
+    },
+    "Lucky Glauber": {
+      "codename": "59_02"
+    },
+    "Mai Shiranui": {
+      "codename": "29_02"
+    },
+    "Mature": {
+      "codename": "49_03"
+    },
+    "Mr. Big": {
+      "codename": "67_03"
+    },
+    "Orochi Chris": {
+      "codename": "39_03-EX"
+    },
+    "Orochi Iori": {
+      "codename": "79_01"
+    },
+    "Orochi Leona": {
+      "codename": "79_02"
+    },
+    "Orochi Shermie": {
+      "codename": "39_02-EX"
+    },
+    "Orochi Yashiro": {
+      "codename": "39_01-EX"
+    },
+    "Ralf Jones": {
+      "codename": "19_02"
+    },
+    "Robert Garcia": {
+      "codename": "17_02"
+    },
+    "Rugal Bernstein": {
+      "codename": "77_04"
+    },
+    "Ryo Sakazaki": {
+      "codename": "17_01"
+    },
+    "Ryuji Yamazaki": {
+      "codename": "47_01"
+    },
+    "Saisyu Kusanagi": {
+      "codename": "57_03"
+    },
+    "Shermie": {
+      "codename": "39_02"
+    },
+    "Shingo Yabuki": {
+      "codename": "77_03"
+    },
+    "Sie Kensou": {
+      "codename": "27_02"
+    },
+    "Takuma Sakazaki": {
+      "codename": "57_02"
+    },
+    "Terry Bogard": {
+      "codename": "09_01"
+    },
+    "Vice": {
+      "codename": "49_02"
+    },
+    "Wolfgang Krauser": {
+      "codename": "67_02"
+    },
+    "Yashiro Nanakase": {
+      "codename": "39_01"
+    },
+    "Yuri Sakazaki": {
+      "codename": "17_03"
+    },
+    "Goenitz": {
+      "codename": "69_01"
+    },
+    "Orochi": {
+      "codename": "69_02"
+    },
+    "Omega Rugal": {
+      "codename": "69_03"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "The King of Fighters '98 Ultimate Match Final Edition",
+  "smashgg_game_id": 17413,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

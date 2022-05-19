@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "nasb"
+game_codename = "kof98umfe"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 
@@ -13,7 +13,7 @@ characters = config.get("character_to_codename")
 eyesights_dict = {}
 
 for character_name in characters.keys():
-    eyesights_dict[characters[character_name].get("codename")] = {0: {"x": 0, "y": 0}, "1": {"x": 0, "y": 0}}
+    eyesights_dict[characters[character_name].get("codename")] = {0: {"x": 0, "y": 0}}
 
 eyesights_dict = collections.OrderedDict(sorted(eyesights_dict.items()))
 

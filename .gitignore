@@ -22,3 +22,4 @@ utilities/generate_sound_pack/*.json
 utilities/generate_sound_pack/sound/*
 utilities/generate_sound_pack/archive/*
 games/*/sound.json
+utilities/vf4_fix_alpha/*.png

@@ -1,0 +1,64 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akira Yuki": {
+      "codename": "01"
+    },
+    "Aoi Umenokoji": {
+      "codename": "15"
+    },
+    "Brad Burns": {
+      "codename": "17"
+    },
+    "Dural": {
+      "codename": "18"
+    },
+    "Goh Hinogami": {
+      "codename": "09"
+    },
+    "Jacky Bryant": {
+      "codename": "12"
+    },
+    "Jeffry McWild": {
+      "codename": "05"
+    },
+    "Kage-Maru": {
+      "codename": "06"
+    },
+    "Lau Chan": {
+      "codename": "03"
+    },
+    "Lei-Fei": {
+      "codename": "16"
+    },
+    "Lion Rafale": {
+      "codename": "14"
+    },
+    "Pai Chan": {
+      "codename": "02"
+    },
+    "Sarah Bryant": {
+      "codename": "10"
+    },
+    "Shun Di": {
+      "codename": "13"
+    },
+    "Vanessa Lewis": {
+      "codename": "08"
+    },
+    "Wolf Hawkfield": {
+      "codename": "04"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Virtua Fighter 4: Final Tuned",
+  "smashgg_game_id": 13762,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "バーチャファイター4 ファイナルチューンド"
+    }
+  }
+}

@@ -4,56 +4,110 @@
   "challonge_game_id": 367,
   "character_to_codename": {
     "Filia": {
-      "codename": "Filia"
+      "codename": "Filia",
+      "locale": {
+        "ja": "フィリア・メディチ"
+      }
     },
     "Cerebella": {
-      "codename": "Cerebella"
+      "codename": "Cerebella",
+      "locale": {
+        "ja": "セレベラ"
+      }
     },
     "Peacock": {
-      "codename": "Peacock"
+      "codename": "Peacock",
+      "locale": {
+        "ja": "ピーコック"
+      }
     },
     "Parasoul": {
-      "codename": "Parasoul"
+      "codename": "Parasoul",
+      "locale": {
+        "ja": "パラソール・ルノワール"
+      }
     },
     "Ms. Fortune": {
-      "codename": "MsFortune"
+      "codename": "MsFortune",
+      "locale": {
+        "ja": "ミス・フォーチュン"
+      }
     },
     "Painwheel": {
-      "codename": "Painwheel"
+      "codename": "Painwheel",
+      "locale": {
+        "ja": "ペインホイール"
+      }
     },
     "Valentine": {
-      "codename": "Valentine"
+      "codename": "Valentine",
+      "locale": {
+        "ja": "ヴァレンタイン"
+      }
     },
     "Double": {
-      "codename": "Double"
+      "codename": "Double",
+      "locale": {
+        "ja": "ダブル"
+      }
     },
     "Squigly": {
-      "codename": "Squigly"
+      "codename": "Squigly",
+      "locale": {
+        "ja": "スクィグリー"
+      }
     },
     "Big Band": {
-      "codename": "BigBand"
+      "codename": "BigBand",
+      "locale": {
+        "ja": "ビッグバンド"
+      }
     },
     "Eliza": {
-      "codename": "Eliza"
+      "codename": "Eliza",
+      "locale": {
+        "ja": "イライザ"
+      }
     },
     "Fukua": {
-      "codename": "Fukua"
+      "codename": "Fukua",
+      "locale": {
+        "ja": "フクア"
+      }
     },
     "Beowulf": {
-      "codename": "Beowulf"
+      "codename": "Beowulf",
+      "locale": {
+        "ja": "ベオウルフ"
+      }
     },
     "Robo-Fortune": {
-      "codename": "RoboFortune"
+      "codename": "RoboFortune",
+      "locale": {
+        "ja": "ロボ・フォーチュン"
+      }
     },
     "Annie": {
-      "codename": "Annie"
+      "codename": "Annie",
+      "locale": {
+        "ja": "星のアニー"
+      }
     },
     "Umbrella": {
-      "codename": "Umbrella"
+      "codename": "Umbrella",
+      "locale": {
+        "ja": "アンブレラ・ルノワール"
+      }
+    },
+    "Black Dahlia": {
+      "codename": "BlackDahlia",
+      "locale": {
+        "ja": "ブラック・ダリア"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.1",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Skullgirls)",
   "ratio_game": true

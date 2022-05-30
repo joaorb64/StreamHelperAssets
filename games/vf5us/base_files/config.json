@@ -1,0 +1,74 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akira Yuki": {
+      "codename": "akira"
+    },
+    "Aoi Umenokoji": {
+      "codename": "aoi"
+    },
+    "Brad Burns": {
+      "codename": "brad"
+    },
+    "Dural": {
+      "codename": "dural"
+    },
+    "Eileen": {
+      "codename": "eileen"
+    },
+    "El Blaze": {
+      "codename": "blaze"
+    },
+    "Goh Hinogami": {
+      "codename": "goh"
+    },
+    "Jacky Bryant": {
+      "codename": "jacky"
+    },
+    "Jean Kujo": {
+      "codename": "jean"
+    },
+    "Jeffry McWild": {
+      "codename": "jeffry"
+    },
+    "Kage-Maru": {
+      "codename": "kage"
+    },
+    "Lau Chan": {
+      "codename": "lau"
+    },
+    "Lei-Fei": {
+      "codename": "leifei"
+    },
+    "Lion Rafale": {
+      "codename": "lion"
+    },
+    "Pai Chan": {
+      "codename": "pai"
+    },
+    "Sarah Bryant": {
+      "codename": "sarah"
+    },
+    "Shun Di": {
+      "codename": "shun"
+    },
+    "Taka-Arashi": {
+      "codename": "tarashi"
+    },
+    "Vanessa Lewis": {
+      "codename": "vanessa"
+    },
+    "Wolf Hawkfield": {
+      "codename": "wolf"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Virtua Fighter 5 Ultimate Showdown",
+  "smashgg_game_id": 38039,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": "バーチャファイター eスポーツ"
+  }
+}

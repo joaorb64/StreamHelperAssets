@@ -5,7 +5,7 @@
     "postfix": "_",
     "type": ["mobile"],
     "credits": "",
-    "version": "0.1",
+    "version": "0.2",
     "eyesights": {
         "Berserker": {
           "0": {
@@ -77,6 +77,24 @@
           "0": {
             "x": 136,
             "y": 123
+          }
+        },
+        "SwiftMaster": {
+          "0": {
+            "x": 164,
+            "y": 165
+          }
+        },
+        "Troubleshooter": {
+          "0": {
+            "x": 103,
+            "y": 113
+          }
+        },
+        "Enchantress": {
+          "0": {
+            "x": 103,
+            "y": 89
           }
         }
       }

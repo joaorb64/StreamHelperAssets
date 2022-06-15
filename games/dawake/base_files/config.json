@@ -1,0 +1,74 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bernhard": {
+      "codename": "103"
+    },
+    "Curse Head": {
+      "codename": "90"
+    },
+    "Dorgan": {
+      "codename": "97"
+    },
+    "Elion": {
+      "codename": "94"
+    },
+    "Evetta": {
+      "codename": "96"
+    },
+    "Fina": {
+      "codename": "95"
+    },
+    "GerhardsenII": {
+      "codename": "99"
+    },
+    "Goblin": {
+      "codename": "93"
+    },
+    "Manticore": {
+      "codename": "106"
+    },
+    "Mara": {
+      "codename": "102"
+    },
+    "Nagar": {
+      "codename": "101"
+    },
+    "Nsidor": {
+      "codename": "104"
+    },
+    "Orc": {
+      "codename": "91"
+    },
+    "Ramda": {
+      "codename": "88"
+    },
+    "Sandra": {
+      "codename": "89"
+    },
+    "The King Has No Name": {
+      "codename": "190"
+    },
+    "Thiele": {
+      "codename": "107"
+    },
+    "Troll": {
+      "codename": "92"
+    },
+    "Vargan": {
+      "codename": "98"
+    },
+    "Vritra": {
+      "codename": "100"
+    },
+    "Zon": {
+      "codename": "105"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Dark Awake: The King Has No Name",
+  "smashgg_game_id": 31935,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

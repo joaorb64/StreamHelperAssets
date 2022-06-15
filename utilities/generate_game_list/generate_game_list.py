@@ -15,6 +15,8 @@ for dirname in os.listdir(path_to_games):
             "nb_asset_packs": nb_asset_packs_for_game
         }
 
+list_games = {k: v for k, v in sorted(list_games.items(), key=lambda item: item[1]["name"].lower())}
+
 with open(f"./list_games.txt", 'wt', encoding='utf-8') as list_file:
     for game in list_games:
         has_s = ''

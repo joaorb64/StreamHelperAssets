@@ -1,0 +1,92 @@
+{
+  "name": "Tatsunoko vs Capcom: Ultimate All Stars",
+  "smashgg_game_id": 22408,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Alex": {
+      "codename": "Alex"
+    },
+    "Batsu Ichimonji": {
+      "codename": "BatsuIchimonji"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Frank West": {
+      "codename": "FrankWest"
+    },
+    "Kaijin No Soki": {
+      "codename": "KaijinNoSoki"
+    },
+    "Megaman Volnutt": {
+      "codename": "MegamanVolnutt"
+    },
+    "Morrigan Aensland": {
+      "codename": "MorriganAensland"
+    },
+    "Roll": {
+      "codename": "Roll"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Saki Omokane": {
+      "codename": "SakiOmokane"
+    },
+    "Viewtiful Joe": {
+      "codename": "ViewtifulJoe"
+    },
+    "Zero": {
+      "codename": "Zero"
+    },
+    "Casshan": {
+      "codename": "Casshan"
+    },
+    "Doronjo": {
+      "codename": "Doronjo"
+    },
+    "Ippatsuman": {
+      "codename": "Ippatsuman"
+    },
+    "Joe the Condor": {
+      "codename": "JoetheCondor"
+    },
+    "Jun the Swan": {
+      "codename": "JuntheSwan"
+    },
+    "Karas": {
+      "codename": "Karas"
+    },
+    "Ken the Eagle": {
+      "codename": "KentheEagle"
+    },
+    "Polimar": {
+      "codename": "Polimar"
+    },
+    "Tekkaman": {
+      "codename": "Tekkaman"
+    },
+    "Tekkaman Blade": {
+      "codename": "TekkamanBlade"
+    },
+    "Yatterman-1": {
+      "codename": "Yatterman1"
+    },
+    "Yatterman-2": {
+      "codename": "Yatterman2"
+    },
+    "Gold Lightan": {
+      "codename": "GoldLightan"
+    },
+    "PTX-40A": {
+      "codename": "PTX40A"
+    },
+    "Hakushon Daimaō": {
+      "codename": "HakushonDaimao"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Supercombo Wiki (https://srk.shib.live/w/Marvel_vs_Capcom_2)"
+}

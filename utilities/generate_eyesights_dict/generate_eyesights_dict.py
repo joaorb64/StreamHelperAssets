@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "dawake"
+game_codename = "tvc"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

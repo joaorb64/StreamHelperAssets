@@ -1,0 +1,103 @@
+{
+  "name": "Project Justice",
+  "smashgg_game_id": 11577,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Batsu": {
+      "codename": "Batsu"
+    },
+    "Hinata": {
+      "codename": "Hinata"
+    },
+    "Kyosuke": {
+      "codename": "Kyosuke"
+    },
+    "Akira": {
+      "codename": "Akira"
+    },
+    "Edge": {
+      "codename": "Edge"
+    },
+    "Gan": {
+      "codename": "Gan"
+    },
+    "Roy": {
+      "codename": "Roy"
+    },
+    "Boman": {
+      "codename": "Boman"
+    },
+    "Tiffany": {
+      "codename": "Tiffany"
+    },
+    "Natsu": {
+      "codename": "Natsu"
+    },
+    "Shoma": {
+      "codename": "Shoma"
+    },
+    "Roberto": {
+      "codename": "Roberto"
+    },
+    "Hideo": {
+      "codename": "Hideo"
+    },
+    "Kyoko": {
+      "codename": "Kyoko"
+    },
+    "Hyo": {
+      "codename": "Hyo"
+    },
+    "Daigo": {
+      "codename": "Daigo"
+    },
+    "Hayato": {
+      "codename": "Hayato"
+    },
+    "Ran": {
+      "codename": "Ran"
+    },
+    "Nagare": {
+      "codename": "Nagare"
+    },
+    "Burning Batsu": {
+      "codename": "BurningBatsu"
+    },
+    "Chairperson": {
+      "codename": "Chairperson"
+    },
+    "Demon Hyo": {
+      "codename": "DemonHyo"
+    },
+    "Kurow": {
+      "codename": "Kurow"
+    },
+    "Momo": {
+      "codename": "Momo"
+    },
+    "Powered Akira": {
+      "codename": "PoweredAkira"
+    },
+    "Vatsu": {
+      "codename": "Vatsu"
+    },
+    "Wild Daigo": {
+      "codename": "WildDaigo"
+    },
+    "Yurika": {
+      "codename": "Yurika"
+    },
+    "Zaki": {
+      "codename": "Zaki"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Project_Justice)",
+  "locale": {
+    "ja": {
+      "name": "燃えろ!ジャスティス学園"
+    }
+  }
+}

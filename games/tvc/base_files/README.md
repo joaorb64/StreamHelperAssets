@@ -6,5 +6,5 @@ Base config to use this game.
 
 ## Credits: 
 
-Assets ripped from Supercombo Wiki (https://srk.shib.live/w/Marvel_vs_Capcom_2)
+Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Tatsunoko_vs_Capcom:_Ultimate_All_Stars)
 

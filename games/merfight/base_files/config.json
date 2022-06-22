@@ -1,0 +1,47 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Arctina": {
+      "codename": "Arctina"
+    },
+    "Atlas": {
+      "codename": "Atlas"
+    },
+    "Bolt": {
+      "codename": "Bolt"
+    },
+    "Drargos": {
+      "codename": "Drargos"
+    },
+    "Enjellique": {
+      "codename": "Enj"
+    },
+    "Gamma": {
+      "codename": "Gamma"
+    },
+    "Gigi": {
+      "codename": "Gigi"
+    },
+    "King Rho": {
+      "codename": "Rho"
+    },
+    "Naeco": {
+      "codename": "Naeco"
+    },
+    "Octonia": {
+      "codename": "Octonia"
+    },
+    "Odon": {
+      "codename": "Odon"
+    },
+    "Strike": {
+      "codename": "Strike"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "MerFight: Curse of the Arctic Prince",
+  "smashgg_game_id": null,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -1,13 +1,13 @@
 import json
 from pathlib import Path
 
-game_id = 31935
+game_id = 21258
 character_list_filename = "characters_list.txt"
 
 blank_files_folder="blank_files"
 Path(blank_files_folder).mkdir(parents=True, exist_ok=True)
 
-with open(f"../download_smashgg/game_data.json", 'rt') as game_data_file:
+with open(f"../download_smashgg/game_data.json", 'rt', encoding="utf-8") as game_data_file:
     game_data = json.loads(game_data_file.read())
 found = False
 for game in game_data:
@@ -39,7 +39,7 @@ with open(f"config.json", 'wt') as config_file:
 
     with open(f"{character_list_filename}", 'rt', encoding='utf-8') as character_list:
         for character_name in character_list:
-            character_name = character_name.replace('\n', '')
+            character_name = character_name.strip()
             if character_name:
                 codename = character_name.replace(' ', '').replace('&', '').replace(
                     '.', '').replace('(', '').replace(')', '').replace('-', '').replace("'", "").replace("/", "").replace('"', '')

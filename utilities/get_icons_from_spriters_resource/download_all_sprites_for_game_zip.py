@@ -8,7 +8,7 @@ import zipfile
 download_folder_name = "download"
 Path(download_folder_name).mkdir(parents=True, exist_ok=True)
 
-base_url = "https://www.spriters-resource.com/xbox_360/ultimatemarvelvscapcom3/"
+base_url = "https://www.spriters-resource.com/pc_computer/marvelvscapcominfinite/"
 
 game_page = requests.get(base_url)
 game_content = game_page.text
@@ -17,7 +17,7 @@ game_soup = BS(game_content, features="html.parser")
 parse_tables = game_soup.findAll('a', href=True)
 link_list = []
 for tag in parse_tables:
-    if ('class="iconheadertext"' in str(tag)) and ("xbox_360/ultimatemarvelvscapcom3/sheet/" in tag["href"]):
+    if ('class="iconheadertext"' in str(tag)) and ("pc_computer/marvelvscapcominfinite/sheet/" in tag["href"]):
         link_list.append(f'https://www.spriters-resource.com{tag["href"]}')
 
 filenames = []
@@ -33,7 +33,7 @@ for link in link_list:
     sprite_sheet_soup = BS(sprite_sheet_content, features="html.parser")
     sprite_sheet_tags = sprite_sheet_soup.findAll('a', href=True)
     for tag in sprite_sheet_tags:
-        if ("download" in tag["href"]) and (id in tag["href"]):
+        if ("download" in tag["href"]) and (id in tag["href"]) and ('class="zip-download nomobile"' in str(tag)):
             link = f'https://www.spriters-resource.com{tag["href"]}'
             download_split = link.split('/')
             while not download_split[-1]:

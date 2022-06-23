@@ -1,0 +1,133 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akamaru": {
+      "codename": "Akamaru"
+    },
+    "Anko Mitarashi": {
+      "codename": "AnkoMitarashi"
+    },
+    "Awakened Hinata": {
+      "codename": "AwakenedHinata"
+    },
+    "Choji Akimichi": {
+      "codename": "ChojiAkimichi"
+    },
+    "Karasu": {
+      "codename": "Crow"
+    },
+    "Gaara": {
+      "codename": "Gaara"
+    },
+    "Haku": {
+      "codename": "Haku"
+    },
+    "Hinata Hyuga": {
+      "codename": "HinataHyuga"
+    },
+    "Ino Yamanaka": {
+      "codename": "InoYamanaka"
+    },
+    "Iruka Umino": {
+      "codename": "IrukaUmino"
+    },
+    "Itachi Uchiha": {
+      "codename": "ItachiUchiha"
+    },
+    "Jiraiya": {
+      "codename": "Jiraiya"
+    },
+    "Jirobo": {
+      "codename": "Jirobo"
+    },
+    "Kabuto Yakushi": {
+      "codename": "KabutoYakushi"
+    },
+    "Kakashi Hatake": {
+      "codename": "KakashiHatake"
+    },
+    "Kankuro": {
+      "codename": "Kankuro"
+    },
+    "Kiba Inuzuka": {
+      "codename": "KibaInuzuka"
+    },
+    "Kidomaru": {
+      "codename": "Kidomaru"
+    },
+    "Kimimaro": {
+      "codename": "Kimimaro"
+    },
+    "Kisame Hoshigaki": {
+      "codename": "KisameHoshigaki"
+    },
+    "Rock Lee": {
+      "codename": "Lee"
+    },
+    "Might Guy": {
+      "codename": "MightGuy"
+    },
+    "Mizuki": {
+      "codename": "Mizuki"
+    },
+    "Naruto Uzumaki": {
+      "codename": "NarutoUzumaki"
+    },
+    "Neji Hyuga": {
+      "codename": "NejiHyuga"
+    },
+    "Orochimaru": {
+      "codename": "Orochimaru"
+    },
+    "Sakon & Ukon": {
+      "codename": "SakonUkon"
+    },
+    "Sakura Haruno": {
+      "codename": "SakuraHaruno"
+    },
+    "Sasuke Uchiha": {
+      "codename": "SasukeUchiha"
+    },
+    "Second State Sasuke": {
+      "codename": "SecondStateSasuke"
+    },
+    "Shikamaru Nara": {
+      "codename": "ShikamaruNara"
+    },
+    "Shino Aburame": {
+      "codename": "ShinoAburame"
+    },
+    "Tayuya": {
+      "codename": "Tayuya"
+    },
+    "Temari": {
+      "codename": "Temari"
+    },
+    "Tenten": {
+      "codename": "Tenten"
+    },
+    "Third Hokage": {
+      "codename": "ThirdHokage"
+    },
+    "Tsunade": {
+      "codename": "Tsunade"
+    },
+    "Ultimate Nine-Tailed Naruto": {
+      "codename": "UltimateNineTailedNaruto"
+    },
+    "Zabuza Momochi": {
+      "codename": "ZabuzaMomochi"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Naruto: Gekit\u014d Ninja Taisen! 4",
+  "smashgg_game_id": 21258,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "ナルト-激闘忍者大戦! 4"
+    }
+  }
+}

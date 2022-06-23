@@ -1,0 +1,159 @@
+{
+  "name": "Marvel vs. Capcom: Infinite",
+  "smashgg_game_id": 288,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Chris Redfield": {
+      "smashgg_name": "Chris Redfield",
+      "codename": "ChrisRedfield"
+    },
+    "Zero": {
+      "smashgg_name": "Zero",
+      "codename": "Zero"
+    },
+    "Ultron": {
+      "smashgg_name": "Ultron",
+      "codename": "Ultron"
+    },
+    "Thor": {
+      "smashgg_name": "Thor",
+      "codename": "Thor"
+    },
+    "Thanos": {
+      "smashgg_name": "Thanos",
+      "codename": "Thanos"
+    },
+    "Ryu": {
+      "smashgg_name": "Ryu",
+      "codename": "Ryu"
+    },
+    "Captain America": {
+      "smashgg_name": "Captain America",
+      "codename": "CaptainAmerica"
+    },
+    "Captain Marvel": {
+      "smashgg_name": "Captain Marvel",
+      "codename": "CaptainMarvel"
+    },
+    "Doctor Strange": {
+      "smashgg_name": "Doctor Strange",
+      "codename": "DoctorStrange"
+    },
+    "Dormammu": {
+      "smashgg_name": "Dormammu",
+      "codename": "Dormammu"
+    },
+    "Gamora": {
+      "smashgg_name": "Gamora",
+      "codename": "Gamora"
+    },
+    "Ghost Rider": {
+      "smashgg_name": "Ghost Rider",
+      "codename": "GhostRider"
+    },
+    "Hawkeye": {
+      "smashgg_name": "Hawkeye",
+      "codename": "Hawkeye"
+    },
+    "Hulk": {
+      "smashgg_name": "Hulk",
+      "codename": "Hulk"
+    },
+    "Iron Man": {
+      "smashgg_name": "Iron Man",
+      "codename": "IronMan"
+    },
+    "Nova": {
+      "smashgg_name": "Nova",
+      "codename": "Nova"
+    },
+    "Rocket Raccoon": {
+      "smashgg_name": "Rocket Raccoon",
+      "codename": "RocketRaccoon"
+    },
+    "Spider-Man": {
+      "smashgg_name": "Spider-Man",
+      "codename": "Spider-Man"
+    },
+    "Arthur": {
+      "smashgg_name": "Arthur",
+      "codename": "Arthur"
+    },
+    "Chun-Li": {
+      "smashgg_name": "Chun-Li",
+      "codename": "Chun-Li"
+    },
+    "Dante": {
+      "smashgg_name": "Dante",
+      "codename": "Dante"
+    },
+    "Firebrand": {
+      "smashgg_name": "Firebrand",
+      "codename": "Firebrand"
+    },
+    "Frank West": {
+      "smashgg_name": "Frank West",
+      "codename": "FrankWest"
+    },
+    "Jedah Dohma": {
+      "smashgg_name": "Jedah Dohma",
+      "codename": "JedahDohma"
+    },
+    "X": {
+      "smashgg_name": "Mega Man X",
+      "codename": "MegaManX"
+    },
+    "Mike Haggar": {
+      "smashgg_name": "Mike Haggar",
+      "codename": "MikeHaggar"
+    },
+    "Morrigan Aensland": {
+      "smashgg_name": "Morrigan Aensland",
+      "codename": "MorriganAensland"
+    },
+    "Nemesis-T Type": {
+      "smashgg_name": "Nemesis",
+      "codename": "Nemesis"
+    },
+    "Nathan Spencer": {
+      "smashgg_name": "Nathan Spencer",
+      "codename": "NathanSpencer"
+    },
+    "Strider Hiryu": {
+      "smashgg_name": "Strider Hiryu",
+      "codename": "StriderHiryu"
+    },
+    "Black Panther": {
+      "smashgg_name": "Black Panther",
+      "codename": "BlackPanther"
+    },
+    "Monster Hunter": {
+      "smashgg_name": "Monster Hunter",
+      "codename": "MonsterHunter"
+    },
+    "Sigma": {
+      "smashgg_name": "Sigma",
+      "codename": "Sigma"
+    },
+    "Venom": {
+      "smashgg_name": "Venom",
+      "codename": "Venom"
+    },
+    "Black Widow": {
+      "smashgg_name": "Black Widow",
+      "codename": "BlackWidow"
+    },
+    "Winter Soldier": {
+      "smashgg_name": "Winter Soldier",
+      "codename": "WinterSoldier"
+    },
+    "Ultron Sigma": {
+      "smashgg_name": "Ultron Sigma",
+      "codename": "UltronSigma"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

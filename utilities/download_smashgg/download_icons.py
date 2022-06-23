@@ -2,7 +2,7 @@ import json
 import requests
 from pathlib import Path
 
-game_id = 24
+game_id = 288
 
 with open(f"game_data.json", 'rt') as game_data_file:
     game_data = json.loads(game_data_file.read())

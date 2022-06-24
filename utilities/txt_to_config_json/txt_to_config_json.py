@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-game_id = 21258
+game_id = 7667
 character_list_filename = "characters_list.txt"
 
 blank_files_folder="blank_files"
@@ -42,7 +42,7 @@ with open(f"config.json", 'wt') as config_file:
             character_name = character_name.strip()
             if character_name:
                 codename = character_name.replace(' ', '').replace('&', '').replace(
-                    '.', '').replace('(', '').replace(')', '').replace('-', '').replace("'", "").replace("/", "").replace('"', '')
+                    '.', '').replace('(', '').replace(')', '').replace('-', '').replace("'", "").replace("/", "").replace('"', '').replace(":", "")
                 config_dict["character_to_codename"][character_name] = {
                     "codename": codename
                 }

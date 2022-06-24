@@ -1,0 +1,56 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Alex Jefailey": {
+      "codename": "AlexJefailey"
+    },
+    "Codename: S-Kill": {
+      "codename": "CodenameSKill"
+    },
+    "Dive": {
+      "codename": "Dive"
+    },
+    "Dr. Victoria Shoals": {
+      "codename": "DrVictoriaShoals"
+    },
+    "Johnny Gat": {
+      "codename": "JohnnyGat"
+    },
+    "Kenny": {
+      "codename": "Kenny"
+    },
+    "Kick": {
+      "codename": "Kick"
+    },
+    "Kung Pao": {
+      "codename": "KungPao"
+    },
+    "Markman": {
+      "codename": "Markman"
+    },
+    "Mr. N": {
+      "codename": "MrN"
+    },
+    "Redacted": {
+      "codename": "Redacted"
+    },
+    "Stream": {
+      "codename": "Stream"
+    },
+    "The Baz": {
+      "codename": "TheBaz"
+    },
+    "The Fencer": {
+      "codename": "TheFencer"
+    },
+    "Uncle Sensei": {
+      "codename": "UncleSensei"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Divekick",
+  "smashgg_game_id": 7667,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

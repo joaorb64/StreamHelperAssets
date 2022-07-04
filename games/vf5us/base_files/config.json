@@ -67,8 +67,8 @@
   "name": "Virtua Fighter 5 Ultimate Showdown",
   "smashgg_game_id": 38039,
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.01",
   "locale": {
-    "ja": "バーチャファイター eスポーツ"
+    "ja":{"name": "バーチャファイター eスポーツ"}
   }
 }

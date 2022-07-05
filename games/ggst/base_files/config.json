@@ -5,84 +5,144 @@
   "character_to_codename": {
     "Anji Mito": {
       "smashgg_name": "Anji",
-      "codename": "Anji"
+      "codename": "Anji",
+      "locale": {
+        "ja": "御津 闇慈"
+      }
     },
     "Axl Low": {
       "smashgg_name": "Axl",
-      "codename": "Axl"
+      "codename": "Axl",
+      "locale": {
+        "ja": "アクセル＝ロウ"
+      }
     },
     "Chipp Zanuff": {
       "smashgg_name": "Chipp",
-      "codename": "Chipp"
+      "codename": "Chipp",
+      "locale": {
+        "ja": "チップ＝ザナフ"
+      }
     },
     "Faust": {
       "smashgg_name": "Faust",
-      "codename": "Faust"
+      "codename": "Faust",
+      "locale": {
+        "ja": "ファウスト"
+      }
     },
     "Giovanna": {
       "smashgg_name": "Giovanna",
-      "codename": "Giovanna"
+      "codename": "Giovanna",
+      "locale": {
+        "ja": "ジオヴァーナ"
+      }
     },
     "I-No": {
       "smashgg_name": "I-No",
-      "codename": "I-No"
+      "codename": "I-No",
+      "locale": {
+        "ja": "イノ"
+      }
     },
     "Ky Kiske": {
       "smashgg_name": "Ky",
-      "codename": "Ky"
+      "codename": "Ky",
+      "locale": {
+        "ja": "カイ＝キスク"
+      }
     },
     "Leo Whitefang": {
       "smashgg_name": "Leo",
-      "codename": "Leo"
+      "codename": "Leo",
+      "locale": {
+        "ja": "レオ＝ホワイトファング"
+      }
     },
     "May": {
       "smashgg_name": "May",
-      "codename": "May"
+      "codename": "May",
+      "locale": {
+        "ja": "メイ"
+      }
     },
     "Millia Rage": {
       "smashgg_name": "Millia",
-      "codename": "Millia"
+      "codename": "Millia",
+      "locale": {
+        "ja": "ミリア＝レイジ"
+      }
     },
     "Nagoriyuki": {
       "smashgg_name": "Nagoriyuki",
-      "codename": "Nagoriyuki"
+      "codename": "Nagoriyuki",
+      "locale": {
+        "ja": "名残雪"
+      }
     },
     "Potemkin": {
       "smashgg_name": "Potemkin",
-      "codename": "Potemkin"
+      "codename": "Potemkin",
+      "locale": {
+        "ja": "ポチョムキン"
+      }
     },
     "Ramlethal Valentine": {
       "smashgg_name": "Ramlethal",
-      "codename": "Ramlethal"
+      "codename": "Ramlethal",
+      "locale": {
+        "ja": "ラムレザル＝ヴァレンタイン"
+      }
     },
     "Sol Badguy": {
       "smashgg_name": "Sol",
-      "codename": "Sol"
+      "codename": "Sol",
+      "locale": {
+        "ja": "ソル＝バッドガイ"
+      }
     },
-    "Zato-1": {
+    "Zato-ONE": {
       "smashgg_name": "Zato",
-      "codename": "Zato"
+      "codename": "Zato",
+      "locale": {
+        "ja": "ザトー＝ＯＮＥ"
+      }
     },
     "Goldlewis Dickenson": {
       "smashgg_name": "Goldlewis",
-      "codename": "Goldlewis"
+      "codename": "Goldlewis",
+      "locale": {
+        "ja": "ゴールドルイス＝ディキンソン"
+      }
     },
     "Jack-O'": {
       "smashgg_name": "Jack-O",
-      "codename": "Jack-O"
+      "codename": "Jack-O",
+      "locale": {
+        "ja": "ジャック・オー＝ヴァレンタイン"
+      }
     },
     "Happy Chaos": {
-      "codename": "HappyChaos"
+      "codename": "HappyChaos",
+      "locale": {
+        "ja": "ハッピーケイオス"
+      }
     },
     "Baiken": {
-      "codename": "Baiken"
+      "codename": "Baiken",
+      "locale": {
+        "ja": "梅喧"
+      }
     },
     "Testament": {
-      "codename": "Testament"
+      "codename": "Testament",
+      "locale": {
+        "ja": "テスタメント"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.51",
+  "version": "1.52",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
   "locale": {

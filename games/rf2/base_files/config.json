@@ -1,0 +1,60 @@
+{
+  "name": "The Rumble Fish 2",
+  "smashgg_game_id": 16190,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aran": {
+      "codename": "Aran"
+    },
+    "Bazoo": {
+      "codename": "Bazoo"
+    },
+    "Beatrice": {
+      "codename": "Beatrice"
+    },
+    "Boyd": {
+      "codename": "Boyd"
+    },
+    "Garnet": {
+      "codename": "Garnet"
+    },
+    "Greed": {
+      "codename": "Greed"
+    },
+    "Hazama": {
+      "codename": "Hazama"
+    },
+    "Hikari": {
+      "codename": "Hikari"
+    },
+    "Kaya": {
+      "codename": "Kaya"
+    },
+    "Lud": {
+      "codename": "Lud"
+    },
+    "Mito": {
+      "codename": "Mito"
+    },
+    "Orville": {
+      "codename": "Orville"
+    },
+    "Sheryl": {
+      "codename": "Sheryl"
+    },
+    "Typhon": {
+      "codename": "Typhon"
+    },
+    "Viren": {
+      "codename": "Viren"
+    },
+    "Zen": {
+      "codename": "Zen"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/The_Rumble_Fish_2)",
+  "locale": {"ja": {"name": "ザ・ランブルフィッシュ2"}}
+}

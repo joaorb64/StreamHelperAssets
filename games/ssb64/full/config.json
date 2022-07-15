@@ -4,7 +4,7 @@
     "prefix": "",
     "postfix": "_",
     "credits": "@joao_shino for all crops",
-    "version": 1.11,
+    "version": 1.12,
     "type": "portrait",
     "eyesights": {
         "mario": {
@@ -153,8 +153,8 @@
         },
         "sonic": {
             "0": {
-                "x": 240,
-                "y": 156
+                "x": 213,
+                "y": 136
             },
             "6": {
                 "x": 244,

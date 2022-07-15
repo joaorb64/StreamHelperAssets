@@ -2,7 +2,7 @@
     "name": "Mural arts",
     "description": "Character arts painted by hand.",
     "credits": "- @ElevenZM - original mural arts isolation.\n- @MuralAltDrive - alternate costumes.\n- @joao_shino - crops.\n- @kekwel_ssb - alternate costumes crops.",
-    "version": "0.993",
+    "version": "0.994",
     "prefix": "",
     "postfix": "_",
     "eyesights": {
@@ -262,6 +262,22 @@
             "0": {
                 "x": 523,
                 "y": 433
+            },
+            "4": {
+                "x": 538,
+                "y": 330
+            },
+            "5": {
+                "x": 538,
+                "y": 330
+            },
+            "6": {
+                "x": 538,
+                "y": 330
+            },
+            "7": {
+                "x": 538,
+                "y": 330
             }
         },
         "lucario": {

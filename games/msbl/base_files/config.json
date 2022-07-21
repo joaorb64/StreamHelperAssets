@@ -185,6 +185,39 @@
         "pt_PT": "Bum Bum",
         "ru": "\u0411\u0443\u043c-\u0431\u0443\u043c"
       }
+    },
+    "Daisy": {
+      "codename": "Daisy",
+      "locale": {
+        "ja": "\u30c7\u30a4\u30b8\u30fc",
+        "en_GB": "Daisy",
+        "en_AU": "Daisy",
+        "fr": "Daisy",
+        "fr_CA": "Daisy",
+        "es": "Daisy",
+        "es_LA": "Daisy",
+        "de": "Daisy",
+        "it": "Daisy",
+        "nl": "Daisy",
+        "ru": "\u0414\u0435\u0439\u0437\u0438",
+        "ko": "\ub370\uc774\uc9c0",
+        "zh_TW": "\u9edb\u897f\u516c\u4e3b",
+        "zh_CN": "\u83ca\u82b1\u516c\u4e3b"
+      }
+    },
+    "Shy Guy": {
+      "codename": "ShyGuy",
+      "locale": {
+        "ja": "\u30d8\u30a4\u30db\u30fc",
+        "zh_CN": "\u563f\u5475",
+        "zh_TW": "\u563f\u5475",
+        "ko": "\ud5e4\uc774\ud638",
+        "fr": "Maskass",
+        "fr_CA": "Maskache",
+        "it": "Tipo Timido",
+        "pt_PT": "Masquito",
+        "ru": "\u0421\u043a\u0440\u043e\u043c\u043d\u044f\u0433\u0430"
+      }
     }
   },
   "credits": "",
@@ -192,7 +225,7 @@
   "name": "Mario Strikers: Battle League",
   "smashgg_game_id": 42285,
   "stage_to_codename": {},
-  "version": "1.07",
+  "version": "1.1",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\u30ba: \u30d0\u30c8\u30eb\u30ea\u30fc\u30b0"

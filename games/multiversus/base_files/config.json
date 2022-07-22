@@ -72,6 +72,15 @@
       "locale": {
         "fr": "Véra Dinkley"
       }
+    },
+    "LeBron James": {
+      "codename": "Lebron"
+    },
+    "Rick Sanchez": {
+      "codename": "Rick"
+    },
+    "Morty Smith": {
+      "codename": "Morty"
     }
   },
   "credits": "",
@@ -79,5 +88,5 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "0.2"
+  "version": "0.3"
 }

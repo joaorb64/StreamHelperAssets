@@ -4,7 +4,7 @@
     "prefix": "",
     "postfix": "_",
     "credits": "@joao_shino for all crops",
-    "version": 1.12,
+    "version": 1.2,
     "type": "portrait",
     "eyesights": {
         "mario": {
@@ -179,6 +179,12 @@
             "11": {
                 "x": 244,
                 "y": 188
+            }
+        },
+        "sheik": {
+            "0": {
+                "x": 272,
+                "y": 136
             }
         }
     }

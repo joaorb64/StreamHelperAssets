@@ -504,6 +504,10 @@
         "zh_CN": "\u7d22\u5c3c\u514b"
       }
     },
+    "Sheik": {
+      "smashgg_name": "Sheik",
+      "codename": "sheik"
+    },
     "Random": {
       "smashgg_name": "Random Character",
       "codename": "random",
@@ -563,6 +567,9 @@
     },
     "Dream Land": {
       "codename": "dream_land"
+    },
+    "Winter Dream Land": {
+      "codename": "winter_dream_land"
     },
     "Dr. Mario": {
       "codename": "dr_mario"
@@ -687,8 +694,11 @@
     "Showdown": {
       "codename": "showdown"
     },
-    "Skyloft": {
-      "codename": "skyloft"
+    "Tal Tal Heights": {
+      "codename": "tal_tal_heights"
+    },
+    "Tal Tal Heights SR": {
+      "codename": "tal_tal_heights_sr"
     },
     "Smashketball": {
       "codename": "smashketball"
@@ -723,8 +733,8 @@
     "Yoshi's Story": {
       "codename": "yoshis_story"
     },
-    "Zebes Landing": {
-      "codename": "zebes_landing"
+    "Crateria": {
+      "codename": "crateria"
     },
     "Congo Jungle DL": {
       "codename": "congo_jungle_dl"
@@ -777,6 +787,9 @@
     "Peach's Castle \u03a9": {
       "codename": "peachs_castle_omega"
     },
+    "Peach's Castle Beta": {
+      "codename": "peachs_castle_beta"
+    },
     "Saffron City DL": {
       "codename": "saffron_city_dl"
     },
@@ -827,8 +840,20 @@
     },
     "Mushroom Kingdom SR": {
       "codename": "mushroom_kingdom_sr"
+    },
+    "Rainbow Road": {
+      "codename": "rainbow_road"
+    },
+    "Toad's Turnpike": {
+      "codename": "toads_turnpike"
+    },
+    "Pok\u00e9mon Stadium 2": {
+      "codename": "pokemon_stadium_2"
+    },
+    "Norfair SR": {
+      "codename": "norfair_sr"
     }
   },
-  "version": "1.16",
+  "version": "1.20",
   "description": "Base config to use this game."
 }

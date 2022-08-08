@@ -6,5 +6,5 @@ Character artwork in a cartoony drawing style, as seen in the game's cover and m
 
 ## Credits: 
 
-Arts by @sopebockz, @Retro64, @thequickslash. Resizing by joao_shino.
+Original characters: www.mariowiki.com. Remix arts by @sopebockz, @Retro64, @thequickslash. Resizing by joao_shino.
 

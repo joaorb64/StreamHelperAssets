@@ -1,19 +1,10 @@
 {
     "name": "Artwork",
     "description": "Character artwork in a cartoony drawing style, as seen in the game's cover and manual",
-    "credits": "Arts by @sopebockz, @Retro64, @thequickslash. Resizing by joao_shino.",
+    "credits": "Original characters: www.mariowiki.com. Remix arts by @sopebockz, @Retro64, @thequickslash. Resizing by joao_shino.",
     "prefix": "",
-    "postfix": "",
-    "version": 1.2,
-    "skin_mapping": {
-        "sonic": {
-            "7": "6",
-            "8": "6",
-            "9": "6",
-            "10": "6",
-            "11": "6"
-        }
-    },
+    "postfix": "_",
+    "version": 1.21,
     "eyesights": {
         "mario": {
             "0": {

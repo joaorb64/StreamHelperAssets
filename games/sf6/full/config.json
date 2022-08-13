@@ -4,7 +4,7 @@
     "prefix": "file_",
     "postfix": "_",
     "type": ["full"],
-    "version": 0.2,
+    "version": 0.3,
     "eyesights": {
         "ChunLi": {
           "0": {
@@ -34,6 +34,18 @@
           "0": {
             "x": 470,
             "y": 117
+          }
+        },
+        "Juri": {
+          "0": {
+            "x": 436,
+            "y": 645
+          }
+        },
+        "Kimberly": {
+          "0": {
+            "x": 402,
+            "y": 716
           }
         }
       }

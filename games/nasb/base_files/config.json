@@ -127,6 +127,9 @@
       "locale": {
         "fr": "Jenny « XJ-9 » Wakeman"
       }
+    },
+    "Hugh Neutron": {
+      "codename": "pie"
     }
   },
   "stage_to_codename": {
@@ -264,9 +267,12 @@
     },
     "Tremorton Joyride": {
       "codename": "neo_transformer"
+    },
+    "Duck, Duck, Pie!": {
+      "codename": "pie_abstract"
     }
   },
-  "version": "1.6",
+  "version": "1.7",
   "description": "Base config to use this game.",
   "credits": ""
 }

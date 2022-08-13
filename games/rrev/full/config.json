@@ -6,55 +6,67 @@
   "type": [
     "full"
   ],
-  "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.0",
+  "credits": "Assets extracted from https://github.com/Wokanoga/Rushdown-Revolt-Stream-Tool/tree/main/Stream%20Tool/Resources/Characters",
+  "version": "1.1",
   "eyesights": {
     "AfiGalu": {
       "0": {
-        "x": 583,
-        "y": 765
+        "x": 544,
+        "y": 1159
       }
     },
     "Ashani": {
       "0": {
-        "x": 531,
-        "y": 198
+        "x": 722,
+        "y": 418
       }
     },
     "Ezzie": {
       "0": {
-        "x": 490,
-        "y": 381
+        "x": 621,
+        "y": 732
       }
     },
     "Kidd": {
       "0": {
-        "x": 403,
-        "y": 283
+        "x": 536,
+        "y": 403
       }
     },
     "Raymer": {
       "0": {
-        "x": 564,
-        "y": 237
+        "x": 444,
+        "y": 574
       }
     },
     "Urdah": {
       "0": {
-        "x": 403,
-        "y": 132
+        "x": 801,
+        "y": 355
       }
     },
     "Weishan": {
       "0": {
-        "x": 669,
-        "y": 235
+        "x": 1915,
+        "y": 873
       }
     },
     "Zhurong": {
       "0": {
-        "x": 469,
-        "y": 193
+        "x": 577,
+        "y": 448
+      }
+    },
+    "Seth": {
+      "0": {
+        "x": 1584,
+        "y": 352
+      }
+    },
+    "Velora": {
+      "0": {
+        "x": 612,
+        "y": 348
       }
     }
   }

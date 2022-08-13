@@ -139,10 +139,16 @@
       "locale": {
         "ja": "テスタメント"
       }
+    },
+    "Bridget": {
+      "codename": "Bridget",
+      "locale": {
+        "ja": "ブリジット"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.52",
+  "version": "1.6",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
   "locale": {

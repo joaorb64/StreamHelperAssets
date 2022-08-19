@@ -4,10 +4,10 @@
   "prefix": "full_",
   "postfix": "_",
   "type": [
-    "full_website"
+    "tsukihime"
   ],
   "credits": "",
-  "version": "1.4",
+  "version": "1.5",
   "eyesights": {
     "AkihaTohno": {
       "0": {
@@ -115,6 +115,18 @@
       "0": {
         "x": 1781,
         "y": 447
+      }
+    },
+    "Mash": {
+      "0": {
+        "x": 381,
+        "y": 294
+      }
+    },
+    "NecoArc": {
+      "0": {
+        "x": 570,
+        "y": 599
       }
     }
   }

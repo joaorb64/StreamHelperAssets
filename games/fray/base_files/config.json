@@ -1,0 +1,29 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "CommanderVideo": {
+      "codename": "CommanderVideo"
+    },
+    "Octodad": {
+      "codename": "Octodad"
+    },
+    "Orcane": {
+      "codename": "Orcane"
+    },
+    "The Watcher": {
+      "codename": "TheWatcher"
+    },
+    "Ultra Fishbunjin 3000": {
+      "codename": "UltraFishbunjin3000"
+    },
+    "Welltaro": {
+      "codename": "Welltaro"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Fraymakers",
+  "smashgg_game_id": 37022,
+  "stage_to_codename": {},
+  "version": "0.1"
+}

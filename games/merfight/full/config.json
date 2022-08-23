@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.0",
+  "version": "1.01",
   "eyesights": {
     "Arctina": {
       "0": {
@@ -81,5 +81,6 @@
         "y": 158
       }
     }
-  }
+  },
+  "fullbody": true
 }

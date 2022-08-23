@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Assets extracted from https://github.com/Wokanoga/Rushdown-Revolt-Stream-Tool/tree/main/Stream%20Tool/Resources/Characters",
-  "version": "1.1",
+  "version": "1.11",
   "eyesights": {
     "AfiGalu": {
       "0": {
@@ -69,5 +69,6 @@
         "y": 348
       }
     }
-  }
+  },
+  "fullbody": true
 }

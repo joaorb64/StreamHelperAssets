@@ -3,7 +3,10 @@
     "description": "Character renders",
     "prefix": "",
     "postfix": "_",
-    "type": ["full"],
+    "type": [
+        "full"
+    ],
     "credits": "@MathiasWolfbrok for cropping",
-    "version": "1.0"
+    "version": "1.01",
+    "fullbody": true
 }

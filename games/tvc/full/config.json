@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Assets ripped from Supercombo Wiki (https://srk.shib.live/w/Marvel_vs_Capcom_2)",
-  "version": "1.0",
+  "version": "1.01",
   "eyesights": {
     "Alex": {
       "0": {
@@ -171,5 +171,6 @@
         "y": 246
       }
     }
-  }
+  },
+  "fullbody": true
 }

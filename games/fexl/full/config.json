@@ -7,7 +7,7 @@
         "full"
     ],
     "credits": "@MathiasWolfbrok for cropping",
-    "version": "1.11",
+    "version": "1.12",
     "eyesights": {
         "01_kairi": {
             "0": {
@@ -117,5 +117,6 @@
                 "y": 108
             }
         }
-    }
+    },
+    "fullbody": true
 }

@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Kirby_Fighters_2)",
-  "version": "1.01",
+  "version": "1.02",
   "eyesights": {
     "Archer": {
       "0": {
@@ -141,5 +141,6 @@
         "y": 213
       }
     }
-  }
+  },
+  "fullbody": true
 }

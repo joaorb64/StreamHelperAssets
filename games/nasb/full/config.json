@@ -7,7 +7,7 @@
         "full"
     ],
     "credits": "",
-    "version": "1.7",
+    "version": "1.71",
     "eyesights": {
         "alien": {
             "0": {
@@ -215,5 +215,6 @@
                 "y": 380
             }
         }
-    }
+    },
+    "fullbody": true
 }

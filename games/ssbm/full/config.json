@@ -7,7 +7,7 @@
     "type": [
         "full"
     ],
-    "version": "1.03",
+    "version": "1.04",
     "eyesights": {
         "mario": {
             "0": {
@@ -165,5 +165,6 @@
                 "y": 280
             }
         }
-    }
+    },
+    "fullbody": true
 }

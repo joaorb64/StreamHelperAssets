@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.0",
+  "version": "1.01",
   "eyesights": {
     "BabyDaisy": {
       "0": {
@@ -159,5 +159,6 @@
         "y": 249
       }
     }
-  }
+  },
+  "fullbody": true
 }

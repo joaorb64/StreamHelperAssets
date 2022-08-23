@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from Dustloop Wiki\n@MathiasWolfbrok for cropping",
-  "version": "1.01",
+  "version": "1.02",
   "eyesights": {
     "Anre": {
       "0": {
@@ -159,5 +159,6 @@
         "y": 237
       }
     }
-  }
+  },
+  "fullbody": true
 }

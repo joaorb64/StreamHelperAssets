@@ -3,9 +3,11 @@
     "description": "Chibi versions of characters",
     "prefix": "chibi_",
     "postfix": "_",
-    "type": ["chibi"],
+    "type": [
+        "chibi"
+    ],
     "credits": "",
-    "version": "1.6",
+    "version": "1.61",
     "eyesights": {
         "Anji": {
             "0": {
@@ -133,5 +135,6 @@
                 "y": 301
             }
         }
-    }
+    },
+    "fullbody": true
 }

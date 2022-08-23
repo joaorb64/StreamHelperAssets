@@ -1,52 +1,55 @@
 {
-    "name": "Renders",
-    "description": "Character Renders",
-    "prefix": "file_",
-    "postfix": "_",
-    "type": ["full"],
-    "version": 0.3,
-    "eyesights": {
-        "ChunLi": {
-          "0": {
-            "x": 516,
-            "y": 427
-          }
-        },
-        "Jamie": {
-          "0": {
-            "x": 475,
-            "y": 275
-          }
-        },
-        "Luke": {
-          "0": {
-            "x": 307,
-            "y": 334
-          }
-        },
-        "Ryu": {
-          "0": {
-            "x": 538,
-            "y": 226
-          }
-        },
-        "Guile": {
-          "0": {
-            "x": 470,
-            "y": 117
-          }
-        },
-        "Juri": {
-          "0": {
-            "x": 436,
-            "y": 645
-          }
-        },
-        "Kimberly": {
-          "0": {
-            "x": 402,
-            "y": 716
-          }
-        }
+  "name": "Renders",
+  "description": "Character Renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": 0.4,
+  "eyesights": {
+    "ChunLi": {
+      "0": {
+        "x": 516,
+        "y": 427
       }
+    },
+    "Jamie": {
+      "0": {
+        "x": 475,
+        "y": 275
+      }
+    },
+    "Luke": {
+      "0": {
+        "x": 307,
+        "y": 334
+      }
+    },
+    "Ryu": {
+      "0": {
+        "x": 538,
+        "y": 226
+      }
+    },
+    "Guile": {
+      "0": {
+        "x": 470,
+        "y": 117
+      }
+    },
+    "Juri": {
+      "0": {
+        "x": 436,
+        "y": 645
+      }
+    },
+    "Kimberly": {
+      "0": {
+        "x": 402,
+        "y": 716
+      }
+    }
+  },
+  "fullbody": true
 }

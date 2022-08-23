@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "0.1",
+  "version": "0.2",
   "eyesights": {
     "CommanderVideo": {
       "0": {
@@ -45,5 +45,6 @@
         "y": 281
       }
     }
-  }
+  },
+  "fullbody": true
 }

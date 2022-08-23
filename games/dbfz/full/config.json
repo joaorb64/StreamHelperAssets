@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.21",
+  "version": "1.22",
   "eyesights": {
     "Android16": {
       "0": {
@@ -273,5 +273,6 @@
         "y": 171
       }
     }
-  }
+  },
+  "fullbody": true
 }

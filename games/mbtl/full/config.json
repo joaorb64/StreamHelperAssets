@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.5",
+  "version": "1.51",
   "eyesights": {
     "AkihaTohno": {
       "0": {
@@ -129,5 +129,6 @@
         "y": 383
       }
     }
-  }
+  },
+  "fullbody": true
 }

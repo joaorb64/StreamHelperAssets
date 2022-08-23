@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.4",
+  "version": "1.41",
   "eyesights": {
     "AndyBogard": {
       "0": {
@@ -303,5 +303,6 @@
         "y": 205
       }
     }
-  }
+  },
+  "fullbody": true
 }

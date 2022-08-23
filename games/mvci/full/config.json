@@ -7,7 +7,7 @@
         "full"
     ],
     "credits": "",
-    "version": "1.0",
+    "version": "1.01",
     "eyesights": {
         "Arthur": {
             "0": {
@@ -231,5 +231,6 @@
                 "y": 405
             }
         }
-    }
+    },
+    "fullbody": true
 }

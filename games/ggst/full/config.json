@@ -3,9 +3,11 @@
     "description": "Character renders",
     "prefix": "full_",
     "postfix": "_",
-    "type": ["full"],
+    "type": [
+        "full"
+    ],
     "credits": "",
-    "version": "1.6",
+    "version": "1.61",
     "eyesights": {
         "Anji": {
             "0": {
@@ -133,5 +135,6 @@
                 "y": 258
             }
         }
-    }
+    },
+    "fullbody": true
 }

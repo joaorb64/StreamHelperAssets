@@ -3,7 +3,10 @@
     "description": "Challenge Cards",
     "prefix": "card_",
     "postfix": "_",
-    "type": ["card"],
+    "type": [
+        "card"
+    ],
     "credits": "",
-    "version": "1.0"
+    "version": "1.01",
+    "fullbody": true
 }

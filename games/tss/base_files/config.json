@@ -1,0 +1,55 @@
+
+{  
+    "name": "Twinkle Star Sprites",
+    "smashgg_game_id": 40611,
+    "challonge_game_id": 1843,
+    "character_to_codename": {
+    "Arthur": {
+      "codename": "arthur"
+    },
+    "Dark Ran": {
+      "codename": "darkran"
+    },
+    "Griffon": {
+      "codename": "griffon"
+    },
+    "Kim": {
+      "codename": "kim"
+    },
+    "Memory": {
+      "codename": "memory"
+    },
+    "Mevious": {
+      "codename": "mevious"
+    },
+    "Macky & Pentell": {
+      "codename": "mp"
+    },
+    "Nanja Monja": {
+      "codename": "nanja"
+    },
+    "Load Ran": {
+      "codename": "ran"
+    },
+    "Sprites": {
+      "codename": "sprites"
+    },
+    "Really Till": {
+      "codename": "till"
+    },
+    "Tinker & Linker": {
+      "codename": "tl"
+    },
+    "Yan Yanyung": {
+      "codename": "yan"
+    }
+  },
+  "description": "Base config to use this game.",  
+  "version": "1.00",
+  "stage_to_codename": {},
+  "locale": {
+    "ja": {
+      "name": "ファイターズヒストリーダイナマイト"
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akira Otoishi": {
+      "codename": "AkiraOtoishi"
+    },
+    "Bruno Bucciarati": {
+      "codename": "BrunoBucciarati"
+    },
+    "Caesar Anthonio Zeppeli": {
+      "codename": "CaesarAnthonioZeppeli"
+    },
+    "DIO (Stardust Crusaders)": {
+      "codename": "DIOStardustCrusaders"
+    },
+    "Diavolo": {
+      "codename": "Diavolo"
+    },
+    "Diego Brando": {
+      "codename": "DiegoBrando"
+    },
+    "Dio Brando (Phantom Blood)": {
+      "codename": "DioBrandoPhantomBlood"
+    },
+    "Enrico Pucci": {
+      "codename": "EnricoPucci"
+    },
+    "Ermes Costello": {
+      "codename": "ErmesCostello"
+    },
+    "Esidisi": {
+      "codename": "Esidisi"
+    },
+    "Foo Fighters / F.F.": {
+      "codename": "FooFightersFF"
+    },
+    "Funny Valentine": {
+      "codename": "FunnyValentine"
+    },
+    "Ghiaccio": {
+      "codename": "Ghiaccio"
+    },
+    "Giorno Giovanna": {
+      "codename": "GiornoGiovanna"
+    },
+    "Guido Mista": {
+      "codename": "GuidoMista"
+    },
+    "Gyro Zeppeli": {
+      "codename": "GyroZeppeli"
+    },
+    "Hol Horse": {
+      "codename": "HolHorse"
+    },
+    "Iggy": {
+      "codename": "Iggy"
+    },
+    "Ikuro Hashizawa": {
+      "codename": "IkuroHashizawa"
+    },
+    "Jean Pierre Polnareff": {
+      "codename": "JeanPierrePolnareff"
+    },
+    "Johnny Joestar": {
+      "codename": "JohnnyJoestar"
+    },
+    "Jolyne Cujoh": {
+      "codename": "JolyneCujoh"
+    },
+    "Jonathan Joestar": {
+      "codename": "JonathanJoestar"
+    },
+    "Joseph Joestar (Battle Tendency)": {
+      "codename": "JosephJoestarBattleTendency"
+    },
+    "Joseph Joestar (Stardust Crusaders)": {
+      "codename": "JosephJoestarStardustCrusaders"
+    },
+    "Josuke Higashikata (Diamond is Unbreakable)": {
+      "codename": "JosukeHigashikataDiamondisUnbreakable"
+    },
+    "Josuke Higashikata (JoJolion)": {
+      "codename": "JosukeHigashikataJoJolion"
+    },
+    "Jotaro Kujo (Diamond is Unbreakable)": {
+      "codename": "JotaroKujoDiamondisUnbreakable"
+    },
+    "Jotaro Kujo (Stardust Crusaders)": {
+      "codename": "JotaroKujoStardustCrusaders"
+    },
+    "Kars": {
+      "codename": "Kars"
+    },
+    "Koichi Hirose": {
+      "codename": "KoichiHirose"
+    },
+    "Kosaku Kawajiri [Yoshikage Kira]": {
+      "codename": "KosakuKawajiri"
+    },
+    "Elizabeth \"Lisa Lisa\" Joestar": {
+      "codename": "LisaLisa"
+    },
+    "Mariah": {
+      "codename": "Mariah"
+    },
+    "Muhammad Avdol": {
+      "codename": "MuhammadAvdol"
+    },
+    "Narancia Ghirga": {
+      "codename": "NaranciaGhirga"
+    },
+    "Narciso Anasui / Narciso Anastasia": {
+      "codename": "NarcisoAnasuiNarcisoAnastasia"
+    },
+    "Noriaki Kakyoin": {
+      "codename": "NoriakiKakyoin"
+    },
+    "Okuyasu Nijimura": {
+      "codename": "OkuyasuNijimura"
+    },
+    "Pannacotta Fugo": {
+      "codename": "PannacottaFugo"
+    },
+    "Pet Shop": {
+      "codename": "PetShop"
+    },
+    "Prosciutto & Pesci": {
+      "codename": "ProsciuttoPesci"
+    },
+    "Robert E. O. Speedwagon": {
+      "codename": "RobertEOSpeedwagon"
+    },
+    "Rohan Kishibe": {
+      "codename": "RohanKishibe"
+    },
+    "Shigekiyo \"Shigechi\" Yangu": {
+      "codename": "ShigekiyoShigechiYangu"
+    },
+    "Trish Una": {
+      "codename": "TrishUna"
+    },
+    "Vanilla Ice / Cool Ice": {
+      "codename": "VanillaIceCoolIce"
+    },
+    "Wamuu": {
+      "codename": "Wamuu"
+    },
+    "Will Anthonio Zeppeli": {
+      "codename": "WillAZeppeli"
+    },
+    "Yoshikage Kira": {
+      "codename": "YoshikageKira"
+    },
+    "Yukako Yamagishi": {
+      "codename": "YukakoYamagishi"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+  "smashgg_game_id": 44158,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "ジョジョの奇妙な冒険 オールスターバトルR"
+    }
+  }
+}

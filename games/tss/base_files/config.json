@@ -1,9 +1,8 @@
-
-{  
-    "name": "Twinkle Star Sprites",
-    "smashgg_game_id": 40611,
-    "challonge_game_id": 1843,
-    "character_to_codename": {
+{
+  "name": "Twinkle Star Sprites",
+  "smashgg_game_id": 40611,
+  "challonge_game_id": 1843,
+  "character_to_codename": {
     "Arthur": {
       "codename": "arthur"
     },
@@ -44,12 +43,12 @@
       "codename": "yan"
     }
   },
-  "description": "Base config to use this game.",  
-  "version": "1.00",
+  "description": "Base config to use this game.",
+  "version": "1.01",
   "stage_to_codename": {},
   "locale": {
     "ja": {
-      "name": "ファイターズヒストリーダイナマイト"
+      "name": "\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba\u30d2\u30b9\u30c8\u30ea\u30fc\u30c0\u30a4\u30ca\u30de\u30a4\u30c8"
     }
   }
 }

@@ -458,10 +458,10 @@
       "smashgg_name": "Conker",
       "codename": "conker",
       "locale": {
-        "ja": "コンカー",
-        "zh_CN": "松鼠库克",
-        "zh_TW": "松鼠庫克",
-        "ko": "컨커스"
+        "ja": "\u30b3\u30f3\u30ab\u30fc",
+        "zh_CN": "\u677e\u9f20\u5e93\u514b",
+        "zh_TW": "\u677e\u9f20\u5eab\u514b",
+        "ko": "\ucee8\ucee4\uc2a4"
       }
     },
     "Lucas": {
@@ -854,6 +854,6 @@
       "codename": "norfair_sr"
     }
   },
-  "version": "1.20",
+  "version": "1.21",
   "description": "Base config to use this game."
 }

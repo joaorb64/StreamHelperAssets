@@ -1,7 +1,9 @@
 {
   "name": "Windjammers",
   "locale": {
-    "ja": {"name":"フライングパワーディスク: Windjammers"}
+    "ja": {
+      "name": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30d1\u30ef\u30fc\u30c7\u30a3\u30b9\u30af: Windjammers"
+    }
   },
   "smashgg_game_id": 33,
   "challonge_game_id": 719,
@@ -51,7 +53,7 @@
       "codename": "Tiled"
     }
   },
-  "version": "1.2",
+  "version": "1.21",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Windjammers)"
 }

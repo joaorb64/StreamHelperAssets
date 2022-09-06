@@ -65,12 +65,12 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.02",
+  "version": "1.03",
   "description": "Base config to use this game.",
   "credits": "@ArdanDoInfinito for cropping and integrating the assets",
   "locale": {
     "ja": {
-      "name": "東方非想天則 〜 超弩級ギニョルの謎を追え"
+      "name": "\u6771\u65b9\u975e\u60f3\u5929\u5247 \u301c \u8d85\u5f29\u7d1a\u30ae\u30cb\u30e7\u30eb\u306e\u8b0e\u3092\u8ffd\u3048"
     }
   }
 }

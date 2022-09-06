@@ -1,151 +1,151 @@
 {
-    "name": "Renders",
-    "description": "Character renders",
-    "prefix": "full_",
-    "postfix": "_",
-    "type": [
-        "full"
-    ],
-    "credits": "@MathiasWolfbrok for cropping",
-    "version": "1.01",
-    "eyesights": {
-        "Aegislash": {
-            "0": {
-                "x": 312,
-                "y": 307
-            }
-        },
-        "Blastoise": {
-            "0": {
-                "x": 307,
-                "y": 199
-            }
-        },
-        "Blaziken": {
-            "0": {
-                "x": 486,
-                "y": 172
-            }
-        },
-        "Braixen": {
-            "0": {
-                "x": 498,
-                "y": 352
-            }
-        },
-        "Chandelure": {
-            "0": {
-                "x": 441,
-                "y": 834
-            }
-        },
-        "Charizard": {
-            "0": {
-                "x": 168,
-                "y": 337
-            }
-        },
-        "Croagunk": {
-            "0": {
-                "x": 264,
-                "y": 235
-            }
-        },
-        "Darkrai": {
-            "0": {
-                "x": 288,
-                "y": 372
-            }
-        },
-        "Decidueye": {
-            "0": {
-                "x": 372,
-                "y": 250
-            }
-        },
-        "Empoleon": {
-            "0": {
-                "x": 591,
-                "y": 286
-            }
-        },
-        "Garchomp": {
-            "0": {
-                "x": 337,
-                "y": 214
-            }
-        },
-        "Gardevoir": {
-            "0": {
-                "x": 241,
-                "y": 145
-            }
-        },
-        "Gengar": {
-            "0": {
-                "x": 241,
-                "y": 639
-            }
-        },
-        "Lucario": {
-            "0": {
-                "x": 445,
-                "y": 277
-            }
-        },
-        "Machamp": {
-            "0": {
-                "x": 445,
-                "y": 211
-            }
-        },
-        "Mewtwo": {
-            "0": {
-                "x": 600,
-                "y": 196
-            }
-        },
-        "Pikachu": {
-            "0": {
-                "x": 253,
-                "y": 379
-            }
-        },
-        "PikachuLibre": {
-            "0": {
-                "x": 372,
-                "y": 393
-            }
-        },
-        "Sceptile": {
-            "0": {
-                "x": 246,
-                "y": 180
-            }
-        },
-        "Scizor": {
-            "0": {
-                "x": 372,
-                "y": 348
-            }
-        },
-        "ShadowMewtwo": {
-            "0": {
-                "x": 538,
-                "y": 157
-            }
-        },
-        "Suicune": {
-            "0": {
-                "x": 391,
-                "y": 249
-            }
-        },
-        "Weavile": {
-            "0": {
-                "x": 406,
-                "y": 322
-            }
-        }
+  "name": "Renders",
+  "description": "Character renders",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "@MathiasWolfbrok for cropping",
+  "version": "1.02",
+  "eyesights": {
+    "Aegislash": {
+      "0": {
+        "x": 312,
+        "y": 307
+      }
+    },
+    "Blastoise": {
+      "0": {
+        "x": 307,
+        "y": 199
+      }
+    },
+    "Blaziken": {
+      "0": {
+        "x": 486,
+        "y": 172
+      }
+    },
+    "Braixen": {
+      "0": {
+        "x": 498,
+        "y": 352
+      }
+    },
+    "Chandelure": {
+      "0": {
+        "x": 441,
+        "y": 834
+      }
+    },
+    "Charizard": {
+      "0": {
+        "x": 168,
+        "y": 337
+      }
+    },
+    "Croagunk": {
+      "0": {
+        "x": 264,
+        "y": 235
+      }
+    },
+    "Darkrai": {
+      "0": {
+        "x": 288,
+        "y": 372
+      }
+    },
+    "Decidueye": {
+      "0": {
+        "x": 372,
+        "y": 250
+      }
+    },
+    "Empoleon": {
+      "0": {
+        "x": 591,
+        "y": 286
+      }
+    },
+    "Garchomp": {
+      "0": {
+        "x": 337,
+        "y": 214
+      }
+    },
+    "Gardevoir": {
+      "0": {
+        "x": 241,
+        "y": 145
+      }
+    },
+    "Gengar": {
+      "0": {
+        "x": 241,
+        "y": 639
+      }
+    },
+    "Lucario": {
+      "0": {
+        "x": 445,
+        "y": 277
+      }
+    },
+    "Machamp": {
+      "0": {
+        "x": 445,
+        "y": 211
+      }
+    },
+    "Mewtwo": {
+      "0": {
+        "x": 600,
+        "y": 196
+      }
+    },
+    "Pikachu": {
+      "0": {
+        "x": 253,
+        "y": 379
+      }
+    },
+    "PikachuLibre": {
+      "0": {
+        "x": 372,
+        "y": 393
+      }
+    },
+    "Sceptile": {
+      "0": {
+        "x": 246,
+        "y": 180
+      }
+    },
+    "Scizor": {
+      "0": {
+        "x": 372,
+        "y": 348
+      }
+    },
+    "ShadowMewtwo": {
+      "0": {
+        "x": 538,
+        "y": 157
+      }
+    },
+    "Suicune": {
+      "0": {
+        "x": 391,
+        "y": 249
+      }
+    },
+    "Weavile": {
+      "0": {
+        "x": 406,
+        "y": 322
+      }
     }
+  }
 }

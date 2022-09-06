@@ -58,7 +58,7 @@
     "The Iron Giant": {
       "codename": "IronGiant",
       "locale": {
-        "fr": "Le Géant de Fer"
+        "fr": "Le G\u00e9ant de Fer"
       }
     },
     "The Tasmanian Devil": {
@@ -70,7 +70,7 @@
     "Velma Dinkley": {
       "codename": "Velma",
       "locale": {
-        "fr": "Véra Dinkley"
+        "fr": "V\u00e9ra Dinkley"
       }
     },
     "LeBron James": {
@@ -88,5 +88,5 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "0.3"
+  "version": "0.31"
 }

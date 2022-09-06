@@ -1,16 +1,16 @@
 {
-    "name": "full",
-    "description": "Bigger character portraits",
-    "prefix": "",
-    "postfix": "_",
-    "type": [
-        "full"
-    ],
-    "version": 1.01,
-    "uncropped_edge": [
-        "u",
-        "d",
-        "l",
-        "r"
-    ]
+  "name": "full",
+  "description": "Bigger character portraits",
+  "prefix": "",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "1.02",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

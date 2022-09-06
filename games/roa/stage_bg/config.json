@@ -1,9 +1,11 @@
 {
-    "name": "Stage Backgrounds",
-    "description": "Stage backgrounds",
-    "prefix": "stage_",
-    "postfix": "",
-    "type": ["stage_bg"],
-    "credits": "@Readeku for ripping the assets",
-    "version": "2.0"
+  "name": "Stage Backgrounds",
+  "description": "Stage backgrounds",
+  "prefix": "stage_",
+  "postfix": "",
+  "type": [
+    "stage_bg"
+  ],
+  "credits": "@Readeku for ripping the assets",
+  "version": "2.01"
 }

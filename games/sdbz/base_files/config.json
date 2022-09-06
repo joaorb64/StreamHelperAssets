@@ -58,10 +58,12 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.02",
+  "version": "1.03",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
-    "ja": {"name": "超ドラゴンボールZ"}
+    "ja": {
+      "name": "\u8d85\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebZ"
+    }
   }
 }

@@ -1,9 +1,11 @@
 {
-    "name": "Portraits",
-    "description": "Character portraits as seen on the Character Select Screen\nNote: These are direct rips from the game",
-    "prefix": "csp_",
-    "postfix": "_",
-    "type": ["portrait"],
-    "credits": "",
-    "version": "1.1"
+  "name": "Portraits",
+  "description": "Character portraits as seen on the Character Select Screen\nNote: These are direct rips from the game",
+  "prefix": "csp_",
+  "postfix": "_",
+  "type": [
+    "portrait"
+  ],
+  "credits": "",
+  "version": "1.11"
 }

@@ -3,8 +3,10 @@
     "description": "Character portraits used on the character select screen player slots",
     "prefix": "chara_1_",
     "postfix": "_",
-    "type": ["full"],
-    "version": 1.1,
+    "type": [
+        "full"
+    ],
+    "version": 1.11,
     "eyesights": {
         "mario": {
             "0": {
@@ -278,8 +280,8 @@
         },
         "toonlink": {
             "0": {
-                "x": 299,
-                "y": 197
+                "x": 240,
+                "y": 192
             }
         },
         "wolf": {

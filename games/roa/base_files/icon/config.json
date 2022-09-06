@@ -5,5 +5,10 @@
     "icon"
   ],
   "version": "2.21",
-  "fullbody": true
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

@@ -8,7 +8,12 @@
   ],
   "credits": "",
   "version": "1.0",
-  "fullbody": true,
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
   "eyesights": {
     "AkiraOtoishi": {
       "0": {

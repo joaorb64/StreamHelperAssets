@@ -8,5 +8,10 @@
   ],
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Tough_Love_Arena)\n@MathiasWolfbrok for cropping",
   "version": "1.01",
-  "fullbody": true
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

@@ -8,5 +8,10 @@
   ],
   "credits": "@MathiasWolfbrok for cropping",
   "version": "1.01",
-  "fullbody": true
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

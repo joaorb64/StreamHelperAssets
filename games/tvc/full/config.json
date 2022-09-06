@@ -172,5 +172,10 @@
       }
     }
   },
-  "fullbody": true
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

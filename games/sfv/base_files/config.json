@@ -192,7 +192,11 @@
     }
   },
   "stage_to_codename": {},
-  "version": "0.94",
+  "version": "0.95",
   "description": "Base config to use this game.",
-  "locale": {"ja": {"name": "ストリートファイターV"}}
+  "locale": {
+    "ja": {
+      "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV"
+    }
+  }
 }

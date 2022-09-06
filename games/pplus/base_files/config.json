@@ -467,11 +467,11 @@
       "codename": "29",
       "locale": {
         "fr": "Carapuce",
-        "ja": "ゼニガメ",
+        "ja": "\u30bc\u30cb\u30ac\u30e1",
         "de": "Schiggy",
-        "ko": "꼬부기",
-        "zh_CN": "杰尼龟",
-        "zh_TW": "傑尼龜"
+        "ko": "\uaf2c\ubd80\uae30",
+        "zh_CN": "\u6770\u5c3c\u9f9f",
+        "zh_TW": "\u5091\u5c3c\u9f9c"
       }
     },
     "Ivysaur": {
@@ -479,11 +479,11 @@
       "codename": "30",
       "locale": {
         "fr": "Herbizarre",
-        "ja": "フシギソウ",
+        "ja": "\u30d5\u30b7\u30ae\u30bd\u30a6",
         "de": "Bisaknosp",
-        "ko": "이상해풀",
-        "zh_CN": "妙蛙草",
-        "zh_TW": "妙蛙草"
+        "ko": "\uc774\uc0c1\ud574\ud480",
+        "zh_CN": "\u5999\u86d9\u8349",
+        "zh_TW": "\u5999\u86d9\u8349"
       }
     },
     "Charizard": {
@@ -491,11 +491,11 @@
       "codename": "28",
       "locale": {
         "fr": "Dracaufeu",
-        "ja": "リザードン",
+        "ja": "\u30ea\u30b6\u30fc\u30c9\u30f3",
         "de": "Glurak",
-        "ko": "리자몽",
-        "zh_CN": "喷火龙",
-        "zh_TW": "噴火龍"
+        "ko": "\ub9ac\uc790\ubabd",
+        "zh_CN": "\u55b7\u706b\u9f99",
+        "zh_TW": "\u5674\u706b\u9f8d"
       }
     },
     "Lucario": {
@@ -802,11 +802,11 @@
       "smashgg_name": "Knuckles",
       "codename": "42",
       "locale": {
-        "ja": "ナックルズ",
-        "zh_CN": "纳克鲁斯",
-        "zh_TW": "納克魯斯",
-        "ko": "너클즈",
-        "ru": "Наклз"
+        "ja": "\u30ca\u30c3\u30af\u30eb\u30ba",
+        "zh_CN": "\u7eb3\u514b\u9c81\u65af",
+        "zh_TW": "\u7d0d\u514b\u9b6f\u65af",
+        "ko": "\ub108\ud074\uc988",
+        "ru": "\u041d\u0430\u043a\u043b\u0437"
       }
     },
     "Random": {
@@ -819,25 +819,25 @@
     "Giga Bowser": {
       "codename": "44",
       "locale": {
-        "ja": "ギガクッパ",
-        "zh_CN": "巨兽酷霸王",
-        "zh_TW": "巨獸庫巴",
-        "ru": "Гига-Боузер"
+        "ja": "\u30ae\u30ac\u30af\u30c3\u30d1",
+        "zh_CN": "\u5de8\u517d\u9177\u9738\u738b",
+        "zh_TW": "\u5de8\u7378\u5eab\u5df4",
+        "ru": "\u0413\u0438\u0433\u0430-\u0411\u043e\u0443\u0437\u0435\u0440"
       }
     },
     "Wario-Man": {
       "codename": "180",
       "locale": {
-        "ja": "ワリオマン",
-        "zh_CN": "瓦力欧超人",
-        "zh_TW": "瓦利歐超人",
-        "ru": "Вариомен",
-        "ko": "와리오맨"
+        "ja": "\u30ef\u30ea\u30aa\u30de\u30f3",
+        "zh_CN": "\u74e6\u529b\u6b27\u8d85\u4eba",
+        "zh_TW": "\u74e6\u5229\u6b50\u8d85\u4eba",
+        "ru": "\u0412\u0430\u0440\u0438\u043e\u043c\u0435\u043d",
+        "ko": "\uc640\ub9ac\uc624\ub9e8"
       }
     }
   },
   "stage_to_codename": {},
-  "version": "1.15",
+  "version": "1.16",
   "description": "Base config to use this game.",
   "credits": ""
 }

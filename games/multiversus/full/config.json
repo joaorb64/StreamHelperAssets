@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "0.3",
+  "version": "0.31",
   "eyesights": {
     "AryaStark": {
       "0": {
@@ -123,5 +123,9 @@
         "y": 126
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "r"
+  ]
 }

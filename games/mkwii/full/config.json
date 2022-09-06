@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.01",
+  "version": "1.02",
   "eyesights": {
     "BabyDaisy": {
       "0": {
@@ -159,5 +159,9 @@
         "y": 249
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "d"
+  ]
 }

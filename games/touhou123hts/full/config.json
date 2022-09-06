@@ -1,9 +1,11 @@
 {
-    "name": "Portraits",
-    "description": "Character portraits",
-    "prefix": "",
-    "postfix": "_",
-    "type": ["full"],
-    "credits": "@ArdanDoInfinito for cropping and integrating the assets",
-    "version": "1.0"
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "@ArdanDoInfinito for cropping and integrating the assets",
+  "version": "1.01"
 }

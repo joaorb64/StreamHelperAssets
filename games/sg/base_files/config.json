@@ -6,114 +6,114 @@
     "Filia": {
       "codename": "Filia",
       "locale": {
-        "ja": "フィリア・メディチ"
+        "ja": "\u30d5\u30a3\u30ea\u30a2\u30fb\u30e1\u30c7\u30a3\u30c1"
       }
     },
     "Cerebella": {
       "codename": "Cerebella",
       "locale": {
-        "ja": "セレベラ"
+        "ja": "\u30bb\u30ec\u30d9\u30e9"
       }
     },
     "Peacock": {
       "codename": "Peacock",
       "locale": {
-        "ja": "ピーコック"
+        "ja": "\u30d4\u30fc\u30b3\u30c3\u30af"
       }
     },
     "Parasoul": {
       "codename": "Parasoul",
       "locale": {
-        "ja": "パラソール・ルノワール"
+        "ja": "\u30d1\u30e9\u30bd\u30fc\u30eb\u30fb\u30eb\u30ce\u30ef\u30fc\u30eb"
       }
     },
     "Ms. Fortune": {
       "codename": "MsFortune",
       "locale": {
-        "ja": "ミス・フォーチュン"
+        "ja": "\u30df\u30b9\u30fb\u30d5\u30a9\u30fc\u30c1\u30e5\u30f3"
       }
     },
     "Painwheel": {
       "codename": "Painwheel",
       "locale": {
-        "ja": "ペインホイール"
+        "ja": "\u30da\u30a4\u30f3\u30db\u30a4\u30fc\u30eb"
       }
     },
     "Valentine": {
       "codename": "Valentine",
       "locale": {
-        "ja": "ヴァレンタイン"
+        "ja": "\u30f4\u30a1\u30ec\u30f3\u30bf\u30a4\u30f3"
       }
     },
     "Double": {
       "codename": "Double",
       "locale": {
-        "ja": "ダブル"
+        "ja": "\u30c0\u30d6\u30eb"
       }
     },
     "Squigly": {
       "codename": "Squigly",
       "locale": {
-        "ja": "スクィグリー"
+        "ja": "\u30b9\u30af\u30a3\u30b0\u30ea\u30fc"
       }
     },
     "Big Band": {
       "codename": "BigBand",
       "locale": {
-        "ja": "ビッグバンド"
+        "ja": "\u30d3\u30c3\u30b0\u30d0\u30f3\u30c9"
       }
     },
     "Eliza": {
       "codename": "Eliza",
       "locale": {
-        "ja": "イライザ"
+        "ja": "\u30a4\u30e9\u30a4\u30b6"
       }
     },
     "Fukua": {
       "codename": "Fukua",
       "locale": {
-        "ja": "フクア"
+        "ja": "\u30d5\u30af\u30a2"
       }
     },
     "Beowulf": {
       "codename": "Beowulf",
       "locale": {
-        "ja": "ベオウルフ"
+        "ja": "\u30d9\u30aa\u30a6\u30eb\u30d5"
       }
     },
     "Robo-Fortune": {
       "codename": "RoboFortune",
       "locale": {
-        "ja": "ロボ・フォーチュン"
+        "ja": "\u30ed\u30dc\u30fb\u30d5\u30a9\u30fc\u30c1\u30e5\u30f3"
       }
     },
     "Annie": {
       "codename": "Annie",
       "locale": {
-        "ja": "星のアニー"
+        "ja": "\u661f\u306e\u30a2\u30cb\u30fc"
       }
     },
     "Umbrella": {
       "codename": "Umbrella",
       "locale": {
-        "ja": "アンブレラ・ルノワール"
+        "ja": "\u30a2\u30f3\u30d6\u30ec\u30e9\u30fb\u30eb\u30ce\u30ef\u30fc\u30eb"
       }
     },
     "Black Dahlia": {
       "codename": "BlackDahlia",
       "locale": {
-        "ja": "ブラック・ダリア"
+        "ja": "\u30d6\u30e9\u30c3\u30af\u30fb\u30c0\u30ea\u30a2"
       }
     },
     "Bloody Marie": {
       "codename": "Marie",
       "locale": {
-        "ja": "ブラッディー・マリー"
+        "ja": "\u30d6\u30e9\u30c3\u30c7\u30a3\u30fc\u30fb\u30de\u30ea\u30fc"
       }
     }
   },
   "stage_to_codename": {},
-  "version": "1.2",
+  "version": "1.21",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Skullgirls)",
   "ratio_game": true

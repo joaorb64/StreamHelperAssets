@@ -1,168 +1,168 @@
 {
-    "name": "Portraits (Upscaled)",
-    "description": "Character portraits used on the character select screen player slots, Upscaled using realesrgan-x4plus-anime.",
-    "prefix": "",
-    "postfix": "_",
-    "type": [
-        "portrait"
-    ],
-    "version": "1.0",
-    "eyesights": {
-        "mario": {
-            "0": {
-                "x": 372,
-                "y": 168
-            }
-        },
-        "donkey_kong": {
-            "0": {
-                "x": 496,
-                "y": 312
-            }
-        },
-        "link": {
-            "0": {
-                "x": 448,
-                "y": 168
-            }
-        },
-        "samus": {
-            "0": {
-                "x": 408,
-                "y": 188
-            }
-        },
-        "yoshi": {
-            "0": {
-                "x": 264,
-                "y": 136
-            }
-        },
-        "kirby": {
-            "0": {
-                "x": 388,
-                "y": 280
-            }
-        },
-        "fox": {
-            "0": {
-                "x": 344,
-                "y": 204
-            }
-        },
-        "pikachu": {
-            "0": {
-                "x": 396,
-                "y": 224
-            }
-        },
-        "luigi": {
-            "0": {
-                "x": 420,
-                "y": 212
-            }
-        },
-        "ness": {
-            "0": {
-                "x": 380,
-                "y": 240
-            }
-        },
-        "captain_falcon": {
-            "0": {
-                "x": 420,
-                "y": 116
-            }
-        },
-        "jigglypuff": {
-            "0": {
-                "x": 440,
-                "y": 380
-            }
-        },
-        "peach": {
-            "0": {
-                "x": 280,
-                "y": 260
-            }
-        },
-        "bowser": {
-            "0": {
-                "x": 176,
-                "y": 376
-            }
-        },
-        "ice_climbers": {
-            "0": {
-                "x": 416,
-                "y": 236
-            }
-        },
-        "sheik": {
-            "0": {
-                "x": 400,
-                "y": 160
-            }
-        },
-        "zelda": {
-            "0": {
-                "x": 376,
-                "y": 164
-            }
-        },
-        "dr_mario": {
-            "0": {
-                "x": 412,
-                "y": 216
-            }
-        },
-        "pichu": {
-            "0": {
-                "x": 444,
-                "y": 272
-            }
-        },
-        "falco": {
-            "0": {
-                "x": 404,
-                "y": 188
-            }
-        },
-        "marth": {
-            "0": {
-                "x": 396,
-                "y": 184
-            }
-        },
-        "young_link": {
-            "0": {
-                "x": 340,
-                "y": 196
-            }
-        },
-        "ganondorf": {
-            "0": {
-                "x": 108,
-                "y": 172
-            }
-        },
-        "mewtwo": {
-            "0": {
-                "x": 324,
-                "y": 284
-            }
-        },
-        "roy": {
-            "0": {
-                "x": 392,
-                "y": 200
-            }
-        },
-        "game_&_watch": {
-            "0": {
-                "x": 308,
-                "y": 140
-            }
-        }
+  "name": "Portraits (Upscaled)",
+  "description": "Character portraits used on the character select screen player slots, Upscaled using realesrgan-x4plus-anime.",
+  "prefix": "",
+  "postfix": "_",
+  "type": [
+    "portrait"
+  ],
+  "version": "1.01",
+  "eyesights": {
+    "mario": {
+      "0": {
+        "x": 372,
+        "y": 168
+      }
+    },
+    "donkey_kong": {
+      "0": {
+        "x": 496,
+        "y": 312
+      }
+    },
+    "link": {
+      "0": {
+        "x": 448,
+        "y": 168
+      }
+    },
+    "samus": {
+      "0": {
+        "x": 408,
+        "y": 188
+      }
+    },
+    "yoshi": {
+      "0": {
+        "x": 264,
+        "y": 136
+      }
+    },
+    "kirby": {
+      "0": {
+        "x": 388,
+        "y": 280
+      }
+    },
+    "fox": {
+      "0": {
+        "x": 344,
+        "y": 204
+      }
+    },
+    "pikachu": {
+      "0": {
+        "x": 396,
+        "y": 224
+      }
+    },
+    "luigi": {
+      "0": {
+        "x": 420,
+        "y": 212
+      }
+    },
+    "ness": {
+      "0": {
+        "x": 380,
+        "y": 240
+      }
+    },
+    "captain_falcon": {
+      "0": {
+        "x": 420,
+        "y": 116
+      }
+    },
+    "jigglypuff": {
+      "0": {
+        "x": 440,
+        "y": 380
+      }
+    },
+    "peach": {
+      "0": {
+        "x": 280,
+        "y": 260
+      }
+    },
+    "bowser": {
+      "0": {
+        "x": 176,
+        "y": 376
+      }
+    },
+    "ice_climbers": {
+      "0": {
+        "x": 416,
+        "y": 236
+      }
+    },
+    "sheik": {
+      "0": {
+        "x": 400,
+        "y": 160
+      }
+    },
+    "zelda": {
+      "0": {
+        "x": 376,
+        "y": 164
+      }
+    },
+    "dr_mario": {
+      "0": {
+        "x": 412,
+        "y": 216
+      }
+    },
+    "pichu": {
+      "0": {
+        "x": 444,
+        "y": 272
+      }
+    },
+    "falco": {
+      "0": {
+        "x": 404,
+        "y": 188
+      }
+    },
+    "marth": {
+      "0": {
+        "x": 396,
+        "y": 184
+      }
+    },
+    "young_link": {
+      "0": {
+        "x": 340,
+        "y": 196
+      }
+    },
+    "ganondorf": {
+      "0": {
+        "x": 108,
+        "y": 172
+      }
+    },
+    "mewtwo": {
+      "0": {
+        "x": 324,
+        "y": 284
+      }
+    },
+    "roy": {
+      "0": {
+        "x": 392,
+        "y": 200
+      }
+    },
+    "game_&_watch": {
+      "0": {
+        "x": 308,
+        "y": 140
+      }
     }
+  }
 }

@@ -9959,23 +9959,23 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.17",
+  "version": "1.18",
   "description": "Base config to use this game.",
   "credits": "Arclart for the Pok\u00e9mon Legends: Arceus icons",
   "challonge_game_id": 159142,
   "locale": {
     "fr": {
       "description": "Configuration initiale pour pouvoir charger ce jeu",
-      "credits": "Arclart pour les icones des Pokémon de Légendes Pokémon : Arceus"
+      "credits": "Arclart pour les icones des Pok\u00e9mon de L\u00e9gendes Pok\u00e9mon : Arceus"
     },
     "ja": {
-      "name": "ポケットモンスター"
+      "name": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc"
     },
     "zh_CN": {
-      "name": "宝可梦"
+      "name": "\u5b9d\u53ef\u68a6"
     },
     "zh_TW": {
-      "name": "寶可夢"
+      "name": "\u5bf6\u53ef\u5922"
     }
   }
 }

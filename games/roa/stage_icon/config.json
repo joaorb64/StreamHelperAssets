@@ -1,9 +1,11 @@
 {
-    "name": "Stages",
-    "description": "Stage icons",
-    "prefix": "stage_",
-    "postfix": "",
-    "type": ["stage_icon"],
-    "credits": "@Readeku for ripping the assets",
-    "version": "2.0"
+  "name": "Stages",
+  "description": "Stage icons",
+  "prefix": "stage_",
+  "postfix": "",
+  "type": [
+    "stage_icon"
+  ],
+  "credits": "@Readeku for ripping the assets",
+  "version": "2.01"
 }

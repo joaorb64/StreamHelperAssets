@@ -1,10 +1,10 @@
 {
-    "name": "Stage Icons",
-    "version": 1.2,
-    "description": "Stage icons using the 3d dioramas from the Stage Select Screen",
-    "prefix": "",
-    "postfix": "",
-    "type": [
-        "stage_icon"
-    ]
+  "name": "Stage Icons",
+  "version": "1.21",
+  "description": "Stage icons using the 3d dioramas from the Stage Select Screen",
+  "prefix": "",
+  "postfix": "",
+  "type": [
+    "stage_icon"
+  ]
 }

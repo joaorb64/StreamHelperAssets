@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.02",
+  "version": "1.03",
   "eyesights": {
     "Akuma": {
       "0": {
@@ -345,5 +345,10 @@
         "y": 109
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r"
+  ]
 }

@@ -3,9 +3,11 @@
   "description": "Character Idle Sprites",
   "prefix": "full_",
   "postfix": "_",
-  "type": ["full"],
+  "type": [
+    "full"
+  ],
   "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.01",
+  "version": "1.02",
   "eyesights": {
     "SailorChibiMoon": {
       "0": {

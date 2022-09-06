@@ -33,9 +33,11 @@
   "description": "Base config to use this game.",
   "name": "Bishoujo Senshi Sailor Moon S: Jougai Rantou!? Shuyaku Soudatsusen",
   "locale": {
-    "ja": {"name":"美少女戦士セーラームーンS: 場外乱闘！？主役争奪戦"}
+    "ja": {
+      "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3S: \u5834\u5916\u4e71\u95d8\uff01\uff1f\u4e3b\u5f79\u4e89\u596a\u6226"
+    }
   },
   "smashgg_game_id": 16904,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01"
 }

@@ -80,8 +80,12 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "1.02",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
-  "locale": {"ja": {"name": "グランブルーファンタジー ヴァーサス"}}
+  "locale": {
+    "ja": {
+      "name": "\u30b0\u30e9\u30f3\u30d6\u30eb\u30fc\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc \u30f4\u30a1\u30fc\u30b5\u30b9"
+    }
+  }
 }

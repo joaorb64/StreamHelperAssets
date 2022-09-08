@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Upscaled using realesrgan-x4plus-anime",
-  "version": "0.31",
+  "version": "0.4",
   "eyesights": {
     "AryaStark": {
       "0": {
@@ -121,6 +121,12 @@
       "0": {
         "x": 1172,
         "y": 504
+      }
+    },
+    "Gizmo": {
+      "0": {
+        "x": 640,
+        "y": 756
       }
     }
   },

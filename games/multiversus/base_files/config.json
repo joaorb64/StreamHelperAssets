@@ -81,6 +81,15 @@
     },
     "Morty Smith": {
       "codename": "Morty"
+    },
+    "Black Adam": {
+      "codename": "BlackAdam"
+    },
+    "Stripe": {
+      "codename": "Stripe"
+    },
+    "Gizmo": {
+      "codename": "Gizmo"
     }
   },
   "credits": "",
@@ -88,5 +97,5 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "0.31"
+  "version": "0.4"
 }

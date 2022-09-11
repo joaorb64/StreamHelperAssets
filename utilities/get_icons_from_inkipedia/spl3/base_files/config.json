@@ -1,0 +1,210 @@
+{
+  "name": "Splatoon 3",
+  "smashgg_game_id": 36202,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    ".52 Gal": {
+      "codename": "52Gal"
+    },
+    ".96 Gal": {
+      "codename": "96Gal"
+    },
+    "Aerospray MG": {
+      "codename": "AerosprayMG"
+    },
+    "Ballpoint Splatling": {
+      "codename": "BallpointSplatling"
+    },
+    "Bamboozler 14 Mk I": {
+      "codename": "Bamboozler14MkI"
+    },
+    "Blaster": {
+      "codename": "Blaster"
+    },
+    "Bloblobber": {
+      "codename": "Bloblobber"
+    },
+    "Carbon Roller": {
+      "codename": "CarbonRoller"
+    },
+    "Clash Blaster": {
+      "codename": "ClashBlaster"
+    },
+    "Classic Squiffer": {
+      "codename": "ClassicSquiffer"
+    },
+    "Dapple Dualies": {
+      "codename": "DappleDualies"
+    },
+    "Dark Tetra Dualies": {
+      "codename": "DarkTetraDualies"
+    },
+    "Dualie Squelchers": {
+      "codename": "DualieSquelchers"
+    },
+    "Dynamo Roller": {
+      "codename": "DynamoRoller"
+    },
+    "E-liter 4K": {
+      "codename": "Eliter4K"
+    },
+    "E-liter 4K Scope": {
+      "codename": "Eliter4KScope"
+    },
+    "Explosher": {
+      "codename": "Explosher"
+    },
+    "Flingza Roller": {
+      "codename": "FlingzaRoller"
+    },
+    "Glooga Dualies": {
+      "codename": "GloogaDualies"
+    },
+    "Goo Tuber": {
+      "codename": "GooTuber"
+    },
+    "H-3 Nozzlenose": {
+      "codename": "H3Nozzlenose"
+    },
+    "Heavy Splatling": {
+      "codename": "HeavySplatling"
+    },
+    "Hydra Splatling": {
+      "codename": "HydraSplatling"
+    },
+    "Inkbrush": {
+      "codename": "Inkbrush"
+    },
+    "Jet Squelcher": {
+      "codename": "JetSquelcher"
+    },
+    "L-3 Nozzlenose": {
+      "codename": "L3Nozzlenose"
+    },
+    "Luna Blaster": {
+      "codename": "LunaBlaster"
+    },
+    "Mini Splatling": {
+      "codename": "MiniSplatling"
+    },
+    "N-ZAP '85": {
+      "codename": "NZAP'85"
+    },
+    "Nautilus 47": {
+      "codename": "Nautilus47"
+    },
+    "Octobrush": {
+      "codename": "Octobrush"
+    },
+    "REEF-LUX 450": {
+      "codename": "REEFLUX450"
+    },
+    "Range Blaster": {
+      "codename": "RangeBlaster"
+    },
+    "Rapid Blaster": {
+      "codename": "RapidBlaster"
+    },
+    "Rapid Blaster Pro": {
+      "codename": "RapidBlasterPro"
+    },
+    "Slosher": {
+      "codename": "Slosher"
+    },
+    "Sloshing Machine": {
+      "codename": "SloshingMachine"
+    },
+    "Splash-o-matic": {
+      "codename": "Splashomatic"
+    },
+    "Splat Brella": {
+      "codename": "SplatBrella"
+    },
+    "Splat Charger": {
+      "codename": "SplatCharger"
+    },
+    "Splat Dualies": {
+      "codename": "SplatDualies"
+    },
+    "Splat Roller": {
+      "codename": "SplatRoller"
+    },
+    "Splatana Stamper": {
+      "codename": "SplatanaStamper"
+    },
+    "Splatana Wiper": {
+      "codename": "SplatanaWiper"
+    },
+    "Splatterscope": {
+      "codename": "Splatterscope"
+    },
+    "Splattershot": {
+      "codename": "Splattershot"
+    },
+    "Splattershot Jr.": {
+      "codename": "SplattershotJr"
+    },
+    "Splattershot Pro": {
+      "codename": "SplattershotPro"
+    },
+    "Sploosh-o-matic": {
+      "codename": "Splooshomatic"
+    },
+    "Squeezer": {
+      "codename": "Squeezer"
+    },
+    "Tenta Brella": {
+      "codename": "TentaBrella"
+    },
+    "Tri-Slosher": {
+      "codename": "TriSlosher"
+    },
+    "Tri-Stringer": {
+      "codename": "TriStringer"
+    },
+    "Undercover Brella": {
+      "codename": "UndercoverBrella"
+    }
+  },
+  "stage_to_codename": {
+    "Scorch Gorge": {
+      "codename": "scorch"
+    },
+    "Eeltail Alley": {
+      "codename": "eeltail"
+    },
+    "Hagglefish Market": {
+      "codename": "hagglefish"
+    },
+    "Undertow Spillway": {
+      "codename": "undertow"
+    },
+    "Mincemeat Metalworks": {
+      "codename": "metalworks"
+    },
+    "Hammerhead Bridge": {
+      "codename": "hammerhead"
+    },
+    "Museum d'Alfonsino": {
+      "codename": "alfonsino"
+    },
+    "Mahi-Mahi Resort": {
+      "codename": "mahi"
+    },
+    "Inkblot Art Academy": {
+      "codename": "inkblot"
+    },
+    "Sturgeon Shipyard": {
+      "codename": "sturgeon"
+    },
+    "MakoMart": {
+      "codename": "mako"
+    },
+    "Wahoo World": {
+      "codename": "wahoo"
+    }
+  },
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)"
+}

@@ -1,12 +1,8 @@
-from email.mime import image
 import requests
 from bs4 import BeautifulSoup as BS
 import json
 from pathlib import Path
 import sys
-from copy import deepcopy
-import urllib.parse
-import os
 
 sys.setrecursionlimit(100)
 
@@ -15,6 +11,8 @@ base_files_path = f"{root_path}/base_files"
 full_path = f"{root_path}/full"
 icon_path = f"{base_files_path}/icon"
 stage_path = f"{root_path}/stage_icon"
+sub_path = f"{root_path}/sub"
+special_path = f"{root_path}/special"
 
 
 def create_folder_structure():
@@ -22,6 +20,8 @@ def create_folder_structure():
     # Path(full_path).mkdir(parents=True, exist_ok=True)
     Path(icon_path).mkdir(parents=True, exist_ok=True)
     Path(stage_path).mkdir(parents=True, exist_ok=True)
+    Path(sub_path).mkdir(parents=True, exist_ok=True)
+    Path(special_path).mkdir(parents=True, exist_ok=True)
 
 
 def robust_request(link, timeout=30):
@@ -70,6 +70,7 @@ def generate_main_config_skeleton():
 
     return config_dict
 
+
 def convert_weapon_thumb_link_to_image_link(weapon_link):
     weapon_link = f'https:{weapon_link}'
     weapon_link = weapon_link.replace(weapon_link.split('/')[-1], "")
@@ -108,6 +109,36 @@ def write_configs(config_dict):
     with open(f"{stage_path}/config.json", "wt", encoding="utf-8") as f:
         f.write(json.dumps(stage_config, indent=2))
 
+    sub_config = {
+        "name": "Sub Icons",
+        "version": "1.0",
+        "description": "Sub weapon icons",
+        "prefix": "sub_",
+        "postfix": "",
+        "type": [
+            "sub"
+        ],
+        "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)"
+    }
+
+    with open(f"{sub_path}/config.json", "wt", encoding="utf-8") as f:
+        f.write(json.dumps(sub_config, indent=2))
+
+    special_config = {
+        "name": "Special Icons",
+        "version": "1.0",
+        "description": "Special icons",
+        "prefix": "spe_",
+        "postfix": "",
+        "type": [
+            "special"
+        ],
+        "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)"
+    }
+
+    with open(f"{special_path}/config.json", "wt", encoding="utf-8") as f:
+        f.write(json.dumps(special_config, indent=2))
+
 
 create_folder_structure()
 
@@ -137,14 +168,20 @@ for image_tag in weapon_body_images:
         weapon_name = image_tag["alt"]
         weapon_name = weapon_name.replace("S3 Weapon Main ", "")
         weapon_name = weapon_name.replace(" Flat.png", "")
-        weapon_list[weapon_name] = {"main_image": convert_weapon_thumb_link_to_image_link(image_tag["src"])}
+        weapon_list[weapon_name] = {
+            "main_image": convert_weapon_thumb_link_to_image_link(image_tag["src"])}
 
 print(json.dumps(weapon_list, indent=2))
 print(len(weapon_list))
 
 main_config = generate_main_config_skeleton()
 
+weapon_body_lines = weapon_body_tag.findAll('tr')
+
+# print(weapon_body_lines)
+
 for weapon_name in weapon_list.keys():
+    sub_image_link, special_image_link = None, None
     icon_url = weapon_list[weapon_name]["main_image"]
     weapon_codename = weapon_name.replace(".", "")
     weapon_codename = weapon_codename.replace(" ", "")
@@ -153,7 +190,29 @@ for weapon_name in weapon_list.keys():
     with open(f"{icon_path}/{icon_filename}", "wb") as f:
         icon_file = robust_request(icon_url)
         f.write(icon_file.content)
-    main_config["character_to_codename"][weapon_name] = {"codename": weapon_codename}
+    main_config["character_to_codename"][weapon_name] = {
+        "codename": weapon_codename}
+
+    for line in weapon_body_lines:
+        if f'title="{weapon_name}"' in str(line):
+            images = line.findAll('img')
+            for image_tag in images:
+                if "Weapon Sub" in image_tag["alt"]:
+                    sub_image_link = convert_weapon_thumb_link_to_image_link(
+                        image_tag["src"])
+                if "Weapon Special" in image_tag["alt"]:
+                    special_image_link = convert_weapon_thumb_link_to_image_link(
+                        image_tag["src"])
+            break
+
+    sub_filename = f"sub_{weapon_codename}_0.png"
+    special_filename = f"spe_{weapon_codename}_0.png"
+    with open(f"{sub_path}/{sub_filename}", "wb") as f:
+        icon_file = robust_request(sub_image_link)
+        f.write(icon_file.content)
+    with open(f"{special_path}/{special_filename}", "wb") as f:
+        icon_file = robust_request(special_image_link)
+        f.write(icon_file.content)
 
 
 write_configs(main_config)

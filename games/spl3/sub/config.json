@@ -1,0 +1,11 @@
+{
+  "name": "Sub Icons",
+  "version": "1.0",
+  "description": "Sub weapon icons",
+  "prefix": "sub_",
+  "postfix": "",
+  "type": [
+    "sub"
+  ],
+  "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)"
+}

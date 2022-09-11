@@ -70,6 +70,13 @@ def generate_main_config_skeleton():
 
     return config_dict
 
+def convert_weapon_thumb_link_to_image_link(weapon_link):
+    weapon_link = f'https:{weapon_link}'
+    weapon_link = weapon_link.replace(weapon_link.split('/')[-1], "")
+    weapon_link = weapon_link.replace("/thumb", "")
+    weapon_link = weapon_link.strip("/")
+    return(weapon_link)
+
 
 def write_configs(config_dict):
     with open(f"{base_files_path}/config.json", "wt", encoding="utf-8") as f:
@@ -130,11 +137,7 @@ for image_tag in weapon_body_images:
         weapon_name = image_tag["alt"]
         weapon_name = weapon_name.replace("S3 Weapon Main ", "")
         weapon_name = weapon_name.replace(" Flat.png", "")
-        weapon_link = f'https:{image_tag["src"]}'
-        weapon_link = weapon_link.replace(weapon_link.split('/')[-1], "")
-        weapon_link = weapon_link.replace("/thumb", "")
-        weapon_link = weapon_link.strip("/")
-        weapon_list[weapon_name] = weapon_link
+        weapon_list[weapon_name] = {"main_image": convert_weapon_thumb_link_to_image_link(image_tag["src"])}
 
 print(json.dumps(weapon_list, indent=2))
 print(len(weapon_list))
@@ -142,7 +145,7 @@ print(len(weapon_list))
 main_config = generate_main_config_skeleton()
 
 for weapon_name in weapon_list.keys():
-    icon_url = weapon_list[weapon_name]
+    icon_url = weapon_list[weapon_name]["main_image"]
     weapon_codename = weapon_name.replace(".", "")
     weapon_codename = weapon_codename.replace(" ", "")
     weapon_codename = weapon_codename.replace("-", "")

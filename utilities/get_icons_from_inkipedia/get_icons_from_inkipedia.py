@@ -16,7 +16,7 @@ sub_path = f"{root_path}/sub"
 special_path = f"{root_path}/special"
 
 lang_list = ["ja", "ko", "zh-cmn-Hant", "zh-cmn-Hans", "ru",
-             "fr", "nl", "de", "it", "es", "fr-ca", "es-es", "es-mx"]
+             "fr", "nl", "de", "it", "es", "fr-ca", "es-es", "es-mx", "fr-fr"]
 
 
 def create_folder_structure():
@@ -261,7 +261,7 @@ for weapon_name in weapon_list.keys():
         if lang == "zh-cmn-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
-            current_lang = "fr_FR"
+            current_lang = "fr"
         if lang == "fr-ca":
             current_lang = "fr_CA"
         if lang == "es-es":
@@ -283,6 +283,11 @@ for weapon_name in weapon_list.keys():
     if (main_config["character_to_codename"][weapon_name]["locale"].get("zh_CN")) and not (main_config["character_to_codename"][weapon_name]["locale"].get("zh_TW")):
         main_config["character_to_codename"][weapon_name]["locale"]["zh_TW"] = chinese_converter.to_traditional(main_config["character_to_codename"][weapon_name]["locale"].get("zh_CN"))
 
+    if (main_config["character_to_codename"][weapon_name]["locale"].get("fr_CA")) and not (main_config["character_to_codename"][weapon_name]["locale"].get("fr")):
+        main_config["character_to_codename"][weapon_name]["locale"]["fr"] = main_config["character_to_codename"][weapon_name]["locale"].get("fr_CA")
+    
+    if (main_config["character_to_codename"][weapon_name]["locale"].get("es_LA")) and not (main_config["character_to_codename"][weapon_name]["locale"].get("es")):
+        main_config["character_to_codename"][weapon_name]["locale"]["es"] = main_config["character_to_codename"][weapon_name]["locale"].get("es_LA")
 
     for line in weapon_body_lines:
         if f'title="{weapon_name}"' in str(line):
@@ -320,7 +325,7 @@ for stage_name in main_config["stage_to_codename"]:
         if lang == "zh-cmn-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
-            current_lang = "fr_FR"
+            current_lang = "fr"
         if lang == "fr-ca":
             current_lang = "fr_CA"
         if lang == "es-es":
@@ -342,4 +347,10 @@ for stage_name in main_config["stage_to_codename"]:
     if (main_config["stage_to_codename"][stage_name]["locale"].get("zh_CN")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("zh_TW")):
         main_config["stage_to_codename"][stage_name]["locale"]["zh_TW"] = chinese_converter.to_traditional(main_config["stage_to_codename"][stage_name]["locale"].get("zh_CN"))
 
+    if (main_config["stage_to_codename"][stage_name]["locale"].get("fr_CA")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("fr")):
+        main_config["stage_to_codename"][stage_name]["locale"]["fr"] = main_config["stage_to_codename"][stage_name]["locale"].get("fr_CA")
+    
+    if (main_config["stage_to_codename"][stage_name]["locale"].get("es_LA")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("es")):
+        main_config["stage_to_codename"][stage_name]["locale"]["es"] = main_config["stage_to_codename"][stage_name]["locale"].get("es_LA")
+    
 write_configs(main_config)

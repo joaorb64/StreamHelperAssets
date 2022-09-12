@@ -46,7 +46,8 @@
         "it": "Aerografo",
         "fr_CA": "Pouche-pouche",
         "es": "Aer\u00f3grafo pro",
-        "es_LA": "Aer\u00f3grafo GP"
+        "es_LA": "Aer\u00f3grafo GP",
+        "fr": "A\u00e9rogun"
       }
     },
     "Ballpoint Splatling": {
@@ -88,7 +89,8 @@
         "it": "Blaster",
         "fr_CA": "\u00c9clablasteur",
         "es": "Devastador",
-        "es_LA": "Lanzamotas"
+        "es_LA": "Lanzamotas",
+        "fr": "\u00c9clablaster"
       }
     },
     "Bloblobber": {
@@ -125,7 +127,8 @@
         "it": "Blaster da mischia",
         "fr_CA": "Rafalblasteur",
         "es": "Turbodevastador",
-        "es_LA": "Hiperlanzamotas"
+        "es_LA": "Hiperlanzamotas",
+        "fr": "Rafablaster"
       }
     },
     "Classic Squiffer": {
@@ -141,6 +144,7 @@
         "fr_CA": "Lignizateur alpha",
         "es": "Kalarrapid \u03b1",
         "es_LA": "Delineador X",
+        "fr": "D\u00e9cap'express Alpha",
         "zh_CN": "\u9c7f\u5feb\u6d01\u03b1"
       }
     },
@@ -211,7 +215,8 @@
         "de": "E-liter 4K",
         "it": "Tinter a carica 4K",
         "es": "Entintador 4K",
-        "fr_CA": "X-traceur +"
+        "fr_CA": "X-traceur +",
+        "fr": "Extraceur +"
       }
     },
     "E-liter 4K Scope": {
@@ -226,7 +231,8 @@
         "de": "Ziel-E-liter 4K",
         "it": "Tinter con mirino 4K",
         "es": "Telentintador 4K",
-        "fr_CA": "X-traceur + zoom"
+        "fr_CA": "X-traceur + zoom",
+        "fr": "Extraceur + zoom"
       }
     },
     "Explosher": {
@@ -266,7 +272,8 @@
         "de": "Kelvin 525",
         "it": "Kelvin duplo 525",
         "fr_CA": "Double Kelvin 525",
-        "es": "Fundidora 525 dual"
+        "es": "Fundidora 525 dual",
+        "fr": "Double Kelvin 525"
       }
     },
     "Goo Tuber": {
@@ -352,7 +359,8 @@
         "it": "Sweeper",
         "fr_CA": "M\u00e9ganettoyeur",
         "es": "Megabarredora",
-        "es_LA": "Megasoplador"
+        "es_LA": "Megasoplador",
+        "fr": "Nettoyeur XL"
       }
     },
     "L-3 Nozzlenose": {
@@ -381,7 +389,8 @@
         "it": "Blaster lunar",
         "fr_CA": "Proxiblasteur",
         "es": "Ultradevastador",
-        "es_LA": "Lanzamotas Nova"
+        "es_LA": "Lanzamotas Nova",
+        "fr": "Proxiblaster"
       }
     },
     "Mini Splatling": {
@@ -394,7 +403,8 @@
         "it": "Mini splatling",
         "fr_CA": "Badigeonneur XP",
         "es": "Tintralladora ligera",
-        "es_LA": "Garabateador"
+        "es_LA": "Garabateador",
+        "fr": "Badigeonneur XS"
       }
     },
     "N-ZAP '85": {
@@ -459,7 +469,8 @@
         "it": "Blaster a distanza",
         "fr_CA": "\u00c9clablasteur LP",
         "es": "Teledevastador",
-        "es_LA": "Telelanzamotas"
+        "es_LA": "Telelanzamotas",
+        "fr": "\u00c9clablaster XL"
       }
     },
     "Rapid Blaster": {
@@ -472,7 +483,8 @@
         "it": "Blaster rapido",
         "fr_CA": "Turboblasteur",
         "es": "Devastador expr\u00e9s",
-        "es_LA": "Turbolanzamotas"
+        "es_LA": "Turbolanzamotas",
+        "fr": "Turboblaster"
       }
     },
     "Rapid Blaster Pro": {
@@ -485,7 +497,8 @@
         "it": "Blaster \u00e9lite",
         "fr_CA": "Turboblasteur pro",
         "es": "Superdevastador",
-        "es_LA": "Turbolanzamotas Pro"
+        "es_LA": "Turbolanzamotas Pro",
+        "fr": "Turboblaster pro"
       }
     },
     "Slosher": {
@@ -605,7 +618,8 @@
         "nl": "Wisserbladzwieper",
         "de": "Wischer-Splatana",
         "it": "Tergilama",
-        "es": "Azotintador brisa"
+        "es": "Azotintador brisa",
+        "fr": "\u00c9clatana Doto"
       }
     },
     "Splatterscope": {
@@ -637,7 +651,8 @@
         "it": "Splasher",
         "fr_CA": "Liqu\u00e9ficateur",
         "es": "Lanzatintas",
-        "es_LA": "Rociador"
+        "es_LA": "Rociador",
+        "fr": "Liquidateur"
       }
     },
     "Splattershot Jr.": {
@@ -653,7 +668,8 @@
         "it": "Sparacolore recluta",
         "fr_CA": "Liqu\u00e9ficateur ultra",
         "es": "Lanzatintas novato",
-        "es_LA": "Rociador b\u00e1sico"
+        "es_LA": "Rociador b\u00e1sico",
+        "fr": "Liquidateur Jr."
       }
     },
     "Splattershot Pro": {
@@ -669,7 +685,8 @@
         "it": "Splasher \u00e9lite",
         "fr_CA": "Liqu\u00e9ficateur pro",
         "es": "Lanzatintas plus",
-        "es_LA": "Rociador Pro"
+        "es_LA": "Rociador Pro",
+        "fr": "Liquidateur pro"
       }
     },
     "Sploosh-o-matic": {
@@ -710,7 +727,8 @@
         "it": "Sparatenda",
         "fr_CA": "M\u00e9ga para-encre",
         "es": "Paratintas maxi",
-        "es_LA": "Paratintas forestal"
+        "es_LA": "Paratintas forestal",
+        "fr": "Para-encre XL"
       }
     },
     "Tri-Slosher": {
@@ -725,7 +743,8 @@
         "de": "3R-Schwapper",
         "it": "Secchiostro triplo",
         "es": "Derramatic triple",
-        "fr_CA": "Seauceur trio"
+        "fr_CA": "Seauceur trio",
+        "fr": "D\u00e9poteur"
       }
     },
     "Tri-Stringer": {
@@ -753,7 +772,8 @@
         "it": "Bombrello",
         "fr_CA": "Para-encre espion",
         "es": "Paratintas cl\u00e1sico",
-        "es_LA": "Paratintas Discreto"
+        "es_LA": "Paratintas Discreto",
+        "fr": "Para-encre espion"
       }
     }
   },
@@ -769,7 +789,8 @@
         "nl": "Roggentrog",
         "de": "Sengkluft",
         "it": "Grank Canyon",
-        "es": "Desfiladero Fumarola"
+        "es": "Desfiladero Fumarola",
+        "fr": "Canyon aux colonnes"
       }
     },
     "Eeltail Alley": {
@@ -783,7 +804,8 @@
         "nl": "Forelviaduct",
         "de": "Streifenaal-Stra\u00dfe",
         "it": "Sobborgo Siluriano",
-        "es": "Callejones Crust\u00e1ceo"
+        "es": "Callejones Crust\u00e1ceo",
+        "fr": "Banlieue Balibot"
       }
     },
     "Hagglefish Market": {
@@ -797,6 +819,7 @@
         "de": "Schnapperchen-Basar",
         "it": "Mercato Fruttato",
         "es": "Mercado Lenguado",
+        "fr": "March\u00e9 Grefin",
         "zh_CN": "\u70df\u7ba1\u9c7c\u5e02\u573a"
       }
     },
@@ -874,7 +897,8 @@
         "de": "Mahi-Mahi-Resort",
         "it": "Villanguilla",
         "es": "Spa Cala Bacalao",
-        "fr_CA": "Spa C-ta-C"
+        "fr_CA": "Spa C-ta-C",
+        "fr": "Club Ca$halot"
       }
     },
     "Inkblot Art Academy": {
@@ -889,6 +913,7 @@
         "it": "Campus Hippocampus",
         "es": "Instituto Coralino",
         "fr_CA": "Institut Calm'arts",
+        "fr": "Institut Calam'arts",
         "zh_CN": "\u6d77\u5973\u7f8e\u672f\u5927\u5b66"
       }
     },

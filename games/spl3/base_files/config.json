@@ -4,207 +4,955 @@
   "challonge_game_id": null,
   "character_to_codename": {
     ".52 Gal": {
-      "codename": "52Gal"
+      "codename": "52Gal",
+      "locale": {
+        "ja": ".52\u30ac\u30ed\u30f3",
+        "ko": ".52 \uac24\ub7f0",
+        "zh_TW": ".52\u52a0\u4f96",
+        "zh_CN": ".52\u52a0\u4ed1",
+        "ru": "\u0421\u0442\u0440\u0443\u0435\u0432\u0438\u043a .52",
+        "fr": "Calibre 2000",
+        "nl": ".52 Kaliter",
+        "de": ".52 Gallon",
+        "it": "Calibro 2000",
+        "es": "Salpicadora 2000"
+      }
     },
     ".96 Gal": {
-      "codename": "96Gal"
+      "codename": "96Gal",
+      "locale": {
+        "ja": ".96\u30ac\u30ed\u30f3",
+        "ko": ".96 \uac24\ub7f0",
+        "zh_TW": ".96\u52a0\u4f96",
+        "ru": "\u0421\u0442\u0440\u0443\u0435\u0432\u0438\u043a .96",
+        "fr": "Calibre 3000",
+        "nl": ".96 Kaliter",
+        "de": ".96 Gallon",
+        "it": "Calibro 3000",
+        "es": "Salpicadora 3000",
+        "zh_CN": ".96\u52a0\u4ed1"
+      }
     },
     "Aerospray MG": {
-      "codename": "AerosprayMG"
+      "codename": "AerosprayMG",
+      "locale": {
+        "ja": "\u30d7\u30ed\u30e2\u30c7\u30e9\u30fcMG",
+        "ko": "\ud504\ub85c\ubaa8\ub378\ub7ec MG",
+        "zh_TW": "\u5c08\u696d\u6a21\u578b\u69cdMG",
+        "zh_CN": "\u4e13\u4e1a\u6a21\u578b\u67aaMG",
+        "ru": "\u0410\u044d\u0440\u043e\u0441\u043f\u0440\u0435\u0439",
+        "nl": "Kladderwerper",
+        "de": "Airbrush MG",
+        "it": "Aerografo",
+        "fr_CA": "Pouche-pouche",
+        "es": "Aer\u00f3grafo pro",
+        "es_LA": "Aer\u00f3grafo GP"
+      }
     },
     "Ballpoint Splatling": {
-      "codename": "BallpointSplatling"
+      "codename": "BallpointSplatling",
+      "locale": {
+        "ja": "\u30af\u30fc\u30b2\u30eb\u30b7\u30e5\u30e9\u30a4\u30d0\u30fc",
+        "ru": "\u041a\u0443\u0433\u0435\u043b\u044c\u0448\u0440\u0430\u0439\u0431\u0435\u0440",
+        "fr": "Badigeonneur stylo",
+        "nl": "Stylospetling",
+        "de": "Kuli-Splatling",
+        "it": "Tetrapenna",
+        "es": "Ametrall\u00f3grafo",
+        "es_LA": "Garabateador PLM"
+      }
     },
     "Bamboozler 14 Mk I": {
-      "codename": "Bamboozler14MkI"
+      "codename": "Bamboozler14MkI",
+      "locale": {
+        "ja": "14\u5f0f\u7af9\u7b52\u9283\u30fb\u7532",
+        "ru": "\u0411\u0430\u043c\u0431\u0443\u0445 14-I",
+        "fr": "Bimbamboum Mk I",
+        "nl": "Bamboem 14-A",
+        "de": "Klotzer 14-A",
+        "it": "Bimbamboom 14-I",
+        "es": "Bambufusil 14-I",
+        "es_LA": "Bamzuka 14-I"
+      }
     },
     "Blaster": {
-      "codename": "Blaster"
+      "codename": "Blaster",
+      "locale": {
+        "ja": "\u30db\u30c3\u30c8\u30d6\u30e9\u30b9\u30bf\u30fc",
+        "ko": "\ud56b \ube14\ub798\uc2a4\ud130",
+        "zh_TW": "\u706b\u71b1\u7206\u7834\u69cd",
+        "zh_CN": "\u706b\u70ed\u7206\u7834\u67aa",
+        "ru": "\u0411\u043b\u0430\u0441\u0442\u0435\u0440",
+        "nl": "Klodderblaster",
+        "de": "Blaster",
+        "it": "Blaster",
+        "fr_CA": "\u00c9clablasteur",
+        "es": "Devastador",
+        "es_LA": "Lanzamotas"
+      }
     },
     "Bloblobber": {
-      "codename": "Bloblobber"
+      "codename": "Bloblobber",
+      "locale": {
+        "ja": "\u30aa\u30fc\u30d0\u30fc\u30d5\u30ed\u30c3\u30b7\u30e3\u30fc",
+        "ru": "\u0412\u0430\u043d\u043d\u0430\u0433\u0430\u043d",
+        "fr": "Bassineur",
+        "nl": "Spatkuip",
+        "de": "Wannen-Schwapper",
+        "it": "Secchiostro vasca",
+        "es": "Derramatic ba\u00f1o"
+      }
     },
     "Carbon Roller": {
-      "codename": "CarbonRoller"
+      "codename": "CarbonRoller",
+      "locale": {
+        "ja": "\u30ab\u30fc\u30dc\u30f3\u30ed\u30fc\u30e9\u30fc",
+        "ru": "\u0412\u0430\u043b\u0438\u043a \u041b\u0410\u0419\u0422",
+        "fr": "Rouleau carbone",
+        "nl": "Carbonroller",
+        "de": "Karbonroller",
+        "it": "Rullo di carbonio",
+        "es": "Rodillo de carbono"
+      }
     },
     "Clash Blaster": {
-      "codename": "ClashBlaster"
+      "codename": "ClashBlaster",
+      "locale": {
+        "ja": "\u30af\u30e9\u30c3\u30b7\u30e5\u30d6\u30e9\u30b9\u30bf\u30fc",
+        "ru": "\u041a\u043e\u043d\u0442\u0440\u0430\u0431\u043b\u0430\u0441\u0442\u0435\u0440",
+        "nl": "Knalblaster",
+        "de": "Kontra-Blaster",
+        "it": "Blaster da mischia",
+        "fr_CA": "Rafalblasteur",
+        "es": "Turbodevastador",
+        "es_LA": "Hiperlanzamotas"
+      }
     },
     "Classic Squiffer": {
-      "codename": "ClassicSquiffer"
+      "codename": "ClassicSquiffer",
+      "locale": {
+        "ja": "\u30b9\u30af\u30a4\u30c3\u30af\u30ea\u30f3\u03b1",
+        "ko": "\uc2a4\ud035 \ud074\ub9b0 \u03b1",
+        "zh_TW": "\u9b77\u5feb\u6f54\u03b1",
+        "ru": "\u0421\u0442\u0438\u0440\u0430\u0442\u0435\u043b\u044c",
+        "nl": "Octopoets",
+        "de": "Sepiator \u03b1",
+        "it": "Kalamarapid \u03b1",
+        "fr_CA": "Lignizateur alpha",
+        "es": "Kalarrapid \u03b1",
+        "es_LA": "Delineador X",
+        "zh_CN": "\u9c7f\u5feb\u6d01\u03b1"
+      }
     },
     "Dapple Dualies": {
-      "codename": "DappleDualies"
+      "codename": "DappleDualies",
+      "locale": {
+        "ja": "\u30b9\u30d1\u30c3\u30bf\u30ea\u30fc",
+        "ru": "\u0418\u043c\u043f\u0440\u0435\u0441\u0441\u0438\u043e\u043c\u0435\u0442\u044b",
+        "fr": "Double moucheteur",
+        "nl": "Dubbelspatters",
+        "de": "Sprenkler",
+        "it": "Ripolpella duplo",
+        "es": "Atomizador dual"
+      }
     },
     "Dark Tetra Dualies": {
-      "codename": "DarkTetraDualies"
+      "codename": "DarkTetraDualies",
+      "locale": {
+        "ja": "\u30af\u30a2\u30c3\u30c9\u30db\u30c3\u30d1\u30fc\u30d6\u30e9\u30c3\u30af",
+        "ko": "\ube14\ub799 \ucffc\ub4dc \ud638\ud37c",
+        "zh_TW": "\u56db\u91cd\u5f48\u8df3\u624b\u69cd \u9ed1",
+        "zh_CN": "\u56db\u91cd\u5f39\u8df3\u624b\u67aa \u9ed1",
+        "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u043f\u0443\u0440\u0442\u043e\u043a\u0440\u043e\u0441\u0441\u044b",
+        "fr": "Double voltigeur noir",
+        "nl": "Quadhoppers Zwart",
+        "de": "Quadhopper Noir",
+        "it": "Moscarpino duplo nero",
+        "es": "Motatr\u00f3nic dual negro",
+        "es_LA": "Tetra dual negro"
+      }
     },
     "Dualie Squelchers": {
-      "codename": "DualieSquelchers"
+      "codename": "DualieSquelchers",
+      "locale": {
+        "ja": "\u30c7\u30e5\u30a2\u30eb\u30b9\u30a4\u30fc\u30d1\u30fc",
+        "ru": "\u0421\u043f\u0443\u0440\u0442-\u043f\u043b\u0435\u0441\u043a\u0430\u0440\u0438",
+        "fr": "Double nettoyeur",
+        "nl": "Dubbelplonzers",
+        "de": "Dual-Platscher",
+        "it": "Sweeper duplo",
+        "es": "Barredora dual",
+        "es_LA": "Soplador dual"
+      }
     },
     "Dynamo Roller": {
-      "codename": "DynamoRoller"
+      "codename": "DynamoRoller",
+      "locale": {
+        "ja": "\u30c0\u30a4\u30ca\u30e2\u30ed\u30fc\u30e9\u30fc",
+        "ko": "\ub2e4\uc774\ub108\ubaa8 \ub864\ub7ec",
+        "zh_TW": "\u96fb\u52d5\u99ac\u9054\u6efe\u7b52",
+        "zh_CN": "\u7535\u52a8\u9a6c\u8fbe\u6eda\u7b52",
+        "ru": "\u041c\u043e\u0442\u043e\u0432\u0430\u043b\u0438\u043a",
+        "fr": "Dynamo-rouleau",
+        "nl": "Dynamoroller",
+        "de": "Dynaroller",
+        "it": "Rullo dinamo",
+        "es": "Dinamorrodillo",
+        "es_LA": "Rodillo Pro"
+      }
     },
     "E-liter 4K": {
-      "codename": "Eliter4K"
+      "codename": "Eliter4K",
+      "locale": {
+        "ja": "\u30ea\u30c3\u30bf\u30fc4K",
+        "ko": "\ub9ac\ud130 4K",
+        "ru": "\u042d-\u043b\u0438\u0442\u0440 95",
+        "nl": "E-liter 4K",
+        "de": "E-liter 4K",
+        "it": "Tinter a carica 4K",
+        "es": "Entintador 4K",
+        "fr_CA": "X-traceur +"
+      }
     },
     "E-liter 4K Scope": {
-      "codename": "Eliter4KScope"
+      "codename": "Eliter4KScope",
+      "locale": {
+        "ja": "4K\u30b9\u30b3\u30fc\u30d7",
+        "ko": "4K \uc2a4\ucf54\ud504",
+        "zh_TW": "4K\u6e96\u661f\u69cd",
+        "zh_CN": "4K\u51c6\u661f\u67aa",
+        "ru": "\u0421\u043d\u0430\u0439\u043f-\u044d-\u043b\u0438\u0442\u0440 95",
+        "nl": "E-liter 4K met vizier",
+        "de": "Ziel-E-liter 4K",
+        "it": "Tinter con mirino 4K",
+        "es": "Telentintador 4K",
+        "fr_CA": "X-traceur + zoom"
+      }
     },
     "Explosher": {
-      "codename": "Explosher"
+      "codename": "Explosher",
+      "locale": {
+        "ja": "\u30a8\u30af\u30b9\u30d7\u30ed\u30c3\u30b7\u30e3\u30fc",
+        "ko": "\uc775\uc2a4\ud50c\ub85c\uc154",
+        "zh_TW": "\u7206\u70b8\u6f51\u6876",
+        "ru": "\u0428\u043f\u0430\u0440\u0433\u0430\u043d",
+        "fr": "D\u00e9toneur",
+        "nl": "Kliederkachel",
+        "de": "Knall-Schwapper",
+        "it": "Termosecchiostro",
+        "es": "Derramatic turbo",
+        "es_LA": "Derramatic XP",
+        "zh_CN": "\u7206\u70b8\u6cfc\u6876"
+      }
     },
     "Flingza Roller": {
-      "codename": "FlingzaRoller"
+      "codename": "FlingzaRoller",
+      "locale": {
+        "ja": "\u30f4\u30a1\u30ea\u30a2\u30d6\u30eb\u30ed\u30fc\u30e9\u30fc",
+        "ru": "\u041e\u043c\u043d\u0438\u0432\u0430\u043b\u0438\u043a",
+        "fr": "Flexi-rouleau",
+        "nl": "Flexroller",
+        "de": "Flex-Roller",
+        "it": "Flexi-rullo",
+        "es": "Rodillo vers\u00e1til"
+      }
     },
     "Glooga Dualies": {
-      "codename": "GloogaDualies"
+      "codename": "GloogaDualies",
+      "locale": {
+        "ja": "\u30b1\u30eb\u30d3\u30f3525",
+        "ru": "\u0422\u0435\u0440\u043c\u043e\u043f\u043b\u044e\u0445\u0438 525",
+        "nl": "Kelvin 525",
+        "de": "Kelvin 525",
+        "it": "Kelvin duplo 525",
+        "fr_CA": "Double Kelvin 525",
+        "es": "Fundidora 525 dual"
+      }
     },
     "Goo Tuber": {
-      "codename": "GooTuber"
+      "codename": "GooTuber",
+      "locale": {
+        "ja": "\u30bd\u30a4\u30c1\u30e5\u30fc\u30d0\u30fc",
+        "ru": "\u0422\u0440\u0443\u0431\u0430\u0441\u0442\u0435\u0440",
+        "fr": "D\u00e9tubeur",
+        "nl": "Spetbuizer",
+        "de": "T-Tuber",
+        "it": "Tintubator",
+        "es": "Tubofusil",
+        "es_LA": "Entintubo"
+      }
     },
     "H-3 Nozzlenose": {
-      "codename": "H3Nozzlenose"
+      "codename": "H3Nozzlenose",
+      "locale": {
+        "ja": "H3\u30ea\u30fc\u30eb\u30ac\u30f3",
+        "ru": "\u0422\u044f\u0436\u0435\u043b\u044b\u0439 \u043a\u0430\u043f\u043b\u0435\u0442\u0440\u043e\u043d",
+        "fr": "Arroseur lourd",
+        "nl": "H-3 Langsnuit",
+        "de": "S3 Tintenwerfer",
+        "it": "Triplete",
+        "es": "Tintambor pesado",
+        "es_LA": "Manguera pesada"
+      }
     },
     "Heavy Splatling": {
-      "codename": "HeavySplatling"
+      "codename": "HeavySplatling",
+      "locale": {
+        "ja": "\u30d0\u30ec\u30eb\u30b9\u30d4\u30ca\u30fc",
+        "ko": "\ubc30\ub7f4 \uc2a4\ud53c\ub108",
+        "zh_TW": "\u6876\u88dd\u65cb\u8f49\u69cd",
+        "zh_CN": "\u6876\u88c5\u65cb\u8f6c\u67aa",
+        "ru": "\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442 XL",
+        "fr": "Badigeonneur",
+        "nl": "Spetling",
+        "de": "Splatling",
+        "it": "Splatling a tanica",
+        "es": "Tintralladora",
+        "es_LA": "Garabateador Pro"
+      }
     },
     "Hydra Splatling": {
-      "codename": "HydraSplatling"
+      "codename": "HydraSplatling",
+      "locale": {
+        "ja": "\u30cf\u30a4\u30c9\u30e9\u30f3\u30c8",
+        "ko": "\ud558\uc774\ub4dc\ub7f0\ud2b8",
+        "zh_TW": "\u6d88\u9632\u6813\u65cb\u8f49\u69cd",
+        "zh_CN": "\u6d88\u9632\u6813\u65cb\u8f6c\u67aa",
+        "ru": "\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442 \u00ab\u0413\u043e\u0440\u044b\u043d\u044b\u0447\u00bb",
+        "fr": "Exteinteur",
+        "nl": "Blusling",
+        "de": "Hydrant",
+        "it": "Idrante",
+        "es": "Extintador",
+        "es_LA": "Garabateador HD"
+      }
     },
     "Inkbrush": {
-      "codename": "Inkbrush"
+      "codename": "Inkbrush",
+      "locale": {
+        "ja": "\u30d1\u30d6\u30ed",
+        "ko": "\ud30c\ube14\ub85c",
+        "zh_TW": "\u5df4\u52c3\u7f85",
+        "zh_CN": "\u5df4\u52c3\u7f57",
+        "ru": "\u041a\u0438\u0441\u0442\u044c",
+        "fr": "\u00c9pinceau",
+        "nl": "Inktkwast",
+        "de": "Quasto",
+        "it": "Calamaravaggio",
+        "es": "Pincel"
+      }
     },
     "Jet Squelcher": {
-      "codename": "JetSquelcher"
+      "codename": "JetSquelcher",
+      "locale": {
+        "ja": "\u30b8\u30a7\u30c3\u30c8\u30b9\u30a4\u30fc\u30d1\u30fc",
+        "ru": "\u041f\u043b\u0435\u0441\u043a\u0430\u0440\u044c",
+        "nl": "Straalplonzer",
+        "de": "Platscher",
+        "it": "Sweeper",
+        "fr_CA": "M\u00e9ganettoyeur",
+        "es": "Megabarredora",
+        "es_LA": "Megasoplador"
+      }
     },
     "L-3 Nozzlenose": {
-      "codename": "L3Nozzlenose"
+      "codename": "L3Nozzlenose",
+      "locale": {
+        "ja": "L3\u30ea\u30fc\u30eb\u30ac\u30f3",
+        "ru": "\u041a\u0430\u043f\u043b\u0435\u0442\u0440\u043e\u043d-\u043a\u043e\u043c\u043f\u0430\u043a\u0442",
+        "fr": "Arroseur l\u00e9ger",
+        "nl": "L-3 Stompsnuit",
+        "de": "L3 Tintenwerfer",
+        "it": "Triplete compatto",
+        "es": "Tintambor ligero",
+        "es_LA": "Manguera ligera"
+      }
     },
     "Luna Blaster": {
-      "codename": "LunaBlaster"
+      "codename": "LunaBlaster",
+      "locale": {
+        "ja": "\u30ce\u30f4\u30a1\u30d6\u30e9\u30b9\u30bf\u30fc",
+        "ko": "\ub178\ubc14 \ube14\ub798\uc2a4\ud130",
+        "zh_TW": "\u65b0\u661f\u7206\u7834\u69cd",
+        "zh_CN": "\u65b0\u661f\u7206\u7834\u67aa",
+        "ru": "\u041b\u0443\u043d\u043e\u0431\u043b\u0430\u0441\u0442\u0435\u0440",
+        "nl": "Lunablaster",
+        "de": "Luna-Blaster",
+        "it": "Blaster lunar",
+        "fr_CA": "Proxiblasteur",
+        "es": "Ultradevastador",
+        "es_LA": "Lanzamotas Nova"
+      }
     },
     "Mini Splatling": {
-      "codename": "MiniSplatling"
+      "codename": "MiniSplatling",
+      "locale": {
+        "ja": "\u30b9\u30d7\u30e9\u30b9\u30d4\u30ca\u30fc",
+        "ru": "\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442-\u041c",
+        "nl": "Mini-Spetling",
+        "de": "Klecks-Splatling",
+        "it": "Mini splatling",
+        "fr_CA": "Badigeonneur XP",
+        "es": "Tintralladora ligera",
+        "es_LA": "Garabateador"
+      }
     },
     "N-ZAP '85": {
-      "codename": "NZAP'85"
+      "codename": "NZAP'85",
+      "locale": {
+        "ja": "N-ZAP85",
+        "ko": "N-ZAP85",
+        "ru": "N-ZAP 85",
+        "fr": "N-ZAP 85",
+        "nl": "N-ZAP '85",
+        "de": "N-ZAP85",
+        "it": "N-ZAP85",
+        "es": "N-ZAP 85"
+      }
     },
     "Nautilus 47": {
-      "codename": "Nautilus47"
+      "codename": "Nautilus47",
+      "locale": {
+        "ja": "\u30ce\u30fc\u30c1\u30e9\u30b947",
+        "ru": "\u041d\u0430\u0443\u0442\u0438\u043b\u0443\u0441-47",
+        "fr": "Nautilus 47",
+        "nl": "Nautilus 47",
+        "de": "Nautilus 47",
+        "it": "Nautilus 47",
+        "es": "Subtralladora 47",
+        "es_LA": "Nautilo 47"
+      }
     },
     "Octobrush": {
-      "codename": "Octobrush"
+      "codename": "Octobrush",
+      "locale": {
+        "ja": "\u30db\u30af\u30b5\u30a4",
+        "ko": "\ud638\ucfe0\uc0ac\uc774",
+        "zh_TW": "\u5317\u9f4b",
+        "zh_CN": "\u5317\u658b",
+        "ru": "\u0410\u0440\u0442-\u043a\u0438\u0441\u0442\u044c",
+        "fr": "\u00c9pinceau brosse",
+        "nl": "Octokwast",
+        "de": "Kalligraf",
+        "it": "Tinturicchio",
+        "es": "Brocha",
+        "es_LA": "Pincel caligraf\u00eda"
+      }
     },
     "REEF-LUX 450": {
-      "codename": "REEFLUX450"
+      "codename": "REEFLUX450",
+      "locale": {
+        "ja": "LACT-450",
+        "ru": "\u041a\u041e-\u0420\u0410\u041b\u041b 450",
+        "nl": "RIF-LEX 450",
+        "de": "LACT-450"
+      }
     },
     "Range Blaster": {
-      "codename": "RangeBlaster"
+      "codename": "RangeBlaster",
+      "locale": {
+        "ja": "\u30ed\u30f3\u30b0\u30d6\u30e9\u30b9\u30bf\u30fc",
+        "ko": "\ub871 \ube14\ub798\uc2a4\ud130",
+        "ru": "\u0414\u0430\u043b\u044c\u043d\u043e\u0431\u043b\u0430\u0441\u0442\u0435\u0440",
+        "nl": "Teleblaster",
+        "de": "Fern-Blaster",
+        "it": "Blaster a distanza",
+        "fr_CA": "\u00c9clablasteur LP",
+        "es": "Teledevastador",
+        "es_LA": "Telelanzamotas"
+      }
     },
     "Rapid Blaster": {
-      "codename": "RapidBlaster"
+      "codename": "RapidBlaster",
+      "locale": {
+        "ja": "\u30e9\u30d4\u30c3\u30c9\u30d6\u30e9\u30b9\u30bf\u30fc",
+        "ru": "\u0411\u043b\u0430\u0441\u0442\u0435\u0440\u043c\u0430\u0442",
+        "nl": "Flitsblaster",
+        "de": "Turbo-Blaster",
+        "it": "Blaster rapido",
+        "fr_CA": "Turboblasteur",
+        "es": "Devastador expr\u00e9s",
+        "es_LA": "Turbolanzamotas"
+      }
     },
     "Rapid Blaster Pro": {
-      "codename": "RapidBlasterPro"
+      "codename": "RapidBlasterPro",
+      "locale": {
+        "ja": "R\u30d6\u30e9\u30b9\u30bf\u30fc\u30a8\u30ea\u30fc\u30c8",
+        "ru": "\u0411\u043b\u0430\u0441\u0442\u0435\u0440\u043c\u0430\u0442 \u041f\u0420\u041e",
+        "nl": "Flitsblaster Pro",
+        "de": "Turbo-Blaster Plus",
+        "it": "Blaster \u00e9lite",
+        "fr_CA": "Turboblasteur pro",
+        "es": "Superdevastador",
+        "es_LA": "Turbolanzamotas Pro"
+      }
     },
     "Slosher": {
-      "codename": "Slosher"
+      "codename": "Slosher",
+      "locale": {
+        "ja": "\u30d0\u30b1\u30c3\u30c8\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc",
+        "ko": "\ubc84\ud0b7 \uc2ac\ub85c\uc154",
+        "zh_TW": "\u98db\u6ffa\u6f51\u6876",
+        "zh_CN": "\u98de\u6e85\u6cfc\u6876",
+        "ru": "\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d",
+        "fr": "Seauceur",
+        "nl": "Morser",
+        "de": "Schwapper",
+        "it": "Secchiostro",
+        "es": "Derramatic"
+      }
     },
     "Sloshing Machine": {
-      "codename": "SloshingMachine"
+      "codename": "SloshingMachine",
+      "locale": {
+        "ja": "\u30b9\u30af\u30ea\u30e5\u30fc\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc",
+        "ru": "\u0426\u0435\u043d\u0442\u0440\u0438\u0444\u0443\u0433\u0435\u0440",
+        "fr": "Encrifugeur",
+        "nl": "Klotstrommel",
+        "de": "Trommel-Schwapper",
+        "it": "Secchiostro centrifuga",
+        "es": "Derramatic centr\u00edfugo"
+      }
     },
     "Splash-o-matic": {
-      "codename": "Splashomatic"
+      "codename": "Splashomatic",
+      "locale": {
+        "ja": "\u30b7\u30e3\u30fc\u30d7\u30de\u30fc\u30ab\u30fc",
+        "ru": "\u041f\u043b\u044e\u0445\u043e\u043c\u0435\u0442",
+        "fr": "Marqueur l\u00e9ger",
+        "nl": "Spetterspuit",
+        "de": "Fein-Disperser",
+        "it": "Marker d'assalto",
+        "es": "Marcador fino",
+        "es_LA": "Plum\u00f3n"
+      }
     },
     "Splat Brella": {
-      "codename": "SplatBrella"
+      "codename": "SplatBrella",
+      "locale": {
+        "ja": "\u30d1\u30e9\u30b7\u30a7\u30eb\u30bf\u30fc",
+        "ko": "\ud30c\ub77c \uc178\ud130",
+        "zh_TW": "\u906e\u967d\u9632\u7a7a\u5098",
+        "zh_CN": "\u906e\u9633\u9632\u7a7a\u4f1e",
+        "ru": "\u0421\u043f\u043b\u0430\u0442-\u0437\u043e\u043d\u0442",
+        "fr": "Para-encre",
+        "nl": "Plenzer",
+        "de": "Parapluviator",
+        "it": "Sparasole",
+        "es": "Paratintas"
+      }
     },
     "Splat Charger": {
-      "codename": "SplatCharger"
+      "codename": "SplatCharger",
+      "locale": {
+        "ja": "\u30b9\u30d7\u30e9\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc",
+        "ko": "\uc2a4\ud50c\ub7ab \ucc28\uc800",
+        "zh_TW": "\u65af\u666e\u62c9\u84c4\u529b\u72d9\u64ca\u69cd",
+        "zh_CN": "\u65af\u666e\u62c9\u84c4\u529b\u72d9\u51fb\u67aa",
+        "ru": "\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d",
+        "fr": "Concentraceur",
+        "nl": "Bloplader",
+        "de": "Klecks-Konzentrator",
+        "it": "Splatter a carica",
+        "es": "Cargatintas"
+      }
     },
     "Splat Dualies": {
-      "codename": "SplatDualies"
+      "codename": "SplatDualies",
+      "locale": {
+        "ja": "\u30b9\u30d7\u30e9\u30de\u30cb\u30e5\u30fc\u30d0\u30fc",
+        "ko": "\uc2a4\ud50c\ub7ab \uba38\ub204\ubc84",
+        "zh_TW": "\u65af\u666e\u62c9\u6a5f\u52d5\u69cd",
+        "zh_CN": "\u65af\u666e\u62c9\u673a\u52a8\u67aa",
+        "ru": "\u0421\u043f\u0443\u0440\u0442\u043e\u043c\u0435\u0442\u044b",
+        "fr": "Double encreur",
+        "nl": "Dubbelknallers",
+        "de": "Klecks-Doppler",
+        "it": "Repolper duplo",
+        "es": "Difusor dual"
+      }
     },
     "Splat Roller": {
-      "codename": "SplatRoller"
+      "codename": "SplatRoller",
+      "locale": {
+        "ja": "\u30b9\u30d7\u30e9\u30ed\u30fc\u30e9\u30fc",
+        "ko": "\uc2a4\ud50c\ub7ab \ub864\ub7ec",
+        "zh_TW": "\u65af\u666e\u62c9\u6efe\u7b52",
+        "zh_CN": "\u65af\u666e\u62c9\u6eda\u7b52",
+        "ru": "\u0421\u043f\u043b\u0430\u0442-\u0432\u0430\u043b\u0438\u043a",
+        "fr": "Rouleau",
+        "nl": "Klodderroller",
+        "de": "Klecksroller",
+        "it": "Rullo splat",
+        "es": "Rodillo B\u00e1sico"
+      }
     },
     "Splatana Stamper": {
-      "codename": "SplatanaStamper"
+      "codename": "SplatanaStamper",
+      "locale": {
+        "ja": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc",
+        "ru": "\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c",
+        "de": "Stempel-Splatana"
+      }
     },
     "Splatana Wiper": {
-      "codename": "SplatanaWiper"
+      "codename": "SplatanaWiper",
+      "locale": {
+        "ja": "\u30c9\u30e9\u30a4\u30d6\u30ef\u30a4\u30d1\u30fc",
+        "ko": "\ub4dc\ub77c\uc774\ube0c \uc640\uc774\ud37c",
+        "ru": "\u0421\u043f\u043b\u0430\u0442-\u0434\u0432\u043e\u0440\u043d\u0438\u043a",
+        "nl": "Wisserbladzwieper",
+        "de": "Wischer-Splatana",
+        "it": "Tergilama",
+        "es": "Azotintador brisa"
+      }
     },
     "Splatterscope": {
-      "codename": "Splatterscope"
+      "codename": "Splatterscope",
+      "locale": {
+        "ja": "\u30b9\u30d7\u30e9\u30b9\u30b3\u30fc\u30d7",
+        "ko": "\uc2a4\ud50c\ub7ab \uc2a4\ucf54\ud504",
+        "zh_TW": "\u65af\u666e\u62c9\u6e96\u661f\u69cd",
+        "zh_CN": "\u65af\u666e\u62c9\u51c6\u661f\u67aa",
+        "ru": "\u0421\u043d\u0430\u0439\u043f\u043e\u043a\u0440\u0430\u0441",
+        "fr": "Concentraceur zoom",
+        "nl": "Schelpschutter",
+        "de": "Ziel-Konzentrator",
+        "it": "Splatter con mirino",
+        "es": "Cargatintas con mira",
+        "es_LA": "Telecargatintas"
+      }
     },
     "Splattershot": {
-      "codename": "Splattershot"
+      "codename": "Splattershot",
+      "locale": {
+        "ja": "\u30b9\u30d7\u30e9\u30b7\u30e5\u30fc\u30bf\u30fc",
+        "ko": "\uc2a4\ud50c\ub7ab \uc288\ud130",
+        "zh_TW": "\u65af\u666e\u62c9\u5c04\u64ca\u69cd",
+        "zh_CN": "\u65af\u666e\u62c9\u5c04\u51fb\u67aa",
+        "ru": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b",
+        "nl": "SuperspetterSpletterschot",
+        "de": "Kleckser",
+        "it": "Splasher",
+        "fr_CA": "Liqu\u00e9ficateur",
+        "es": "Lanzatintas",
+        "es_LA": "Rociador"
+      }
     },
     "Splattershot Jr.": {
-      "codename": "SplattershotJr"
+      "codename": "SplattershotJr",
+      "locale": {
+        "ja": "\u308f\u304b\u3070\u30b7\u30e5\u30fc\u30bf\u30fc",
+        "ko": "\uc0c8\uc2f9 \uc288\ud130",
+        "zh_TW": "\u65b0\u8449\u5c04\u64ca\u69cd",
+        "zh_CN": "\u65b0\u53f6\u5c04\u51fb\u67aa",
+        "ru": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b-\u0423",
+        "nl": "Superspetter jr.",
+        "de": "Junior-Kleckser",
+        "it": "Sparacolore recluta",
+        "fr_CA": "Liqu\u00e9ficateur ultra",
+        "es": "Lanzatintas novato",
+        "es_LA": "Rociador b\u00e1sico"
+      }
     },
     "Splattershot Pro": {
-      "codename": "SplattershotPro"
+      "codename": "SplattershotPro",
+      "locale": {
+        "ja": "\u30d7\u30e9\u30a4\u30e0\u30b7\u30e5\u30fc\u30bf\u30fc",
+        "ko": "\ud504\ub77c\uc784 \uc288\ud130",
+        "zh_TW": "\u9802\u5c16\u5c04\u64ca\u69cd",
+        "zh_CN": "\u9876\u5c16\u5c04\u51fb\u67aa",
+        "ru": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u041f\u0420\u041e",
+        "nl": "Superspetter Pro",
+        "de": "Profi-Kleckser",
+        "it": "Splasher \u00e9lite",
+        "fr_CA": "Liqu\u00e9ficateur pro",
+        "es": "Lanzatintas plus",
+        "es_LA": "Rociador Pro"
+      }
     },
     "Sploosh-o-matic": {
-      "codename": "Splooshomatic"
+      "codename": "Splooshomatic",
+      "locale": {
+        "ja": "\u30dc\u30fc\u30eb\u30c9\u30de\u30fc\u30ab\u30fc",
+        "ru": "\u041f\u043b\u044e\u0445\u043e\u0442\u0440\u043e\u043d",
+        "fr": "Marqueur lourd",
+        "nl": "Spettertuit",
+        "de": "Disperser",
+        "it": "Marker",
+        "es": "Marcador",
+        "es_LA": "Marcador grueso"
+      }
     },
     "Squeezer": {
-      "codename": "Squeezer"
+      "codename": "Squeezer",
+      "locale": {
+        "ja": "\u30dc\u30c8\u30eb\u30ac\u30a4\u30b6\u30fc",
+        "ru": "\u0411\u0443\u0442\u044b\u043b\u044f\u0442\u043e\u0440",
+        "fr": "Compresseur",
+        "nl": "Floeper",
+        "de": "Quetscher",
+        "it": "Strizzer",
+        "es": "Tintopresor"
+      }
     },
     "Tenta Brella": {
-      "codename": "TentaBrella"
+      "codename": "TentaBrella",
+      "locale": {
+        "ja": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30b7\u30a7\u30eb\u30bf\u30fc",
+        "ko": "\ucea0\ud551 \uc178\ud130",
+        "zh_TW": "\u9732\u71df\u9632\u7a7a\u5098",
+        "zh_CN": "\u9732\u8425\u9632\u7a7a\u4f1e",
+        "ru": "\u0417\u043e\u043d\u0442\u0435\u043d\u0442",
+        "nl": "Kampeerplenzer",
+        "de": "Camp-Pluviator",
+        "it": "Sparatenda",
+        "fr_CA": "M\u00e9ga para-encre",
+        "es": "Paratintas maxi",
+        "es_LA": "Paratintas forestal"
+      }
     },
     "Tri-Slosher": {
-      "codename": "TriSlosher"
+      "codename": "TriSlosher",
+      "locale": {
+        "ja": "\u30d2\u30c3\u30bb\u30f3",
+        "ko": "\ubb3c\ud1b5",
+        "zh_TW": "\u6d17\u7b46\u6876",
+        "zh_CN": "\u6d17\u7b14\u6876",
+        "ru": "\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d 3 \u0432 1",
+        "nl": "Triomorser",
+        "de": "3R-Schwapper",
+        "it": "Secchiostro triplo",
+        "es": "Derramatic triple",
+        "fr_CA": "Seauceur trio"
+      }
     },
     "Tri-Stringer": {
-      "codename": "TriStringer"
+      "codename": "TriStringer",
+      "locale": {
+        "ja": "\u30c8\u30e9\u30a4\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc",
+        "ko": "\ud2b8\ub77c\uc774 \uc2a4\ud2b8\ub9c1\uac70",
+        "zh_TW": "\u4e09\u767c\u7375\u9b5a\u5f13",
+        "zh_CN": "\u4e09\u53d1\u730e\u9c7c\u5f13",
+        "ru": "\u0422\u0440\u0438\u0442\u0438\u0432\u0430\u0442\u043e\u0440",
+        "fr": "Trisperceur",
+        "nl": "Triospanner",
+        "de": "Tri-Stringer",
+        "it": "Tri-calamarco",
+        "es": "Arcromatizador triple"
+      }
     },
     "Undercover Brella": {
-      "codename": "UndercoverBrella"
+      "codename": "UndercoverBrella",
+      "locale": {
+        "ja": "\u30b9\u30d1\u30a4\u30ac\u30b8\u30a7\u30c3\u30c8",
+        "ru": "\u0428\u043f\u0438\u043e\u043d\u0441\u043a\u0438\u0439 \u0437\u043e\u043d\u0442",
+        "nl": "Paraplenzer",
+        "de": "UnderCover",
+        "it": "Bombrello",
+        "fr_CA": "Para-encre espion",
+        "es": "Paratintas cl\u00e1sico",
+        "es_LA": "Paratintas Discreto"
+      }
     }
   },
   "stage_to_codename": {
     "Scorch Gorge": {
-      "codename": "scorch"
+      "codename": "scorch",
+      "locale": {
+        "ja": "\u30e6\u30ce\u30cf\u30ca\u5927\u6e13\u8c37",
+        "ko": "\uc11d\uc21c \ub300\ud611\uace1",
+        "zh_TW": "\u6eab\u6cc9\u82b1\u5927\u5cfd\u8c37",
+        "zh_CN": "\u6e29\u6cc9\u82b1\u5927\u5ce1\u8c37",
+        "ru": "\u041e\u043f\u0430\u043b\u0435\u043d\u043d\u043e\u0435 \u0443\u0449\u0435\u043b\u044c\u0435",
+        "nl": "Roggentrog",
+        "de": "Sengkluft",
+        "it": "Grank Canyon",
+        "es": "Desfiladero Fumarola"
+      }
     },
     "Eeltail Alley": {
-      "codename": "eeltail"
+      "codename": "eeltail",
+      "locale": {
+        "ja": "\u30b4\u30f3\u30ba\u30a4\u5730\u533a",
+        "ko": "\uba54\uae30 \uc9c0\uad6c",
+        "zh_TW": "\u9c3b\u9bf0\u5340",
+        "zh_CN": "\u9cd7\u9cb6\u533a",
+        "ru": "\u0423\u0433\u0440\u0435\u0432\u043e-\u0421\u043a\u0430\u0442\u043e\u0432\u043e",
+        "nl": "Forelviaduct",
+        "de": "Streifenaal-Stra\u00dfe",
+        "it": "Sobborgo Siluriano",
+        "es": "Callejones Crust\u00e1ceo"
+      }
     },
     "Hagglefish Market": {
-      "codename": "hagglefish"
+      "codename": "hagglefish",
+      "locale": {
+        "ja": "\u30e4\u30ac\u30e9\u5e02\u5834",
+        "ko": "\ub300\uce58 \uc2dc\uc7a5",
+        "zh_TW": "\u7159\u7ba1\u9b5a\u5e02\u5834",
+        "ru": "\u0420\u044b\u043d\u043e\u043a \u00ab\u0421\u0432\u0438\u0441\u0442\u043e\u0440\u044b\u0431\u00bb",
+        "nl": "Boter-bij-de-vismarkt",
+        "de": "Schnapperchen-Basar",
+        "it": "Mercato Fruttato",
+        "es": "Mercado Lenguado",
+        "zh_CN": "\u70df\u7ba1\u9c7c\u5e02\u573a"
+      }
     },
     "Undertow Spillway": {
-      "codename": "undertow"
+      "codename": "undertow",
+      "locale": {
+        "ja": "\u30de\u30c6\u30ac\u30a4\u653e\u6c34\u8def",
+        "ko": "\ub9db\uc870\uac1c \ubc29\uc218\ub85c",
+        "zh_TW": "\u7af9\u87f6\u758f\u6d2a\u9053",
+        "zh_CN": "\u7af9\u86cf\u758f\u6d2a\u9053",
+        "ru": "\u041f\u0440\u0438\u043b\u0438\u0432\u043e\u0441\u043b\u0438\u0432",
+        "fr": "R\u00e9servoir Rigadelle",
+        "nl": "Baarsreservoir",
+        "de": "Schwertmuschel-Reservoir",
+        "it": "Cisterna Cernia",
+        "es": "Cisterna Navajuela",
+        "es_LA": "Desag\u00fce Navajuela"
+      }
     },
     "Mincemeat Metalworks": {
-      "codename": "metalworks"
+      "codename": "metalworks",
+      "locale": {
+        "ja": "\u30ca\u30e1\u30ed\u30a6\u91d1\u5c5e",
+        "ko": "\ub098\uba54\ub85c\uc6b0 \uae08\uc18d",
+        "zh_TW": "\u9b5a\u8089\u788e\u91d1\u5c6c",
+        "zh_CN": "\u9c7c\u8089\u788e\u91d1\u5c5e",
+        "ru": "\u0426\u0435\u0445 \u00ab\u0422\u0430\u0440\u0442\u0430\u0440\u00bb",
+        "fr": "Casse Rascasse",
+        "nl": "Zilversmelt-hoogovens",
+        "de": "Aalstahl-Metallwerk",
+        "it": "Discarica Tritatutto",
+        "es": "Desguace Mero"
+      }
     },
     "Hammerhead Bridge": {
-      "codename": "hammerhead"
+      "codename": "hammerhead",
+      "locale": {
+        "ja": "\u30de\u30b5\u30d0\u6d77\u5ce1\u5927\u6a4b",
+        "ko": "\uace0\ub4f1\uc5b4 \ud574\ud611 \ub300\uad50",
+        "zh_TW": "\u771f\u9bd6\u8de8\u6d77\u5927\u6a4b",
+        "ru": "\u0410\u043a\u0443\u043b\u0438\u0439 \u043c\u043e\u0441\u0442",
+        "fr": "Pont Esturgeon",
+        "nl": "Brandingbrug",
+        "de": "Makrelenbr\u00fccke",
+        "it": "Ponte Sgombro",
+        "es": "Puente Salm\u00f3n",
+        "fr_CA": "Pont Esturgon",
+        "zh_CN": "\u771f\u9cad\u8de8\u6d77\u5927\u6865"
+      }
     },
     "Museum d'Alfonsino": {
-      "codename": "alfonsino"
+      "codename": "alfonsino",
+      "locale": {
+        "ja": "\u30ad\u30f3\u30e1\u30c0\u30a4\u7f8e\u8853\u9928",
+        "ko": "\ub3c4\ubbf8 \ubbf8\uc220\uad00",
+        "zh_TW": "\u91d1\u773c\u9bdb\u7f8e\u8853\u9928",
+        "zh_CN": "\u91d1\u773c\u9cb7\u7f8e\u672f\u9986",
+        "ru": "\u0413\u0430\u043b\u0435\u0440\u0435\u044f \u00ab\u0414\u0435 \u0411\u0435\u0440\u0438\u043a\u0441\u00bb",
+        "fr": "Galeries Guppy",
+        "nl": "Galerie Le Guppy",
+        "de": "Pinakoithek",
+        "it": "Museo di Cefal\u00f2",
+        "es": "Museo del Pargo"
+      }
     },
     "Mahi-Mahi Resort": {
-      "codename": "mahi"
+      "codename": "mahi",
+      "locale": {
+        "ja": "\u30de\u30d2\u30de\u30d2\u30ea\u30be\u30fc\u30c8\uff06\u30b9\u30d1",
+        "ko": "\ub9cc\uc0c8\uae30 \ub9ac\uc870\ud2b8\uff06\uc2a4\ud30c",
+        "zh_TW": "\u9b3c\u982d\u5200SPA\u5ea6\u5047\u5340",
+        "zh_CN": "\u9b3c\u5934\u5200SPA\u5ea6\u5047\u533a",
+        "ru": "\u0421\u043f\u0430-\u043a\u0443\u0440\u043e\u0440\u0442 \u00ab\u0417\u043e\u043b\u043e\u0442\u0430\u044f \u0440\u044b\u0431\u043a\u0430\u00bb",
+        "nl": "El Dorade-resort",
+        "de": "Mahi-Mahi-Resort",
+        "it": "Villanguilla",
+        "es": "Spa Cala Bacalao",
+        "fr_CA": "Spa C-ta-C"
+      }
     },
     "Inkblot Art Academy": {
-      "codename": "inkblot"
+      "codename": "inkblot",
+      "locale": {
+        "ja": "\u6d77\u5973\u7f8e\u8853\u5927\u5b66",
+        "ko": "\ud574\ub140 \ubbf8\uc220 \ub300\ud559",
+        "zh_TW": "\u6d77\u5973\u7f8e\u8853\u5927\u5b78",
+        "ru": "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u044f \u00ab\u041b\u0435\u043f\u043e\u0442\u0430\u00bb",
+        "nl": "Koraalcampus",
+        "de": "Perlmutt-Akademie",
+        "it": "Campus Hippocampus",
+        "es": "Instituto Coralino",
+        "fr_CA": "Institut Calm'arts",
+        "zh_CN": "\u6d77\u5973\u7f8e\u672f\u5927\u5b66"
+      }
     },
     "Sturgeon Shipyard": {
-      "codename": "sturgeon"
+      "codename": "sturgeon",
+      "locale": {
+        "ja": "\u30c1\u30e7\u30a6\u30b6\u30e1\u9020\u8239",
+        "ko": "\ucca0\uac11\uc0c1\uc5b4 \uc870\uc120\uc18c",
+        "zh_TW": "\u9c58\u9b5a\u9020\u8239\u5ee0",
+        "zh_CN": "\u9c9f\u9c7c\u9020\u8239\u5382",
+        "ru": "\u041e\u0441\u0435\u0442\u0440\u043e\u0432\u044b\u0435 \u0432\u0435\u0440\u0444\u0438",
+        "fr": "Chantier Narval",
+        "nl": "Walruswerf",
+        "de": "St\u00f6rwerft",
+        "it": "Cantiere Pinnenere",
+        "es": "Astillero Beluga"
+      }
     },
     "MakoMart": {
-      "codename": "mako"
+      "codename": "mako",
+      "locale": {
+        "ja": "\u30b6\u30c8\u30a6\u30de\u30fc\u30b1\u30c3\u30c8",
+        "ko": "\ud639\ub4f1 \ub9c8\ucf13",
+        "zh_TW": "\u5ea7\u982d\u8cfc\u7269\u4e2d\u5fc3",
+        "ru": "\u0413\u043e\u0440\u0431\u0443\u0448\u0430-\u041c\u0430\u0440\u043a\u0435\u0442",
+        "fr": "Supermarch\u00e9 C\u00e9tac\u00e9",
+        "nl": "Bultrugbazaar",
+        "de": "Cetacea-Markt",
+        "it": "Mercatotano",
+        "es": "Ultramarinos Orca",
+        "zh_CN": "\u5ea7\u5934\u8d2d\u7269\u4e2d\u5fc3"
+      }
     },
     "Wahoo World": {
-      "codename": "wahoo"
+      "codename": "wahoo",
+      "locale": {
+        "ja": "\u30b9\u30e1\u30fc\u30b7\u30fc\u30ef\u30fc\u30eb\u30c9",
+        "ko": "\ucd08\ubc25 \uc6d4\ub4dc",
+        "zh_TW": "\u918b\u98ef\u6d77\u6d0b\u4e16\u754c",
+        "ru": "\u041b\u0443\u043d\u0430-\u043f\u0430\u0440\u043a \u00ab\u042f\u0437\u044c\u00bb",
+        "fr": "Parc Carapince",
+        "nl": "Waterwonderland",
+        "de": "Flunder-Funpark",
+        "it": "Soglioland",
+        "es": "Pira\u00f1alandia",
+        "zh_CN": "\u918b\u996d\u6d77\u6d0b\u4e16\u754c"
+      }
     }
   },
   "version": "1.0",
   "description": "Base config to use this game.",
-  "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)"
+  "credits": "",
+  "locale": {
+    "ja": {
+      "name": "\u30b9\u30d7\u30e9\u30c8\u30a5\u30fc\u30f33"
+    },
+    "zh_CN": {
+      "name": "\u65af\u666e\u62c9\u90413"
+    },
+    "zh_TW": {
+      "name": "\u65af\u666e\u62c9\u90413"
+    },
+    "ko": {
+      "name": "\uc2a4\ud50c\ub798\ud230 3"
+    }
+  }
 }

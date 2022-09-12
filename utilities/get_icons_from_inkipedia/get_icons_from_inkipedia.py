@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup as BS
 import json
 from pathlib import Path
 import sys
+import chinese_converter
 
 sys.setrecursionlimit(100)
 
@@ -13,6 +14,9 @@ icon_path = f"{base_files_path}/icon"
 stage_path = f"{root_path}/stage_icon"
 sub_path = f"{root_path}/sub"
 special_path = f"{root_path}/special"
+
+lang_list = ["ja", "ko", "zh-cmn-Hant", "zh-cmn-Hans", "ru",
+             "fr", "nl", "de", "it", "es", "fr-ca", "es-es", "es-mx"]
 
 
 def create_folder_structure():
@@ -62,10 +66,61 @@ def generate_main_config_skeleton():
         "smashgg_game_id": game_id,
         "challonge_game_id": challonge_id,
         "character_to_codename": {},
-        "stage_to_codename": {},
+        "stage_to_codename": {
+            "Scorch Gorge": {
+                "codename": "scorch"
+            },
+            "Eeltail Alley": {
+                "codename": "eeltail"
+            },
+            "Hagglefish Market": {
+                "codename": "hagglefish"
+            },
+            "Undertow Spillway": {
+                "codename": "undertow"
+            },
+            "Mincemeat Metalworks": {
+                "codename": "metalworks"
+            },
+            "Hammerhead Bridge": {
+                "codename": "hammerhead"
+            },
+            "Museum d'Alfonsino": {
+                "codename": "alfonsino"
+            },
+            "Mahi-Mahi Resort": {
+                "codename": "mahi"
+            },
+            "Inkblot Art Academy": {
+                "codename": "inkblot"
+            },
+            "Sturgeon Shipyard": {
+                "codename": "sturgeon"
+            },
+            "MakoMart": {
+                "codename": "mako"
+            },
+            "Wahoo World": {
+                "codename": "wahoo"
+            }
+        },
         "version": version,
         "description": str(description),
         "credits": str(credits),
+        "locale": {
+            "ja": {
+                "name": "スプラトゥーン3"
+            },
+            "zh_CN": {
+                "name": "斯普拉遁3"
+            },
+            "zh_TW": {
+                "name": "斯普拉遁3"
+            },
+            "ko": {
+                "name": "스플래툰 3"
+            }
+        }
     }
 
     return config_dict
@@ -192,6 +247,42 @@ for weapon_name in weapon_list.keys():
         f.write(icon_file.content)
     main_config["character_to_codename"][weapon_name] = {
         "codename": weapon_codename}
+    main_config["character_to_codename"][weapon_name]["locale"] = {}
+
+    weapon_wiki = f"https://splatoonwiki.org/wiki/{weapon_name.replace(' ', '_')}"
+    weapon_wiki_page = robust_request(weapon_wiki, timeout=30)
+    weapon_wiki_content = weapon_wiki_page.text
+    weapon_wiki_soup = BS(weapon_wiki_content, features="html.parser")
+
+    for lang in lang_list:
+        current_lang = lang
+        if lang == "zh-cmn-Hant":
+            current_lang = "zh_TW"
+        if lang == "zh-cmn-Hans":
+            current_lang = "zh_CN"
+        if lang == "fr-fr":
+            current_lang = "fr_FR"
+        if lang == "fr-ca":
+            current_lang = "fr_CA"
+        if lang == "es-es":
+            current_lang = "es"
+        if lang == "es-mx":
+            current_lang = "es_LA"
+        foreign_text = weapon_wiki_soup.find_all(lang=lang)
+        if foreign_text:
+            for text_element in foreign_text:
+                try:
+                    if text_element["class"] == "interlanguage-link-target":
+                        pass
+                except:
+                    main_config["character_to_codename"][weapon_name]["locale"][current_lang] = text_element.text.split("[")[0]
+
+    if (main_config["character_to_codename"][weapon_name]["locale"].get("zh_TW")) and not (main_config["character_to_codename"][weapon_name]["locale"].get("zh_CN")):
+        main_config["character_to_codename"][weapon_name]["locale"]["zh_CN"] = chinese_converter.to_simplified(main_config["character_to_codename"][weapon_name]["locale"].get("zh_TW"))
+
+    if (main_config["character_to_codename"][weapon_name]["locale"].get("zh_CN")) and not (main_config["character_to_codename"][weapon_name]["locale"].get("zh_TW")):
+        main_config["character_to_codename"][weapon_name]["locale"]["zh_TW"] = chinese_converter.to_traditional(main_config["character_to_codename"][weapon_name]["locale"].get("zh_CN"))
+
 
     for line in weapon_body_lines:
         if f'title="{weapon_name}"' in str(line):
@@ -214,5 +305,41 @@ for weapon_name in weapon_list.keys():
         icon_file = robust_request(special_image_link)
         f.write(icon_file.content)
 
+for stage_name in main_config["stage_to_codename"]:
+    main_config["stage_to_codename"][stage_name]["locale"] = {}
+
+    weapon_wiki = f"https://splatoonwiki.org/wiki/{stage_name.replace(' ', '_')}"
+    weapon_wiki_page = robust_request(weapon_wiki, timeout=30)
+    weapon_wiki_content = weapon_wiki_page.text
+    weapon_wiki_soup = BS(weapon_wiki_content, features="html.parser")
+
+    for lang in lang_list:
+        current_lang = lang
+        if lang == "zh-cmn-Hant":
+            current_lang = "zh_TW"
+        if lang == "zh-cmn-Hans":
+            current_lang = "zh_CN"
+        if lang == "fr-fr":
+            current_lang = "fr_FR"
+        if lang == "fr-ca":
+            current_lang = "fr_CA"
+        if lang == "es-es":
+            current_lang = "es"
+        if lang == "es-mx":
+            current_lang = "es_LA"
+        foreign_text = weapon_wiki_soup.find_all(lang=lang)
+        if foreign_text:
+            for text_element in foreign_text:
+                try:
+                    if text_element["class"] == "interlanguage-link-target":
+                        pass
+                except:
+                    main_config["stage_to_codename"][stage_name]["locale"][current_lang] = text_element.text.split("[")[0]
+
+    if (main_config["stage_to_codename"][stage_name]["locale"].get("zh_TW")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("zh_CN")):
+        main_config["stage_to_codename"][stage_name]["locale"]["zh_CN"] = chinese_converter.to_simplified(main_config["stage_to_codename"][stage_name]["locale"].get("zh_TW"))
+
+    if (main_config["stage_to_codename"][stage_name]["locale"].get("zh_CN")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("zh_TW")):
+        main_config["stage_to_codename"][stage_name]["locale"]["zh_TW"] = chinese_converter.to_traditional(main_config["stage_to_codename"][stage_name]["locale"].get("zh_CN"))
 
 write_configs(main_config)

@@ -169,7 +169,7 @@ def write_configs(config_dict):
         "version": "1.0",
         "description": "Sub weapon icons",
         "prefix": "sub_",
-        "postfix": "",
+        "postfix": "_",
         "type": [
             "sub"
         ],
@@ -184,7 +184,7 @@ def write_configs(config_dict):
         "version": "1.0",
         "description": "Special icons",
         "prefix": "spe_",
-        "postfix": "",
+        "postfix": "_",
         "type": [
             "special"
         ],

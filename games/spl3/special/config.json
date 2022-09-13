@@ -1,9 +1,9 @@
 {
   "name": "Special Icons",
-  "version": "1.0",
+  "version": "1.01",
   "description": "Special icons",
   "prefix": "spe_",
-  "postfix": "",
+  "postfix": "_",
   "type": [
     "special"
   ],

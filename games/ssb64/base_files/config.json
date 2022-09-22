@@ -506,7 +506,23 @@
     },
     "Sheik": {
       "smashgg_name": "Sheik",
-      "codename": "sheik"
+      "codename": "sheik",
+      "locale": {
+        "ja": "\u30b7\u30fc\u30af",
+        "en_GB": "Sheik",
+        "en_AU": "Sheik",
+        "fr": "Sheik",
+        "fr_CA": "Sheik",
+        "es": "Sheik",
+        "es_LA": "Sheik",
+        "de": "Shiek",
+        "it": "Sheik",
+        "nl": "Sheik",
+        "ru": "\u0428\u0435\u0439\u043a",
+        "ko": "\uc2dc\ud06c",
+        "zh_TW": "\u5e0c\u514b",
+        "zh_CN": "\u5e0c\u514b"
+      }
     },
     "Random": {
       "smashgg_name": "Random Character",
@@ -854,6 +870,6 @@
       "codename": "norfair_sr"
     }
   },
-  "version": "1.21",
+  "version": "1.22",
   "description": "Base config to use this game."
 }

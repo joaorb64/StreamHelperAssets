@@ -1,0 +1,44 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Asha": {
+      "codename": "Asha"
+    },
+    "Business Casual Man": {
+      "codename": "BusinessCasualMan"
+    },
+    "Cruiser Tetron": {
+      "codename": "CruiserTetron"
+    },
+    "Frallan": {
+      "codename": "Frallan"
+    },
+    "Goddess of Explosions": {
+      "codename": "GoddessofExplosions"
+    },
+    "Ittle Dew": {
+      "codename": "IttleDew"
+    },
+    "Jenny Fox": {
+      "codename": "JennyFox"
+    },
+    "Masked Ruby": {
+      "codename": "MaskedRuby"
+    },
+    "Orka": {
+      "codename": "Orka"
+    },
+    "Princess Remedy": {
+      "codename": "PrincessRemedy"
+    },
+    "Ultra Fishbunjin 3000": {
+      "codename": "UltraFishbunjin3000"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Slap City",
+  "smashgg_game_id": 1969,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

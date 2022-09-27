@@ -1,0 +1,95 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Amakusa": {
+      "codename": "Amakusa"
+    },
+    "Basara": {
+      "codename": "Basara"
+    },
+    "Charlotte": {
+      "codename": "Charlotte"
+    },
+    "Enja": {
+      "codename": "Enja"
+    },
+    "Gaira": {
+      "codename": "Gaira"
+    },
+    "Galford": {
+      "codename": "Galford"
+    },
+    "Gaoh": {
+      "codename": "Gaoh"
+    },
+    "Genjuro": {
+      "codename": "Genjuro"
+    },
+    "Hanzo": {
+      "codename": "Hanzo"
+    },
+    "Haohmaru": {
+      "codename": "Haohmaru"
+    },
+    "Jubei": {
+      "codename": "Jubei"
+    },
+    "Kazuki": {
+      "codename": "Kazuki"
+    },
+    "Kusaregedo": {
+      "codename": "Kusaregedo"
+    },
+    "Kyoshiro": {
+      "codename": "Kyoshiro"
+    },
+    "Mina": {
+      "codename": "Mina"
+    },
+    "Mizuki": {
+      "codename": "Mizuki"
+    },
+    "Nakoruru": {
+      "codename": "Nakoruru"
+    },
+    "Rasetsumaru": {
+      "codename": "Rasetsumaru"
+    },
+    "Rera": {
+      "codename": "Rera"
+    },
+    "Rimururu": {
+      "codename": "Rimururu"
+    },
+    "Shizumaru": {
+      "codename": "Shizumaru"
+    },
+    "Sogetsu": {
+      "codename": "Sogetsu"
+    },
+    "Suija": {
+      "codename": "Suija"
+    },
+    "Tam Tam": {
+      "codename": "TamTam"
+    },
+    "Ukyo": {
+      "codename": "Ukyo"
+    },
+    "Yoshitora": {
+      "codename": "Yoshitora"
+    },
+    "Yunfei": {
+      "codename": "Yunfei"
+    },
+    "Zankuro": {
+      "codename": "Zankuro"
+    }
+  },
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Samurai_Shodown_V_Special)",
+  "description": "Base config to use this game.",
+  "name": "Samurai Shodown V Special",
+  "smashgg_game_id": 21388,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

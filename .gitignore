@@ -24,3 +24,5 @@ utilities/generate_sound_pack/archive/*
 games/*/sound.json
 utilities/vf4_fix_alpha/*.png
 utilities/get_icons_from_inkipedia/spl3/*
+utilities/convert_webp_to_png/out/*
+utilities/convert_webp_to_png/source/*

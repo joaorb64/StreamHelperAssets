@@ -1,0 +1,147 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Amakusa Shiro Tokisada": {
+      "codename": "AmakusaShiroTokisada"
+    },
+    "Andrew": {
+      "codename": "Andrew"
+    },
+    "Basara Kubikiri": {
+      "codename": "BasaraKubikiri"
+    },
+    "Galford (Rasetsu)": {
+      "codename": "BustGalford"
+    },
+    "Cham Cham": {
+      "codename": "ChamCham"
+    },
+    "Charlotte Christine de Colde": {
+      "codename": "CharlotteChristineColde"
+    },
+    "Demon Gaoh": {
+      "codename": "DemonGaoh"
+    },
+    "Kyougoku Hinowanokami Gaoh": {
+      "codename": "Gaoh"
+    },
+    "Purple Nakoruru": {
+      "codename": "EXNakoruru"
+    },
+    "Earthquake": {
+      "codename": "Earthquake"
+    },
+    "Enja": {
+      "codename": "Enja"
+    },
+    "Gaira Caffeine": {
+      "codename": "GairaCaffeine"
+    },
+    "Galford D. Weller": {
+      "codename": "GalfordDWeller"
+    },
+    "Gen-an Shiranui": {
+      "codename": "GenanShiranui"
+    },
+    "Genjuro Kibagami": {
+      "codename": "GenjuroKibagami"
+    },
+    "Hanzo Hattori": {
+      "codename": "HanzoHattori"
+    },
+    "Haohmaru": {
+      "codename": "Haohmaru"
+    },
+    "Iroha": {
+      "codename": "Iroha"
+    },
+    "Jubei Yagyu": {
+      "codename": "JubeiYagyu"
+    },
+    "Ocha-Maro Karakuri": {
+      "codename": "KarakuriOchaMaro"
+    },
+    "Kazuki Kazama": {
+      "codename": "KazukiKazama"
+    },
+    "Kim Ung Che": {
+      "codename": "KimUngChe"
+    },
+    "Kuroko": {
+      "codename": "Kuroko"
+    },
+    "Youkai Kusaregedo": {
+      "codename": "Kusaregedo"
+    },
+    "Kyoshiro Senryo": {
+      "codename": "KyoshiroSenryo"
+    },
+    "Mina Majikina": {
+      "codename": "MinaMajikina"
+    },
+    "Mizuki Rashojin": {
+      "codename": "MizukiRashojin"
+    },
+    "Nakoruru": {
+      "codename": "Nakoruru"
+    },
+    "Neinhalt Sieger": {
+      "codename": "NeinhaltSieger"
+    },
+    "Nicotine Caffeine": {
+      "codename": "NicotineCaffeine"
+    },
+    "Rasetsumaru": {
+      "codename": "Rasetsumaru"
+    },
+    "Rera": {
+      "codename": "Rera"
+    },
+    "Rimururu": {
+      "codename": "Rimururu"
+    },
+    "Sankuro Yorozu": {
+      "codename": "SankuroYorozu"
+    },
+    "Shizumaru Hisame": {
+      "codename": "ShizumaruHisame"
+    },
+    "Sogetsu Kazama": {
+      "codename": "SogetsuKazama"
+    },
+    "Sugoroku Matsuribayashi": {
+      "codename": "SugorokuMatsuribayashi"
+    },
+    "Suija": {
+      "codename": "Suija"
+    },
+    "Tam Tam": {
+      "codename": "TamTam"
+    },
+    "Ukyo Tachibana": {
+      "codename": "UkyoTachibana"
+    },
+    "Wan Fu": {
+      "codename": "WanFu"
+    },
+    "Yoshitora Tokugawa": {
+      "codename": "YoshitoraTokugawa"
+    },
+    "Yumeji Kurokouchi": {
+      "codename": "YumejiKurokouchi"
+    },
+    "Yunfei": {
+      "codename": "Yunfei"
+    },
+    "Zankuro Minazuki": {
+      "codename": "ZankuroMinazuki"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Samurai Shodown VI",
+  "smashgg_game_id": 14466,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {"ja": {"name": "サムライスピリッツ 天下一剣客伝"}}
+}

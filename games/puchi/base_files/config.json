@@ -1,0 +1,51 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aqua": {
+      "codename": "Aqua"
+    },
+    "By": {
+      "codename": "By"
+    },
+    "C-Mond": {
+      "codename": "CMond"
+    },
+    "Garnet": {
+      "codename": "Garnet"
+    },
+    "Opa": {
+      "codename": "Opa"
+    },
+    "Patrako": {
+      "codename": "Patrako"
+    },
+    "Paz": {
+      "codename": "Paz"
+    },
+    "Pearl & Dearl": {
+      "codename": "PearlDearl"
+    },
+    "Peridot": {
+      "codename": "Peridot"
+    },
+    "Rald": {
+      "codename": "Rald"
+    },
+    "Rquo": {
+      "codename": "Rquo"
+    },
+    "Sapphire": {
+      "codename": "Sapphire"
+    },
+    "Thyst": {
+      "codename": "Thyst"
+    }
+  },
+  "credits": "Assets ripped from https://randomhoohaas.flyingomelette.com/shr/puchi/",
+  "description": "Base config to use this game.",
+  "name": "Puchi Carat",
+  "smashgg_game_id": 15485,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {"ja": {"name": "プチカラット"}}
+}

@@ -1,10 +1,11 @@
 from PIL import Image
 import os
+from pathlib import Path
 
 source_dir = "source"
 out_dir = "out"
 
-os.mkdir(out_dir)
+Path(out_dir).mkdir(parents=True, exist_ok=True)
 
 list_webp = []
 for file in os.listdir(source_dir):

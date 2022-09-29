@@ -1,0 +1,67 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akuma": {
+      "codename": "Akuma"
+    },
+    "Arkane": {
+      "codename": "Arkane"
+    },
+    "Balrog": {
+      "codename": "Balrog"
+    },
+    "Blade": {
+      "codename": "Blade"
+    },
+    "Cammy": {
+      "codename": "Cammy"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "E. Honda": {
+      "codename": "EHonda"
+    },
+    "F7": {
+      "codename": "F7"
+    },
+    "Guile": {
+      "codename": "Guile"
+    },
+    "Ken": {
+      "codename": "Ken"
+    },
+    "Khyber": {
+      "codename": "Khyber"
+    },
+    "Bison": {
+      "codename": "MBison"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sagat": {
+      "codename": "Sagat"
+    },
+    "Sawada": {
+      "codename": "Sawada"
+    },
+    "Vega": {
+      "codename": "Vega"
+    },
+    "Zangief": {
+      "codename": "Zangief"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Street Fighter: The Movie (arcade game)",
+  "smashgg_game_id": 34457,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "ストリートファイター ザ・ムービー"
+    }
+  }
+}

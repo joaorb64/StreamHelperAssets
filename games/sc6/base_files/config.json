@@ -1,0 +1,115 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "2B (YoRHa No. 2 Type B)": {
+      "codename": "2B"
+    },
+    "Amy Sorel": {
+      "codename": "Amy"
+    },
+    "Astaroth": {
+      "codename": "Astaroth"
+    },
+    "Azwel": {
+      "codename": "Azwel"
+    },
+    "Cassandra Alexandra": {
+      "codename": "Cassandra"
+    },
+    "Cervantes de Leon": {
+      "codename": "Cervantes"
+    },
+    "Chai Xianghua": {
+      "codename": "Xianghua"
+    },
+    "Geralt of Rivia": {
+      "codename": "Geralt"
+    },
+    "Gr\u00f8h": {
+      "codename": "Groh"
+    },
+    "Haohmaru": {
+      "codename": "Haohmaru"
+    },
+    "Heishiro Mitsurugi": {
+      "codename": "Mitsurugi"
+    },
+    "Hildegard von Krone": {
+      "codename": "Hilde"
+    },
+    "Hwang Seong-gyeong": {
+      "codename": "Hwang"
+    },
+    "Inferno": {
+      "codename": "Inferno"
+    },
+    "Ivy Valentine": {
+      "codename": "Ivy"
+    },
+    "Kilik": {
+      "codename": "Kilik"
+    },
+    "Maxi": {
+      "codename": "Maxi"
+    },
+    "Nightmare": {
+      "codename": "Nightmare"
+    },
+    "Raphael Sorel": {
+      "codename": "Raphael"
+    },
+    "Seong Mi-na": {
+      "codename": "SeongMina"
+    },
+    "Setsuka": {
+      "codename": "Setsuka"
+    },
+    "Siegfried Schtauffen": {
+      "codename": "Siegfried"
+    },
+    "Sophitia Alexandra": {
+      "codename": "Sophitia"
+    },
+    "Taki": {
+      "codename": "Taki"
+    },
+    "Talim": {
+      "codename": "Talim"
+    },
+    "Tira": {
+      "codename": "Tira"
+    },
+    "Voldo": {
+      "codename": "Voldo"
+    },
+    "Yoshimitsu": {
+      "codename": "Yoshimitsu"
+    },
+    "Zasalamel": {
+      "codename": "Zasalamel"
+    },
+    "Random": {
+      "codename": "random",
+      "locale": {
+        "fr": "Al\u00e9atoire"
+      }
+    },
+    "Custom character": {
+      "codename": "creation",
+      "locale": {
+        "fr": "Personnage personnalisé"
+      }
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "SoulCalibur VI",
+  "smashgg_game_id": 904,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "\u30bd\u30a6\u30eb\u30ad\u30e3\u30ea\u30d0\u30fcVI"
+    }
+  }
+}

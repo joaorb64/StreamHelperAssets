@@ -148,10 +148,19 @@
     },
     "Orochi Chris": {
       "codename": "ChrisEX"
+    },
+    "Haohmaru": {
+      "codename": "Haohmaru"
+    },
+    "Nakoruru": {
+      "codename": "Nakoruru"
+    },
+    "Darli Dagger": {
+      "codename": "DarliDagger"
     }
   },
   "stage_to_codename": {},
-  "version": "1.41",
+  "version": "1.5",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

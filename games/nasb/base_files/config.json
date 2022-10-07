@@ -130,6 +130,9 @@
     },
     "Hugh Neutron": {
       "codename": "pie"
+    },
+    "Rocko Rama": {
+      "codename": "squirrel"
     }
   },
   "stage_to_codename": {
@@ -270,9 +273,12 @@
     },
     "Duck, Duck, Pie!": {
       "codename": "pie_abstract"
+    },
+    "Hardcore Chores": {
+      "codename": "squirrel_space"
     }
   },
-  "version": "1.71",
+  "version": "1.8",
   "description": "Base config to use this game.",
   "credits": ""
 }

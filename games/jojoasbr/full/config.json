@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.01",
+  "version": "1.1",
   "uncropped_edge": [
     "u",
     "d",
@@ -319,6 +319,12 @@
       "0": {
         "x": 510,
         "y": 176
+      }
+    },
+    "RisottoNero": {
+      "0": {
+        "x": 508,
+        "y": 134
       }
     }
   }

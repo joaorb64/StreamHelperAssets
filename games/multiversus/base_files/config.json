@@ -2,94 +2,116 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Arya Stark": {
-      "codename": "AryaStark"
+      "codename": "AryaStark",
+      "smashgg_name": "Arya Stark"
     },
     "Batman": {
-      "codename": "Batman"
+      "codename": "Batman",
+      "smashgg_name": "Batman"
     },
     "Bugs Bunny": {
-      "codename": "BugsBunny"
+      "codename": "BugsBunny",
+      "smashgg_name": "Bugs Bunny"
     },
     "Finn the Human": {
       "codename": "FinntheHuman",
       "locale": {
         "fr": "Finn l'Humain"
-      }
+      },
+      "smashgg_name": "Finn the Human"
     },
     "Garnet": {
-      "codename": "Garnet"
+      "codename": "Garnet",
+      "smashgg_name": "Garnet"
     },
     "Harley Quinn": {
-      "codename": "HarleyQuinn"
+      "codename": "HarleyQuinn",
+      "smashgg_name": "Harley Quinn"
     },
     "Jake the Dog": {
       "codename": "JaketheDog",
       "locale": {
         "fr": "Jake le Chien"
-      }
+      },
+      "smashgg_name": "Jake the Dog"
     },
     "Reindog": {
       "codename": "Reindog",
       "locale": {
         "fr": "Chien-Renne"
-      }
+      },
+      "smashgg_name": "Reindog"
     },
     "Shaggy Rogers": {
       "codename": "Shaggy",
       "locale": {
         "fr": "Sammy Rogers"
-      }
+      },
+      "smashgg_name": "Shaggy"
     },
     "Steven Universe": {
-      "codename": "StevenUniverse"
+      "codename": "StevenUniverse",
+      "smashgg_name": "Steven Universe"
     },
     "Superman": {
-      "codename": "Superman"
+      "codename": "Superman",
+      "smashgg_name": "Superman"
     },
     "Tom and Jerry": {
       "codename": "TomandJerry",
+      "smashgg_name": "Tom and Jerry",
       "locale": {
         "fr": "Tom et Jerry"
       }
     },
     "Wonder Woman": {
-      "codename": "WonderWoman"
+      "codename": "WonderWoman",
+      "smashgg_name": "Wonder Woman"
     },
     "The Iron Giant": {
       "codename": "IronGiant",
       "locale": {
         "fr": "Le G\u00e9ant de Fer"
-      }
+      },
+      "smashgg_name": "The Iron Giant"
     },
     "The Tasmanian Devil": {
       "codename": "Taz",
       "locale": {
         "fr": "Taz"
-      }
+      },
+      "smashgg_name": "Taz"
     },
     "Velma Dinkley": {
       "codename": "Velma",
       "locale": {
         "fr": "V\u00e9ra Dinkley"
-      }
+      },
+      "smashgg_name": "Velma"
     },
     "LeBron James": {
-      "codename": "Lebron"
+      "codename": "Lebron",
+      "smashgg_name": "Lebron"
     },
     "Rick Sanchez": {
-      "codename": "Rick"
+      "codename": "Rick",
+      "smashgg_name": "Rick"
     },
     "Morty Smith": {
-      "codename": "Morty"
+      "codename": "Morty",
+      "smashgg_name": "Morty"
     },
     "Black Adam": {
-      "codename": "BlackAdam"
+      "codename": "BlackAdam",
+      "smashgg_name": "Black Adam"
     },
     "Stripe": {
-      "codename": "Stripe"
+      "codename": "Stripe",
+      "smashgg_name": "Stripe"
     },
     "Gizmo": {
-      "codename": "Gizmo"
+      "codename": "Gizmo",
+      "smashgg_name": "Gizmo"
     }
   },
   "credits": "",
@@ -97,5 +119,5 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "0.5"
+  "version": "0.51"
 }

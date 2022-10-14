@@ -775,6 +775,23 @@
         "es_LA": "Paratintas Discreto",
         "fr": "Para-encre espion"
       }
+    },
+    "Hero Shot Replica": {
+      "codename": "HeroShotReplica",
+      "locale": {
+        "ja": "\u30d2\u30fc\u30ed\u30fc\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab",
+        "ko": "\ud788\uc5b4\ub85c \uc288\ud130 \ub808\ud50c\ub9ac\uce74",
+        "zh_TW": "\u82f1\u96c4\u5c04\u64ca\u69cd \u8907\u88fd",
+        "zh_CN": "\u82f1\u96c4\u5c04\u51fb\u67aa \u590d\u5236",
+        "ru": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b-004 (\u043a\u043b\u043e\u043d) (Splatoon 2)Kaplestrel-004 (klon)\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u0433\u0435\u0440\u043e\u044f (\u043a\u043b\u043e\u043d) (Splatoon 3)Kaplestrel geroya (klon)",
+        "nl": "Heldenspetter (replica)",
+        "de": "Heldenwaffe Replik",
+        "it": "Pistola \u00e9lite replica",
+        "fr_CA": "Liqu\u00e9fi. h\u00e9ro\u00efque (r\u00e9p.)",
+        "es": "Pistola de \u00c9lite (r\u00e9plica)",
+        "es_LA": "Rociador de \u00e9lite r\u00e9plica",
+        "fr": "Lanceur h\u00e9ro\u00efque (r\u00e9plique)"
+      }
     }
   },
   "stage_to_codename": {
@@ -963,7 +980,7 @@
       }
     }
   },
-  "version": "1.0",
+  "version": "1.1",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {

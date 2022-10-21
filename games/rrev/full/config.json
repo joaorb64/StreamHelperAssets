@@ -1,83 +1,83 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
+  "name": "Artwork",
+  "description": "Full body Artwork",
   "prefix": "full_",
   "postfix": "_",
   "type": [
     "full"
   ],
-  "credits": "Assets extracted from https://github.com/Wokanoga/Rushdown-Revolt-Stream-Tool/tree/main/Stream%20Tool/Resources/Characters",
+  "credits": "",
   "version": "1.12",
   "eyesights": {
-    "AfiGalu": {
+    "afigalu": {
       "0": {
         "x": 544,
         "y": 1159
       }
     },
-    "Ashani": {
+    "ashani": {
       "0": {
         "x": 722,
         "y": 418
       }
     },
-    "Ezzie": {
+    "ezzie": {
       "0": {
         "x": 621,
         "y": 732
       }
     },
-    "Kidd": {
-      "0": {
+    "kidd": {
+      "00": {
         "x": 536,
         "y": 403
       }
     },
-    "Raymer": {
+    "raymer": {
       "0": {
         "x": 444,
         "y": 574
       }
     },
-    "Urdah": {
+    "urdah": {
       "0": {
         "x": 801,
         "y": 355
       }
     },
-    "Weishan": {
+    "weishan": {
       "0": {
         "x": 1915,
-        "y": 873
+        "y": 673
       },
       "2": {
         "x": 753,
         "y": 1042
       }
     },
-    "Zhurong": {
+    "zhurong": {
       "0": {
         "x": 577,
         "y": 448
       }
     },
-    "Seth": {
+    "seth": {
       "0": {
         "x": 1584,
         "y": 352
       },
       "1": {
-        "x": 1178,
+        "x": 1778,
         "y": 405
       }
     },
-    "Velora": {
+    "velora": {
       "0": {
         "x": 612,
         "y": 348
       }
     },
-    "Reina": {
+    "reina": {
       "0": {
         "x": 532,
         "y": 452

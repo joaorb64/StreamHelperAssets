@@ -2,37 +2,40 @@
   "challonge_game_id": 212835,
   "character_to_codename": {
     "Afi & Galu": {
-      "codename": "AfiGalu"
+      "codename": "afigalu"
     },
     "Ashani": {
-      "codename": "Ashani"
+      "codename": "ashani"
     },
     "Ezzie": {
-      "codename": "Ezzie"
+      "codename": "ezzie"
     },
     "Kidd": {
-      "codename": "Kidd"
+      "codename": "kidd"
     },
     "Raymer": {
-      "codename": "Raymer"
+      "codename": "raymer"
     },
     "Urdah": {
-      "codename": "Urdah"
+      "codename": "urdah"
     },
     "Weishan": {
-      "codename": "Weishan"
+      "codename": "weishan"
     },
     "Zhurong": {
-      "codename": "Zhurong"
+      "codename": "zhurong"
     },
     "Seth": {
-      "codename": "Seth"
+      "codename": "seth"
     },
     "Velora": {
-      "codename": "Velora"
+      "codename": "velora"
     },
     "Random": {
-      "codename": "Random"
+      "codename": "random"
+    },
+    "Reina": {
+      "codename": "reina"
     }
   },
   "credits": "",
@@ -40,5 +43,5 @@
   "name": "Rushdown Revolt",
   "smashgg_game_id": 34863,
   "stage_to_codename": {},
-  "version": "1.11"
+  "version": "1.2"
 }

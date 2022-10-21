@@ -1,0 +1,10 @@
+{
+  "name": "Portraits",
+  "description": "Character select portraits",
+  "prefix": "portrait-",
+  "postfix": "_",
+  "type": [
+    "portrait"
+  ],
+  "version": "1.2"
+}

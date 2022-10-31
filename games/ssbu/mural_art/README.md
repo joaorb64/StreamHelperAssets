@@ -2,12 +2,11 @@
 
 ## Description: 
 
-Character arts painted by hand.
+Character arts painted by hand, resized to maintain consistency between characters.
 
 ## Credits: 
 
 - @ElevenZM - original mural arts isolation.
-- @MuralAltDrive - alternate costumes.
-- @joao_shino - crops.
-- @kekwel_ssb - alternate costumes crops.
+- @MuralAltDrive - alternate costumes, restoration.
+- @kekwel_ssb, @joao_shino - eyesights, resizing.
 

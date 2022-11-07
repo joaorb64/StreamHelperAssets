@@ -1,8 +1,8 @@
-# Fuller
+# Website
 
 ## Description: 
 
-Character portraits ripped from the game's website. Full body renders.
+Character renders from the game's website. Full body renders with baked shadows.
 
 ## Credits: 
 

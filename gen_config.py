@@ -68,7 +68,7 @@ for game in games:
 
                 if modified:
                     _zip = subprocess.Popen([
-                        "7z", "-r", "a",
+                        "7z", "-m0=lzma2", "-mx=9", "-mfb=64", "-md=1024m", "-ms=on", "-r", "a",
                         "./games/"+game+"/"+game+"."+assetDir+".7z",
                         "./games/"+game+"/"+assetDir
                     ])

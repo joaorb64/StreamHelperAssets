@@ -134,7 +134,7 @@ def convert_weapon_thumb_link_to_image_link(weapon_link):
     return(weapon_link)
 
 
-def write_configs(config_dict):
+def write_configs(config_dict, sub_names, special_names):
     with open(f"{base_files_path}/config.json", "wt", encoding="utf-8") as f:
         f.write(json.dumps(config_dict, indent=2))
 
@@ -173,7 +173,8 @@ def write_configs(config_dict):
         "type": [
             "sub"
         ],
-        "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)"
+        "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
+        "extra_data": [sub_names]
     }
 
     with open(f"{sub_path}/config.json", "wt", encoding="utf-8") as f:
@@ -188,7 +189,8 @@ def write_configs(config_dict):
         "type": [
             "special"
         ],
-        "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)"
+        "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
+        "extra_data": [special_names]
     }
 
     with open(f"{special_path}/config.json", "wt", encoding="utf-8") as f:
@@ -217,6 +219,20 @@ for table in weapon_tables:
 weapon_body_images = weapon_body_tag.findAll('img')
 
 weapon_list = {}
+sub_names = {
+    "title": "Sub weapon",
+    "locale": {
+        "fr": "Arme secondaire"
+    },
+    "values": {}
+}
+special_names = {
+    "title": "Special weapon",
+    "locale": {
+        "fr": "Arme spéciale"
+    },
+    "values": {}
+}
 
 for image_tag in weapon_body_images:
     if "S3_Weapon_Main" in image_tag["src"]:
@@ -296,9 +312,11 @@ for weapon_name in weapon_list.keys():
                 if "Weapon Sub" in image_tag["alt"]:
                     sub_image_link = convert_weapon_thumb_link_to_image_link(
                         image_tag["src"])
+                    sub_name = (image_tag["alt"].replace("S3 Weapon Sub ", "")).replace(" Flat.png", "")
                 if "Weapon Special" in image_tag["alt"]:
                     special_image_link = convert_weapon_thumb_link_to_image_link(
                         image_tag["src"])
+                    special_name = (image_tag["alt"].replace("S3 Weapon Special ", "")).replace(".png", "")
             break
 
     sub_filename = f"sub_{weapon_codename}_0.png"
@@ -309,6 +327,98 @@ for weapon_name in weapon_list.keys():
     with open(f"{special_path}/{special_filename}", "wb") as f:
         icon_file = robust_request(special_image_link)
         f.write(icon_file.content)
+
+    # Parsing sub names
+    sub_names["values"][weapon_codename] = {"value": sub_name, "locale": {}}
+
+    sub_wiki = f"https://splatoonwiki.org/wiki/{sub_name.replace(' ', '_')}"
+    sub_wiki_page = robust_request(sub_wiki, timeout=30)
+    sub_wiki_content = sub_wiki_page.text
+    sub_wiki_soup = BS(sub_wiki_content, features="html.parser")
+    
+    for lang in lang_list:
+        current_lang = lang
+        if lang == "zh-cmn-Hant":
+            current_lang = "zh_TW"
+        if lang == "zh-cmn-Hans":
+            current_lang = "zh_CN"
+        if lang == "fr-fr":
+            current_lang = "fr"
+        if lang == "fr-ca":
+            current_lang = "fr_CA"
+        if lang == "es-es":
+            current_lang = "es"
+        if lang == "es-mx":
+            current_lang = "es_LA"
+        foreign_text = sub_wiki_soup.find_all(lang=lang)
+        if foreign_text:
+            for text_element in foreign_text:
+                try:
+                    if text_element["class"] == "interlanguage-link-target":
+                        pass
+                except:
+                    sub_names["values"][weapon_codename]["locale"][current_lang] = text_element.text.split("[")[0]
+    if (sub_names["values"][weapon_codename]["locale"].get("zh_TW")) and not (sub_names["values"][weapon_codename]["locale"].get("zh_CN")):
+        sub_names["values"][weapon_codename]["locale"]["zh_CN"] = chinese_converter.to_simplified(sub_names["values"][weapon_codename]["locale"].get("zh_TW"))
+
+    if (sub_names["values"][weapon_codename]["locale"].get("zh_CN")) and not (sub_names["values"][weapon_codename]["locale"].get("zh_TW")):
+       sub_names["values"][weapon_codename]["locale"]["zh_TW"] = chinese_converter.to_traditional(sub_names["values"][weapon_codename]["locale"].get("zh_CN"))
+
+    if (sub_names["values"][weapon_codename]["locale"].get("fr_CA")) and not (sub_names["values"][weapon_codename]["locale"].get("fr")):
+        sub_names["values"][weapon_codename]["locale"]["fr"] = sub_names["values"][weapon_codename]["locale"].get("fr_CA")
+    
+    if (sub_names["values"][weapon_codename]["locale"].get("es_LA")) and not (sub_names["values"][weapon_codename]["locale"].get("es")):
+        sub_names["values"][weapon_codename]["locale"]["es"] = sub_names["values"][weapon_codename]["locale"].get("es_LA")
+
+    # Parsing special names
+    special_names["values"][weapon_codename] = {"value": special_name, "locale": {}}
+
+    special_wiki = f"https://splatoonwiki.org/wiki/{special_name.replace(' ', '_')}"
+    special_wiki_page = robust_request(special_wiki, timeout=30)
+    special_wiki_content = special_wiki_page.text
+    special_wiki_soup = BS(special_wiki_content, features="html.parser")
+    
+    for lang in lang_list:
+        current_lang = lang
+        if lang == "zh-cmn-Hant":
+            current_lang = "zh_TW"
+        if lang == "zh-cmn-Hans":
+            current_lang = "zh_CN"
+        if lang == "fr-fr":
+            current_lang = "fr"
+        if lang == "fr-ca":
+            current_lang = "fr_CA"
+        if lang == "es-es":
+            current_lang = "es"
+        if lang == "es-mx":
+            current_lang = "es_LA"
+        foreign_text = special_wiki_soup.find_all(lang=lang)
+        if foreign_text:
+            for text_element in foreign_text:
+                try:
+                    if text_element["class"] == "interlanguage-link-target":
+                        pass
+                except:
+                    value_valid = True
+                    for value in ["Thank you!", "Spritzig!", "¡Gracias!"]:
+                        if value in text_element:
+                            value_valid = False
+                    if value_valid:
+                        special_names["values"][weapon_codename]["locale"][current_lang] = text_element.text.split("[")[0]
+    if (special_names["values"][weapon_codename]["locale"].get("zh_TW")) and not (special_names["values"][weapon_codename]["locale"].get("zh_CN")):
+        special_names["values"][weapon_codename]["locale"]["zh_CN"] = chinese_converter.to_simplified(special_names["values"][weapon_codename]["locale"].get("zh_TW"))
+
+    if (special_names["values"][weapon_codename]["locale"].get("zh_CN")) and not (special_names["values"][weapon_codename]["locale"].get("zh_TW")):
+       special_names["values"][weapon_codename]["locale"]["zh_TW"] = chinese_converter.to_traditional(special_names["values"][weapon_codename]["locale"].get("zh_CN"))
+
+    if (special_names["values"][weapon_codename]["locale"].get("fr_CA")) and not (special_names["values"][weapon_codename]["locale"].get("fr")):
+        special_names["values"][weapon_codename]["locale"]["fr"] = special_names["values"][weapon_codename]["locale"].get("fr_CA")
+    
+    if (special_names["values"][weapon_codename]["locale"].get("es_LA")) and not (special_names["values"][weapon_codename]["locale"].get("es")):
+        special_names["values"][weapon_codename]["locale"]["es"] = special_names["values"][weapon_codename]["locale"].get("es_LA")
+
+    print(json.dumps(sub_names["values"][weapon_codename], indent=2))
+    print(json.dumps(special_names["values"][weapon_codename], indent=2))
 
 for stage_name in main_config["stage_to_codename"]:
     main_config["stage_to_codename"][stage_name]["locale"] = {}
@@ -353,4 +463,4 @@ for stage_name in main_config["stage_to_codename"]:
     if (main_config["stage_to_codename"][stage_name]["locale"].get("es_LA")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("es")):
         main_config["stage_to_codename"][stage_name]["locale"]["es"] = main_config["stage_to_codename"][stage_name]["locale"].get("es_LA")
     
-write_configs(main_config)
+write_configs(main_config, sub_names, special_names)

@@ -8,8 +8,8 @@
     "sub"
   ],
   "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
-  "extra_data": [
-    {
+  "extra_data": {
+    "sub_name": {
       "title": "Sub weapon",
       "locale": {
         "fr": "Arme secondaire"
@@ -871,11 +871,11 @@
         }
       }
     }
-  ],
+  },
   "uncropped_edge": [
-      "u",
-      "d",
-      "l",
-      "r"
+    "u",
+    "d",
+    "l",
+    "r"
   ]
 }

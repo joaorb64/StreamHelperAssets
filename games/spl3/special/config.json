@@ -8,8 +8,8 @@
     "special"
   ],
   "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
-  "extra_data": [
-    {
+  "extra_data": {
+    "spe_name": {
       "title": "Special weapon",
       "locale": {
         "fr": "Arme sp\u00e9ciale"
@@ -848,11 +848,11 @@
         }
       }
     }
-  ],
+  },
   "uncropped_edge": [
-      "u",
-      "d",
-      "l",
-      "r"
+    "u",
+    "d",
+    "l",
+    "r"
   ]
 }

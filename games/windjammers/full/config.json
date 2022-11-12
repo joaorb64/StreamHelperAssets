@@ -7,5 +7,11 @@
     "full"
   ],
   "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.1"
+  "version": "1.12",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

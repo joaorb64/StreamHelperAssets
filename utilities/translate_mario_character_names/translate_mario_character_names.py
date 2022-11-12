@@ -5,7 +5,7 @@ from copy import deepcopy
 list_games_to_translate = ["sms", "msc", "msbl", "mkwii", "mk64", "mk8dx", "msb", "mta"]
 exclude_locale = ["en_US"]
 convert_locale = {"SC": "zh_CN", "TC": "zh_TW", "fr_FR": "fr",
-                  "de_DE": "de", "it_IT": "it", "nl_NL": "nl", "ru_RU": "ru", "ko_KR": "ko", "ja_JP": "ja"}
+                  "de_DE": "de", "it_IT": "it", "nl_NL": "nl", "ru_RU": "ru", "ko_KR": "ko", "ja_JP": "ja", "es_ES": "es"}
 
 with open("./source.json", 'rt', encoding='utf-8') as fighter_database_file:
     fighter_database_text = fighter_database_file.read()

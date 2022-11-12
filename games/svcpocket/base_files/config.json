@@ -1,0 +1,89 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akari": {
+      "codename": "25"
+    },
+    "Akuma": {
+      "codename": "24"
+    },
+    "Athena": {
+      "codename": "26"
+    },
+    "B.B.Hood": {
+      "codename": "30"
+    },
+    "Chun-Li": {
+      "codename": "12"
+    },
+    "Dan": {
+      "codename": "29"
+    },
+    "Evil Ryu": {
+      "codename": "42"
+    },
+    "Felicia": {
+      "codename": "18"
+    },
+    "Geese": {
+      "codename": "31"
+    },
+    "Guile": {
+      "codename": "35"
+    },
+    "Haomaru": {
+      "codename": "14"
+    },
+    "Iori": {
+      "codename": "07"
+    },
+    "Ken": {
+      "codename": "05"
+    },
+    "Kyo": {
+      "codename": "01"
+    },
+    "Leona": {
+      "codename": "32"
+    },
+    "M.Bison": {
+      "codename": "36"
+    },
+    "Mai": {
+      "codename": "13"
+    },
+    "Morrigan": {
+      "codename": "11"
+    },
+    "Nakoruru": {
+      "codename": "20"
+    },
+    "Orochi Iori": {
+      "codename": "37"
+    },
+    "Ryo": {
+      "codename": "08"
+    },
+    "Ryu": {
+      "codename": "06"
+    },
+    "Sakura": {
+      "codename": "23"
+    },
+    "Terry": {
+      "codename": "02"
+    },
+    "Yuri": {
+      "codename": "19"
+    },
+    "Zangief": {
+      "codename": "17"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "SNK vs. Capcom: The Match of the Millennium",
+  "smashgg_game_id": 40386,
+  "stage_to_codename": {},
+  "version": "1.01"
+}

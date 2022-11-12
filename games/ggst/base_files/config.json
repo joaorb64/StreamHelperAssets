@@ -5,89 +5,155 @@
   "character_to_codename": {
     "Anji Mito": {
       "smashgg_name": "Anji",
-      "codename": "Anji"
+      "codename": "Anji",
+      "locale": {
+        "ja": "\u5fa1\u6d25 \u95c7\u6148"
+      }
     },
     "Axl Low": {
       "smashgg_name": "Axl",
-      "codename": "Axl"
+      "codename": "Axl",
+      "locale": {
+        "ja": "\u30a2\u30af\u30bb\u30eb\uff1d\u30ed\u30a6"
+      }
     },
     "Chipp Zanuff": {
       "smashgg_name": "Chipp",
-      "codename": "Chipp"
+      "codename": "Chipp",
+      "locale": {
+        "ja": "\u30c1\u30c3\u30d7\uff1d\u30b6\u30ca\u30d5"
+      }
     },
     "Faust": {
       "smashgg_name": "Faust",
-      "codename": "Faust"
+      "codename": "Faust",
+      "locale": {
+        "ja": "\u30d5\u30a1\u30a6\u30b9\u30c8"
+      }
     },
     "Giovanna": {
       "smashgg_name": "Giovanna",
-      "codename": "Giovanna"
+      "codename": "Giovanna",
+      "locale": {
+        "ja": "\u30b8\u30aa\u30f4\u30a1\u30fc\u30ca"
+      }
     },
     "I-No": {
       "smashgg_name": "I-No",
-      "codename": "I-No"
+      "codename": "I-No",
+      "locale": {
+        "ja": "\u30a4\u30ce"
+      }
     },
     "Ky Kiske": {
       "smashgg_name": "Ky",
-      "codename": "Ky"
+      "codename": "Ky",
+      "locale": {
+        "ja": "\u30ab\u30a4\uff1d\u30ad\u30b9\u30af"
+      }
     },
     "Leo Whitefang": {
       "smashgg_name": "Leo",
-      "codename": "Leo"
+      "codename": "Leo",
+      "locale": {
+        "ja": "\u30ec\u30aa\uff1d\u30db\u30ef\u30a4\u30c8\u30d5\u30a1\u30f3\u30b0"
+      }
     },
     "May": {
       "smashgg_name": "May",
-      "codename": "May"
+      "codename": "May",
+      "locale": {
+        "ja": "\u30e1\u30a4"
+      }
     },
     "Millia Rage": {
       "smashgg_name": "Millia",
-      "codename": "Millia"
+      "codename": "Millia",
+      "locale": {
+        "ja": "\u30df\u30ea\u30a2\uff1d\u30ec\u30a4\u30b8"
+      }
     },
     "Nagoriyuki": {
       "smashgg_name": "Nagoriyuki",
-      "codename": "Nagoriyuki"
+      "codename": "Nagoriyuki",
+      "locale": {
+        "ja": "\u540d\u6b8b\u96ea"
+      }
     },
     "Potemkin": {
       "smashgg_name": "Potemkin",
-      "codename": "Potemkin"
+      "codename": "Potemkin",
+      "locale": {
+        "ja": "\u30dd\u30c1\u30e7\u30e0\u30ad\u30f3"
+      }
     },
     "Ramlethal Valentine": {
       "smashgg_name": "Ramlethal",
-      "codename": "Ramlethal"
+      "codename": "Ramlethal",
+      "locale": {
+        "ja": "\u30e9\u30e0\u30ec\u30b6\u30eb\uff1d\u30f4\u30a1\u30ec\u30f3\u30bf\u30a4\u30f3"
+      }
     },
     "Sol Badguy": {
       "smashgg_name": "Sol",
-      "codename": "Sol"
+      "codename": "Sol",
+      "locale": {
+        "ja": "\u30bd\u30eb\uff1d\u30d0\u30c3\u30c9\u30ac\u30a4"
+      }
     },
-    "Zato-1": {
+    "Zato=1": {
       "smashgg_name": "Zato",
-      "codename": "Zato"
+      "codename": "Zato",
+      "locale": {
+        "ja": "\u30b6\u30c8\u30fc\uff1d\uff2f\uff2e\uff25"
+      }
     },
     "Goldlewis Dickenson": {
       "smashgg_name": "Goldlewis",
-      "codename": "Goldlewis"
+      "codename": "Goldlewis",
+      "locale": {
+        "ja": "\u30b4\u30fc\u30eb\u30c9\u30eb\u30a4\u30b9\uff1d\u30c7\u30a3\u30ad\u30f3\u30bd\u30f3"
+      }
     },
     "Jack-O'": {
       "smashgg_name": "Jack-O",
-      "codename": "Jack-O"
+      "codename": "Jack-O",
+      "locale": {
+        "ja": "\u30b8\u30e3\u30c3\u30af\u30fb\u30aa\u30fc\uff1d\u30f4\u30a1\u30ec\u30f3\u30bf\u30a4\u30f3"
+      }
     },
     "Happy Chaos": {
-      "codename": "HappyChaos"
+      "codename": "HappyChaos",
+      "locale": {
+        "ja": "\u30cf\u30c3\u30d4\u30fc\u30b1\u30a4\u30aa\u30b9"
+      }
     },
     "Baiken": {
-      "codename": "Baiken"
+      "codename": "Baiken",
+      "locale": {
+        "ja": "\u6885\u55a7"
+      }
     },
     "Testament": {
-      "codename": "Testament"
+      "codename": "Testament",
+      "locale": {
+        "ja": "\u30c6\u30b9\u30bf\u30e1\u30f3\u30c8"
+      }
+    },
+    "Bridget": {
+      "codename": "Bridget",
+      "locale": {
+        "ja": "\u30d6\u30ea\u30b8\u30c3\u30c8"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.51",
+  "version": "1.61",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
   "locale": {
     "ja": {
-      "name": "ギルティギア ストライヴ"
+      "name": "\u30ae\u30eb\u30c6\u30a3\u30ae\u30a2 \u30b9\u30c8\u30e9\u30a4\u30f4"
     }
   }
 }

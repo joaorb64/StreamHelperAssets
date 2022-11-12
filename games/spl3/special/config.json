@@ -1,0 +1,17 @@
+{
+  "name": "Special Icons",
+  "version": "1.1",
+  "description": "Special icons",
+  "prefix": "spe_",
+  "postfix": "_",
+  "type": [
+    "special"
+  ],
+  "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
+  "uncropped_edge": [
+      "u",
+      "d",
+      "l",
+      "r"
+  ]
+}

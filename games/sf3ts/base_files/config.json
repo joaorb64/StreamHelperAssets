@@ -65,12 +65,12 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.02",
+  "version": "1.03",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping",
   "locale": {
     "ja": {
-      "name": "ストリートファイターIII サードストライク ファイト・フォー・ザ・フューチャー"
+      "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIII \u30b5\u30fc\u30c9\u30b9\u30c8\u30e9\u30a4\u30af \u30d5\u30a1\u30a4\u30c8\u30fb\u30d5\u30a9\u30fc\u30fb\u30b6\u30fb\u30d5\u30e5\u30fc\u30c1\u30e3\u30fc"
     }
   }
 }

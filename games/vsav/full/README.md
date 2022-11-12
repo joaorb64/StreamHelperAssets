@@ -1,10 +1,11 @@
-# Portraits
+# Artwork
 
 ## Description: 
 
-Character Portraits
+Character Artwork
+Note: Only contains Vampire Savior arcade characters
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Vampire_Savior)
 

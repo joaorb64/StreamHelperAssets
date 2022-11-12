@@ -1,83 +1,85 @@
 {
-    "name": "Artwork",
-    "description": "Character Artworks",
-    "prefix": "full_",
-    "postfix": "_",
-    "type": ["full"],
-    "credits": "@MathiasWolfbrok for cropping",
-    "version": "1.01",
-    "eyesights": {
-        "Bowser": {
-          "0": {
-            "x": 631,
-            "y": 472
-          }
-        },
-        "BowserJr": {
-          "0": {
-            "x": 330,
-            "y": 474
-          }
-        },
-        "DK": {
-          "0": {
-            "x": 289,
-            "y": 240
-          }
-        },
-        "Daisy": {
-          "0": {
-            "x": 553,
-            "y": 375
-          }
-        },
-        "Diddy": {
-          "0": {
-            "x": 618,
-            "y": 403
-          }
-        },
-        "Luigi": {
-          "0": {
-            "x": 556,
-            "y": 435
-          }
-        },
-        "Mario": {
-          "0": {
-            "x": 312,
-            "y": 333
-          }
-        },
-        "Peach": {
-          "0": {
-            "x": 496,
-            "y": 321
-          }
-        },
-        "Petey": {
-          "0": {
-            "x": 166,
-            "y": 451
-          }
-        },
-        "Waluigi": {
-          "0": {
-            "x": 354,
-            "y": 481
-          }
-        },
-        "Wario": {
-          "0": {
-            "x": 520,
-            "y": 231
-          }
-        },
-        "Yoshi": {
-          "0": {
-            "x": 681,
-            "y": 397
-          }
-        }
+  "name": "Artwork",
+  "description": "Character Artworks",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "@MathiasWolfbrok for cropping",
+  "version": "1.02",
+  "eyesights": {
+    "Bowser": {
+      "0": {
+        "x": 631,
+        "y": 472
       }
+    },
+    "BowserJr": {
+      "0": {
+        "x": 330,
+        "y": 474
+      }
+    },
+    "DK": {
+      "0": {
+        "x": 289,
+        "y": 240
+      }
+    },
+    "Daisy": {
+      "0": {
+        "x": 553,
+        "y": 375
+      }
+    },
+    "Diddy": {
+      "0": {
+        "x": 618,
+        "y": 403
+      }
+    },
+    "Luigi": {
+      "0": {
+        "x": 556,
+        "y": 435
+      }
+    },
+    "Mario": {
+      "0": {
+        "x": 312,
+        "y": 333
+      }
+    },
+    "Peach": {
+      "0": {
+        "x": 496,
+        "y": 321
+      }
+    },
+    "Petey": {
+      "0": {
+        "x": 166,
+        "y": 451
+      }
+    },
+    "Waluigi": {
+      "0": {
+        "x": 354,
+        "y": 481
+      }
+    },
+    "Wario": {
+      "0": {
+        "x": 520,
+        "y": 231
+      }
+    },
+    "Yoshi": {
+      "0": {
+        "x": 681,
+        "y": 397
+      }
+    }
+  }
 }

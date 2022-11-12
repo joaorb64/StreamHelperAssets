@@ -6,5 +6,5 @@ HD character renders
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+
 

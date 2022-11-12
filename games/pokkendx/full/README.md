@@ -6,5 +6,5 @@ Character renders
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+
 

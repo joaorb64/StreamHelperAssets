@@ -1,0 +1,10 @@
+{
+  "name": "Poster art",
+  "description": "Poster art for every character",
+  "prefix": "icon_",
+  "postfix": "_",
+  "type": [
+    "poster"
+  ],
+  "version": "1.2"
+}

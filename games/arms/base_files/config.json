@@ -68,7 +68,7 @@
     "Sky Arena": {
       "codename": "arena",
       "locale": {
-        "fr": "Colisée aérien"
+        "fr": "Colis\u00e9e a\u00e9rien"
       }
     },
     "Buster Beach": {
@@ -86,7 +86,7 @@
     "Ninja College": {
       "codename": "college",
       "locale": {
-        "fr": "Académie des ninja"
+        "fr": "Acad\u00e9mie des ninja"
       }
     },
     "DNA Lab": {
@@ -156,6 +156,6 @@
       }
     }
   },
-  "version": "1.32",
+  "version": "1.33",
   "description": "Base config to use this game."
 }

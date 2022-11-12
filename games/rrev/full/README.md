@@ -1,10 +1,10 @@
-# Portraits
+# Artwork
 
 ## Description: 
 
-Character portraits
+Full body Artwork
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+
 

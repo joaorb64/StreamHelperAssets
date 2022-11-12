@@ -5,29 +5,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Akatsuki_Blitzkampf)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "abaa.base_files.7z": {
-                        "name": "abaa.base_files.7z",
-                        "size": 167790
+                    "abaa.base_files.7z.001": {
+                        "name": "abaa.base_files.7z.001",
+                        "size": 167846
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Akatsuki Blitzkampf Ausf. Achse",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "abaa.full.7z": {
-                        "name": "abaa.full.7z",
-                        "size": 4163440
+                    "abaa.full.7z.001": {
+                        "name": "abaa.full.7z.001",
+                        "size": 4163451
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.11"
             }
         },
         "name": "Akatsuki Blitzkampf Ausf. Achse"
@@ -38,15 +38,15 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "amongus.base_files.7z": {
-                        "name": "amongus.base_files.7z",
-                        "size": 301911
+                    "amongus.base_files.7z.001": {
+                        "name": "amongus.base_files.7z.001",
+                        "size": 301950
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Among Us Arena",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Among Us Arena"
@@ -57,29 +57,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Art_of_Fighting_3)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "aof3.base_files.7z": {
-                        "name": "aof3.base_files.7z",
-                        "size": 99593
+                    "aof3.base_files.7z.001": {
+                        "name": "aof3.base_files.7z.001",
+                        "size": 99627
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Art of Fighting 3: The Path of the Warrior",
-                "version": "1.02"
+                "version": "1.04"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Art_of_Fighting_3)\n@MathiasWolfbrok for cropping",
                 "description": "Character Win Screens",
                 "files": {
-                    "aof3.full.7z": {
-                        "name": "aof3.full.7z",
-                        "size": 83450
+                    "aof3.full.7z.001": {
+                        "name": "aof3.full.7z.001",
+                        "size": 83439
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Win Screens",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Art of Fighting 3: The Path of the Warrior"
@@ -90,85 +90,85 @@
                 "credits": null,
                 "description": "Character portraits used on the regular badges",
                 "files": {
-                    "arms.badge.7z": {
-                        "name": "arms.badge.7z",
-                        "size": 300262
+                    "arms.badge.7z.001": {
+                        "name": "arms.badge.7z.001",
+                        "size": 300266
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Badges",
-                "version": "1.0"
+                "version": "1.01"
             },
             "badge_alt": {
                 "credits": null,
                 "description": "Character portraits used on the badges offered for taking part in Party Crash matches on the winning team side",
                 "files": {
-                    "arms.badge_alt.7z": {
-                        "name": "arms.badge_alt.7z",
-                        "size": 382239
+                    "arms.badge_alt.7z.001": {
+                        "name": "arms.badge_alt.7z.001",
+                        "size": 382242
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Party Crash Badges",
-                "version": "1.0"
+                "version": "1.01"
             },
             "base_files": {
                 "credits": null,
                 "description": "Base config to use this game.",
                 "files": {
-                    "arms.base_files.7z": {
-                        "name": "arms.base_files.7z",
-                        "size": 1649977
+                    "arms.base_files.7z.001": {
+                        "name": "arms.base_files.7z.001",
+                        "size": 1649981
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "ARMS",
-                "version": "1.32"
+                "version": "1.33"
             },
             "full": {
                 "credits": "@Frosty_4267 & @LOSER_31_56 for the alternate color renders\n@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
-                    "arms.full.7z": {
-                        "name": "arms.full.7z",
-                        "size": 58534191
+                    "arms.full.7z.001": {
+                        "name": "arms.full.7z.001",
+                        "size": 368398573
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.22"
+                "version": "1.25"
             },
             "logo": {
                 "credits": null,
                 "description": "Character logos used for merchandising according to in-game lore",
                 "files": {
-                    "arms.logo.7z": {
-                        "name": "arms.logo.7z",
-                        "size": 91202
+                    "arms.logo.7z.001": {
+                        "name": "arms.logo.7z.001",
+                        "size": 91203
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Logos",
-                "version": "1.0"
+                "version": "1.01"
             },
             "stage_icon": {
                 "credits": "",
                 "description": "Stage icons",
                 "files": {
-                    "arms.stage_icon.7z": {
-                        "name": "arms.stage_icon.7z",
-                        "size": 7387797
+                    "arms.stage_icon.7z.001": {
+                        "name": "arms.stage_icon.7z.001",
+                        "size": 7387808
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Stages",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "ARMS"
@@ -179,29 +179,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Asuka_120_LimitOver)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "asuka.base_files.7z": {
-                        "name": "asuka.base_files.7z",
-                        "size": 212387
+                    "asuka.base_files.7z.001": {
+                        "name": "asuka.base_files.7z.001",
+                        "size": 212389
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Asuka 120% LimitOver BURNING Fest.",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Asuka_120_LimitOver)",
                 "description": "Character portraits",
                 "files": {
-                    "asuka.full.7z": {
-                        "name": "asuka.full.7z",
-                        "size": 604005
+                    "asuka.full.7z.001": {
+                        "name": "asuka.full.7z.001",
+                        "size": 604032
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Asuka 120% LimitOver BURNING Fest."
@@ -212,29 +212,29 @@
                 "credits": "Files ripped from Dustloop Wiki",
                 "description": "Base config to use this game.",
                 "files": {
-                    "bbcf.base_files.7z": {
-                        "name": "bbcf.base_files.7z",
-                        "size": 785433
+                    "bbcf.base_files.7z.001": {
+                        "name": "bbcf.base_files.7z.001",
+                        "size": 785449
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "BlazBlue: Central Fiction",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "bbcf.full.7z": {
-                        "name": "bbcf.full.7z",
-                        "size": 24721924
+                    "bbcf.full.7z.001": {
+                        "name": "bbcf.full.7z.001",
+                        "size": 24722074
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.03"
             }
         },
         "name": "BlazBlue: Central Fiction"
@@ -245,29 +245,29 @@
                 "credits": "Files ripped from Dustloop Wiki",
                 "description": "Base config to use this game.",
                 "files": {
-                    "bbtag.base_files.7z": {
-                        "name": "bbtag.base_files.7z",
-                        "size": 701818
+                    "bbtag.base_files.7z.001": {
+                        "name": "bbtag.base_files.7z.001",
+                        "size": 701817
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "BlazBlue Cross Tag Battle",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "bbtag.full.7z": {
-                        "name": "bbtag.full.7z",
-                        "size": 31140613
+                    "bbtag.full.7z.001": {
+                        "name": "bbtag.full.7z.001",
+                        "size": 31140612
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.01"
+                "version": "1.03"
             }
         },
         "name": "BlazBlue Cross Tag Battle"
@@ -278,29 +278,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "breakers.base_files.7z": {
-                        "name": "breakers.base_files.7z",
-                        "size": 341078
+                    "breakers.base_files.7z.001": {
+                        "name": "breakers.base_files.7z.001",
+                        "size": 292894
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Breakers Revenge",
-                "version": "1.02"
+                "version": "1.04"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Win Screens",
                 "files": {
-                    "breakers.full.7z": {
-                        "name": "breakers.full.7z",
+                    "breakers.full.7z.001": {
+                        "name": "breakers.full.7z.001",
                         "size": 251893
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Win Screens",
-                "version": "1.01"
+                "version": "1.02"
             }
         },
         "name": "Breakers Revenge"
@@ -311,15 +311,15 @@
                 "credits": "Icons ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Bloody_Roar_Extreme)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "brextreme.base_files.7z": {
-                        "name": "brextreme.base_files.7z",
-                        "size": 395675
+                    "brextreme.base_files.7z.001": {
+                        "name": "brextreme.base_files.7z.001",
+                        "size": 395674
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Bloody Roar Extreme",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Bloody Roar Extreme"
@@ -330,29 +330,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "cvs2.base_files.7z": {
-                        "name": "cvs2.base_files.7z",
+                    "cvs2.base_files.7z.001": {
+                        "name": "cvs2.base_files.7z.001",
                         "size": 7087573
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Capcom VS SNK 2: Mark of the Millenium 2001",
-                "version": "1.22"
+                "version": "1.23"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "cvs2.full.7z": {
-                        "name": "cvs2.full.7z",
-                        "size": 81185436
+                    "cvs2.full.7z.001": {
+                        "name": "cvs2.full.7z.001",
+                        "size": 81185431
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.2"
+                "version": "1.21"
             }
         },
         "name": "Capcom VS SNK 2: Mark of the Millenium 2001"
@@ -363,15 +363,15 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "dawake.base_files.7z": {
-                        "name": "dawake.base_files.7z",
-                        "size": 1953592
+                    "dawake.base_files.7z.001": {
+                        "name": "dawake.base_files.7z.001",
+                        "size": 1953685
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Dark Awake: The King Has No Name",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Dark Awake: The King Has No Name"
@@ -382,29 +382,29 @@
                 "credits": "Files ripped from Dustloop Wiki",
                 "description": "Base config to use this game.",
                 "files": {
-                    "dbfz.base_files.7z": {
-                        "name": "dbfz.base_files.7z",
-                        "size": 1183931
+                    "dbfz.base_files.7z.001": {
+                        "name": "dbfz.base_files.7z.001",
+                        "size": 886477
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Dragon Ball FighterZ",
-                "version": "1.21"
+                "version": "1.23"
             },
             "full": {
                 "credits": "",
                 "description": "Character portraits",
                 "files": {
-                    "dbfz.full.7z": {
-                        "name": "dbfz.full.7z",
-                        "size": 25774137
+                    "dbfz.full.7z.001": {
+                        "name": "dbfz.full.7z.001",
+                        "size": 25774130
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.21"
+                "version": "1.23"
             }
         },
         "name": "Dragon Ball FighterZ"
@@ -415,29 +415,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "dive.base_files.7z": {
-                        "name": "dive.base_files.7z",
-                        "size": 559368
+                    "dive.base_files.7z.001": {
+                        "name": "dive.base_files.7z.001",
+                        "size": 559345
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Divekick",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character artwork",
                 "files": {
-                    "dive.full.7z": {
-                        "name": "dive.full.7z",
-                        "size": 5891529
+                    "dive.full.7z.001": {
+                        "name": "dive.full.7z.001",
+                        "size": 5891509
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Divekick"
@@ -448,29 +448,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Dan-Ku-Ga)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "dkg.base_files.7z": {
-                        "name": "dkg.base_files.7z",
-                        "size": 194215
+                    "dkg.base_files.7z.001": {
+                        "name": "dkg.base_files.7z.001",
+                        "size": 194358
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Dan-Ku-Ga",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Dan-Ku-Ga)\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "dkg.full.7z": {
-                        "name": "dkg.full.7z",
-                        "size": 159479
+                    "dkg.full.7z.001": {
+                        "name": "dkg.full.7z.001",
+                        "size": 159657
                     }
                 },
-                "has_eyesight_data": false,
+                "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Dan-Ku-Ga"
@@ -481,46 +481,79 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "dnfduel.base_files.7z": {
-                        "name": "dnfduel.base_files.7z",
-                        "size": 777608
+                    "dnfduel.base_files.7z.001": {
+                        "name": "dnfduel.base_files.7z.001",
+                        "size": 777466
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "DNF Duel",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "",
                 "description": "Character renders",
                 "files": {
-                    "dnfduel.full.7z": {
-                        "name": "dnfduel.full.7z",
-                        "size": 13952545
+                    "dnfduel.full.7z.001": {
+                        "name": "dnfduel.full.7z.001",
+                        "size": 13952728
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.0"
+                "version": "1.11"
             },
             "mobile": {
                 "credits": "",
                 "description": "Portraits from Dungeon Fighter Online",
                 "files": {
-                    "dnfduel.mobile.7z": {
-                        "name": "dnfduel.mobile.7z",
-                        "size": 2886088
+                    "dnfduel.mobile.7z.001": {
+                        "name": "dnfduel.mobile.7z.001",
+                        "size": 2886087
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "DFO Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "DNF Duel"
+    },
+    "doa5lr": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "doa5lr.base_files.7z.001": {
+                        "name": "doa5lr.base_files.7z.001",
+                        "size": 422996
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Dead or Alive 5: Last Round",
+                "version": "1.01"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character renders",
+                "files": {
+                    "doa5lr.full.7z.001": {
+                        "name": "doa5lr.full.7z.001",
+                        "size": 47003372
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Renders",
+                "version": "1.11"
+            }
+        },
+        "name": "Dead or Alive 5: Last Round"
     },
     "fexl": {
         "assets": {
@@ -528,29 +561,29 @@
                 "credits": "",
                 "description": "Base config to use this game.\nNote: This also works for Fighting EX Layer: Another Dash, but will not report your results to Smash.gg (Smash.gg ID for FEXL:AD: 39242)",
                 "files": {
-                    "fexl.base_files.7z": {
-                        "name": "fexl.base_files.7z",
-                        "size": 9697617
+                    "fexl.base_files.7z.001": {
+                        "name": "fexl.base_files.7z.001",
+                        "size": 9697634
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Fighting EX Layer",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character artwork",
                 "files": {
-                    "fexl.full.7z": {
-                        "name": "fexl.full.7z",
-                        "size": 9416306
+                    "fexl.full.7z.001": {
+                        "name": "fexl.full.7z.001",
+                        "size": 4621880
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.11"
+                "version": "1.14"
             }
         },
         "name": "Fighting EX Layer"
@@ -561,29 +594,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Fight_of_Animals)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "foa.base_files.7z": {
-                        "name": "foa.base_files.7z",
-                        "size": 495408
+                    "foa.base_files.7z.001": {
+                        "name": "foa.base_files.7z.001",
+                        "size": 495409
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Fight of Animals: Legend of the Strongest Creature",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Fight_of_Animals)",
                 "description": "Character portraits",
                 "files": {
-                    "foa.full.7z": {
-                        "name": "foa.full.7z",
-                        "size": 2152750
+                    "foa.full.7z.001": {
+                        "name": "foa.full.7z.001",
+                        "size": 2152860
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.11"
             }
         },
         "name": "Fight of Animals: Legend of the Strongest Creature"
@@ -594,18 +627,51 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "footsies.base_files.7z": {
-                        "name": "footsies.base_files.7z",
-                        "size": 5255
+                    "footsies.base_files.7z.001": {
+                        "name": "footsies.base_files.7z.001",
+                        "size": 5280
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Footsies: Rollback Edition",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Footsies: Rollback Edition"
+    },
+    "fray": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "fray.base_files.7z.001": {
+                        "name": "fray.base_files.7z.001",
+                        "size": 416185
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Fraymakers",
+                "version": "0.11"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character portraits",
+                "files": {
+                    "fray.full.7z.001": {
+                        "name": "fray.full.7z.001",
+                        "size": 596898
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Portraits",
+                "version": "0.21"
+            }
+        },
+        "name": "Fraymakers"
     },
     "garoumotw": {
         "assets": {
@@ -613,29 +679,29 @@
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Base config to use this game.",
                 "files": {
-                    "garoumotw.base_files.7z": {
-                        "name": "garoumotw.base_files.7z",
-                        "size": 471390
+                    "garoumotw.base_files.7z.001": {
+                        "name": "garoumotw.base_files.7z.001",
+                        "size": 471402
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Garou: Mark of the Wolves",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "garoumotw.full.7z": {
-                        "name": "garoumotw.full.7z",
-                        "size": 552476
+                    "garoumotw.full.7z.001": {
+                        "name": "garoumotw.full.7z.001",
+                        "size": 552694
                     }
                 },
-                "has_eyesight_data": false,
+                "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Garou: Mark of the Wolves"
@@ -646,29 +712,29 @@
                 "credits": "Files ripped from Dustloop Wiki",
                 "description": "Base config to use this game.",
                 "files": {
-                    "gbvs.base_files.7z": {
-                        "name": "gbvs.base_files.7z",
-                        "size": 504037
+                    "gbvs.base_files.7z.001": {
+                        "name": "gbvs.base_files.7z.001",
+                        "size": 504049
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Granblue Fantasy Versus",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Files ripped from Dustloop Wiki\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "gbvs.full.7z": {
-                        "name": "gbvs.full.7z",
-                        "size": 22676372
+                    "gbvs.full.7z.001": {
+                        "name": "gbvs.full.7z.001",
+                        "size": 22676497
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.01"
+                "version": "1.04"
             }
         },
         "name": "Granblue Fantasy Versus"
@@ -679,32 +745,79 @@
                 "credits": "Files ripped from Dustloop Wiki",
                 "description": "Base config to use this game.",
                 "files": {
-                    "ggst.base_files.7z": {
-                        "name": "ggst.base_files.7z",
-                        "size": 1025450
+                    "ggst.base_files.7z.001": {
+                        "name": "ggst.base_files.7z.001",
+                        "size": 1075776
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Guilty Gear -STRIVE-",
-                "version": "1.51"
+                "version": "1.61"
+            },
+            "chibi": {
+                "credits": "",
+                "description": "Chibi versions of characters",
+                "files": {
+                    "ggst.chibi.7z.001": {
+                        "name": "ggst.chibi.7z.001",
+                        "size": 8985264
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Chibi characters",
+                "version": "1.62"
             },
             "full": {
-                "credits": "Files ripped from Dustloop Wiki (http://www.dustloop.com/wiki/index.php?title=Guilty_Gear_-Strive-)",
+                "credits": "",
                 "description": "Character renders",
                 "files": {
-                    "ggst.full.7z": {
-                        "name": "ggst.full.7z",
-                        "size": 18024544
+                    "ggst.full.7z.001": {
+                        "name": "ggst.full.7z.001",
+                        "size": 16674514
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.51"
+                "version": "1.62"
             }
         },
         "name": "Guilty Gear -STRIVE-"
+    },
+    "ggxrd2": {
+        "assets": {
+            "base_files": {
+                "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/Guilty_Gear_Xrd_REV_2)",
+                "description": "Base config to use this game.",
+                "files": {
+                    "ggxrd2.base_files.7z.001": {
+                        "name": "ggxrd2.base_files.7z.001",
+                        "size": 1375666
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Guilty Gear Xrd REV 2",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/Guilty_Gear_Xrd_REV_2)",
+                "description": "Character renders",
+                "files": {
+                    "ggxrd2.full.7z.001": {
+                        "name": "ggxrd2.full.7z.001",
+                        "size": 11598977
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Renders",
+                "version": "1.0"
+            }
+        },
+        "name": "Guilty Gear Xrd REV 2"
     },
     "ggxxacpr": {
         "assets": {
@@ -712,29 +825,29 @@
                 "credits": "Files ripped from Dustloop Wiki",
                 "description": "Base config to use this game.",
                 "files": {
-                    "ggxxacpr.base_files.7z": {
-                        "name": "ggxxacpr.base_files.7z",
-                        "size": 579070
+                    "ggxxacpr.base_files.7z.001": {
+                        "name": "ggxxacpr.base_files.7z.001",
+                        "size": 579115
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Guilty Gear XX Accent Core Plus R",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "Files ripped from Dustloop Wiki\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "ggxxacpr.full.7z": {
-                        "name": "ggxxacpr.full.7z",
-                        "size": 16631341
+                    "ggxxacpr.full.7z.001": {
+                        "name": "ggxxacpr.full.7z.001",
+                        "size": 16631301
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.11"
             }
         },
         "name": "Guilty Gear XX Accent Core Plus R"
@@ -745,29 +858,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "hdbz.base_files.7z": {
-                        "name": "hdbz.base_files.7z",
+                    "hdbz.base_files.7z.001": {
+                        "name": "hdbz.base_files.7z.001",
                         "size": 49218
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Hyper Dragon Ball Z",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "hdbz.full.7z": {
-                        "name": "hdbz.full.7z",
-                        "size": 200679
+                    "hdbz.full.7z.001": {
+                        "name": "hdbz.full.7z.001",
+                        "size": 200688
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Hyper Dragon Ball Z"
@@ -778,29 +891,29 @@
                 "credits": "Files ripped from Hardedge Wiki",
                 "description": "Base config to use this game.",
                 "files": {
-                    "hnk.base_files.7z": {
-                        "name": "hnk.base_files.7z",
-                        "size": 877179
+                    "hnk.base_files.7z.001": {
+                        "name": "hnk.base_files.7z.001",
+                        "size": 877181
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Fist of the North Star",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "Files ripped from Hardedge Wiki\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "hnk.full.7z": {
-                        "name": "hnk.full.7z",
-                        "size": 706199
+                    "hnk.full.7z.001": {
+                        "name": "hnk.full.7z.001",
+                        "size": 706200
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Fist of the North Star"
@@ -811,32 +924,65 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Jackie_Chan_in_Fists_of_Fire)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "jackie.base_files.7z": {
-                        "name": "jackie.base_files.7z",
-                        "size": 268801
+                    "jackie.base_files.7z.001": {
+                        "name": "jackie.base_files.7z.001",
+                        "size": 268816
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Jackie Chan in Fists of Fire",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Jackie_Chan_in_Fists_of_Fire)",
                 "description": "Character portraits",
                 "files": {
-                    "jackie.full.7z": {
-                        "name": "jackie.full.7z",
+                    "jackie.full.7z.001": {
+                        "name": "jackie.full.7z.001",
                         "size": 2265657
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.01"
+                "version": "1.02"
             }
         },
         "name": "Jackie Chan in Fists of Fire"
+    },
+    "jojoasbr": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "jojoasbr.base_files.7z.001": {
+                        "name": "jojoasbr.base_files.7z.001",
+                        "size": 1935690
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+                "version": "1.1"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character renders",
+                "files": {
+                    "jojoasbr.full.7z.001": {
+                        "name": "jojoasbr.full.7z.001",
+                        "size": 21475076
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Renders",
+                "version": "1.1"
+            }
+        },
+        "name": "JoJo's Bizarre Adventure: All-Star Battle R"
     },
     "jojohftf": {
         "assets": {
@@ -844,29 +990,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "jojohftf.base_files.7z": {
-                        "name": "jojohftf.base_files.7z",
-                        "size": 1040183
+                    "jojohftf.base_files.7z.001": {
+                        "name": "jojohftf.base_files.7z.001",
+                        "size": 1040193
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Jojo's Bizarre Adventure: Heritage for the Future",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "jojohftf.full.7z": {
-                        "name": "jojohftf.full.7z",
-                        "size": 519617
+                    "jojohftf.full.7z.001": {
+                        "name": "jojohftf.full.7z.001",
+                        "size": 519945
                     }
                 },
-                "has_eyesight_data": false,
+                "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Jojo's Bizarre Adventure: Heritage for the Future"
@@ -877,29 +1023,43 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "karnov.base_files.7z": {
-                        "name": "karnov.base_files.7z",
-                        "size": 25181
+                    "karnov.base_files.7z.001": {
+                        "name": "karnov.base_files.7z.001",
+                        "size": 25187
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Karnov's Revenge",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
+                "credits": "@PolarBair for removing the backgrounds",
+                "description": "Character artwork",
+                "files": {
+                    "karnov.full.7z.001": {
+                        "name": "karnov.full.7z.001",
+                        "size": 2490032
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Artwork",
+                "version": "1.03"
+            },
+            "portrait": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "karnov.full.7z": {
-                        "name": "karnov.full.7z",
-                        "size": 162401
+                    "karnov.portrait.7z.001": {
+                        "name": "karnov.portrait.7z.001",
+                        "size": 162540
                     }
                 },
-                "has_eyesight_data": false,
+                "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Karnov's Revenge"
@@ -910,29 +1070,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Kirby_Fighters_2)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "kf2.base_files.7z": {
-                        "name": "kf2.base_files.7z",
-                        "size": 1340281
+                    "kf2.base_files.7z.001": {
+                        "name": "kf2.base_files.7z.001",
+                        "size": 1340278
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Kirby Fighters 2",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
-                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Kirby_Fighters_2)",
-                "description": "Character portraits",
+                "credits": "Ripped from the game",
+                "description": "Full renders",
                 "files": {
-                    "kf2.full.7z": {
-                        "name": "kf2.full.7z",
-                        "size": 18755023
+                    "kf2.full.7z.001": {
+                        "name": "kf2.full.7z.001",
+                        "size": 1987284
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
-                "name": "Portraits",
-                "version": "1.01"
+                "name": "Renders",
+                "version": "1.1"
             }
         },
         "name": "Kirby Fighters 2"
@@ -943,29 +1103,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "killerinstinct.base_files.7z": {
-                        "name": "killerinstinct.base_files.7z",
-                        "size": 2480174
+                    "killerinstinct.base_files.7z.001": {
+                        "name": "killerinstinct.base_files.7z.001",
+                        "size": 2480180
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Killer Instinct (2013)",
-                "version": "1.11"
+                "version": "1.12"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Renders",
                 "files": {
-                    "killerinstinct.full.7z": {
-                        "name": "killerinstinct.full.7z",
-                        "size": 25856298
+                    "killerinstinct.full.7z.001": {
+                        "name": "killerinstinct.full.7z.001",
+                        "size": 25856208
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.1"
+                "version": "1.11"
             }
         },
         "name": "Killer Instinct (2013)"
@@ -976,29 +1136,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "klkif.base_files.7z": {
-                        "name": "klkif.base_files.7z",
-                        "size": 607274
+                    "klkif.base_files.7z.001": {
+                        "name": "klkif.base_files.7z.001",
+                        "size": 607289
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Kill la Kill the Game: IF",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/KILL_la_KILL_IF)\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "klkif.full.7z": {
-                        "name": "klkif.full.7z",
-                        "size": 5393991
+                    "klkif.full.7z.001": {
+                        "name": "klkif.full.7z.001",
+                        "size": 5393928
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Kill la Kill the Game: IF"
@@ -1009,43 +1169,43 @@
                 "credits": "@ATRyoSakazaki for HD redraws\n@MathiasWolfbrok for cropping",
                 "description": "Base config to use this game.",
                 "files": {
-                    "kof02um.base_files.7z": {
-                        "name": "kof02um.base_files.7z",
-                        "size": 7165675
+                    "kof02um.base_files.7z.001": {
+                        "name": "kof02um.base_files.7z.001",
+                        "size": 7165670
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "The King of Fighters 2002: Unlimited Match",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "@ATRyoSakazaki for HD redraws\n@MathiasWolfbrok for cropping",
                 "description": "Character Portraits as seen on the Character Select Screen",
                 "files": {
-                    "kof02um.full.7z": {
-                        "name": "kof02um.full.7z",
-                        "size": 43408498
+                    "kof02um.full.7z.001": {
+                        "name": "kof02um.full.7z.001",
+                        "size": 43409258
                     }
                 },
-                "has_eyesight_data": false,
+                "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Character Select Portraits",
-                "version": "1.0"
+                "version": "1.02"
             },
             "full_win": {
                 "credits": "@ATRyoSakazaki for HD redraws\n@MathiasWolfbrok for cropping",
                 "description": "Character Portraits as seen on the Results Screen",
                 "files": {
-                    "kof02um.full_win.7z": {
-                        "name": "kof02um.full_win.7z",
-                        "size": 59029837
+                    "kof02um.full_win.7z.001": {
+                        "name": "kof02um.full_win.7z.001",
+                        "size": 59029576
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Win Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "The King of Fighters 2002: Unlimited Match"
@@ -1056,29 +1216,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "kof98umfe.base_files.7z": {
-                        "name": "kof98umfe.base_files.7z",
-                        "size": 693176
+                    "kof98umfe.base_files.7z.001": {
+                        "name": "kof98umfe.base_files.7z.001",
+                        "size": 693129
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "The King of Fighters '98 Ultimate Match Final Edition",
-                "version": "1.0"
+                "version": "1.01"
             },
             "mobile": {
                 "credits": "",
                 "description": "Portraits from The King of Fighters All Star and The King of Fighters 98 Ultimate Match Online Edition",
                 "files": {
-                    "kof98umfe.mobile.7z": {
-                        "name": "kof98umfe.mobile.7z",
-                        "size": 49537878
+                    "kof98umfe.mobile.7z.001": {
+                        "name": "kof98umfe.mobile.7z.001",
+                        "size": 49817690
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "KOFAS Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "The King of Fighters '98 Ultimate Match Final Edition"
@@ -1089,29 +1249,29 @@
                 "credits": "Files ripped from Hardedge Wiki",
                 "description": "Base config to use this game.",
                 "files": {
-                    "kofxi.base_files.7z": {
-                        "name": "kofxi.base_files.7z",
+                    "kofxi.base_files.7z.001": {
+                        "name": "kofxi.base_files.7z.001",
                         "size": 859100
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "The King of Fighters XI",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Files ripped from Hardedge Wiki\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "kofxi.full.7z": {
-                        "name": "kofxi.full.7z",
-                        "size": 3954467
+                    "kofxi.full.7z.001": {
+                        "name": "kofxi.full.7z.001",
+                        "size": 3954976
                     }
                 },
-                "has_eyesight_data": false,
+                "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "The King of Fighters XI"
@@ -1122,29 +1282,29 @@
                 "credits": "Assets ripped from Dream Cancel Wiki (https://dreamcancel.com/wiki/index.php/The_King_of_Fighters_XIII)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "kofxiii.base_files.7z": {
-                        "name": "kofxiii.base_files.7z",
-                        "size": 579579
+                    "kofxiii.base_files.7z.001": {
+                        "name": "kofxiii.base_files.7z.001",
+                        "size": 579578
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "The King of Fighters XIII",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Portraits",
                 "files": {
-                    "kofxiii.full.7z": {
-                        "name": "kofxiii.full.7z",
-                        "size": 14845122
+                    "kofxiii.full.7z.001": {
+                        "name": "kofxiii.full.7z.001",
+                        "size": 14845156
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "The King of Fighters XIII"
@@ -1155,29 +1315,29 @@
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Base config to use this game.",
                 "files": {
-                    "kofxv.base_files.7z": {
-                        "name": "kofxv.base_files.7z",
-                        "size": 6254319
+                    "kofxv.base_files.7z.001": {
+                        "name": "kofxv.base_files.7z.001",
+                        "size": 7091231
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "The King of Fighters XV",
-                "version": "1.3"
+                "version": "1.5"
             },
             "full": {
                 "credits": "",
                 "description": "Character Portraits",
                 "files": {
-                    "kofxv.full.7z": {
-                        "name": "kofxv.full.7z",
-                        "size": 39552339
+                    "kofxv.full.7z.001": {
+                        "name": "kofxv.full.7z.001",
+                        "size": 45091099
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.3"
+                "version": "1.5"
             }
         },
         "name": "The King of Fighters XV"
@@ -1188,15 +1348,15 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "llb.base_files.7z": {
-                        "name": "llb.base_files.7z",
-                        "size": 2497682
+                    "llb.base_files.7z.001": {
+                        "name": "llb.base_files.7z.001",
+                        "size": 2497715
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Lethal League Blaze",
-                "version": "1.01"
+                "version": "1.02"
             }
         },
         "name": "Lethal League Blaze"
@@ -1207,15 +1367,15 @@
                 "credits": "Files from the Riot Developer Portal for Legends of Runeterra's Data Dragon",
                 "description": "Base config to use this game.",
                 "files": {
-                    "lor.base_files.7z": {
-                        "name": "lor.base_files.7z",
-                        "size": 118117
+                    "lor.base_files.7z.001": {
+                        "name": "lor.base_files.7z.001",
+                        "size": 188854
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Legends of Runeterra",
-                "version": "1.0"
+                "version": "1.11"
             }
         },
         "name": "Legends of Runeterra"
@@ -1226,43 +1386,43 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBAACC)",
                 "description": "Character banners",
                 "files": {
-                    "mbaacc.banner.7z": {
-                        "name": "mbaacc.banner.7z",
+                    "mbaacc.banner.7z.001": {
+                        "name": "mbaacc.banner.7z.001",
                         "size": 979635
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Banners",
-                "version": "1.0"
+                "version": "1.01"
             },
             "base_files": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBAACC)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "mbaacc.base_files.7z": {
-                        "name": "mbaacc.base_files.7z",
-                        "size": 570300
+                    "mbaacc.base_files.7z.001": {
+                        "name": "mbaacc.base_files.7z.001",
+                        "size": 570345
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Melty Blood Actress Again Current Code",
-                "version": "1.0"
+                "version": "1.02"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "mbaacc.full.7z": {
-                        "name": "mbaacc.full.7z",
-                        "size": 16268635
+                    "mbaacc.full.7z.001": {
+                        "name": "mbaacc.full.7z.001",
+                        "size": 16268779
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Melty Blood Actress Again Current Code"
@@ -1273,57 +1433,57 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "mbtl.base_files.7z": {
-                        "name": "mbtl.base_files.7z",
-                        "size": 183366
+                    "mbtl.base_files.7z.001": {
+                        "name": "mbtl.base_files.7z.001",
+                        "size": 200067
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Melty Blood: Type Lumina",
-                "version": "1.4"
+                "version": "1.51"
             },
             "full": {
                 "credits": "",
                 "description": "Character portraits",
                 "files": {
-                    "mbtl.full.7z": {
-                        "name": "mbtl.full.7z",
-                        "size": 6671056
+                    "mbtl.full.7z.001": {
+                        "name": "mbtl.full.7z.001",
+                        "size": 7445321
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.41"
+                "version": "1.52"
             },
             "full_website": {
                 "credits": "",
                 "description": "Character portraits with character names, as seen on the Melty Blood: Type Lumina official website",
                 "files": {
-                    "mbtl.full_website.7z": {
-                        "name": "mbtl.full_website.7z",
-                        "size": 4483424
+                    "mbtl.full_website.7z.001": {
+                        "name": "mbtl.full_website.7z.001",
+                        "size": 5010058
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits (Website)",
-                "version": "1.4"
+                "version": "1.52"
             },
             "tsukihime": {
                 "credits": "",
                 "description": "Character portraits as seen in the Tsukihime visual novels (Or a substitute if not applicable)",
                 "files": {
-                    "mbtl.tsukihime.7z": {
-                        "name": "mbtl.tsukihime.7z",
-                        "size": 22537689
+                    "mbtl.tsukihime.7z.001": {
+                        "name": "mbtl.tsukihime.7z.001",
+                        "size": 23645543
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Tsukihime Portraits",
-                "version": "1.4"
+                "version": "1.51"
             }
         },
         "name": "Melty Blood: Type Lumina"
@@ -1334,29 +1494,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "merfight.base_files.7z": {
-                        "name": "merfight.base_files.7z",
-                        "size": 459607
+                    "merfight.base_files.7z.001": {
+                        "name": "merfight.base_files.7z.001",
+                        "size": 459604
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "MerFight: Curse of the Arctic Prince",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "",
                 "description": "Character artwork",
                 "files": {
-                    "merfight.full.7z": {
-                        "name": "merfight.full.7z",
-                        "size": 3239496
+                    "merfight.full.7z.001": {
+                        "name": "merfight.full.7z.001",
+                        "size": 3239524
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "MerFight: Curse of the Arctic Prince"
@@ -1367,15 +1527,15 @@
                 "credits": "HD Renders by @mk64hd",
                 "description": "Base config to use this game.",
                 "files": {
-                    "mk64.base_files.7z": {
-                        "name": "mk64.base_files.7z",
-                        "size": 5799432
+                    "mk64.base_files.7z.001": {
+                        "name": "mk64.base_files.7z.001",
+                        "size": 5799440
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Mario Kart 64",
-                "version": "1.04"
+                "version": "1.05"
             }
         },
         "name": "Mario Kart 64"
@@ -1386,15 +1546,15 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "mk8dx.base_files.7z": {
-                        "name": "mk8dx.base_files.7z",
-                        "size": 1107006
+                    "mk8dx.base_files.7z.001": {
+                        "name": "mk8dx.base_files.7z.001",
+                        "size": 1107064
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Mario Kart 8 Deluxe",
-                "version": "1.04"
+                "version": "1.05"
             }
         },
         "name": "Mario Kart 8 Deluxe"
@@ -1405,29 +1565,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "mkwii.base_files.7z": {
-                        "name": "mkwii.base_files.7z",
+                    "mkwii.base_files.7z.001": {
+                        "name": "mkwii.base_files.7z.001",
                         "size": 4910540
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Mario Kart Wii",
-                "version": "1.04"
+                "version": "1.05"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Renders",
                 "files": {
-                    "mkwii.full.7z": {
-                        "name": "mkwii.full.7z",
-                        "size": 14424503
+                    "mkwii.full.7z.001": {
+                        "name": "mkwii.full.7z.001",
+                        "size": 14424526
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Mario Kart Wii"
@@ -1438,15 +1598,15 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "mkxl.base_files.7z": {
-                        "name": "mkxl.base_files.7z",
-                        "size": 37695771
+                    "mkxl.base_files.7z.001": {
+                        "name": "mkxl.base_files.7z.001",
+                        "size": 37695587
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Mortal Kombat XL",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Mortal Kombat XL"
@@ -1457,29 +1617,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "msb.base_files.7z": {
-                        "name": "msb.base_files.7z",
-                        "size": 290616
+                    "msb.base_files.7z.001": {
+                        "name": "msb.base_files.7z.001",
+                        "size": 290612
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Mario Superstar Baseball",
-                "version": "1.04"
+                "version": "1.05"
             },
             "full": {
                 "credits": "",
                 "description": "Character Renders",
                 "files": {
-                    "msb.full.7z": {
-                        "name": "msb.full.7z",
-                        "size": 20072493
+                    "msb.full.7z.001": {
+                        "name": "msb.full.7z.001",
+                        "size": 20072321
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Mario Superstar Baseball"
@@ -1490,29 +1650,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "msbl.base_files.7z": {
-                        "name": "msbl.base_files.7z",
-                        "size": 472231
+                    "msbl.base_files.7z.001": {
+                        "name": "msbl.base_files.7z.001",
+                        "size": 882543
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Mario Strikers: Battle League",
-                "version": "1.07"
+                "version": "1.2"
             },
             "full": {
                 "credits": "",
                 "description": "Character artwork",
                 "files": {
-                    "msbl.full.7z": {
-                        "name": "msbl.full.7z",
-                        "size": 5412317
+                    "msbl.full.7z.001": {
+                        "name": "msbl.full.7z.001",
+                        "size": 12974590
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.0"
+                "version": "1.2"
             }
         },
         "name": "Mario Strikers: Battle League"
@@ -1523,43 +1683,43 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "msc.base_files.7z": {
-                        "name": "msc.base_files.7z",
-                        "size": 819486
+                    "msc.base_files.7z.001": {
+                        "name": "msc.base_files.7z.001",
+                        "size": 819485
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Mario Strikers Charged",
-                "version": "1.08"
+                "version": "1.09"
             },
             "card": {
                 "credits": "",
                 "description": "Challenge Cards",
                 "files": {
-                    "msc.card.7z": {
-                        "name": "msc.card.7z",
-                        "size": 2149378
+                    "msc.card.7z.001": {
+                        "name": "msc.card.7z.001",
+                        "size": 2149409
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Challenge Cards",
-                "version": "1.0"
+                "version": "1.02"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Artworks",
                 "files": {
-                    "msc.full.7z": {
-                        "name": "msc.full.7z",
-                        "size": 16855924
+                    "msc.full.7z.001": {
+                        "name": "msc.full.7z.001",
+                        "size": 16855909
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.01"
+                "version": "1.02"
             }
         },
         "name": "Mario Strikers Charged"
@@ -1570,43 +1730,57 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "mta.base_files.7z": {
-                        "name": "mta.base_files.7z",
-                        "size": 1126531
+                    "mta.base_files.7z.001": {
+                        "name": "mta.base_files.7z.001",
+                        "size": 1126540
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Mario Tennis Aces",
-                "version": "1.05"
+                "version": "1.06"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
-                    "mta.full.7z": {
-                        "name": "mta.full.7z",
-                        "size": 22531929
+                    "mta.full.7z.001": {
+                        "name": "mta.full.7z.001",
+                        "size": 22531783
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.0"
+                "version": "1.01"
+            },
+            "full_upscale": {
+                "credits": "@MathiasWolfbrok for cropping\nUpscaled using realesrgan-x4plus-anime",
+                "description": "Character renders",
+                "files": {
+                    "mta.full_upscale.7z.001": {
+                        "name": "mta.full_upscale.7z.001",
+                        "size": 301011178
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Renders (Upscaled)",
+                "version": "1.01"
             },
             "logo": {
                 "credits": "",
                 "description": "Character emblems",
                 "files": {
-                    "mta.logo.7z": {
-                        "name": "mta.logo.7z",
-                        "size": 1702122
+                    "mta.logo.7z.001": {
+                        "name": "mta.logo.7z.001",
+                        "size": 1702132
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Emblems",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Mario Tennis Aces"
@@ -1617,29 +1791,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "multiversus.base_files.7z": {
-                        "name": "multiversus.base_files.7z",
-                        "size": 3236819
+                    "multiversus.base_files.7z.001": {
+                        "name": "multiversus.base_files.7z.001",
+                        "size": 16626833
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Multiversus",
-                "version": "0.2"
+                "version": "1.1"
             },
             "full": {
-                "credits": "",
+                "credits": "Assets exported from the MVS Esports kit (https://warnerbros.ent.box.com/s/z0bixehnl26yx14q3802zktrtjm49e19/folder/173605396839)",
                 "description": "Character artwork",
                 "files": {
-                    "multiversus.full.7z": {
-                        "name": "multiversus.full.7z",
-                        "size": 2939048
+                    "multiversus.full.7z.001": {
+                        "name": "multiversus.full.7z.001",
+                        "size": 137277187
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "0.2"
+                "version": "1.1"
             }
         },
         "name": "Multiversus"
@@ -1650,29 +1824,29 @@
                 "credits": "Assets ripped from SRK Wiki (https://srk.shib.live/w/Marvel_vs_Capcom_2)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "mvc2.base_files.7z": {
-                        "name": "mvc2.base_files.7z",
+                    "mvc2.base_files.7z.001": {
+                        "name": "mvc2.base_files.7z.001",
                         "size": 1186867
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Marvel VS Capcom 2: New Age of Heroes",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "mvc2.full.7z": {
-                        "name": "mvc2.full.7z",
-                        "size": 46266511
+                    "mvc2.full.7z.001": {
+                        "name": "mvc2.full.7z.001",
+                        "size": 46266580
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.01"
+                "version": "1.03"
             }
         },
         "name": "Marvel VS Capcom 2: New Age of Heroes"
@@ -1683,29 +1857,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "mvci.base_files.7z": {
-                        "name": "mvci.base_files.7z",
-                        "size": 176839
+                    "mvci.base_files.7z.001": {
+                        "name": "mvci.base_files.7z.001",
+                        "size": 176846
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Marvel vs. Capcom: Infinite",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "",
                 "description": "Character renders",
                 "files": {
-                    "mvci.full.7z": {
-                        "name": "mvci.full.7z",
+                    "mvci.full.7z.001": {
+                        "name": "mvci.full.7z.001",
                         "size": 7223182
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Marvel vs. Capcom: Infinite"
@@ -1716,57 +1890,57 @@
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Artwork from the original animated series",
                 "files": {
-                    "nasb.ani.7z": {
-                        "name": "nasb.ani.7z",
-                        "size": 8071460
+                    "nasb.ani.7z.001": {
+                        "name": "nasb.ani.7z.001",
+                        "size": 9151282
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Source Artwork",
-                "version": "1.6"
+                "version": "1.8"
             },
             "base_files": {
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "nasb.base_files.7z": {
-                        "name": "nasb.base_files.7z",
-                        "size": 8222881
+                    "nasb.base_files.7z.001": {
+                        "name": "nasb.base_files.7z.001",
+                        "size": 9022287
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Nickelodeon All-Star Brawl",
-                "version": "1.6"
+                "version": "1.8"
             },
             "full": {
                 "credits": "",
                 "description": "Character renders",
                 "files": {
-                    "nasb.full.7z": {
-                        "name": "nasb.full.7z",
-                        "size": 47207852
+                    "nasb.full.7z.001": {
+                        "name": "nasb.full.7z.001",
+                        "size": 51691889
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.6"
+                "version": "1.8"
             },
             "stage_icon": {
                 "credits": "",
                 "description": "Stage icons",
                 "files": {
-                    "nasb.stage_icon.7z": {
-                        "name": "nasb.stage_icon.7z",
-                        "size": 77155697
+                    "nasb.stage_icon.7z.001": {
+                        "name": "nasb.stage_icon.7z.001",
+                        "size": 85746501
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Stages",
-                "version": "1.6"
+                "version": "1.8"
             }
         },
         "name": "Nickelodeon All-Star Brawl"
@@ -1777,29 +1951,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Neo_Turf_Masters)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "neoturf.base_files.7z": {
-                        "name": "neoturf.base_files.7z",
-                        "size": 109834
+                    "neoturf.base_files.7z.001": {
+                        "name": "neoturf.base_files.7z.001",
+                        "size": 109841
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Neo Turf Masters",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Neo_Turf_Masters)",
                 "description": "Character portraits",
                 "files": {
-                    "neoturf.full.7z": {
-                        "name": "neoturf.full.7z",
-                        "size": 1972243
+                    "neoturf.full.7z.001": {
+                        "name": "neoturf.full.7z.001",
+                        "size": 1972236
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Neo Turf Masters"
@@ -1810,15 +1984,15 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "ngnt4.base_files.7z": {
-                        "name": "ngnt4.base_files.7z",
-                        "size": 1234726
+                    "ngnt4.base_files.7z.001": {
+                        "name": "ngnt4.base_files.7z.001",
+                        "size": 1234730
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Naruto: Gekit\u014d Ninja Taisen! 4",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Naruto: Gekit\u014d Ninja Taisen! 4"
@@ -1829,29 +2003,29 @@
                 "credits": "Files ripped from Dustloop Wiki",
                 "description": "Base config to use this game.",
                 "files": {
-                    "p4au.base_files.7z": {
-                        "name": "p4au.base_files.7z",
-                        "size": 609332
+                    "p4au.base_files.7z.001": {
+                        "name": "p4au.base_files.7z.001",
+                        "size": 609342
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Persona 4 Arena Ultimax",
-                "version": "1.12"
+                "version": "1.13"
             },
             "full": {
                 "credits": "Files ripped from Dustloop Wiki\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "p4au.full.7z": {
-                        "name": "p4au.full.7z",
-                        "size": 8335519
+                    "p4au.full.7z.001": {
+                        "name": "p4au.full.7z.001",
+                        "size": 8335450
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Persona 4 Arena Ultimax"
@@ -1862,29 +2036,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "panel.base_files.7z": {
-                        "name": "panel.base_files.7z",
-                        "size": 600280
+                    "panel.base_files.7z.001": {
+                        "name": "panel.base_files.7z.001",
+                        "size": 600292
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Panel de Pon",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "panel.full.7z": {
-                        "name": "panel.full.7z",
-                        "size": 142432
+                    "panel.full.7z.001": {
+                        "name": "panel.full.7z.001",
+                        "size": 142436
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Panel de Pon"
@@ -1895,29 +2069,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "panelna.base_files.7z": {
-                        "name": "panelna.base_files.7z",
-                        "size": 461136
+                    "panelna.base_files.7z.001": {
+                        "name": "panelna.base_files.7z.001",
+                        "size": 461146
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Tetris Attack",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "panelna.full.7z": {
-                        "name": "panelna.full.7z",
-                        "size": 127842
+                    "panelna.full.7z.001": {
+                        "name": "panelna.full.7z.001",
+                        "size": 127832
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Tetris Attack"
@@ -1928,29 +2102,29 @@
                 "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Project_Justice)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "pjustice.base_files.7z": {
-                        "name": "pjustice.base_files.7z",
-                        "size": 821863
+                    "pjustice.base_files.7z.001": {
+                        "name": "pjustice.base_files.7z.001",
+                        "size": 821861
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Project Justice",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "",
                 "description": "Character artwork",
                 "files": {
-                    "pjustice.full.7z": {
-                        "name": "pjustice.full.7z",
-                        "size": 1120669
+                    "pjustice.full.7z.001": {
+                        "name": "pjustice.full.7z.001",
+                        "size": 1120753
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Project Justice"
@@ -1961,29 +2135,29 @@
                 "credits": "Arclart for the Pok\u00e9mon Legends: Arceus icons",
                 "description": "Base config to use this game.",
                 "files": {
-                    "pkmn.base_files.7z": {
-                        "name": "pkmn.base_files.7z",
-                        "size": 954566
+                    "pkmn.base_files.7z.001": {
+                        "name": "pkmn.base_files.7z.001",
+                        "size": 954545
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Pok\u00e9mon",
-                "version": "1.17"
+                "version": "1.18"
             },
             "full": {
                 "credits": "",
                 "description": "Pok\u00e9mon Home sprites",
                 "files": {
-                    "pkmn.full.7z": {
-                        "name": "pkmn.full.7z",
-                        "size": 126426895
+                    "pkmn.full.7z.001": {
+                        "name": "pkmn.full.7z.001",
+                        "size": 126427081
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Pok\u00e9mon Home sprites",
-                "version": "1.17"
+                "version": "1.18"
             }
         },
         "name": "Pok\u00e9mon"
@@ -1994,29 +2168,29 @@
                 "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Pocket_Fighter)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "pocket.base_files.7z": {
-                        "name": "pocket.base_files.7z",
-                        "size": 206785
+                    "pocket.base_files.7z.001": {
+                        "name": "pocket.base_files.7z.001",
+                        "size": 206789
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Super Gem Fighter: Mini Mix",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Pocket_Fighter)\n@MathiasWolfbrok for cropping",
                 "description": "Character Win Screens",
                 "files": {
-                    "pocket.full.7z": {
-                        "name": "pocket.full.7z",
-                        "size": 137257
+                    "pocket.full.7z.001": {
+                        "name": "pocket.full.7z.001",
+                        "size": 137242
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Win Screens",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Super Gem Fighter: Mini Mix"
@@ -2027,32 +2201,32 @@
                 "credits": "Icons ripped from Pok\u00e9mon Sun & Moon and Pok\u00e9mon Omega Ruby & Alpha Sapphire\nCustom Shadow Mewtwo icon by @MathiasWolfbrok",
                 "description": "Base config to use this game.",
                 "files": {
-                    "pokkendx.base_files.7z": {
-                        "name": "pokkendx.base_files.7z",
-                        "size": 416690
+                    "pokkendx.base_files.7z.001": {
+                        "name": "pokkendx.base_files.7z.001",
+                        "size": 417991
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
-                "name": "Pokken Tournament DX",
-                "version": "1.02"
+                "name": "Pokk\u00e9n Tournament DX",
+                "version": "1.04"
             },
             "full": {
-                "credits": "@MathiasWolfbrok for cropping",
+                "credits": "",
                 "description": "Character renders",
                 "files": {
-                    "pokkendx.full.7z": {
-                        "name": "pokkendx.full.7z",
-                        "size": 19228972
+                    "pokkendx.full.7z.001": {
+                        "name": "pokkendx.full.7z.001",
+                        "size": 26078368
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.01"
+                "version": "1.03"
             }
         },
-        "name": "Pokken Tournament DX"
+        "name": "Pokk\u00e9n Tournament DX"
     },
     "pplanet": {
         "assets": {
@@ -2060,29 +2234,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Punch_Planet)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "pplanet.base_files.7z": {
-                        "name": "pplanet.base_files.7z",
+                    "pplanet.base_files.7z.001": {
+                        "name": "pplanet.base_files.7z.001",
                         "size": 56688
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Punch Planet",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "pplanet.full.7z": {
-                        "name": "pplanet.full.7z",
-                        "size": 4012464
+                    "pplanet.full.7z.001": {
+                        "name": "pplanet.full.7z.001",
+                        "size": 4012325
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Punch Planet"
@@ -2093,43 +2267,43 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "pplus.base_files.7z": {
-                        "name": "pplus.base_files.7z",
-                        "size": 437308
+                    "pplus.base_files.7z.001": {
+                        "name": "pplus.base_files.7z.001",
+                        "size": 437216
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Project+",
-                "version": "1.15"
+                "version": "1.16"
             },
             "full": {
-                "credits": "@MathiasWolfbrok for cropping",
+                "credits": "",
                 "description": "HD character renders",
                 "files": {
-                    "pplus.full.7z": {
-                        "name": "pplus.full.7z",
-                        "size": 29115937
+                    "pplus.full.7z.001": {
+                        "name": "pplus.full.7z.001",
+                        "size": 18297774
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.11"
+                "version": "1.13"
             },
             "portrait": {
                 "credits": "",
                 "description": "Character portraits as seen on the Character Select Screen\nNote: These are direct rips from the game",
                 "files": {
-                    "pplus.portrait.7z": {
-                        "name": "pplus.portrait.7z",
-                        "size": 6698086
+                    "pplus.portrait.7z.001": {
+                        "name": "pplus.portrait.7z.001",
+                        "size": 6698348
                     }
                 },
-                "has_eyesight_data": false,
+                "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.1"
+                "version": "1.12"
             }
         },
         "name": "Project+"
@@ -2140,32 +2314,65 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "prbftg.base_files.7z": {
-                        "name": "prbftg.base_files.7z",
-                        "size": 1706019
+                    "prbftg.base_files.7z.001": {
+                        "name": "prbftg.base_files.7z.001",
+                        "size": 1706014
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Power Rangers: Battle for the Grid",
-                "version": "1.11"
+                "version": "1.12"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
-                    "prbftg.full.7z": {
-                        "name": "prbftg.full.7z",
-                        "size": 24750469
+                    "prbftg.full.7z.001": {
+                        "name": "prbftg.full.7z.001",
+                        "size": 24750470
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.11"
+                "version": "1.12"
             }
         },
         "name": "Power Rangers: Battle for the Grid"
+    },
+    "puchi": {
+        "assets": {
+            "base_files": {
+                "credits": "Assets ripped from https://randomhoohaas.flyingomelette.com/shr/puchi/",
+                "description": "Base config to use this game.",
+                "files": {
+                    "puchi.base_files.7z.001": {
+                        "name": "puchi.base_files.7z.001",
+                        "size": 177471
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Puchi Carat",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character portraits",
+                "files": {
+                    "puchi.full.7z.001": {
+                        "name": "puchi.full.7z.001",
+                        "size": 244977
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Portraits",
+                "version": "1.0"
+            }
+        },
+        "name": "Puchi Carat"
     },
     "rbff2": {
         "assets": {
@@ -2173,29 +2380,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "rbff2.base_files.7z": {
-                        "name": "rbff2.base_files.7z",
-                        "size": 196116
+                    "rbff2.base_files.7z.001": {
+                        "name": "rbff2.base_files.7z.001",
+                        "size": 196147
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Real Bout Fatal Fury 2: The Newcomers",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "rbff2.full.7z": {
-                        "name": "rbff2.full.7z",
-                        "size": 157667
+                    "rbff2.full.7z.001": {
+                        "name": "rbff2.full.7z.001",
+                        "size": 157668
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Real Bout Fatal Fury 2: The Newcomers"
@@ -2206,32 +2413,65 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Red_Earth/War-Zard)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "reddearth.base_files.7z": {
-                        "name": "reddearth.base_files.7z",
+                    "reddearth.base_files.7z.001": {
+                        "name": "reddearth.base_files.7z.001",
                         "size": 375589
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Red Earth",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Red_Earth/War-Zard)\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "reddearth.full.7z": {
-                        "name": "reddearth.full.7z",
-                        "size": 71942
+                    "reddearth.full.7z.001": {
+                        "name": "reddearth.full.7z.001",
+                        "size": 72028
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Portraits",
+                "version": "1.02"
+            }
+        },
+        "name": "Red Earth"
+    },
+    "rf2": {
+        "assets": {
+            "base_files": {
+                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/The_Rumble_Fish_2)",
+                "description": "Base config to use this game.",
+                "files": {
+                    "rf2.base_files.7z.001": {
+                        "name": "rf2.base_files.7z.001",
+                        "size": 343322
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
+                "name": "The Rumble Fish 2",
+                "version": "1.01"
+            },
+            "full": {
+                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/The_Rumble_Fish_2)",
+                "description": "Character portraits",
+                "files": {
+                    "rf2.full.7z.001": {
+                        "name": "rf2.full.7z.001",
+                        "size": 6030266
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
-        "name": "Red Earth"
+        "name": "The Rumble Fish 2"
     },
     "roa": {
         "assets": {
@@ -2239,71 +2479,71 @@
                 "credits": "@Readeku for ripping the assets\n@MathiasWolfbrok for cropping",
                 "description": "Character artworks",
                 "files": {
-                    "roa.art.7z": {
-                        "name": "roa.art.7z",
-                        "size": 19415317
+                    "roa.art.7z.001": {
+                        "name": "roa.art.7z.001",
+                        "size": 19415313
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "2.01"
+                "version": "2.02"
             },
             "base_files": {
                 "credits": "@Readeku for ripping the assets",
                 "description": "Base config to use this game.",
                 "files": {
-                    "roa.base_files.7z": {
-                        "name": "roa.base_files.7z",
-                        "size": 2998328
+                    "roa.base_files.7z.001": {
+                        "name": "roa.base_files.7z.001",
+                        "size": 2998636
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Rivals of Aether",
-                "version": "2.2"
+                "version": "2.21"
             },
             "full": {
                 "credits": "@Readeku for ripping the assets\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "roa.full.7z": {
-                        "name": "roa.full.7z",
-                        "size": 2260464
+                    "roa.full.7z.001": {
+                        "name": "roa.full.7z.001",
+                        "size": 2260352
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "2.2"
+                "version": "2.22"
             },
             "stage_bg": {
                 "credits": "@Readeku for ripping the assets",
                 "description": "Stage backgrounds",
                 "files": {
-                    "roa.stage_bg.7z": {
-                        "name": "roa.stage_bg.7z",
-                        "size": 220043085
+                    "roa.stage_bg.7z.001": {
+                        "name": "roa.stage_bg.7z.001",
+                        "size": 220041044
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Stage Backgrounds",
-                "version": "2.0"
+                "version": "2.01"
             },
             "stage_icon": {
                 "credits": "@Readeku for ripping the assets",
                 "description": "Stage icons",
                 "files": {
-                    "roa.stage_icon.7z": {
-                        "name": "roa.stage_icon.7z",
-                        "size": 2245552
+                    "roa.stage_icon.7z.001": {
+                        "name": "roa.stage_icon.7z.001",
+                        "size": 2245567
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Stages",
-                "version": "2.0"
+                "version": "2.01"
             }
         },
         "name": "Rivals of Aether"
@@ -2314,29 +2554,57 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "rrev.base_files.7z": {
-                        "name": "rrev.base_files.7z",
-                        "size": 1054885
+                    "rrev.base_files.7z.001": {
+                        "name": "rrev.base_files.7z.001",
+                        "size": 26742440
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Rushdown Revolt",
-                "version": "1.01"
+                "version": "1.2"
+            },
+            "csp": {
+                "credits": null,
+                "description": "Character select portraits",
+                "files": {
+                    "rrev.csp.7z.001": {
+                        "name": "rrev.csp.7z.001",
+                        "size": 2820485
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Portraits",
+                "version": "1.2"
             },
             "full": {
-                "credits": "@MathiasWolfbrok for cropping",
-                "description": "Character portraits",
+                "credits": "",
+                "description": "Full body Artwork",
                 "files": {
-                    "rrev.full.7z": {
-                        "name": "rrev.full.7z",
-                        "size": 4748391
+                    "rrev.full.7z.001": {
+                        "name": "rrev.full.7z.001",
+                        "size": 27750338
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
-                "name": "Portraits",
-                "version": "1.0"
+                "name": "Artwork",
+                "version": "1.12"
+            },
+            "poster": {
+                "credits": null,
+                "description": "Poster art for every character",
+                "files": {
+                    "rrev.poster.7z.001": {
+                        "name": "rrev.poster.7z.001",
+                        "size": 5977635
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Poster art",
+                "version": "1.2"
             }
         },
         "name": "Rushdown Revolt"
@@ -2347,32 +2615,84 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "samsho2019.base_files.7z": {
-                        "name": "samsho2019.base_files.7z",
-                        "size": 1419768
+                    "samsho2019.base_files.7z.001": {
+                        "name": "samsho2019.base_files.7z.001",
+                        "size": 1419769
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Samurai Shodown (2019)",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
-                    "samsho2019.full.7z": {
-                        "name": "samsho2019.full.7z",
-                        "size": 22444691
+                    "samsho2019.full.7z.001": {
+                        "name": "samsho2019.full.7z.001",
+                        "size": 22444724
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Samurai Shodown (2019)"
+    },
+    "samsho5sp": {
+        "assets": {
+            "base_files": {
+                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Samurai_Shodown_V_Special)",
+                "description": "Base config to use this game.",
+                "files": {
+                    "samsho5sp.base_files.7z.001": {
+                        "name": "samsho5sp.base_files.7z.001",
+                        "size": 1277848
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Samurai Shodown V Special",
+                "version": "1.0"
+            }
+        },
+        "name": "Samurai Shodown V Special"
+    },
+    "samsho6": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "samsho6.base_files.7z.001": {
+                        "name": "samsho6.base_files.7z.001",
+                        "size": 1506960
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Samurai Shodown VI",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character artwork",
+                "files": {
+                    "samsho6.full.7z.001": {
+                        "name": "samsho6.full.7z.001",
+                        "size": 30693147
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Artwork",
+                "version": "1.0"
+            }
+        },
+        "name": "Samurai Shodown VI"
     },
     "sc2": {
         "assets": {
@@ -2380,32 +2700,65 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "sc2.base_files.7z": {
-                        "name": "sc2.base_files.7z",
-                        "size": 383509
+                    "sc2.base_files.7z.001": {
+                        "name": "sc2.base_files.7z.001",
+                        "size": 383510
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "SoulCalibur II",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "",
                 "description": "Character portraits",
                 "files": {
-                    "sc2.full.7z": {
-                        "name": "sc2.full.7z",
-                        "size": 18048614
+                    "sc2.full.7z.001": {
+                        "name": "sc2.full.7z.001",
+                        "size": 18048574
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "SoulCalibur II"
+    },
+    "sc6": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "sc6.base_files.7z.001": {
+                        "name": "sc6.base_files.7z.001",
+                        "size": 24787749
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "SoulCalibur VI",
+                "version": "1.0"
+            },
+            "full": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character Artwork",
+                "files": {
+                    "sc6.full.7z.001": {
+                        "name": "sc6.full.7z.001",
+                        "size": 13008057
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Artwork",
+                "version": "1.0"
+            }
+        },
+        "name": "SoulCalibur VI"
     },
     "sdbz": {
         "assets": {
@@ -2413,29 +2766,43 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "sdbz.base_files.7z": {
-                        "name": "sdbz.base_files.7z",
-                        "size": 502845
+                    "sdbz.base_files.7z.001": {
+                        "name": "sdbz.base_files.7z.001",
+                        "size": 502858
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Super Dragon Ball Z",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character renders",
                 "files": {
-                    "sdbz.full.7z": {
-                        "name": "sdbz.full.7z",
-                        "size": 8953643
+                    "sdbz.full.7z.001": {
+                        "name": "sdbz.full.7z.001",
+                        "size": 8953683
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.01"
+                "version": "1.02"
+            },
+            "full_upscale": {
+                "credits": "@MathiasWolfbrok for cropping\nUpscaled using realesrgan-x4plus-anime",
+                "description": "Character renders",
+                "files": {
+                    "sdbz.full_upscale.7z.001": {
+                        "name": "sdbz.full_upscale.7z.001",
+                        "size": 102862415
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Renders (Upscaled)",
+                "version": "1.02"
             }
         },
         "name": "Super Dragon Ball Z"
@@ -2446,43 +2813,43 @@
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Base config to use this game.",
                 "files": {
-                    "sf3ts.base_files.7z": {
-                        "name": "sf3ts.base_files.7z",
-                        "size": 237232
+                    "sf3ts.base_files.7z.001": {
+                        "name": "sf3ts.base_files.7z.001",
+                        "size": 237242
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Street Fighter III 3rd Strike: Fight for the Future",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "sf3ts.full.7z": {
-                        "name": "sf3ts.full.7z",
-                        "size": 10608927
+                    "sf3ts.full.7z.001": {
+                        "name": "sf3ts.full.7z.001",
+                        "size": 10608956
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.01"
+                "version": "1.03"
             },
             "full_new": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits from Street Fighter III: Third Strike - Online Edition",
                 "files": {
-                    "sf3ts.full_new.7z": {
-                        "name": "sf3ts.full_new.7z",
-                        "size": 11189731
+                    "sf3ts.full_new.7z.001": {
+                        "name": "sf3ts.full_new.7z.001",
+                        "size": 11189761
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits (Online Edition)",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Street Fighter III 3rd Strike: Fight for the Future"
@@ -2493,43 +2860,43 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "sf6.base_files.7z": {
-                        "name": "sf6.base_files.7z",
-                        "size": 876588
+                    "sf6.base_files.7z.001": {
+                        "name": "sf6.base_files.7z.001",
+                        "size": 1667451
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Street Fighter 6",
-                "version": "0.2"
+                "version": "0.4"
             },
             "full": {
                 "credits": null,
                 "description": "Character Renders",
                 "files": {
-                    "sf6.full.7z": {
-                        "name": "sf6.full.7z",
-                        "size": 7704493
+                    "sf6.full.7z.001": {
+                        "name": "sf6.full.7z.001",
+                        "size": 20624473
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": 0.2
+                "version": "0.41"
             },
             "website": {
                 "credits": null,
                 "description": "Selection bars from the Street Fighter 6 Website (https://www.streetfighter.com/6/en-us/character/)",
                 "files": {
-                    "sf6.website.7z": {
-                        "name": "sf6.website.7z",
-                        "size": 1270175
+                    "sf6.website.7z.001": {
+                        "name": "sf6.website.7z.001",
+                        "size": 3666025
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Website",
-                "version": 0.2
+                "version": "0.4"
             }
         },
         "name": "Street Fighter 6"
@@ -2540,29 +2907,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "sfalpha3.base_files.7z": {
-                        "name": "sfalpha3.base_files.7z",
-                        "size": 1134127
+                    "sfalpha3.base_files.7z.001": {
+                        "name": "sfalpha3.base_files.7z.001",
+                        "size": 1134144
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Street Fighter Alpha 3",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "sfalpha3.full.7z": {
-                        "name": "sfalpha3.full.7z",
-                        "size": 480000
+                    "sfalpha3.full.7z.001": {
+                        "name": "sfalpha3.full.7z.001",
+                        "size": 479999
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Street Fighter Alpha 3"
@@ -2573,18 +2940,51 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "sfex3.base_files.7z": {
-                        "name": "sfex3.base_files.7z",
-                        "size": 10425182
+                    "sfex3.base_files.7z.001": {
+                        "name": "sfex3.base_files.7z.001",
+                        "size": 10425216
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Street Fighter EX3",
+                "version": "1.02"
+            },
+            "full_upscale": {
+                "credits": "Upscaled using realesrgan-x4plus-anime",
+                "description": "Character icons",
+                "files": {
+                    "sfex3.full_upscale.7z.001": {
+                        "name": "sfex3.full_upscale.7z.001",
+                        "size": 112035854
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Icons (Upscaled)",
                 "version": "1.01"
             }
         },
         "name": "Street Fighter EX3"
+    },
+    "sftm": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "sftm.base_files.7z.001": {
+                        "name": "sftm.base_files.7z.001",
+                        "size": 785275
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Street Fighter: The Movie (arcade game)",
+                "version": "1.0"
+            }
+        },
+        "name": "Street Fighter: The Movie (arcade game)"
     },
     "sfv": {
         "assets": {
@@ -2592,29 +2992,29 @@
                 "credits": null,
                 "description": "Base config to use this game.",
                 "files": {
-                    "sfv.base_files.7z": {
-                        "name": "sfv.base_files.7z",
-                        "size": 16518037
+                    "sfv.base_files.7z.001": {
+                        "name": "sfv.base_files.7z.001",
+                        "size": 16517851
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Street Fighter V",
-                "version": "0.94"
+                "version": "0.95"
             },
             "full": {
                 "credits": null,
                 "description": "Bigger character portraits",
                 "files": {
-                    "sfv.full.7z": {
-                        "name": "sfv.full.7z",
-                        "size": 23927620
+                    "sfv.full.7z.001": {
+                        "name": "sfv.full.7z.001",
+                        "size": 23927594
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": 0.99
+                "version": "0.100"
             }
         },
         "name": "Street Fighter V"
@@ -2625,32 +3025,51 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Skullgirls)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "sg.base_files.7z": {
-                        "name": "sg.base_files.7z",
-                        "size": 274561
+                    "sg.base_files.7z.001": {
+                        "name": "sg.base_files.7z.001",
+                        "size": 287186
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Skullgirls: 2nd Encore+",
-                "version": "1.1"
+                "version": "1.21"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Skullgirls)\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "sg.full.7z": {
-                        "name": "sg.full.7z",
-                        "size": 20668559
+                    "sg.full.7z.001": {
+                        "name": "sg.full.7z.001",
+                        "size": 22090266
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.1"
+                "version": "1.21"
             }
         },
         "name": "Skullgirls: 2nd Encore+"
+    },
+    "slap": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "slap.base_files.7z.001": {
+                        "name": "slap.base_files.7z.001",
+                        "size": 966020
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Slap City",
+                "version": "1.0"
+            }
+        },
+        "name": "Slap City"
     },
     "sms": {
         "assets": {
@@ -2658,29 +3077,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "sms.base_files.7z": {
-                        "name": "sms.base_files.7z",
+                    "sms.base_files.7z.001": {
+                        "name": "sms.base_files.7z.001",
                         "size": 451511
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Super Mario Strikers",
-                "version": "1.06"
+                "version": "1.07"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Artworks",
                 "files": {
-                    "sms.full.7z": {
-                        "name": "sms.full.7z",
-                        "size": 9851911
+                    "sms.full.7z.001": {
+                        "name": "sms.full.7z.001",
+                        "size": 9851905
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.01"
+                "version": "1.02"
             }
         },
         "name": "Super Mario Strikers"
@@ -2691,29 +3110,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "snesmoon.base_files.7z": {
-                        "name": "snesmoon.base_files.7z",
-                        "size": 31788
+                    "snesmoon.base_files.7z.001": {
+                        "name": "snesmoon.base_files.7z.001",
+                        "size": 31821
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Bishoujo Senshi Sailor Moon S: Jougai Rantou!? Shuyaku Soudatsusen",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Idle Sprites",
                 "files": {
-                    "snesmoon.full.7z": {
-                        "name": "snesmoon.full.7z",
-                        "size": 41897
+                    "snesmoon.full.7z.001": {
+                        "name": "snesmoon.full.7z.001",
+                        "size": 41900
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Character Idle Sprites",
-                "version": "1.01"
+                "version": "1.02"
             }
         },
         "name": "Bishoujo Senshi Sailor Moon S: Jougai Rantou!? Shuyaku Soudatsusen"
@@ -2724,90 +3143,165 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "spf2x.base_files.7z": {
-                        "name": "spf2x.base_files.7z",
-                        "size": 26785
+                    "spf2x.base_files.7z.001": {
+                        "name": "spf2x.base_files.7z.001",
+                        "size": 26793
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Super Puzzle Fighter II Turbo",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "spf2x.full.7z": {
-                        "name": "spf2x.full.7z",
-                        "size": 128455
+                    "spf2x.full.7z.001": {
+                        "name": "spf2x.full.7z.001",
+                        "size": 128458
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Super Puzzle Fighter II Turbo"
     },
-    "ssb64": {
+    "spl3": {
         "assets": {
             "base_files": {
-                "credits": null,
+                "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "ssb64.base_files.7z": {
-                        "name": "ssb64.base_files.7z",
-                        "size": 211809
+                    "spl3.base_files.7z.001": {
+                        "name": "spl3.base_files.7z.001",
+                        "size": 1867953
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
-                "name": "Super Smash Bros",
-                "version": "1.16"
+                "name": "Splatoon 3",
+                "version": "1.1"
             },
-            "full": {
-                "credits": "@joao_shino for all crops",
-                "description": "Classic Mode VS screen renders for player 1.\nHas player 2 renders for a few characters.\nContains all alts.",
+            "special": {
+                "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
+                "description": "Special icons",
                 "files": {
-                    "ssb64.full.7z": {
-                        "name": "ssb64.full.7z",
-                        "size": 16670056
-                    }
-                },
-                "has_eyesight_data": true,
-                "has_stage_data": false,
-                "name": "VS screen renders",
-                "version": 1.11
-            },
-            "portrait": {
-                "credits": null,
-                "description": "Character select screen portraits without the background",
-                "files": {
-                    "ssb64.portrait.7z": {
-                        "name": "ssb64.portrait.7z",
-                        "size": 349879
+                    "spl3.special.7z.001": {
+                        "name": "spl3.special.7z.001",
+                        "size": 88270
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
-                "name": "Portraits",
-                "version": 1.1
+                "name": "Special Icons",
+                "version": "1.1"
             },
             "stage_icon": {
-                "credits": null,
-                "description": "Stage icons using the 3d dioramas from the Stage Select Screen",
+                "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
+                "description": "Stage icons",
                 "files": {
-                    "ssb64.stage_icon.7z": {
-                        "name": "ssb64.stage_icon.7z",
-                        "size": 18382805
+                    "spl3.stage_icon.7z.001": {
+                        "name": "spl3.stage_icon.7z.001",
+                        "size": 29312007
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Stage Icons",
-                "version": 1.1
+                "version": "1.1"
+            },
+            "sub": {
+                "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
+                "description": "Sub weapon icons",
+                "files": {
+                    "spl3.sub.7z.001": {
+                        "name": "spl3.sub.7z.001",
+                        "size": 25520
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Sub Icons",
+                "version": "1.1"
+            }
+        },
+        "name": "Splatoon 3"
+    },
+    "ssb64": {
+        "assets": {
+            "artwork": {
+                "credits": "Original characters: www.mariowiki.com. Remix arts by @sopebockz, @Retro64, @thequickslash. Resizing by joao_shino.",
+                "description": "Character artwork in a cartoony drawing style, as seen in the game's cover and manual",
+                "files": {
+                    "ssb64.artwork.7z.001": {
+                        "name": "ssb64.artwork.7z.001",
+                        "size": 86133136
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Artwork",
+                "version": "1.24"
+            },
+            "base_files": {
+                "credits": null,
+                "description": "Base config to use this game.",
+                "files": {
+                    "ssb64.base_files.7z.001": {
+                        "name": "ssb64.base_files.7z.001",
+                        "size": 213022
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": true,
+                "name": "Super Smash Bros",
+                "version": "1.22"
+            },
+            "full": {
+                "credits": "@joao_shino for all crops",
+                "description": "Classic Mode VS screen renders for player 1.\nHas player 2 renders for a few characters.\nContains all alts.",
+                "files": {
+                    "ssb64.full.7z.001": {
+                        "name": "ssb64.full.7z.001",
+                        "size": 17457511
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "VS screen renders",
+                "version": "1.21"
+            },
+            "portrait": {
+                "credits": null,
+                "description": "Character select screen portraits without the background",
+                "files": {
+                    "ssb64.portrait.7z.001": {
+                        "name": "ssb64.portrait.7z.001",
+                        "size": 365091
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Portraits",
+                "version": "1.21"
+            },
+            "stage_icon": {
+                "credits": null,
+                "description": "Stage icons using the 3d dioramas from the Stage Select Screen",
+                "files": {
+                    "ssb64.stage_icon.7z.001": {
+                        "name": "ssb64.stage_icon.7z.001",
+                        "size": 19757431
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Stage Icons",
+                "version": "1.21"
             }
         },
         "name": "Super Smash Bros"
@@ -2818,71 +3312,85 @@
                 "credits": null,
                 "description": "Base config to use this game.",
                 "files": {
-                    "ssbm.base_files.7z": {
-                        "name": "ssbm.base_files.7z",
-                        "size": 825278
+                    "ssbm.base_files.7z.001": {
+                        "name": "ssbm.base_files.7z.001",
+                        "size": 757927
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Super Smash Bros Melee",
-                "version": "0.97"
+                "version": "0.98"
             },
             "full": {
                 "credits": "Render captures by UnclePunch's pack in SmashBoards.",
                 "description": "VS screen renders from Classic Mode (Left side). Image borders adjusted to make characters proportionally better with one another.",
                 "files": {
-                    "ssbm.full.7z": {
-                        "name": "ssbm.full.7z",
-                        "size": 27689193
+                    "ssbm.full.7z.001": {
+                        "name": "ssbm.full.7z.001",
+                        "size": 23610255
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Full",
-                "version": "1.03"
+                "version": "1.05"
             },
             "portrait": {
                 "credits": null,
                 "description": "Character portraits used on the character select screen player slots",
                 "files": {
-                    "ssbm.portrait.7z": {
-                        "name": "ssbm.portrait.7z",
-                        "size": 4125683
+                    "ssbm.portrait.7z.001": {
+                        "name": "ssbm.portrait.7z.001",
+                        "size": 1590512
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
+                "version": "1.01"
+            },
+            "portrait_hd": {
+                "credits": "Renders available under https://assets.melee.tv/, by @davidvkimball.",
+                "description": "HD Renders of character portraits, resized and flipped for consistency.",
+                "files": {
+                    "ssbm.portrait_hd.7z.001": {
+                        "name": "ssbm.portrait_hd.7z.001",
+                        "size": 67109418
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "HD Portraits",
                 "version": "1.0"
+            },
+            "portrait_upscaled": {
+                "credits": null,
+                "description": "Character portraits used on the character select screen player slots, Upscaled using realesrgan-x4plus-anime.",
+                "files": {
+                    "ssbm.portrait_upscaled.7z.001": {
+                        "name": "ssbm.portrait_upscaled.7z.001",
+                        "size": 43418093
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Portraits (Upscaled)",
+                "version": "1.01"
             },
             "stage_icon": {
                 "credits": "@davidvkimball for the screenshots\n@MathiasWolfbrok for cropping",
                 "description": "Stage icons",
                 "files": {
-                    "ssbm.stage_icon.7z": {
-                        "name": "ssbm.stage_icon.7z",
-                        "size": 24129055
+                    "ssbm.stage_icon.7z.001": {
+                        "name": "ssbm.stage_icon.7z.001",
+                        "size": 23978669
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Stage Icons",
-                "version": 0.92
-            },
-            "vs_crops": {
-                "credits": "Render captures by UnclePunch's pack in SmashBoards.",
-                "description": "Vs screen renders cropped to the characters' faces, optimized for top/bottom cropping with eyes in the images' center.",
-                "files": {
-                    "ssbm.vs_crops.7z": {
-                        "name": "ssbm.vs_crops.7z",
-                        "size": 6713147
-                    }
-                },
-                "has_eyesight_data": false,
-                "has_stage_data": false,
-                "name": "Vs face crops",
-                "version": "1.0"
+                "version": "0.93"
             }
         },
         "name": "Super Smash Bros Melee"
@@ -2893,85 +3401,117 @@
                 "credits": null,
                 "description": "Base config to use this game.",
                 "files": {
-                    "ssbu.base_files.7z": {
-                        "name": "ssbu.base_files.7z",
-                        "size": 5295058
+                    "ssbu.base_files.7z.001": {
+                        "name": "ssbu.base_files.7z.001",
+                        "size": 4044751
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Super Smash Bros Ultimate",
-                "version": "1.07"
+                "version": "1.08"
             },
             "full": {
                 "credits": null,
                 "description": "Character portraits used on the character select screen player slots",
                 "files": {
-                    "ssbu.full.7z": {
-                        "name": "ssbu.full.7z",
-                        "size": 299662036
+                    "ssbu.full.7z.001": {
+                        "name": "ssbu.full.7z.001",
+                        "size": 252579894
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Full",
-                "version": 1.1
+                "version": "1.12"
             },
             "mural_art": {
-                "credits": "- @ElevenZM - original mural arts isolation.\n- @MuralAltDrive - alternate costumes.\n- @joao_shino - crops.\n- @kekwel_ssb - alternate costumes crops.",
-                "description": "Character arts painted by hand.",
+                "credits": "- @ElevenZM - original mural arts isolation.\n- @MuralAltDrive - alternate costumes, restoration.\n- @kekwel_ssb, @joao_shino - eyesights, resizing.",
+                "description": "Character arts painted by hand, resized to maintain consistency between characters.",
                 "files": {
-                    "ssbu.mural_art.7z": {
-                        "name": "ssbu.mural_art.7z",
-                        "size": 478595080
+                    "ssbu.mural_art.7z.001": {
+                        "name": "ssbu.mural_art.7z.001",
+                        "size": 947721291
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Mural arts",
-                "version": "0.992"
+                "version": "0.999"
             },
             "portrait": {
                 "credits": null,
                 "description": "Character select screen portraits",
                 "files": {
-                    "ssbu.portrait.7z": {
-                        "name": "ssbu.portrait.7z",
-                        "size": 26194561
+                    "ssbu.portrait.7z.001": {
+                        "name": "ssbu.portrait.7z.001",
+                        "size": 23733825
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": 1.0
+                "version": "1.01"
             },
             "stage_icon": {
                 "credits": null,
                 "description": "Stage icons",
                 "files": {
-                    "ssbu.stage_icon.7z": {
-                        "name": "ssbu.stage_icon.7z",
-                        "size": 27305875
+                    "ssbu.stage_icon.7z.001": {
+                        "name": "ssbu.stage_icon.7z.001",
+                        "size": 26070555
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Stage Icons",
-                "version": 0.9
+                "version": "0.91"
+            },
+            "vs_renders": {
+                "credits": null,
+                "description": "Renders used in the ingame vs screen. Huge resolution. Cropped at the bottom.",
+                "files": {
+                    "ssbu.vs_renders.7z.001": {
+                        "name": "ssbu.vs_renders.7z.001",
+                        "size": 1572864000
+                    },
+                    "ssbu.vs_renders.7z.002": {
+                        "name": "ssbu.vs_renders.7z.002",
+                        "size": 772554425
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "VS Renders",
+                "version": "1.0"
             },
             "webm": {
                 "credits": "@WayShifter (Twitter)",
                 "description": "Vs Screen Webms. Re-encoded for lower size and lower CPU usage.",
                 "files": {
-                    "ssbu.webm.7z": {
-                        "name": "ssbu.webm.7z",
-                        "size": 423037591
+                    "ssbu.webm.7z.001": {
+                        "name": "ssbu.webm.7z.001",
+                        "size": 423041780
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Webms",
-                "version": 0.99
+                "version": "0.100"
+            },
+            "website": {
+                "credits": null,
+                "description": "Character renders from the game's website. Full body renders with baked shadows.",
+                "files": {
+                    "ssbu.website.7z.001": {
+                        "name": "ssbu.website.7z.001",
+                        "size": 1279504442
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Website",
+                "version": "1.0"
             }
         },
         "name": "Super Smash Bros Ultimate"
@@ -2982,15 +3522,15 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "ssbwiiu.base_files.7z": {
-                        "name": "ssbwiiu.base_files.7z",
-                        "size": 3843972
+                    "ssbwiiu.base_files.7z.001": {
+                        "name": "ssbwiiu.base_files.7z.001",
+                        "size": 3843925
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Super Smash Bros. for Wii U",
-                "version": "1.06"
+                "version": "1.07"
             }
         },
         "name": "Super Smash Bros. for Wii U"
@@ -3001,32 +3541,79 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "ssf2x.base_files.7z": {
-                        "name": "ssf2x.base_files.7z",
-                        "size": 1699993
+                    "ssf2x.base_files.7z.001": {
+                        "name": "ssf2x.base_files.7z.001",
+                        "size": 1699982
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Super Street Fighter II Turbo",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character artwork",
                 "files": {
-                    "ssf2x.full.7z": {
-                        "name": "ssf2x.full.7z",
-                        "size": 13484670
+                    "ssf2x.full.7z.001": {
+                        "name": "ssf2x.full.7z.001",
+                        "size": 13484713
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.0"
+                "version": "1.01"
+            },
+            "ultra_icon": {
+                "credits": "Assets ripped from Ultra Street Fighter II by @joao_shino",
+                "description": "Portraits from Ultra Street Fighter II (Switch)",
+                "files": {
+                    "ssf2x.ultra_icon.7z.001": {
+                        "name": "ssf2x.ultra_icon.7z.001",
+                        "size": 5503996
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "USF2 HD portraits",
+                "version": "1.2"
             }
         },
         "name": "Super Street Fighter II Turbo"
+    },
+    "svcpocket": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "svcpocket.base_files.7z.001": {
+                        "name": "svcpocket.base_files.7z.001",
+                        "size": 15526
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "SNK vs. Capcom: The Match of the Millennium",
+                "version": "1.01"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character portraits",
+                "files": {
+                    "svcpocket.full.7z.001": {
+                        "name": "svcpocket.full.7z.001",
+                        "size": 123241
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Portraits",
+                "version": "1.01"
+            }
+        },
+        "name": "SNK vs. Capcom: The Match of the Millennium"
     },
     "tekken7": {
         "assets": {
@@ -3034,29 +3621,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "tekken7.base_files.7z": {
-                        "name": "tekken7.base_files.7z",
-                        "size": 2638106
+                    "tekken7.base_files.7z.001": {
+                        "name": "tekken7.base_files.7z.001",
+                        "size": 2595493
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Tekken 7",
-                "version": "1.02"
+                "version": "1.1"
             },
             "full": {
                 "credits": null,
-                "description": "Bigger character portraits",
+                "description": "Bigger character portraits. Ripped from the official website, upscaled to 4x using realesrgan-x4plus-anime.",
                 "files": {
-                    "tekken7.full.7z": {
-                        "name": "tekken7.full.7z",
-                        "size": 27890560
+                    "tekken7.full.7z.001": {
+                        "name": "tekken7.full.7z.001",
+                        "size": 251492458
                     }
                 },
-                "has_eyesight_data": false,
+                "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "full",
-                "version": 1.0
+                "version": "1.3"
             }
         },
         "name": "Tekken 7"
@@ -3067,29 +3654,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "tfh.base_files.7z": {
-                        "name": "tfh.base_files.7z",
-                        "size": 353614
+                    "tfh.base_files.7z.001": {
+                        "name": "tfh.base_files.7z.001",
+                        "size": 423667
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Them's Fightin' Herds",
-                "version": "1.01"
+                "version": "1.1"
             },
             "full": {
-                "credits": "@MathiasWolfbrok for cropping",
+                "credits": "",
                 "description": "Splash art used for promotional material",
                 "files": {
-                    "tfh.full.7z": {
-                        "name": "tfh.full.7z",
-                        "size": 5408510
+                    "tfh.full.7z.001": {
+                        "name": "tfh.full.7z.001",
+                        "size": 21415994
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Splash art",
-                "version": "1.01"
+                "version": "1.1"
             }
         },
         "name": "Them's Fightin' Herds"
@@ -3100,29 +3687,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Tough_Love_Arena)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "tla.base_files.7z": {
-                        "name": "tla.base_files.7z",
-                        "size": 325379
+                    "tla.base_files.7z.001": {
+                        "name": "tla.base_files.7z.001",
+                        "size": 325382
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Tough Love Arena",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Tough_Love_Arena)\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "tla.full.7z": {
-                        "name": "tla.full.7z",
-                        "size": 2328418
+                    "tla.full.7z.001": {
+                        "name": "tla.full.7z.001",
+                        "size": 2328417
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Tough Love Arena"
@@ -3133,29 +3720,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "tmnttfsnes.base_files.7z": {
-                        "name": "tmnttfsnes.base_files.7z",
-                        "size": 14278
+                    "tmnttfsnes.base_files.7z.001": {
+                        "name": "tmnttfsnes.base_files.7z.001",
+                        "size": 14283
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Ripped by O Ilusionista\n@MathiasWolfbrok for cropping",
                 "description": "Character Portraits",
                 "files": {
-                    "tmnttfsnes.full.7z": {
-                        "name": "tmnttfsnes.full.7z",
-                        "size": 78409
+                    "tmnttfsnes.full.7z.001": {
+                        "name": "tmnttfsnes.full.7z.001",
+                        "size": 78419
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)"
@@ -3166,29 +3753,29 @@
                 "credits": "Assets by @aywhatsgoingon",
                 "description": "Base config to use this game.",
                 "files": {
-                    "tmntxjlt.base_files.7z": {
-                        "name": "tmntxjlt.base_files.7z",
-                        "size": 9672979
+                    "tmntxjlt.base_files.7z.001": {
+                        "name": "tmntxjlt.base_files.7z.001",
+                        "size": 9673031
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Teenage Mutant Ninja Turtles X Justice League Turbo",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "Assets by @aywhatsgoingon",
                 "description": "Character Artwork",
                 "files": {
-                    "tmntxjlt.full.7z": {
-                        "name": "tmntxjlt.full.7z",
-                        "size": 196339021
+                    "tmntxjlt.full.7z.001": {
+                        "name": "tmntxjlt.full.7z.001",
+                        "size": 196338913
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Teenage Mutant Ninja Turtles X Justice League Turbo"
@@ -3199,32 +3786,65 @@
                 "credits": "@ArdanDoInfinito for cropping and integrating the assets",
                 "description": "Base config to use this game.",
                 "files": {
-                    "touhou123hts.base_files.7z": {
-                        "name": "touhou123hts.base_files.7z",
-                        "size": 2222999
+                    "touhou123hts.base_files.7z.001": {
+                        "name": "touhou123hts.base_files.7z.001",
+                        "size": 2223022
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Touhou 12.3: Hisoutensoku",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@ArdanDoInfinito for cropping and integrating the assets",
                 "description": "Character portraits",
                 "files": {
-                    "touhou123hts.full.7z": {
-                        "name": "touhou123hts.full.7z",
-                        "size": 5823352
+                    "touhou123hts.full.7z.001": {
+                        "name": "touhou123hts.full.7z.001",
+                        "size": 5823353
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Touhou 12.3: Hisoutensoku"
+    },
+    "tss": {
+        "assets": {
+            "base_files": {
+                "credits": null,
+                "description": "Base config to use this game.",
+                "files": {
+                    "tss.base_files.7z.001": {
+                        "name": "tss.base_files.7z.001",
+                        "size": 164270
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Twinkle Star Sprites",
+                "version": "1.01"
+            },
+            "full": {
+                "credits": null,
+                "description": null,
+                "files": {
+                    "tss.full.7z.001": {
+                        "name": "tss.full.7z.001",
+                        "size": 330189
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Portraits",
+                "version": "1.01"
+            }
+        },
+        "name": "Twinkle Star Sprites"
     },
     "ttt2": {
         "assets": {
@@ -3232,29 +3852,29 @@
                 "credits": "@MathiasWolfbrok for dumping",
                 "description": "Base config to use this game.",
                 "files": {
-                    "ttt2.base_files.7z": {
-                        "name": "ttt2.base_files.7z",
-                        "size": 1368173
+                    "ttt2.base_files.7z.001": {
+                        "name": "ttt2.base_files.7z.001",
+                        "size": 1368169
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Tekken Tag Tournament 2",
-                "version": "1.04"
+                "version": "1.05"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for dumping and cropping",
                 "description": "Character portraits",
                 "files": {
-                    "ttt2.full.7z": {
-                        "name": "ttt2.full.7z",
-                        "size": 48516286
+                    "ttt2.full.7z.001": {
+                        "name": "ttt2.full.7z.001",
+                        "size": 48516049
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.01"
+                "version": "1.02"
             }
         },
         "name": "Tekken Tag Tournament 2"
@@ -3265,29 +3885,29 @@
                 "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Tatsunoko_vs_Capcom:_Ultimate_All_Stars)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "tvc.base_files.7z": {
-                        "name": "tvc.base_files.7z",
-                        "size": 588733
+                    "tvc.base_files.7z.001": {
+                        "name": "tvc.base_files.7z.001",
+                        "size": 2512024
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Tatsunoko vs Capcom: Ultimate All Stars",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "Assets ripped from Supercombo Wiki (https://srk.shib.live/w/Marvel_vs_Capcom_2)",
                 "description": "Character artwork",
                 "files": {
-                    "tvc.full.7z": {
-                        "name": "tvc.full.7z",
-                        "size": 12512820
+                    "tvc.full.7z.001": {
+                        "name": "tvc.full.7z.001",
+                        "size": 12512908
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Tatsunoko vs Capcom: Ultimate All Stars"
@@ -3298,29 +3918,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "umvc3.base_files.7z": {
-                        "name": "umvc3.base_files.7z",
-                        "size": 190483171
+                    "umvc3.base_files.7z.001": {
+                        "name": "umvc3.base_files.7z.001",
+                        "size": 190483160
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Ultimate Marvel VS Capcom 3",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Portraits as seen on the Results Screen",
                 "files": {
-                    "umvc3.full.7z": {
-                        "name": "umvc3.full.7z",
-                        "size": 381305597
+                    "umvc3.full.7z.001": {
+                        "name": "umvc3.full.7z.001",
+                        "size": 381305607
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.01"
+                "version": "1.02"
             }
         },
         "name": "Ultimate Marvel VS Capcom 3"
@@ -3331,29 +3951,29 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Under_Night_In-Birth/UNICLR)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "uniclr.base_files.7z": {
-                        "name": "uniclr.base_files.7z",
-                        "size": 1813956
+                    "uniclr.base_files.7z.001": {
+                        "name": "uniclr.base_files.7z.001",
+                        "size": 1813957
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Under Night In-Birth Exe:Late[cl-r]",
-                "version": "1.01"
+                "version": "1.02"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Under_Night_In-Birth/UNICLR)\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "uniclr.full.7z": {
-                        "name": "uniclr.full.7z",
-                        "size": 10356604
+                    "uniclr.full.7z.001": {
+                        "name": "uniclr.full.7z.001",
+                        "size": 10356592
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Under Night In-Birth Exe:Late[cl-r]"
@@ -3364,29 +3984,29 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "usfiv.base_files.7z": {
-                        "name": "usfiv.base_files.7z",
-                        "size": 22173502
+                    "usfiv.base_files.7z.001": {
+                        "name": "usfiv.base_files.7z.001",
+                        "size": 22173640
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Ultra Street Fighter IV",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Portraits",
                 "files": {
-                    "usfiv.full.7z": {
-                        "name": "usfiv.full.7z",
+                    "usfiv.full.7z.001": {
+                        "name": "usfiv.full.7z.001",
                         "size": 44865949
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Ultra Street Fighter IV"
@@ -3397,14 +4017,28 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "vf3tb.base_files.7z": {
-                        "name": "vf3tb.base_files.7z",
-                        "size": 2414045
+                    "vf3tb.base_files.7z.001": {
+                        "name": "vf3tb.base_files.7z.001",
+                        "size": 2414029
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Virtua Fighter 3tb",
+                "version": "1.02"
+            },
+            "full_upscale": {
+                "credits": "Upscaled using realesrgan-x4plus-anime",
+                "description": "Character icons",
+                "files": {
+                    "vf3tb.full_upscale.7z.001": {
+                        "name": "vf3tb.full_upscale.7z.001",
+                        "size": 20992402
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Icons (Upscaled)",
                 "version": "1.01"
             }
         },
@@ -3416,15 +4050,15 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "vf4ft.base_files.7z": {
-                        "name": "vf4ft.base_files.7z",
-                        "size": 1780583
+                    "vf4ft.base_files.7z.001": {
+                        "name": "vf4ft.base_files.7z.001",
+                        "size": 1779842
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Virtua Fighter 4: Final Tuned",
-                "version": "1.0"
+                "version": "1.02"
             }
         },
         "name": "Virtua Fighter 4: Final Tuned"
@@ -3435,15 +4069,15 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "vf5us.base_files.7z": {
-                        "name": "vf5us.base_files.7z",
-                        "size": 31768459
+                    "vf5us.base_files.7z.001": {
+                        "name": "vf5us.base_files.7z.001",
+                        "size": 31768202
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Virtua Fighter 5 Ultimate Showdown",
-                "version": "1.01"
+                "version": "1.02"
             }
         },
         "name": "Virtua Fighter 5 Ultimate Showdown"
@@ -3454,43 +4088,57 @@
                 "credits": "",
                 "description": "Base config to use this game.",
                 "files": {
-                    "vsav.base_files.7z": {
-                        "name": "vsav.base_files.7z",
-                        "size": 315156
+                    "vsav.base_files.7z.001": {
+                        "name": "vsav.base_files.7z.001",
+                        "size": 315166
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Darkstalkers 3 / Vampire Savior",
-                "version": "1.02"
+                "version": "1.03"
             },
             "full": {
-                "credits": "@MathiasWolfbrok for cropping",
-                "description": "Character Portraits",
+                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Vampire_Savior)",
+                "description": "Character Artwork\nNote: Only contains Vampire Savior arcade characters",
                 "files": {
-                    "vsav.full.7z": {
-                        "name": "vsav.full.7z",
-                        "size": 148795
+                    "vsav.full.7z.001": {
+                        "name": "vsav.full.7z.001",
+                        "size": 20038726
                     }
                 },
-                "has_eyesight_data": false,
+                "has_eyesight_data": true,
                 "has_stage_data": false,
-                "name": "Portraits",
-                "version": "1.01"
+                "name": "Artwork",
+                "version": "1.11"
             },
             "full_new": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Artwork from Darkstalkers Resurrection",
                 "files": {
-                    "vsav.full_new.7z": {
-                        "name": "vsav.full_new.7z",
-                        "size": 12156723
+                    "vsav.full_new.7z.001": {
+                        "name": "vsav.full_new.7z.001",
+                        "size": 12156754
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork (Resurrection)",
-                "version": "1.01"
+                "version": "1.03"
+            },
+            "portrait": {
+                "credits": "@MathiasWolfbrok for cropping",
+                "description": "Character Portraits",
+                "files": {
+                    "vsav.portrait.7z.001": {
+                        "name": "vsav.portrait.7z.001",
+                        "size": 148803
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Portraits",
+                "version": "1.03"
             }
         },
         "name": "Darkstalkers 3 / Vampire Savior"
@@ -3501,32 +4149,93 @@
                 "credits": "Assets ripped from Supercombo.gg (https://wiki.supercombo.gg/w/Waku_Waku_7)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "waku7.base_files.7z": {
-                        "name": "waku7.base_files.7z",
-                        "size": 303329
+                    "waku7.base_files.7z.001": {
+                        "name": "waku7.base_files.7z.001",
+                        "size": 303282
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Waku Waku 7",
-                "version": "1.0"
+                "version": "1.01"
             },
             "full": {
                 "credits": "Assets ripped from Supercombo.gg (https://wiki.supercombo.gg/w/Waku_Waku_7)\n@MathiasWolfbrok for cropping",
                 "description": "Character portraits",
                 "files": {
-                    "waku7.full.7z": {
-                        "name": "waku7.full.7z",
+                    "waku7.full.7z.001": {
+                        "name": "waku7.full.7z.001",
                         "size": 98166
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.0"
+                "version": "1.01"
             }
         },
         "name": "Waku Waku 7"
+    },
+    "wc3": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "wc3.base_files.7z.001": {
+                        "name": "wc3.base_files.7z.001",
+                        "size": 145075
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": true,
+                "name": "Warcraft 3",
+                "version": "1.05"
+            },
+            "full": {
+                "credits": "Render captures by UnclePunch's pack in SmashBoards.",
+                "description": "VS screen renders from Classic Mode (Left side). Image borders adjusted to make characters proportionally better with one another.",
+                "files": {
+                    "wc3.full.7z.001": {
+                        "name": "wc3.full.7z.001",
+                        "size": 1078130
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Full",
+                "version": "1.04"
+            },
+            "stage_icon": {
+                "credits": "@davidvkimball for the screenshots\n@MathiasWolfbrok for cropping",
+                "description": "Stage icons",
+                "files": {
+                    "wc3.stage_icon.7z.001": {
+                        "name": "wc3.stage_icon.7z.001",
+                        "size": 4312768
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Stage Icons",
+                "version": "0.93"
+            },
+            "webp": {
+                "credits": "@WayShifter (Twitter)",
+                "description": "Vs Screen Webms. Re-encoded for lower size and lower CPU usage.",
+                "files": {
+                    "wc3.webp.7z.001": {
+                        "name": "wc3.webp.7z.001",
+                        "size": 319650671
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Webms",
+                "version": "0.100"
+            }
+        },
+        "name": "Warcraft 3"
     },
     "windjammers": {
         "assets": {
@@ -3534,43 +4243,43 @@
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Windjammers)",
                 "description": "Base config to use this game.",
                 "files": {
-                    "windjammers.base_files.7z": {
-                        "name": "windjammers.base_files.7z",
-                        "size": 368148
+                    "windjammers.base_files.7z.001": {
+                        "name": "windjammers.base_files.7z.001",
+                        "size": 368151
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Windjammers",
-                "version": "1.2"
+                "version": "1.21"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for cropping",
                 "description": "Character Portraits",
                 "files": {
-                    "windjammers.full.7z": {
-                        "name": "windjammers.full.7z",
-                        "size": 44755
+                    "windjammers.full.7z.001": {
+                        "name": "windjammers.full.7z.001",
+                        "size": 44776
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.1"
+                "version": "1.12"
             },
             "stage_icon": {
                 "credits": null,
                 "description": "Stage icons",
                 "files": {
-                    "windjammers.stage_icon.7z": {
-                        "name": "windjammers.stage_icon.7z",
-                        "size": 211236
+                    "windjammers.stage_icon.7z.001": {
+                        "name": "windjammers.stage_icon.7z.001",
+                        "size": 211232
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Stage Icons",
-                "version": 1.2
+                "version": "1.21"
             }
         },
         "name": "Windjammers"
@@ -3581,29 +4290,29 @@
                 "credits": "@MathiasWolfbrok for detouring the in-game portraits",
                 "description": "Base config to use this game.",
                 "files": {
-                    "windjammers2.base_files.7z": {
-                        "name": "windjammers2.base_files.7z",
-                        "size": 12357075
+                    "windjammers2.base_files.7z.001": {
+                        "name": "windjammers2.base_files.7z.001",
+                        "size": 12356974
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Windjammers 2",
-                "version": "1.13"
+                "version": "1.14"
             },
             "full": {
                 "credits": "@MathiasWolfbrok for detouring the in-game portraits and cropping",
                 "description": "Character Portraits",
                 "files": {
-                    "windjammers2.full.7z": {
-                        "name": "windjammers2.full.7z",
-                        "size": 12161319
+                    "windjammers2.full.7z.001": {
+                        "name": "windjammers2.full.7z.001",
+                        "size": 12161318
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.11"
+                "version": "1.12"
             }
         },
         "name": "Windjammers 2"

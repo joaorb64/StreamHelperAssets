@@ -1,0 +1,11 @@
+{
+  "name": "Stage Icons",
+  "version": "1.1",
+  "description": "Stage icons",
+  "prefix": "stage_",
+  "postfix": "",
+  "type": [
+    "stage_icon"
+  ],
+  "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)"
+}

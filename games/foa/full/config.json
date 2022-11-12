@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Fight_of_Animals)",
-  "version": "1.0",
+  "version": "1.11",
   "eyesights": {
     "BadDog": {
       "0": {
@@ -81,5 +81,11 @@
         "y": 108
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

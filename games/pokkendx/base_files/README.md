@@ -1,4 +1,4 @@
-# Pokken Tournament DX
+# Pokkén Tournament DX
 
 ## Description: 
 

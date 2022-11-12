@@ -92,12 +92,12 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.01",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Project_Justice)",
   "locale": {
     "ja": {
-      "name": "燃えろ!ジャスティス学園"
+      "name": "\u71c3\u3048\u308d!\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9\u5b66\u5712"
     }
   }
 }

@@ -458,10 +458,10 @@
       "smashgg_name": "Conker",
       "codename": "conker",
       "locale": {
-        "ja": "コンカー",
-        "zh_CN": "松鼠库克",
-        "zh_TW": "松鼠庫克",
-        "ko": "컨커스"
+        "ja": "\u30b3\u30f3\u30ab\u30fc",
+        "zh_CN": "\u677e\u9f20\u5e93\u514b",
+        "zh_TW": "\u677e\u9f20\u5eab\u514b",
+        "ko": "\ucee8\ucee4\uc2a4"
       }
     },
     "Lucas": {
@@ -502,6 +502,26 @@
         "ko": "\uc18c\ub2c9",
         "zh_TW": "\u7d22\u5c3c\u514b",
         "zh_CN": "\u7d22\u5c3c\u514b"
+      }
+    },
+    "Sheik": {
+      "smashgg_name": "Sheik",
+      "codename": "sheik",
+      "locale": {
+        "ja": "\u30b7\u30fc\u30af",
+        "en_GB": "Sheik",
+        "en_AU": "Sheik",
+        "fr": "Sheik",
+        "fr_CA": "Sheik",
+        "es": "Sheik",
+        "es_LA": "Sheik",
+        "de": "Shiek",
+        "it": "Sheik",
+        "nl": "Sheik",
+        "ru": "\u0428\u0435\u0439\u043a",
+        "ko": "\uc2dc\ud06c",
+        "zh_TW": "\u5e0c\u514b",
+        "zh_CN": "\u5e0c\u514b"
       }
     },
     "Random": {
@@ -563,6 +583,9 @@
     },
     "Dream Land": {
       "codename": "dream_land"
+    },
+    "Winter Dream Land": {
+      "codename": "winter_dream_land"
     },
     "Dr. Mario": {
       "codename": "dr_mario"
@@ -687,8 +710,11 @@
     "Showdown": {
       "codename": "showdown"
     },
-    "Skyloft": {
-      "codename": "skyloft"
+    "Tal Tal Heights": {
+      "codename": "tal_tal_heights"
+    },
+    "Tal Tal Heights SR": {
+      "codename": "tal_tal_heights_sr"
     },
     "Smashketball": {
       "codename": "smashketball"
@@ -723,8 +749,8 @@
     "Yoshi's Story": {
       "codename": "yoshis_story"
     },
-    "Zebes Landing": {
-      "codename": "zebes_landing"
+    "Crateria": {
+      "codename": "crateria"
     },
     "Congo Jungle DL": {
       "codename": "congo_jungle_dl"
@@ -777,6 +803,9 @@
     "Peach's Castle \u03a9": {
       "codename": "peachs_castle_omega"
     },
+    "Peach's Castle Beta": {
+      "codename": "peachs_castle_beta"
+    },
     "Saffron City DL": {
       "codename": "saffron_city_dl"
     },
@@ -827,8 +856,20 @@
     },
     "Mushroom Kingdom SR": {
       "codename": "mushroom_kingdom_sr"
+    },
+    "Rainbow Road": {
+      "codename": "rainbow_road"
+    },
+    "Toad's Turnpike": {
+      "codename": "toads_turnpike"
+    },
+    "Pok\u00e9mon Stadium 2": {
+      "codename": "pokemon_stadium_2"
+    },
+    "Norfair SR": {
+      "codename": "norfair_sr"
     }
   },
-  "version": "1.16",
+  "version": "1.22",
   "description": "Base config to use this game."
 }

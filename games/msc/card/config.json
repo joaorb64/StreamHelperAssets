@@ -1,9 +1,17 @@
 {
-    "name": "Challenge Cards",
-    "description": "Challenge Cards",
-    "prefix": "card_",
-    "postfix": "_",
-    "type": ["card"],
-    "credits": "",
-    "version": "1.0"
+  "name": "Challenge Cards",
+  "description": "Challenge Cards",
+  "prefix": "card_",
+  "postfix": "_",
+  "type": [
+    "card"
+  ],
+  "credits": "",
+  "version": "1.02",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

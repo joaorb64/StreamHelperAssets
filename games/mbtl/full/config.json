@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.41",
+  "version": "1.52",
   "eyesights": {
     "AkihaTohno": {
       "0": {
@@ -116,6 +116,24 @@
         "x": 587,
         "y": 112
       }
+    },
+    "Mash": {
+      "0": {
+        "x": 480,
+        "y": 403
+      }
+    },
+    "NecoArc": {
+      "0": {
+        "x": 290,
+        "y": 383
+      }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

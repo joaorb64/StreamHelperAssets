@@ -1088,11 +1088,11 @@
         "de": "Mii-Boxer",
         "it": "Lottatore Mii",
         "nl": "Mii-Bokser",
-        "ru": "Mii-Драчун",
-        "ko": "Mii 격투",
-        "zh_TW": "Mii格鬥類型",
-        "zh_CN": "Mii格斗类型",
-        "ja": "Mii 格闘タイプ"
+        "ru": "Mii-\u0414\u0440\u0430\u0447\u0443\u043d",
+        "ko": "Mii \uaca9\ud22c",
+        "zh_TW": "Mii\u683c\u9b25\u985e\u578b",
+        "zh_CN": "Mii\u683c\u6597\u7c7b\u578b",
+        "ja": "Mii \u683c\u95d8\u30bf\u30a4\u30d7"
       }
     },
     "Mii Swordfighter": {
@@ -1100,16 +1100,16 @@
       "codename": "miiswordsman",
       "locale": {
         "fr": "\u00c9p\u00e9iste Mii",
-        "es": "Espadachín Mii",
-        "es_LA": "Espadachín Mii",
-        "de": "Mii-Schwertkämpfer",
+        "es": "Espadach\u00edn Mii",
+        "es_LA": "Espadach\u00edn Mii",
+        "de": "Mii-Schwertk\u00e4mpfer",
         "it": "Spadaccino Mii",
         "nl": "Mii-Zwaardvechter",
-        "ru": "Mii-Мечник",
-        "ko": "Mii 검술",
-        "zh_TW": "Mii劍術類型",
-        "zh_CN": "Mii剑术类型",
-        "ja": "Mii 剣術タイプ"
+        "ru": "Mii-\u041c\u0435\u0447\u043d\u0438\u043a",
+        "ko": "Mii \uac80\uc220",
+        "zh_TW": "Mii\u528d\u8853\u985e\u578b",
+        "zh_CN": "Mii\u5251\u672f\u7c7b\u578b",
+        "ja": "Mii \u5263\u8853\u30bf\u30a4\u30d7"
       }
     },
     "Mii Gunner": {
@@ -1119,14 +1119,14 @@
         "fr": "Tireuse Mii",
         "es": "Tiradora Mii",
         "es_LA": "Tiradora Mii",
-        "de": "Mii-Schützin",
+        "de": "Mii-Sch\u00fctzin",
         "it": "Fuciliere Mii",
         "nl": "Mii-Cyborg",
-        "ru": "Mii-Стрелок",
-        "ko": "Mii 사격",
-        "zh_TW": "Mii射擊類型",
-        "zh_CN": "Mii射击类型",
-        "ja": "Mii 射撃タイプ"
+        "ru": "Mii-\u0421\u0442\u0440\u0435\u043b\u043e\u043a",
+        "ko": "Mii \uc0ac\uaca9",
+        "zh_TW": "Mii\u5c04\u64ca\u985e\u578b",
+        "zh_CN": "Mii\u5c04\u51fb\u7c7b\u578b",
+        "ja": "Mii \u5c04\u6483\u30bf\u30a4\u30d7"
       }
     },
     "Palutena": {
@@ -3618,6 +3618,6 @@
       }
     }
   },
-  "version": "1.07",
+  "version": "1.08",
   "description": "Base config to use this game."
 }

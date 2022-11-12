@@ -1,10 +1,10 @@
-# Portraits
+# Artwork
 
 ## Description: 
 
-Character portraits
+Character artwork
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+@PolarBair for removing the backgrounds
 

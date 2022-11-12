@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.0",
+  "version": "1.11",
   "eyesights": {
     "Berserker": {
       "0": {
@@ -105,5 +105,11 @@
         "y": 97
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

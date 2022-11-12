@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.0",
+  "version": "1.02",
   "eyesights": {
     "Arctina": {
       "0": {
@@ -81,5 +81,11 @@
         "y": 158
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

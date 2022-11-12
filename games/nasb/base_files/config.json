@@ -13,21 +13,21 @@
       "smashgg_name": "SpongeBob",
       "codename": "apple",
       "locale": {
-        "fr": "Bob l'Éponge"
+        "fr": "Bob l'\u00c9ponge"
       }
     },
     "Patrick Star": {
       "smashgg_name": "Patrick",
       "codename": "star",
       "locale": {
-        "fr": "Patrick Étoile de mer"
+        "fr": "Patrick \u00c9toile de mer"
       }
     },
     "Sandy Cheeks": {
       "smashgg_name": "Sandy",
       "codename": "diver",
       "locale": {
-        "fr": "Sandy Écureuil"
+        "fr": "Sandy \u00c9cureuil"
       }
     },
     "Aang": {
@@ -85,7 +85,7 @@
       "smashgg_name": "Danny Phantom",
       "codename": "plasma",
       "locale": {
-        "fr": "Danny Fantôme"
+        "fr": "Danny Fant\u00f4me"
       }
     },
     "Helga Pataki": {
@@ -125,8 +125,14 @@
       "smashgg_name": "Jenny",
       "codename": "neo",
       "locale": {
-        "fr": "Jenny « XJ-9 » Wakeman"
+        "fr": "Jenny \u00ab XJ-9 \u00bb Wakeman"
       }
+    },
+    "Hugh Neutron": {
+      "codename": "pie"
+    },
+    "Rocko Rama": {
+      "codename": "squirrel"
     }
   },
   "stage_to_codename": {
@@ -152,13 +158,13 @@
     "Royal Woods Cemetery": {
       "codename": "Cemetery",
       "locale": {
-        "fr": "Cimetière de Royal Woods"
+        "fr": "Cimeti\u00e8re de Royal Woods"
       }
     },
     "The Dump": {
       "codename": "Dumpster",
       "locale": {
-        "fr": "La décharge"
+        "fr": "La d\u00e9charge"
       }
     },
     "The Flying Dutchman\u2019s Ship": {
@@ -183,13 +189,13 @@
       "smashgg_id": 509,
       "codename": "JellyFishFields",
       "locale": {
-        "fr": "Champs de méduses"
+        "fr": "Champs de m\u00e9duses"
       }
     },
     "Powdered Toast Trouble": {
       "codename": "Kitchen",
       "locale": {
-        "fr": "Biscotte en poudre à problèmes"
+        "fr": "Biscotte en poudre \u00e0 probl\u00e8mes"
       }
     },
     "The Loud House": {
@@ -231,7 +237,7 @@
       "smashgg_id": 519,
       "codename": "Sewers",
       "locale": {
-        "fr": "Baroud dans les égouts"
+        "fr": "Baroud dans les \u00e9gouts"
       }
     },
     "Space Madness": {
@@ -256,7 +262,7 @@
       "smashgg_id": 518,
       "codename": "FoodDream",
       "locale": {
-        "fr": "Doux rêves"
+        "fr": "Doux r\u00eaves"
       }
     },
     "Slime Time": {
@@ -264,9 +270,15 @@
     },
     "Tremorton Joyride": {
       "codename": "neo_transformer"
+    },
+    "Duck, Duck, Pie!": {
+      "codename": "pie_abstract"
+    },
+    "Hardcore Chores": {
+      "codename": "squirrel_space"
     }
   },
-  "version": "1.6",
+  "version": "1.8",
   "description": "Base config to use this game.",
   "credits": ""
 }

@@ -4,7 +4,7 @@
   "type": [
     "icon"
   ],
-  "version": "1.01",
+  "version": "1.02",
   "eyesights": {
     "Candyman": {
       "0": {
@@ -78,5 +78,11 @@
         "y": 92
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

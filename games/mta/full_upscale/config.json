@@ -1,0 +1,11 @@
+{
+  "name": "Renders (Upscaled)",
+  "description": "Character renders",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "@MathiasWolfbrok for cropping\nUpscaled using realesrgan-x4plus-anime",
+  "version": "1.01"
+}

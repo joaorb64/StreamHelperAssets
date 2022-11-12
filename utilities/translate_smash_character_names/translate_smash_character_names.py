@@ -5,7 +5,7 @@ from copy import deepcopy
 list_games_to_translate = ["ssbu", "ssb64", "ssbm", "ssbwiiu", "pplus", "sms", "msc", "msbl", "mkwii", "mk64", "msb", "mta"]
 exclude_locale = ["en_US"]
 convert_locale = {"SC": "zh_CN", "TC": "zh_TW", "fr_FR": "fr",
-                  "de_DE": "de", "it_IT": "it", "nl_NL": "nl", "ru_RU": "ru", "ko_KR": "ko", "ja_JP": "ja"}
+                  "de_DE": "de", "it_IT": "it", "nl_NL": "nl", "ru_RU": "ru", "ko_KR": "ko", "ja_JP": "ja", "es_ES": "es"}
 
 fighter_database_url = "https://www.smashbros.com/assets_v2/data/fighter.json"
 fighter_database_request = requests.get(fighter_database_url)

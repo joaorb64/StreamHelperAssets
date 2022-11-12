@@ -1,44 +1,44 @@
 {
-    "name": "Legends of Runeterra",
-    "smashgg_game_id": 34062,
-    "challonge_game_id": 185120,
-    "character_to_codename": {
-      "Bandle City": {
-        "codename": "BandleCity"
-      },
-      "Bilgewater": {
-        "codename": "Bilgewater"
-      },
-      "Demacia": {
-        "codename": "Demacia"
-      },
-      "Freljord": {
-        "codename": "Freljord"
-      },
-      "Ionia": {
-        "codename": "Ionia"
-      },
-      "Noxus": {
-        "codename": "Noxus"
-      },
-      "Piltover & Zaun": {
-        "codename": "PiltoverZaun"
-      },
-      "Shurima": {
-        "codename": "Shurima"
-      },
-      "Runeterra": {
-        "codename": "Runeterra"
-      },
-      "Shadow Isles": {
-        "codename": "ShadowIsles"
-      },
-      "Targon": {
-        "codename": "Targon"
-      }
+  "name": "Legends of Runeterra",
+  "smashgg_game_id": 34062,
+  "challonge_game_id": 185120,
+  "character_to_codename": {
+    "Bandle City": {
+      "codename": "BandleCity"
     },
-    "stage_to_codename": {},
-    "version": "1.0",
-    "description": "Base config to use this game.",
-    "credits": "Files from the Riot Developer Portal for Legends of Runeterra's Data Dragon"
-  }
+    "Bilgewater": {
+      "codename": "Bilgewater"
+    },
+    "Demacia": {
+      "codename": "Demacia"
+    },
+    "Freljord": {
+      "codename": "Freljord"
+    },
+    "Ionia": {
+      "codename": "Ionia"
+    },
+    "Noxus": {
+      "codename": "Noxus"
+    },
+    "Piltover & Zaun": {
+      "codename": "PiltoverZaun"
+    },
+    "Shurima": {
+      "codename": "Shurima"
+    },
+    "Runeterra": {
+      "codename": "Runeterra"
+    },
+    "Shadow Isles": {
+      "codename": "ShadowIsles"
+    },
+    "Targon": {
+      "codename": "Targon"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.11",
+  "description": "Base config to use this game.",
+  "credits": "Files from the Riot Developer Portal for Legends of Runeterra's Data Dragon"
+}

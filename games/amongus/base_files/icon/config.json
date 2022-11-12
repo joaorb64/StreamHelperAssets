@@ -4,7 +4,7 @@
   "type": [
     "icon"
   ],
-  "version": "1.0",
+  "version": "1.1",
   "eyesights": {
     "Crewmate": {
       "0": {
@@ -12,5 +12,11 @@
         "y": 546
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

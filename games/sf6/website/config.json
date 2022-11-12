@@ -1,8 +1,10 @@
 {
-    "name": "Website",
-    "description": "Selection bars from the Street Fighter 6 Website (https://www.streetfighter.com/6/en-us/character/)",
-    "prefix": "file_",
-    "postfix": "_",
-    "type": ["full"],
-    "version": 0.2
+  "name": "Website",
+  "description": "Selection bars from the Street Fighter 6 Website (https://www.streetfighter.com/6/en-us/character/)",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "0.4"
 }

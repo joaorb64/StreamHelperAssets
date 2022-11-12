@@ -1,0 +1,10 @@
+{
+  "name": "Portraits",
+  "description": "Character select portraits",
+  "prefix": "portrait-",
+  "postfix": "_",
+  "type": [
+    "csp"
+  ],
+  "version": "1.2"
+}

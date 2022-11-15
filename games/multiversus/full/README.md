@@ -3,6 +3,7 @@
 ## Description: 
 
 Character artwork
+Note: Shaggy-00 is used as the reference for scaling
 
 ## Credits: 
 

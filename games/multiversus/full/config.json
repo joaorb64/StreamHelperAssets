@@ -7,7 +7,7 @@
   "type": [
     "full"
   ],
-  "version": "1.2",
+  "version": "1.3",
   "rescaling_factor": {
     "AryaStark": {
       "0": 0.5,
@@ -111,7 +111,8 @@
     },
     "WonderWoman": {
       "0": 0.5
-    }
+    },
+    "Marvin": {"0": 0.65}
   },
   "eyesights": {
     "AryaStark": {
@@ -432,6 +433,12 @@
       "1": {
         "x": 449,
         "y": 260
+      }
+    },
+    "Marvin": {
+      "0": {
+        "x": 812,
+        "y": 578
       }
     }
   },

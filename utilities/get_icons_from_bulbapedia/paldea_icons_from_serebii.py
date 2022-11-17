@@ -8,6 +8,7 @@ directory = "serebii"
 form_directory = f"{directory}/paldeaform"
 new_directory = f"{directory}/new"
 pokedex_filename = f"{directory}/dex.json"
+zoom_filename = f"{directory}/zoom.json"
 
 Path(form_directory).mkdir(parents=True, exist_ok=True)
 Path(new_directory).mkdir(parents=True, exist_ok=True)
@@ -76,6 +77,7 @@ def download_new():
 
     table_rows = form_table.findAll("tr")
     pokedex = {}
+    zoom = {}
     for row in table_rows:
         dex_number = None
         # print(row)
@@ -105,9 +107,15 @@ def download_new():
 
             if pokemon_name not in pokedex.keys():
                 pokedex[pokemon_name] = {"codename": str(dex_number)}
+                zoom[dex_number] = {"0": 2.0}
+            else:
+                zoom[dex_number.split('-')[0]][1] = 2.0
 
     with open(pokedex_filename, 'wt') as f:
         f.write(json.dumps(pokedex, indent=2))
+    
+    with open(zoom_filename, 'wt') as f:
+        f.write(json.dumps(zoom, indent=2))
 
 download_forms()
 download_new()

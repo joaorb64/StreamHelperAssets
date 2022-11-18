@@ -174,7 +174,7 @@ def write_configs(config_dict, sub_names, special_names):
             "sub"
         ],
         "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
-        "extra_data": [sub_names]
+        "metadata": [sub_names]
     }
 
     with open(f"{sub_path}/config.json", "wt", encoding="utf-8") as f:
@@ -190,7 +190,7 @@ def write_configs(config_dict, sub_names, special_names):
             "special"
         ],
         "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
-        "extra_data": [special_names]
+        "metadata": [special_names]
     }
 
     with open(f"{special_path}/config.json", "wt", encoding="utf-8") as f:

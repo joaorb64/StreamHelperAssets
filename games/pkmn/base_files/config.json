@@ -1,6 +1,6 @@
 {
   "name": "Pok\u00e9mon",
-  "smashgg_game_id": 15486,
+  "smashgg_game_id": 45331,
   "character_to_codename": {
     "Bulbasaur": {
       "codename": "001",
@@ -13104,10 +13104,10 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.21",
+  "version": "1.22",
   "description": "Base config to use this game.\nNote: Icons for Scarlet/Violet are missing, but the Pok\u00e9mon data is supported",
   "credits": "Arclart for the Pok\u00e9mon Legends: Arceus icons\nArclart for the icons for Wooper-1, Koraidon and Miraidon",
-  "challonge_game_id": 159142,
+  "challonge_game_id": 34,
   "locale": {
     "fr": {
       "description": "Configuration initiale pour pouvoir charger ce jeu\nNote : Les ic\u00f4nes pour Ecarlate/Violet sont manquantes, mais les donn\u00e9es des Pok\u00e9mon sont pr\u00e9sentes",

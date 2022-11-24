@@ -145,10 +145,16 @@
       "locale": {
         "ja": "\u30d6\u30ea\u30b8\u30c3\u30c8"
       }
+    },
+    "Sin Kiske": {
+      "codename": "Sin",
+      "locale": {
+        "ja": "シン=キスク"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.61",
+  "version": "1.7",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
   "locale": {

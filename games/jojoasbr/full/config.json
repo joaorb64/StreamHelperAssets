@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.1",
+  "version": "1.2",
   "uncropped_edge": [
     "u",
     "d",
@@ -325,6 +325,18 @@
       "0": {
         "x": 508,
         "y": 134
+      }
+    },
+    "NewPucci": {
+      "0": {
+        "x": 531,
+        "y": 140
+      }
+    },
+    "WeatherReport": {
+      "0": {
+        "x": 600,
+        "y": 281
       }
     }
   }

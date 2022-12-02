@@ -151,6 +151,12 @@ def write_configs(config_dict, sub_names, special_names):
         "postfix": "_",
         "type": ["icon"],
         "version": version,
+        "uncropped_edge": [
+            "u",
+            "r",
+            "d",
+            "l"
+        ]
     }
 
     with open(f"{icon_path}/config.json", "wt", encoding="utf-8") as f:
@@ -180,7 +186,13 @@ def write_configs(config_dict, sub_names, special_names):
             "sub"
         ],
         "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
-        "metadata": [sub_names]
+        "metadata": [sub_names],
+        "uncropped_edge": [
+            "u",
+            "r",
+            "d",
+            "l"
+        ]
     }
 
     with open(f"{sub_path}/config.json", "wt", encoding="utf-8") as f:
@@ -196,7 +208,13 @@ def write_configs(config_dict, sub_names, special_names):
             "special"
         ],
         "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
-        "metadata": [special_names]
+        "metadata": [special_names],
+        "uncropped_edge": [
+            "u",
+            "r",
+            "d",
+            "l"
+        ]
     }
 
     with open(f"{special_path}/config.json", "wt", encoding="utf-8") as f:
@@ -297,19 +315,24 @@ for weapon_name in weapon_list.keys():
                     if text_element["class"] == "interlanguage-link-target":
                         pass
                 except:
-                    main_config["character_to_codename"][weapon_name]["locale"][current_lang] = text_element.text.split("[")[0]
+                    main_config["character_to_codename"][weapon_name]["locale"][current_lang] = text_element.text.split("[")[
+                        0]
 
     if (main_config["character_to_codename"][weapon_name]["locale"].get("zh_TW")) and not (main_config["character_to_codename"][weapon_name]["locale"].get("zh_CN")):
-        main_config["character_to_codename"][weapon_name]["locale"]["zh_CN"] = chinese_converter.to_simplified(main_config["character_to_codename"][weapon_name]["locale"].get("zh_TW"))
+        main_config["character_to_codename"][weapon_name]["locale"]["zh_CN"] = chinese_converter.to_simplified(
+            main_config["character_to_codename"][weapon_name]["locale"].get("zh_TW"))
 
     if (main_config["character_to_codename"][weapon_name]["locale"].get("zh_CN")) and not (main_config["character_to_codename"][weapon_name]["locale"].get("zh_TW")):
-        main_config["character_to_codename"][weapon_name]["locale"]["zh_TW"] = chinese_converter.to_traditional(main_config["character_to_codename"][weapon_name]["locale"].get("zh_CN"))
+        main_config["character_to_codename"][weapon_name]["locale"]["zh_TW"] = chinese_converter.to_traditional(
+            main_config["character_to_codename"][weapon_name]["locale"].get("zh_CN"))
 
     if (main_config["character_to_codename"][weapon_name]["locale"].get("fr_CA")) and not (main_config["character_to_codename"][weapon_name]["locale"].get("fr")):
-        main_config["character_to_codename"][weapon_name]["locale"]["fr"] = main_config["character_to_codename"][weapon_name]["locale"].get("fr_CA")
-    
+        main_config["character_to_codename"][weapon_name]["locale"]["fr"] = main_config[
+            "character_to_codename"][weapon_name]["locale"].get("fr_CA")
+
     if (main_config["character_to_codename"][weapon_name]["locale"].get("es_LA")) and not (main_config["character_to_codename"][weapon_name]["locale"].get("es")):
-        main_config["character_to_codename"][weapon_name]["locale"]["es"] = main_config["character_to_codename"][weapon_name]["locale"].get("es_LA")
+        main_config["character_to_codename"][weapon_name]["locale"]["es"] = main_config[
+            "character_to_codename"][weapon_name]["locale"].get("es_LA")
 
     for line in weapon_body_lines:
         if f'title="{weapon_name}"' in str(line):
@@ -318,11 +341,13 @@ for weapon_name in weapon_list.keys():
                 if "Weapon Sub" in image_tag["alt"]:
                     sub_image_link = convert_weapon_thumb_link_to_image_link(
                         image_tag["src"])
-                    sub_name = (image_tag["alt"].replace("S3 Weapon Sub ", "")).replace(" Flat.png", "")
+                    sub_name = (image_tag["alt"].replace(
+                        "S3 Weapon Sub ", "")).replace(" Flat.png", "")
                 if "Weapon Special" in image_tag["alt"]:
                     special_image_link = convert_weapon_thumb_link_to_image_link(
                         image_tag["src"])
-                    special_name = (image_tag["alt"].replace("S3 Weapon Special ", "")).replace(".png", "")
+                    special_name = (image_tag["alt"].replace(
+                        "S3 Weapon Special ", "")).replace(".png", "")
             break
 
     sub_filename = f"sub_{weapon_codename}_0.png"
@@ -341,7 +366,7 @@ for weapon_name in weapon_list.keys():
     sub_wiki_page = robust_request(sub_wiki, timeout=30)
     sub_wiki_content = sub_wiki_page.text
     sub_wiki_soup = BS(sub_wiki_content, features="html.parser")
-    
+
     for lang in lang_list:
         current_lang = lang
         if lang == "zh-cmn-Hant":
@@ -363,27 +388,33 @@ for weapon_name in weapon_list.keys():
                     if text_element["class"] == "interlanguage-link-target":
                         pass
                 except:
-                    sub_names["values"][weapon_codename]["locale"][current_lang] = text_element.text.split("[")[0]
+                    sub_names["values"][weapon_codename]["locale"][current_lang] = text_element.text.split("[")[
+                        0]
     if (sub_names["values"][weapon_codename]["locale"].get("zh_TW")) and not (sub_names["values"][weapon_codename]["locale"].get("zh_CN")):
-        sub_names["values"][weapon_codename]["locale"]["zh_CN"] = chinese_converter.to_simplified(sub_names["values"][weapon_codename]["locale"].get("zh_TW"))
+        sub_names["values"][weapon_codename]["locale"]["zh_CN"] = chinese_converter.to_simplified(
+            sub_names["values"][weapon_codename]["locale"].get("zh_TW"))
 
     if (sub_names["values"][weapon_codename]["locale"].get("zh_CN")) and not (sub_names["values"][weapon_codename]["locale"].get("zh_TW")):
-       sub_names["values"][weapon_codename]["locale"]["zh_TW"] = chinese_converter.to_traditional(sub_names["values"][weapon_codename]["locale"].get("zh_CN"))
+        sub_names["values"][weapon_codename]["locale"]["zh_TW"] = chinese_converter.to_traditional(
+            sub_names["values"][weapon_codename]["locale"].get("zh_CN"))
 
     if (sub_names["values"][weapon_codename]["locale"].get("fr_CA")) and not (sub_names["values"][weapon_codename]["locale"].get("fr")):
-        sub_names["values"][weapon_codename]["locale"]["fr"] = sub_names["values"][weapon_codename]["locale"].get("fr_CA")
-    
+        sub_names["values"][weapon_codename]["locale"]["fr"] = sub_names["values"][weapon_codename]["locale"].get(
+            "fr_CA")
+
     if (sub_names["values"][weapon_codename]["locale"].get("es_LA")) and not (sub_names["values"][weapon_codename]["locale"].get("es")):
-        sub_names["values"][weapon_codename]["locale"]["es"] = sub_names["values"][weapon_codename]["locale"].get("es_LA")
+        sub_names["values"][weapon_codename]["locale"]["es"] = sub_names["values"][weapon_codename]["locale"].get(
+            "es_LA")
 
     # Parsing special names
-    special_names["values"][weapon_codename] = {"value": special_name, "locale": {}}
+    special_names["values"][weapon_codename] = {
+        "value": special_name, "locale": {}}
 
     special_wiki = f"https://splatoonwiki.org/wiki/{special_name.replace(' ', '_')}"
     special_wiki_page = robust_request(special_wiki, timeout=30)
     special_wiki_content = special_wiki_page.text
     special_wiki_soup = BS(special_wiki_content, features="html.parser")
-    
+
     for lang in lang_list:
         current_lang = lang
         if lang == "zh-cmn-Hant":
@@ -410,18 +441,23 @@ for weapon_name in weapon_list.keys():
                         if value in text_element:
                             value_valid = False
                     if value_valid:
-                        special_names["values"][weapon_codename]["locale"][current_lang] = text_element.text.split("[")[0]
+                        special_names["values"][weapon_codename]["locale"][current_lang] = text_element.text.split("[")[
+                            0]
     if (special_names["values"][weapon_codename]["locale"].get("zh_TW")) and not (special_names["values"][weapon_codename]["locale"].get("zh_CN")):
-        special_names["values"][weapon_codename]["locale"]["zh_CN"] = chinese_converter.to_simplified(special_names["values"][weapon_codename]["locale"].get("zh_TW"))
+        special_names["values"][weapon_codename]["locale"]["zh_CN"] = chinese_converter.to_simplified(
+            special_names["values"][weapon_codename]["locale"].get("zh_TW"))
 
     if (special_names["values"][weapon_codename]["locale"].get("zh_CN")) and not (special_names["values"][weapon_codename]["locale"].get("zh_TW")):
-       special_names["values"][weapon_codename]["locale"]["zh_TW"] = chinese_converter.to_traditional(special_names["values"][weapon_codename]["locale"].get("zh_CN"))
+        special_names["values"][weapon_codename]["locale"]["zh_TW"] = chinese_converter.to_traditional(
+            special_names["values"][weapon_codename]["locale"].get("zh_CN"))
 
     if (special_names["values"][weapon_codename]["locale"].get("fr_CA")) and not (special_names["values"][weapon_codename]["locale"].get("fr")):
-        special_names["values"][weapon_codename]["locale"]["fr"] = special_names["values"][weapon_codename]["locale"].get("fr_CA")
-    
+        special_names["values"][weapon_codename]["locale"]["fr"] = special_names["values"][weapon_codename]["locale"].get(
+            "fr_CA")
+
     if (special_names["values"][weapon_codename]["locale"].get("es_LA")) and not (special_names["values"][weapon_codename]["locale"].get("es")):
-        special_names["values"][weapon_codename]["locale"]["es"] = special_names["values"][weapon_codename]["locale"].get("es_LA")
+        special_names["values"][weapon_codename]["locale"]["es"] = special_names["values"][weapon_codename]["locale"].get(
+            "es_LA")
 
     print(json.dumps(sub_names["values"][weapon_codename], indent=2))
     print(json.dumps(special_names["values"][weapon_codename], indent=2))
@@ -455,18 +491,23 @@ for stage_name in main_config["stage_to_codename"]:
                     if text_element["class"] == "interlanguage-link-target":
                         pass
                 except:
-                    main_config["stage_to_codename"][stage_name]["locale"][current_lang] = text_element.text.split("[")[0]
+                    main_config["stage_to_codename"][stage_name]["locale"][current_lang] = text_element.text.split("[")[
+                        0]
 
     if (main_config["stage_to_codename"][stage_name]["locale"].get("zh_TW")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("zh_CN")):
-        main_config["stage_to_codename"][stage_name]["locale"]["zh_CN"] = chinese_converter.to_simplified(main_config["stage_to_codename"][stage_name]["locale"].get("zh_TW"))
+        main_config["stage_to_codename"][stage_name]["locale"]["zh_CN"] = chinese_converter.to_simplified(
+            main_config["stage_to_codename"][stage_name]["locale"].get("zh_TW"))
 
     if (main_config["stage_to_codename"][stage_name]["locale"].get("zh_CN")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("zh_TW")):
-        main_config["stage_to_codename"][stage_name]["locale"]["zh_TW"] = chinese_converter.to_traditional(main_config["stage_to_codename"][stage_name]["locale"].get("zh_CN"))
+        main_config["stage_to_codename"][stage_name]["locale"]["zh_TW"] = chinese_converter.to_traditional(
+            main_config["stage_to_codename"][stage_name]["locale"].get("zh_CN"))
 
     if (main_config["stage_to_codename"][stage_name]["locale"].get("fr_CA")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("fr")):
-        main_config["stage_to_codename"][stage_name]["locale"]["fr"] = main_config["stage_to_codename"][stage_name]["locale"].get("fr_CA")
-    
+        main_config["stage_to_codename"][stage_name]["locale"]["fr"] = main_config["stage_to_codename"][stage_name]["locale"].get(
+            "fr_CA")
+
     if (main_config["stage_to_codename"][stage_name]["locale"].get("es_LA")) and not (main_config["stage_to_codename"][stage_name]["locale"].get("es")):
-        main_config["stage_to_codename"][stage_name]["locale"]["es"] = main_config["stage_to_codename"][stage_name]["locale"].get("es_LA")
-    
+        main_config["stage_to_codename"][stage_name]["locale"]["es"] = main_config["stage_to_codename"][stage_name]["locale"].get(
+            "es_LA")
+
 write_configs(main_config, sub_names, special_names)

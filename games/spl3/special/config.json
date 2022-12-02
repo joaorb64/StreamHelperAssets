@@ -1,6 +1,6 @@
 {
   "name": "Special Icons",
-  "version": "1.11",
+  "version": "2.0",
   "description": "Special icons",
   "prefix": "spe_",
   "postfix": "_",
@@ -8,8 +8,8 @@
     "special"
   ],
   "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
-  "metadata": {
-    "spe_name": {
+  "metadata": [
+    {
       "title": "Special weapon",
       "locale": {
         "fr": "Arme sp\u00e9ciale"
@@ -62,6 +62,22 @@
             "es": "Flotibur\u00f3n"
           }
         },
+        "AerosprayRG": {
+          "value": "Booyah Bomb",
+          "locale": {
+            "ja": "\u30ca\u30a4\u30b9\u30c0\u30de",
+            "ko": "\ub098\uc774\uc2a4\uc625",
+            "zh_TW": "\u8b9a\u6c23\u5f48",
+            "zh_CN": "\u8d5e\u6c14\u5f39",
+            "ru": "\u0419\u043e-\u0445\u043e-\u043f\u043b\u044e\u0445\u0435\u0440",
+            "nl": "Coole bom",
+            "de": "Cool-Kugel",
+            "it": "Granbotto",
+            "es": "Bola genializante",
+            "fr_CA": "Excellinator",
+            "fr": "Jolizator"
+          }
+        },
         "BallpointSplatling": {
           "value": "Inkjet",
           "locale": {
@@ -75,6 +91,21 @@
             "de": "Tintend\u00fcser",
             "it": "Jet splat",
             "es": "Propulsor"
+          }
+        },
+        "BigSwigRoller": {
+          "value": "Ink Vac",
+          "locale": {
+            "ja": "\u30ad\u30e5\u30fc\u30a4\u30f3\u30ad",
+            "ko": "\ud761\uc785\uae30",
+            "zh_TW": "\u5438\u58a8\u6a5f",
+            "zh_CN": "\u5438\u58a8\u673a",
+            "ru": "\u041a\u0440\u0430\u0441\u043a\u043e\u0441\u043e\u0441",
+            "fr": "Aspirencre",
+            "nl": "Inktdief",
+            "de": "Tintegrator",
+            "it": "Vampinchiostro",
+            "es": "Aspiratinta"
           }
         },
         "Bamboozler14MkI": {
@@ -139,6 +170,23 @@
             "es": "Gancho tentacular"
           }
         },
+        "CarbonRollerDeco": {
+          "value": "Trizooka",
+          "locale": {
+            "ja": "\u30a6\u30eb\u30c8\u30e9\u30b7\u30e7\u30c3\u30c8",
+            "ko": "\uc6b8\ud2b8\ub77c \uc0f7",
+            "zh_TW": "\u7d42\u6975\u767c\u5c04",
+            "zh_CN": "\u7ec8\u6781\u53d1\u5c04",
+            "ru": "\u0413\u0440\u0430\u043d\u0430\u0442\u043e\u043c\u0435\u0442 \u00ab\u0422\u0440\u0435\u0437\u0443\u0431\u0435\u0446\u00bb",
+            "nl": "Trizooka",
+            "de": "Trizooka",
+            "it": "Ultraturbinator",
+            "fr_CA": "Lance-tornades",
+            "es": "Tintazuca triple",
+            "es_LA": "Ca\u00f1\u00f3n triple",
+            "fr": "Lance-rafales"
+          }
+        },
         "ClashBlaster": {
           "value": "Trizooka",
           "locale": {
@@ -171,6 +219,21 @@
             "es": "Megaburbuja"
           }
         },
+        "CustomSplattershotJr": {
+          "value": "Wave Breaker",
+          "locale": {
+            "ja": "\u30db\u30c3\u30d7\u30bd\u30ca\u30fc",
+            "ko": "\ud649 \uc18c\ub098",
+            "zh_TW": "\u5f48\u8df3\u8072\u7d0d",
+            "zh_CN": "\u5f39\u8df3\u58f0\u5450",
+            "ru": "\u0412\u043e\u043b\u043d\u043e\u043f\u043b\u044e\u0445\u0435\u0440",
+            "fr": "Sonar paf",
+            "nl": "Golfbeker",
+            "de": "Schauerwelle",
+            "it": "Sonar esplosivo",
+            "es": "Emiteondas"
+          }
+        },
         "DappleDualies": {
           "value": "Tacticooler",
           "locale": {
@@ -182,6 +245,21 @@
             "de": "Tranktank",
             "it": "Rinfrigorente",
             "es": "Dispensabebidas"
+          }
+        },
+        "DappleDualiesNouveau": {
+          "value": "Reefslider",
+          "locale": {
+            "ja": "\u30b5\u30e1\u30e9\u30a4\u30c9",
+            "ko": "\uc0e4\ud06c \ub77c\uc774\ub4dc",
+            "zh_TW": "\u9bca\u9b5a\u5750\u9a0e",
+            "zh_CN": "\u9ca8\u9c7c\u5750\u9a91",
+            "ru": "\u041c\u043e\u0442\u043e\u043a\u0443\u043b\u0430",
+            "fr": "Cavalsquale",
+            "nl": "Opblaashaai",
+            "de": "Haihammer",
+            "it": "Motosqualo",
+            "es": "Flotibur\u00f3n"
           }
         },
         "DarkTetraDualies": {
@@ -285,6 +363,22 @@
             "de": "Schwarmraketen",
             "it": "Lanciarazzi",
             "es": "Lanzamisiles"
+          }
+        },
+        "ForgeSplattershotPro": {
+          "value": "Booyah Bomb",
+          "locale": {
+            "ja": "\u30ca\u30a4\u30b9\u30c0\u30de",
+            "ko": "\ub098\uc774\uc2a4\uc625",
+            "zh_TW": "\u8b9a\u6c23\u5f48",
+            "zh_CN": "\u8d5e\u6c14\u5f39",
+            "ru": "\u0419\u043e-\u0445\u043e-\u043f\u043b\u044e\u0445\u0435\u0440",
+            "nl": "Coole bom",
+            "de": "Cool-Kugel",
+            "it": "Granbotto",
+            "es": "Bola genializante",
+            "fr_CA": "Excellinator",
+            "fr": "Jolizator"
           }
         },
         "GloogaDualies": {
@@ -396,6 +490,22 @@
             "fr": "Haut-perceur 5.1"
           }
         },
+        "InkbrushNouveau": {
+          "value": "Ultra Stamp",
+          "locale": {
+            "ja": "\u30a6\u30eb\u30c8\u30e9\u30cf\u30f3\u30b3",
+            "ko": "\uc6b8\ud2b8\ub77c \uc2a4\ud0ec\ud504",
+            "zh_TW": "\u7d42\u6975\u5370\u7ae0",
+            "zh_CN": "\u7ec8\u6781\u5370\u7ae0",
+            "ru": "\u041f\u0440\u0438\u043f\u0435\u0447\u0430\u0442\u044c",
+            "nl": "Ultrastempel",
+            "de": "Ultra-Stempel",
+            "it": "Mega timbro",
+            "es": "Ultraselladora",
+            "fr_CA": "Ultra-\u00e9tampeur",
+            "fr": "Ultra-tamponneur"
+          }
+        },
         "JetSquelcher": {
           "value": "Ink Vac",
           "locale": {
@@ -437,6 +547,22 @@
             "de": "Haftsprung",
             "it": "Molluscatto",
             "es": "Gancho tentacular"
+          }
+        },
+        "LunaBlasterNeo": {
+          "value": "Ultra Stamp",
+          "locale": {
+            "ja": "\u30a6\u30eb\u30c8\u30e9\u30cf\u30f3\u30b3",
+            "ko": "\uc6b8\ud2b8\ub77c \uc2a4\ud0ec\ud504",
+            "zh_TW": "\u7d42\u6975\u5370\u7ae0",
+            "zh_CN": "\u7ec8\u6781\u5370\u7ae0",
+            "ru": "\u041f\u0440\u0438\u043f\u0435\u0447\u0430\u0442\u044c",
+            "nl": "Ultrastempel",
+            "de": "Ultra-Stempel",
+            "it": "Mega timbro",
+            "es": "Ultraselladora",
+            "fr_CA": "Ultra-\u00e9tampeur",
+            "fr": "Ultra-tamponneur"
           }
         },
         "MiniSplatling": {
@@ -573,6 +699,21 @@
             "es": "Tornado triple"
           }
         },
+        "SlosherDeco": {
+          "value": "Zipcaster",
+          "locale": {
+            "ja": "\u30b7\u30e7\u30af\u30ef\u30f3\u30c0\u30fc",
+            "ko": "\uc1fc\ud06c \uc6d0\ub354",
+            "zh_TW": "\u89f8\u624b\u5674\u5c04",
+            "zh_CN": "\u89e6\u624b\u55b7\u5c04",
+            "ru": "\u041a\u0440\u0430\u0441\u043a\u043e\u0442\u0440\u043e\u0441",
+            "fr": "Super Mollusque",
+            "nl": "Tentakabel",
+            "de": "Haftsprung",
+            "it": "Molluscatto",
+            "es": "Gancho tentacular"
+          }
+        },
         "SloshingMachine": {
           "value": "Booyah Bomb",
           "locale": {
@@ -587,6 +728,19 @@
             "es": "Bola genializante",
             "fr_CA": "Excellinator",
             "fr": "Jolizator"
+          }
+        },
+        "Snipewriter5H": {
+          "value": "Tacticooler",
+          "locale": {
+            "ja": "\u30a8\u30ca\u30b8\u30fc\u30b9\u30bf\u30f3\u30c9",
+            "ko": "\uc5d0\ub108\uc9c0 \uc2a4\ud0e0\ub4dc",
+            "ru": "\u0422\u043e\u043d\u0438\u043a\u0443\u043b\u0435\u0440",
+            "fr": "Districool",
+            "nl": "Reddingsbar",
+            "de": "Tranktank",
+            "it": "Rinfrigorente",
+            "es": "Dispensabebidas"
           }
         },
         "Splashomatic": {
@@ -738,6 +892,23 @@
             "es": "Megaburbuja"
           }
         },
+        "SplattershotNova": {
+          "value": "Killer Wail 5.1",
+          "locale": {
+            "ja": "\u30e1\u30ac\u30db\u30f3\u30ec\u30fc\u30b6\u30fc5.1ch",
+            "ko": "\uba54\uac00\ud3f0 \ub808\uc774\uc800 5.1ch",
+            "zh_TW": "\u5587\u53ed\u96f7\u5c045.1ch",
+            "zh_CN": "\u5587\u53ed\u956d\u5c045.1ch",
+            "ru": "\u041c\u0435\u0433\u0430\u043b\u043e\u0444\u043e\u043d 5.1",
+            "nl": "Megalofoon 5.1",
+            "de": "Heulboje 5.1",
+            "it": "Tintofono 5.1",
+            "fr_CA": "Laser per\u00e7ant 5.1",
+            "es": "Tint\u00f3fono 5.1",
+            "es_LA": "Berre\u00f3n 5.1",
+            "fr": "Haut-perceur 5.1"
+          }
+        },
         "SplattershotPro": {
           "value": "Crab Tank",
           "locale": {
@@ -799,6 +970,21 @@
             "es": "Aspiratinta"
           }
         },
+        "TentatekSplattershot": {
+          "value": "Triple Inkstrike",
+          "locale": {
+            "ja": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9",
+            "ko": "\ud2b8\ub9ac\ud50c \ud1a0\ub124\uc774\ub3c4",
+            "zh_TW": "\u4e09\u91cd\u9f8d\u6372\u98a8",
+            "zh_CN": "\u4e09\u91cd\u9f99\u5377\u98ce",
+            "ru": "\u0422\u0440\u043e\u0439\u043d\u043e\u0435 \u0442\u043e\u0440\u043d\u0430\u0434\u043e",
+            "fr": "Trimissile tornade",
+            "nl": "Tri-tornado",
+            "de": "Tri-Tintferno",
+            "it": "Triplo tornado",
+            "es": "Tornado triple"
+          }
+        },
         "TriSlosher": {
           "value": "Inkjet",
           "locale": {
@@ -845,14 +1031,23 @@
             "it": "Motosqualo",
             "es": "Flotibur\u00f3n"
           }
+        },
+        "ZinkMiniSplatling": {
+          "value": "Big Bubbler",
+          "locale": {
+            "ja": "\u30b0\u30ec\u30fc\u30c8\u30d0\u30ea\u30a2",
+            "ko": "\uadf8\ub808\uc774\ud2b8 \ubc30\ub9ac\uc5b4",
+            "zh_TW": "\u5de8\u5927\u9632\u8b77\u7f69",
+            "zh_CN": "\u5de8\u5927\u9632\u62a4\u7f69",
+            "ru": "\u0428\u0430\u0440\u043e\u0449\u0438\u0442",
+            "fr": "Super bouclier",
+            "nl": "Joekelschild",
+            "de": "Kugelschild Pro",
+            "it": "Gran bolla scudo",
+            "es": "Megaburbuja"
+          }
         }
       }
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "name": "Sub Icons",
-  "version": "1.11",
+  "version": "2.0",
   "description": "Sub weapon icons",
   "prefix": "sub_",
   "postfix": "_",
@@ -8,8 +8,8 @@
     "sub"
   ],
   "credits": "Assets ripped from Inkipedia (https://splatoonwiki.org/)",
-  "metadata": {
-    "sub_name": {
+  "metadata": [
+    {
       "title": "Sub weapon",
       "locale": {
         "fr": "Arme secondaire"
@@ -62,6 +62,22 @@
             "es": "Bomba carb\u00f3nica"
           }
         },
+        "AerosprayRG": {
+          "value": "Sprinkler",
+          "locale": {
+            "ja": "\u30b9\u30d7\u30ea\u30f3\u30af\u30e9\u30fc",
+            "ko": "\uc2a4\ud504\ub9c1\ud074\ub7ec",
+            "zh_TW": "\u7051\u58a8\u5668",
+            "zh_CN": "\u6d12\u58a8\u5668",
+            "ru": "\u0420\u0430\u0441\u043f\u044b\u043b\u044f\u0442\u043e\u0440",
+            "nl": "Inktsprinkler",
+            "de": "Sprinkler",
+            "it": "Spruzzatore",
+            "es": "Aspersor",
+            "fr_CA": "Gicleur",
+            "fr": "Fontaine"
+          }
+        },
         "BallpointSplatling": {
           "value": "Fizzy Bomb",
           "locale": {
@@ -75,6 +91,22 @@
             "de": "Sprudel-Bombe",
             "it": "Bomba a gassosa",
             "es": "Bomba carb\u00f3nica"
+          }
+        },
+        "BigSwigRoller": {
+          "value": "Splash Wall",
+          "locale": {
+            "ja": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30b7\u30fc\u30eb\u30c9",
+            "ko": "\uc2a4\ud50c\ub798\uc2dc \uc2e4\ub4dc",
+            "zh_TW": "\u65af\u666e\u62c9\u9632\u8b77\u7246",
+            "zh_CN": "\u65af\u666e\u62c9\u9632\u62a4\u5899",
+            "ru": "\u0427\u0435\u0440\u043d\u0438\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043d\u0430\u0432\u0435\u0441",
+            "fr": "Mur d'encre",
+            "nl": "Inktgordijn",
+            "de": "Tintenwall",
+            "it": "Muro di colore",
+            "es": "Tel\u00f3n de Tinta",
+            "es_LA": "Barricada"
           }
         },
         "Bamboozler14MkI": {
@@ -138,6 +170,22 @@
             "es": "Robobomba"
           }
         },
+        "CarbonRollerDeco": {
+          "value": "Burst Bomb",
+          "locale": {
+            "ja": "\u30af\u30a4\u30c3\u30af\u30dc\u30e0",
+            "ko": "\ud035 \ubc24",
+            "zh_TW": "\u5feb\u901f\u70b8\u5f48",
+            "zh_CN": "\u5feb\u901f\u70b8\u5f39",
+            "ru": "\u0420\u0430\u0437\u0440\u044b\u0432\u043d\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bombe ballon",
+            "nl": "Ballonbom",
+            "de": "Insta-Bombe",
+            "it": "Granata",
+            "es": "Bomba R\u00e1pida",
+            "es_LA": "Globo Entintado"
+          }
+        },
         "ClashBlaster": {
           "value": "Splat Bomb",
           "locale": {
@@ -169,6 +217,21 @@
             "es": "Rastreador"
           }
         },
+        "CustomSplattershotJr": {
+          "value": "Torpedo",
+          "locale": {
+            "ja": "\u30c8\u30fc\u30d4\u30fc\u30c9",
+            "ko": "\ud1a0\ud53c\ub3c4",
+            "zh_TW": "\u9b5a\u96f7",
+            "zh_CN": "\u9c7c\u96f7",
+            "ru": "\u0422\u043e\u0440\u043f\u0435\u0434\u043d\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bentorpille",
+            "nl": "Torpedobom",
+            "de": "Torpedo",
+            "it": "Torpedinatore",
+            "es": "Torpedo"
+          }
+        },
         "DappleDualies": {
           "value": "Squid Beakon",
           "locale": {
@@ -183,6 +246,21 @@
             "it": "Trasferitore",
             "es": "Baliza transportadora",
             "es_LA": "Baliza"
+          }
+        },
+        "DappleDualiesNouveau": {
+          "value": "Torpedo",
+          "locale": {
+            "ja": "\u30c8\u30fc\u30d4\u30fc\u30c9",
+            "ko": "\ud1a0\ud53c\ub3c4",
+            "zh_TW": "\u9b5a\u96f7",
+            "zh_CN": "\u9c7c\u96f7",
+            "ru": "\u0422\u043e\u0440\u043f\u0435\u0434\u043d\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bentorpille",
+            "nl": "Torpedobom",
+            "de": "Torpedo",
+            "it": "Torpedinatore",
+            "es": "Torpedo"
           }
         },
         "DarkTetraDualies": {
@@ -290,6 +368,22 @@
             "es": "Bomba Trampa",
             "es_LA": "Mina de tinta",
             "fr": "Mine"
+          }
+        },
+        "ForgeSplattershotPro": {
+          "value": "Suction Bomb",
+          "locale": {
+            "ja": "\u30ad\u30e5\u30fc\u30d0\u30f3\u30dc\u30e0",
+            "ko": "\ube68\ud310 \ubc24",
+            "zh_TW": "\u5438\u76e4\u70b8\u5f48",
+            "zh_CN": "\u5438\u76d8\u70b8\u5f39",
+            "ru": "\u0411\u043e\u043c\u0431\u0430 \u043d\u0430 \u043f\u0440\u0438\u0441\u043e\u0441\u043a\u0435",
+            "fr": "Bombe gluante",
+            "nl": "Kleefbom",
+            "de": "Haftbombe",
+            "it": "Appiccibomba",
+            "es": "Bomba ventosa",
+            "es_LA": "Bomba pegajosa"
           }
         },
         "GloogaDualies": {
@@ -401,6 +495,21 @@
             "es_LA": "Plasbomba"
           }
         },
+        "InkbrushNouveau": {
+          "value": "Ink Mine",
+          "locale": {
+            "ja": "\u30c8\u30e9\u30c3\u30d7",
+            "ko": "\ud2b8\ub7a9",
+            "ru": "\u041c\u0438\u043d\u044b",
+            "nl": "Inktmijn",
+            "de": "Tintenmine",
+            "it": "Mina",
+            "fr_CA": "Mine d'encre",
+            "es": "Bomba Trampa",
+            "es_LA": "Mina de tinta",
+            "fr": "Mine"
+          }
+        },
         "JetSquelcher": {
           "value": "Angle Shooter",
           "locale": {
@@ -446,6 +555,21 @@
             "it": "Bomba splash",
             "es": "Bomba b\u00e1sica",
             "es_LA": "Plasbomba"
+          }
+        },
+        "LunaBlasterNeo": {
+          "value": "Fizzy Bomb",
+          "locale": {
+            "ja": "\u30bf\u30f3\u30b5\u30f3\u30dc\u30e0",
+            "ko": "\ud0c4\uc0b0 \ubc24",
+            "zh_TW": "\u78b3\u9178\u70b8\u5f48",
+            "zh_CN": "\u78b3\u9178\u70b8\u5f39",
+            "ru": "\u0421\u043e\u0434\u043e\u0432\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bombe soda",
+            "nl": "Bomblikje",
+            "de": "Sprudel-Bombe",
+            "it": "Bomba a gassosa",
+            "es": "Bomba carb\u00f3nica"
           }
         },
         "MiniSplatling": {
@@ -588,6 +712,22 @@
             "es_LA": "Plasbomba"
           }
         },
+        "SlosherDeco": {
+          "value": "Angle Shooter",
+          "locale": {
+            "ja": "\u30e9\u30a4\u30f3\u30de\u30fc\u30ab\u30fc",
+            "ko": "\ub77c\uc778 \ub9c8\ucee4",
+            "zh_TW": "\u6a19\u7dda\u5668",
+            "zh_CN": "\u6807\u7ebf\u5668",
+            "ru": "\u0423\u0433\u043b\u043e\u0441\u0442\u0440\u0435\u043b",
+            "fr": "Ricocheur",
+            "nl": "Ketskogel",
+            "de": "Winkelmarker",
+            "it": "Sparalinee",
+            "es": "Tiral\u00edneas",
+            "es_LA": "Dardo resaltador"
+          }
+        },
         "SloshingMachine": {
           "value": "Fizzy Bomb",
           "locale": {
@@ -601,6 +741,22 @@
             "de": "Sprudel-Bombe",
             "it": "Bomba a gassosa",
             "es": "Bomba carb\u00f3nica"
+          }
+        },
+        "Snipewriter5H": {
+          "value": "Sprinkler",
+          "locale": {
+            "ja": "\u30b9\u30d7\u30ea\u30f3\u30af\u30e9\u30fc",
+            "ko": "\uc2a4\ud504\ub9c1\ud074\ub7ec",
+            "zh_TW": "\u7051\u58a8\u5668",
+            "zh_CN": "\u6d12\u58a8\u5668",
+            "ru": "\u0420\u0430\u0441\u043f\u044b\u043b\u044f\u0442\u043e\u0440",
+            "nl": "Inktsprinkler",
+            "de": "Sprinkler",
+            "it": "Spruzzatore",
+            "es": "Aspersor",
+            "fr_CA": "Gicleur",
+            "fr": "Fontaine"
           }
         },
         "Splashomatic": {
@@ -761,6 +917,21 @@
             "es_LA": "Plasbomba"
           }
         },
+        "SplattershotNova": {
+          "value": "Point Sensor",
+          "locale": {
+            "ja": "\u30dd\u30a4\u30f3\u30c8\u30bb\u30f3\u30b5\u30fc",
+            "ko": "\ud3ec\uc778\ud2b8 \uc13c\uc11c",
+            "zh_TW": "\u5b9a\u9ede\u5075\u6e2c\u5668",
+            "zh_CN": "\u5b9a\u70b9\u4fa6\u6d4b\u5668",
+            "ru": "\u041c\u0430\u0440\u043a\u0435\u0440 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f",
+            "fr": "D\u00e9tecteur",
+            "nl": "Detector",
+            "de": "Detektor",
+            "it": "Cimice",
+            "es": "Rastreador"
+          }
+        },
         "SplattershotPro": {
           "value": "Angle Shooter",
           "locale": {
@@ -824,6 +995,22 @@
             "es_LA": "Baliza"
           }
         },
+        "TentatekSplattershot": {
+          "value": "Splat Bomb",
+          "locale": {
+            "ja": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0",
+            "ko": "\uc2a4\ud50c\ub798\uc2dc \ubd04",
+            "zh_TW": "\u65af\u666e\u62c9\u70b8\u5f48",
+            "zh_CN": "\u65af\u666e\u62c9\u70b8\u5f39",
+            "ru": "\u0411\u0440\u044b\u0437\u0433\u0430\u044e\u0449\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bombe splash",
+            "nl": "Klodderbom",
+            "de": "Klecksbombe",
+            "it": "Bomba splash",
+            "es": "Bomba b\u00e1sica",
+            "es_LA": "Plasbomba"
+          }
+        },
         "TriSlosher": {
           "value": "Toxic Mist",
           "locale": {
@@ -868,14 +1055,23 @@
             "es_LA": "Mina de tinta",
             "fr": "Mine"
           }
+        },
+        "ZinkMiniSplatling": {
+          "value": "Toxic Mist",
+          "locale": {
+            "ja": "\u30dd\u30a4\u30ba\u30f3\u30df\u30b9\u30c8",
+            "ko": "\ud3ec\uc774\uc98c \ubbf8\uc2a4\ud2b8",
+            "zh_TW": "\u6bd2\u9727",
+            "zh_CN": "\u6bd2\u96fe",
+            "ru": "\u0415\u0434\u043a\u0438\u0439 \u0442\u0443\u043c\u0430\u043d",
+            "fr": "Brume toxique",
+            "nl": "Gifmist",
+            "de": "Sepitox-Nebel",
+            "it": "Nebbia tossica",
+            "es": "Nebulizador"
+          }
         }
       }
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
   ]
 }

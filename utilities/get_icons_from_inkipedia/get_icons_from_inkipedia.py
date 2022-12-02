@@ -42,7 +42,7 @@ def robust_request(link, timeout=30):
 def generate_main_config_skeleton():
     description = "Base config to use this game."
     credits = ""
-    version = "1.0"
+    version = "2.0"
 
     game_id = 36202
 
@@ -102,6 +102,12 @@ def generate_main_config_skeleton():
             },
             "Wahoo World": {
                 "codename": "wahoo"
+            },
+            "Brinewater Springs": {
+                "codename": "brine"
+            },
+            "Flounder Heights": {
+                "codename": "flounder"
             }
         },
         "version": version,
@@ -152,7 +158,7 @@ def write_configs(config_dict, sub_names, special_names):
 
     stage_config = {
         "name": "Stage Icons",
-        "version": "1.0",
+        "version": version,
         "description": "Stage icons",
         "prefix": "stage_",
         "postfix": "",
@@ -166,7 +172,7 @@ def write_configs(config_dict, sub_names, special_names):
 
     sub_config = {
         "name": "Sub Icons",
-        "version": "1.0",
+        "version": version,
         "description": "Sub weapon icons",
         "prefix": "sub_",
         "postfix": "_",
@@ -182,7 +188,7 @@ def write_configs(config_dict, sub_names, special_names):
 
     special_config = {
         "name": "Special Icons",
-        "version": "1.0",
+        "version": version,
         "description": "Special icons",
         "prefix": "spe_",
         "postfix": "_",

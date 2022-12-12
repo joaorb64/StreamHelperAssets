@@ -2,7 +2,7 @@
   "name": "Mural arts",
   "description": "Character arts painted by hand, resized to maintain consistency between characters.",
   "credits": "- @ElevenZM - original mural arts isolation.\n- @MuralAltDrive - alternate costumes, restoration.\n- @kekwel_ssb, @joao_shino - eyesights, resizing.",
-  "version": "0.999",
+  "version": "1.0",
   "prefix": "",
   "postfix": "_",
   "uncropped_edge": [
@@ -568,16 +568,24 @@
     },
     "inkling": {
       "0": {
-        "x": 671,
-        "y": 168
+        "x": 722,
+        "y": 282
       },
       "1": {
-        "x": 635,
-        "y": 293
+        "x": 722,
+        "y": 339
       },
-      "2": {
-        "x": 663,
-        "y": 164
+      "3": {
+        "x": 722,
+        "y": 339
+      },
+      "5": {
+        "x": 722,
+        "y": 339
+      },
+      "7": {
+        "x": 722,
+        "y": 339
       }
     },
     "ridley": {

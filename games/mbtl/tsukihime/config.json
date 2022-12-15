@@ -7,7 +7,7 @@
     "tsukihime"
   ],
   "credits": "",
-  "version": "1.51",
+  "version": "1.6",
   "eyesights": {
     "AkihaTohno": {
       "0": {
@@ -127,6 +127,18 @@
       "0": {
         "x": 570,
         "y": 599
+      }
+    },
+    "Ushiwakamaru": {
+      "0": {
+        "x": 191,
+        "y": 124
+      }
+    },
+    "Count": {
+      "0": {
+        "x": 296,
+        "y": 108
       }
     }
   }

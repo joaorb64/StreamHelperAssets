@@ -7,7 +7,7 @@
     "full_website"
   ],
   "credits": "",
-  "version": "1.52",
+  "version": "1.6",
   "eyesights": {
     "AkihaTohno": {
       "0": {
@@ -127,6 +127,18 @@
       "0": {
         "x": 117,
         "y": 119
+      }
+    },
+    "Ushiwakamaru": {
+      "0": {
+        "x": 597,
+        "y": 194
+      }
+    },
+    "Count": {
+      "0": {
+        "x": 526,
+        "y": 136
       }
     }
   }

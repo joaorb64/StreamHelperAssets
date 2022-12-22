@@ -1,0 +1,139 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Alba Meira": {
+      "codename": "AlbaMeira"
+    },
+    "Ash Crimson": {
+      "codename": "AshCrimson"
+    },
+    "Athena Asamiya": {
+      "codename": "AthenaAsamiya"
+    },
+    "B. Jenet": {
+      "codename": "BJenet"
+    },
+    "Billy Kane": {
+      "codename": "Billy"
+    },
+    "Blue Mary": {
+      "codename": "BlueMary"
+    },
+    "Chae Lim": {
+      "codename": "ChaeLim"
+    },
+    "Clark Still": {
+      "codename": "ClarkStill"
+    },
+    "Duke": {
+      "codename": "Duke"
+    },
+    "EX Kyo": {
+      "codename": "EXKyo"
+    },
+    "Fio Germi": {
+      "codename": "FioGermi"
+    },
+    "Hanzo Hattori": {
+      "codename": "HanzoHattori"
+    },
+    "Hyena": {
+      "codename": "Hyena"
+    },
+    "Iori Yagami": {
+      "codename": "Iori"
+    },
+    "Jivatma": {
+      "codename": "Jivatma"
+    },
+    "K'": {
+      "codename": "K"
+    },
+    "Kim Kaphwan": {
+      "codename": "KimKaphwan"
+    },
+    "Kula Diamond": {
+      "codename": "KulaDiamond"
+    },
+    "Kyo Kusanagi": {
+      "codename": "Kyo"
+    },
+    "Leona Heidern": {
+      "codename": "Leona"
+    },
+    "Lien Neville": {
+      "codename": "LienNeville"
+    },
+    "Lilly Kane": {
+      "codename": "LillyKane"
+    },
+    "Luise Meyrink": {
+      "codename": "LuiseMeyrink"
+    },
+    "Mai Shiranui": {
+      "codename": "MaiShiranui"
+    },
+    "Makoto Mizoguchi": {
+      "codename": "MakotoMizoguchi"
+    },
+    "Maxima": {
+      "codename": "Maxima"
+    },
+    "Mignon Beart": {
+      "codename": "MignonBeart"
+    },
+    "Mr. Karate": {
+      "codename": "MrKarate"
+    },
+    "Nagase": {
+      "codename": "Nagase"
+    },
+    "Nightmare Geese": {
+      "codename": "NightmareGeese"
+    },
+    "Ninon Beart": {
+      "codename": "NinonBeart"
+    },
+    "Ralf Jones": {
+      "codename": "RalfJones"
+    },
+    "Richard Meyer": {
+      "codename": "RichardMeyer"
+    },
+    "Rock Howard": {
+      "codename": "RockHoward"
+    },
+    "Ryo Sakazaki": {
+      "codename": "RyoSakazaki"
+    },
+    "Seth": {
+      "codename": "Seth"
+    },
+    "Soiree Meira": {
+      "codename": "SoireeMeira"
+    },
+    "Terry Bogard": {
+      "codename": "TerryBogard"
+    },
+    "Wild Wolf": {
+      "codename": "WildWolf"
+    },
+    "Xiao Lon": {
+      "codename": "XiaoLon"
+    },
+    "Yuri Sakazaki": {
+      "codename": "YuriSakazaki"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "The King of Fighters: Maximum Impact Regulation \"A\"",
+  "smashgg_game_id": 46577,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "KOF マキシマムインパクト レギュレーション \"A\""
+    }
+  }
+}

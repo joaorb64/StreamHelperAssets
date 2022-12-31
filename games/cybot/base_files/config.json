@@ -1,0 +1,60 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Blodia": {
+      "codename": "Blodia"
+    },
+    "Cyclone": {
+      "codename": "Cyclone"
+    },
+    "Fordy": {
+      "codename": "Fordy"
+    },
+    "Gaits": {
+      "codename": "Gaits"
+    },
+    "Guldin": {
+      "codename": "Guldin"
+    },
+    "Helion": {
+      "codename": "Helion"
+    },
+    "Jackal": {
+      "codename": "Jackal"
+    },
+    "Killer Bee": {
+      "codename": "KillerBee"
+    },
+    "Lightning": {
+      "codename": "Lightning"
+    },
+    "Reptos": {
+      "codename": "Reptos"
+    },
+    "Riot": {
+      "codename": "Riot"
+    },
+    "Super 8": {
+      "codename": "Super8"
+    },
+    "Swordsman": {
+      "codename": "Swordsman"
+    },
+    "Tarantula": {
+      "codename": "Tarantula"
+    },
+    "Vise": {
+      "codename": "Vise"
+    },
+    "Warlock": {
+      "codename": "Warlock"
+    }
+  },
+  "credits": "Sprites ripped by Polarbair",
+  "description": "Base config to use this game.",
+  "name": "Cyberbots: Fullmetal Madness",
+  "smashgg_game_id": 30180,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale":{"ja":{"name": "サイバーボッツ"}}
+}

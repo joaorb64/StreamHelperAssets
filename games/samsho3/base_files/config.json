@@ -1,0 +1,55 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Shiro Tokisada Amakusa": {
+      "codename": "amakusa"
+    },
+    "Basara": {
+      "codename": "basara"
+    },
+    "Gaira Caffeine": {
+      "codename": "gaira"
+    },
+    "Galford D. Weller": {
+      "codename": "galford"
+    },
+    "Genjuro Kibagami": {
+      "codename": "genjuro"
+    },
+    "Hanzo Hattori": {
+      "codename": "hanzo"
+    },
+    "Haohmaru": {
+      "codename": "haohmaru"
+    },
+    "Kyoshiro Senryo": {
+      "codename": "kyoshiro"
+    },
+    "Nakoruru": {
+      "codename": "nakoruru"
+    },
+    "Rimururu": {
+      "codename": "rimururu"
+    },
+    "Shizumaru Hisame": {
+      "codename": "shizumaru"
+    },
+    "Ukyo Tachibana": {
+      "codename": "ukyo"
+    },
+    "Zankuro Minazuki": {
+      "codename": "zankuro"
+    }
+  },
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Samurai_Shodown_3)",
+  "description": "Base config to use this game.",
+  "name": "Samurai Shodown III: Blades of Blood",
+  "smashgg_game_id": 12966,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "サムライスピリッツ: 斬紅郎無双剣"
+    }
+  }
+}

@@ -3,10 +3,9 @@
 ## Description: 
 
 Base config to use this game.
-Note: Icons for Scarlet/Violet are missing, but the Pokémon data is supported
+Please open an issue on Github or warn us in the Discord if some icons misatch with other asset packs or if the Pokémon uses a pixel icon despite being available in Brilliant Diamond/Shining Pearl/Scarlet/Violet
 
 ## Credits: 
 
-Arclart for the Pokémon Legends: Arceus icons
-Arclart for the icons for Wooper-1, Koraidon and Miraidon
+
 

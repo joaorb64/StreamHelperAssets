@@ -1,13 +1,13 @@
 {
   "name": "Pok\u00e9mon Home sprites",
-  "description": "Pok\u00e9mon Home sprites\nScarlet and Violet Pokémon use their box icons as placeholders",
+  "description": "Pok\u00e9mon Home sprites",
   "prefix": "full_",
   "postfix": "_",
   "type": [
     "full"
   ],
-  "credits": "Scarlet/Violet rips by @mattyoukhana_",
-  "version": "1.2",
+  "credits": "Placeholder Renders for Scarlet/Violet from Serebii (https://www.serebii.net/pokedex-sv/)",
+  "version": "1.23",
   "uncropped_edge": [
     "u",
     "r",
@@ -327,12 +327,6 @@
       "0": 2.0
     },
     "1008": {
-      "0": 2.0
-    },
-    "1009": {
-      "0": 2.0
-    },
-    "1010": {
       "0": 2.0
     }
   }

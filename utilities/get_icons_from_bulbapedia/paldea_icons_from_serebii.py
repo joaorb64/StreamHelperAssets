@@ -7,11 +7,12 @@ from copy import deepcopy
 directory = "serebii"
 form_directory = f"{directory}/paldeaform"
 new_directory = f"{directory}/new"
+new_full_directory = f"{directory}/new/full"
 pokedex_filename = f"{directory}/dex.json"
 zoom_filename = f"{directory}/zoom.json"
 
 Path(form_directory).mkdir(parents=True, exist_ok=True)
-Path(new_directory).mkdir(parents=True, exist_ok=True)
+Path(new_full_directory).mkdir(parents=True, exist_ok=True)
 
 form_url = "https://serebii.net/scarletviolet/paldeanforms.shtml"
 new_url = "https://serebii.net/scarletviolet/pokemon.shtml"
@@ -53,6 +54,8 @@ def download_forms():
                     dex_number: str = element.get_text()
                     dex_number = dex_number.strip().removeprefix("#")
                 #   print(dex_number)
+                    icon_url = f"https://www.serebii.net/pokedex-sv/icon/{dex_number}-p.png"
+                    render_url = f"https://www.serebii.net/scarletviolet/pokemon/{dex_number}-p.png"
                     icon_url = f"https://serebii.net/scarletviolet/pokemon/{dex_number}-p.png"
                     icon_filename = f"{form_directory}/icon_{dex_number}_1.png"
                     icon_file = robust_request(icon_url)
@@ -89,13 +92,18 @@ def download_new():
                 index+=1
                 if "/scarletviolet/pokemon/" in element["src"]:
                     dex_number: str = element["src"]
-                    dex_number = dex_number.strip().removeprefix("/scarletviolet/pokemon/").removesuffix(".png")
+                    dex_number = dex_number.strip().removeprefix("/scarletviolet/pokemon/").removesuffix(".png").removeprefix("new/")
                     print(dex_number)
-                    icon_url = f"https://serebii.net/scarletviolet/pokemon/{dex_number}.png"
+                    icon_url = f"https://www.serebii.net/pokedex-sv/icon/{dex_number}.png"
+                    render_url = f"https://www.serebii.net/scarletviolet/pokemon/new/{dex_number}.png"
                     icon_filename = f"{new_directory}/icon_{dex_number}_0.png"
+                    render_filename = f"{new_full_directory}/full_{dex_number}_0.png"
                     icon_file = robust_request(icon_url)
+                    render_file = robust_request(render_url)
                     with open(icon_filename, 'wb') as f:
                         f.write(icon_file.content)
+                    with open(render_filename, 'wb') as f:
+                        f.write(render_file.content)
 
             elements = row.findAll("a")
             pokemon_name = str(elements[1])

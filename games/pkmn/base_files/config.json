@@ -11906,21 +11906,8 @@
         "es": "Oinkologne"
       }
     },
-    "Dudunsparce": {
-      "codename": "917",
-      "locale": {
-        "fr": "Deusolourdo",
-        "de": "Dummimisel",
-        "ko": "\ub178\uace0\uace0\uce58",
-        "ja": "\u30ce\u30b3\u30b3\u30c3\u30c1",
-        "zh_CN": "\u571f\u9f99\u8282\u8282",
-        "zh_TW": "\u571f\u9f8d\u7bc0\u7bc0",
-        "it": "Dudunsparce",
-        "es": "Dudunsparce"
-      }
-    },
     "Tarountula": {
-      "codename": "918",
+      "codename": "917",
       "locale": {
         "fr": "Tissenboule",
         "de": "Tarundel",
@@ -11933,7 +11920,7 @@
       }
     },
     "Spidops": {
-      "codename": "919",
+      "codename": "918",
       "locale": {
         "fr": "Filentrappe",
         "de": "Spinsidias",
@@ -11946,7 +11933,7 @@
       }
     },
     "Nymble": {
-      "codename": "920",
+      "codename": "919",
       "locale": {
         "fr": "Lilliterelle",
         "de": "Micrick",
@@ -11959,7 +11946,7 @@
       }
     },
     "Lokix": {
-      "codename": "921",
+      "codename": "920",
       "locale": {
         "fr": "Gambex",
         "de": "Lextremo",
@@ -11971,424 +11958,8 @@
         "es": "Lokix"
       }
     },
-    "Rellor": {
-      "codename": "922",
-      "locale": {
-        "fr": "L\u00e9boul\u00e9rou",
-        "de": "Relluk",
-        "ko": "\uad6c\ub974\ub370",
-        "ja": "\u30b7\u30ac\u30ed\u30b3",
-        "zh_CN": "\u866b\u6eda\u6ce5",
-        "zh_TW": "\u87f2\u6efe\u6ce5",
-        "it": "Rellor",
-        "es": "Rellor"
-      }
-    },
-    "Rabsca": {
-      "codename": "923",
-      "locale": {
-        "fr": "B\u00e9rasca",
-        "de": "Skarabaks",
-        "ko": "\ubca0\ub77c\uce74\uc2a4",
-        "ja": "\u30d9\u30e9\u30ab\u30b9",
-        "zh_CN": "\u866b\u7532\u5723",
-        "zh_TW": "\u87f2\u7532\u8056",
-        "it": "Rabsca",
-        "es": "Rabsca"
-      }
-    },
-    "Greavard": {
-      "codename": "924",
-      "locale": {
-        "fr": "Toutombe",
-        "de": "Gruff",
-        "ko": "\ub9dd\ub9dd\uc774",
-        "ja": "\u30dc\u30c1",
-        "zh_CN": "\u5893\u4ed4\u72d7",
-        "zh_TW": "\u5893\u4ed4\u72d7",
-        "it": "Greavard",
-        "es": "Greavard"
-      }
-    },
-    "Houndstone": {
-      "codename": "925",
-      "locale": {
-        "fr": "Tomberro",
-        "de": "Friedwuff",
-        "ko": "\ubb18\ub450\uae30",
-        "ja": "\u30cf\u30ab\u30c9\u30c3\u30b0",
-        "zh_CN": "\u5893\u626c\u72ac",
-        "zh_TW": "\u5893\u63da\u72ac",
-        "it": "Houndstone",
-        "es": "Houndstone"
-      }
-    },
-    "Flittle": {
-      "codename": "926",
-      "locale": {
-        "fr": "Flotillon",
-        "de": "Flattutu",
-        "ko": "\ud558\ub290\ub77c\uae30",
-        "ja": "\u30d2\u30e9\u30d2\u30ca",
-        "zh_CN": "\u98d8\u98d8\u96cf",
-        "zh_TW": "\u98c4\u98c4\u96db",
-        "it": "Flittle",
-        "es": "Flittle"
-      }
-    },
-    "Espathra": {
-      "codename": "927",
-      "locale": {
-        "fr": "Cl\u00e9opsytra",
-        "de": "Psiopatra",
-        "ko": "\ud074\ub808\uc2a4\ud37c\ud2b8\ub77c",
-        "ja": "\u30af\u30a8\u30b9\u30d1\u30c8\u30e9",
-        "zh_CN": "\u8d85\u80fd\u8273\u9e35",
-        "zh_TW": "\u8d85\u80fd\u8c54\u9d15",
-        "it": "Espathra",
-        "es": "Espathra"
-      }
-    },
-    "Farigiraf": {
-      "codename": "928",
-      "locale": {
-        "fr": "Farigiraf",
-        "de": "Farigiraf",
-        "ko": "\ud0a4\ud0a4\ub9c1",
-        "ja": "\u30ea\u30ad\u30ad\u30ea\u30f3",
-        "zh_CN": "\u5947\u9e92\u9e9f",
-        "zh_TW": "\u5947\u9e92\u9e9f",
-        "it": "Farigiraf",
-        "es": "Farigiraf"
-      }
-    },
-    "Wiglett": {
-      "codename": "929",
-      "locale": {
-        "fr": "Taupikeau",
-        "de": "Schligda",
-        "ko": "\ubc14\ub2e4\uadf8\ub2e4",
-        "ja": "\u30a6\u30df\u30c7\u30a3\u30b0\u30c0",
-        "zh_CN": "\u6d77\u5730\u9f20",
-        "zh_TW": "\u6d77\u5730\u9f20",
-        "it": "Wiglett",
-        "es": "Wiglett"
-      }
-    },
-    "Wugtrio": {
-      "codename": "930",
-      "locale": {
-        "fr": "Triopikeau",
-        "de": "Schligdri",
-        "ko": "\ubc14\ub2e5\ud2b8\ub9ac\uc624",
-        "ja": "\u30a6\u30df\u30c8\u30ea\u30aa",
-        "zh_CN": "\u4e09\u6d77\u5730\u9f20",
-        "zh_TW": "\u4e09\u6d77\u5730\u9f20",
-        "it": "Wugtrio",
-        "es": "Wugtrio"
-      }
-    },
-    "Dondozo": {
-      "codename": "931",
-      "locale": {
-        "fr": "Oyacata",
-        "de": "Heerashai",
-        "ko": "\uc5b4\uc368\ub7ec\uc154",
-        "ja": "\u30d8\u30a4\u30e9\u30c3\u30b7\u30e3",
-        "zh_CN": "\u5403\u543c\u9738",
-        "zh_TW": "\u5403\u543c\u9738",
-        "it": "Dondozo",
-        "es": "Dondozo"
-      }
-    },
-    "Veluza": {
-      "codename": "932",
-      "locale": {
-        "fr": "D\u00e9lestin",
-        "de": "Agiluza",
-        "ko": "\uac00\ube44\ub8e8\uc0ac",
-        "ja": "\u30df\u30ac\u30eb\u30fc\u30b5",
-        "zh_CN": "\u8f7b\u8eab\u9cd5",
-        "zh_TW": "\u8f15\u8eab\u9c48",
-        "it": "Veluza",
-        "es": "Veluza"
-      }
-    },
-    "Finizen": {
-      "codename": "933",
-      "locale": {
-        "fr": "Dofin",
-        "de": "Normifin",
-        "ko": "\ub9e8\ub3cc\ud540",
-        "ja": "\u30ca\u30df\u30a4\u30eb\u30ab",
-        "zh_CN": "\u6ce2\u666e\u6d77\u8c5a",
-        "zh_TW": "\u6ce2\u666e\u6d77\u8c5a",
-        "it": "Finizen",
-        "es": "Finizen"
-      }
-    },
-    "Palafin": {
-      "codename": "934",
-      "locale": {
-        "fr": "Superdofin",
-        "de": "Delfinator",
-        "ko": "\ub3cc\ud540\ub9e8",
-        "ja": "\u30a4\u30eb\u30ab\u30de\u30f3",
-        "zh_CN": "\u6d77\u8c5a\u4fa0",
-        "zh_TW": "\u6d77\u8c5a\u4fe0",
-        "it": "Palafin",
-        "es": "Palafin"
-      }
-    },
-    "Smoliv": {
-      "codename": "935",
-      "locale": {
-        "fr": "Olivini",
-        "de": "Olini",
-        "ko": "\ubbf8\ub2c8\ube0c",
-        "ja": "\u30df\u30cb\u30fc\u30d6",
-        "zh_CN": "\u8ff7\u4f60\u8299",
-        "zh_TW": "\u8ff7\u4f60\u8299",
-        "it": "Smoliv",
-        "es": "Smoliv"
-      }
-    },
-    "Dolliv": {
-      "codename": "936",
-      "locale": {
-        "fr": "Olivado",
-        "de": "Olivinio",
-        "ko": "\uc62c\ub9ac\ub1e8",
-        "ja": "\u30aa\u30ea\u30fc\u30cb\u30e7",
-        "zh_CN": "\u5965\u5229\u7ebd",
-        "zh_TW": "\u5967\u5229\u7d10",
-        "it": "Dolliv",
-        "es": "Dolliv"
-      }
-    },
-    "Arboliva": {
-      "codename": "937",
-      "locale": {
-        "fr": "Arboliva",
-        "de": "Olithena",
-        "ko": "\uc62c\ub9ac\ub974\ubc14",
-        "ja": "\u30aa\u30ea\u30fc\u30f4\u30a1",
-        "zh_CN": "\u5965\u5229\u74e6",
-        "zh_TW": "\u5967\u5229\u74e6",
-        "it": "Arboliva",
-        "es": "Arboliva"
-      }
-    },
-    "Capsakid": {
-      "codename": "938",
-      "locale": {
-        "fr": "Pimito",
-        "de": "Chilingel",
-        "ko": "\ucea1\uc2f8\uc774",
-        "ja": "\u30ab\u30d7\u30b5\u30a4\u30b8",
-        "zh_CN": "\u70ed\u8fa3\u5a03",
-        "zh_TW": "\u71b1\u8fa3\u5a03",
-        "it": "Capsakid",
-        "es": "Capsakid"
-      }
-    },
-    "Scovillain": {
-      "codename": "939",
-      "locale": {
-        "fr": "Scovilain",
-        "de": "Halupenjo",
-        "ko": "\uc2a4\ucf54\ube4c\ub7f0",
-        "ja": "\u30b9\u30b3\u30f4\u30a3\u30e9\u30f3",
-        "zh_CN": "\u72e0\u8fa3\u6912",
-        "zh_TW": "\u72e0\u8fa3\u6912",
-        "it": "Scovillain",
-        "es": "Scovillain"
-      }
-    },
-    "Tadbulb": {
-      "codename": "940",
-      "locale": {
-        "fr": "T\u00eatampoule",
-        "de": "Blipp",
-        "ko": "\ube48\ub098\ub450",
-        "ja": "\u30ba\u30d4\u30ab",
-        "zh_CN": "\u5149\u86aa\u4ed4",
-        "zh_TW": "\u5149\u86aa\u4ed4",
-        "it": "Tadbulb",
-        "es": "Tadbulb"
-      }
-    },
-    "Bellibolt": {
-      "codename": "941",
-      "locale": {
-        "fr": "Ampibidou",
-        "de": "Wampitz",
-        "ko": "\ucc0c\ub9ac\ubc30\ub9ac",
-        "ja": "\u30cf\u30e9\u30d0\u30ea\u30fc",
-        "zh_CN": "\u7535\u809a\u86d9",
-        "zh_TW": "\u96fb\u809a\u86d9",
-        "it": "Bellibolt",
-        "es": "Bellibolt"
-      }
-    },
-    "Varoom": {
-      "codename": "942",
-      "locale": {
-        "fr": "Vrombi",
-        "de": "Knattox",
-        "ko": "\ubd80\ub974\ub871",
-        "ja": "\u30d6\u30ed\u30ed\u30f3",
-        "zh_CN": "\u5657\u9686\u9686",
-        "zh_TW": "\u5657\u9686\u9686",
-        "it": "Varoom",
-        "es": "Varoom"
-      }
-    },
-    "Revavroom": {
-      "codename": "943",
-      "locale": {
-        "fr": "Vrombotor",
-        "de": "Knattatox",
-        "ko": "\ubd80\ub974\ub974\ub8f8",
-        "ja": "\u30d6\u30ed\u30ed\u30ed\u30fc\u30e0",
-        "zh_CN": "\u666e\u9686\u9686\u59c6",
-        "zh_TW": "\u666e\u9686\u9686\u59c6",
-        "it": "Revavroom",
-        "es": "Revavroom"
-      }
-    },
-    "Orthworm": {
-      "codename": "944",
-      "locale": {
-        "fr": "Ferdeter",
-        "de": "Schlurm",
-        "ko": "\uafc8\ud2b8\ub801",
-        "ja": "\u30df\u30df\u30ba\u30ba",
-        "zh_CN": "\u62d6\u62d6\u8693",
-        "zh_TW": "\u62d6\u62d6\u8693",
-        "it": "Orthworm",
-        "es": "Orthworm"
-      }
-    },
-    "Tandemaus": {
-      "codename": "945",
-      "locale": {
-        "fr": "Compagnol",
-        "de": "Zwieps",
-        "ko": "\ub450\ub9ac\uc950",
-        "ja": "\u30ef\u30c3\u30ab\u30cd\u30ba\u30df",
-        "zh_CN": "\u4e00\u5bf9\u9f20",
-        "zh_TW": "\u4e00\u5c0d\u9f20",
-        "it": "Tandemaus",
-        "es": "Tandemaus"
-      }
-    },
-    "Maushold": {
-      "codename": "946",
-      "locale": {
-        "fr": "Famignol",
-        "de": "Famieps",
-        "ko": "\ud30c\ubc00\ub9ac\uc950",
-        "ja": "\u30a4\u30c3\u30ab\u30cd\u30ba\u30df",
-        "zh_CN": "\u4e00\u5bb6\u9f20",
-        "zh_TW": "\u4e00\u5bb6\u9f20",
-        "it": "Maushold",
-        "es": "Maushold"
-      }
-    },
-    "Cetoddle": {
-      "codename": "947",
-      "locale": {
-        "fr": "Pi\u00e9tac\u00e9",
-        "de": "Flaniwal",
-        "ko": "\ud130\ubc85\uace0\ub798",
-        "ja": "\u30a2\u30eb\u30af\u30b8\u30e9",
-        "zh_CN": "\u8d70\u9cb8",
-        "zh_TW": "\u8d70\u9be8",
-        "it": "Cetoddle",
-        "es": "Cetoddle"
-      }
-    },
-    "Cetitan": {
-      "codename": "948",
-      "locale": {
-        "fr": "Balbal\u00e8ze",
-        "de": "Kolowal",
-        "ko": "\uc6b0\ub77d\uace0\ub798",
-        "ja": "\u30cf\u30eb\u30af\u30b8\u30e9",
-        "zh_CN": "\u6d69\u5927\u9cb8",
-        "zh_TW": "\u6d69\u5927\u9be8",
-        "it": "Cetitan",
-        "es": "Cetitan"
-      }
-    },
-    "Frigibax": {
-      "codename": "949",
-      "locale": {
-        "fr": "Frigodo",
-        "de": "Frospino",
-        "ko": "\ub4dc\ub2c8\ucc28",
-        "ja": "\u30bb\u30d3\u30a8",
-        "zh_CN": "\u51c9\u810a\u9f99",
-        "zh_TW": "\u6dbc\u810a\u9f8d",
-        "it": "Frigibax",
-        "es": "Frigibax"
-      }
-    },
-    "Arctibax": {
-      "codename": "950",
-      "locale": {
-        "fr": "Cryodo",
-        "de": "Cryospino",
-        "ko": "\ub4dc\ub2c8\uaf41",
-        "ja": "\u30bb\u30b4\u30fc\u30eb",
-        "zh_CN": "\u51bb\u810a\u9f99",
-        "zh_TW": "\u51cd\u810a\u9f8d",
-        "it": "Arctibax",
-        "es": "Arctibax"
-      }
-    },
-    "Baxcalibur": {
-      "codename": "951",
-      "locale": {
-        "fr": "Glaivodo",
-        "de": "Espinodon",
-        "ko": "\ub4dc\ub2d0\ub808\uc774\ube0c",
-        "ja": "\u30bb\u30b0\u30ec\u30a4\u30d6",
-        "zh_CN": "\u621f\u810a\u9f99",
-        "zh_TW": "\u621f\u810a\u9f8d",
-        "it": "Baxcalibur",
-        "es": "Baxcalibur"
-      }
-    },
-    "Tatsugiri": {
-      "codename": "952",
-      "locale": {
-        "fr": "Nigirigon",
-        "de": "Nigiragi",
-        "ko": "\uc2f8\ub9ac\uc6a9",
-        "ja": "\u30b7\u30e3\u30ea\u30bf\u30c4",
-        "zh_CN": "\u7c73\u7acb\u9f99",
-        "zh_TW": "\u7c73\u7acb\u9f8d",
-        "it": "Tatsugiri",
-        "es": "Tatsugiri"
-      }
-    },
-    "Cyclizar": {
-      "codename": "953",
-      "locale": {
-        "fr": "Motorizard",
-        "de": "Mopex",
-        "ko": "\ubaa8\ud1a0\ub9c8",
-        "ja": "\u30e2\u30c8\u30c8\u30ab\u30b2",
-        "zh_CN": "\u6469\u6258\u8725",
-        "zh_TW": "\u6469\u6258\u8725",
-        "it": "Cyclizar",
-        "es": "Cyclizar"
-      }
-    },
     "Pawmi": {
-      "codename": "954",
+      "codename": "921",
       "locale": {
         "fr": "Pohm",
         "de": "Pamo",
@@ -12401,7 +11972,7 @@
       }
     },
     "Pawmo": {
-      "codename": "955",
+      "codename": "922",
       "locale": {
         "fr": "Pohmotte",
         "de": "Pamamo",
@@ -12414,7 +11985,7 @@
       }
     },
     "Pawmot": {
-      "codename": "956",
+      "codename": "923",
       "locale": {
         "fr": "Pohmarmotte",
         "de": "Pamomamo",
@@ -12426,177 +11997,34 @@
         "es": "Pawmot"
       }
     },
-    "Wattrel": {
-      "codename": "957",
+    "Tandemaus": {
+      "codename": "924",
       "locale": {
-        "fr": "Zap\u00e9trel",
-        "de": "Voltrel",
-        "ko": "\ucc0c\ub9ac\ube44",
-        "ja": "\u30ab\u30a4\u30c7\u30f3",
-        "zh_CN": "\u7535\u6d77\u71d5",
-        "zh_TW": "\u96fb\u6d77\u71d5",
-        "it": "Wattrel",
-        "es": "Wattrel"
+        "fr": "Compagnol",
+        "de": "Zwieps",
+        "ko": "\ub450\ub9ac\uc950",
+        "ja": "\u30ef\u30c3\u30ab\u30cd\u30ba\u30df",
+        "zh_CN": "\u4e00\u5bf9\u9f20",
+        "zh_TW": "\u4e00\u5c0d\u9f20",
+        "it": "Tandemaus",
+        "es": "Tandemaus"
       }
     },
-    "Kilowattrel": {
-      "codename": "958",
+    "Maushold": {
+      "codename": "925",
       "locale": {
-        "fr": "Fulgulairo",
-        "de": "Voltrean",
-        "ko": "\ucc0c\ub9ac\ube44\ud06c",
-        "ja": "\u30bf\u30a4\u30ab\u30a4\u30c7\u30f3",
-        "zh_CN": "\u5927\u7535\u6d77\u71d5",
-        "zh_TW": "\u5927\u96fb\u6d77\u71d5",
-        "it": "Kilowattrel",
-        "es": "Kilowattrel"
-      }
-    },
-    "Bombirdier": {
-      "codename": "959",
-      "locale": {
-        "fr": "Lestombaile",
-        "de": "Adebom",
-        "ko": "\ub5a8\uad6c\uc0c8",
-        "ja": "\u30aa\u30c8\u30b7\u30c9\u30ea",
-        "zh_CN": "\u4e0b\u77f3\u9e1f",
-        "zh_TW": "\u4e0b\u77f3\u9ce5",
-        "it": "Bombirdier",
-        "es": "Bombirdier"
-      }
-    },
-    "Squawkabilly": {
-      "codename": "960",
-      "locale": {
-        "fr": "Tapato\u00e8s",
-        "de": "Krawalloro",
-        "ko": "\uc2dc\ube44\uaf2c",
-        "ja": "\u30a4\u30ad\u30ea\u30f3\u30b3",
-        "zh_CN": "\u6012\u9e66\u54e5",
-        "zh_TW": "\u6012\u9e1a\u54e5",
-        "it": "Squawkabilly",
-        "es": "Squawkabilly"
-      }
-    },
-    "Flamigo": {
-      "codename": "961",
-      "locale": {
-        "fr": "Flamenroule",
-        "de": "Flaminkno",
-        "ko": "\uaf2c\uc774\ubc0d\uace0",
-        "ja": "\u30ab\u30e9\u30df\u30f3\u30b4",
-        "zh_CN": "\u7f20\u7ea2\u9e64",
-        "zh_TW": "\u7e8f\u7d05\u9db4",
-        "it": "Flamigo",
-        "es": "Flamigo"
-      }
-    },
-    "Klawf": {
-      "codename": "962",
-      "locale": {
-        "fr": "Craparoi",
-        "de": "Klibbe",
-        "ko": "\uc808\ubcbc\uac8c",
-        "ja": "\u30ac\u30b1\u30ac\u30cb",
-        "zh_CN": "\u6bdb\u5d16\u87f9",
-        "zh_TW": "\u6bdb\u5d16\u87f9",
-        "it": "Klawf",
-        "es": "Klawf"
-      }
-    },
-    "Nacli": {
-      "codename": "963",
-      "locale": {
-        "fr": "Selutin",
-        "de": "Geosali",
-        "ko": "\ubca0\ubca0\uc194\ud2b8",
-        "ja": "\u30b3\u30b8\u30aa",
-        "zh_CN": "\u76d0\u77f3\u5b9d",
-        "zh_TW": "\u9e7d\u77f3\u5bf6",
-        "it": "Nacli",
-        "es": "Nacli"
-      }
-    },
-    "Naclstack": {
-      "codename": "964",
-      "locale": {
-        "fr": "Amassel",
-        "de": "Sedisal",
-        "ko": "\uc2a4\ud0dc\uc194\ud2b8",
-        "ja": "\u30b8\u30aa\u30c5\u30e0",
-        "zh_CN": "\u76d0\u77f3\u5792",
-        "zh_TW": "\u9e7d\u77f3\u58d8",
-        "it": "Naclstack",
-        "es": "Naclstack"
-      }
-    },
-    "Garganacl": {
-      "codename": "965",
-      "locale": {
-        "fr": "Gigansel",
-        "de": "Saltigant",
-        "ko": "\ucf5c\ub85c\uc194\ud2b8",
-        "ja": "\u30ad\u30e7\u30b8\u30aa\u30fc\u30f3",
-        "zh_CN": "\u76d0\u77f3\u5de8\u7075",
-        "zh_TW": "\u9e7d\u77f3\u5de8\u9748",
-        "it": "Garganacl",
-        "es": "Garganacl"
-      }
-    },
-    "Glimmet": {
-      "codename": "966",
-      "locale": {
-        "fr": "Germ\u00e9clat",
-        "de": "Lumispross",
-        "ko": "\ucd08\ub871\uc21c",
-        "ja": "\u30ad\u30e9\u30fc\u30e1",
-        "zh_CN": "\u6676\u5149\u82bd",
-        "zh_TW": "\u6676\u5149\u82bd",
-        "it": "Glimmet",
-        "es": "Glimmet"
-      }
-    },
-    "Glimmora": {
-      "codename": "967",
-      "locale": {
-        "fr": "Flor\u00e9clat",
-        "de": "Lumiflora",
-        "ko": "\ud0ac\ub77c\ud50c\ub85c\ub974",
-        "ja": "\u30ad\u30e9\u30d5\u30ed\u30eb",
-        "zh_CN": "\u6676\u5149\u82b1",
-        "zh_TW": "\u6676\u5149\u82b1",
-        "it": "Glimmora",
-        "es": "Glimmora"
-      }
-    },
-    "Shroodle": {
-      "codename": "968",
-      "locale": {
-        "fr": "Gribouraigne",
-        "de": "Sproxi",
-        "ko": "\ub543\ucb48\ub974",
-        "ja": "\u30b7\u30eb\u30b7\u30e5\u30eb\u30fc",
-        "zh_CN": "\u6ecb\u6c41\u9f39",
-        "zh_TW": "\u6ecb\u6c41\u9f34",
-        "it": "Shroodle",
-        "es": "Shroodle"
-      }
-    },
-    "Grafaiai": {
-      "codename": "969",
-      "locale": {
-        "fr": "Tag-Tag",
-        "de": "Affiti",
-        "ko": "\ud0dc\uae45\uad6c\ub974",
-        "ja": "\u30bf\u30ae\u30f3\u30b0\u30eb",
-        "zh_CN": "\u6d82\u6807\u5ba2",
-        "zh_TW": "\u5857\u6a19\u5ba2",
-        "it": "Grafaiai",
-        "es": "Grafaiai"
+        "fr": "Famignol",
+        "de": "Famieps",
+        "ko": "\ud30c\ubc00\ub9ac\uc950",
+        "ja": "\u30a4\u30c3\u30ab\u30cd\u30ba\u30df",
+        "zh_CN": "\u4e00\u5bb6\u9f20",
+        "zh_TW": "\u4e00\u5bb6\u9f20",
+        "it": "Maushold",
+        "es": "Maushold"
       }
     },
     "Fidough": {
-      "codename": "970",
+      "codename": "926",
       "locale": {
         "fr": "P\u00e2tachiot",
         "de": "Hefel",
@@ -12609,7 +12037,7 @@
       }
     },
     "Dachsbun": {
-      "codename": "971",
+      "codename": "927",
       "locale": {
         "fr": "Briochien",
         "de": "Backel",
@@ -12621,385 +12049,99 @@
         "es": "Dachsbun"
       }
     },
-    "Maschiff": {
-      "codename": "972",
+    "Smoliv": {
+      "codename": "928",
       "locale": {
-        "fr": "Grondogue",
-        "de": "Mobtiff",
-        "ko": "\uc624\ub77c\ud2f0\ud504",
-        "ja": "\u30aa\u30e9\u30c1\u30d5",
-        "zh_CN": "\u5076\u53eb\u7352",
-        "zh_TW": "\u5076\u53eb\u7352",
-        "it": "Maschiff",
-        "es": "Maschiff"
+        "fr": "Olivini",
+        "de": "Olini",
+        "ko": "\ubbf8\ub2c8\ube0c",
+        "ja": "\u30df\u30cb\u30fc\u30d6",
+        "zh_CN": "\u8ff7\u4f60\u8299",
+        "zh_TW": "\u8ff7\u4f60\u8299",
+        "it": "Smoliv",
+        "es": "Smoliv"
       }
     },
-    "Mabosstiff": {
-      "codename": "973",
+    "Dolliv": {
+      "codename": "929",
       "locale": {
-        "fr": "Dogrino",
-        "de": "Mastifioso",
-        "ko": "\ub9c8\ud53c\ud2f0\ud504",
-        "ja": "\u30de\u30d5\u30a3\u30c6\u30a3\u30d5",
-        "zh_CN": "\u7352\u6559\u7236",
-        "zh_TW": "\u7352\u6559\u7236",
-        "it": "Mabosstiff",
-        "es": "Mabosstiff"
+        "fr": "Olivado",
+        "de": "Olivinio",
+        "ko": "\uc62c\ub9ac\ub1e8",
+        "ja": "\u30aa\u30ea\u30fc\u30cb\u30e7",
+        "zh_CN": "\u5965\u5229\u7ebd",
+        "zh_TW": "\u5967\u5229\u7d10",
+        "it": "Dolliv",
+        "es": "Dolliv"
       }
     },
-    "Bramblin": {
-      "codename": "974",
+    "Arboliva": {
+      "codename": "930",
       "locale": {
-        "fr": "Virovent",
-        "de": "Weherba",
-        "ko": "\uadf8\ud478\ub9ac",
-        "ja": "\u30a2\u30ce\u30af\u30b5",
-        "zh_CN": "\u7eb3\u566c\u8349",
-        "zh_TW": "\u7d0d\u566c\u8349",
-        "it": "Bramblin",
-        "es": "Bramblin"
+        "fr": "Arboliva",
+        "de": "Olithena",
+        "ko": "\uc62c\ub9ac\ub974\ubc14",
+        "ja": "\u30aa\u30ea\u30fc\u30f4\u30a1",
+        "zh_CN": "\u5965\u5229\u74e6",
+        "zh_TW": "\u5967\u5229\u74e6",
+        "it": "Arboliva",
+        "es": "Arboliva"
       }
     },
-    "Brambleghast": {
-      "codename": "975",
+    "Squawkabilly": {
+      "codename": "931",
       "locale": {
-        "fr": "Virevorreur",
-        "de": "Horrerba",
-        "ko": "\uacf5\ud478\ub9ac",
-        "ja": "\u30a2\u30ce\u30db\u30e9\u30b0\u30b5",
-        "zh_CN": "\u6016\u7eb3\u566c\u8349",
-        "zh_TW": "\u6016\u7d0d\u566c\u8349",
-        "it": "Brambleghast",
-        "es": "Brambleghast"
+        "fr": "Tapato\u00e8s",
+        "de": "Krawalloro",
+        "ko": "\uc2dc\ube44\uaf2c",
+        "ja": "\u30a4\u30ad\u30ea\u30f3\u30b3",
+        "zh_CN": "\u6012\u9e66\u54e5",
+        "zh_TW": "\u6012\u9e1a\u54e5",
+        "it": "Squawkabilly",
+        "es": "Squawkabilly"
       }
     },
-    "Gimmighoul": {
-      "codename": "976",
+    "Nacli": {
+      "codename": "932",
       "locale": {
-        "fr": "Mordudor",
-        "de": "Gierspenst",
-        "ko": "\ubaa8\uc73c\ub839",
-        "ja": "\u30b3\u30ec\u30af\u30ec\u30fc",
-        "zh_CN": "\u7d22\u8d22\u7075",
-        "zh_TW": "\u7d22\u8ca1\u9748",
-        "it": "Gimmighoul",
-        "es": "Gimmighoul"
+        "fr": "Selutin",
+        "de": "Geosali",
+        "ko": "\ubca0\ubca0\uc194\ud2b8",
+        "ja": "\u30b3\u30b8\u30aa",
+        "zh_CN": "\u76d0\u77f3\u5b9d",
+        "zh_TW": "\u9e7d\u77f3\u5bf6",
+        "it": "Nacli",
+        "es": "Nacli"
       }
     },
-    "Gholdengo": {
-      "codename": "977",
+    "Naclstack": {
+      "codename": "933",
       "locale": {
-        "fr": "Gromago",
-        "de": "Monetigo",
-        "ko": "\ud0c0\ubd80\uc790\uace0",
-        "ja": "\u30b5\u30fc\u30d5\u30b4\u30fc",
-        "zh_CN": "\u8d5b\u5bcc\u8c6a",
-        "zh_TW": "\u8cfd\u5bcc\u8c6a",
-        "it": "Gholdengo",
-        "es": "Gholdengo"
+        "fr": "Amassel",
+        "de": "Sedisal",
+        "ko": "\uc2a4\ud0dc\uc194\ud2b8",
+        "ja": "\u30b8\u30aa\u30c5\u30e0",
+        "zh_CN": "\u76d0\u77f3\u5792",
+        "zh_TW": "\u9e7d\u77f3\u58d8",
+        "it": "Naclstack",
+        "es": "Naclstack"
       }
     },
-    "Great Tusk": {
-      "codename": "978",
+    "Garganacl": {
+      "codename": "934",
       "locale": {
-        "fr": "Fort-Ivoire",
-        "de": "Riesenzahn",
-        "ko": "\uc704\ub300\ud55c\uc5c4\ub2c8",
-        "ja": "\u30a4\u30c0\u30a4\u30ca\u30ad\u30d0",
-        "zh_CN": "\u96c4\u4f1f\u7259",
-        "zh_TW": "\u96c4\u5049\u7259",
-        "it": "Grandizanne",
-        "es": "Colmilargo"
-      }
-    },
-    "Brute Bonnet": {
-      "codename": "979",
-      "locale": {
-        "fr": "Fongus-Furie",
-        "de": "Wutpilz",
-        "ko": "\uc0ac\ub098\uc6b4\ubc84\uc12f",
-        "ja": "\u30a2\u30e9\u30d6\u30eb\u30bf\u30b1",
-        "zh_CN": "\u731b\u6076\u83c7",
-        "zh_TW": "\u731b\u60e1\u83c7",
-        "it": "Fungofurioso",
-        "es": "Furioseta"
-      }
-    },
-    "Sandy Shocks": {
-      "codename": "981",
-      "locale": {
-        "fr": "Pelage-Sabl\u00e9",
-        "de": "Sandfell",
-        "ko": "\ubaa8\ub798\ud138\uac00\uc8fd",
-        "ja": "\u30b9\u30ca\u30ce\u30b1\u30ac\u30ef",
-        "zh_CN": "\u6c99\u94c1\u76ae",
-        "zh_TW": "\u6c99\u9435\u76ae",
-        "it": "Peldisabbia",
-        "es": "Pelarena"
-      }
-    },
-    "Scream Tail": {
-      "codename": "982",
-      "locale": {
-        "fr": "Hurle-Queue",
-        "de": "Br\u00fcllschweif",
-        "ko": "\uc6b0\ub801\ucc2c\uaf2c\ub9ac",
-        "ja": "\u30b5\u30b1\u30d6\u30b7\u30c3\u30dd",
-        "zh_CN": "\u543c\u53eb\u5c3e",
-        "zh_TW": "\u543c\u53eb\u5c3e",
-        "it": "Codaurlante",
-        "es": "Colagrito"
-      }
-    },
-    "Flutter Mane": {
-      "codename": "983",
-      "locale": {
-        "fr": "Flotte-M\u00e8che",
-        "de": "Flatterhaar",
-        "ko": "\ub0a0\uac1c\uce58\ub294\uba38\ub9ac",
-        "ja": "\u30cf\u30d0\u30bf\u30af\u30ab\u30df",
-        "zh_CN": "\u632f\u7ffc\u53d1",
-        "zh_TW": "\u632f\u7ffc\u9aee",
-        "it": "Crinealato",
-        "es": "Melenaleteo"
-      }
-    },
-    "Slither Wing": {
-      "codename": "984",
-      "locale": {
-        "fr": "Rampe-Ailes",
-        "de": "Kriechfl\u00fcgel",
-        "ko": "\ub545\uc744\uae30\ub294\ub0a0\uac1c",
-        "ja": "\u30c1\u30f2\u30cf\u30a6\u30cf\u30cd",
-        "zh_CN": "\u722c\u5730\u7fc5",
-        "zh_TW": "\u722c\u5730\u7fc5",
-        "it": "Alirasenti",
-        "es": "Reptalada"
-      }
-    },
-    "Roaring Moon": {
-      "codename": "985",
-      "locale": {
-        "fr": "Rugit-Lune",
-        "de": "Donnersichel",
-        "ko": "\uace0\ub3d9\uce58\ub294\ub2ec",
-        "ja": "\u30c8\u30c9\u30ed\u30af\u30c4\u30ad",
-        "zh_CN": "\u8f70\u9e23\u6708",
-        "zh_TW": "\u8f5f\u9cf4\u6708",
-        "it": "Lunaruggente",
-        "es": "Bramaluna"
-      }
-    },
-    "Iron Treads": {
-      "codename": "986",
-      "locale": {
-        "fr": "Roue-de-Fer",
-        "de": "Eisenrad",
-        "ko": "\ubb34\uc1e0\ubc14\ud034",
-        "ja": "\u30c6\u30c4\u30ce\u30ef\u30c0\u30c1",
-        "zh_CN": "\u94c1\u8f99\u8ff9",
-        "zh_TW": "\u9435\u8f4d\u8de1",
-        "it": "Solcoferreo",
-        "es": "Ferrodada"
-      }
-    },
-    "Iron Moth": {
-      "codename": "988",
-      "locale": {
-        "fr": "Mite-de-Fer",
-        "de": "Eisenfalter",
-        "ko": "\ubb34\uc1e0\ub3c5\ub098\ubc29",
-        "ja": "\u30c6\u30c4\u30ce\u30c9\u30af\u30ac",
-        "zh_CN": "\u94c1\u6bd2\u86fe",
-        "zh_TW": "\u9435\u6bd2\u86fe",
-        "it": "Falenaferrea",
-        "es": "Ferropolilla"
-      }
-    },
-    "Iron Hands": {
-      "codename": "989",
-      "locale": {
-        "fr": "Paume-de-Fer",
-        "de": "Eisenhand",
-        "ko": "\ubb34\uc1e0\uc190",
-        "ja": "\u30c6\u30c4\u30ce\u30ab\u30a4\u30ca",
-        "zh_CN": "\u94c1\u81c2\u8180",
-        "zh_TW": "\u9435\u81c2\u8180",
-        "it": "Manoferrea",
-        "es": "Ferropalmas"
-      }
-    },
-    "Iron Jugulis": {
-      "codename": "990",
-      "locale": {
-        "fr": "T\u00eates-de-Fer",
-        "de": "Eisenhals",
-        "ko": "\ubb34\uc1e0\uba38\ub9ac",
-        "ja": "\u30c6\u30c4\u30ce\u30b3\u30a6\u30d9",
-        "zh_CN": "\u94c1\u8116\u9888",
-        "zh_TW": "\u9435\u8116\u9838",
-        "it": "Colloferreo",
-        "es": "Ferrocuello"
-      }
-    },
-    "Iron Thorns": {
-      "codename": "991",
-      "locale": {
-        "fr": "\u00c9pine-de-Fer",
-        "de": "Eisendorn",
-        "ko": "\ubb34\uc1e0\uac00\uc2dc",
-        "ja": "\u30c6\u30c4\u30ce\u30a4\u30d0\u30e9",
-        "zh_CN": "\u94c1\u8346\u68d8",
-        "zh_TW": "\u9435\u834a\u68d8",
-        "it": "Spineferree",
-        "es": "Ferrop\u00faas"
-      }
-    },
-    "Iron Bundle": {
-      "codename": "992",
-      "locale": {
-        "fr": "Hotte-de-Fer",
-        "de": "Eisenb\u00fcndel",
-        "ko": "\ubb34\uc1e0\ubcf4\ub530\ub9ac",
-        "ja": "\u30c6\u30c4\u30ce\u30c4\u30c4\u30df",
-        "zh_CN": "\u94c1\u5305\u88b1",
-        "zh_TW": "\u9435\u5305\u88b1",
-        "it": "Saccoferreo",
-        "es": "Ferrosaco"
-      }
-    },
-    "Iron Valiant": {
-      "codename": "993",
-      "locale": {
-        "fr": "Garde-de-Fer",
-        "de": "Eisenkrieger",
-        "ko": "\ubb34\uc1e0\ubb34\uc778",
-        "ja": "\u30c6\u30c4\u30ce\u30d6\u30b8\u30f3",
-        "zh_CN": "\u94c1\u6b66\u8005",
-        "zh_TW": "\u9435\u6b66\u8005",
-        "it": "Eroeferreo",
-        "es": "Ferropalad\u00edn"
-      }
-    },
-    "Ting-Lu": {
-      "codename": "994",
-      "locale": {
-        "fr": "Dinglu",
-        "de": "Dinglu",
-        "ko": "\ub529\ub8e8",
-        "ja": "\u30c7\u30a3\u30f3\u30eb\u30fc",
-        "zh_CN": "\u53e4\u9f0e\u9e7f",
-        "zh_TW": "\u53e4\u9f0e\u9e7f",
-        "it": "Ting-Lu",
-        "es": "Ting-Lu"
-      }
-    },
-    "Chien-Pao": {
-      "codename": "995",
-      "locale": {
-        "fr": "Baojian",
-        "de": "Baojian",
-        "ko": "\ud30c\uc624\uc820",
-        "ja": "\u30d1\u30aa\u30b8\u30a2\u30f3",
-        "zh_CN": "\u53e4\u5251\u8c79",
-        "zh_TW": "\u53e4\u528d\u8c79",
-        "it": "Chien-Pao",
-        "es": "Chien-Pao"
-      }
-    },
-    "Wo-Chien": {
-      "codename": "996",
-      "locale": {
-        "fr": "Chongjian",
-        "de": "Chongjian",
-        "ko": "\ucd1d\uc9c0\uc5d4",
-        "ja": "\u30c1\u30aa\u30f3\u30b8\u30a7\u30f3",
-        "zh_CN": "\u53e4\u7b80\u8717",
-        "zh_TW": "\u53e4\u7c21\u8778",
-        "it": "Wo-Chien",
-        "es": "Wo-Chien"
-      }
-    },
-    "Chi-Yu": {
-      "codename": "997",
-      "locale": {
-        "fr": "Yuyu",
-        "de": "Yuyu",
-        "ko": "\uc704\uc720\uc774",
-        "ja": "\u30a4\u30fc\u30e6\u30a4",
-        "zh_CN": "\u53e4\u7389\u9c7c",
-        "zh_TW": "\u53e4\u7389\u9b5a",
-        "it": "Chi-Yu",
-        "es": "Chi-Yu"
-      }
-    },
-    "Koraidon": {
-      "codename": "998",
-      "locale": {
-        "fr": "Koraidon",
-        "de": "Koraidon",
-        "ko": "\ucf54\ub77c\uc774\ub3c8",
-        "ja": "\u30b3\u30e9\u30a4\u30c9\u30f3",
-        "zh_CN": "\u6545\u52d2\u987f",
-        "zh_TW": "\u6545\u52d2\u9813",
-        "it": "Koraidon",
-        "es": "Koraidon"
-      }
-    },
-    "Miraidon": {
-      "codename": "999",
-      "locale": {
-        "fr": "Miraidon",
-        "de": "Miraidon",
-        "ko": "\ubbf8\ub77c\uc774\ub3c8",
-        "ja": "\u30df\u30e9\u30a4\u30c9\u30f3",
-        "zh_CN": "\u5bc6\u52d2\u987f",
-        "zh_TW": "\u5bc6\u52d2\u9813",
-        "it": "Miraidon",
-        "es": "Miraidon"
-      }
-    },
-    "Tinkatink": {
-      "codename": "1000",
-      "locale": {
-        "fr": "Forgerette",
-        "de": "Forgita",
-        "ko": "\uc5b4\ub9ac\uc9f1",
-        "ja": "\u30ab\u30cc\u30c1\u30e3\u30f3",
-        "zh_CN": "\u5c0f\u953b\u5320",
-        "zh_TW": "\u5c0f\u935b\u5320",
-        "it": "Tinkatink",
-        "es": "Tinkatink"
-      }
-    },
-    "Tinkatuff": {
-      "codename": "1001",
-      "locale": {
-        "fr": "Forgella",
-        "de": "Tafforgita",
-        "ko": "\ubcbc\ub9ac\uc9f1",
-        "ja": "\u30ca\u30ab\u30cc\u30c1\u30e3\u30f3",
-        "zh_CN": "\u5de7\u953b\u5320",
-        "zh_TW": "\u5de7\u935b\u5320",
-        "it": "Tinkatuff",
-        "es": "Tinkatuff"
-      }
-    },
-    "Tinkaton": {
-      "codename": "1002",
-      "locale": {
-        "fr": "Forgelina",
-        "de": "Granforgita",
-        "ko": "\ub450\ub4dc\ub9ac\uc9f1",
-        "ja": "\u30c7\u30ab\u30cc\u30c1\u30e3\u30f3",
-        "zh_CN": "\u5de8\u953b\u5320",
-        "zh_TW": "\u5de8\u935b\u5320",
-        "it": "Tinkaton",
-        "es": "Tinkaton"
+        "fr": "Gigansel",
+        "de": "Saltigant",
+        "ko": "\ucf5c\ub85c\uc194\ud2b8",
+        "ja": "\u30ad\u30e7\u30b8\u30aa\u30fc\u30f3",
+        "zh_CN": "\u76d0\u77f3\u5de8\u7075",
+        "zh_TW": "\u9e7d\u77f3\u5de8\u9748",
+        "it": "Garganacl",
+        "es": "Garganacl"
       }
     },
     "Charcadet": {
-      "codename": "1003",
+      "codename": "935",
       "locale": {
         "fr": "Charbambin",
         "de": "Knarbon",
@@ -13012,7 +12154,7 @@
       }
     },
     "Armarouge": {
-      "codename": "1004",
+      "codename": "936",
       "locale": {
         "fr": "Carmadura",
         "de": "Crimanzo",
@@ -13025,7 +12167,7 @@
       }
     },
     "Ceruledge": {
-      "codename": "1005",
+      "codename": "937",
       "locale": {
         "fr": "Malvalame",
         "de": "Azugladis",
@@ -13037,8 +12179,138 @@
         "es": "Ceruledge"
       }
     },
+    "Tadbulb": {
+      "codename": "938",
+      "locale": {
+        "fr": "T\u00eatampoule",
+        "de": "Blipp",
+        "ko": "\ube48\ub098\ub450",
+        "ja": "\u30ba\u30d4\u30ab",
+        "zh_CN": "\u5149\u86aa\u4ed4",
+        "zh_TW": "\u5149\u86aa\u4ed4",
+        "it": "Tadbulb",
+        "es": "Tadbulb"
+      }
+    },
+    "Bellibolt": {
+      "codename": "939",
+      "locale": {
+        "fr": "Ampibidou",
+        "de": "Wampitz",
+        "ko": "\ucc0c\ub9ac\ubc30\ub9ac",
+        "ja": "\u30cf\u30e9\u30d0\u30ea\u30fc",
+        "zh_CN": "\u7535\u809a\u86d9",
+        "zh_TW": "\u96fb\u809a\u86d9",
+        "it": "Bellibolt",
+        "es": "Bellibolt"
+      }
+    },
+    "Wattrel": {
+      "codename": "940",
+      "locale": {
+        "fr": "Zap\u00e9trel",
+        "de": "Voltrel",
+        "ko": "\ucc0c\ub9ac\ube44",
+        "ja": "\u30ab\u30a4\u30c7\u30f3",
+        "zh_CN": "\u7535\u6d77\u71d5",
+        "zh_TW": "\u96fb\u6d77\u71d5",
+        "it": "Wattrel",
+        "es": "Wattrel"
+      }
+    },
+    "Kilowattrel": {
+      "codename": "941",
+      "locale": {
+        "fr": "Fulgulairo",
+        "de": "Voltrean",
+        "ko": "\ucc0c\ub9ac\ube44\ud06c",
+        "ja": "\u30bf\u30a4\u30ab\u30a4\u30c7\u30f3",
+        "zh_CN": "\u5927\u7535\u6d77\u71d5",
+        "zh_TW": "\u5927\u96fb\u6d77\u71d5",
+        "it": "Kilowattrel",
+        "es": "Kilowattrel"
+      }
+    },
+    "Maschiff": {
+      "codename": "942",
+      "locale": {
+        "fr": "Grondogue",
+        "de": "Mobtiff",
+        "ko": "\uc624\ub77c\ud2f0\ud504",
+        "ja": "\u30aa\u30e9\u30c1\u30d5",
+        "zh_CN": "\u5076\u53eb\u7352",
+        "zh_TW": "\u5076\u53eb\u7352",
+        "it": "Maschiff",
+        "es": "Maschiff"
+      }
+    },
+    "Mabosstiff": {
+      "codename": "943",
+      "locale": {
+        "fr": "Dogrino",
+        "de": "Mastifioso",
+        "ko": "\ub9c8\ud53c\ud2f0\ud504",
+        "ja": "\u30de\u30d5\u30a3\u30c6\u30a3\u30d5",
+        "zh_CN": "\u7352\u6559\u7236",
+        "zh_TW": "\u7352\u6559\u7236",
+        "it": "Mabosstiff",
+        "es": "Mabosstiff"
+      }
+    },
+    "Shroodle": {
+      "codename": "944",
+      "locale": {
+        "fr": "Gribouraigne",
+        "de": "Sproxi",
+        "ko": "\ub543\ucb48\ub974",
+        "ja": "\u30b7\u30eb\u30b7\u30e5\u30eb\u30fc",
+        "zh_CN": "\u6ecb\u6c41\u9f39",
+        "zh_TW": "\u6ecb\u6c41\u9f34",
+        "it": "Shroodle",
+        "es": "Shroodle"
+      }
+    },
+    "Grafaiai": {
+      "codename": "945",
+      "locale": {
+        "fr": "Tag-Tag",
+        "de": "Affiti",
+        "ko": "\ud0dc\uae45\uad6c\ub974",
+        "ja": "\u30bf\u30ae\u30f3\u30b0\u30eb",
+        "zh_CN": "\u6d82\u6807\u5ba2",
+        "zh_TW": "\u5857\u6a19\u5ba2",
+        "it": "Grafaiai",
+        "es": "Grafaiai"
+      }
+    },
+    "Bramblin": {
+      "codename": "946",
+      "locale": {
+        "fr": "Virovent",
+        "de": "Weherba",
+        "ko": "\uadf8\ud478\ub9ac",
+        "ja": "\u30a2\u30ce\u30af\u30b5",
+        "zh_CN": "\u7eb3\u566c\u8349",
+        "zh_TW": "\u7d0d\u566c\u8349",
+        "it": "Bramblin",
+        "es": "Bramblin"
+      }
+    },
+    "Brambleghast": {
+      "codename": "947",
+      "locale": {
+        "fr": "Virevorreur",
+        "de": "Horrerba",
+        "ko": "\uacf5\ud478\ub9ac",
+        "ja": "\u30a2\u30ce\u30db\u30e9\u30b0\u30b5",
+        "zh_CN": "\u6016\u7eb3\u566c\u8349",
+        "zh_TW": "\u6016\u7d0d\u566c\u8349",
+        "it": "Brambleghast",
+        "es": "Brambleghast"
+      }
+    },
     "Toedscool": {
-      "codename": "1006",
+      "codename": "948",
       "locale": {
         "fr": "Terracool",
         "de": "Tentagra",
@@ -13051,7 +12323,7 @@
       }
     },
     "Toedscruel": {
-      "codename": "1007",
+      "codename": "949",
       "locale": {
         "fr": "Terracruel",
         "de": "Tenterra",
@@ -13063,21 +12335,398 @@
         "es": "Toedscruel"
       }
     },
-    "Kingambit": {
-      "codename": "1008",
+    "Klawf": {
+      "codename": "950",
       "locale": {
-        "fr": "Scalpereur",
-        "de": "Gladimperio",
-        "ko": "\ub300\ub3c4\uac01\ucc38",
-        "ja": "\u30c9\u30c9\u30b2\u30b6\u30f3",
-        "zh_CN": "\u4ec6\u5200\u5c06\u519b",
-        "zh_TW": "\u4ec6\u65ac\u5c07\u8ecd",
-        "it": "Kingambit",
-        "es": "Kingambit"
+        "fr": "Craparoi",
+        "de": "Klibbe",
+        "ko": "\uc808\ubcbc\uac8c",
+        "ja": "\u30ac\u30b1\u30ac\u30cb",
+        "zh_CN": "\u6bdb\u5d16\u87f9",
+        "zh_TW": "\u6bdb\u5d16\u87f9",
+        "it": "Klawf",
+        "es": "Klawf"
+      }
+    },
+    "Capsakid": {
+      "codename": "951",
+      "locale": {
+        "fr": "Pimito",
+        "de": "Chilingel",
+        "ko": "\ucea1\uc2f8\uc774",
+        "ja": "\u30ab\u30d7\u30b5\u30a4\u30b8",
+        "zh_CN": "\u70ed\u8fa3\u5a03",
+        "zh_TW": "\u71b1\u8fa3\u5a03",
+        "it": "Capsakid",
+        "es": "Capsakid"
+      }
+    },
+    "Scovillain": {
+      "codename": "952",
+      "locale": {
+        "fr": "Scovilain",
+        "de": "Halupenjo",
+        "ko": "\uc2a4\ucf54\ube4c\ub7f0",
+        "ja": "\u30b9\u30b3\u30f4\u30a3\u30e9\u30f3",
+        "zh_CN": "\u72e0\u8fa3\u6912",
+        "zh_TW": "\u72e0\u8fa3\u6912",
+        "it": "Scovillain",
+        "es": "Scovillain"
+      }
+    },
+    "Rellor": {
+      "codename": "953",
+      "locale": {
+        "fr": "L\u00e9boul\u00e9rou",
+        "de": "Relluk",
+        "ko": "\uad6c\ub974\ub370",
+        "ja": "\u30b7\u30ac\u30ed\u30b3",
+        "zh_CN": "\u866b\u6eda\u6ce5",
+        "zh_TW": "\u87f2\u6efe\u6ce5",
+        "it": "Rellor",
+        "es": "Rellor"
+      }
+    },
+    "Rabsca": {
+      "codename": "954",
+      "locale": {
+        "fr": "B\u00e9rasca",
+        "de": "Skarabaks",
+        "ko": "\ubca0\ub77c\uce74\uc2a4",
+        "ja": "\u30d9\u30e9\u30ab\u30b9",
+        "zh_CN": "\u866b\u7532\u5723",
+        "zh_TW": "\u87f2\u7532\u8056",
+        "it": "Rabsca",
+        "es": "Rabsca"
+      }
+    },
+    "Flittle": {
+      "codename": "955",
+      "locale": {
+        "fr": "Flotillon",
+        "de": "Flattutu",
+        "ko": "\ud558\ub290\ub77c\uae30",
+        "ja": "\u30d2\u30e9\u30d2\u30ca",
+        "zh_CN": "\u98d8\u98d8\u96cf",
+        "zh_TW": "\u98c4\u98c4\u96db",
+        "it": "Flittle",
+        "es": "Flittle"
+      }
+    },
+    "Espathra": {
+      "codename": "956",
+      "locale": {
+        "fr": "Cl\u00e9opsytra",
+        "de": "Psiopatra",
+        "ko": "\ud074\ub808\uc2a4\ud37c\ud2b8\ub77c",
+        "ja": "\u30af\u30a8\u30b9\u30d1\u30c8\u30e9",
+        "zh_CN": "\u8d85\u80fd\u8273\u9e35",
+        "zh_TW": "\u8d85\u80fd\u8c54\u9d15",
+        "it": "Espathra",
+        "es": "Espathra"
+      }
+    },
+    "Tinkatink": {
+      "codename": "957",
+      "locale": {
+        "fr": "Forgerette",
+        "de": "Forgita",
+        "ko": "\uc5b4\ub9ac\uc9f1",
+        "ja": "\u30ab\u30cc\u30c1\u30e3\u30f3",
+        "zh_CN": "\u5c0f\u953b\u5320",
+        "zh_TW": "\u5c0f\u935b\u5320",
+        "it": "Tinkatink",
+        "es": "Tinkatink"
+      }
+    },
+    "Tinkatuff": {
+      "codename": "958",
+      "locale": {
+        "fr": "Forgella",
+        "de": "Tafforgita",
+        "ko": "\ubcbc\ub9ac\uc9f1",
+        "ja": "\u30ca\u30ab\u30cc\u30c1\u30e3\u30f3",
+        "zh_CN": "\u5de7\u953b\u5320",
+        "zh_TW": "\u5de7\u935b\u5320",
+        "it": "Tinkatuff",
+        "es": "Tinkatuff"
+      }
+    },
+    "Tinkaton": {
+      "codename": "959",
+      "locale": {
+        "fr": "Forgelina",
+        "de": "Granforgita",
+        "ko": "\ub450\ub4dc\ub9ac\uc9f1",
+        "ja": "\u30c7\u30ab\u30cc\u30c1\u30e3\u30f3",
+        "zh_CN": "\u5de8\u953b\u5320",
+        "zh_TW": "\u5de8\u935b\u5320",
+        "it": "Tinkaton",
+        "es": "Tinkaton"
+      }
+    },
+    "Wiglett": {
+      "codename": "960",
+      "locale": {
+        "fr": "Taupikeau",
+        "de": "Schligda",
+        "ko": "\ubc14\ub2e4\uadf8\ub2e4",
+        "ja": "\u30a6\u30df\u30c7\u30a3\u30b0\u30c0",
+        "zh_CN": "\u6d77\u5730\u9f20",
+        "zh_TW": "\u6d77\u5730\u9f20",
+        "it": "Wiglett",
+        "es": "Wiglett"
+      }
+    },
+    "Wugtrio": {
+      "codename": "961",
+      "locale": {
+        "fr": "Triopikeau",
+        "de": "Schligdri",
+        "ko": "\ubc14\ub2e5\ud2b8\ub9ac\uc624",
+        "ja": "\u30a6\u30df\u30c8\u30ea\u30aa",
+        "zh_CN": "\u4e09\u6d77\u5730\u9f20",
+        "zh_TW": "\u4e09\u6d77\u5730\u9f20",
+        "it": "Wugtrio",
+        "es": "Wugtrio"
+      }
+    },
+    "Bombirdier": {
+      "codename": "962",
+      "locale": {
+        "fr": "Lestombaile",
+        "de": "Adebom",
+        "ko": "\ub5a8\uad6c\uc0c8",
+        "ja": "\u30aa\u30c8\u30b7\u30c9\u30ea",
+        "zh_CN": "\u4e0b\u77f3\u9e1f",
+        "zh_TW": "\u4e0b\u77f3\u9ce5",
+        "it": "Bombirdier",
+        "es": "Bombirdier"
+      }
+    },
+    "Finizen": {
+      "codename": "963",
+      "locale": {
+        "fr": "Dofin",
+        "de": "Normifin",
+        "ko": "\ub9e8\ub3cc\ud540",
+        "ja": "\u30ca\u30df\u30a4\u30eb\u30ab",
+        "zh_CN": "\u6ce2\u666e\u6d77\u8c5a",
+        "zh_TW": "\u6ce2\u666e\u6d77\u8c5a",
+        "it": "Finizen",
+        "es": "Finizen"
+      }
+    },
+    "Palafin": {
+      "codename": "964",
+      "locale": {
+        "fr": "Superdofin",
+        "de": "Delfinator",
+        "ko": "\ub3cc\ud540\ub9e8",
+        "ja": "\u30a4\u30eb\u30ab\u30de\u30f3",
+        "zh_CN": "\u6d77\u8c5a\u4fa0",
+        "zh_TW": "\u6d77\u8c5a\u4fe0",
+        "it": "Palafin",
+        "es": "Palafin"
+      }
+    },
+    "Varoom": {
+      "codename": "965",
+      "locale": {
+        "fr": "Vrombi",
+        "de": "Knattox",
+        "ko": "\ubd80\ub974\ub871",
+        "ja": "\u30d6\u30ed\u30ed\u30f3",
+        "zh_CN": "\u5657\u9686\u9686",
+        "zh_TW": "\u5657\u9686\u9686",
+        "it": "Varoom",
+        "es": "Varoom"
+      }
+    },
+    "Revavroom": {
+      "codename": "966",
+      "locale": {
+        "fr": "Vrombotor",
+        "de": "Knattatox",
+        "ko": "\ubd80\ub974\ub974\ub8f8",
+        "ja": "\u30d6\u30ed\u30ed\u30ed\u30fc\u30e0",
+        "zh_CN": "\u666e\u9686\u9686\u59c6",
+        "zh_TW": "\u666e\u9686\u9686\u59c6",
+        "it": "Revavroom",
+        "es": "Revavroom"
+      }
+    },
+    "Cyclizar": {
+      "codename": "967",
+      "locale": {
+        "fr": "Motorizard",
+        "de": "Mopex",
+        "ko": "\ubaa8\ud1a0\ub9c8",
+        "ja": "\u30e2\u30c8\u30c8\u30ab\u30b2",
+        "zh_CN": "\u6469\u6258\u8725",
+        "zh_TW": "\u6469\u6258\u8725",
+        "it": "Cyclizar",
+        "es": "Cyclizar"
+      }
+    },
+    "Orthworm": {
+      "codename": "968",
+      "locale": {
+        "fr": "Ferdeter",
+        "de": "Schlurm",
+        "ko": "\uafc8\ud2b8\ub801",
+        "ja": "\u30df\u30df\u30ba\u30ba",
+        "zh_CN": "\u62d6\u62d6\u8693",
+        "zh_TW": "\u62d6\u62d6\u8693",
+        "it": "Orthworm",
+        "es": "Orthworm"
+      }
+    },
+    "Glimmet": {
+      "codename": "969",
+      "locale": {
+        "fr": "Germ\u00e9clat",
+        "de": "Lumispross",
+        "ko": "\ucd08\ub871\uc21c",
+        "ja": "\u30ad\u30e9\u30fc\u30e1",
+        "zh_CN": "\u6676\u5149\u82bd",
+        "zh_TW": "\u6676\u5149\u82bd",
+        "it": "Glimmet",
+        "es": "Glimmet"
+      }
+    },
+    "Glimmora": {
+      "codename": "970",
+      "locale": {
+        "fr": "Flor\u00e9clat",
+        "de": "Lumiflora",
+        "ko": "\ud0ac\ub77c\ud50c\ub85c\ub974",
+        "ja": "\u30ad\u30e9\u30d5\u30ed\u30eb",
+        "zh_CN": "\u6676\u5149\u82b1",
+        "zh_TW": "\u6676\u5149\u82b1",
+        "it": "Glimmora",
+        "es": "Glimmora"
+      }
+    },
+    "Greavard": {
+      "codename": "971",
+      "locale": {
+        "fr": "Toutombe",
+        "de": "Gruff",
+        "ko": "\ub9dd\ub9dd\uc774",
+        "ja": "\u30dc\u30c1",
+        "zh_CN": "\u5893\u4ed4\u72d7",
+        "zh_TW": "\u5893\u4ed4\u72d7",
+        "it": "Greavard",
+        "es": "Greavard"
+      }
+    },
+    "Houndstone": {
+      "codename": "972",
+      "locale": {
+        "fr": "Tomberro",
+        "de": "Friedwuff",
+        "ko": "\ubb18\ub450\uae30",
+        "ja": "\u30cf\u30ab\u30c9\u30c3\u30b0",
+        "zh_CN": "\u5893\u626c\u72ac",
+        "zh_TW": "\u5893\u63da\u72ac",
+        "it": "Houndstone",
+        "es": "Houndstone"
+      }
+    },
+    "Flamigo": {
+      "codename": "973",
+      "locale": {
+        "fr": "Flamenroule",
+        "de": "Flaminkno",
+        "ko": "\uaf2c\uc774\ubc0d\uace0",
+        "ja": "\u30ab\u30e9\u30df\u30f3\u30b4",
+        "zh_CN": "\u7f20\u7ea2\u9e64",
+        "zh_TW": "\u7e8f\u7d05\u9db4",
+        "it": "Flamigo",
+        "es": "Flamigo"
+      }
+    },
+    "Cetoddle": {
+      "codename": "974",
+      "locale": {
+        "fr": "Pi\u00e9tac\u00e9",
+        "de": "Flaniwal",
+        "ko": "\ud130\ubc85\uace0\ub798",
+        "ja": "\u30a2\u30eb\u30af\u30b8\u30e9",
+        "zh_CN": "\u8d70\u9cb8",
+        "zh_TW": "\u8d70\u9be8",
+        "it": "Cetoddle",
+        "es": "Cetoddle"
+      }
+    },
+    "Cetitan": {
+      "codename": "975",
+      "locale": {
+        "fr": "Balbal\u00e8ze",
+        "de": "Kolowal",
+        "ko": "\uc6b0\ub77d\uace0\ub798",
+        "ja": "\u30cf\u30eb\u30af\u30b8\u30e9",
+        "zh_CN": "\u6d69\u5927\u9cb8",
+        "zh_TW": "\u6d69\u5927\u9be8",
+        "it": "Cetitan",
+        "es": "Cetitan"
+      }
+    },
+    "Veluza": {
+      "codename": "976",
+      "locale": {
+        "fr": "D\u00e9lestin",
+        "de": "Agiluza",
+        "ko": "\uac00\ube44\ub8e8\uc0ac",
+        "ja": "\u30df\u30ac\u30eb\u30fc\u30b5",
+        "zh_CN": "\u8f7b\u8eab\u9cd5",
+        "zh_TW": "\u8f15\u8eab\u9c48",
+        "it": "Veluza",
+        "es": "Veluza"
+      }
+    },
+    "Dondozo": {
+      "codename": "977",
+      "locale": {
+        "fr": "Oyacata",
+        "de": "Heerashai",
+        "ko": "\uc5b4\uc368\ub7ec\uc154",
+        "ja": "\u30d8\u30a4\u30e9\u30c3\u30b7\u30e3",
+        "zh_CN": "\u5403\u543c\u9738",
+        "zh_TW": "\u5403\u543c\u9738",
+        "it": "Dondozo",
+        "es": "Dondozo"
+      }
+    },
+    "Tatsugiri": {
+      "codename": "978",
+      "locale": {
+        "fr": "Nigirigon",
+        "de": "Nigiragi",
+        "ko": "\uc2f8\ub9ac\uc6a9",
+        "ja": "\u30b7\u30e3\u30ea\u30bf\u30c4",
+        "zh_CN": "\u7c73\u7acb\u9f99",
+        "zh_TW": "\u7c73\u7acb\u9f8d",
+        "it": "Tatsugiri",
+        "es": "Tatsugiri"
+      }
+    },
+    "Annihilape": {
+      "codename": "979",
+      "locale": {
+        "fr": "Courrousinge",
+        "de": "Epitaff",
+        "ko": "\uc800\uc2b9\uac13\uc22d",
+        "ja": "\u30b3\u30ce\u30e8\u30b6\u30eb",
+        "zh_CN": "\u5f03\u4e16\u7334",
+        "zh_TW": "\u68c4\u4e16\u7334",
+        "it": "Annihilape",
+        "es": "Annihilape"
       }
     },
     "Clodsire": {
-      "codename": "1009",
+      "codename": "980",
       "locale": {
         "fr": "Terraiste",
         "de": "Suelord",
@@ -13089,29 +12738,380 @@
         "es": "Clodsire"
       }
     },
-    "Annihilape": {
-      "codename": "1010",
+    "Farigiraf": {
+      "codename": "981",
       "locale": {
-        "fr": "Courrousinge",
-        "de": "Epitaff",
-        "ko": "\uc800\uc2b9\uac13\uc22d",
-        "ja": "\u30b3\u30ce\u30e8\u30b6\u30eb",
-        "zh_CN": "\u5f03\u4e16\u7334",
-        "zh_TW": "\u68c4\u4e16\u7334",
-        "it": "Annihilape",
-        "es": "Annihilape"
+        "fr": "Farigiraf",
+        "de": "Farigiraf",
+        "ko": "\ud0a4\ud0a4\ub9c1",
+        "ja": "\u30ea\u30ad\u30ad\u30ea\u30f3",
+        "zh_CN": "\u5947\u9e92\u9e9f",
+        "zh_TW": "\u5947\u9e92\u9e9f",
+        "it": "Farigiraf",
+        "es": "Farigiraf"
+      }
+    },
+    "Dudunsparce": {
+      "codename": "982",
+      "locale": {
+        "fr": "Deusolourdo",
+        "de": "Dummimisel",
+        "ko": "\ub178\uace0\uace0\uce58",
+        "ja": "\u30ce\u30b3\u30b3\u30c3\u30c1",
+        "zh_CN": "\u571f\u9f99\u8282\u8282",
+        "zh_TW": "\u571f\u9f8d\u7bc0\u7bc0",
+        "it": "Dudunsparce",
+        "es": "Dudunsparce"
+      }
+    },
+    "Kingambit": {
+      "codename": "983",
+      "locale": {
+        "fr": "Scalpereur",
+        "de": "Gladimperio",
+        "ko": "\ub300\ub3c4\uac01\ucc38",
+        "ja": "\u30c9\u30c9\u30b2\u30b6\u30f3",
+        "zh_CN": "\u4ec6\u5200\u5c06\u519b",
+        "zh_TW": "\u4ec6\u65ac\u5c07\u8ecd",
+        "it": "Kingambit",
+        "es": "Kingambit"
+      }
+    },
+    "Great Tusk": {
+      "codename": "984",
+      "locale": {
+        "fr": "Fort-Ivoire",
+        "de": "Riesenzahn",
+        "ko": "\uc704\ub300\ud55c\uc5c4\ub2c8",
+        "ja": "\u30a4\u30c0\u30a4\u30ca\u30ad\u30d0",
+        "zh_CN": "\u96c4\u4f1f\u7259",
+        "zh_TW": "\u96c4\u5049\u7259",
+        "it": "Grandizanne",
+        "es": "Colmilargo"
+      }
+    },
+    "Scream Tail": {
+      "codename": "985",
+      "locale": {
+        "fr": "Hurle-Queue",
+        "de": "Br\u00fcllschweif",
+        "ko": "\uc6b0\ub801\ucc2c\uaf2c\ub9ac",
+        "ja": "\u30b5\u30b1\u30d6\u30b7\u30c3\u30dd",
+        "zh_CN": "\u543c\u53eb\u5c3e",
+        "zh_TW": "\u543c\u53eb\u5c3e",
+        "it": "Codaurlante",
+        "es": "Colagrito"
+      }
+    },
+    "Brute Bonnet": {
+      "codename": "986",
+      "locale": {
+        "fr": "Fongus-Furie",
+        "de": "Wutpilz",
+        "ko": "\uc0ac\ub098\uc6b4\ubc84\uc12f",
+        "ja": "\u30a2\u30e9\u30d6\u30eb\u30bf\u30b1",
+        "zh_CN": "\u731b\u6076\u83c7",
+        "zh_TW": "\u731b\u60e1\u83c7",
+        "it": "Fungofurioso",
+        "es": "Furioseta"
+      }
+    },
+    "Flutter Mane": {
+      "codename": "987",
+      "locale": {
+        "fr": "Flotte-M\u00e8che",
+        "de": "Flatterhaar",
+        "ko": "\ub0a0\uac1c\uce58\ub294\uba38\ub9ac",
+        "ja": "\u30cf\u30d0\u30bf\u30af\u30ab\u30df",
+        "zh_CN": "\u632f\u7ffc\u53d1",
+        "zh_TW": "\u632f\u7ffc\u9aee",
+        "it": "Crinealato",
+        "es": "Melenaleteo"
+      }
+    },
+    "Slither Wing": {
+      "codename": "988",
+      "locale": {
+        "fr": "Rampe-Ailes",
+        "de": "Kriechfl\u00fcgel",
+        "ko": "\ub545\uc744\uae30\ub294\ub0a0\uac1c",
+        "ja": "\u30c1\u30f2\u30cf\u30a6\u30cf\u30cd",
+        "zh_CN": "\u722c\u5730\u7fc5",
+        "zh_TW": "\u722c\u5730\u7fc5",
+        "it": "Alirasenti",
+        "es": "Reptalada"
+      }
+    },
+    "Sandy Shocks": {
+      "codename": "989",
+      "locale": {
+        "fr": "Pelage-Sabl\u00e9",
+        "de": "Sandfell",
+        "ko": "\ubaa8\ub798\ud138\uac00\uc8fd",
+        "ja": "\u30b9\u30ca\u30ce\u30b1\u30ac\u30ef",
+        "zh_CN": "\u6c99\u94c1\u76ae",
+        "zh_TW": "\u6c99\u9435\u76ae",
+        "it": "Peldisabbia",
+        "es": "Pelarena"
+      }
+    },
+    "Iron Treads": {
+      "codename": "990",
+      "locale": {
+        "fr": "Roue-de-Fer",
+        "de": "Eisenrad",
+        "ko": "\ubb34\uc1e0\ubc14\ud034",
+        "ja": "\u30c6\u30c4\u30ce\u30ef\u30c0\u30c1",
+        "zh_CN": "\u94c1\u8f99\u8ff9",
+        "zh_TW": "\u9435\u8f4d\u8de1",
+        "it": "Solcoferreo",
+        "es": "Ferrodada"
+      }
+    },
+    "Iron Bundle": {
+      "codename": "991",
+      "locale": {
+        "fr": "Hotte-de-Fer",
+        "de": "Eisenb\u00fcndel",
+        "ko": "\ubb34\uc1e0\ubcf4\ub530\ub9ac",
+        "ja": "\u30c6\u30c4\u30ce\u30c4\u30c4\u30df",
+        "zh_CN": "\u94c1\u5305\u88b1",
+        "zh_TW": "\u9435\u5305\u88b1",
+        "it": "Saccoferreo",
+        "es": "Ferrosaco"
+      }
+    },
+    "Iron Hands": {
+      "codename": "992",
+      "locale": {
+        "fr": "Paume-de-Fer",
+        "de": "Eisenhand",
+        "ko": "\ubb34\uc1e0\uc190",
+        "ja": "\u30c6\u30c4\u30ce\u30ab\u30a4\u30ca",
+        "zh_CN": "\u94c1\u81c2\u8180",
+        "zh_TW": "\u9435\u81c2\u8180",
+        "it": "Manoferrea",
+        "es": "Ferropalmas"
+      }
+    },
+    "Iron Jugulis": {
+      "codename": "993",
+      "locale": {
+        "fr": "T\u00eates-de-Fer",
+        "de": "Eisenhals",
+        "ko": "\ubb34\uc1e0\uba38\ub9ac",
+        "ja": "\u30c6\u30c4\u30ce\u30b3\u30a6\u30d9",
+        "zh_CN": "\u94c1\u8116\u9888",
+        "zh_TW": "\u9435\u8116\u9838",
+        "it": "Colloferreo",
+        "es": "Ferrocuello"
+      }
+    },
+    "Iron Moth": {
+      "codename": "994",
+      "locale": {
+        "fr": "Mite-de-Fer",
+        "de": "Eisenfalter",
+        "ko": "\ubb34\uc1e0\ub3c5\ub098\ubc29",
+        "ja": "\u30c6\u30c4\u30ce\u30c9\u30af\u30ac",
+        "zh_CN": "\u94c1\u6bd2\u86fe",
+        "zh_TW": "\u9435\u6bd2\u86fe",
+        "it": "Falenaferrea",
+        "es": "Ferropolilla"
+      }
+    },
+    "Iron Thorns": {
+      "codename": "995",
+      "locale": {
+        "fr": "\u00c9pine-de-Fer",
+        "de": "Eisendorn",
+        "ko": "\ubb34\uc1e0\uac00\uc2dc",
+        "ja": "\u30c6\u30c4\u30ce\u30a4\u30d0\u30e9",
+        "zh_CN": "\u94c1\u8346\u68d8",
+        "zh_TW": "\u9435\u834a\u68d8",
+        "it": "Spineferree",
+        "es": "Ferrop\u00faas"
+      }
+    },
+    "Frigibax": {
+      "codename": "996",
+      "locale": {
+        "fr": "Frigodo",
+        "de": "Frospino",
+        "ko": "\ub4dc\ub2c8\ucc28",
+        "ja": "\u30bb\u30d3\u30a8",
+        "zh_CN": "\u51c9\u810a\u9f99",
+        "zh_TW": "\u6dbc\u810a\u9f8d",
+        "it": "Frigibax",
+        "es": "Frigibax"
+      }
+    },
+    "Arctibax": {
+      "codename": "997",
+      "locale": {
+        "fr": "Cryodo",
+        "de": "Cryospino",
+        "ko": "\ub4dc\ub2c8\uaf41",
+        "ja": "\u30bb\u30b4\u30fc\u30eb",
+        "zh_CN": "\u51bb\u810a\u9f99",
+        "zh_TW": "\u51cd\u810a\u9f8d",
+        "it": "Arctibax",
+        "es": "Arctibax"
+      }
+    },
+    "Baxcalibur": {
+      "codename": "998",
+      "locale": {
+        "fr": "Glaivodo",
+        "de": "Espinodon",
+        "ko": "\ub4dc\ub2d0\ub808\uc774\ube0c",
+        "ja": "\u30bb\u30b0\u30ec\u30a4\u30d6",
+        "zh_CN": "\u621f\u810a\u9f99",
+        "zh_TW": "\u621f\u810a\u9f8d",
+        "it": "Baxcalibur",
+        "es": "Baxcalibur"
+      }
+    },
+    "Gimmighoul": {
+      "codename": "999",
+      "locale": {
+        "fr": "Mordudor",
+        "de": "Gierspenst",
+        "ko": "\ubaa8\uc73c\ub839",
+        "ja": "\u30b3\u30ec\u30af\u30ec\u30fc",
+        "zh_CN": "\u7d22\u8d22\u7075",
+        "zh_TW": "\u7d22\u8ca1\u9748",
+        "it": "Gimmighoul",
+        "es": "Gimmighoul"
+      }
+    },
+    "Gholdengo": {
+      "codename": "1000",
+      "locale": {
+        "fr": "Gromago",
+        "de": "Monetigo",
+        "ko": "\ud0c0\ubd80\uc790\uace0",
+        "ja": "\u30b5\u30fc\u30d5\u30b4\u30fc",
+        "zh_CN": "\u8d5b\u5bcc\u8c6a",
+        "zh_TW": "\u8cfd\u5bcc\u8c6a",
+        "it": "Gholdengo",
+        "es": "Gholdengo"
+      }
+    },
+    "Wo-Chien": {
+      "codename": "1001",
+      "locale": {
+        "fr": "Chongjian",
+        "de": "Chongjian",
+        "ko": "\ucd1d\uc9c0\uc5d4",
+        "ja": "\u30c1\u30aa\u30f3\u30b8\u30a7\u30f3",
+        "zh_CN": "\u53e4\u7b80\u8717",
+        "zh_TW": "\u53e4\u7c21\u8778",
+        "it": "Wo-Chien",
+        "es": "Wo-Chien"
+      }
+    },
+    "Chien-Pao": {
+      "codename": "1002",
+      "locale": {
+        "fr": "Baojian",
+        "de": "Baojian",
+        "ko": "\ud30c\uc624\uc820",
+        "ja": "\u30d1\u30aa\u30b8\u30a2\u30f3",
+        "zh_CN": "\u53e4\u5251\u8c79",
+        "zh_TW": "\u53e4\u528d\u8c79",
+        "it": "Chien-Pao",
+        "es": "Chien-Pao"
+      }
+    },
+    "Ting-Lu": {
+      "codename": "1003",
+      "locale": {
+        "fr": "Dinglu",
+        "de": "Dinglu",
+        "ko": "\ub529\ub8e8",
+        "ja": "\u30c7\u30a3\u30f3\u30eb\u30fc",
+        "zh_CN": "\u53e4\u9f0e\u9e7f",
+        "zh_TW": "\u53e4\u9f0e\u9e7f",
+        "it": "Ting-Lu",
+        "es": "Ting-Lu"
+      }
+    },
+    "Chi-Yu": {
+      "codename": "1004",
+      "locale": {
+        "fr": "Yuyu",
+        "de": "Yuyu",
+        "ko": "\uc704\uc720\uc774",
+        "ja": "\u30a4\u30fc\u30e6\u30a4",
+        "zh_CN": "\u53e4\u7389\u9c7c",
+        "zh_TW": "\u53e4\u7389\u9b5a",
+        "it": "Chi-Yu",
+        "es": "Chi-Yu"
+      }
+    },
+    "Roaring Moon": {
+      "codename": "1005",
+      "locale": {
+        "fr": "Rugit-Lune",
+        "de": "Donnersichel",
+        "ko": "\uace0\ub3d9\uce58\ub294\ub2ec",
+        "ja": "\u30c8\u30c9\u30ed\u30af\u30c4\u30ad",
+        "zh_CN": "\u8f70\u9e23\u6708",
+        "zh_TW": "\u8f5f\u9cf4\u6708",
+        "it": "Lunaruggente",
+        "es": "Bramaluna"
+      }
+    },
+    "Iron Valiant": {
+      "codename": "1006",
+      "locale": {
+        "fr": "Garde-de-Fer",
+        "de": "Eisenkrieger",
+        "ko": "\ubb34\uc1e0\ubb34\uc778",
+        "ja": "\u30c6\u30c4\u30ce\u30d6\u30b8\u30f3",
+        "zh_CN": "\u94c1\u6b66\u8005",
+        "zh_TW": "\u9435\u6b66\u8005",
+        "it": "Eroeferreo",
+        "es": "Ferropalad\u00edn"
+      }
+    },
+    "Koraidon": {
+      "codename": "1007",
+      "locale": {
+        "fr": "Koraidon",
+        "de": "Koraidon",
+        "ko": "\ucf54\ub77c\uc774\ub3c8",
+        "ja": "\u30b3\u30e9\u30a4\u30c9\u30f3",
+        "zh_CN": "\u6545\u52d2\u987f",
+        "zh_TW": "\u6545\u52d2\u9813",
+        "it": "Koraidon",
+        "es": "Koraidon"
+      }
+    },
+    "Miraidon": {
+      "codename": "1008",
+      "locale": {
+        "fr": "Miraidon",
+        "de": "Miraidon",
+        "ko": "\ubbf8\ub77c\uc774\ub3c8",
+        "ja": "\u30df\u30e9\u30a4\u30c9\u30f3",
+        "zh_CN": "\u5bc6\u52d2\u987f",
+        "zh_TW": "\u5bc6\u52d2\u9813",
+        "it": "Miraidon",
+        "es": "Miraidon"
       }
     }
   },
   "stage_to_codename": {},
-  "version": "1.22",
-  "description": "Base config to use this game.\nNote: Icons for Scarlet/Violet are missing, but the Pok\u00e9mon data is supported",
-  "credits": "Arclart for the Pok\u00e9mon Legends: Arceus icons\nArclart for the icons for Wooper-1, Koraidon and Miraidon",
+  "version": "1.23",
+  "description": "Base config to use this game.\nPlease open an issue on Github or warn us in the Discord if some icons misatch with other asset packs or if the Pokémon uses a pixel icon despite being available in Brilliant Diamond/Shining Pearl/Scarlet/Violet",
+  "credits": "",
   "challonge_game_id": 34,
   "locale": {
     "fr": {
-      "description": "Configuration initiale pour pouvoir charger ce jeu\nNote : Les ic\u00f4nes pour Ecarlate/Violet sont manquantes, mais les donn\u00e9es des Pok\u00e9mon sont pr\u00e9sentes",
-      "credits": "Arclart pour les icones des Pok\u00e9mon de L\u00e9gendes Pok\u00e9mon : Arceus\nArclart pour les ic\u00f4nes de Axoloto-1, Koraidon and Miraidon"
+      "description": "Configuration initiale pour pouvoir charger ce jeu\nVeuillez ouvrir un bug sur Github ou nous prévenir dans le Discord si certaines icônes ne correspondent pas aux fichiers présents dans les autres packs, ou si un Pokémon présent dans Diamant Etincelant/Perle Scintillante/Écarlate/Violet utilise une icône pixel",
+      "credits": ""
     },
     "ja": {
       "name": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc"

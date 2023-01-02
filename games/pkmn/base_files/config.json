@@ -13105,13 +13105,13 @@
   },
   "stage_to_codename": {},
   "version": "1.23",
-  "description": "Base config to use this game.\nNote: Some icons may be missing",
-  "credits": "Arclart for the Pok\u00e9mon Legends: Arceus icons",
+  "description": "Base config to use this game.\nPlease open an issue on Github or warn us in the Discord if some icons misatch with other asset packs or if the Pokémon uses a pixel icon despite being available in Brilliant Diamond/Shining Pearl/Scarlet/Violet",
+  "credits": "",
   "challonge_game_id": 34,
   "locale": {
     "fr": {
-      "description": "Configuration initiale pour pouvoir charger ce jeu\nNote : Les ic\u00f4nes pour Ecarlate/Violet sont manquantes, mais les donn\u00e9es des Pok\u00e9mon sont pr\u00e9sentes",
-      "credits": "Arclart pour les icones des Pok\u00e9mon de L\u00e9gendes Pok\u00e9mon : Arceus\nArclart pour les ic\u00f4nes de Axoloto-1, Koraidon and Miraidon"
+      "description": "Configuration initiale pour pouvoir charger ce jeu\nVeuillez ouvrir un bug sur Github ou nous prévenir dans le Discord si certaines icônes ne correspondent pas aux fichiers présents dans les autres packs, ou si un Pokémon présent dans Diamant Etincelant/Perle Scintillante/Écarlate/Violet utilise une icône pixel",
+      "credits": ""
     },
     "ja": {
       "name": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc"

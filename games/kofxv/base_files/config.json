@@ -157,10 +157,13 @@
     },
     "Darli Dagger": {
       "codename": "DarliDagger"
+    },
+    "Shingo Yabuki": {
+      "codename": "Shingo"
     }
   },
   "stage_to_codename": {},
-  "version": "1.5",
+  "version": "1.6",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

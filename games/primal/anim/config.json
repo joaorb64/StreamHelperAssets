@@ -1,0 +1,15 @@
+{
+  "name": "Sprites",
+  "description": "Animated Sprites",
+  "prefix": "anim_",
+  "postfix": "_",
+  "type": [
+    "anim"
+  ],
+  "credits": "",
+  "version": "1.0",
+  "uncropped_edge": [
+    "u",
+    "d","l","r"
+  ]
+}

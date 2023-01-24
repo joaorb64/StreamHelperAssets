@@ -1,0 +1,342 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aang": {
+      "codename": "Aang"
+    },
+    "Ada": {
+      "codename": "Ada"
+    },
+    "Alucard": {
+      "codename": "Alucard"
+    },
+    "Arcadia": {
+      "codename": "Arcadia"
+    },
+    "Artemis": {
+      "codename": "Artemis"
+    },
+    "Asuka": {
+      "codename": "Asuka"
+    },
+    "Asuri": {
+      "codename": "Asuri"
+    },
+    "Azoth": {
+      "codename": "Azoth"
+    },
+    "Barbara": {
+      "codename": "Barbara"
+    },
+    "Barraza": {
+      "codename": "Barraza"
+    },
+    "Becky Lynch": {
+      "codename": "BeckyLynch"
+    },
+    "Black Knight": {
+      "codename": "BlackKnight"
+    },
+    "Bodvar": {
+      "codename": "Bodvar"
+    },
+    "Brynn": {
+      "codename": "Brynn"
+    },
+    "Caspian": {
+      "codename": "Caspian"
+    },
+    "Cassidy": {
+      "codename": "Cassidy"
+    },
+    "Cross": {
+      "codename": "Cross"
+    },
+    "Daimio": {
+      "codename": "Daimio"
+    },
+    "Daryl": {
+      "codename": "Daryl"
+    },
+    "Diamondhead": {
+      "codename": "Diamondhead"
+    },
+    "Diana": {
+      "codename": "Diana"
+    },
+    "Donatello": {
+      "codename": "Donatello"
+    },
+    "Dusk": {
+      "codename": "Dusk"
+    },
+    "Eivor": {
+      "codename": "Eivor"
+    },
+    "Ember": {
+      "codename": "Ember"
+    },
+    "Enchantress": {
+      "codename": "Enchantress"
+    },
+    "Ezio": {
+      "codename": "Ezio"
+    },
+    "Fait": {
+      "codename": "Fait"
+    },
+    "Finn": {
+      "codename": "Finn"
+    },
+    "Four Arms": {
+      "codename": "FourArms"
+    },
+    "Globox": {
+      "codename": "Globox"
+    },
+    "Gnash": {
+      "codename": "Gnash"
+    },
+    "Hattori": {
+      "codename": "Hattori"
+    },
+    "Heatwave": {
+      "codename": "Heatwave"
+    },
+    "Hellboy": {
+      "codename": "Hellboy"
+    },
+    "Hugin": {
+      "codename": "Hugin"
+    },
+    "Isaiah": {
+      "codename": "Isaiah"
+    },
+    "Jaeyun": {
+      "codename": "Jaeyun"
+    },
+    "Jake": {
+      "codename": "Jake"
+    },
+    "Jhala": {
+      "codename": "Jhala"
+    },
+    "Jiro": {
+      "codename": "Jiro"
+    },
+    "John Cena": {
+      "codename": "JohnCena"
+    },
+    "Kaya": {
+      "codename": "Kaya"
+    },
+    "Ken Masters": {
+      "codename": "Ken"
+    },
+    "Kor": {
+      "codename": "Kor"
+    },
+    "Lara Croft": {
+      "codename": "LaraCroft"
+    },
+    "Leonardo": {
+      "codename": "Leonardo"
+    },
+    "Lin Fei": {
+      "codename": "LinFei"
+    },
+    "Lord Vraxx": {
+      "codename": "LordVraxx"
+    },
+    "Lucien": {
+      "codename": "Lucien"
+    },
+    "Luke Sullivan": {
+      "codename": "Luke"
+    },
+    "Maggie": {
+      "codename": "Maggie"
+    },
+    "Magyar": {
+      "codename": "Magyar"
+    },
+    "Mako": {
+      "codename": "Mako"
+    },
+    "Michonne": {
+      "codename": "Michonne"
+    },
+    "Mirage": {
+      "codename": "Mirage"
+    },
+    "Mordex": {
+      "codename": "Mordex"
+    },
+    "Munin": {
+      "codename": "Munin"
+    },
+    "Negan": {
+      "codename": "Negan"
+    },
+    "Nimue": {
+      "codename": "Nimue"
+    },
+    "Nix": {
+      "codename": "Nix"
+    },
+    "Onyx": {
+      "codename": "Onyx"
+    },
+    "Orion": {
+      "codename": "Orion"
+    },
+    "Pearl": {
+      "codename": "Pearl"
+    },
+    "Petra": {
+      "codename": "Petra"
+    },
+    "Plague Knight": {
+      "codename": "PlagueKnight"
+    },
+    "Princess Bubblegum": {
+      "codename": "PrincessBubblegum"
+    },
+    "Queen Nai": {
+      "codename": "QueenNai"
+    },
+    "Ragnir": {
+      "codename": "Ragnir"
+    },
+    "Raphael": {
+      "codename": "Raphael"
+    },
+    "Rayman": {
+      "codename": "Rayman"
+    },
+    "Reno": {
+      "codename": "Reno"
+    },
+    "Rick": {
+      "codename": "Rick"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sakura Kasugano": {
+      "codename": "Sakura"
+    },
+    "Scarlet": {
+      "codename": "Scarlet"
+    },
+    "Sentinel": {
+      "codename": "Sentinel"
+    },
+    "Shovel Knight": {
+      "codename": "ShovelKnight"
+    },
+    "Sidra": {
+      "codename": "Sidra"
+    },
+    "Simon Belmont": {
+      "codename": "SimonBelmont"
+    },
+    "Sir Roland": {
+      "codename": "SirRoland"
+    },
+    "Spectre Knight": {
+      "codename": "SpectreKnight"
+    },
+    "Storm Shadow": {
+      "codename": "StormShadow"
+    },
+    "Tai Lung": {
+      "codename": "TaiLung"
+    },
+    "Teros": {
+      "codename": "Teros"
+    },
+    "Tezca": {
+      "codename": "Tezca"
+    },
+    "Thatch": {
+      "codename": "Thatch"
+    },
+    "Thor": {
+      "codename": "Thor"
+    },
+    "Tigress": {
+      "codename": "Tigress"
+    },
+    "Toph": {
+      "codename": "Toph"
+    },
+    "Ulgrim": {
+      "codename": "Ulgrim"
+    },
+    "Val": {
+      "codename": "Val"
+    },
+    "Vector": {
+      "codename": "Vector"
+    },
+    "Volkov": {
+      "codename": "Volkov"
+    },
+    "Wu Shang": {
+      "codename": "WuShang"
+    },
+    "Xavier Woods": {
+      "codename": "XavierWoods"
+    },
+    "Xull": {
+      "codename": "Xull"
+    },
+    "Yumiko": {
+      "codename": "Yumiko"
+    },
+    "Zariel": {
+      "codename": "Zariel"
+    },
+    "Zuko": {
+      "codename": "Zuko"
+    },
+    "Koji": {
+      "codename": "Koji"
+    },
+    "Ranno": {
+      "codename": "Ranno"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Brawlhalla",
+  "smashgg_game_id": 15,
+  "stage_to_codename": {
+    "Avatar": {
+      "codename": "Avatar"
+    },
+    "BloodMoon": {
+      "codename": "BloodMoon"
+    },
+    "Brawlhaven": {
+      "codename": "Brawlhaven"
+    },
+    "DemonIsland": {
+      "codename": "DemonIsland"
+    },
+    "HBCross": {
+      "codename": "HBCross"
+    },
+    "MiamiDome": {
+      "codename": "MiamiDome"
+    },
+    "Steam": {
+      "codename": "Steam"
+    },
+    "Fangwild2": {
+      "codename": "Fangwild2"
+    }
+  },
+  "version": "0.1"
+}

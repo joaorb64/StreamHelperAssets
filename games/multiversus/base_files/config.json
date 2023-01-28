@@ -11,12 +11,16 @@
     },
     "Bugs Bunny": {
       "codename": "BugsBunny",
+      "locale": {
+        "pt_BR": "Pernalonga"
+      },
       "smashgg_name": "Bugs Bunny"
     },
     "Finn the Human": {
       "codename": "FinntheHuman",
       "locale": {
-        "fr": "Finn l'Humain"
+        "fr": "Finn l'Humain",
+        "pt_BR": "Finn o Humano"
       },
       "smashgg_name": "Finn the Human"
     },
@@ -26,31 +30,40 @@
     },
     "Harley Quinn": {
       "codename": "HarleyQuinn",
+      "locale": {
+        "pt_BR": "Arlequina"
+      },
       "smashgg_name": "Harley Quinn"
     },
     "Jake the Dog": {
       "codename": "JaketheDog",
       "locale": {
-        "fr": "Jake le Chien"
+        "fr": "Jake le Chien",
+        "pt_BR": "Jake o Cão"
       },
       "smashgg_name": "Jake the Dog"
     },
     "Reindog": {
       "codename": "Reindog",
       "locale": {
-        "fr": "Chien-Renne"
+        "fr": "Chien-Renne",
+        "pt_BR": "Cachorrena"
       },
       "smashgg_name": "Reindog"
     },
     "Shaggy Rogers": {
       "codename": "Shaggy",
       "locale": {
-        "fr": "Sammy Rogers"
+        "fr": "Sammy Rogers",
+        "pt_BR": "Salsicha"
       },
       "smashgg_name": "Shaggy"
     },
     "Steven Universe": {
       "codename": "StevenUniverse",
+      "locale": {
+        "pt_BR": "Steven Universo"
+      },
       "smashgg_name": "Steven Universe"
     },
     "Superman": {
@@ -61,31 +74,38 @@
       "codename": "TomandJerry",
       "smashgg_name": "Tom and Jerry",
       "locale": {
-        "fr": "Tom et Jerry"
+        "fr": "Tom et Jerry",
+        "pt_BR": "Tom e Jerry"
       }
     },
     "Wonder Woman": {
       "codename": "WonderWoman",
+      "locale": {
+        "pt_BR": "Mulher-Maravilha"
+      },
       "smashgg_name": "Wonder Woman"
     },
     "The Iron Giant": {
       "codename": "IronGiant",
       "locale": {
-        "fr": "Le G\u00e9ant de Fer"
+        "fr": "Le G\u00e9ant de Fer",
+        "pt_BR": "O Gigante de Ferro"
       },
       "smashgg_name": "The Iron Giant"
     },
     "The Tasmanian Devil": {
       "codename": "Taz",
       "locale": {
-        "fr": "Taz"
+        "fr": "Taz",
+        "pt_BR": "Taz"
       },
       "smashgg_name": "Taz"
     },
     "Velma Dinkley": {
       "codename": "Velma",
       "locale": {
-        "fr": "V\u00e9ra Dinkley"
+        "fr": "V\u00e9ra Dinkley",
+        "pt_BR": "Velma"
       },
       "smashgg_name": "Velma"
     },
@@ -103,6 +123,9 @@
     },
     "Black Adam": {
       "codename": "BlackAdam",
+      "locale": {
+        "pt_BR": "Adão Negro"
+      },
       "smashgg_name": "Black Adam"
     },
     "Stripe": {
@@ -116,7 +139,8 @@
     "Marvin the Martian": {
       "codename": "Marvin",
       "locale": {
-        "fr": "Marvin le Martien"
+        "fr": "Marvin le Martien",
+        "pt_BR": "Marvin o Marciano"
       }
     }
   },
@@ -125,5 +149,5 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "1.4"
+  "version": "1.41"
 }

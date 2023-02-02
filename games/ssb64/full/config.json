@@ -4,7 +4,7 @@
   "prefix": "",
   "postfix": "_",
   "credits": "@joao_shino for all crops",
-  "version": "1.21",
+  "version": "1.3",
   "type": "portrait",
   "eyesights": {
     "mario": {
@@ -111,8 +111,8 @@
     },
     "young_link": {
       "0": {
-        "x": 258,
-        "y": 115
+        "x": 257,
+        "y": 110
       }
     },
     "ganondorf": {
@@ -185,6 +185,18 @@
       "0": {
         "x": 272,
         "y": 136
+      }
+    },
+    "marina": {
+      "0": {
+        "x": 252,
+        "y": 186
+      }
+    },
+    "dedede": {
+      "0": {
+        "x": 285,
+        "y": 132
       }
     }
   }

@@ -1,0 +1,31 @@
+{
+  "name": "Renders",
+  "description": "Character renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "0.1",
+  "eyesights": {
+    "Ranno": {
+      "0": {
+        "x": 1074,
+        "y": 705
+      }
+    },
+    "Zetterburn": {
+      "0": {
+        "x": 1236,
+        "y": 437
+      }
+    }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
+}

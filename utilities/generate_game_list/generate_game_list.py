@@ -1,5 +1,9 @@
 import os
 import json
+from pathlib import Path
+
+characters_dir_name = "characters"
+Path(characters_dir_name).mkdir(parents=True, exist_ok=True)
 
 list_games = {}
 
@@ -16,6 +20,9 @@ for dirname in os.listdir(path_to_games):
             "nb_asset_packs": nb_asset_packs_for_game,
             "nb_characters": len(characters)
         }
+        with open(f"{characters_dir_name}/{''.join(x for x in config_file_content.get('name') if x.isalnum())}.txt", "wt", encoding='utf-8') as character_list_file:
+            for character in characters:
+                character_list_file.write(f"{character}\n")
 
 list_games = {k: v for k, v in sorted(list_games.items(), key=lambda item: item[1]["name"].lower())}
 character_total = 0

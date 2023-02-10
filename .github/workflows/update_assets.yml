@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Free Disk Space (Ubuntu)
-        uses: actions-marketplace-validations/curoky_cleanup-disk-action@v2
+        uses: actions-marketplace-validations/curoky_cleanup-disk-action@master
         with:
           retain: 'python,node'
       - name: Checkout code

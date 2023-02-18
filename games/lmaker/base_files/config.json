@@ -1,0 +1,79 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aifa": {
+      "codename": "Aifa",
+      "locale": {
+        "ja": "愛華"
+      }
+    },
+    "Gaira": {
+      "codename": "Gaira",
+      "locale": {
+        "ja": "鎧羅"
+      }
+    },
+    "Hiryu": {
+      "codename": "Hiryu",
+      "locale": {
+        "ja": "飛劉"
+      }
+    },
+    "Kouko": {
+      "codename": "Kouko",
+      "locale": {
+        "ja": "候虎"
+      }
+    },
+    "Ranju": {
+      "codename": "Ranju",
+      "locale": {
+        "ja": "蘭嬬"
+      }
+    },
+    "Renki": {
+      "codename": "Renki",
+      "locale": {
+        "ja": "錬奇"
+      }
+    },
+    "Rinrei": {
+      "codename": "Rinrei",
+      "locale": {
+        "ja": "櫚鈴"
+      }
+    },
+    "Roushinshi": {
+      "codename": "Roushinshi",
+      "locale": {
+        "ja": "楼蜃子"
+      }
+    },
+    "Soumei": {
+      "codename": "Soumei",
+      "locale": {
+        "ja": "蒼瞑"
+      }
+    },
+    "Youen": {
+      "codename": "Youen",
+      "locale": {
+        "ja": "踊燕"
+      }
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Landmaker",
+  "smashgg_game_id": 16606,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "en_US": {
+      "name": "Landmaker / Builder's Block"
+    },
+    "ja": {
+      "name": "ランドメーカー"
+    }
+  }
+}

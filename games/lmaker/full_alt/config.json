@@ -1,7 +1,7 @@
 {
   "name": "Artwork",
   "description": "Character Artwork",
-  "prefix": "",
+  "prefix": "file_",
   "postfix": "_",
   "type": [
     "full_alt"

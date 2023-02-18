@@ -6,5 +6,5 @@ Win Screens
 
 ## Credits: 
 
-
+@yowaikoi for the sprite rips
 

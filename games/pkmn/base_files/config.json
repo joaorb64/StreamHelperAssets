@@ -13101,10 +13101,36 @@
         "it": "Miraidon",
         "es": "Miraidon"
       }
+    },
+    "Walking Wake": {
+      "codename": "1009",
+      "locale": {
+        "ja": "\u30df\u30e9\u30a4\u30c9\u30f3",
+        "de": "Eisenblatt",
+        "es": "Ondulagua",
+        "fr": "Serpente-Eau",
+        "it": "Acquecrespe",
+        "ko": "굽이치는물결",
+        "zh_TW": "波盪水",
+        "zh_CN": "波荡水"
+      }
+    },
+    "Iron Leaves": {
+      "codename": "1010",
+      "locale": {
+        "ja": "テツノイサハ",
+        "de": "Windewoge",
+        "es": "Ferroverdor",
+        "fr": "Vert-de-Fer",
+        "it":"Fogliaferrea",
+        "ko": "무쇠잎새",
+        "zh_TW": "鐵斑葉",
+        "zh_CN": "铁斑叶"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.32",
+  "version": "1.4",
   "description": "Base config to use this game.\nPlease open an issue on Github or warn us in the Discord if some icons misatch with other asset packs or if the Pokémon uses a pixel icon despite being available in Brilliant Diamond/Shining Pearl/Scarlet/Violet",
   "credits": "",
   "challonge_game_id": 34,

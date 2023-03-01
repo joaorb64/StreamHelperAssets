@@ -42,7 +42,7 @@ def robust_request(link, timeout=30):
 def generate_main_config_skeleton():
     description = "Base config to use this game."
     credits = ""
-    version = "2.0"
+    version = "3.0"
 
     game_id = 36202
 
@@ -108,6 +108,12 @@ def generate_main_config_skeleton():
             },
             "Flounder Heights": {
                 "codename": "flounder"
+            },
+            "Um'ami Ruins": {
+                "codename": "umami"
+            },
+            "Manta Maria": {
+                "codename": "manta"
             }
         },
         "version": version,

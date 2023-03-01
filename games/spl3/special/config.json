@@ -1,6 +1,6 @@
 {
   "name": "Special Icons",
-  "version": "2.0",
+  "version": "3.0",
   "description": "Special icons",
   "prefix": "spe_",
   "postfix": "_",
@@ -45,6 +45,20 @@
             "de": "Tintegrator",
             "it": "Vampinchiostro",
             "es": "Aspiratinta"
+          }
+        },
+        "96GalDeco": {
+          "value": "Kraken Royale",
+          "locale": {
+            "ja": "\u30c6\u30a4\u30aa\u30a6\u30a4\u30ab",
+            "zh_CN": "\u5e1d\u738b\u9c7f\u9c7c",
+            "ru": "\u0422\u0438\u0442\u0430\u043d\u043d\u043e\u043a\u0440\u0430\u043a\u0435\u043d",
+            "fr": "Kraken royal",
+            "nl": "Monstermorfose",
+            "de": "Tintentyrann",
+            "it": "Kraken reale",
+            "es": "Calamar imperial",
+            "zh_TW": "\u5e1d\u738b\u9b77\u9b5a"
           }
         },
         "AerosprayMG": {
@@ -204,6 +218,20 @@
             "fr": "Lance-rafales"
           }
         },
+        "ClashBlasterNeo": {
+          "value": "Super Chump",
+          "locale": {
+            "ja": "\u30c7\u30b3\u30a4\u30c1\u30e9\u30b7",
+            "zh_CN": "\u8bf1\u9975\u70df\u82b1",
+            "ru": "\u0421\u0443\u043f\u0435\u0440\u043f\u0440\u044b\u0436\u0430\u0442\u043e\u0440",
+            "fr": "Multi-leurres",
+            "nl": "Voorschutter",
+            "de": "Bluff-Bomber",
+            "it": "Diversivo esplosivo",
+            "es": "Multise\u00f1uelos",
+            "zh_TW": "\u8a98\u990c\u7159\u82b1"
+          }
+        },
         "ClassicSquiffer": {
           "value": "Big Bubbler",
           "locale": {
@@ -217,6 +245,21 @@
             "de": "Kugelschild Pro",
             "it": "Gran bolla scudo",
             "es": "Megaburbuja"
+          }
+        },
+        "CustomJetSquelcher": {
+          "value": "Ink Storm",
+          "locale": {
+            "ja": "\u30a2\u30e1\u30d5\u30e9\u30b7",
+            "ko": "\uba39\uad6c\ub984",
+            "zh_TW": "\u58a8\u96e8\u96f2",
+            "zh_CN": "\u58a8\u96e8\u4e91",
+            "ru": "\u0422\u0443\u0447\u0430 \u043a\u0440\u0430\u0441\u043a\u0438",
+            "fr": "Pluie d'encre",
+            "nl": "Spetterbui",
+            "de": "Tintenschauer",
+            "it": "Pioggia di colore",
+            "es": "Atormentador"
           }
         },
         "CustomSplattershotJr": {
@@ -521,6 +564,20 @@
             "es": "Aspiratinta"
           }
         },
+        "KrakOnSplatRoller": {
+          "value": "Kraken Royale",
+          "locale": {
+            "ja": "\u30c6\u30a4\u30aa\u30a6\u30a4\u30ab",
+            "zh_CN": "\u5e1d\u738b\u9c7f\u9c7c",
+            "ru": "\u0422\u0438\u0442\u0430\u043d\u043d\u043e\u043a\u0440\u0430\u043a\u0435\u043d",
+            "fr": "Kraken royal",
+            "nl": "Monstermorfose",
+            "de": "Tintentyrann",
+            "it": "Kraken reale",
+            "es": "Calamar imperial",
+            "zh_TW": "\u5e1d\u738b\u9b77\u9b5a"
+          }
+        },
         "L3Nozzlenose": {
           "value": "Crab Tank",
           "locale": {
@@ -532,6 +589,22 @@
             "de": "Krabbenpanzer",
             "it": "Granchio armato",
             "es": "Cangrejobot"
+          }
+        },
+        "L3NozzlenoseD": {
+          "value": "Ultra Stamp",
+          "locale": {
+            "ja": "\u30a6\u30eb\u30c8\u30e9\u30cf\u30f3\u30b3",
+            "ko": "\uc6b8\ud2b8\ub77c \uc2a4\ud0ec\ud504",
+            "zh_TW": "\u7d42\u6975\u5370\u7ae0",
+            "zh_CN": "\u7ec8\u6781\u5370\u7ae0",
+            "ru": "\u041f\u0440\u0438\u043f\u0435\u0447\u0430\u0442\u044c",
+            "nl": "Ultrastempel",
+            "de": "Ultra-Stempel",
+            "it": "Mega timbro",
+            "es": "Ultraselladora",
+            "fr_CA": "Ultra-\u00e9tampeur",
+            "fr": "Ultra-tamponneur"
           }
         },
         "LunaBlaster": {
@@ -594,6 +667,20 @@
             "es": "Dispensabebidas"
           }
         },
+        "NZAP'89": {
+          "value": "Super Chump",
+          "locale": {
+            "ja": "\u30c7\u30b3\u30a4\u30c1\u30e9\u30b7",
+            "zh_CN": "\u8bf1\u9975\u70df\u82b1",
+            "ru": "\u0421\u0443\u043f\u0435\u0440\u043f\u0440\u044b\u0436\u0430\u0442\u043e\u0440",
+            "fr": "Multi-leurres",
+            "nl": "Voorschutter",
+            "de": "Bluff-Bomber",
+            "it": "Diversivo esplosivo",
+            "es": "Multise\u00f1uelos",
+            "zh_TW": "\u8a98\u990c\u7159\u82b1"
+          }
+        },
         "Nautilus47": {
           "value": "Ink Storm",
           "locale": {
@@ -607,6 +694,38 @@
             "de": "Tintenschauer",
             "it": "Pioggia di colore",
             "es": "Atormentador"
+          }
+        },
+        "NeoSplashomatic": {
+          "value": "Triple Inkstrike",
+          "locale": {
+            "ja": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9",
+            "ko": "\ud2b8\ub9ac\ud50c \ud1a0\ub124\uc774\ub3c4",
+            "zh_TW": "\u4e09\u91cd\u9f8d\u6372\u98a8",
+            "zh_CN": "\u4e09\u91cd\u9f99\u5377\u98ce",
+            "ru": "\u0422\u0440\u043e\u0439\u043d\u043e\u0435 \u0442\u043e\u0440\u043d\u0430\u0434\u043e",
+            "fr": "Trimissile tornade",
+            "nl": "Tri-tornado",
+            "de": "Tri-Tintferno",
+            "it": "Triplo tornado",
+            "es": "Tornado triple"
+          }
+        },
+        "NeoSplooshomatic": {
+          "value": "Killer Wail 5.1",
+          "locale": {
+            "ja": "\u30e1\u30ac\u30db\u30f3\u30ec\u30fc\u30b6\u30fc5.1ch",
+            "ko": "\uba54\uac00\ud3f0 \ub808\uc774\uc800 5.1ch",
+            "zh_TW": "\u5587\u53ed\u96f7\u5c045.1ch",
+            "zh_CN": "\u5587\u53ed\u956d\u5c045.1ch",
+            "ru": "\u041c\u0435\u0433\u0430\u043b\u043e\u0444\u043e\u043d 5.1",
+            "nl": "Megalofoon 5.1",
+            "de": "Heulboje 5.1",
+            "it": "Tintofono 5.1",
+            "fr_CA": "Laser per\u00e7ant 5.1",
+            "es": "Tint\u00f3fono 5.1",
+            "es_LA": "Berre\u00f3n 5.1",
+            "fr": "Haut-perceur 5.1"
           }
         },
         "Octobrush": {
@@ -652,6 +771,21 @@
             "de": "Tri-Tintferno",
             "it": "Triplo tornado",
             "es": "Tornado triple"
+          }
+        },
+        "RapidBlasterDeco": {
+          "value": "Inkjet",
+          "locale": {
+            "ja": "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af",
+            "ko": "\uc81c\ud2b8 \ud329",
+            "zh_TW": "\u5674\u5c04\u80cc\u5305",
+            "zh_CN": "\u55b7\u5c04\u80cc\u5305",
+            "ru": "\u041a\u0440\u0430\u0441\u043a\u043e\u043b\u0435\u0442",
+            "fr": "Chromo-jet",
+            "nl": "Inktjet",
+            "de": "Tintend\u00fcser",
+            "it": "Jet splat",
+            "es": "Propulsor"
           }
         },
         "RapidBlasterPro": {
@@ -1000,6 +1134,19 @@
             "es": "Propulsor"
           }
         },
+        "TriSlosherNouveau": {
+          "value": "Tacticooler",
+          "locale": {
+            "ja": "\u30a8\u30ca\u30b8\u30fc\u30b9\u30bf\u30f3\u30c9",
+            "ko": "\uc5d0\ub108\uc9c0 \uc2a4\ud0e0\ub4dc",
+            "ru": "\u0422\u043e\u043d\u0438\u043a\u0443\u043b\u0435\u0440",
+            "fr": "Districool",
+            "nl": "Reddingsbar",
+            "de": "Tranktank",
+            "it": "Rinfrigorente",
+            "es": "Dispensabebidas"
+          }
+        },
         "TriStringer": {
           "value": "Killer Wail 5.1",
           "locale": {
@@ -1030,6 +1177,36 @@
             "de": "Haihammer",
             "it": "Motosqualo",
             "es": "Flotibur\u00f3n"
+          }
+        },
+        "Z+FSplatCharger": {
+          "value": "Triple Inkstrike",
+          "locale": {
+            "ja": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9",
+            "ko": "\ud2b8\ub9ac\ud50c \ud1a0\ub124\uc774\ub3c4",
+            "zh_TW": "\u4e09\u91cd\u9f8d\u6372\u98a8",
+            "zh_CN": "\u4e09\u91cd\u9f99\u5377\u98ce",
+            "ru": "\u0422\u0440\u043e\u0439\u043d\u043e\u0435 \u0442\u043e\u0440\u043d\u0430\u0434\u043e",
+            "fr": "Trimissile tornade",
+            "nl": "Tri-tornado",
+            "de": "Tri-Tintferno",
+            "it": "Triplo tornado",
+            "es": "Tornado triple"
+          }
+        },
+        "Z+FSplatterscope": {
+          "value": "Triple Inkstrike",
+          "locale": {
+            "ja": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9",
+            "ko": "\ud2b8\ub9ac\ud50c \ud1a0\ub124\uc774\ub3c4",
+            "zh_TW": "\u4e09\u91cd\u9f8d\u6372\u98a8",
+            "zh_CN": "\u4e09\u91cd\u9f99\u5377\u98ce",
+            "ru": "\u0422\u0440\u043e\u0439\u043d\u043e\u0435 \u0442\u043e\u0440\u043d\u0430\u0434\u043e",
+            "fr": "Trimissile tornade",
+            "nl": "Tri-tornado",
+            "de": "Tri-Tintferno",
+            "it": "Triplo tornado",
+            "es": "Tornado triple"
           }
         },
         "ZinkMiniSplatling": {

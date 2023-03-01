@@ -1,0 +1,83 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akemi": {
+      "codename": "Akemi"
+    },
+    "Akira": {
+      "codename": "Akira"
+    },
+    "Boo": {
+      "codename": "Boo"
+    },
+    "D.B. Maou": {
+      "codename": "D.B.Maou"
+    },
+    "Daa": {
+      "codename": "Daa"
+    },
+    "Gonzou": {
+      "codename": "Gonzou"
+    },
+    "Hiromitsu": {
+      "codename": "Hiromitsu"
+    },
+    "Jyoji": {
+      "codename": "Jyoji"
+    },
+    "Kaede": {
+      "codename": "Kaede"
+    },
+    "Kamekichi": {
+      "codename": "Kamekichi"
+    },
+    "Keiko": {
+      "codename": "Keiko"
+    },
+    "Kenji": {
+      "codename": "Kenji"
+    },
+    "Kiyoshi": {
+      "codename": "Kiyoshi"
+    },
+    "Kozue": {
+      "codename": "Kozue"
+    },
+    "Kunio": {
+      "codename": "Kunio"
+    },
+    "Makoto": {
+      "codename": "Makoto"
+    },
+    "Misuzu": {
+      "codename": "Misuzu"
+    },
+    "Miyuki": {
+      "codename": "Miyuki"
+    },
+    "Musashi": {
+      "codename": "Musashi"
+    },
+    "Riki": {
+      "codename": "Riki"
+    },
+    "Sabu": {
+      "codename": "Sabu"
+    },
+    "Shinji": {
+      "codename": "Shinji"
+    },
+    "Takuya": {
+      "codename": "Takuya"
+    },
+    "Ushimaru": {
+      "codename": "Ushimaru"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Super Dodge Ball",
+  "smashgg_game_id": 18563,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

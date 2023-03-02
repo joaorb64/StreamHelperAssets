@@ -1,4 +1,4 @@
-# Super Smash Bros Melee
+# Super Smash Bros Brawl
 
 ## Description: 
 

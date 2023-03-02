@@ -1,0 +1,878 @@
+{
+  "name": "Super Smash Bros Brawl",
+  "smashgg_game_id": 5,
+  "challonge_game_id": 393,
+  "character_to_codename": {
+    "Mario": {
+      "smashgg_name": "Mario",
+      "codename": "mario",
+      "locale": {
+        "ja": "\u30de\u30ea\u30aa",
+        "en_GB": "Mario",
+        "en_AU": "Mario",
+        "fr": "Mario",
+        "fr_CA": "Mario",
+        "es": "Mario",
+        "es_LA": "Mario",
+        "de": "Mario",
+        "it": "Mario",
+        "nl": "Mario",
+        "ru": "\u041c\u0430\u0440\u0438\u043e",
+        "ko": "\ub9c8\ub9ac\uc624",
+        "zh_TW": "\u746a\u5229\u6b50",
+        "zh_CN": "\u9a6c\u529b\u6b27"
+      }
+    },
+    "Donkey Kong": {
+      "smashgg_name": "Donkey Kong",
+      "codename": "donkey_kong",
+      "locale": {
+        "ja": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
+        "en_GB": "Donkey Kong",
+        "en_AU": "Donkey Kong",
+        "fr": "Donkey Kong",
+        "fr_CA": "Donkey Kong",
+        "es": "Donkey Kong",
+        "es_LA": "Donkey Kong",
+        "de": "Donkey Kong",
+        "it": "Donkey Kong",
+        "nl": "Donkey Kong",
+        "ru": "\u0414\u043e\u043d\u043a\u0438 \u041a\u043e\u043d\u0433",
+        "ko": "\ub3d9\ud0a4\ucf69",
+        "zh_TW": "\u68ee\u559c\u525b",
+        "zh_CN": "\u68ee\u559c\u521a"
+      }
+    },
+    "Link": {
+      "smashgg_name": "Link",
+      "codename": "link",
+      "locale": {
+        "ja": "\u30ea\u30f3\u30af",
+        "en_GB": "Link",
+        "en_AU": "Link",
+        "fr": "Link",
+        "fr_CA": "Link",
+        "es": "Link",
+        "es_LA": "Link",
+        "de": "Link",
+        "it": "Link",
+        "nl": "Link",
+        "ru": "\u041b\u0438\u043d\u043a",
+        "ko": "\ub9c1\ud06c",
+        "zh_TW": "\u6797\u514b",
+        "zh_CN": "\u6797\u514b"
+      }
+    },
+    "Samus": {
+      "smashgg_name": "Samus",
+      "codename": "samus",
+      "locale": {
+        "ja": "\u30b5\u30e0\u30b9",
+        "en_GB": "Samus",
+        "en_AU": "Samus",
+        "fr": "Samus",
+        "fr_CA": "Samus",
+        "es": "Samus",
+        "es_LA": "Samus",
+        "de": "Samus",
+        "it": "Samus",
+        "nl": "Samus",
+        "ru": "\u0421\u0430\u043c\u0443\u0441",
+        "ko": "\uc0ac\ubb34\uc2a4",
+        "zh_TW": "\u85a9\u59c6\u65af",
+        "zh_CN": "\u8428\u59c6\u65af"
+      }
+    },
+    "Yoshi": {
+      "smashgg_name": "Yoshi",
+      "codename": "yoshi",
+      "locale": {
+        "ja": "\u30e8\u30c3\u30b7\u30fc",
+        "en_GB": "Yoshi",
+        "en_AU": "Yoshi",
+        "fr": "Yoshi",
+        "fr_CA": "Yoshi",
+        "es": "Yoshi",
+        "es_LA": "Yoshi",
+        "de": "Yoshi",
+        "it": "Yoshi",
+        "nl": "Yoshi",
+        "ru": "\u0419\u043e\u0448\u0438",
+        "ko": "\uc694\uc2dc",
+        "zh_TW": "\u8000\u897f",
+        "zh_CN": "\u8000\u897f"
+      }
+    },
+    "Kirby": {
+      "smashgg_name": "Kirby",
+      "codename": "kirby",
+      "locale": {
+        "ja": "\u30ab\u30fc\u30d3\u30a3",
+        "en_GB": "Kirby",
+        "en_AU": "Kirby",
+        "fr": "Kirby",
+        "fr_CA": "Kirby",
+        "es": "Kirby",
+        "es_LA": "Kirby",
+        "de": "Kirby",
+        "it": "Kirby",
+        "nl": "Kirby",
+        "ru": "\u041a\u0438\u0440\u0431\u0438",
+        "ko": "\ucee4\ube44",
+        "zh_TW": "\u5361\u6bd4",
+        "zh_CN": "\u5361\u6bd4"
+      }
+    },
+    "Fox": {
+      "smashgg_name": "Fox",
+      "codename": "fox",
+      "locale": {
+        "ja": "\u30d5\u30a9\u30c3\u30af\u30b9",
+        "en_GB": "Fox",
+        "en_AU": "Fox",
+        "fr": "Fox",
+        "fr_CA": "Fox",
+        "es": "Fox",
+        "es_LA": "Fox",
+        "de": "Fox",
+        "it": "Fox",
+        "nl": "Fox",
+        "ru": "\u0424\u043e\u043a\u0441",
+        "ko": "\ud3ed\uc2a4",
+        "zh_TW": "\u706b\u72d0",
+        "zh_CN": "\u706b\u72d0"
+      }
+    },
+    "Pikachu": {
+      "smashgg_name": "Pikachu",
+      "codename": "pikachu",
+      "locale": {
+        "ja": "\u30d4\u30ab\u30c1\u30e5\u30a6",
+        "en_GB": "Pikachu",
+        "en_AU": "Pikachu",
+        "fr": "Pikachu",
+        "fr_CA": "Pikachu",
+        "es": "Pikachu",
+        "es_LA": "Pikachu",
+        "de": "Pikachu",
+        "it": "Pikachu",
+        "nl": "Pikachu",
+        "ru": "\u041f\u0438\u043a\u0430\u0447\u0443",
+        "ko": "\ud53c\uce74\uce04",
+        "zh_TW": "\u76ae\u5361\u4e18",
+        "zh_CN": "\u76ae\u5361\u4e18"
+      }
+    },
+    "Luigi": {
+      "smashgg_name": "Luigi",
+      "codename": "luigi",
+      "locale": {
+        "ja": "\u30eb\u30a4\u30fc\u30b8",
+        "en_GB": "Luigi",
+        "en_AU": "Luigi",
+        "fr": "Luigi",
+        "fr_CA": "Luigi",
+        "es": "Luigi",
+        "es_LA": "Luigi",
+        "de": "Luigi",
+        "it": "Luigi",
+        "nl": "Luigi",
+        "ru": "\u041b\u0443\u0438\u0434\u0436\u0438",
+        "ko": "\ub8e8\uc774\uc9c0",
+        "zh_TW": "\u8def\u6613\u5409",
+        "zh_CN": "\u8def\u6613\u5409"
+      }
+    },
+    "Ness": {
+      "smashgg_name": "Ness",
+      "codename": "ness",
+      "locale": {
+        "ja": "\u30cd\u30b9",
+        "en_GB": "Ness",
+        "en_AU": "Ness",
+        "fr": "Ness",
+        "fr_CA": "Ness",
+        "es": "Ness",
+        "es_LA": "Ness",
+        "de": "Ness",
+        "it": "Ness",
+        "nl": "Ness",
+        "ru": "\u041d\u0435\u0441\u0441",
+        "ko": "\ub124\uc2a4",
+        "zh_TW": "\u5948\u65af",
+        "zh_CN": "\u5948\u65af"
+      }
+    },
+    "Captain Falcon": {
+      "smashgg_name": "Captain Falcon",
+      "codename": "captain_falcon",
+      "locale": {
+        "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30d5\u30a1\u30eb\u30b3\u30f3",
+        "en_GB": "Captain Falcon",
+        "en_AU": "Captain Falcon",
+        "fr": "Captain Falcon",
+        "fr_CA": "Capitaine Falcon",
+        "es": "Captain Falcon",
+        "es_LA": "Capit\u00e1n Falcon",
+        "de": "Captain Falcon",
+        "it": "Captain Falcon",
+        "nl": "Captain Falcon",
+        "ru": "\u041a\u0430\u043f\u0438\u0442\u0430\u043d \u0424\u044d\u043b\u043a\u043e\u043d",
+        "ko": "\ucea1\ud2f4 \ud314\ucf58",
+        "zh_TW": "\u98db\u96bc\u968a\u9577",
+        "zh_CN": "\u98de\u96bc\u961f\u957f"
+      }
+    },
+    "Jigglypuff": {
+      "smashgg_name": "Jigglypuff",
+      "codename": "jigglypuff",
+      "locale": {
+        "fr": "Rondoudou",
+        "ja": "\u30d7\u30ea\u30f3",
+        "en_GB": "Jigglypuff",
+        "en_AU": "Jigglypuff",
+        "fr_CA": "Rondoudou",
+        "es": "Jigglypuff",
+        "es_LA": "Jigglypuff",
+        "de": "Pummeluff",
+        "it": "Jigglypuff",
+        "nl": "Jigglypuff",
+        "ru": "\u0414\u0436\u0438\u0433\u043b\u0438\u043f\u0430\u0444\u0444",
+        "ko": "\ud478\ub9b0",
+        "zh_TW": "\u80d6\u4e01",
+        "zh_CN": "\u80d6\u4e01"
+      }
+    },
+    "Peach": {
+      "smashgg_name": "Peach",
+      "codename": "peach",
+      "locale": {
+        "ja": "\u30d4\u30fc\u30c1",
+        "en_GB": "Peach",
+        "en_AU": "Peach",
+        "fr": "Peach",
+        "fr_CA": "Peach",
+        "es": "Peach",
+        "es_LA": "Peach",
+        "de": "Peach",
+        "it": "Peach",
+        "nl": "Peach",
+        "ru": "\u041f\u0438\u0447",
+        "ko": "\ud53c\uce58\uacf5\uc8fc",
+        "zh_TW": "\u78a7\u59ec\u516c\u4e3b",
+        "zh_CN": "\u6843\u82b1\u516c\u4e3b"
+      }
+    },
+    "Bowser": {
+      "smashgg_name": "Bowser",
+      "codename": "bowser",
+      "locale": {
+        "ja": "\u30af\u30c3\u30d1",
+        "en_GB": "Bowser",
+        "en_AU": "Bowser",
+        "fr": "Bowser",
+        "fr_CA": "Bowser",
+        "es": "Bowser",
+        "es_LA": "Bowser",
+        "de": "Bowser",
+        "it": "Bowser",
+        "nl": "Bowser",
+        "ru": "\u0411\u043e\u0443\u0437\u0435\u0440",
+        "ko": "\ucfe0\ud30c",
+        "zh_TW": "\u5eab\u5df4",
+        "zh_CN": "\u9177\u9738\u738b"
+      }
+    },
+    "Ice Climbers": {
+      "smashgg_name": "Ice Climbers",
+      "codename": "ice_climbers",
+      "locale": {
+        "ja": "\u30a2\u30a4\u30b9\u30af\u30e9\u30a4\u30de\u30fc",
+        "en_GB": "Ice Climbers",
+        "en_AU": "Ice Climbers",
+        "fr": "Ice Climbers",
+        "fr_CA": "Ice Climbers",
+        "es": "Ice Climbers",
+        "es_LA": "Ice Climbers",
+        "de": "Ice Climber",
+        "it": "Ice Climbers",
+        "nl": "Ice Climbers",
+        "ru": "\u0410\u043b\u044c\u043f\u0438\u043d\u0438\u0441\u0442\u044b",
+        "ko": "\uc5bc\uc74c \ud0c0\uae30",
+        "zh_TW": "\u7ffb\u8d8a\u51b0\u5c71\u8005",
+        "zh_CN": "\u7ffb\u8d8a\u51b0\u5c71\u8005"
+      }
+    },
+    "Sheik": {
+      "smashgg_name": "Sheik",
+      "codename": "sheik",
+      "locale": {
+        "ja": "\u30b7\u30fc\u30af",
+        "en_GB": "Sheik",
+        "en_AU": "Sheik",
+        "fr": "Sheik",
+        "fr_CA": "Sheik",
+        "es": "Sheik",
+        "es_LA": "Sheik",
+        "de": "Shiek",
+        "it": "Sheik",
+        "nl": "Sheik",
+        "ru": "\u0428\u0435\u0439\u043a",
+        "ko": "\uc2dc\ud06c",
+        "zh_TW": "\u5e0c\u514b",
+        "zh_CN": "\u5e0c\u514b"
+      }
+    },
+    "Zelda": {
+      "smashgg_name": "Zelda",
+      "codename": "zelda",
+      "locale": {
+        "ja": "\u30bc\u30eb\u30c0",
+        "en_GB": "Zelda",
+        "en_AU": "Zelda",
+        "fr": "Zelda",
+        "fr_CA": "Zelda",
+        "es": "Zelda",
+        "es_LA": "Zelda",
+        "de": "Zelda",
+        "it": "Zelda",
+        "nl": "Zelda",
+        "ru": "\u0417\u0435\u043b\u044c\u0434\u0430",
+        "ko": "\uc824\ub2e4",
+        "zh_TW": "\u85a9\u723e\u9054",
+        "zh_CN": "\u585e\u5c14\u8fbe"
+      }
+    },
+    "Falco": {
+      "smashgg_name": "Falco",
+      "codename": "falco",
+      "locale": {
+        "ja": "\u30d5\u30a1\u30eb\u30b3",
+        "en_GB": "Falco",
+        "en_AU": "Falco",
+        "fr": "Falco",
+        "fr_CA": "Falco",
+        "es": "Falco",
+        "es_LA": "Falco",
+        "de": "Falco",
+        "it": "Falco",
+        "nl": "Falco",
+        "ru": "\u0424\u0430\u043b\u044c\u043a\u043e",
+        "ko": "\ud314\ucf54",
+        "zh_TW": "\u6cd5\u723e\u79d1",
+        "zh_CN": "\u4f5b\u514b"
+      }
+    },
+    "Marth": {
+      "smashgg_name": "Marth",
+      "codename": "marth",
+      "locale": {
+        "ja": "\u30de\u30eb\u30b9",
+        "en_GB": "Marth",
+        "en_AU": "Marth",
+        "fr": "Marth",
+        "fr_CA": "Marth",
+        "es": "Marth",
+        "es_LA": "Marth",
+        "de": "Marth",
+        "it": "Marth",
+        "nl": "Marth",
+        "ru": "\u041c\u0430\u0440\u0441",
+        "ko": "\ub9c8\ub974\uc2a4",
+        "zh_TW": "\u99ac\u723e\u65af",
+        "zh_CN": "\u9a6c\u5c14\u65af"
+      }
+    },
+    "Ganondorf": {
+      "smashgg_name": "Ganondorf",
+      "codename": "ganondorf",
+      "locale": {
+        "ja": "\u30ac\u30ce\u30f3\u30c9\u30ed\u30d5",
+        "en_GB": "Ganondorf",
+        "en_AU": "Ganondorf",
+        "fr": "Ganondorf",
+        "fr_CA": "Ganondorf",
+        "es": "Ganondorf",
+        "es_LA": "Ganondorf",
+        "de": "Ganondorf",
+        "it": "Ganondorf",
+        "nl": "Ganondorf",
+        "ru": "\u0413\u0430\u043d\u043e\u043d\u0434\u043e\u0440\u0444",
+        "ko": "\uac00\ub17c\ub3cc\ud504",
+        "zh_TW": "\u52a0\u5102\u591a\u592b",
+        "zh_CN": "\u76d6\u4fac\u591a\u592b"
+      }
+    },
+    "Mr. Game & Watch": {
+      "smashgg_name": "Mr. Game & Watch",
+      "codename": "mr_game_and_watch",
+      "locale": {
+        "ja": "Mr.\u30b2\u30fc\u30e0\uff06\u30a6\u30a9\u30c3\u30c1",
+        "en_GB": "Mr. Game & Watch",
+        "en_AU": "Mr. Game & Watch",
+        "fr": "Mr. Game & Watch",
+        "fr_CA": "Mr. Game & Watch",
+        "es": "Mr. Game & Watch",
+        "es_LA": "Mr. Game & Watch",
+        "de": "Mr. Game & Watch",
+        "it": "Mr. Game & Watch",
+        "nl": "Mr. Game & Watch",
+        "ru": "\u0413-\u041d Game & Watch",
+        "ko": "Mr. \uac8c\uc784&\uc6cc\uce58",
+        "zh_TW": "Mr. Game & Watch",
+        "zh_CN": "Mr. Game & Watch"
+      }
+    },
+    "Meta Knight": {
+      "smashgg_name": "Meta Knight",
+      "codename": "meta_knight",
+      "locale": {
+        "ja": "\u30e1\u30bf\u30ca\u30a4\u30c8",
+        "en_GB": "Meta Knight",
+        "en_AU": "Meta Knight",
+        "fr": "Meta Knight",
+        "fr_CA": "Meta Knight",
+        "es": "Meta Knight",
+        "es_LA": "Meta Knight",
+        "de": "Meta-Knight",
+        "it": "Meta Knight",
+        "nl": "Meta Knight",
+        "ru": "\u041c\u0435\u0442\u0430\u043d\u0430\u0439\u0442",
+        "ko": "\uba54\ud0c0 \ub098\uc774\ud2b8",
+        "zh_TW": "\u9b45\u5854\u9a0e\u58eb",
+        "zh_CN": "\u9b45\u5854\u9a91\u58eb"
+      }
+    },
+    "Pit": {
+      "smashgg_name": "Pit",
+      "codename": "pit",
+      "locale": {
+        "ja": "\u30d4\u30c3\u30c8",
+        "en_GB": "Pit",
+        "en_AU": "Pit",
+        "fr": "Pit",
+        "fr_CA": "Pit",
+        "es": "Pit",
+        "es_LA": "Pit",
+        "de": "Pit",
+        "it": "Pit",
+        "nl": "Pit",
+        "ru": "\u041f\u0438\u0442",
+        "ko": "\ud53c\ud2b8",
+        "zh_TW": "\u5f7c\u7279",
+        "zh_CN": "\u5f7c\u7279"
+      }
+    },
+    "Zero Suit Samus": {
+      "smashgg_name": "Zero Suit Samus",
+      "codename": "zerosuit",
+      "locale": {
+        "fr": "Samus sans armure",
+        "ja": "\u30bc\u30ed\u30b9\u30fc\u30c4\u30b5\u30e0\u30b9",
+        "en_GB": "Zero Suit Samus",
+        "en_AU": "Zero Suit Samus",
+        "fr_CA": "Samus Sans Combinaison",
+        "es": "Samus Zero",
+        "es_LA": "Samus Zero",
+        "de": "Zero Suit Samus",
+        "it": "Samus Tuta Zero",
+        "nl": "Zero Suit Samus",
+        "ru": "\u0421\u0430\u043c\u0443\u0441 \u0412 \u041d\u0443\u043b\u044c-\u041a\u043e\u0441\u0442\u044e\u043c\u0435",
+        "ko": "\uc81c\ub85c \uc288\ud2b8 \uc0ac\ubb34\uc2a4",
+        "zh_TW": "\u96f6\u88dd\u7532\u85a9\u59c6\u65af",
+        "zh_CN": "\u96f6\u88c5\u7532\u8428\u59c6\u65af"
+      }
+    },
+    "Wario": {
+      "smashgg_name": "Wario",
+      "codename": "wario",
+      "locale": {
+        "ja": "\u30ef\u30ea\u30aa",
+        "en_GB": "Wario",
+        "en_AU": "Wario",
+        "fr": "Wario",
+        "fr_CA": "Wario",
+        "es": "Wario",
+        "es_LA": "Wario",
+        "de": "Wario",
+        "it": "Wario",
+        "nl": "Wario",
+        "ru": "\u0412\u0430\u0440\u0438\u043e",
+        "ko": "\uc640\ub9ac\uc624",
+        "zh_TW": "\u74e6\u5229\u6b50",
+        "zh_CN": "\u74e6\u529b\u6b27"
+      }
+    },
+    "Snake": {
+      "smashgg_name": "Snake",
+      "codename": "snake",
+      "locale": {
+        "ja": "\u30b9\u30cd\u30fc\u30af",
+        "en_GB": "Snake",
+        "en_AU": "Snake",
+        "fr": "Snake",
+        "fr_CA": "Snake",
+        "es": "Snake",
+        "es_LA": "Snake",
+        "de": "Snake",
+        "it": "Snake",
+        "nl": "Snake",
+        "ru": "\u0421\u043d\u0435\u0439\u043a",
+        "ko": "\uc2a4\ub124\uc774\ud06c",
+        "zh_TW": "Snake",
+        "zh_CN": "Snake"
+      }
+    },
+    "Ike": {
+      "smashgg_name": "Ike",
+      "codename": "ike",
+      "locale": {
+        "ja": "\u30a2\u30a4\u30af",
+        "en_GB": "Ike",
+        "en_AU": "Ike",
+        "fr": "Ike",
+        "fr_CA": "Ike",
+        "es": "Ike",
+        "es_LA": "Ike",
+        "de": "Ike",
+        "it": "Ike",
+        "nl": "Ike",
+        "ru": "\u0410\u0439\u043a",
+        "ko": "\uc544\uc774\ud06c",
+        "zh_TW": "\u827e\u514b",
+        "zh_CN": "\u827e\u514b"
+      }
+    },
+    "Pok\u00e9mon Trainer": {
+      "smashgg_name": "Pokemon Trainer",
+      "codename": "pokemon_trainer",
+      "locale": {
+        "fr": "Dresseur de Pok\u00e9mon",
+        "ja": "\u30dd\u30b1\u30e2\u30f3\u30c8\u30ec\u30fc\u30ca\u30fc",
+        "en_GB": "Pok\u00e9mon Trainer",
+        "en_AU": "Pok\u00e9mon Trainer",
+        "fr_CA": "Dresseur De Pok\u00e9mon",
+        "es": "Entrenador Pok\u00e9mon",
+        "es_LA": "Entrenador Pok\u00e9mon",
+        "de": "Pok\u00e9mon-Trainer",
+        "it": "Allenatore Di Pok\u00e9mon",
+        "nl": "Pok\u00e9mon Trainer",
+        "ru": "\u0422\u0440\u0435\u043d\u0435\u0440 \u041f\u043e\u043a\u0435\u043c\u043e\u043d\u043e\u0432",
+        "ko": "\ud3ec\ucf13\ubaac \ud2b8\ub808\uc774\ub108",
+        "zh_TW": "\u5bf6\u53ef\u5922\u8a13\u7df4\u5bb6",
+        "zh_CN": "\u5b9d\u53ef\u68a6\u8bad\u7ec3\u5bb6"
+      }
+    },
+    "Diddy Kong": {
+      "smashgg_name": "Diddy Kong",
+      "codename": "diddy",
+      "locale": {
+        "ja": "\u30c7\u30a3\u30c7\u30a3\u30fc\u30b3\u30f3\u30b0",
+        "en_GB": "Diddy Kong",
+        "en_AU": "Diddy Kong",
+        "fr": "Diddy Kong",
+        "fr_CA": "Diddy Kong",
+        "es": "Diddy Kong",
+        "es_LA": "Diddy Kong",
+        "de": "Diddy Kong",
+        "it": "Diddy Kong",
+        "nl": "Diddy Kong",
+        "ru": "\u0414\u0438\u0434\u0434\u0438 \u041a\u043e\u043d\u0433",
+        "ko": "\ub514\ub514\ucf69",
+        "zh_TW": "\u72c4\u72c4\u525b",
+        "zh_CN": "\u8fea\u8fea\u521a"
+      }
+    },
+    "Lucas": {
+      "smashgg_name": "Lucas",
+      "codename": "lucas",
+      "locale": {
+        "ja": "\u30ea\u30e5\u30ab",
+        "en_GB": "Lucas",
+        "en_AU": "Lucas",
+        "fr": "Lucas",
+        "fr_CA": "Lucas",
+        "es": "Lucas",
+        "es_LA": "Lucas",
+        "de": "Lucas",
+        "it": "Lucas",
+        "nl": "Lucas",
+        "ru": "\u041b\u0443\u043a\u0430\u0441",
+        "ko": "\ub958\uce74",
+        "zh_TW": "\u7409\u52a0",
+        "zh_CN": "\u7409\u52a0"
+      }
+    },
+    "Sonic": {
+      "smashgg_name": "Sonic",
+      "codename": "sonic",
+      "locale": {
+        "ja": "\u30bd\u30cb\u30c3\u30af",
+        "en_GB": "Sonic",
+        "en_AU": "Sonic",
+        "fr": "Sonic",
+        "fr_CA": "Sonic",
+        "es": "Sonic",
+        "es_LA": "Sonic",
+        "de": "Sonic",
+        "it": "Sonic",
+        "nl": "Sonic",
+        "ru": "\u0421\u043e\u043d\u0438\u043a",
+        "ko": "\uc18c\ub2c9",
+        "zh_TW": "\u7d22\u5c3c\u514b",
+        "zh_CN": "\u7d22\u5c3c\u514b"
+      }
+    },
+    "King Dedede": {
+      "smashgg_name": "King Dedede",
+      "codename": "king_dedede",
+      "locale": {
+        "fr": "Roi DaDiDou",
+        "ja": "\u30c7\u30c7\u30c7",
+        "en_GB": "King Dedede",
+        "en_AU": "King Dedede",
+        "fr_CA": "Roi Dadidou",
+        "es": "Rey Dedede",
+        "es_LA": "Rey Dedede",
+        "de": "K\u00f6nig Dedede",
+        "it": "King Dedede",
+        "nl": "King Dedede",
+        "ru": "\u041a\u043e\u0440\u043e\u043b\u044c \u0414\u0438\u0434\u0438\u0434\u0438",
+        "ko": "\ub514\ub514\ub514 \ub300\uc655",
+        "zh_TW": "\u5e1d\u5e1d\u5e1d\u5927\u738b",
+        "zh_CN": "\u5e1d\u5e1d\u5e1d\u5927\u738b"
+      }
+    },
+    "Olimar": {
+      "smashgg_name": "Olimar",
+      "codename": "olimar",
+      "locale": {
+        "ja": "\u30d4\u30af\u30df\u30f3&\u30aa\u30ea\u30de\u30fc",
+        "en_GB": "Olimar",
+        "en_AU": "Olimar",
+        "fr": "Olimar",
+        "fr_CA": "Olimar",
+        "es": "Olimar",
+        "es_LA": "Olimar",
+        "de": "Olimar",
+        "it": "Olimar",
+        "nl": "Olimar",
+        "ru": "\u041e\u043b\u0438\u043c\u0430\u0440",
+        "ko": "\ud53c\ud06c\ubbfc&\uc62c\ub9ac\ub9c8",
+        "zh_TW": "\u76ae\u514b\u654f\uff06\u6b50\u5229\u746a",
+        "zh_CN": "\u76ae\u514b\u654f\uff06\u6b27\u529b\u9a6c"
+      }
+    },
+    "Lucario": {
+      "smashgg_name": "Lucario",
+      "codename": "lucario",
+      "locale": {
+        "ja": "\u30eb\u30ab\u30ea\u30aa",
+        "en_GB": "Lucario",
+        "en_AU": "Lucario",
+        "fr": "Lucario",
+        "fr_CA": "Lucario",
+        "es": "Lucario",
+        "es_LA": "Lucario",
+        "de": "Lucario",
+        "it": "Lucario",
+        "nl": "Lucario",
+        "ru": "\u041b\u0443\u043a\u0430\u0440\u0438\u043e",
+        "ko": "\ub8e8\uce74\ub9ac\uc624",
+        "zh_TW": "\u8def\u5361\u5229\u6b50",
+        "zh_CN": "\u8def\u5361\u5229\u6b27"
+      }
+    },
+    "R.O.B.": {
+      "smashgg_name": "R.O.B.",
+      "codename": "rob",
+      "locale": {
+        "ja": "\u30ed\u30dc\u30c3\u30c8",
+        "en_GB": "R.O.B.",
+        "en_AU": "R.O.B.",
+        "fr": "R.O.B.",
+        "fr_CA": "R.O.B.",
+        "es": "R.O.B.",
+        "es_LA": "R.O.B.",
+        "de": "R.O.B.",
+        "it": "R.O.B.",
+        "nl": "R.O.B.",
+        "ru": "R.O.B.",
+        "ko": "R.O.B.",
+        "zh_TW": "\u6a5f\u5668\u4eba",
+        "zh_CN": "\u673a\u5668\u4eba"
+      }
+    },
+    "Toon Link": {
+      "smashgg_name": "Toon Link",
+      "codename": "toon_link",
+      "locale": {
+        "fr": "Link Cartoon",
+        "ja": "\u30c8\u30a5\u30fc\u30f3\u30ea\u30f3\u30af",
+        "en_GB": "Toon Link",
+        "en_AU": "Toon Link",
+        "fr_CA": "Link Cartoon",
+        "es": "Toon Link",
+        "es_LA": "Toon Link",
+        "de": "Toon-Link",
+        "it": "Link Cartone",
+        "nl": "Toon Link",
+        "ru": "\u041c\u0443\u043b\u044c\u0442-\u041b\u0438\u043d\u043a",
+        "ko": "\ud230\ub9c1\ud06c",
+        "zh_TW": "\u5361\u901a\u6797\u514b",
+        "zh_CN": "\u5361\u901a\u6797\u514b"
+      }
+    },
+    "Wolf": {
+      "smashgg_name": "Wolf",
+      "codename": "wolf",
+      "locale": {
+        "ja": "\u30a6\u30eb\u30d5",
+        "en_GB": "Wolf",
+        "en_AU": "Wolf",
+        "fr": "Wolf",
+        "fr_CA": "Wolf",
+        "es": "Wolf",
+        "es_LA": "Wolf",
+        "de": "Wolf",
+        "it": "Wolf",
+        "nl": "Wolf",
+        "ru": "\u0412\u0443\u043b\u044c\u0444",
+        "ko": "\uc6b8\ud504",
+        "zh_TW": "\u6c83\u723e\u592b",
+        "zh_CN": "\u6c83\u9c81\u592b"
+      }
+    },
+    "Random": {
+      "smashgg_name": "Random Character",
+      "codename": "random",
+      "locale": {
+        "fr": "Al\u00e9atoire"
+      }
+    }
+  },
+  "stage_to_codename": {
+    "Battlefield": {
+      "codename": "battlefield"
+    },
+    "Final Destination": {
+      "codename": "final_destination"
+    },
+    "Delfino Plaza": {
+      "codename": "delfino_plaza"
+    },
+    "Luigi's Mansion": {
+      "codename": "luigis_mansion"
+    },
+    "Mushroomy Kingdom": {
+      "codename": "mushroomy_kingdom"
+    },
+    "Mario Circuit": {
+      "codename": "mario_circuit"
+    },
+    "Mario Bros.": {
+      "codename": "mario_bros"
+    },
+    "Yoshi's Island": {
+      "codename": "yoshis_island"
+    },
+    "Rumble Falls": {
+      "codename": "rumble_falls"
+    },
+    "75m": {
+      "codename": "75m"
+    },
+    "Bridge of Eldin": {
+      "codename": "bridge_of_eldin"
+    },
+    "Pirate Ship": {
+      "codename": "pirate_ship"
+    },
+    "Norfair": {
+      "codename": "norfair"
+    },
+    "Frigate Orpheon": {
+      "codename": "frigate_orpheon"
+    },
+    "Halberd": {
+      "codename": "halberd"
+    },
+    "Lylat Cruise": {
+      "codename": "lylat_cruise"
+    },
+    "Pok\u00e9mon Stadium 2": {
+      "codename": "pokemon_stadium_2"
+    },
+    "Spear Pillar": {
+      "codename": "spear_pillar"
+    },
+    "Port Town Aero Dive": {
+      "codename": "port_town"
+    },
+    "New Pork City": {
+      "codename": "new_pork_city"
+    },
+    "Summit": {
+      "codename": "summit"
+    },
+    "Castle Siege": {
+      "codename": "castle_siege"
+    },
+    "Flat Zone 2": {
+      "codename": "flat_zone_2"
+    },
+    "Skyworld": {
+      "codename": "skyworld"
+    },
+    "WarioWare, Inc.": {
+      "codename": "warioware"
+    },
+    "Distant Planet": {
+      "codename": "distant_planet"
+    },
+    "Shadow Moses Island": {
+      "codename": "shadow_moses_island"
+    },
+    "Green Hill Zone": {
+      "codename": "green_hill_zone"
+    },
+    "Smashville": {
+      "codename": "smashville"
+    },
+    "PictoChat": {
+      "codename": "pictochat"
+    },
+    "Hanenbow": {
+      "codename": "hanenbow"
+    },
+    "Rainbow Cruise": {
+      "codename": "rainbow_cruise"
+    },
+    "Jungle Japes": {
+      "codename": "jungle_japes"
+    },
+    "Temple": {
+      "codename": "temple"
+    },
+    "Brinstar": {
+      "codename": "brinstar"
+    },
+    "Green Greens": {
+      "codename": "green_greens"
+    },
+    "Corneria": {
+      "codename": "corneria"
+    },
+    "Pok\u00e9mon Stadium": {
+      "codename": "pokemon_stadium"
+    },
+    "Big Blue": {
+      "codename": "big_blue"
+    },
+    "Onett": {
+      "codename": "onett"
+    }
+  },
+  "version": "1.0",
+  "description": "Base config to use this game."
+}

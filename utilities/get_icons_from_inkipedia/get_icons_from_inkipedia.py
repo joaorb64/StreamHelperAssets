@@ -281,7 +281,10 @@ weapon_body_lines = weapon_body_tag.findAll('tr')
 
 # print(weapon_body_lines)
 
+weapon_index = 1
 for weapon_name in weapon_list.keys():
+    print("Processing weapon", weapon_index, "of", len(weapon_list), f"({weapon_name})")
+
     sub_image_link, special_image_link = None, None
     icon_url = weapon_list[weapon_name]["main_image"]
     weapon_codename = weapon_name.replace(".", "")
@@ -465,8 +468,10 @@ for weapon_name in weapon_list.keys():
         special_names["values"][weapon_codename]["locale"]["es"] = special_names["values"][weapon_codename]["locale"].get(
             "es_LA")
 
-    print(json.dumps(sub_names["values"][weapon_codename], indent=2))
-    print(json.dumps(special_names["values"][weapon_codename], indent=2))
+    weapon_index += 1
+
+    # print(json.dumps(sub_names["values"][weapon_codename], indent=2))
+    # print(json.dumps(special_names["values"][weapon_codename], indent=2))
 
 for stage_name in main_config["stage_to_codename"]:
     main_config["stage_to_codename"][stage_name]["locale"] = {}

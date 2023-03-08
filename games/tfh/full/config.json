@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.1",
+  "version": "1.2",
   "uncropped_edge": [
     "u",
     "d",
@@ -61,6 +61,12 @@
       "0": {
         "x": 695,
         "y": 1148
+      }
+    },
+    "Stronghoof": {
+      "0": {
+        "x": 1349,
+        "y": 975
       }
     }
   }

@@ -595,6 +595,17 @@
         "zh_TW": "\u8000\u897f",
         "zh_CN": "\u8000\u897f"
       }
+    },
+    "Birdo": {
+      "codename": "Birdo",
+      "locale": {
+        "ja": "\u30ad\u30e3\u30b5\u30ea\u30f3",
+        "zh_CN": "\u51ef\u745f\u7433",
+        "zh_TW": "\u51f1\u745f\u7433",
+        "ko": "\uce90\uc11c\ub9b0",
+        "it": "Strutzi",
+        "ru": "\u0411\u0438\u0440\u0434\u043e"
+      }
     }
   },
   "credits": "",
@@ -602,7 +613,7 @@
   "name": "Mario Kart 8 Deluxe",
   "smashgg_game_id": 2165,
   "stage_to_codename": {},
-  "version": "1.05",
+  "version": "1.1",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c88 \u30c7\u30e9\u30c3\u30af\u30b9"

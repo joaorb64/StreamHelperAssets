@@ -1,0 +1,77 @@
+{
+    "mode": {
+        "name": "Salmon Run",
+        "locale": {
+            "ja": "サーモンラン",
+            "ko": "새먼 런",
+            "zh_CN": "鲑鱼跑",
+            "zh_TW": "鮭魚跑",
+            "nl": "Salmon Run",
+            "fr": "Salmon Run",
+            "fr_CA": "Salmon Run",
+            "de": "Salmon Run",
+            "it": "Salmon Run",
+            "ru": "Salmon Run",
+            "es": "Salmon Run",
+            "es_LA": "Salmon Run"
+        }
+    },
+    "stages": {
+        "Sockeye Station": {
+            "ja": "アラマキ砦",
+            "ko": "연어말이 요새",
+            "zh_CN": "新卷堡",
+            "zh_TW": "新卷堡",
+            "nl": "Fort Ammoniet",
+            "fr": "Bastion colimaçon",
+            "fr_CA": "Bastion colimaçon",
+            "de": "Fort Nautilax",
+            "it": "Fortezza",
+            "ru": "Наутиплекс",
+            "es": "Fuerte Espiral",
+            "es_LA": "Fuerte Espiral"
+        },
+        "Gone Fission Hydroplant": {
+            "ja": "ムニ・エ―ル海洋発電所",
+            "ko": "뫼니 엘 해양 발전소",
+            "zh_CN": "麦年海洋发电所",
+            "zh_TW": "麥年海洋發電所",
+            "nl": "Kwikwi-krachtcentrale",
+            "fr": "Centrale Anguilla",
+            "fr_CA": "Centrale Anguilla",
+            "de": "Wasserkraftwerk Stromschnell",
+            "it": "Centrale Anguilla Elettrica",
+            "ru": "ГЭС-комплекс «Лом»",
+            "es": "Hidrocentral Pilpil",
+            "es_LA": "Hidrocentral Rebosante"
+        },
+        "Spawning Grounds": {
+            "ja": "シェケナダム",
+            "ko": "셰케나 댐",
+            "zh_CN": "鲑坝",
+            "zh_TW": "鮭壩",
+            "nl": "Salmonietendam",
+            "fr": "Barrage salmonoïde",
+            "fr_CA": "Barrage salmonoïde",
+            "de": "Salmoniden-Damm",
+            "it": "Diga salmonoide",
+            "ru": "Самонидская ГЭС",
+            "es": "Presa salmónida",
+            "es_LA": "Presa salmónida"
+        },
+        "Marooner's Bay": {
+            "ja": "難破船ドン・ブラコ",
+            "ko": "난파선 돈 브라코",
+            "zh_CN": "漂浮落难船",
+            "zh_TW": "漂浮落難船",
+            "nl": "Wrak van de ms Grondel",
+            "fr": "Épave des braves",
+            "fr_CA": "Épave des braves",
+            "de": "Schiffswrack-Insel",
+            "it": "Isoletta del relitto",
+            "ru": "Корабль «Дон Брак»",
+            "es": "Bahía Deriva",
+            "es_LA": "Bahía Deriva"
+        }
+    }
+}

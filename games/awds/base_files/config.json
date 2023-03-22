@@ -1,0 +1,95 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Adder": {
+      "codename": "Adder"
+    },
+    "Andy": {
+      "codename": "Andy"
+    },
+    "Colin": {
+      "codename": "Colin"
+    },
+    "Drake": {
+      "codename": "Drake"
+    },
+    "Eagle": {
+      "codename": "Eagle"
+    },
+    "Flak": {
+      "codename": "Flak"
+    },
+    "Grimm": {
+      "codename": "Grimm"
+    },
+    "Grit": {
+      "codename": "Grit"
+    },
+    "Hachi": {
+      "codename": "Hachi"
+    },
+    "Hawke": {
+      "codename": "Hawke"
+    },
+    "Jake": {
+      "codename": "Jake"
+    },
+    "Javier": {
+      "codename": "Javier"
+    },
+    "Jess": {
+      "codename": "Jess"
+    },
+    "Jugger": {
+      "codename": "Jugger"
+    },
+    "Kanbei": {
+      "codename": "Kanbei"
+    },
+    "Kindle": {
+      "codename": "Kindle"
+    },
+    "Koal": {
+      "codename": "Koal"
+    },
+    "Lash": {
+      "codename": "Lash"
+    },
+    "Max": {
+      "codename": "Max"
+    },
+    "Nell": {
+      "codename": "Nell"
+    },
+    "Olaf": {
+      "codename": "Olaf"
+    },
+    "Rachel": {
+      "codename": "Rachel"
+    },
+    "Sami": {
+      "codename": "Sami"
+    },
+    "Sasha": {
+      "codename": "Sasha"
+    },
+    "Sensei": {
+      "codename": "Sensei"
+    },
+    "Sonja": {
+      "codename": "Sonja"
+    },
+    "Sturm": {
+      "codename": "Sturm"
+    },
+    "Von Bolt": {
+      "codename": "VonBolt"
+    }
+  },
+  "credits": "Strum icon from Advance Wars 2: Black Hole Rising",
+  "description": "Base config to use this game.",
+  "name": "Advance Wars: Dual Strike",
+  "smashgg_game_id": 5584,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

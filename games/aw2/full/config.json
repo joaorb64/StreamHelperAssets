@@ -1,0 +1,16 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "1.0",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r"
+  ]
+}

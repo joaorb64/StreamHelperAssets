@@ -160,10 +160,13 @@
     },
     "Shingo Yabuki": {
       "codename": "Shingo"
+    },
+    "Kim Kaphwan": {
+      "codename": "Kim"
     }
   },
   "stage_to_codename": {},
-  "version": "1.6",
+  "version": "1.7",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

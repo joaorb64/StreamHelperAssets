@@ -6,7 +6,7 @@ name: Build Release
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches: [main]
   #pull_request:
   #  branches: [ main ]
 
@@ -21,7 +21,7 @@ jobs:
       - name: Free Disk Space (Ubuntu)
         uses: actions-marketplace-validations/curoky_cleanup-disk-action@master
         with:
-          retain: 'python,node'
+          retain: "python,node"
       - name: Checkout code
         uses: actions/checkout@v2
       - name: setup python
@@ -37,6 +37,7 @@ jobs:
         run: |
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
+          find . -name "*~" -type f -delete
           git add .
           git commit -m "Update assets"
           git push origin main

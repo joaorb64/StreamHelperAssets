@@ -151,10 +151,16 @@
       "locale": {
         "ja": "シン=キスク"
       }
+    },
+    "Bedman?": {
+      "codename": "Bed",
+      "locale": {
+        "ja": "ベッドマン？"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.7",
+  "version": "1.8",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
   "locale": {

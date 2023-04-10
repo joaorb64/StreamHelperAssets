@@ -42,8 +42,39 @@
       "codename": "discman"
     }
   },
-  "stage_to_codename": {},
-  "version": "1.14",
+  "stage_to_codename": {
+    "Beach": {
+      "codename": "beach"
+    },
+    "Clay": {
+      "codename": "clay"
+    },
+    "Lawn": {
+      "codename": "lawn"
+    },
+    "Arena": {
+      "codename": "arena"
+    },
+    "Tiled": {
+      "codename": "tiled"
+    },
+    "Rooftop": {
+      "codename": "roof"
+    },
+    "Ring": {
+      "codename": "ring"
+    },
+    "Stadium": {
+      "codename": "stadium"
+    },
+    "Casino": {
+      "codename": "casino"
+    },
+    "Junkyard": {
+      "codename": "junk"
+    }
+  },
+  "version": "1.2",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for detouring the in-game portraits"
 }

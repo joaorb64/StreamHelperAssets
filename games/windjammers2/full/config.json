@@ -6,8 +6,14 @@
   "type": [
     "full"
   ],
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
   "credits": "@MathiasWolfbrok for detouring the in-game portraits and cropping",
-  "version": "1.13",
+  "version": "1.2",
   "eyesights": {
     "biaggi": {
       "0": {

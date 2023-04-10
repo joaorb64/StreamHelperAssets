@@ -1,8 +1,8 @@
-# Portraits
+# Artwork
 
 ## Description: 
 
-Character Portraits
+Character Artwork
 
 ## Credits: 
 

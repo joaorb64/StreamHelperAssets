@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-game_id = 5584
+game_id = 22403
 character_list_filename = "characters_list.txt"
 
 blank_files_folder="blank_files"

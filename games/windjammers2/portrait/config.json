@@ -1,84 +1,78 @@
 {
-  "name": "Artwork",
-  "description": "Character Artwork",
+  "name": "Portraits",
+  "description": "Character Portraits",
   "prefix": "full_",
   "postfix": "_",
   "type": [
-    "full"
-  ],
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
+    "portrait"
   ],
   "credits": "@MathiasWolfbrok for detouring the in-game portraits and cropping",
   "version": "1.2",
   "eyesights": {
     "biaggi": {
       "0": {
-        "x": 169,
-        "y": 79
+        "x": 642,
+        "y": 472
       }
     },
     "costa": {
       "0": {
-        "x": 141,
-        "y": 60
+        "x": 589,
+        "y": 313
       }
     },
     "delys": {
       "0": {
-        "x": 137,
-        "y": 57
+        "x": 769,
+        "y": 538
       }
     },
     "discman": {
       "0": {
-        "x": 150,
-        "y": 70
+        "x": 631,
+        "y": 363
       }
     },
     "ho": {
       "0": {
-        "x": 211,
-        "y": 73
+        "x": 816,
+        "y": 307
       }
     },
     "max": {
       "0": {
-        "x": 98,
-        "y": 41
+        "x": 765,
+        "y": 297
       }
     },
     "miller": {
       "0": {
-        "x": 235,
-        "y": 78
+        "x": 616,
+        "y": 325
       }
     },
     "mita": {
       "0": {
-        "x": 97,
-        "y": 55
+        "x": 658,
+        "y": 390
       }
     },
     "raposa": {
       "0": {
-        "x": 275,
-        "y": 94
+        "x": 541,
+        "y": 283
       }
     },
     "scott": {
       "0": {
-        "x": 201,
-        "y": 59
+        "x": 696,
+        "y": 306
       }
     },
     "wessel": {
       "0": {
-        "x": 215,
-        "y": 47
+        "x": 516,
+        "y": 337
       }
     }
   }

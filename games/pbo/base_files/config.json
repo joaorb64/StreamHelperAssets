@@ -1,0 +1,82 @@
+{	
+  "challonge_game_id": 273575,
+  "character_to_codename": {
+	"Artifactor": {
+	  "codename": "Artifactor"
+	},
+	"Cocoa": {
+	  "codename": "Cocoa"
+	},
+	"Ende": {
+	  "codename": "Ende"
+	},
+	"Fin": {
+	  "codename": "Fin"
+	},
+	"Infinity": {
+	  "codename": "Infinity"
+	},
+	"Itsuki": {
+	  "codename": "Itsuki"
+	},
+	"Kurisu": {
+	  "codename": "Kurisu"
+	},
+	"L": {
+	  "codename": "L"
+	},
+	"M": {
+	  "codename": "M"
+	},
+	"Maestra": {
+	  "codename": "Maestra"
+	},
+	"Mei": {
+	  "codename": "Mei"
+	},
+	"Mikoto": {
+	  "codename": "Mikoto"
+	},
+	"Ren": {
+	  "codename": "Ren"
+	},
+	"Ria": {
+	  "codename": "Ria"
+	},
+	"Rimi": {
+	  "codename": "Rimi"
+	},
+	"RinGaito": {
+	  "codename": "RinGaito"
+	},
+	"ShiroMikoto": {
+	  "codename": "ShiroMikoto"
+	},
+	"Shizuka": {
+	  "codename": "Shizuka"
+	},
+	"Sophia": {
+	  "codename": "Sophia"
+	},
+	"Tokiya": {
+	  "codename": "Tokiya"
+	},
+	"Waka": {
+	  "codename": "Waka"
+	},
+	"Yuzuha": {
+	  "codename": "Yuzuha"
+	}
+  },
+  "credits": "Files collected by Phantom Breaker Omnia Press Kit",
+  "description": "Base config to use this game.",
+  "name": "Phantom Breaker Omnia",
+  "smashgg_game_id": 35148,
+  "stage_to_codename": {},
+  "version": "2.21",
+  "locale": {
+    "ja": {
+      "name": "\u30da\u30eb\u30bd\u30ca4 \u30b8\u30fb\u30a2\u30eb\u30c6\u30a3\u30de\u30c3\u30af\u30b9 \u30a6\u30eb\u30c8\u30e9\u30b9\u30fc\u30d7\u30ec\u30c3\u30af\u30b9\u30db\u30fc\u30eb\u30c9"
+    }
+  }
+}

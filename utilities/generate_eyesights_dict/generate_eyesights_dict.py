@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "awds"
+game_codename = "punite"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

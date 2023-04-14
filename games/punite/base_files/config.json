@@ -1,0 +1,713 @@
+{
+  "name": "Pok\u00e9mon Unite",
+  "smashgg_game_id": 38949,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Venusaur": {
+      "codename": "003",
+      "locale": {
+        "fr": "Florizarre",
+        "de": "Bisaflor",
+        "ko": "\uc774\uc0c1\ud574\uaf43",
+        "ja": "\u30d5\u30b7\u30ae\u30d0\u30ca",
+        "zh_CN": "\u5999\u86d9\u82b1",
+        "zh_TW": "\u5999\u86d9\u82b1",
+        "it": "Venusaur",
+        "es": "Venusaur"
+      }
+    },
+    "Charizard": {
+      "codename": "006",
+      "locale": {
+        "fr": "Dracaufeu",
+        "de": "Glurak",
+        "ko": "\ub9ac\uc790\ubabd",
+        "ja": "\u30ea\u30b6\u30fc\u30c9\u30f3",
+        "zh_CN": "\u55b7\u706b\u9f99",
+        "zh_TW": "\u5674\u706b\u9f8d",
+        "it": "Charizard",
+        "es": "Charizard"
+      }
+    },
+    "Blastoise": {
+      "codename": "009",
+      "locale": {
+        "fr": "Tortank",
+        "de": "Turtok",
+        "ko": "\uac70\ubd81\uc655",
+        "ja": "\u30ab\u30e1\u30c3\u30af\u30b9",
+        "zh_CN": "\u6c34\u7bad\u9f9f",
+        "zh_TW": "\u6c34\u7bad\u9f9c",
+        "it": "Blastoise",
+        "es": "Blastoise"
+      }
+    },
+    "Pikachu": {
+      "codename": "025",
+      "locale": {
+        "fr": "Pikachu",
+        "de": "Pikachu",
+        "ko": "\ud53c\uce74\uce04",
+        "ja": "\u30d4\u30ab\u30c1\u30e5\u30a6",
+        "zh_CN": "\u76ae\u5361\u4e18",
+        "zh_TW": "\u76ae\u5361\u4e18",
+        "it": "Pikachu",
+        "es": "Pikachu"
+      }
+    },
+    "Clefable": {
+      "codename": "036",
+      "locale": {
+        "fr": "M\u00e9lodelfe",
+        "de": "Pixi",
+        "ko": "\ud53d\uc2dc",
+        "ja": "\u30d4\u30af\u30b7\u30fc",
+        "zh_CN": "\u76ae\u53ef\u897f",
+        "zh_TW": "\u76ae\u53ef\u897f",
+        "it": "Clefable",
+        "es": "Clefable"
+      }
+    },
+    "Alolan Ninetales": {
+      "codename": "038",
+      "locale": {
+        "fr": "Feunard",
+        "de": "Vulnona",
+        "ko": "\ub098\uc778\ud14c\uc77c",
+        "ja": "\u30ad\u30e5\u30a6\u30b3\u30f3",
+        "zh_CN": "\u4e5d\u5c3e",
+        "zh_TW": "\u4e5d\u5c3e",
+        "it": "Ninetales",
+        "es": "Ninetales"
+      }
+    },
+    "Wigglytuff": {
+      "codename": "040",
+      "locale": {
+        "fr": "Grodoudou",
+        "de": "Knuddeluff",
+        "ko": "\ud478\ud06c\ub9b0",
+        "ja": "\u30d7\u30af\u30ea\u30f3",
+        "zh_CN": "\u80d6\u53ef\u4e01",
+        "zh_TW": "\u80d6\u53ef\u4e01",
+        "it": "Wigglytuff",
+        "es": "Wigglytuff"
+      }
+    },
+    "Machamp": {
+      "codename": "068",
+      "locale": {
+        "fr": "Mackogneur",
+        "de": "Machomei",
+        "ko": "\uad34\ub825\ubaac",
+        "ja": "\u30ab\u30a4\u30ea\u30ad\u30fc",
+        "zh_CN": "\u602a\u529b",
+        "zh_TW": "\u602a\u529b",
+        "it": "Machamp",
+        "es": "Machamp"
+      }
+    },
+    "Slowbro": {
+      "codename": "080",
+      "locale": {
+        "fr": "Flagadoss",
+        "de": "Lahmus",
+        "ko": "\uc57c\ub3c4\ub780",
+        "ja": "\u30e4\u30c9\u30e9\u30f3",
+        "zh_CN": "\u5446\u58f3\u517d",
+        "zh_TW": "\u5446\u6bbc\u7378",
+        "it": "Slowbro",
+        "es": "Slowbro"
+      }
+    },
+    "Dodrio": {
+      "codename": "085",
+      "locale": {
+        "fr": "Dodrio",
+        "de": "Dodri",
+        "ko": "\ub450\ud2b8\ub9ac\uc624",
+        "ja": "\u30c9\u30fc\u30c9\u30ea\u30aa",
+        "zh_CN": "\u561f\u561f\u5229",
+        "zh_TW": "\u561f\u561f\u5229",
+        "it": "Dodrio",
+        "es": "Dodrio"
+      }
+    },
+    "Gengar": {
+      "codename": "094",
+      "locale": {
+        "fr": "Ectoplasma",
+        "de": "Gengar",
+        "ko": "\ud32c\ud140",
+        "ja": "\u30b2\u30f3\u30ac\u30fc",
+        "zh_CN": "\u803f\u9b3c",
+        "zh_TW": "\u803f\u9b3c",
+        "it": "Gengar",
+        "es": "Gengar"
+      }
+    },
+    "Mr. Mime": {
+      "codename": "122",
+      "locale": {
+        "fr": "M. Mime",
+        "de": "Pantimos",
+        "ko": "\ub9c8\uc784\ub9e8",
+        "ja": "\u30d0\u30ea\u30e4\u30fc\u30c9",
+        "zh_CN": "\u9b54\u5899\u4eba\u5076",
+        "zh_TW": "\u9b54\u7246\u4eba\u5076",
+        "it": "Mr. Mime",
+        "es": "Mr. Mime"
+      }
+    },
+    "Lapras": {
+      "codename": "131",
+      "locale": {
+        "fr": "Lokhlass",
+        "de": "Lapras",
+        "ko": "\ub77c\ud504\ub77c\uc2a4",
+        "ja": "\u30e9\u30d7\u30e9\u30b9",
+        "zh_CN": "\u62c9\u666e\u62c9\u65af",
+        "zh_TW": "\u62c9\u666e\u62c9\u65af",
+        "it": "Lapras",
+        "es": "Lapras"
+      }
+    },
+    "Snorlax": {
+      "codename": "143",
+      "locale": {
+        "fr": "Ronflex",
+        "de": "Relaxo",
+        "ko": "\uc7a0\ub9cc\ubcf4",
+        "ja": "\u30ab\u30d3\u30b4\u30f3",
+        "zh_CN": "\u5361\u6bd4\u517d",
+        "zh_TW": "\u5361\u6bd4\u7378",
+        "it": "Snorlax",
+        "es": "Snorlax"
+      }
+    },
+    "Dragonite": {
+      "codename": "149",
+      "locale": {
+        "fr": "Dracolosse",
+        "de": "Dragoran",
+        "ko": "\ub9dd\ub098\ub1fd",
+        "ja": "\u30ab\u30a4\u30ea\u30e5\u30fc",
+        "zh_CN": "\u5feb\u9f99",
+        "zh_TW": "\u5feb\u9f8d",
+        "it": "Dragonite",
+        "es": "Dragonite"
+      }
+    },
+    "Mew": {
+      "codename": "151",
+      "locale": {
+        "fr": "Mew",
+        "de": "Mew",
+        "ko": "\ubba4",
+        "ja": "\u30df\u30e5\u30a6",
+        "zh_CN": "\u68a6\u5e7b",
+        "zh_TW": "\u5922\u5e7b",
+        "it": "Mew",
+        "es": "Mew"
+      }
+    },
+    "Azumarill": {
+      "codename": "184",
+      "locale": {
+        "fr": "Azumarill",
+        "de": "Azumarill",
+        "ko": "\ub9c8\ub9b4\ub9ac",
+        "ja": "\u30de\u30ea\u30eb\u30ea",
+        "zh_CN": "\u739b\u529b\u9732\u4e3d",
+        "zh_TW": "\u746a\u529b\u9732\u9e97",
+        "it": "Azumarill",
+        "es": "Azumarill"
+      }
+    },
+    "Espeon": {
+      "codename": "196",
+      "locale": {
+        "fr": "Mentali",
+        "de": "Psiana",
+        "ko": "\uc5d0\ube0c\uc774",
+        "ja": "\u30a8\u30fc\u30d5\u30a3",
+        "zh_CN": "\u592a\u9633\u4f0a\u5e03",
+        "zh_TW": "\u592a\u967d\u4f0a\u5e03",
+        "it": "Espeon",
+        "es": "Espeon"
+      }
+    },
+    "Umbreon": {
+      "codename": "197",
+      "locale": {
+        "fr": "Noctali",
+        "de": "Nachtara",
+        "ko": "\ube14\ub798\ud0a4",
+        "ja": "\u30d6\u30e9\u30c3\u30ad\u30fc",
+        "zh_CN": "\u6708\u4eae\u4f0a\u5e03",
+        "zh_TW": "\u6708\u4eae\u4f0a\u5e03",
+        "it": "Umbreon",
+        "es": "Umbreon"
+      }
+    },
+    "Scizor": {
+      "codename": "212",
+      "locale": {
+        "fr": "Cizayox",
+        "de": "Scherox",
+        "ko": "\ud56b\uc0bc",
+        "ja": "\u30cf\u30c3\u30b5\u30e0",
+        "zh_CN": "\u5de8\u94b3\u87b3\u8782",
+        "zh_TW": "\u5de8\u9257\u87b3\u8782",
+        "it": "Scizor",
+        "es": "Scizor"
+      }
+    },
+    "Blissey": {
+      "codename": "242",
+      "locale": {
+        "fr": "Leuphorie",
+        "de": "Heiteira",
+        "ko": "\ud574\ud53c\ub108\uc2a4",
+        "ja": "\u30cf\u30d4\u30ca\u30b9",
+        "zh_CN": "\u5e78\u798f\u86cb",
+        "zh_TW": "\u5e78\u798f\u86cb",
+        "it": "Blissey",
+        "es": "Blissey"
+      }
+    },
+    "Tyranitar": {
+      "codename": "248",
+      "locale": {
+        "fr": "Tyranocif",
+        "de": "Despotar",
+        "ko": "\ub9c8\uae30\ub77c\uc2a4",
+        "ja": "\u30d0\u30f3\u30ae\u30e9\u30b9",
+        "zh_CN": "\u73ed\u57fa\u62c9\u65af",
+        "zh_TW": "\u73ed\u57fa\u62c9\u65af",
+        "it": "Tyranitar",
+        "es": "Tyranitar"
+      }
+    },
+    "Gardevoir": {
+      "codename": "282",
+      "locale": {
+        "fr": "Gardevoir",
+        "de": "Guardevoir",
+        "ko": "\uac00\ub514\uc548",
+        "ja": "\u30b5\u30fc\u30ca\u30a4\u30c8",
+        "zh_CN": "\u6c99\u5948\u6735",
+        "zh_TW": "\u6c99\u5948\u6735",
+        "it": "Gardevoir",
+        "es": "Gardevoir"
+      }
+    },
+    "Sableye": {
+      "codename": "302",
+      "locale": {
+        "fr": "T\u00e9n\u00e9fix",
+        "de": "Zobiris",
+        "ko": "\uae5c\uae4c\ubbf8",
+        "ja": "\u30e4\u30df\u30e9\u30df",
+        "zh_CN": "\u52fe\u9b42\u773c",
+        "zh_TW": "\u52fe\u9b42\u773c",
+        "it": "Sableye",
+        "es": "Sableye"
+      }
+    },
+    "Absol": {
+      "codename": "359",
+      "locale": {
+        "fr": "Absol",
+        "de": "Absol",
+        "ko": "\uc571\uc194",
+        "ja": "\u30a2\u30d6\u30bd\u30eb",
+        "zh_CN": "\u963f\u52c3\u68ad\u9c81",
+        "zh_TW": "\u963f\u52c3\u68ad\u9b6f",
+        "it": "Absol",
+        "es": "Absol"
+      }
+    },
+    "Garchomp": {
+      "codename": "445",
+      "locale": {
+        "fr": "Carchacrok",
+        "de": "Knakrack",
+        "ko": "\ud55c\uce74\ub9ac\uc544\uc2a4",
+        "ja": "\u30ac\u30d6\u30ea\u30a2\u30b9",
+        "zh_CN": "\u70c8\u54ac\u9646\u9ca8",
+        "zh_TW": "\u70c8\u54ac\u9678\u9bca",
+        "it": "Garchomp",
+        "es": "Garchomp"
+      }
+    },
+    "Lucario": {
+      "codename": "448",
+      "locale": {
+        "fr": "Lucario",
+        "de": "Lucario",
+        "ko": "\ub8e8\uce74\ub9ac\uc624",
+        "ja": "\u30eb\u30ab\u30ea\u30aa",
+        "zh_CN": "\u8def\u5361\u5229\u6b27",
+        "zh_TW": "\u8def\u5361\u5229\u6b50",
+        "it": "Lucario",
+        "es": "Lucario"
+      }
+    },
+    "Glaceon": {
+      "codename": "471",
+      "locale": {
+        "fr": "Givrali",
+        "de": "Glaziola",
+        "ko": "\uae00\ub808\uc774\uc2dc\uc544",
+        "ja": "\u30b0\u30ec\u30a4\u30b7\u30a2",
+        "zh_CN": "\u51b0\u4f0a\u5e03",
+        "zh_TW": "\u51b0\u4f0a\u5e03",
+        "it": "Glaceon",
+        "es": "Glaceon"
+      }
+    },
+    "Mamoswine": {
+      "codename": "473",
+      "locale": {
+        "fr": "Mammochon",
+        "de": "Mamutel",
+        "ko": "\ub9d8\ubaa8\uafb8\ub9ac",
+        "ja": "\u30de\u30f3\u30e0\u30fc",
+        "zh_CN": "\u8c61\u7259\u732a",
+        "zh_TW": "\u8c61\u7259\u8c6c",
+        "it": "Mamoswine",
+        "es": "Mamoswine"
+      }
+    },
+    "Crustle": {
+      "codename": "558",
+      "locale": {
+        "fr": "Crabaraque",
+        "de": "Castellith",
+        "ko": "\uc554\ud330\ub9ac\uc2a4",
+        "ja": "\u30a4\u30ef\u30d1\u30ec\u30b9",
+        "zh_CN": "\u5ca9\u6bbf\u5c45\u87f9",
+        "zh_TW": "\u5ca9\u6bbf\u5c45\u87f9",
+        "it": "Crustle",
+        "es": "Crustle"
+      }
+    },
+    "Chandelure": {
+      "codename": "609",
+      "locale": {
+        "fr": "Lugulabre",
+        "de": "Skelabra",
+        "ko": "\uc0f9\ub378\ub77c",
+        "ja": "\u30b7\u30e3\u30f3\u30c7\u30e9",
+        "zh_CN": "\u6c34\u6676\u706f\u706b\u7075",
+        "zh_TW": "\u6c34\u6676\u71c8\u706b\u9748",
+        "it": "Chandelure",
+        "es": "Chandelure"
+      }
+    },
+    "Zoroark": {
+      "codename": "571",
+      "locale": {
+        "fr": "Zoroark",
+        "de": "Zoroark",
+        "ko": "\uc870\ub85c\uc544\ud06c",
+        "ja": "\u30be\u30ed\u30a2\u30fc\u30af",
+        "zh_CN": "\u7d22\u7f57\u4e9a\u514b",
+        "zh_TW": "\u7d22\u7f85\u4e9e\u514b",
+        "it": "Zoroark",
+        "es": "Zoroark"
+      }
+    },
+    "Delphox": {
+      "codename": "655",
+      "locale": {
+        "fr": "Goupelin",
+        "de": "Fennexis",
+        "ko": "\ub9c8\ud3ed\uc2dc",
+        "ja": "\u30de\u30d5\u30a9\u30af\u30b7\u30fc",
+        "zh_CN": "\u5996\u706b\u7ea2\u72d0",
+        "zh_TW": "\u5996\u706b\u7d05\u72d0",
+        "it": "Delphox",
+        "es": "Delphox"
+      }
+    },
+    "Greninja": {
+      "codename": "658",
+      "locale": {
+        "fr": "Amphinobi",
+        "de": "Quajutsu",
+        "ko": "\uac1c\uad74\ub2cc\uc790",
+        "ja": "\u30b2\u30c3\u30b3\u30a6\u30ac",
+        "zh_CN": "\u7532\u8d3a\u5fcd\u86d9",
+        "zh_TW": "\u7532\u8cc0\u5fcd\u86d9",
+        "it": "Greninja",
+        "es": "Greninja"
+      }
+    },
+    "Talonflame": {
+      "codename": "663",
+      "locale": {
+        "fr": "Flambusard",
+        "de": "Fiaro",
+        "ko": "\ud30c\uc774\uc5b4\ub85c",
+        "ja": "\u30d5\u30a1\u30a4\u30a2\u30ed\u30fc",
+        "zh_CN": "\u70c8\u7bad\u9e70",
+        "zh_TW": "\u70c8\u7bad\u9df9",
+        "it": "Talonflame",
+        "es": "Talonflame"
+      }
+    },
+    "Aegislash": {
+      "codename": "681",
+      "locale": {
+        "fr": "Exagide",
+        "de": "Durengard",
+        "ko": "\ud0ac\uac00\ub974\ub3c4",
+        "ja": "\u30ae\u30eb\u30ac\u30eb\u30c9",
+        "zh_CN": "\u575a\u76fe\u5251\u602a",
+        "zh_TW": "\u5805\u76fe\u528d\u602a",
+        "it": "Aegislash",
+        "es": "Aegislash"
+      }
+    },
+    "Sylveon": {
+      "codename": "700",
+      "locale": {
+        "fr": "Nymphali",
+        "de": "Feelinara",
+        "ko": "\ub2d8\ud53c\uc544",
+        "ja": "\u30cb\u30f3\u30d5\u30a3\u30a2",
+        "zh_CN": "\u4ed9\u5b50\u4f0a\u5e03",
+        "zh_TW": "\u4ed9\u5b50\u4f0a\u5e03",
+        "it": "Sylveon",
+        "es": "Sylveon"
+      }
+    },
+    "Goodra": {
+      "codename": "706",
+      "locale": {
+        "fr": "Muplodocus",
+        "de": "Viscogon",
+        "ko": "\ubbf8\ub044\ub798\uace4",
+        "ja": "\u30cc\u30e1\u30eb\u30b4\u30f3",
+        "zh_CN": "\u9ecf\u7f8e\u9f99",
+        "zh_TW": "\u9ecf\u7f8e\u9f8d",
+        "it": "Goodra",
+        "es": "Goodra"
+      }
+    },
+    "Trevenant": {
+      "codename": "709",
+      "locale": {
+        "fr": "Dess\u00e9liande",
+        "de": "Trombork",
+        "ko": "\ub300\ub85c\ud2b8",
+        "ja": "\u30aa\u30fc\u30ed\u30c3\u30c8",
+        "zh_CN": "\u673d\u6728\u5996",
+        "zh_TW": "\u673d\u6728\u5996",
+        "it": "Trevenant",
+        "es": "Trevenant"
+      }
+    },
+    "Hoopa": {
+      "codename": "720",
+      "locale": {
+        "fr": "Hoopa",
+        "de": "Hoopa",
+        "ko": "\ud6c4\ud30c",
+        "ja": "\u30d5\u30fc\u30d1",
+        "zh_CN": "\u80e1\u5e15",
+        "zh_TW": "\u80e1\u5e15",
+        "it": "Hoopa",
+        "es": "Hoopa"
+      }
+    },
+    "Decidueye": {
+      "codename": "724",
+      "locale": {
+        "fr": "Arch\u00e9duc",
+        "de": "Silvarro",
+        "ko": "\ubaa8\ud06c\ub098\uc774\ud37c",
+        "ja": "\u30b8\u30e5\u30ca\u30a4\u30d1\u30fc",
+        "zh_CN": "\u72d9\u5c04\u6811\u67ad",
+        "zh_TW": "\u72d9\u5c04\u6a39\u689f",
+        "it": "Decidueye",
+        "es": "Decidueye"
+      }
+    },
+    "Tsareena": {
+      "codename": "763",
+      "locale": {
+        "fr": "Sucreine",
+        "de": "Fruyal",
+        "ko": "\ub2ec\ucf54\ud038",
+        "ja": "\u30a2\u30de\u30fc\u30b8\u30e7",
+        "zh_CN": "\u751c\u51b7\u7f8e\u540e",
+        "zh_TW": "\u751c\u51b7\u7f8e\u540e",
+        "it": "Tsareena",
+        "es": "Tsareena"
+      }
+    },
+    "Comfey": {
+      "codename": "764",
+      "locale": {
+        "fr": "Gu\u00e9rilande",
+        "de": "Curelei",
+        "ko": "\ud050\uc544\ub9c1",
+        "ja": "\u30ad\u30e5\u30ef\u30ef\u30fc",
+        "zh_CN": "\u82b1\u7597\u73af\u73af",
+        "zh_TW": "\u82b1\u7642\u74b0\u74b0",
+        "it": "Comfey",
+        "es": "Comfey"
+      }
+    },
+    "Buzzwole": {
+      "codename": "794",
+      "locale": {
+        "fr": "Mouscoto",
+        "de": "Masskito",
+        "ko": "\ub9e4\uc2dc\ubd95",
+        "ja": "\u30de\u30c3\u30b7\u30d6\u30fc\u30f3",
+        "zh_CN": "\u7206\u808c\u868a",
+        "zh_TW": "\u7206\u808c\u868a",
+        "it": "Buzzwole",
+        "es": "Buzzwole"
+      }
+    },
+    "Zeraora": {
+      "codename": "807",
+      "locale": {
+        "fr": "Zeraora",
+        "de": "Zeraora",
+        "ko": "\uc81c\ub77c\uc624\ub77c",
+        "ja": "\u30bc\u30e9\u30aa\u30e9",
+        "zh_CN": "\u6377\u62c9\u5965\u62c9",
+        "zh_TW": "\u6377\u62c9\u5967\u62c9",
+        "it": "Zeraora",
+        "es": "Zeraora"
+      }
+    },
+    "Cinderace": {
+      "codename": "815",
+      "locale": {
+        "fr": "Pyrobut",
+        "de": "Liberlo",
+        "ko": "\uc5d0\uc774\uc2a4\ubc88",
+        "ja": "\u30a8\u30fc\u30b9\u30d0\u30fc\u30f3",
+        "zh_CN": "\u95ea\u7130\u738b\u724c",
+        "zh_TW": "\u9583\u7130\u738b\u724c",
+        "it": "Cinderace",
+        "es": "Cinderace"
+      }
+    },
+    "Greedent": {
+      "codename": "820",
+      "locale": {
+        "fr": "Rongrigou",
+        "de": "Schlaraffel",
+        "ko": "\uc694\uc53d\ub9ac\uc2a4",
+        "ja": "\u30e8\u30af\u30d0\u30ea\u30b9",
+        "zh_CN": "\u85cf\u9971\u6817\u9f20",
+        "zh_TW": "\u85cf\u98fd\u6817\u9f20",
+        "it": "Greedent",
+        "es": "Greedent"
+      }
+    },
+    "Eldegoss": {
+      "codename": "830",
+      "locale": {
+        "fr": "Blancoton",
+        "de": "Cottomi",
+        "ko": "\ubc31\uc19c\ubaa8\uce74",
+        "ja": "\u30ef\u30bf\u30b7\u30e9\u30ac",
+        "zh_CN": "\u767d\u84ec\u84ec",
+        "zh_TW": "\u767d\u84ec\u84ec",
+        "it": "Eldegoss",
+        "es": "Eldegoss"
+      }
+    },
+    "Cramorant": {
+      "codename": "845",
+      "locale": {
+        "fr": "Nigosier",
+        "de": "Urgl",
+        "ko": "\uc73d\uc6b0\uc9c0",
+        "ja": "\u30a6\u30c3\u30a6",
+        "zh_CN": "\u53e4\u6708\u9e1f",
+        "zh_TW": "\u53e4\u6708\u9ce5",
+        "it": "Cramorant",
+        "es": "Cramorant"
+      }
+    },
+    "Duraludon": {
+      "codename": "884",
+      "locale": {
+        "fr": "Duralugon",
+        "de": "Duraludon",
+        "ko": "\ub450\ub784\ub8e8\ub3c8",
+        "ja": "\u30b8\u30e5\u30e9\u30eb\u30c9\u30f3",
+        "zh_CN": "\u94dd\u94a2\u9f99",
+        "zh_TW": "\u92c1\u92fc\u9f8d",
+        "it": "Duraludon",
+        "es": "Duraludon"
+      }
+    },
+    "Dragapult": {
+      "codename": "887",
+      "locale": {
+        "fr": "Lanssorien",
+        "de": "Katapuldra",
+        "ko": "\ub4dc\ub798\ud384\ud2b8",
+        "ja": "\u30c9\u30e9\u30d1\u30eb\u30c8",
+        "zh_CN": "\u591a\u9f99\u5df4\u9c81\u6258",
+        "zh_TW": "\u591a\u9f8d\u5df4\u9b6f\u6258",
+        "it": "Dragapult",
+        "es": "Dragapult"
+      }
+    },
+    "Zacian": {
+      "codename": "888",
+      "locale": {
+        "fr": "Zacian",
+        "de": "Zacian",
+        "ko": "\uc790\uc2dc\uc548",
+        "ja": "\u30b6\u30b7\u30a2\u30f3",
+        "zh_CN": "\u82cd\u54cd",
+        "zh_TW": "\u84bc\u97ff",
+        "it": "Zacian",
+        "es": "Zacian"
+      }
+    },
+    "Urshifu": {
+      "codename": "892",
+      "locale": {
+        "fr": "Shifours",
+        "de": "Wulaosu",
+        "ko": "\uc6b0\ub77c\uc624\uc2a4",
+        "ja": "\u30a6\u30fc\u30e9\u30aa\u30b9",
+        "zh_CN": "\u6b66\u9053\u718a\u5e08",
+        "zh_TW": "\u6b66\u9053\u718a\u5e2b",
+        "it": "Urshifu",
+        "es": "Urshifu"
+      }
+    },
+    "Leafeon": {
+      "codename": "470",
+      "locale": {
+        "fr": "Phyllali",
+        "de": "Folipurba",
+        "ko": "\ub9ac\ud53c\uc544",
+        "ja": "\u30ea\u30fc\u30d5\u30a3\u30a2",
+        "zh_CN": "\u53f6\u4f0a\u5e03",
+        "zh_TW": "\u8449\u4f0a\u5e03",
+        "it": "Leafeon",
+        "es": "Leafeon"
+      }
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game",
+  "credits": "Icons from the Pokémon's most recent appearance in the Pokémon mainline series"
+}

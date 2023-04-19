@@ -57,33 +57,38 @@ class App extends React.Component {
                     width="50"
                     height="50"
                     alt=""
-                    style={{ marginRight: 16 }}
                   />
-                  <div
-                    style={{
-                      display: "flex",
-                      flexDirection: "column",
-                      alignItems: "flex-start",
-                    }}
-                  >
-                    <div style={{ fontSize: 24 }}>StreamHelperAssets</div>
-                    <div style={{ fontSize: 16 }}>
-                      Assets to use with TournamentStreamHelper!
-                    </div>
-                  </div>
                 </Navbar.Brand>
               </Link>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
-              <Navbar.Collapse id="basic-navbar-nav" class="text-right">
-                <Nav className="me-auto" style={{ alignItems: "center" }}>
+              <Navbar.Collapse id="basic-navbar-nav">
+                <Nav
+                  className="me-auto"
+                  style={{ alignItems: "center", width: "100%" }}
+                >
+                  <Nav.Link style={{ flexGrow: 1 }}>
+                    <div
+                      style={{
+                        display: "flex",
+                        flexDirection: "column",
+                        alignItems: "flex-start",
+                        flexGrow: 1,
+                        color: "white",
+                      }}
+                    >
+                      <div style={{ fontSize: 24 }}>StreamHelperAssets</div>
+                      <div style={{ fontSize: 16 }}>
+                        Assets to use with TournamentStreamHelper!
+                      </div>
+                    </div>
+                  </Nav.Link>
                   <Nav.Link
                     href={"https://github.com/joaorb64/StreamHelperAssets"}
                   >
                     View on GitHub
                   </Nav.Link>
                   <Nav.Link
-                    as={Link}
-                    to={"https://github.com/joaorb64/TournamentStreamHelper"}
+                    href={"https://github.com/joaorb64/StreamHelperAssets"}
                   >
                     <button type="button" class="btn btn-outline-warning">
                       Get TSH

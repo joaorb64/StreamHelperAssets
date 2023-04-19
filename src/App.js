@@ -83,7 +83,7 @@ class App extends React.Component {
                   </Nav.Link>
                   <Nav.Link
                     as={Link}
-                    to={"https://github.com/joaorb64/StreamHelperAssets"}
+                    to={"https://github.com/joaorb64/TournamentStreamHelper"}
                   >
                     <button type="button" class="btn btn-outline-warning">
                       Get TSH

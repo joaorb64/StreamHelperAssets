@@ -13,7 +13,9 @@ export default function AssetPack(props) {
   const { game, pack } = useParams();
   const [baseFiles, setBaseFiles] = useState(null);
   const [asset, setAsset] = useState(null);
-  const [imageSizes, setImageSizes] = useState({});
+  const [characterData, setCharacterData] = useState({});
+  const [gameFiles, setGameFiles] = useState([]);
+  const [skinSelection, setSkinSelection] = useState({});
 
   useEffect(() => {
     console.log(game);
@@ -65,6 +67,7 @@ export default function AssetPack(props) {
   };
 
   useEffect(() => {
+    setCharacterData({});
     if (asset && baseFiles) {
       let key = getAssetKey(asset);
 
@@ -80,53 +83,94 @@ export default function AssetPack(props) {
         .then((response) => response.json())
         .then((responseJson) => {
           console.log(responseJson);
+          setGameFiles(responseJson);
 
           let prefix = asset.prefix ? asset.prefix : "";
           let postfix = asset.postfix ? asset.postfix : "";
 
-          imageSizes[pack] = {};
+          let allData = {};
 
           Object.entries(baseFiles[key]).forEach(([name, charData]) => {
-            imageSizes[pack][charData.codename] = {};
+            allData[charData.codename] = charData;
+            allData[charData.codename].name = name;
 
             let characterAssets = responseJson.filter((entry) =>
               entry.name.startsWith(`${prefix}${charData.codename}${postfix}`)
             );
 
-            let file = characterAssets[0];
+            allData[charData.codename].images = {};
 
-            if (file) {
-              if (!file.name.endsWith("webm")) {
-                let img = new Image();
-                img.src = file.download_url;
+            for (const [i, image] of characterAssets.entries()) {
+              let data = {
+                src: image,
+              };
 
-                img.onload = () => {
-                  if (imageSizes[pack][charData.codename]) {
-                    imageSizes[pack][charData.codename].width =
-                      img.naturalWidth;
-                    imageSizes[pack][charData.codename].height =
-                      img.naturalHeight;
-                    imageSizes[pack][charData.codename].url = img.src;
-                    setImageSizes(imageSizes);
-                    forceUpdate();
-                    console.log(imageSizes);
-                  }
-                };
-              } else {
-                if (imageSizes[pack][charData.codename]) {
-                  imageSizes[pack][charData.codename].video = file.download_url;
-                  setImageSizes(imageSizes);
-                  forceUpdate();
+              let skinIndex = 0;
+
+              try {
+                let number = image.name.replace(
+                  `${prefix}${charData.codename}${postfix}`,
+                  ""
+                );
+                number = number.split(".")[0];
+                number = parseInt(number);
+                if (!isNaN(number)) skinIndex = number;
+              } catch (e) {
+                console.log(e);
+              }
+
+              if (asset.eyesights && asset.eyesights[charData.codename]) {
+                if (asset.eyesights[charData.codename][i]) {
+                  data.eyesight = asset.eyesights[charData.codename][i];
+                } else if (asset.eyesights[charData.codename][0]) {
+                  data.eyesight = asset.eyesights[charData.codename][0];
                 }
               }
+
+              data.width = 256;
+              data.height = 256;
+
+              allData[charData.codename].images[skinIndex] = data;
             }
+            skinSelection[charData.codename] = 0;
+            LoadAsset(charData, 0);
           });
+
+          setCharacterData(allData);
         })
         .catch((error) => {
           console.error(error);
         });
     }
   }, [asset, baseFiles, game, pack]);
+
+  const LoadAsset = (characterData, skin) => {
+    let file = characterData.images[skin];
+
+    if (file) {
+      if (!file.src.name.endsWith("webm")) {
+        let img = new Image();
+        img.src = file.src.download_url;
+
+        img.onload = () => {
+          if (characterData.images[skin]) {
+            characterData.images[skin].width = img.naturalWidth;
+            characterData.images[skin].height = img.naturalHeight;
+            characterData.images[skin].url = img.src;
+            // setCharacterData(data);
+            forceUpdate();
+            // console.log(data);
+          }
+        };
+      } else {
+        if (characterData.images[skin]) {
+          characterData.images[skin].video = file.src.download_url;
+          // setCharacterData(data);
+          forceUpdate();
+        }
+      }
+    }
+  };
 
   return (
     <div>
@@ -229,7 +273,7 @@ export default function AssetPack(props) {
         </ListGroup>
       ) : null}
 
-      {asset && baseFiles && imageSizes && imageSizes[pack] ? (
+      {asset && baseFiles && characterData ? (
         <div
           style={{
             display: "flex",
@@ -237,132 +281,191 @@ export default function AssetPack(props) {
             justifyContent: "center",
           }}
         >
-          {Object.entries(baseFiles[getAssetKey(asset)]).map(
-            ([name, charData]) => (
-              <div class="card">
-                <div class="card-body">
-                  {imageSizes[pack][charData.codename] != null ? (
-                    <>
-                      <h5 class="card-title">{name}</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">
-                        {charData.codename}
-                      </h6>
-                      <div class="card" style={{ overflow: "hidden" }}>
-                        <div
-                          style={{
-                            position: "relative",
-                            transformOrigin: "top left",
-                            transform: imageSizes[pack][charData.codename].video
-                              ? ""
-                              : "scale(" +
-                                Math.min(
-                                  256 /
-                                    imageSizes[pack][charData.codename].width,
-                                  256 /
-                                    imageSizes[pack][charData.codename].height
-                                ) +
-                                ")",
-                            width: 256,
-                            height: 256,
-                          }}
-                        >
+          {Object.entries(characterData).map(([codename, charData]) => (
+            <div class="card">
+              <div class="card-body">
+                {charData.name != null ? (
+                  <>
+                    <h5 class="card-title">{charData.name}</h5>
+                    <h6 class="card-subtitle text-muted">
+                      {charData.codename}
+                    </h6>
+                    {charData.images &&
+                      charData.images[skinSelection[charData.codename]] && (
+                        <div>
                           <div
-                            style={{
-                              top: 0,
-                              left: 0,
-                              width: imageSizes[pack][charData.codename].width,
-                              height:
-                                imageSizes[pack][charData.codename].height,
-                              position: "absolute",
-                            }}
+                            class="card mb-2 mt-2"
+                            style={{ overflow: "hidden" }}
                           >
-                            <img
-                              src={imageSizes[pack][charData.codename].url}
-                              style={{ position: "absolute", top: 0, left: 0 }}
-                            ></img>
-                            {imageSizes[pack][charData.codename].video ? (
-                              <video controls preload="metadata" width={256}>
-                                <source
-                                  src={
-                                    imageSizes[pack][charData.codename].video +
-                                    "#t=0"
-                                  }
-                                ></source>
-                              </video>
-                            ) : null}
-                            {asset.eyesights &&
-                            asset.eyesights[charData.codename] ? (
+                            <div
+                              style={{
+                                position: "relative",
+                                transformOrigin: "top left",
+                                transform: charData.images[
+                                  skinSelection[charData.codename]
+                                ]?.video
+                                  ? ""
+                                  : "scale(" +
+                                    Math.min(
+                                      256 /
+                                        charData.images[
+                                          skinSelection[charData.codename]
+                                        ].width,
+                                      256 /
+                                        charData.images[
+                                          skinSelection[charData.codename]
+                                        ].height
+                                    ) +
+                                    ")",
+                                width: 256,
+                                height: 256,
+                              }}
+                            >
                               <div
                                 style={{
-                                  position: "absolute",
                                   top: 0,
                                   left: 0,
-                                  width: "100%",
-                                  height: "100%",
-                                  pointerEvents: "none",
+                                  width:
+                                    charData.images[
+                                      skinSelection[charData.codename]
+                                    ]?.width,
+                                  height:
+                                    charData.images[
+                                      skinSelection[charData.codename]
+                                    ]?.height,
+                                  position: "absolute",
                                 }}
                               >
-                                <div
+                                <img
+                                  src={
+                                    charData.images[
+                                      skinSelection[charData.codename]
+                                    ].url
+                                  }
                                   style={{
-                                    left:
-                                      Object.values(
-                                        asset.eyesights[charData.codename]
-                                      )[0].x - 1,
-                                    width: 0,
-                                    height: "100%",
-                                    borderLeft: "3px solid red",
                                     position: "absolute",
+                                    top: 0,
+                                    left: 0,
                                   }}
-                                ></div>
-                                <div
-                                  style={{
-                                    top:
-                                      Object.values(
-                                        asset.eyesights[charData.codename]
-                                      )[0].y - 1,
-                                    width: "100%",
-                                    height: 0,
-                                    borderTop: "3px solid red",
-                                    position: "absolute",
-                                  }}
-                                ></div>
-                              </div>
-                            ) : null}
-                          </div>
-                        </div>
-                      </div>
-                      <p class="card-text mt-2">
-                        {asset.metadata && (
-                          <p class="card-subtitle text-muted">
-                            {asset.metadata.map((meta) => (
-                              <>
-                                {console.log(meta.values[charData.codename])}
-                                {meta.values[charData.codename] && (
-                                  <div>
-                                    {meta.title}:{" "}
-                                    {meta.values[charData.codename].value}
+                                ></img>
+                                {charData.images[
+                                  skinSelection[charData.codename]
+                                ].video ? (
+                                  <video
+                                    controls
+                                    preload="metadata"
+                                    width={256}
+                                  >
+                                    <source
+                                      src={
+                                        charData.images[
+                                          skinSelection[charData.codename]
+                                        ].video + "#t=0"
+                                      }
+                                    ></source>
+                                  </video>
+                                ) : null}
+                                {charData.images[
+                                  skinSelection[charData.codename]
+                                ].eyesight ? (
+                                  <div
+                                    style={{
+                                      position: "absolute",
+                                      top: 0,
+                                      left: 0,
+                                      width: "100%",
+                                      height: "100%",
+                                      pointerEvents: "none",
+                                    }}
+                                  >
+                                    <div
+                                      style={{
+                                        left:
+                                          charData.images[
+                                            skinSelection[charData.codename]
+                                          ].eyesight.x - 1,
+                                        width: 0,
+                                        height: "100%",
+                                        borderLeft: "3px solid red",
+                                        position: "absolute",
+                                      }}
+                                    ></div>
+                                    <div
+                                      style={{
+                                        top:
+                                          charData.images[
+                                            skinSelection[charData.codename]
+                                          ].eyesight.y - 1,
+                                        width: "100%",
+                                        height: 0,
+                                        borderTop: "3px solid red",
+                                        position: "absolute",
+                                      }}
+                                    ></div>
                                   </div>
-                                )}
-                              </>
-                            ))}
+                                ) : null}
+                              </div>
+                            </div>
+                          </div>
+                          <div class="btn-group btn-group-toggle">
+                            {Object.entries(charData.images || {}).map(
+                              ([skin, skinData], index) => (
+                                <button
+                                  type="button"
+                                  class={
+                                    "btn btn-primary" +
+                                    (skinSelection[charData.codename] == skin
+                                      ? " active"
+                                      : "")
+                                  }
+                                  onClick={() => {
+                                    skinSelection[charData.codename] = skin;
+                                    setSkinSelection(skinSelection);
+                                    LoadAsset(charData, skin);
+                                    forceUpdate();
+                                  }}
+                                >
+                                  {skin}
+                                </button>
+                              )
+                            )}
+                          </div>
+                          <p class="card-text mt-2">
+                            {asset.metadata && (
+                              <p class="card-subtitle text-muted">
+                                {asset.metadata.map((meta) => (
+                                  <>
+                                    {meta.values[charData.codename] && (
+                                      <div>
+                                        {meta.title}:{" "}
+                                        {meta.values[charData.codename].value}
+                                      </div>
+                                    )}
+                                  </>
+                                ))}
+                              </p>
+                            )}
+                            <a
+                              href={
+                                charData.images[
+                                  skinSelection[charData.codename]
+                                ].url
+                              }
+                              download
+                              target="_blank"
+                            >
+                              <span class="badge bg-primary">
+                                <FaDownload /> Download
+                              </span>
+                            </a>
                           </p>
-                        )}
-                        <a
-                          href={imageSizes[pack][charData.codename].url}
-                          download
-                          target="_blank"
-                        >
-                          <span class="badge bg-primary">
-                            <FaDownload /> Download
-                          </span>
-                        </a>
-                      </p>
-                    </>
-                  ) : null}
-                </div>
+                        </div>
+                      )}
+                  </>
+                ) : null}
               </div>
-            )
-          )}
+            </div>
+          ))}
         </div>
       ) : null}
     </div>

@@ -83,6 +83,15 @@ for game in games:
                 else:
                     files = oldAssets[game]["assets"][assetDir]["files"]
 
+                eyesightData = config.get("eyesights", {})
+
+                # When we're dealing with base_files,
+                # get eyesight data from base_files/icon config file instead
+                if assetDir == "base_files":
+                    with open("./games/"+game+"/"+assetDir+"/icon/config.json", 'r', encoding='utf-8') as iconConfig:
+                        sub_config = json.load(iconConfig)
+                        eyesightData = sub_config.get("eyesights", {})
+
                 list[game]["assets"][assetDir] = {
                     "name": config.get("name"),
                     "credits": config.get("credits"),
@@ -90,7 +99,7 @@ for game in games:
                     "files": files,
                     "version": config.get("version"),
                     "has_stage_data": len(config.get("stage_to_codename", {})) > 0,
-                    "has_eyesight_data": len(config.get("eyesights", {})) > 0
+                    "has_eyesight_data": len(eyesightData) > 0
                 }
 
                 with open(assetPath+"README.md", 'w', encoding='utf-8') as readme:
@@ -100,8 +109,8 @@ for game in games:
         except Exception as e:
             print(traceback.format_exc())
 
-with open('assets.json', 'w') as outfile:
+with open('assets.json', 'w', encoding="utf-8") as outfile:
     json.dump(list, outfile, indent=4, sort_keys=True)
 
-with open('last_versions.json', 'w') as outfile:
+with open('last_versions.json', 'w', encoding="utf-8") as outfile:
     json.dump(lastVersions, outfile, indent=4, sort_keys=True)

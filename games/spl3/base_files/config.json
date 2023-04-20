@@ -2524,7 +2524,7 @@
       "codename": "marooners"
     }
   },
-  "version": "3.01",
+  "version": "3.02",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
@@ -2540,5 +2540,117 @@
     "ko": {
       "name": "\uc2a4\ud50c\ub798\ud230 3"
     }
-  }
+  },
+  "preset_colors": [
+    {
+      "name": "Neon Blue",
+      "value": "1a1aae",
+      "force_opponent": "e38d24"
+    },
+    {
+      "name": "Carrot Orange",
+      "value": "e38d24",
+      "force_opponent": "1a1aae"
+    },
+    {
+      "name": "Android Green",
+      "value": "a0c937",
+      "force_opponent": "ba30b0"
+    },
+    {
+      "name": "Byzantine",
+      "value": "ba30b0",
+      "force_opponent": "a0c937"
+    },
+    {
+      "name": "June Bud",
+      "value": "becd41",
+      "force_opponent": "6325cd"
+    },
+    {
+      "name": "Grape",
+      "value": "6325cd",
+      "force_opponent": "becd41"
+    },
+    {
+      "name": "Vivid Red-Tangelo",
+      "value": "de6624",
+      "force_opponent": "343bc4"
+    },
+    {
+      "name": "Violet-Blue",
+      "value": "343bc4",
+      "force_opponent": "de6624"
+    },
+    {
+      "name": "Burnt Orange",
+      "value": "cd510a",
+      "force_opponent": "6e04b6"
+    },
+    {
+      "name": "Violet (RYB)",
+      "value": "6e04b6",
+      "force_opponent": "cd510a"
+    },
+    {
+      "name": "Telemagenta",
+      "value": "c12d74",
+      "force_opponent": "2cb721"
+    },
+    {
+      "name": "Yellow-Green (Color Wheel)",
+      "value": "2cb721",
+      "force_opponent": "c12d74"
+    },
+    {
+      "name": "Light Sea Green - 1",
+      "value": "1bbeab",
+      "force_opponent": "c43a6e"
+    },
+    {
+      "name": "Fuchsia Rose",
+      "value": "c43a6e",
+      "force_opponent": "1bbeab"
+    },
+    {
+      "name": "Light Sea Green - 2",
+      "value": "1ec0ad",
+      "force_opponent": "d74b31"
+    },
+    {
+      "name": "Cinnabar",
+      "force_opponent": "1ec0ad",
+      "value": "d74b31"
+    },
+    {
+      "name": "Mustard Yellow",
+      "force_opponent": "3a0ccd",
+      "value": "d0be08"
+    },
+    {
+      "name": "Interdimensional Blue",
+      "value": "3a0ccd",
+      "force_opponent": "d0be08"
+    },
+    {
+      "name": "Goldenrod",
+      "value": "ceb121",
+      "force_opponent": "9025c6"
+    },
+    {
+      "name": "Dark Orchid",
+      "force_opponent": "ceb121",
+      "value": "9025c6"
+    },
+    {
+      "name": "Color Lock - Yellow",
+      "force_opponent": "502eba",
+      "value": "caba21"
+    },
+    {
+      "name": "Color Lock - Blue",
+      "value": "502eba",
+      "force_opponent": "caba21"
+    }
+  ]
 }

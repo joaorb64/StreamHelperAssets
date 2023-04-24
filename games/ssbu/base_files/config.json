@@ -2409,7 +2409,7 @@
     },
     "Jungle Japes": {
       "smashgg_id": "347",
-      "codename": "Jungle Japes",
+      "codename": "DK_Lodge",
       "locale": {
         "fr": "Jungle des Jobards",
         "en_GB": "Jungle Japes",
@@ -2611,7 +2611,7 @@
     },
     "Mushroom Kingdom": {
       "smashgg_id": "360",
-      "codename": "Mushroom Kingdom",
+      "codename": "Mario_Past64",
       "locale": {
         "fr": "Royaume Champignon",
         "en_GB": "Mushroom Kingdom",
@@ -2630,7 +2630,7 @@
     },
     "Mushroom Kingdom II": {
       "smashgg_id": "361",
-      "codename": "Mushroom Kingdom II",
+      "codename": "Mario_PastUsa",
       "locale": {
         "fr": "Royaume Champignon II",
         "en_GB": "Mushroom Kingdom II",
@@ -2649,7 +2649,7 @@
     },
     "Mushroomy Kingdom": {
       "smashgg_id": "362",
-      "codename": "Mushroomy Kingdom",
+      "codename": "Mario_PastX",
       "locale": {
         "fr": "Royaume Champiternel",
         "en_GB": "Mushroomy Kingdom",
@@ -3618,6 +3618,6 @@
       }
     }
   },
-  "version": "1.09",
+  "version": "1.10",
   "description": "Base config to use this game."
 }

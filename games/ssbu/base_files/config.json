@@ -775,6 +775,40 @@
         "ko": "\ud3ec\ucf13\ubaac \ud2b8\ub808\uc774\ub108",
         "zh_TW": "\u5bf6\u53ef\u5922\u8a13\u7df4\u5bb6",
         "zh_CN": "\u5b9d\u53ef\u68a6\u8bad\u7ec3\u5bb6"
+      },
+      "skin_name": {
+        "1": {
+          "locale": {
+            "es": "Entrenadora Pokémon",
+            "fr": "Dresseuse de Pokémon",
+            "de": "Pokémon-Trainerin",
+            "it": "Allenatrice di Pokémon"
+          }
+        },
+        "3": {
+          "locale": {
+            "es": "Entrenadora Pokémon",
+            "fr": "Dresseuse de Pokémon",
+            "de": "Pokémon-Trainerin",
+            "it": "Allenatrice di Pokémon"
+          }
+        },
+        "5": {
+          "locale": {
+            "es": "Entrenadora Pokémon",
+            "fr": "Dresseuse de Pokémon",
+            "de": "Pokémon-Trainerin",
+            "it": "Allenatrice di Pokémon"
+          }
+        },
+        "7": {
+          "locale": {
+            "es": "Entrenadora Pokémon",
+            "fr": "Dresseuse de Pokémon",
+            "de": "Pokémon-Trainerin",
+            "it": "Allenatrice di Pokémon"
+          }
+        }
       }
     },
     "Diddy Kong": {
@@ -975,6 +1009,44 @@
         "ko": "\ub9c8\uc744 \uc8fc\ubbfc",
         "zh_TW": "\u6751\u6c11",
         "zh_CN": "\u6751\u6c11"
+      },
+      "skin_name": {
+        "1": {
+          "locale": {
+            "es": "Aldeana",
+            "fr": "Villageoise",
+            "fr_CA": "Habitante",
+            "de": "Bewohnerin",
+            "ru": "Жительница"
+          }
+        },
+        "3": {
+          "locale": {
+            "es": "Aldeana",
+            "fr": "Villageoise",
+            "fr_CA": "Habitante",
+            "de": "Bewohnerin",
+            "ru": "Жительница"
+          }
+        },
+        "5": {
+          "locale": {
+            "es": "Aldeana",
+            "fr": "Villageoise",
+            "fr_CA": "Habitante",
+            "de": "Bewohnerin",
+            "ru": "Жительница"
+          }
+        },
+        "7": {
+          "locale": {
+            "es": "Aldeana",
+            "fr": "Villageoise",
+            "fr_CA": "Habitante",
+            "de": "Bewohnerin",
+            "ru": "Жительница"
+          }
+        }
       }
     },
     "Mega Man": {
@@ -1015,6 +1087,36 @@
         "ko": "Wii Fit \ud2b8\ub808\uc774\ub108",
         "zh_TW": "Wii Fit\u6559\u7df4",
         "zh_CN": "Wii Fit\u6559\u7ec3"
+      },
+      "skin_name": {
+        "1": {
+          "locale": {
+            "es": "Entrenador De Wii Fit",
+            "fr": "Entraîneur Wii Fit",
+            "de": "Wii Fit-Trainer"
+          }
+        },
+        "3": {
+          "locale": {
+            "es": "Entrenador De Wii Fit",
+            "fr": "Entraîneur Wii Fit",
+            "de": "Wii Fit-Trainer"
+          }
+        },
+        "5": {
+          "locale": {
+            "es": "Entrenador De Wii Fit",
+            "fr": "Entraîneur Wii Fit",
+            "de": "Wii Fit-Trainer"
+          }
+        },
+        "7": {
+          "locale": {
+            "es": "Entrenador De Wii Fit",
+            "fr": "Entraîneur Wii Fit",
+            "de": "Wii Fit-Trainer"
+          }
+        }
       }
     },
     "Rosalina & Luma": {
@@ -1227,6 +1329,78 @@
         "ko": "\ucfe0\ud30c\uc8fc\ub2c8\uc5b4",
         "zh_TW": "\u5eab\u5df4Jr.",
         "zh_CN": "\u9177\u9738\u738bJr."
+      },
+      "skin_name": {
+        "1": {
+          "name": "Larry",
+          "locale": {
+            "ja": "ラリー",
+            "zh_CN": "拉里",
+            "zh_TW": "拉里",
+            "ko": "래리",
+            "ru": "Ларри"
+          }
+        },
+        "2": {
+          "name": "Roy",
+          "locale": {
+            "ja": "ロイ",
+            "zh_CN": "洛伊",
+            "zh_TW": "洛伊",
+            "ko": "로이",
+            "ru": "Рой"
+          }
+        },
+        "3": {
+          "name": "Wendy",
+          "locale": {
+            "ja": "ウェンディ",
+            "zh_CN": "温缇",
+            "zh_TW": "溫緹",
+            "ko": "웬디",
+            "ru": "Венди"
+          }
+        },
+        "4": {
+          "name": "Iggy",
+          "locale": {
+            "ja": "イギー",
+            "zh_TW": "伊吉",
+            "zh_CN": "伊吉",
+            "ko": "웬디",
+            "ru": "Игги"
+          }
+        },
+        "5": {
+          "name": "Morton",
+          "locale": {
+            "ja": "モートン",
+            "zh_CN": "莫顿",
+            "zh_TW": "莫顿",
+            "ko": "모톤",
+            "ru": "Мортон"
+          }
+        },
+        "6": {
+          "name": "Lemmy",
+          "locale": {
+            "ja": "レミー",
+            "zh_CN": "雷米",
+            "zh_TW": "雷米",
+            "ko": "레미",
+            "ru": "Лемми"
+          }
+        },
+        "7": {
+          "name": "Ludwig",
+          "locale": {
+            "ja": "ルドウィッグ",
+            "zh_CN": "洛德威格",
+            "zh_TW": "洛德威格",
+            "ko": "루드윅",
+            "ru": "Людвиг"
+          }
+        }
       }
     },
     "Duck Hunt": {
@@ -1607,6 +1781,40 @@
         "ko": "\ubca8\ub808\ud2b8 / \ubca8\ub808\uc2a4",
         "zh_TW": "\u8c9d\u96f7\u7279 / \u8c9d\u96f7\u7d72",
         "zh_CN": "\u8d1d\u96f7\u7279 / \u8d1d\u96f7\u4e1d"
+      },
+      "skin_name": {
+        "1": {
+          "locale": {
+            "ja": "ベレス",
+            "zh_CN": "贝雷丝",
+            "zh_TW": "貝雷絲",
+            "ko": "벨레스"
+          }
+        },
+        "3": {
+          "locale": {
+            "ja": "ベレス",
+            "zh_CN": "贝雷丝",
+            "zh_TW": "貝雷絲",
+            "ko": "벨레스"
+          }
+        },
+        "5": {
+          "locale": {
+            "ja": "ベレス",
+            "zh_CN": "贝雷丝",
+            "zh_TW": "貝雷絲",
+            "ko": "벨레스"
+          }
+        },
+        "7": {
+          "locale": {
+            "ja": "ベレス",
+            "zh_CN": "贝雷丝",
+            "zh_TW": "貝雷絲",
+            "ko": "벨레스"
+          }
+        }
       }
     },
     "Min Min": {
@@ -1631,7 +1839,61 @@
     },
     "Steve": {
       "smashgg_name": "Steve",
-      "codename": "pickel"
+      "codename": "pickel",
+      "skin_name": {
+        "1": {
+          "name": "Alex",
+          "locale": {
+            "ja": "アレックス",
+            "zh_CN": "艾莉克斯",
+            "zh_TW": "愛莉克斯",
+            "ko": "알렉스",
+            "ru": "Алекс"
+          }
+        },
+        "3": {
+          "name": "Alex",
+          "locale": {
+            "ja": "アレックス",
+            "zh_CN": "艾莉克斯",
+            "zh_TW": "愛莉克斯",
+            "ko": "알렉스",
+            "ru": "Алекс"
+          }
+        },
+        "5": {
+          "name": "Alex",
+          "locale": {
+            "ja": "アレックス",
+            "zh_CN": "艾莉克斯",
+            "zh_TW": "愛莉克斯",
+            "ko": "알렉스",
+            "ru": "Алекс"
+          }
+        },
+        "6": {
+          "name": "Zombie",
+          "locale": {
+            "es": "Zombi",
+            "it": "Zombi",
+            "ru": "Зомби",
+            "ja": "ゾンビ",
+            "zh_CN": "僵尸",
+            "zh_TW": "殭屍",
+            "ko": "좀비"
+          }
+        },
+        "7": {
+          "name": "Enderman",
+          "locale": {
+            "ja": "エンダーマン",
+            "zh_CN": "末影人",
+            "zh_TW": "終界使者",
+            "ko": "엔더맨",
+            "ru": "Эндермен"
+          }
+        }
+      }
     },
     "Sephiroth": {
       "smashgg_name": "Sephiroth",
@@ -3618,6 +3880,6 @@
       }
     }
   },
-  "version": "1.10",
+  "version": "1.11",
   "description": "Base config to use this game."
 }

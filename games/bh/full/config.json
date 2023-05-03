@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "@Sand_Wic for extracting the assets from the game",
-  "version": "0.1",
+  "version": "0.2",
   "eyesights": {
     "Aang": {
       "0": {
@@ -627,6 +627,30 @@
       "0": {
         "x": 1148,
         "y": 623
+      }
+    },
+    "Thea": {
+      "0": {
+        "x": 1148,
+        "y": 698
+      }
+    },
+    "Amethyst": {
+      "0": {
+        "x": 887,
+        "y": 896
+      }
+    },
+    "Michelangelo": {
+      "0": {
+        "x": 1112,
+        "y": 794
+      }
+    },
+    "Po": {
+      "0": {
+        "x": 803,
+        "y": 710
       }
     }
   },

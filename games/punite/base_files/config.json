@@ -704,10 +704,23 @@
         "it": "Leafeon",
         "es": "Leafeon"
       }
+    },
+    "Inteleon": {
+      "codename": "818",
+      "locale": {
+        "fr": "L\u00e9zargus",
+        "de": "Intelleon",
+        "ko": "\uc778\ud154\ub9ac\ub808\uc628",
+        "ja": "\u30a4\u30f3\u30c6\u30ec\u30aa\u30f3",
+        "zh_CN": "\u5343\u9762\u907f\u5f79",
+        "zh_TW": "\u5343\u9762\u907f\u5f79",
+        "it": "Inteleon",
+        "es": "Inteleon"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.1",
   "description": "Base config to use this game",
   "credits": "Icons from the Pokémon's most recent appearance in the Pokémon mainline series"
 }

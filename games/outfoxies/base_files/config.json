@@ -1,0 +1,32 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bernard White": {
+      "codename": "BernardWhite"
+    },
+    "Betty Doe": {
+      "codename": "BettyDoe"
+    },
+    "Danny and Demi": {
+      "codename": "DannyandDemi"
+    },
+    "Dweeb": {
+      "codename": "Dweeb"
+    },
+    "Eve": {
+      "codename": "Eve"
+    },
+    "John Smith": {
+      "codename": "JohnSmith"
+    },
+    "Professor Ching": {
+      "codename": "ProfessorChing"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "The Outfoxies",
+  "smashgg_game_id": 48474,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

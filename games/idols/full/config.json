@@ -1,0 +1,64 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "Pixel ",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "1.0",
+  "uncropped_edge": [
+    "u","d","l","r"
+  ],
+  "eyesights": {
+    "Aki": {
+      "0": {
+        "x": 1504,
+        "y": 792
+      }
+    },
+    "Ayame": {
+      "0": {
+        "x": 1456,
+        "y": 1009
+      }
+    },
+    "Botan": {
+      "0": {
+        "x": 1356,
+        "y": 733
+      }
+    },
+    "Coco": {
+      "0": {
+        "x": 1510,
+        "y": 516
+      }
+    },
+    "Fubuki": {
+      "0": {
+        "x": 1594,
+        "y": 1028
+      }
+    },
+    "Korone": {
+      "0": {
+        "x": 1396,
+        "y": 878
+      }
+    },
+    "Sora": {
+      "0": {
+        "x": 1440,
+        "y": 922
+      }
+    },
+    "Suisei": {
+      "0": {
+        "x": 1182,
+        "y": 872
+      }
+    }
+  }
+}

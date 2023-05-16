@@ -28,21 +28,22 @@ def create_folder_structure():
     Path(special_path).mkdir(parents=True, exist_ok=True)
 
 
-def robust_request(link, timeout=30):
-    return_code = 404
-    while return_code != 200:
-        try:
-            response = requests.get(link, timeout=timeout)
-            return_code = response.status_code
-        except requests.exceptions.ConnectionError:
-            return robust_request(link)
-    return response
+def robust_request(link, timeout=30, recursion=30):
+    try:
+        response = requests.get(link, timeout=timeout)
+        return_code = response.status_code
+        if return_code != 200 and recursion > 0:
+            return robust_request(link, timeout, recursion-1)
+        else:
+            return response
+    except requests.exceptions.ConnectionError:
+        return robust_request(link, timeout, recursion-1)
 
 
 def generate_main_config_skeleton():
     description = "Base config to use this game."
     credits = ""
-    version = "3.0"
+    version = "4.0"
 
     game_id = 36202
 
@@ -114,6 +115,12 @@ def generate_main_config_skeleton():
             },
             "Manta Maria": {
                 "codename": "manta"
+            },
+            "Humpback Pump Track": {
+                "codename": "track"
+            },
+            "Barnacle & Dime": {
+                "codename": "track"
             }
         },
         "version": version,

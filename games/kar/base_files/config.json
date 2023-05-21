@@ -1,0 +1,77 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bulk Star": {
+      "codename": "BulkStar"
+    },
+    "Compact Star": {
+      "codename": "CompactStar"
+    },
+    "Dragoon": {
+      "codename": "Dragoon"
+    },
+    "Flight Warpstar": {
+      "codename": "FlightWarpstar"
+    },
+    "Formula Star": {
+      "codename": "FormulaStar"
+    },
+    "Free Star": {
+      "codename": "FreeStar"
+    },
+    "Hydra": {
+      "codename": "Hydra"
+    },
+    "Jet Star": {
+      "codename": "JetStar"
+    },
+    "King Dedede": {
+      "codename": "KingDedede"
+    },
+    "Meta Knight": {
+      "codename": "MetaKnight"
+    },
+    "Rex Wheelie": {
+      "codename": "RexWheelie"
+    },
+    "Rocket Star": {
+      "codename": "RocketStar"
+    },
+    "Shadow Star": {
+      "codename": "ShadowStar"
+    },
+    "Slick Star": {
+      "codename": "SlickStar"
+    },
+    "Steer Star": {
+      "codename": "SteerStar"
+    },
+    "Swerve Star": {
+      "codename": "SwerveStar"
+    },
+    "Turbo Star": {
+      "codename": "TurboStar"
+    },
+    "Wagon Star": {
+      "codename": "WagonStar"
+    },
+    "Warp Star": {
+      "codename": "WarpStar"
+    },
+    "Wheelie Bike": {
+      "codename": "WheelieBike"
+    },
+    "Wheelie Scooter": {
+      "codename": "WheelieScooter"
+    },
+    "Winged Star": {
+      "codename": "WingedStar"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Kirby Air Ride",
+  "smashgg_game_id": 5860,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -17,6 +17,8 @@ config_dict["stage_to_codename"] = new_config_dict["stage_to_codename"]
 for weapon in new_config_dict["character_to_codename"].keys():
     if weapon not in config_dict["character_to_codename"].keys():
         config_dict["character_to_codename"][weapon] = new_config_dict["character_to_codename"][weapon]
+    elif len(config_dict["character_to_codename"][weapon]["locale"]) == 0:
+        config_dict["character_to_codename"][weapon] = new_config_dict["character_to_codename"][weapon]
 
 with open(new_file_path, 'wt', encoding='utf-8') as new_config_file:
     new_config_file.write(json.dumps(config_dict, indent=2))

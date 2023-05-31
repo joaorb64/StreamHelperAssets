@@ -15,7 +15,7 @@ stage_path = f"{root_path}/stage_icon"
 sub_path = f"{root_path}/sub"
 special_path = f"{root_path}/special"
 
-lang_list = ["ja", "ko", "zh-cmn-Hant", "zh-cmn-Hans", "ru",
+lang_list = ["ja", "ko", "zh-cmn-Hant", "zh-cmn-Hans","zh-Hant", "zh-Hans", "ru",
              "fr", "nl", "de", "it", "es", "fr-ca", "es-es", "es-mx", "fr-fr"]
 
 
@@ -28,21 +28,22 @@ def create_folder_structure():
     Path(special_path).mkdir(parents=True, exist_ok=True)
 
 
-def robust_request(link, timeout=30):
-    return_code = 404
-    while return_code != 200:
-        try:
-            response = requests.get(link, timeout=timeout)
-            return_code = response.status_code
-        except requests.exceptions.ConnectionError:
-            return robust_request(link)
-    return response
+def robust_request(link, timeout=30, recursion=30):
+    try:
+        response = requests.get(link, timeout=timeout)
+        return_code = response.status_code
+        if return_code != 200 and recursion > 0:
+            return robust_request(link, timeout, recursion-1)
+        else:
+            return response
+    except requests.exceptions.ConnectionError:
+        return robust_request(link, timeout, recursion-1)
 
 
 def generate_main_config_skeleton():
     description = "Base config to use this game."
     credits = ""
-    version = "3.0"
+    version = "4.0"
 
     game_id = 36202
 
@@ -114,6 +115,12 @@ def generate_main_config_skeleton():
             },
             "Manta Maria": {
                 "codename": "manta"
+            },
+            "Humpback Pump Track": {
+                "codename": "track"
+            },
+            "Barnacle & Dime": {
+                "codename": "barnacle"
             }
         },
         "version": version,
@@ -305,9 +312,9 @@ for weapon_name in weapon_list.keys():
 
     for lang in lang_list:
         current_lang = lang
-        if lang == "zh-cmn-Hant":
+        if lang == "zh-cmn-Hant" or lang == "zh-Hant":
             current_lang = "zh_TW"
-        if lang == "zh-cmn-Hans":
+        if lang == "zh-cmn-Hans" or lang == "zh-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
             current_lang = "fr"
@@ -378,9 +385,9 @@ for weapon_name in weapon_list.keys():
 
     for lang in lang_list:
         current_lang = lang
-        if lang == "zh-cmn-Hant":
+        if lang == "zh-cmn-Hant" or lang == "zh-Hant":
             current_lang = "zh_TW"
-        if lang == "zh-cmn-Hans":
+        if lang == "zh-cmn-Hans" or lang == "zh-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
             current_lang = "fr"
@@ -426,9 +433,9 @@ for weapon_name in weapon_list.keys():
 
     for lang in lang_list:
         current_lang = lang
-        if lang == "zh-cmn-Hant":
+        if lang == "zh-cmn-Hant" or lang == "zh-Hant":
             current_lang = "zh_TW"
-        if lang == "zh-cmn-Hans":
+        if lang == "zh-cmn-Hans" or lang == "zh-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
             current_lang = "fr"
@@ -483,9 +490,9 @@ for stage_name in main_config["stage_to_codename"]:
 
     for lang in lang_list:
         current_lang = lang
-        if lang == "zh-cmn-Hant":
+        if lang == "zh-cmn-Hant" or lang == "zh-Hant":
             current_lang = "zh_TW"
-        if lang == "zh-cmn-Hans":
+        if lang == "zh-cmn-Hans" or lang == "zh-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
             current_lang = "fr"

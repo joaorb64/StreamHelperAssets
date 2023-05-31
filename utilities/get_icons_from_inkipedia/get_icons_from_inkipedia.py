@@ -120,7 +120,7 @@ def generate_main_config_skeleton():
                 "codename": "track"
             },
             "Barnacle & Dime": {
-                "codename": "track"
+                "codename": "barnacle"
             }
         },
         "version": version,

@@ -1,4 +1,5 @@
 import json
+from copy import deepcopy
 
 # Main weapons
 
@@ -39,7 +40,7 @@ for folder_key in folder_keys:
         if weapon not in config_dict["metadata"][0]["values"].keys():
             secondary_name = new_config_dict["metadata"][0]["values"][weapon]["value"]
             secondary_found = False
-            for old_weapon in config_dict["metadata"][0]["values"].keys():
+            for old_weapon in deepcopy(config_dict["metadata"][0]["values"]).keys():
                 if config_dict["metadata"][0]["values"][old_weapon]["value"] == secondary_name:
                     config_dict["metadata"][0]["values"][weapon] = {
                         "value" : secondary_name,

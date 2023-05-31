@@ -1206,14 +1206,34 @@
       "codename": "Z+FSplatCharger",
       "locale": {
         "ja": "\u30b9\u30d7\u30e9\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc\u30b3\u30e9\u30dc",
-        "ru": "\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb"
+        "ko": "\uc2a4\ud50c\ub7ab \ucc28\uc800 \uceec\ub798\ubc84",
+        "zh_TW": "\u65af\u666e\u62c9\u84c4\u529b\u72d9\u64ca\u69cd \u806f\u540d",
+        "zh_CN": "\u65af\u666e\u62c9\u84c4\u529b\u72d9\u51fb\u67aa \u8054\u540d",
+        "ru": "\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb",
+        "nl": "Zekkofin Bloplader",
+        "de": "Zekkori-Klecks-Konzentrator",
+        "it": "Splatter a carica logo",
+        "fr_CA": "Concentraceur E+A",
+        "es": "Cargatintas Ezkkor",
+        "es_LA": "Cargatintas ZyS",
+        "fr": "Concentraceur E+F"
       }
     },
     "Z+F Splatterscope": {
       "codename": "Z+FSplatterscope",
       "locale": {
         "ja": "\u30b9\u30d7\u30e9\u30b9\u30b3\u30fc\u30d7\u30b3\u30e9\u30dc",
-        "ru": "\u0421\u043d\u0430\u0439\u043f\u043e\u043a\u0440\u0430\u0441 \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb"
+        "ko": "\uc2a4\ud50c\ub7ab \uc2a4\ucf54\ud504 \uceec\ub798\ubc84",
+        "zh_TW": "\u65af\u666e\u62c9\u6e96\u661f\u69cd \u806f\u540d",
+        "zh_CN": "\u65af\u666e\u62c9\u51c6\u661f\u67aa \u8054\u540d",
+        "ru": "\u0421\u043d\u0430\u0439\u043f\u043e\u043a\u0440\u0430\u0441 \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb",
+        "nl": "Zekkofin Schelpschutter",
+        "de": "Zekkori-Ziel-Konzentrator",
+        "it": "Splatter con mirino logo",
+        "fr_CA": "Concentraceur zoom E+A",
+        "es": "Cargatintas con mira Ezkkor",
+        "es_LA": "Telecargatintas ZyS",
+        "fr": "Concentraceur zoom E+F"
       }
     },
     "Zink Mini Splatling": {

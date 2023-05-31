@@ -15,7 +15,7 @@ stage_path = f"{root_path}/stage_icon"
 sub_path = f"{root_path}/sub"
 special_path = f"{root_path}/special"
 
-lang_list = ["ja", "ko", "zh-cmn-Hant", "zh-cmn-Hans", "ru",
+lang_list = ["ja", "ko", "zh-cmn-Hant", "zh-cmn-Hans","zh-Hant", "zh-Hans", "ru",
              "fr", "nl", "de", "it", "es", "fr-ca", "es-es", "es-mx", "fr-fr"]
 
 
@@ -312,9 +312,9 @@ for weapon_name in weapon_list.keys():
 
     for lang in lang_list:
         current_lang = lang
-        if lang == "zh-cmn-Hant":
+        if lang == "zh-cmn-Hant" or lang == "zh-Hant":
             current_lang = "zh_TW"
-        if lang == "zh-cmn-Hans":
+        if lang == "zh-cmn-Hans" or lang == "zh-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
             current_lang = "fr"
@@ -385,9 +385,9 @@ for weapon_name in weapon_list.keys():
 
     for lang in lang_list:
         current_lang = lang
-        if lang == "zh-cmn-Hant":
+        if lang == "zh-cmn-Hant" or lang == "zh-Hant":
             current_lang = "zh_TW"
-        if lang == "zh-cmn-Hans":
+        if lang == "zh-cmn-Hans" or lang == "zh-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
             current_lang = "fr"
@@ -433,9 +433,9 @@ for weapon_name in weapon_list.keys():
 
     for lang in lang_list:
         current_lang = lang
-        if lang == "zh-cmn-Hant":
+        if lang == "zh-cmn-Hant" or lang == "zh-Hant":
             current_lang = "zh_TW"
-        if lang == "zh-cmn-Hans":
+        if lang == "zh-cmn-Hans" or lang == "zh-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
             current_lang = "fr"
@@ -490,9 +490,9 @@ for stage_name in main_config["stage_to_codename"]:
 
     for lang in lang_list:
         current_lang = lang
-        if lang == "zh-cmn-Hant":
+        if lang == "zh-cmn-Hant" or lang == "zh-Hant":
             current_lang = "zh_TW"
-        if lang == "zh-cmn-Hans":
+        if lang == "zh-cmn-Hans" or lang == "zh-Hans":
             current_lang = "zh_CN"
         if lang == "fr-fr":
             current_lang = "fr"

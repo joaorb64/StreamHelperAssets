@@ -6,8 +6,8 @@
   "type": [
     "full"
   ],
-  "credits": "Placeholder art for Inteleon and Leafeon from Pokémon Home",
-  "version": "1.1",
+  "credits": "",
+  "version": "1.11",
   "uncropped_edge": [
     "u",
     "r",
@@ -335,14 +335,14 @@
     },
     "818": {
       "0": {
-        "x": 215,
-        "y": 123
+        "x": 299,
+        "y": 180
       }
     },
     "470": {
       "0": {
-        "x": 147,
-        "y": 283
+        "x": 207,
+        "y": 166
       }
     }
   }

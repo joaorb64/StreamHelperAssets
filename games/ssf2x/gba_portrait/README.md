@@ -1,10 +1,10 @@
-# Artwork
+# GBA Portraits
 
 ## Description: 
 
-Character artwork
+Character portraits from Super Street Fighter 2 Turbo: Revival (GBA)
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+
 

@@ -1,0 +1,118 @@
+{
+  "name": "GBA Portraits",
+  "description": "Character portraits from Super Street Fighter 2 Turbo: Revival (GBA)",
+  "prefix": "ssf2x-",
+  "postfix": "_",
+  "type": [
+    "portrait"
+  ],
+  "credits": "",
+  "version": "1.0",
+  "uncropped_edge": [
+    "u"
+  ],
+  "eyesights": {
+    "balrog": {
+      "0": {
+        "x": 83,
+        "y": 235
+      }
+    },
+    "blanka": {
+      "0": {
+        "x": 164,
+        "y": 234
+      }
+    },
+    "cammy": {
+      "0": {
+        "x": 345,
+        "y": 217
+      }
+    },
+    "chunli": {
+      "0": {
+        "x": 165,
+        "y": 231
+      }
+    },
+    "deejay": {
+      "0": {
+        "x": 52,
+        "y": 204
+      }
+    },
+    "dhalsim": {
+      "0": {
+        "x": 77,
+        "y": 149
+      }
+    },
+    "ehonda": {
+      "0": {
+        "x": 172,
+        "y": 248
+      }
+    },
+    "feilong": {
+      "0": {
+        "x": 41,
+        "y": 208
+      }
+    },
+    "gouki": {
+      "0": {
+        "x": 77,
+        "y": 270
+      }
+    },
+    "guile": {
+      "0": {
+        "x": 172,
+        "y": 220
+      }
+    },
+    "ken": {
+      "0": {
+        "x": 247,
+        "y": 218
+      }
+    },
+    "mbison": {
+      "0": {
+        "x": 214,
+        "y": 168
+      }
+    },
+    "ryu": {
+      "0": {
+        "x": 160,
+        "y": 221
+      }
+    },
+    "sagat": {
+      "0": {
+        "x": 87,
+        "y": 164
+      }
+    },
+    "thawk": {
+      "0": {
+        "x": 209,
+        "y": 169
+      }
+    },
+    "vega": {
+      "0": {
+        "x": 100,
+        "y": 219
+      }
+    },
+    "zangief": {
+      "0": {
+        "x": 118,
+        "y": 186
+      }
+    }
+  }
+}

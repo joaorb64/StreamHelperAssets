@@ -105,7 +105,7 @@
         "ja": "\u30d6\u30e9\u30c3\u30af\u30fb\u30c0\u30ea\u30a2"
       }
     },
-    "Bloody Marie": {
+    "Marie": {
       "codename": "Marie",
       "locale": {
         "ja": "\u30d6\u30e9\u30c3\u30c7\u30a3\u30fc\u30fb\u30de\u30ea\u30fc"
@@ -113,7 +113,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.21",
+  "version": "1.22",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Skullgirls)",
   "ratio_game": true

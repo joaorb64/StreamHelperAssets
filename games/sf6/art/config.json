@@ -1,0 +1,120 @@
+{
+  "name": "New Challenger Artwork",
+  "description": "Character Artwork seen in custom \"Here comes a new challenger\" screens and the World Tour opening cinematic",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "art"
+  ],
+  "version": "1.0",
+  "eyesights": {
+    "ChunLi": {
+      "0": {
+        "x": 427,
+        "y": 357
+      }
+    },
+    "Jamie": {
+      "0": {
+        "x": 854,
+        "y": 1197
+      }
+    },
+    "Luke": {
+      "0": {
+        "x": 1051,
+        "y": 796
+      }
+    },
+    "Ryu": {
+      "0": {
+        "x": 1205,
+        "y": 210
+      }
+    },
+    "Guile": {
+      "0": {
+        "x": 1370,
+        "y": 403
+      }
+    },
+    "Juri": {
+      "0": {
+        "x": 1518,
+        "y": 449
+      }
+    },
+    "Kimberly": {
+      "0": {
+        "x": 1743,
+        "y": 509
+      }
+    },
+    "Ken": {
+      "0": {
+        "x": 476,
+        "y": 226
+      }
+    },
+    "Honda": {
+      "0": {
+        "x": 1325,
+        "y": 514
+      }
+    },
+    "Dhalsim": {
+      "0": {
+        "x": 1433,
+        "y": 229
+      }
+    },
+    "Blanka": {
+      "0": {
+        "x": 694,
+        "y": 504
+      }
+    },
+    "JP": {
+      "0": {
+        "x": 1811,
+        "y": 684
+      }
+    },
+    "Marisa": {
+      "0": {
+        "x": 462,
+        "y": 160
+      }
+    },
+    "Manon": {
+      "0": {
+        "x": 989,
+        "y": 247
+      }
+    },
+    "DeeJay": {
+      "0": {
+        "x": 1512,
+        "y": 90
+      }
+    },
+    "Cammy": {
+      "0": {
+        "x": 1330,
+        "y": 453
+      }
+    },
+    "Lily": {
+      "0": {
+        "x": 1530,
+        "y": 1310
+      }
+    },
+    "Zangief": {
+      "0": {
+        "x": 938,
+        "y": 207
+      }
+    }
+  }
+}

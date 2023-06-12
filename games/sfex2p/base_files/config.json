@@ -1,0 +1,83 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Area": {
+      "codename": "Area"
+    },
+    "Blanka": {
+      "codename": "Blanka"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Jack": {
+      "codename": "CrackerJack"
+    },
+    "Darun Mister": {
+      "codename": "DarunMister"
+    },
+    "Dhalsim": {
+      "codename": "Dhalsim"
+    },
+    "Doctrine Dark": {
+      "codename": "DoctrineDark"
+    },
+    "Garuda": {
+      "codename": "Garuda"
+    },
+    "Guile": {
+      "codename": "Guile"
+    },
+    "Hayate": {
+      "codename": "Hayate"
+    },
+    "Hokuto": {
+      "codename": "Hokuto"
+    },
+    "Kairi": {
+      "codename": "Kairi"
+    },
+    "Ken": {
+      "codename": "Ken"
+    },
+    "M. Bison": {
+      "codename": "MBison"
+    },
+    "Nanase": {
+      "codename": "Nanase"
+    },
+    "Pullum Purna": {
+      "codename": "PullumPurna"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sagat": {
+      "codename": "Sagat"
+    },
+    "Shadowgeist": {
+      "codename": "ShadowGeist"
+    },
+    "Sharon": {
+      "codename": "Sharon"
+    },
+    "Skullomania": {
+      "codename": "Skullomania"
+    },
+    "Vega": {
+      "codename": "Vega"
+    },
+    "Vulcano Rosso": {
+      "codename": "VulcanoRosso"
+    },
+    "Zangief": {
+      "codename": "Zangief"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Street Fighter EX2 Plus",
+  "smashgg_game_id": 17734,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

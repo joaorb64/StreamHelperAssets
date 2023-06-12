@@ -1,0 +1,22 @@
+{
+  "prefix": "icon_",
+  "postfix": "_",
+  "type": [
+    "icon"
+  ],
+  "version": "1.0",
+  "rescaling_factor": {
+    "Ryu": {
+      "0": 0.5
+    },
+    "Garuda": {
+      "0": 0.5
+    },
+    "Hokuto": {
+      "0": 0.5
+    },
+    "Ken": {
+      "0": 0.5
+    }
+  }
+}

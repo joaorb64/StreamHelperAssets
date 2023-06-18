@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "p4au"
+game_codename = "killerinstinct"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

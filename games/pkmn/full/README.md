@@ -6,6 +6,7 @@ Pokémon Home sprites
 
 ## Credits: 
 
-Placeholder Renders for Scarlet/Violet, Colsplay Pikachu from Serebii (https://www.serebii.net/pokedex-sv/)
+Renders for Pikachu-Cosplay from Serebii, nileplumb
 Render for Pichu-Spiky from Super Smash Bros. Ultimate
+Render for Eternal Floette by TheAdorableOshawott
 

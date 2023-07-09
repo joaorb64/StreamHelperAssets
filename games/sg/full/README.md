@@ -6,6 +6,5 @@ Character portraits
 
 ## Credits: 
 
-Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Skullgirls)
-@MathiasWolfbrok for cropping
+Assets ripped from Skullgirls Wiki (https://skullgirls.fandom.com/wiki/Skullgirls)
 

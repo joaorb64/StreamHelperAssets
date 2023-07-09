@@ -6,5 +6,5 @@ Character portraits
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+Ripped from Blazblue Wiki (https://blazblue.wiki/wiki/BlazBlue:_Cross_Tag_Battle)
 

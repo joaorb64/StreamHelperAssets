@@ -6,5 +6,5 @@ Character portraits
 
 ## Credits: 
 
-
+Files ripped from Dustloop Wiki (https://www.dustloop.com/w/DBFZ)
 

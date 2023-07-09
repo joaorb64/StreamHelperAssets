@@ -1,67 +1,89 @@
 {
-  "challonge_game_id": null,
+  "challonge_game_id": 293490,
   "character_to_codename": {
     "Chun-Li": {
-      "codename": "ChunLi"
+      "codename": "ChunLi",
+      "smashgg_name": "Chun-Li"
     },
     "Jamie": {
-      "codename": "Jamie"
+      "codename": "Jamie",
+      "smashgg_name": "Jamie"
     },
     "Luke": {
-      "codename": "Luke"
+      "codename": "Luke",
+      "smashgg_name": "Luke"
     },
     "Ryu": {
-      "codename": "Ryu"
+      "codename": "Ryu",
+      "smashgg_name": "Ryu"
     },
     "Guile": {
-      "codename": "Guile"
+      "codename": "Guile",
+      "smashgg_name": "Guile"
     },
     "Kimberly": {
-      "codename": "Kimberly"
+      "codename": "Kimberly",
+      "smashgg_name": "Kimberly"
     },
     "Juri": {
-      "codename": "Juri"
+      "codename": "Juri",
+      "smashgg_name": "Juri"
     },
     "Blanka": {
-      "codename": "Blanka"
+      "codename": "Blanka",
+      "smashgg_name": "Blanka"
     },
     "E. Honda": {
-      "codename": "Honda"
+      "codename": "Honda",
+      "smashgg_name": "E. Honda"
     },
     "Ken": {
-      "codename": "Ken"
+      "codename": "Ken",
+      "smashgg_name": "Ken"
     },
     "Dhalsim": {
-      "codename": "Dhalsim"
+      "codename": "Dhalsim",
+      "smashgg_name": "Dhalsim"
     },
     "JP": {
-      "codename": "JP"
+      "codename": "JP",
+      "smashgg_name": "JP"
     },
     "Marisa": {
-      "codename": "Marisa"
+      "codename": "Marisa",
+      "smashgg_name": "Marisa"
     },
     "Manon": {
-      "codename": "Manon"
+      "codename": "Manon",
+      "smashgg_name": "Manon"
     },
     "Dee Jay": {
-      "codename": "DeeJay"
+      "codename": "DeeJay",
+      "smashgg_name": "Dee Jay"
     },
     "Zangief": {
-      "codename": "Zangief"
+      "codename": "Zangief",
+      "smashgg_name": "Zangief"
     },
     "Lily": {
-      "codename": "Lily"
+      "codename": "Lily",
+      "smashgg_name": "Lily"
     },
     "Cammy": {
-      "codename": "Cammy"
+      "codename": "Cammy",
+      "smashgg_name": "Cammy"
+    },
+    "Rashid": {
+      "codename": "Rashid",
+      "smashgg_name": "Rashid"
     }
   },
-  "credits": "",
-  "description": "Base config to use this game.",
+  "credits": "Rashid’s icon currently is a placeholder",
+  "description": "Base config to use this game. Outfit previews from the Street Fighter 6 Website (https://www.streetfighter.com/6/en-us/character/).",
   "name": "Street Fighter 6",
   "smashgg_game_id": 43868,
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.2",
   "locale": {
     "ja": {
       "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc6"

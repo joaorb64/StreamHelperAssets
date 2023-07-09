@@ -1,10 +1,10 @@
-# Portraits
+# Artwork
 
 ## Description: 
 
-Character Portraits
+Character Artwork
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+Ripped from the King of Fighters Portal (https://www.snk-corp.co.jp/us/games/kof-portal/characters/#kofxiii)
 

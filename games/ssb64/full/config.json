@@ -4,7 +4,7 @@
   "prefix": "",
   "postfix": "_",
   "credits": "@joao_shino for all crops",
-  "version": "1.3",
+  "version": "1.4",
   "type": "portrait",
   "eyesights": {
     "mario": {
@@ -13,7 +13,19 @@
         "y": 161
       }
     },
+    "metal_mario": {
+      "0": {
+        "x": 239,
+        "y": 161
+      }
+    },
     "donkey_kong": {
+      "0": {
+        "x": 259,
+        "y": 89
+      }
+    },
+    "giant_donkey_kong": {
       "0": {
         "x": 259,
         "y": 89
@@ -197,6 +209,42 @@
       "0": {
         "x": 285,
         "y": 132
+      }
+    },
+    "goemon": {
+      "0": {
+        "x": 239,
+        "y": 178
+      }
+    },
+    "giga_bowser": {
+      "0": {
+        "x": 266,
+        "y": 147
+      }
+    },
+    "mad_piano": {
+      "0": {
+        "x": 212,
+        "y": 123
+      }
+    },
+    "peppy": {
+      "0": {
+        "x": 266,
+        "y": 100
+      }
+    },
+    "slippy": {
+      "0": {
+        "x": 210,
+        "y": 80
+      }
+    },
+    "super_sonic": {
+      "0": {
+        "x": 203,
+        "y": 154
       }
     }
   }

@@ -1,0 +1,44 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Amy Rose": {
+      "codename": "AmyRose"
+    },
+    "Bark the Polar Bear": {
+      "codename": "BarkthePolarBear"
+    },
+    "Bean the Dynamite": {
+      "codename": "BeantheDynamite"
+    },
+    "Dr. Eggman": {
+      "codename": "DrEggman"
+    },
+    "Espio the Chameleon": {
+      "codename": "EspiotheChameleon"
+    },
+    "Fang the Sniper": {
+      "codename": "FangtheSniper"
+    },
+    "Honey the Cat": {
+      "codename": "HoneytheCat"
+    },
+    "Knuckles the Echidna": {
+      "codename": "KnucklestheEchidna"
+    },
+    "Metal Sonic": {
+      "codename": "MetalSonic"
+    },
+    "Miles \"Tails\" Prower": {
+      "codename": "MilesTailsPrower"
+    },
+    "Sonic the Hedgehog": {
+      "codename": "SonictheHedgehog"
+    }
+  },
+  "credits": "Honey icon by Nibroc-Rock",
+  "description": "Base config to use this game.",
+  "name": "Sonic the Fighters",
+  "smashgg_game_id": 9881,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 from genericpath import isfile
 import json
@@ -39,20 +39,21 @@ for game in games:
     except Exception as e:
         print(e)
         continue
-    
+
     assetDirs = [f for f in os.listdir(path) if os.path.isdir(path+f)]
     print("Assets: "+str(assetDirs))
 
     for assetDir in assetDirs:
         assetPath = "./games/"+game+"/"+assetDir+"/"
 
-        modified = True if float(config.get("version", 0)) > float(lastVersions.get(f'{game}.{assetDir}', 0)) else False
+        modified = True if float(config.get("version", 0)) > float(
+            lastVersions.get(f'{game}.{assetDir}', 0)) else False
 
         lastVersions[f'{game}.{assetDir}'] = config.get("version", 0)
 
         if modified:
             deleteOldZips = subprocess.Popen(
-                ["rm "+path+"*"+assetDir+".7z*"],
+                ["rm "+path+"/"+assetDir+".7z*"],
                 shell=True
             )
             deleteOldZips.communicate()
@@ -63,7 +64,7 @@ for game in games:
         try:
             with open(assetPath+"config.json", 'r', encoding='utf-8') as configFile:
                 config = json.load(configFile)
-                
+
                 files = {}
 
                 if modified:
@@ -74,7 +75,8 @@ for game in games:
                     ])
                     result = _zip.communicate()
 
-                    fileNames = [f for f in os.listdir("./games/"+game+"/") if f.startswith(game+"."+assetDir+".7z")]
+                    fileNames = [f for f in os.listdir(
+                        "./games/"+game+"/") if f.startswith(game+"."+assetDir+".7z")]
                     for f in fileNames:
                         files[f] = {
                             "name": f,
@@ -104,8 +106,10 @@ for game in games:
 
                 with open(assetPath+"README.md", 'w', encoding='utf-8') as readme:
                     readme.write("# "+config.get("name", "")+"\n\n")
-                    readme.write("## Description: \n\n"+config.get("description", "")+"\n\n")
-                    readme.write("## Credits: \n\n"+config.get("credits", "")+"\n\n")
+                    readme.write("## Description: \n\n" +
+                                 config.get("description", "")+"\n\n")
+                    readme.write("## Credits: \n\n" +
+                                 config.get("credits", "")+"\n\n")
         except Exception as e:
             print(traceback.format_exc())
 

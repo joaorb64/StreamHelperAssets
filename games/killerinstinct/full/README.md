@@ -6,5 +6,5 @@ Character Renders
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+Ripped from Killer Instinct Wiki (https://killerinstinct.fandom.com/wiki/Main_Page)
 

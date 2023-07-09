@@ -6,5 +6,5 @@ Character portraits
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+Files ripped from Dustloop Wiki (https://www.dustloop.com/w/BBCF)
 

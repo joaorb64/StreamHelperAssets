@@ -1,7 +1,7 @@
 import json
 
 
-file_path = "../../games/spl3/base_files/config.json"
+file_path = "./spl3/base_files/config.json"
 with open(file_path, 'rt', encoding='utf-8') as config_file:
     config_dict = json.loads(config_file.read())
 

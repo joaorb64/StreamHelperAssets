@@ -552,6 +552,48 @@
         "zh_CN": "\u5e1d\u5e1d\u5e1d\u5927\u738b"
       }
     },
+    "Goemon": {
+      "smashgg_name": "Goemon",
+      "codename": "goemon",
+      "locale": {
+        "ja": "ゴエモン"
+      }
+    },
+    "Mad Piano": {
+      "smashgg_name": "Mad Piano",
+      "codename": "mad_piano",
+      "locale": {}
+    },
+    "Giant Donkey Kong": {
+      "smashgg_name": "Giant Donkey Kong",
+      "codename": "giant_donkey_kong",
+      "locale": {}
+    },
+    "Giga Bowser": {
+      "smashgg_name": "Giga Bowser",
+      "codename": "giga_bowser",
+      "locale": {}
+    },
+    "Metal Mario": {
+      "smashgg_name": "Metal Mario",
+      "codename": "metal_mario",
+      "locale": {}
+    },
+    "Super Sonic": {
+      "smashgg_name": "Super Sonic",
+      "codename": "super_sonic",
+      "locale": {}
+    },
+    "Slippy": {
+      "smashgg_name": "Slippy",
+      "codename": "slippy",
+      "locale": {}
+    },
+    "Peppy": {
+      "smashgg_name": "Peppy",
+      "codename": "peppy",
+      "locale": {}
+    },
     "Random": {
       "smashgg_name": "Random Character",
       "codename": "random",
@@ -597,6 +639,9 @@
     "Deku Tree": {
       "codename": "deku_tree"
     },
+    "Deku Tree DL": {
+      "codename": "deku_tree_dl"
+    },
     "Delfino Plaza": {
       "codename": "delfino_plaza"
     },
@@ -626,6 +671,9 @@
     },
     "First Destination": {
       "codename": "first_destination"
+    },
+    "First Destination Remix": {
+      "codename": "first_destination_remix"
     },
     "Flat Zone 2": {
       "codename": "flat_zone_2"
@@ -669,9 +717,6 @@
     "Jungle Japes": {
       "codename": "jungle_japes"
     },
-    "Kalos Pok\u00e9mon League": {
-      "codename": "kalos_pokemon_league"
-    },
     "Kitchen Island": {
       "codename": "kitchen_island"
     },
@@ -708,7 +753,7 @@
     "Oshoe Castle": {
       "codename": "oshoe_castle"
     },
-    "Peach's Castle 2": {
+    "Peach's Castle II": {
       "codename": "peachs_castle_2"
     },
     "Peach's Castle": {
@@ -779,6 +824,9 @@
     },
     "Crateria": {
       "codename": "crateria"
+    },
+    "Crateria DL": {
+      "codename": "crateria_dl"
     },
     "Congo Jungle DL": {
       "codename": "congo_jungle_dl"
@@ -911,8 +959,20 @@
     },
     "Dragon King Remix": {
       "codename": "dragon_king_remix"
+    },
+    "Edo Town": {
+      "codename": "edo_town"
+    },
+    "Twilight City": {
+      "codename": "twilight_city"
+    },
+    "Melrode": {
+      "codename": "melrode"
+    },
+    "Gym Leader Castle": {
+      "codename": "gym_leader_castle"
     }
   },
-  "version": "1.31",
+  "version": "1.4",
   "description": "Base config to use this game."
 }

@@ -86,7 +86,7 @@ for weapon in list_weapons:
                 image_height = image_contents.height
                 ratio = 512.0/float(image_height)
                 if ratio != 1.0:
-                    card_config_dict["rescaling_factor"][weapon_codename] = ratio
+                    card_config_dict["rescaling_factor"][weapon_codename] = {"0": ratio}
 
     if not found:
         print("Not found:", weapon)

@@ -3,7 +3,7 @@
   "version": "4.02",
   "description": "Art used in the Tableturf Battle mode",
   "prefix": "card_",
-  "postfix": "",
+  "postfix": "_",
   "type": [
     "card"
   ],

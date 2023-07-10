@@ -40,7 +40,7 @@ card_config_dict = {
     "version": main_config_dict["version"],
     "description": "Art used in the Tableturf Battle mode",
     "prefix": "card_",
-    "postfix": "",
+    "postfix": "_",
     "type": ["card"],
     "uncropped_edge": ["u","d","l","r"],
     "rescaling_factor": {}

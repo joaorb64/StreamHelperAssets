@@ -1,0 +1,70 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Adler": {
+      "codename": "Adler"
+    },
+    "Akatsuki": {
+      "codename": "Akatsuki"
+    },
+    "Anonym Guard": {
+      "codename": "AnonymGuard"
+    },
+    "Blitztank": {
+      "codename": "Blitztank"
+    },
+    "Dawei": {
+      "codename": "Dawei"
+    },
+    "EN-Eins": {
+      "codename": "ENEins"
+    },
+    "Elektrosoldat": {
+      "codename": "Elektrosoldat"
+    },
+    "Fritz": {
+      "codename": "Fritz"
+    },
+    "Inazuma": {
+      "codename": "Inazuma"
+    },
+    "Kanae": {
+      "codename": "Kanae"
+    },
+    "Kati": {
+      "codename": "Kati"
+    },
+    "Marilyn": {
+      "codename": "Marilyn"
+    },
+    "Murakumo": {
+      "codename": "Murakumo"
+    },
+    "Mycale A": {
+      "codename": "MycaleA"
+    },
+    "Perfecti": {
+      "codename": "Perfecti"
+    },
+    "Sai": {
+      "codename": "Sai"
+    },
+    "Tempelritter": {
+      "codename": "Tempelritter"
+    },
+    "Valkyria": {
+      "codename": "Valkyria"
+    }
+  },
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/EN-Eins_Perfektewelt_Anastasis)",
+  "description": "Base config to use this game.",
+  "name": "EN-Eins Perfektewelt: Anastasis",
+  "smashgg_game_id": null,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "エヌアイン完全世界 Anastasis"
+    }
+  }
+}

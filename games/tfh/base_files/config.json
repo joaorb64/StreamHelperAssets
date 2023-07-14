@@ -38,10 +38,14 @@
     "Stronghoof": {
       "smashgg_name": "Stronghoof",
       "codename": "Stronghoof"
+    },
+    "Nidra": {
+      "smashgg_name": "Nidra",
+      "codename": "Nidra"
     }
   },
   "stage_to_codename": {},
-  "version": "1.2",
+  "version": "1.21",
   "description": "Base config to use this game.",
   "credits": ""
 }

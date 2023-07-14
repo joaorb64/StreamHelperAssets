@@ -4,5 +4,11 @@
   "type": [
     "icon"
   ],
-  "version": "1.2"
+  "version": "1.21",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

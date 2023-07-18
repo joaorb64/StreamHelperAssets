@@ -38,10 +38,41 @@
       "codename": "Toxic"
     }
   },
-  "credits": "",
+  "credits": "Assets provided by BiancaRacc",
   "description": "Base config to use this game.",
   "name": "Lethal League Blaze",
   "smashgg_game_id": 2868,
-  "stage_to_codename": {},
-  "version": "1.02"
+  "version": "2.0",
+  "stage_to_codename": {
+    "Scrap Desert": {
+      "codename": "desert"
+    },
+    "New Rise District": {
+      "codename": "District"
+    },
+    "Workbot Factory": {
+      "codename": "factory"
+    },
+    "Paradise Field": {
+      "codename": "Fields"
+    },
+    "Outskirts": {
+      "codename": "Outskirts"
+    },
+    "Abandoned Pool": {
+      "codename": "pool"
+    },
+    "Room 21": {
+      "codename": "Room"
+    },
+    "The Sewers": {
+      "codename": "sewers"
+    },
+    "Central Streets": {
+      "codename": "streets"
+    },
+    "The Subways": {
+      "codename": "subway"
+    }
+  }
 }

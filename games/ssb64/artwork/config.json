@@ -4,7 +4,7 @@
     "credits": "Original characters: www.mariowiki.com. Remix arts by @sopebockz, @Retro64, @thequickslash. Resizing by joao_shino.",
     "prefix": "",
     "postfix": "_",
-    "version": "1.31",
+    "version": "1.4",
     "eyesights": {
         "mario": {
             "0": {
@@ -196,6 +196,12 @@
             "0": {
                 "x": 618,
                 "y": 396
+            }
+        },
+        "goemon": {
+            "0": {
+                "x": 682,
+                "y": 527
             }
         }
     },

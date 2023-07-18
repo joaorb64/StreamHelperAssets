@@ -1,8 +1,8 @@
-# Lethal League Blaze
+# Stages
 
 ## Description: 
 
-Base config to use this game.
+Stage icons
 
 ## Credits: 
 

@@ -688,6 +688,43 @@
       }
     }
   },
-  "version": "0.98",
-  "description": "Base config to use this game."
+  "version": "0.99",
+  "description": "Base config to use this game.",
+  "preset_colors": [
+    {
+      "name": "Player 1",
+      "value": "f15959",
+      "locale": {
+        "fr": "Joueur 1"
+      }
+    },
+    {
+      "name": "Player 2",
+      "value": "6565ff",
+      "locale": {
+        "fr": "Joueur 2"
+      }
+    },
+    {
+      "name": "Player 3",
+      "value": "febe3f",
+      "locale": {
+        "fr": "Joueur 3"
+      }
+    },
+    {
+      "name": "Player 4",
+      "value": "4ce44c",
+      "locale": {
+        "fr": "Joueur 4"
+      }
+    },
+    {
+      "name": "Computer Player",
+      "value": "7f7f7f",
+      "locale": {
+        "fr": "Ordinateur"
+      }
+    }
+  ]
 }

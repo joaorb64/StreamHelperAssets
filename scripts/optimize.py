@@ -31,7 +31,7 @@ def run_linux_command(command: str):
         return -1, '', str(e)
 
 
-_, CURRENT_TAG, _ = run_linux_command("git describe --tags origin/main")
+_, CURRENT_TAG, _ = run_linux_command("git describe --tags")
 
 LAST_TAG = None
 with open(f"{FILE_DIR}/last_tag.txt", "r", encoding="utf-8") as f:
@@ -42,6 +42,9 @@ changed_files = run_linux_command(
 
 print(
     f"Comparing last processed commit ({LAST_TAG}) -> origin/main ({CURRENT_TAG})")
+
+if not CURRENT_TAG or not LAST_TAG:
+    exit(1)
 
 changes = []
 

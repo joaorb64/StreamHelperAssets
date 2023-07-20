@@ -14,9 +14,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  # Set machine up, clone repo
   setup:
-    name: Setup environment
+    name: Update Assets
+    # Set machine up, clone repo
     runs-on: ubuntu-latest
     steps:
       - name: Free Disk Space (Ubuntu)
@@ -30,13 +30,8 @@ jobs:
         with:
           python-version: "3.9" #install the python needed
 
-  # Optimize new and modified images        
-  optimize:
-    name: Optimize images
-    needs: setup
-    runs-on: ubuntu-latest
-    steps:
-      - name: execute py script
+      # Optimize images
+      - name: Optimize images
         run: |
           sudo apt install -y optipng
           python scripts/optimize.py
@@ -46,12 +41,7 @@ jobs:
           git commit -m "Optimize images"
           git push origin main
 
-  # Run assets build logic
-  build:
-    name: Upload Release Asset
-    needs: optimize
-    runs-on: ubuntu-latest
-    steps:
+      # Run assets build logic
       - name: execute py script
         run: |
           python gen_config.py

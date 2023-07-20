@@ -14,8 +14,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Upload Release Asset
+  # Set machine up, clone repo
+  setup:
+    name: Setup environment
     runs-on: ubuntu-latest
     steps:
       - name: Free Disk Space (Ubuntu)
@@ -28,7 +29,27 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.9" #install the python needed
-      - name: execute py script # run the run.py to get the latest data
+
+  # Optimize new and modified images        
+  optimize:
+    name: Optimize images
+    needs: setup
+    steps:
+      - name: execute py script
+        run: |
+          python scripts/optimize.py
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
+          git add .
+          git commit -m "Optimize images"
+          git push origin main
+
+  # Run assets build logic
+  build:
+    name: Upload Release Asset
+    needs: optimize
+    steps:
+      - name: execute py script
         run: |
           python gen_config.py
       - name: commit

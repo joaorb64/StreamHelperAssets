@@ -33,7 +33,7 @@ jobs:
       # Optimize images
       - name: Optimize images
         run: |
-          git fetch --all --tags
+          git fetch --tags --depth=50
           sudo apt install -y optipng
           python scripts/optimize.py
           git config --global user.name 'Buildbot'

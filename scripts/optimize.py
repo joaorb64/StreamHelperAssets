@@ -31,7 +31,7 @@ def run_linux_command(command: str):
         return -1, '', str(e)
 
 
-_, CURRENT_TAG, _ = run_linux_command("git describe --tags")
+_, CURRENT_TAG, _ = run_linux_command("git describe --tags --always")
 
 LAST_TAG = None
 with open(f"{FILE_DIR}/last_tag.txt", "r", encoding="utf-8") as f:

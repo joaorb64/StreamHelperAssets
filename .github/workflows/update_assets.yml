@@ -38,6 +38,7 @@ jobs:
     steps:
       - name: execute py script
         run: |
+          sudo apt install -y optipng
           python scripts/optimize.py
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'

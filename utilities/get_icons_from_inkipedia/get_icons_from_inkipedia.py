@@ -276,6 +276,7 @@ for image_tag in weapon_body_images:
         weapon_name = image_tag["alt"]
         weapon_name = weapon_name.replace("S3 Weapon Main ", "")
         weapon_name = weapon_name.replace(" Flat.png", "")
+        weapon_name = weapon_name.replace(" 2D Current.png", "")
         weapon_list[weapon_name] = {
             "main_image": convert_weapon_thumb_link_to_image_link(image_tag["src"])}
 

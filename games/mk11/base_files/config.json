@@ -1,0 +1,125 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Baraka": {
+      "codename": "15"
+    },
+    "Cassie Cage": {
+      "codename": "10"
+    },
+    "Cetrion": {
+      "codename": "38"
+    },
+    "D'Vorah": {
+      "codename": "28"
+    },
+    "Erron Black": {
+      "codename": "27"
+    },
+    "Frost": {
+      "codename": "04"
+    },
+    "Fujin": {
+      "codename": "39"
+    },
+    "Geras": {
+      "codename": "33"
+    },
+    "Jacqui Briggs": {
+      "codename": "17"
+    },
+    "Jade": {
+      "codename": "24"
+    },
+    "Jax Briggs": {
+      "codename": "11"
+    },
+    "John Rambo": {
+      "codename": "31"
+    },
+    "Johnny Cage": {
+      "codename": "08"
+    },
+    "Kabal": {
+      "codename": "20"
+    },
+    "Kano": {
+      "codename": "19"
+    },
+    "Kitana": {
+      "codename": "22"
+    },
+    "Kollector": {
+      "codename": "34"
+    },
+    "Kotal Kahn": {
+      "codename": "29"
+    },
+    "Kung Lao": {
+      "codename": "23"
+    },
+    "Liu Kang": {
+      "codename": "21"
+    },
+    "Mileena": {
+      "codename": "36"
+    },
+    "Nightwolf": {
+      "codename": "05"
+    },
+    "Noob Saibot": {
+      "codename": "14"
+    },
+    "Raiden": {
+      "codename": "16"
+    },
+    "Rain": {
+      "codename": "40"
+    },
+    "RoboCop": {
+      "codename": "25"
+    },
+    "Scorpion": {
+      "codename": "13"
+    },
+    "Shang Tsung": {
+      "codename": "02"
+    },
+    "Shao Kahn": {
+      "codename": "03"
+    },
+    "Sheeva": {
+      "codename": "30"
+    },
+    "Sindel": {
+      "codename": "35"
+    },
+    "Skarlet": {
+      "codename": "26"
+    },
+    "Sonya Blade": {
+      "codename": "09"
+    },
+    "Spawn": {
+      "codename": "12"
+    },
+    "Sub-Zero": {
+      "codename": "18"
+    },
+    "The Joker": {
+      "codename": "07"
+    },
+    "The Terminator": {
+      "codename": "32"
+    },
+    "Kronika": {
+      "codename": "41"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Mortal Kombat 11",
+  "smashgg_game_id": 3200,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

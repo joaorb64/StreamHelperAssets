@@ -38,7 +38,7 @@ with open(f"{FILE_DIR}/last_tag.txt", "r", encoding="utf-8") as f:
     LAST_TAG = f.read().strip()
 
 changed_files = run_linux_command(
-    f"git diff-tree --no-commit-id --name-status {LAST_TAG} origin/main -r")
+    f"git diff-tree --no-commit-id --name-status {LAST_TAG} {CURRENT_TAG} -r")
 
 print(
     f"Comparing last processed commit ({LAST_TAG}) -> origin/main ({CURRENT_TAG})")

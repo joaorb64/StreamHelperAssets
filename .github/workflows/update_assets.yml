@@ -25,6 +25,8 @@ jobs:
           retain: "python,node"
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 20
       - name: setup python
         uses: actions/setup-python@v2
         with:

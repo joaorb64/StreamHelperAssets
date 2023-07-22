@@ -51,6 +51,8 @@ print(changed_files)
 changes = []
 
 for line in changed_files[1].splitlines():
+    line = line.strip()
+    print(line)
     if line.endswith(".png"):
         split = line.split("\t")
         change = split[0].strip()

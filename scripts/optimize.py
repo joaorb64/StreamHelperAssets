@@ -46,6 +46,8 @@ print(
 if not CURRENT_TAG or not LAST_TAG:
     exit(1)
 
+print(changed_files)
+
 changes = []
 
 for line in changed_files[1].splitlines():

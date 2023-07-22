@@ -53,10 +53,12 @@ changes = []
 for line in changed_files[1].splitlines():
     line = line.strip()
     print(line)
-    if line.endswith(".png"):
+    if ".png" in line:
         split = line.split("\t")
         change = split[0].strip()
         filename = split[1].strip()
+
+        print(change, filename)
 
         if change in ['A', 'M']:
             changes.append(change)

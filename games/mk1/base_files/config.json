@@ -1,0 +1,74 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Baraka": {
+      "codename": "Baraka"
+    },
+    "Ermac": {
+      "codename": "Ermac"
+    },
+    "Homelander": {
+      "codename": "Homelander"
+    },
+    "Johnny Cage": {
+      "codename": "JohnnyCage"
+    },
+    "Kenshi Takahashi": {
+      "codename": "Kenshi"
+    },
+    "Kitana": {
+      "codename": "Kitana"
+    },
+    "Kung Lao": {
+      "codename": "KungLao"
+    },
+    "Li Mei": {
+      "codename": "LiMei"
+    },
+    "Liu Kang": {
+      "codename": "LiuKang"
+    },
+    "Mileena": {
+      "codename": "Mileena"
+    },
+    "Omni-Man": {
+      "codename": "OmniMan"
+    },
+    "Peacemaker": {
+      "codename": "Peacemaker"
+    },
+    "Quan Chi": {
+      "codename": "QuanChi"
+    },
+    "Raiden": {
+      "codename": "Raiden"
+    },
+    "Rain": {
+      "codename": "Rain"
+    },
+    "Scorpion": {
+      "codename": "Scorpion"
+    },
+    "Shang Tsung": {
+      "codename": "ShangTsung"
+    },
+    "Smoke": {
+      "codename": "Smoke"
+    },
+    "Sub-Zero": {
+      "codename": "SubZero"
+    },
+    "Takeda": {
+      "codename": "Takeda"
+    },
+    "Tanya": {
+      "codename": "Tanya"
+    }
+  },
+  "credits": "Ripped from https://www.mortalkombat.com/en-us/game",
+  "description": "Base config to use this game.",
+  "name": "Mortal Kombat 1",
+  "smashgg_game_id": 48599,
+  "stage_to_codename": {},
+  "version": "0.1"
+}

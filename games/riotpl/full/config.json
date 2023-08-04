@@ -1,0 +1,38 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Ripped from https://project-l.riotgames.com/en-us/",
+  "version": "0.1",
+  "uncropped_edge": ["u", "d", "l"],
+  "eyesights": {
+    "Ahri": {
+      "0": {
+        "x": 330,
+        "y": 171
+      }
+    },
+    "Darius": {
+      "0": {
+        "x": 451,
+        "y": 137
+      }
+    },
+    "Ekko": {
+      "0": {
+        "x": 397,
+        "y": 197
+      }
+    },
+    "Yasuo": {
+      "0": {
+        "x": 306,
+        "y": 208
+      }
+    }
+  }
+}

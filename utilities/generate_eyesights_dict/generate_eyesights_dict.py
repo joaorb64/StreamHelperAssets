@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "umvc3"
+game_codename = "riotpl"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

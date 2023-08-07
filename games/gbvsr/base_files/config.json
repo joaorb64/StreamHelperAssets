@@ -1,0 +1,95 @@
+{
+  "name": "Granblue Fantasy Versus: Rising",
+  "smashgg_game_id": 48548,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Anre": {
+      "codename": "Anre"
+    },
+    "Avatar Belial": {
+      "codename": "AvatarBelial"
+    },
+    "Beelzebub": {
+      "codename": "Beelzebub"
+    },
+    "Belial": {
+      "codename": "Belial"
+    },
+    "Cagliostro": {
+      "codename": "Cagliostro"
+    },
+    "Charlotta": {
+      "codename": "Charlotta"
+    },
+    "Djeeta": {
+      "codename": "Djeeta"
+    },
+    "Eustace": {
+      "codename": "Eustace"
+    },
+    "Ferry": {
+      "codename": "Ferry"
+    },
+    "Gran": {
+      "codename": "Gran"
+    },
+    "Katalina": {
+      "codename": "Katalina"
+    },
+    "Ladiva": {
+      "codename": "Ladiva"
+    },
+    "Lancelot": {
+      "codename": "Lancelot"
+    },
+    "Lowain": {
+      "codename": "Lowain"
+    },
+    "Metera": {
+      "codename": "Metera"
+    },
+    "Narmaya": {
+      "codename": "Narmaya"
+    },
+    "Percival": {
+      "codename": "Percival"
+    },
+    "Seox": {
+      "codename": "Seox"
+    },
+    "Soriz": {
+      "codename": "Soriz"
+    },
+    "Vaseraga": {
+      "codename": "Vaseraga"
+    },
+    "Vira": {
+      "codename": "Vira"
+    },
+    "Yuel": {
+      "codename": "Yuel"
+    },
+    "Zeta": {
+      "codename": "Zeta"
+    },
+    "Zooey": {
+      "codename": "Zooey"
+    },
+    "Anila": {
+      "codename": "Anila"
+    },
+    "Siegfried": {
+      "codename": "Siegfried"
+    },
+    "Grimnir": {
+      "codename": "Grimnir"
+    },
+    "Nier": {
+      "codename": "Nier"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "0.1",
+  "description": "Base config to use this game.",
+  "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters"
+}

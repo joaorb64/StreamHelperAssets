@@ -2,6 +2,74 @@
     "fighters": [
         {
             "displayName": {
+                "ja_JP": "クッパ",
+                "en_US": "Bowser",
+                "fr": "Bowser",
+                "fr_CA": "Bowser",
+                "es_ES": "Bowser",
+                "es_LA": "Bowser",
+                "de": "Bowser",
+                "it": "Bowser",
+                "nl": "Bowser",
+                "ru": "Боузер",
+                "ko": "쿠파",
+                "zh_TW": "庫巴",
+                "zh_CN": "酷霸"
+            }
+        },
+        {
+            "displayName": {
+                "ja_JP": "ドンキーコング",
+                "en_US": "Donkey Kong",
+                "fr": "Donkey Kong",
+                "fr_CA": "Donkey Kong",
+                "es_ES": "Donkey Kong",
+                "es_LA": "Donkey Kong",
+                "de": "Donkey Kong",
+                "it": "Donkey Kong",
+                "nl": "Donkey Kong",
+                "ru": "Донки Конг",
+                "ko": "동키콩",
+                "zh_TW": "咚奇剛",
+                "zh_CN": "咚奇刚"
+            }
+        },
+        {
+            "displayName": {
+                "ja_JP": "ピーチ",
+                "en_US": "Peach",
+                "fr": "Peach",
+                "fr_CA": "Peach",
+                "es_ES": "Peach",
+                "es_LA": "Peach",
+                "de": "Peach",
+                "it": "Peach",
+                "nl": "Peach",
+                "ru": "Пич",
+                "ko": "피치공주",
+                "zh_TW": "碧姬公主",
+                "zh_CN": "碧姬公主"
+            }
+        },
+        {
+            "displayName": {
+                "ja_JP": "デイジー",
+                "en_US": "Daisy",
+                "fr": "Daisy",
+                "fr_CA": "Daisy",
+                "es_ES": "Daisy",
+                "es_LA": "Daisy",
+                "de": "Daisy",
+                "it": "Daisy",
+                "nl": "Daisy",
+                "ru": "Дейзи",
+                "ko": "데이지",
+                "zh_TW": "黛西公主",
+                "zh_CN": "黛西公主"
+            }
+        },
+        {
+            "displayName": {
                 "en_US": "Waluigi",
                 "ja": "\u30ef\u30eb\u30a4\u30fc\u30b8",
                 "zh_CN": "\u74e6\u8def\u6613\u5409",
@@ -252,7 +320,7 @@
             }
         },
         {
-            "displayName":{
+            "displayName": {
                 "en_US": "Petey Piranha",
                 "fr": "Flora Piranha",
                 "de": "Mutant-Tyranha",

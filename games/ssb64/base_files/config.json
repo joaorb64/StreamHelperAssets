@@ -50,8 +50,8 @@
         "nl": "Donkey Kong",
         "ru": "\u0414\u043e\u043d\u043a\u0438 \u041a\u043e\u043d\u0433",
         "ko": "\ub3d9\ud0a4\ucf69",
-        "zh_TW": "\u68ee\u559c\u525b",
-        "zh_CN": "\u68ee\u559c\u521a"
+        "zh_TW": "\u549a\u5947\u525b",
+        "zh_CN": "\u549a\u5947\u521a"
       }
     },
     "Link": {
@@ -291,7 +291,7 @@
         "ru": "\u0411\u043e\u0443\u0437\u0435\u0440",
         "ko": "\ucfe0\ud30c",
         "zh_TW": "\u5eab\u5df4",
-        "zh_CN": "\u9177\u9738\u738b"
+        "zh_CN": "\u9177\u9738"
       }
     },
     "Dr. Mario": {
@@ -528,8 +528,8 @@
       "smashgg_name": "Marina",
       "codename": "marina",
       "locale": {
-        "ja": "マリナ=ナゲット",
-        "ko": "마리나 라이트이어를"
+        "ja": "\u30de\u30ea\u30ca=\u30ca\u30b2\u30c3\u30c8",
+        "ko": "\ub9c8\ub9ac\ub098 \ub77c\uc774\ud2b8\uc774\uc5b4\ub97c"
       }
     },
     "King Dedede": {
@@ -556,7 +556,7 @@
       "smashgg_name": "Goemon",
       "codename": "goemon",
       "locale": {
-        "ja": "ゴエモン"
+        "ja": "\u30b4\u30a8\u30e2\u30f3"
       }
     },
     "Mad Piano": {
@@ -577,7 +577,21 @@
     "Metal Mario": {
       "smashgg_name": "Metal Mario",
       "codename": "metal_mario",
-      "locale": {}
+      "locale": {
+        "ja": "\u30e1\u30bf\u30eb\u30de\u30ea\u30aa",
+        "zh_CN": "\u91d1\u5c5e\u9a6c\u529b\u6b27",
+        "zh_TW": "\u91d1\u5c6c\u746a\u5229\u6b50",
+        "ko": "\uba54\ud0c8\ub9c8\ub9ac\uc624",
+        "fr": "Mario de m\u00e9tal",
+        "nl": "Metalen Mario",
+        "de": "Metall-Mario",
+        "it": "Mario metallo",
+        "es": "Mario de Metal",
+        "es_LA": "Mario de metal",
+        "pt_PT": "Mario Met\u00e1lico",
+        "pt_BR": "Mario met\u00e1lico",
+        "ru": "\u041c\u0430\u0440\u0438\u043e-\u043c\u0435\u0442\u0430\u043b\u043b"
+      }
     },
     "Super Sonic": {
       "smashgg_name": "Super Sonic",
@@ -973,6 +987,6 @@
       "codename": "gym_leader_castle"
     }
   },
-  "version": "1.41",
+  "version": "1.42",
   "description": "Base config to use this game."
 }

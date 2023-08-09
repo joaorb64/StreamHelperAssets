@@ -93,7 +93,7 @@
         "ru": "\u0411\u043e\u0443\u0437\u0435\u0440",
         "ko": "\ucfe0\ud30c",
         "zh_TW": "\u5eab\u5df4",
-        "zh_CN": "\u9177\u9738\u738b"
+        "zh_CN": "\u9177\u9738"
       }
     },
     "Bowser Jr.": {
@@ -149,7 +149,7 @@
         "ru": "\u0414\u0435\u0439\u0437\u0438",
         "ko": "\ub370\uc774\uc9c0",
         "zh_TW": "\u9edb\u897f\u516c\u4e3b",
-        "zh_CN": "\u83ca\u82b1\u516c\u4e3b"
+        "zh_CN": "\u9edb\u897f\u516c\u4e3b"
       }
     },
     "Donkey Kong": {
@@ -167,8 +167,8 @@
         "nl": "Donkey Kong",
         "ru": "\u0414\u043e\u043d\u043a\u0438 \u041a\u043e\u043d\u0433",
         "ko": "\ub3d9\ud0a4\ucf69",
-        "zh_TW": "\u68ee\u559c\u525b",
-        "zh_CN": "\u68ee\u559c\u521a"
+        "zh_TW": "\u549a\u5947\u525b",
+        "zh_CN": "\u549a\u5947\u521a"
       }
     },
     "Dry Bones": {
@@ -428,7 +428,7 @@
         "ru": "\u041f\u0438\u0447",
         "ko": "\ud53c\uce58\uacf5\uc8fc",
         "zh_TW": "\u78a7\u59ec\u516c\u4e3b",
-        "zh_CN": "\u6843\u82b1\u516c\u4e3b"
+        "zh_CN": "\u78a7\u59ec\u516c\u4e3b"
       }
     },
     "Pink Gold Peach": {
@@ -613,7 +613,7 @@
   "name": "Mario Kart 8 Deluxe",
   "smashgg_game_id": 2165,
   "stage_to_codename": {},
-  "version": "1.1",
+  "version": "1.11",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c88 \u30c7\u30e9\u30c3\u30af\u30b9"

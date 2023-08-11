@@ -66,6 +66,12 @@
     },
     "Geras": {
       "codename": "Geras"
+    },
+    "Reptile": {
+      "codename": "Reptile"
+    },
+    "Havik": {
+      "codename": "Havik"
     }
   },
   "credits": "Ripped from https://www.mortalkombat.com/en-us/game",
@@ -73,5 +79,5 @@
   "name": "Mortal Kombat 1",
   "smashgg_game_id": 48599,
   "stage_to_codename": {},
-  "version": "0.3"
+  "version": "0.4"
 }

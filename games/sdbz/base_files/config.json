@@ -57,8 +57,42 @@
       "codename": "17"
     }
   },
-  "stage_to_codename": {},
-  "version": "1.03",
+  "stage_to_codename": {
+    "Eastern Capital (Day)": {
+      "codename": "343"
+    },
+    "Eastern Capital (Sunset)": {
+      "codename": "350"
+    },
+    "Wasteland (Day)": {
+      "codename": "342"
+    },
+    "Wasteland (Night)": {
+      "codename": "349"
+    },
+    "Cell Ring": {
+      "codename": "348"
+    },
+    "Planet Namek": {
+      "codename": "346"
+    },
+    "Kami's Lookout": {
+      "codename": "344"
+    },
+    "King Kai's Planet": {
+      "codename": "352"
+    },
+    "World Martial Arts Tournament": {
+      "codename": "347"
+    },
+    "King Yemma's Palace": {
+      "codename": "345"
+    },
+    "Training Stage": {
+      "codename": "351"
+    }
+  },
+  "version": "1.1",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {

@@ -4,7 +4,7 @@
   "type": [
     "icon"
   ],
-  "version": "0.5",
+  "version": "0.6",
   "eyesights": {
     "JohnnyCage": {
       "0": {
@@ -113,7 +113,18 @@
         "x": 485,
         "y": 133
       }
+    },
+    "Sindel": {
+      "0": {
+        "x": 392,
+        "y": 161
+      }
+    },
+    "Shao": {
+      "0": {
+        "x": 449,
+        "y": 146
+      }
     }
-  },
-  "uncropped_edge": ["u"]
+  }
 }

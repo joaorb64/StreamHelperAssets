@@ -75,6 +75,12 @@
     },
     "Ashrah": {
       "codename": "Ashrah"
+    },
+    "Sindel": {
+      "codename": "Sindel"
+    },
+    "General Shao": {
+      "codename": "Shao"
     }
   },
   "credits": "Ripped from https://www.mortalkombat.com/en-us/game",
@@ -82,5 +88,5 @@
   "name": "Mortal Kombat 1",
   "smashgg_game_id": 48599,
   "stage_to_codename": {},
-  "version": "0.5"
+  "version": "0.6"
 }

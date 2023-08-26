@@ -1,8 +1,8 @@
-# Portraits (Online Edition)
+# Artwork (Online Edition)
 
 ## Description: 
 
-Character portraits from Street Fighter III: Third Strike - Online Edition
+Character artwork from Street Fighter III: Third Strike - Online Edition
 
 ## Credits: 
 

@@ -1,4 +1,4 @@
-# Street Fighter III 3rd Strike: Fight for the Future
+# Street Fighter III Third Strike: Fight for the Future
 
 ## Description: 
 

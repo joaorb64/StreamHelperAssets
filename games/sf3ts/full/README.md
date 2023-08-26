@@ -6,5 +6,5 @@ Character portraits
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+
 

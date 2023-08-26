@@ -35,7 +35,7 @@
       "smashgg_name": "Cammy",
       "codename": "cammy"
     },
-    "Nash": {
+    "Charlie Nash": {
       "smashgg_name": "Nash",
       "codename": "charlie_nash"
     },
@@ -192,7 +192,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "0.95",
+  "version": "0.96",
   "description": "Base config to use this game.",
   "locale": {
     "ja": {

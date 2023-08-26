@@ -1,5 +1,5 @@
 {
-  "name": "Street Fighter III 3rd Strike: Fight for the Future",
+  "name": "Street Fighter III Third Strike: Fight for the Future",
   "smashgg_game_id": 610,
   "challonge_game_id": 387,
   "character_to_codename": {
@@ -65,7 +65,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.03",
+  "version": "1.04",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping",
   "locale": {

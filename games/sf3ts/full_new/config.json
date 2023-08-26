@@ -1,13 +1,13 @@
 {
-  "name": "Portraits (Online Edition)",
-  "description": "Character portraits from Street Fighter III: Third Strike - Online Edition",
+  "name": "Artwork (Online Edition)",
+  "description": "Character artwork from Street Fighter III: Third Strike - Online Edition",
   "prefix": "",
   "postfix": "_",
   "type": [
     "full_new"
   ],
   "credits": "",
-  "version": "1.04",
+  "version": "1.05",
   "uncropped_edge": [
     "u",
     "d",

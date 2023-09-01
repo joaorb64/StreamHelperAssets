@@ -15,7 +15,7 @@ stage_path = f"{root_path}/stage_icon"
 sub_path = f"{root_path}/sub"
 special_path = f"{root_path}/special"
 
-lang_list = ["ja", "ko", "zh-cmn-Hant", "zh-cmn-Hans","zh-Hant", "zh-Hans", "ru",
+lang_list = ["ja", "ko", "zh-cmn-Hant", "zh-cmn-Hans", "zh-Hant", "zh-Hans", "ru",
              "fr", "nl", "de", "it", "es", "fr-ca", "es-es", "es-mx", "fr-fr"]
 
 
@@ -43,7 +43,7 @@ def robust_request(link, timeout=30, recursion=30):
 def generate_main_config_skeleton():
     description = "Base config to use this game."
     credits = ""
-    version = "4.0"
+    version = "5.0"
 
     game_id = 36202
 
@@ -121,7 +121,9 @@ def generate_main_config_skeleton():
             },
             "Barnacle & Dime": {
                 "codename": "barnacle"
-            }
+            },
+            "Crableg Capital": {"codename": "capital"},
+            "Shipshape Cargo Co.": {"codename": "cargo"}
         },
         "version": version,
         "description": str(description),
@@ -150,7 +152,7 @@ def convert_weapon_thumb_link_to_image_link(weapon_link):
     weapon_link = weapon_link.replace(weapon_link.split('/')[-1], "")
     weapon_link = weapon_link.replace("/thumb", "")
     weapon_link = weapon_link.strip("/")
-    return(weapon_link)
+    return (weapon_link)
 
 
 def write_configs(config_dict, sub_names, special_names):
@@ -291,7 +293,8 @@ weapon_body_lines = weapon_body_tag.findAll('tr')
 
 weapon_index = 1
 for weapon_name in weapon_list.keys():
-    print("Processing weapon", weapon_index, "of", len(weapon_list), f"({weapon_name})")
+    print("Processing weapon", weapon_index, "of",
+          len(weapon_list), f"({weapon_name})")
 
     sub_image_link, special_image_link = None, None
     icon_url = weapon_list[weapon_name]["main_image"]

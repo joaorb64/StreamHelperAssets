@@ -1,0 +1,109 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akaza": {
+      "codename": "Akaza"
+    },
+    "Daki": {
+      "codename": "Daki"
+    },
+    "Enmu": {
+      "codename": "Enmu"
+    },
+    "Giyu Tomioka": {
+      "codename": "GiyuTomioka"
+    },
+    "Giyu Tomioka (Kimetsu Academy)": {
+      "codename": "GiyuTomiokaKimetsuAcademy"
+    },
+    "Gyutaro": {
+      "codename": "Gyutaro"
+    },
+    "Inosuke Hashibira": {
+      "codename": "InosukeHashibira"
+    },
+    "Inosuke Hashibira (Entertainment District)": {
+      "codename": "InosukeHashibiraEntertainmentDistrict"
+    },
+    "Inosuke Hashibira (Kimetsu Academy)": {
+      "codename": "InosukeHashibiraKimetsuAcademy"
+    },
+    "Kyojuro Rengoku": {
+      "codename": "KyojuroRengoku"
+    },
+    "Makomo": {
+      "codename": "Makomo"
+    },
+    "Murata": {
+      "codename": "Murata"
+    },
+    "Nezuko Kamado": {
+      "codename": "NezukoKamado"
+    },
+    "Nezuko Kamado (Advanced Demon Form)": {
+      "codename": "NezukoKamadoAwakenedForm"
+    },
+    "Nezuko Kamado (Kimetsu Academy)": {
+      "codename": "NezukoKamadoKimetsuAcademy"
+    },
+    "Rui": {
+      "codename": "Rui"
+    },
+    "Sabito": {
+      "codename": "Sabito"
+    },
+    "Sakonji Urokodaki": {
+      "codename": "SakonjiUrokodaki"
+    },
+    "Shinobu Kocho": {
+      "codename": "ShinobuKocho"
+    },
+    "Shinobu Kocho (Kimetsu Academy)": {
+      "codename": "ShinobuKochoKimetsuAcademy"
+    },
+    "Susamaru": {
+      "codename": "Susamaru"
+    },
+    "Tanjiro Kamado": {
+      "codename": "TanjiroKamado"
+    },
+    "Tanjiro Kamado (Entertainment District)": {
+      "codename": "TanjiroKamadoEntertainmentDistrict"
+    },
+    "Tanjiro Kamado (Hinokami Kagura)": {
+      "codename": "TanjiroKamadoHinokami"
+    },
+    "Tanjiro Kamado (Kimetsu Academy)": {
+      "codename": "TanjiroKamadoKimetsuAcademy"
+    },
+    "Tengen Uzui": {
+      "codename": "TengenUzui"
+    },
+    "Yahaba": {
+      "codename": "Yahaba"
+    },
+    "Yushiro & Tamayo": {
+      "codename": "YushiroTamayo"
+    },
+    "Zenitsu Agatsuma": {
+      "codename": "ZenitsuAgatsuma"
+    },
+    "Zenitsu Agatsuma (Entertainment District)": {
+      "codename": "ZenitsuAgatsumaEntertainmentDistrict"
+    },
+    "Zenitsu Agatsuma (Kimetsu Academy)": {
+      "codename": "ZenitsuAgatsumaKimetsuAcademy"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+  "smashgg_game_id": 39100,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "鬼滅の刃 ヒノカミ血風譚"
+    }
+  }
+}

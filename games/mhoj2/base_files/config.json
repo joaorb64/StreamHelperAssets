@@ -1,0 +1,169 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "All For One": {
+      "codename": "AllForOne"
+    },
+    "All Might": {
+      "codename": "AllMight"
+    },
+    "Bakugo": {
+      "codename": "Bakugo"
+    },
+    "Battle Fist": {
+      "codename": "BattleFist"
+    },
+    "Can\u2019t Stop Twinkling": {
+      "codename": "CantStopTwinkling"
+    },
+    "Chargebolt": {
+      "codename": "Chargebolt"
+    },
+    "Creati": {
+      "codename": "Creati"
+    },
+    "Dabi": {
+      "codename": "Dabi"
+    },
+    "Deku": {
+      "codename": "Deku"
+    },
+    "Deku (Full Cowl)": {
+      "codename": "DekuFullCowl"
+    },
+    "Deku (Shoot Style)": {
+      "codename": "DekuShootStyle"
+    },
+    "Earphone Jack": {
+      "codename": "EarphoneJack"
+    },
+    "Endeavor": {
+      "codename": "Endeavor"
+    },
+    "Eraser Head": {
+      "codename": "EraserHead"
+    },
+    "Fat Gum": {
+      "codename": "FatGum"
+    },
+    "Froppy": {
+      "codename": "Froppy"
+    },
+    "Gale Force": {
+      "codename": "GaleForce"
+    },
+    "Gang Orca": {
+      "codename": "GangOrca"
+    },
+    "Gentle Criminal and La Brava": {
+      "codename": "GentleCriminal"
+    },
+    "Gran Torino": {
+      "codename": "GranTorino"
+    },
+    "Grape Juice": {
+      "codename": "GrapeJuice"
+    },
+    "Hawks": {
+      "codename": "Hawks"
+    },
+    "Himiko Toga": {
+      "codename": "HimikoToga"
+    },
+    "Hitoshi": {
+      "codename": "Hitoshi"
+    },
+    "Illus-o-Camie": {
+      "codename": "IllusoCamie"
+    },
+    "Ingenium": {
+      "codename": "Ingenium"
+    },
+    "Kendo Rappa": {
+      "codename": "KendoRappa"
+    },
+    "Kurogiri": {
+      "codename": "Kurogiri"
+    },
+    "Lemillion": {
+      "codename": "Lemillion"
+    },
+    "Mei": {
+      "codename": "Mei"
+    },
+    "Midnight": {
+      "codename": "Midnight"
+    },
+    "Mr. Compress": {
+      "codename": "MrCompress"
+    },
+    "Muscular": {
+      "codename": "Muscular"
+    },
+    "Nejire-Chan": {
+      "codename": "NejireChan"
+    },
+    "Nomu (U.S.J.)": {
+      "codename": "NomuUSJ"
+    },
+    "Overhaul": {
+      "codename": "Overhaul"
+    },
+    "Overhaul (Fused)": {
+      "codename": "OverhaulFused"
+    },
+    "Pinky": {
+      "codename": "Pinky"
+    },
+    "Present Mic": {
+      "codename": "PresentMic"
+    },
+    "Real Steel": {
+      "codename": "RealSteel"
+    },
+    "Red Riot": {
+      "codename": "RedRiot"
+    },
+    "Shishikross": {
+      "codename": "Shishikross"
+    },
+    "Shoto": {
+      "codename": "Shoto"
+    },
+    "Sir Nighteye": {
+      "codename": "SirNighteye"
+    },
+    "Stain": {
+      "codename": "Stain"
+    },
+    "Suneater": {
+      "codename": "Suneater"
+    },
+    "Tomura Shigaraki": {
+      "codename": "TomuraShigaraki"
+    },
+    "Tomura Shigaraki (Awakened)": {
+      "codename": "TomuraShigarakiAwakened"
+    },
+    "Tsukuyomi": {
+      "codename": "Tsukuyomi"
+    },
+    "Twice": {
+      "codename": "Twice"
+    },
+    "Uravity": {
+      "codename": "Uravity"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "My Hero One\u2019s Justice 2",
+  "smashgg_game_id": 44800,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "僕のヒーローアカデミア One's Justice 2"
+    }
+  }
+}

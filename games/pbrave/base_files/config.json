@@ -1,0 +1,50 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aleksander Arshavin": {
+      "codename": "Arshavin"
+    },
+    "Daisuke Sato": {
+      "codename": "Daisuke"
+    },
+    "Hadassa Silva": {
+      "codename": "Hadassa"
+    },
+    "Hector Silva": {
+      "codename": "Hector"
+    },
+    "Jorge Chagas": {
+      "codename": "Jorge"
+    },
+    "Kimberly Moore": {
+      "codename": "Kimberly"
+    },
+    "Malika Sharma": {
+      "codename": "Malika"
+    },
+    "Mingmei Wong": {
+      "codename": "Mingmei"
+    },
+    "Ekon Ndidi": {
+      "codename": "Ndidi"
+    },
+    "Nuno Alves": {
+      "codename": "Nuno"
+    },
+    "Sebastian Mcclane": {
+      "codename": "Sebastian"
+    },
+    "Sho Kamui": {
+      "codename": "Sho"
+    },
+    "Ximena Guadalupe": {
+      "codename": "Ximena"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Pocket Bravery",
+  "smashgg_game_id": 44108,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

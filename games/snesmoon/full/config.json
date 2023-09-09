@@ -66,8 +66,15 @@
   },
   "uncropped_edge": [
     "u",
-    "d",
     "l",
     "r"
-  ]
+  ],
+  "rescaling_factor": {
+    "SailorNeptune": {
+      "0": 2.0
+    },
+    "SailorUranus": {
+      "0": 2.0
+    }
+  }
 }

@@ -1,10 +1,10 @@
-# Character Idle Sprites
+# Portraits
 
 ## Description: 
 
-Character Idle Sprites
+Character Portraits
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+Files ripped from Dustloop Wiki (https://www.dustloop.com/w/SMS)
 

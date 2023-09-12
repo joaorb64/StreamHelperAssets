@@ -1,5 +1,5 @@
 import json
-import youtube_dl
+import yt_dlp as youtube_dl
 import requests
 import shutil
 import time

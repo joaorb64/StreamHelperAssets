@@ -1,6 +1,6 @@
 # HOW TO USE THE `generate_sound_pack.py` SCRIPT
 
-1. Install the `youtube-dl` library using the command `pip install youtube-dl`
+1. Install the `yt-dlp` library using the command `pip install yt-dlp`
 2. Install `ffmpeg` on your computer and make sure it is added to your `PATH`
 3. Create a `sound.json` file with the following format:
 

@@ -22,6 +22,11 @@
       "codename": "Wrastor",
       "locale": {
         "ru": "\u0420\u044d\u0441\u0442\u043e\u0440"
+      },
+      "skin_name": {
+        "16": {
+          "name": "Bradshaw"
+        }
       }
     },
     "Kragg": {
@@ -43,6 +48,11 @@
       "codename": "Maypul",
       "locale": {
         "ru": "\u041c\u0435\u0439\u043f\u0443\u043b"
+      },
+      "skin_name": {
+        "18": {
+          "name": "Ragnir"
+        }
       }
     },
     "Absa": {
@@ -92,6 +102,11 @@
       "codename": "Elliana",
       "locale": {
         "ru": "\u042d\u043b\u0438\u0430\u043d\u0430"
+      },
+      "skin_name": {
+        "15": {
+          "name": "Alaya"
+        }
       }
     },
     "Shovel Knight": {
@@ -307,7 +322,7 @@
       }
     }
   },
-  "version": "2.21",
+  "version": "2.22",
   "description": "Base config to use this game.",
   "credits": "@Readeku for ripping the assets"
 }

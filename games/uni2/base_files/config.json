@@ -1,0 +1,83 @@
+{
+  "name": "Under Night In-Birth II [Sys:Celes]",
+  "smashgg_game_id": 50203,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Hyde": {
+      "codename": "hyde"
+    },
+    "Linne": {
+      "codename": "linne"
+    },
+    "Waldstein": {
+      "codename": "waldstein"
+    },
+    "Carmine": {
+      "codename": "carmine"
+    },
+    "Orie": {
+      "codename": "orie"
+    },
+    "Gordeau": {
+      "codename": "gordeau"
+    },
+    "Merkava": {
+      "codename": "merkava"
+    },
+    "Vatista": {
+      "codename": "vatista"
+    },
+    "Seth": {
+      "codename": "seth"
+    },
+    "Yuzuriha": {
+      "codename": "yuzuriha"
+    },
+    "Hilda": {
+      "codename": "hilda"
+    },
+    "Chaos": {
+      "codename": "chaos"
+    },
+    "Nanase": {
+      "codename": "nanase"
+    },
+    "Byakuya": {
+      "codename": "byakuya"
+    },
+    "Phonon": {
+      "codename": "phonon"
+    },
+    "Mika": {
+      "codename": "mika"
+    },
+    "Wagner": {
+      "codename": "wagner"
+    },
+    "Enkidu": {
+      "codename": "enkidu"
+    },
+    "Londrekia": {
+      "codename": "londrekia"
+    },
+    "Eltnum": {
+      "codename": "eltnum"
+    },
+    "Akatsuki": {
+      "codename": "akatsuki"
+    },
+    "Kaguya": {
+      "codename": "kaguya"
+    },
+    "Tsurugi": {
+      "codename": "tsurugi"
+    },
+    "Kuon": {
+      "codename": "kuon"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": ""
+}

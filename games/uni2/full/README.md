@@ -1,10 +1,10 @@
-# Portraits
+# Artwork
 
 ## Description: 
 
-Character portraits
+Character artwork
 
 ## Credits: 
 
-Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Under_Night_In-Birth/UNICLR)
+
 

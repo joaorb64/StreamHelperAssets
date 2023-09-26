@@ -1,0 +1,53 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Ayako": {
+      "codename": "Ayako"
+    },
+    "Chiho": {
+      "codename": "Chiho"
+    },
+    "Elirin": {
+      "codename": "Elirin"
+    },
+    "Jun": {
+      "codename": "Jun"
+    },
+    "Kaori": {
+      "codename": "Kaori"
+    },
+    "Kyoko": {
+      "codename": "Kyoko"
+    },
+    "Manami": {
+      "codename": "Manami"
+    },
+    "Material": {
+      "codename": "Material"
+    },
+    "Miranda": {
+      "codename": "Miranda"
+    },
+    "Reimi": {
+      "codename": "Reimi"
+    },
+    "Saki": {
+      "codename": "Saki"
+    },
+    "Satomi": {
+      "codename": "Satomi"
+    },
+    "Tamao": {
+      "codename": "Tamao"
+    },
+    "Yuka": {
+      "codename": "Yuka"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Advanced V.G. 2",
+  "smashgg_game_id": 17934,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

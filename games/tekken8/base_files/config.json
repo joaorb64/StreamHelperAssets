@@ -2,52 +2,85 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Asuka Kazama": {
-      "codename": "AsukaKazama"
+      "codename": "asu"
+    },
+    "Azucena Ortiz": {
+      "codename": "azu"
     },
     "Bryan Fury": {
-      "codename": "BryanFury"
+      "codename": "bry"
     },
     "Claudio Serafino": {
-      "codename": "ClaudioSerafino"
+      "codename": "cla"
     },
     "Emilie \"Lili\" de Rochefort": {
-      "codename": "Lili"
+      "codename": "lil"
+    },
+    "Feng Wei": {
+      "codename": "fen"
     },
     "Hwoarang": {
-      "codename": "Hwoarang"
+      "codename": "hwo"
     },
     "Jack-8": {
-      "codename": "Jack8"
+      "codename": "jac"
     },
     "Jin Kazama": {
-      "codename": "JinKazama"
+      "codename": "jin"
     },
     "Jun Kazama": {
-      "codename": "JunKazama"
+      "codename": "jun"
     },
     "Kazuya Mishima": {
-      "codename": "KazuyaMishima"
+      "codename": "kaz"
     },
     "King II": {
-      "codename": "KingII"
+      "codename": "kin"
+    },
+    "Kuma": {
+      "codename": "kum"
     },
     "Lars Alexandersson": {
-      "codename": "LarsAlexandersson"
+      "codename": "lar"
+    },
+    "Leo Kliesen": {
+      "codename": "leo"
     },
     "Leroy Smith": {
-      "codename": "LeroySmith"
+      "codename": "ler"
     },
     "Ling Xiaoyu": {
-      "codename": "LingXiaoyu"
+      "codename": "xia"
     },
     "Marshall Law": {
-      "codename": "MarshallLaw"
+      "codename": "law"
     },
     "Nina Williams": {
-      "codename": "NinaWilliams"
+      "codename": "nin"
+    },
+    "Panda": {
+      "codename": "pan"
     },
     "Paul Phoenix": {
-      "codename": "PaulPhoenix"
+      "codename": "pau"
+    },
+    "Random": {
+      "codename": "random"
+    },
+    "Raven": {
+      "codename": "rav"
+    },
+    "Sergei Dragunov": {
+      "codename": "dra"
+    },
+    "Shaheen": {
+      "codename": "sha"
+    },
+    "Steve Fox": {
+      "codename": "ste"
+    },
+    "Yoshimitsu": {
+      "codename": "yos"
     }
   },
   "credits": "Icons ripped from Tekken Wiki (https://tekken.fandom.com/wiki/Tekken_8#Characters)",
@@ -55,5 +88,5 @@
   "name": "Tekken 8",
   "smashgg_game_id": null,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "0.1"
 }

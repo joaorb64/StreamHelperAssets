@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "ppt2"
+game_codename = "dfci"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

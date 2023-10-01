@@ -1,0 +1,131 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Ai": {
+      "codename": "Ai"
+    },
+    "Ally": {
+      "codename": "Ally"
+    },
+    "Amitie": {
+      "codename": "Amitie"
+    },
+    "Arle": {
+      "codename": "Arle"
+    },
+    "Carbuncle": {
+      "codename": "Carbuncle"
+    },
+    "Dark Prince": {
+      "codename": "DarkPrince"
+    },
+    "Draco Centauros": {
+      "codename": "DracoCentauros"
+    },
+    "Ecolo": {
+      "codename": "Ecolo"
+    },
+    "Ess": {
+      "codename": "Ess"
+    },
+    "Ex": {
+      "codename": "Ex"
+    },
+    "Feli": {
+      "codename": "Feli"
+    },
+    "Harpy": {
+      "codename": "Harpy"
+    },
+    "Jay & Elle": {
+      "codename": "JayElle"
+    },
+    "Klug": {
+      "codename": "Klug"
+    },
+    "Legam\u00fcnt": {
+      "codename": "Legam\u00fcnt"
+    },
+    "Lemres": {
+      "codename": "Lemres"
+    },
+    "Lidelle": {
+      "codename": "Lidelle"
+    },
+    "Maguro": {
+      "codename": "Maguro"
+    },
+    "Marle": {
+      "codename": "Marle"
+    },
+    "Ms. Accord": {
+      "codename": "MsAccord"
+    },
+    "O": {
+      "codename": "O"
+    },
+    "Ocean Prince": {
+      "codename": "OceanPrince"
+    },
+    "Possessed Klug": {
+      "codename": "PossessedKlug"
+    },
+    "Raffina": {
+      "codename": "Raffina"
+    },
+    "Rafisol": {
+      "codename": "Rafisol"
+    },
+    "Ragnus": {
+      "codename": "Ragnus"
+    },
+    "Ringo": {
+      "codename": "Ringo"
+    },
+    "Risukuma": {
+      "codename": "Risukuma"
+    },
+    "Rozatte": {
+      "codename": "Rozatte"
+    },
+    "Rulue": {
+      "codename": "Rulue"
+    },
+    "Schezo": {
+      "codename": "Schezo"
+    },
+    "Serilly": {
+      "codename": "Serilly"
+    },
+    "Sig": {
+      "codename": "Sig"
+    },
+    "Sonic": {
+      "codename": "Sonic"
+    },
+    "Squares": {
+      "codename": "Squares"
+    },
+    "Suketoudara": {
+      "codename": "Suketoudara"
+    },
+    "Tee": {
+      "codename": "Tee"
+    },
+    "Witch": {
+      "codename": "Witch"
+    },
+    "Yu & Rei": {
+      "codename": "YuRei"
+    },
+    "Zed": {
+      "codename": "Zed"
+    }
+  },
+  "credits": "Ripped from Puyo Nexus (https://puyonexus.com/wiki/Puyo_Puyo_Tetris_2)",
+  "description": "Base config to use this game.",
+  "name": "Puyo Puyo Tetris 2",
+  "smashgg_game_id": 35665,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

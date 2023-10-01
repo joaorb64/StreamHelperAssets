@@ -1,0 +1,71 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akira Yuki": {
+      "codename": "yak"
+    },
+    "Ako": {
+      "codename": "ako"
+    },
+    "Asuna": {
+      "codename": "asu"
+    },
+    "Emi Yusa": {
+      "codename": "emi"
+    },
+    "Kirino Kousaka": {
+      "codename": "krn"
+    },
+    "Kirito": {
+      "codename": "krt"
+    },
+    "Kuroko Shirai": {
+      "codename": "krk"
+    },
+    "Kuroyukihime": {
+      "codename": "kur"
+    },
+    "Mikoto Misaka": {
+      "codename": "mis"
+    },
+    "Miyuki Shiba": {
+      "codename": "sbm"
+    },
+    "Qwenthur Barbotage": {
+      "codename": "qen"
+    },
+    "Rentaro Satomi": {
+      "codename": "stm"
+    },
+    "Selvaria Bles": {
+      "codename": "slv"
+    },
+    "Shana": {
+      "codename": "sha"
+    },
+    "Shizuo Heiwajima": {
+      "codename": "shi"
+    },
+    "Taiga Aisaka": {
+      "codename": "tai"
+    },
+    "Tatsuya Shiba": {
+      "codename": "oni"
+    },
+    "Tomoka Minato": {
+      "codename": "tmk"
+    },
+    "Yukina Himeragi": {
+      "codename": "yun"
+    },
+    "Yuuki Konno": {
+      "codename": "yuk"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Dengeki Bunko: Fighting Climax IGNITION",
+  "smashgg_game_id": 4267,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

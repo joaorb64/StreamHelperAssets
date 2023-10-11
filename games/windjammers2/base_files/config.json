@@ -40,6 +40,12 @@
     },
     "Disc-Man": {
       "codename": "discman"
+    },
+    "Anna Szalinski": {
+      "codename": "szalinski"
+    },
+    "Jamma GX03": {
+      "codename": "gx03"
     }
   },
   "stage_to_codename": {
@@ -74,7 +80,7 @@
       "codename": "junk"
     }
   },
-  "version": "1.2",
+  "version": "1.3",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for detouring the in-game portraits"
 }

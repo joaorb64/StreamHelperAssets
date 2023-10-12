@@ -175,10 +175,19 @@
     },
     "Duo Lon": {
       "codename": "DuoLon"
+    },
+    "Hinako Shijo": {
+      "codename": "Hinako"
+    },
+    "Re Verse": {
+      "codename": "Boss1"
+    },
+    "Otoma=Raga": {
+      "codename": "Boss2"
     }
   },
   "stage_to_codename": {},
-  "version": "2.1",
+  "version": "2.2",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping"
 }

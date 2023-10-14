@@ -1,8 +1,8 @@
-# Mortal Kombat 1
+# Renders
 
 ## Description: 
 
-Base config to use this game.
+Character renders
 
 ## Credits: 
 

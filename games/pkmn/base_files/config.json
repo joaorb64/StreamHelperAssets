@@ -13122,15 +13122,106 @@
         "de": "Windewoge",
         "es": "Ferroverdor",
         "fr": "Vert-de-Fer",
-        "it":"Fogliaferrea",
+        "it": "Fogliaferrea",
         "ko": "무쇠잎새",
         "zh_TW": "鐵斑葉",
         "zh_CN": "铁斑叶"
       }
+    },
+    "Dipplin": {
+      "codename": "1011",
+      "locale": {
+        "ja": "カミッチュ",
+        "de": "Sirapfel",
+        "es": "Dipplin",
+        "fr": "Pomdramour",
+        "it": "Dipplin",
+        "ko": "과미르",
+        "zh_TW": "裹蜜蟲",
+        "zh_CN": "裹蜜虫"
+      }
+    },
+    "Poltchageist": {
+      "codename": "1012",
+      "locale": {
+        "ja": "チャデス",
+        "de": "Mortcha",
+        "es": "Poltchageist",
+        "fr": "Poltchageist",
+        "it": "Poltchageist",
+        "ko": "차데스",
+        "zh_TW": "斯魔茶",
+        "zh_CN": "斯魔茶"
+      }
+    },
+    "Sinistcha": {
+      "codename": "1013",
+      "locale": {
+        "ja": "ヤバソチャ",
+        "de": "Fatalitcha",
+        "es": "Sinistcha",
+        "fr": "Théffroyable",
+        "it": "Sinistcha",
+        "ko": "그우린차",
+        "zh_TW": "來悲粗茶",
+        "zh_CN": "来悲粗茶"
+      }
+    },
+    "Okidogi": {
+      "codename": "1014",
+      "locale": {
+        "ja": "イイネイヌ",
+        "de": "Boninu",
+        "es": "Okidogi",
+        "fr": "Félicanis",
+        "it": "Okidogi",
+        "ko": "조타구",
+        "zh_TW": "夠讚狗",
+        "zh_CN": "够赞狗"
+      }
+    },
+    "Munkidori": {
+      "codename": "1015",
+      "locale": {
+        "ja": "マシマシラ",
+        "de": "Benesaru",
+        "es": "Munkidori",
+        "fr": "Fortusimia",
+        "it": "Munkidori",
+        "ko": "이야후",
+        "zh_TW": "願增猿",
+        "zh_CN": "愿增猿"
+      }
+    },
+    "Fezandipiti": {
+      "codename": "1016",
+      "locale": {
+        "ja": "キチキギス",
+        "de": "Beatori",
+        "es": "Fezandipiti",
+        "fr": "Favianos",
+        "it": "Fezandipiti",
+        "ko": "기로치",
+        "zh_TW": "吉雉雞",
+        "zh_CN": "吉雉鸡"
+      }
+    },
+    "Ogerpon": {
+      "codename": "1017",
+      "locale": {
+        "ja": "オーガポン",
+        "de": "Ogerpon",
+        "es": "Ogerpon",
+        "fr": "Ogerpon",
+        "it": "Ogerpon",
+        "ko": "오거폰",
+        "zh_TW": "厄鬼椪",
+        "zh_CN": "厄诡椪"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.42",
+  "version": "1.5",
   "description": "Base config to use this game.\nPlease open an issue on Github or warn us in the Discord if some icons misatch with other asset packs or if the Pokémon uses a pixel icon despite being available in Brilliant Diamond/Shining Pearl/Scarlet/Violet",
   "credits": "",
   "challonge_game_id": 34,

@@ -1,0 +1,53 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Amy Rose": {
+      "codename": "AmyRose"
+    },
+    "Big the Cat": {
+      "codename": "BigtheCat"
+    },
+    "Chao Walker": {
+      "codename": "ChaoWalker"
+    },
+    "Chaos": {
+      "codename": "Chaos"
+    },
+    "Dr. Eggman": {
+      "codename": "DrEggman"
+    },
+    "Knuckles the Echidna": {
+      "codename": "KnucklestheEchidna"
+    },
+    "Metal Sonic": {
+      "codename": "MetalSonic"
+    },
+    "Miles \"Tails\" Prower": {
+      "codename": "MilesTailsPrower"
+    },
+    "Rouge the Bat": {
+      "codename": "RougetheBat"
+    },
+    "Shadow the Hedgehog": {
+      "codename": "ShadowtheHedgehog"
+    },
+    "Sonic the Hedgehog": {
+      "codename": "SonictheHedgehog"
+    },
+    "Super Shadow": {
+      "codename": "SuperShadow"
+    },
+    "Super Sonic": {
+      "codename": "SuperSonic"
+    },
+    "Tikal": {
+      "codename": "Tikal"
+    }
+  },
+  "credits": "Due to the lack of data, the renders are extracted from Sonic Forces, Sonic Frontiers and Team Sonic Racing.\nTikal render by Nibroc-Rock",
+  "description": "Base config to use this game.",
+  "name": "Sonic Adventure 2: Battle",
+  "smashgg_game_id": 9704,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

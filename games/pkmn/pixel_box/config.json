@@ -3,9 +3,10 @@
   "prefix": "icon_",
   "postfix": "_",
   "type": [
-    "icon_pixel"
+    "icon_pixel",
+    "icon"
   ],
-  "version": "1.5",
+  "version": "1.51",
   "uncropped_edge": [
     "u",
     "r",

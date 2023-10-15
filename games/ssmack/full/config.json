@@ -1,0 +1,17 @@
+{
+  "name": "Renders",
+  "description": "Character Renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/SMS)",
+  "version": "1.0",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ]
+}

@@ -717,10 +717,62 @@
         "it": "Inteleon",
         "es": "Inteleon"
       }
+    },
+    "Mewtwo": {
+      "codename": "150",
+      "locale": {
+        "fr": "Mewtwo",
+        "de": "Mewtu",
+        "ko": "\ubba4\uce20",
+        "ja": "\u30df\u30e5\u30a6\u30c4\u30fc",
+        "zh_CN": "\u8d85\u68a6",
+        "zh_TW": "\u8d85\u5922",
+        "it": "Mewtwo",
+        "es": "Mewtwo"
+      }
+    },
+    "Blaziken": {
+      "codename": "257",
+      "locale": {
+        "fr": "Bras\u00e9gali",
+        "de": "Lohgock",
+        "ko": "\ubc88\uce58\ucf54",
+        "ja": "\u30d0\u30b7\u30e3\u30fc\u30e2",
+        "zh_CN": "\u706b\u7130\u9e21",
+        "zh_TW": "\u706b\u7130\u96de",
+        "it": "Blaziken",
+        "es": "Blaziken"
+      }
+    },
+    "Mimikyu": {
+      "codename": "778",
+      "locale": {
+        "fr": "Mimiqui",
+        "de": "Mimigma",
+        "ko": "\ub530\ub77c\ud050",
+        "ja": "\u30df\u30df\u30c3\u30ad\u30e5",
+        "zh_CN": "\u8c1c\u62df\u4e18",
+        "zh_TW": "\u8b0e\u64ec\uff31",
+        "it": "Mimikyu",
+        "es": "Mimikyu"
+      }
+    },
+    "Meowscarada": {
+      "codename": "908",
+      "locale": {
+        "fr": "Miascarade",
+        "de": "Maskagato",
+        "ko": "\ub9c8\uc2a4\uce74\ub098",
+        "ja": "\u30de\u30b9\u30ab\u30fc\u30cb\u30e3",
+        "zh_CN": "\u9b54\u5e7b\u5047\u9762\u55b5",
+        "zh_TW": "\u9b54\u5e7b\u5047\u9762\u55b5",
+        "it": "Meowscarada",
+        "es": "Meowscarada"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.1",
+  "version": "1.2",
   "description": "Base config to use this game",
   "credits": "Icons from the Pokémon's most recent appearance in the Pokémon mainline series"
 }

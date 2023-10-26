@@ -32,3 +32,4 @@ utilities/convert_webp_to_png/out/*
 utilities/convert_webp_to_png/source/*
 utilities/translate_pokemon_names/source/*
 *.bak
+utilities/mass_update/*.json

@@ -100,9 +100,6 @@
     "Hattori": {
       "codename": "Hattori"
     },
-    "Heatwave": {
-      "codename": "Heatwave"
-    },
     "Hellboy": {
       "codename": "Hellboy"
     },
@@ -318,6 +315,60 @@
     },
     "Po": {
       "codename": "Po"
+    },
+    "Red Rapton": {
+      "codename": "RedRaptor"
+    },
+    "Loki": {
+      "codename": "Loki"
+    },
+    "King Knight": {
+      "codename": "KingKnight"
+    },
+    "The Rock": {
+      "codename": "TheRock"
+    },
+    "Roman Reigns": {
+      "codename": "RomanReigns"
+    },
+    "Macho Man": {
+      "codename": "MachoMan"
+    },
+    "The Undertaker": {
+      "codename": "Undertaker"
+    },
+    "Stevonnie": {
+      "codename": "Stevonnie"
+    },
+    "Garnet": {
+      "codename": "Garnet"
+    },
+    "Heatblast": {
+      "codename": "Heatblast"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Akuma": {
+      "codename": "Akuma"
+    },
+    "Dhalsim": {
+      "codename": "Dhalsim"
+    },
+    "The Master Chief": {
+      "codename": "MasterChief"
+    },
+    "The Arbiter": {
+      "codename": "Arbiter"
+    },
+    "Devil Jin": {
+      "codename": "DevilJin"
+    },
+    "Nina Williams": {
+      "codename": "NinaWilliams"
+    },
+    "Yoshimitsu": {
+      "codename": "Yoshimitsu"
     }
   },
   "credits": "",
@@ -350,5 +401,5 @@
       "codename": "Fangwild2"
     }
   },
-  "version": "0.2"
+  "version": "0.3"
 }

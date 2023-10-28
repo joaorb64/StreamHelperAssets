@@ -1,0 +1,142 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Android 16": {
+      "codename": "Android16"
+    },
+    "Android 17": {
+      "codename": "Android17"
+    },
+    "Android 18": {
+      "codename": "Android18"
+    },
+    "Bardock": {
+      "codename": "Bardock"
+    },
+    "Broly": {
+      "codename": "Broly"
+    },
+    "Innocent Buu": {
+      "codename": "Buu"
+    },
+    "Captain Ginyu": {
+      "codename": "CaptainGinyu"
+    },
+    "Cell": {
+      "codename": "Cell"
+    },
+    "Cell Jr.": {
+      "codename": "CellJr"
+    },
+    "Cooler": {
+      "codename": "Cooler"
+    },
+    "Dabura": {
+      "codename": "Dabura"
+    },
+    "Dr. Gero": {
+      "codename": "DrGero"
+    },
+    "Frieza": {
+      "codename": "Frieza"
+    },
+    "Gohan (Adult)": {
+      "codename": "GohanAdult"
+    },
+    "Gohan (Great Saiyaman)": {
+      "codename": "GohanGreatSaiyaman"
+    },
+    "Gohan (Kid)": {
+      "codename": "GohanKid"
+    },
+    "Gohan (Teen)": {
+      "codename": "GohanTeen"
+    },
+    "Goku": {
+      "codename": "Goku"
+    },
+    "Goku (Kid)": {
+      "codename": "GokuKid"
+    },
+    "Goten": {
+      "codename": "Goten"
+    },
+    "Gotenks": {
+      "codename": "Gotenks"
+    },
+    "Kibito Kai": {
+      "codename": "KibitoKai"
+    },
+    "Kid Buu": {
+      "codename": "KidBuu"
+    },
+    "Krillin": {
+      "codename": "Krillin"
+    },
+    "Mr. Satan": {
+      "codename": "MrSatan"
+    },
+    "Nappa": {
+      "codename": "Nappa"
+    },
+    "Omega Shenron": {
+      "codename": "OmegaShenron"
+    },
+    "Piccolo": {
+      "codename": "Piccolo"
+    },
+    "Raditz": {
+      "codename": "Raditz"
+    },
+    "Recoome": {
+      "codename": "Recoome"
+    },
+    "Saibaman": {
+      "codename": "Saibaman"
+    },
+    "Super Buu": {
+      "codename": "SuperBuu"
+    },
+    "Shin": {
+      "codename": "SupremeKai"
+    },
+    "Tien Shinhan": {
+      "codename": "TienShinhan"
+    },
+    "Trunks (Future)": {
+      "codename": "TrunksFuture"
+    },
+    "Trunks (Kid)": {
+      "codename": "TrunksKid"
+    },
+    "Uub": {
+      "codename": "Uub"
+    },
+    "Vegeta": {
+      "codename": "Vegeta"
+    },
+    "Vegito": {
+      "codename": "Vegito"
+    },
+    "Videl": {
+      "codename": "Videl"
+    },
+    "Yamcha": {
+      "codename": "Yamcha"
+    },
+    "Random": {
+      "codename": "00"
+    }
+  },
+  "credits": "Ripped via PCSX2",
+  "description": "Base config to use this game.",
+  "name": "Dragon Ball Z: Budokai 3",
+  "smashgg_game_id": 6030,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "ドラゴンボールＺ３"
+    }
+  }
+}

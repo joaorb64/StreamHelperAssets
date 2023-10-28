@@ -1,0 +1,176 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Abel": {
+      "codename": "Abel"
+    },
+    "Akuma": {
+      "codename": "Akuma"
+    },
+    "Alisa Bosconovitch": {
+      "codename": "AlisaBosconovitch"
+    },
+    "Ancient Ogre": {
+      "codename": "AncientOgre"
+    },
+    "Asuka Kazama": {
+      "codename": "AsukaKazama"
+    },
+    "Bad Box Art Mega Man": {
+      "codename": "BadBoxArtMegaMan"
+    },
+    "Balrog": {
+      "codename": "Balrog"
+    },
+    "Blanka": {
+      "codename": "Blanka"
+    },
+    "Bryan Fury": {
+      "codename": "BryanFury"
+    },
+    "Cammy White": {
+      "codename": "CammyWhite"
+    },
+    "Christie Monteiro": {
+      "codename": "ChristieMonteiro"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Cody Travers": {
+      "codename": "CodyTravers"
+    },
+    "Cole MacGrath": {
+      "codename": "ColeMacGrath"
+    },
+    "Craig Marduk": {
+      "codename": "CraigMarduk"
+    },
+    "Dhalsim": {
+      "codename": "Dhalsim"
+    },
+    "Dudley": {
+      "codename": "Dudley"
+    },
+    "Elena": {
+      "codename": "Elena"
+    },
+    "Emilie \"Lili\" De Rochefort": {
+      "codename": "EmilieLiliDeRochefort"
+    },
+    "Guile": {
+      "codename": "Guile"
+    },
+    "Guy": {
+      "codename": "Guy"
+    },
+    "Heihachi Mishima": {
+      "codename": "HeihachiMishima"
+    },
+    "Hugo Andore": {
+      "codename": "HugoAndore"
+    },
+    "Hwoarang": {
+      "codename": "Hwoarang"
+    },
+    "Ibuki": {
+      "codename": "Ibuki"
+    },
+    "JACK-X": {
+      "codename": "JACKX"
+    },
+    "Jin Kazama": {
+      "codename": "JinKazama"
+    },
+    "Julia Chang": {
+      "codename": "JuliaChang"
+    },
+    "Juri Han": {
+      "codename": "JuriHan"
+    },
+    "Kazuya Mishima": {
+      "codename": "KazuyaMishima"
+    },
+    "Ken Masters": {
+      "codename": "KenMasters"
+    },
+    "King": {
+      "codename": "King"
+    },
+    "Kuma": {
+      "codename": "Kuma"
+    },
+    "Kuro": {
+      "codename": "Kuro"
+    },
+    "Lars Alexandersson": {
+      "codename": "LarsAlexandersson"
+    },
+    "Lei Wulong": {
+      "codename": "LeiWulong"
+    },
+    "Ling Xiaoyu": {
+      "codename": "LingXiaoyu"
+    },
+    "M. Bison": {
+      "codename": "MBison"
+    },
+    "Marshall Law": {
+      "codename": "MarshallLaw"
+    },
+    "Nina Williams": {
+      "codename": "NinaWilliams"
+    },
+    "Pac-Man": {
+      "codename": "PacMan"
+    },
+    "Paul Phoenix": {
+      "codename": "PaulPhoenix"
+    },
+    "Poison": {
+      "codename": "Poison"
+    },
+    "Raven": {
+      "codename": "Raven"
+    },
+    "Robert \"Bob\" Richards": {
+      "codename": "RobertBobRichards"
+    },
+    "Rolento F. Schugerg": {
+      "codename": "RolentoFSchugerg"
+    },
+    "Rufus": {
+      "codename": "Rufus"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sagat": {
+      "codename": "Sagat"
+    },
+    "Sakura Kasugano": {
+      "codename": "SakuraKasugano"
+    },
+    "Steve Fox": {
+      "codename": "SteveFox"
+    },
+    "Toro Inoue": {
+      "codename": "ToroInoue"
+    },
+    "Vega": {
+      "codename": "Vega"
+    },
+    "Yoshimitsu": {
+      "codename": "Yoshimitsu"
+    },
+    "Zangief": {
+      "codename": "Zangief"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Street Fighter X Tekken",
+  "smashgg_game_id": 5229,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

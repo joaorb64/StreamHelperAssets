@@ -1,0 +1,74 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Adelaida Graciela": {
+      "codename": "AdelaidaGraciela"
+    },
+    "Amy": {
+      "codename": "Amy"
+    },
+    "Balan": {
+      "codename": "Balan"
+    },
+    "Big": {
+      "codename": "Big"
+    },
+    "Blaze": {
+      "codename": "Blaze"
+    },
+    "Chaos Zero": {
+      "codename": "ChaosZero"
+    },
+    "Cream & Cheese": {
+      "codename": "CreamCheese"
+    },
+    "Dr. Eggman": {
+      "codename": "DrEggman"
+    },
+    "Emerl": {
+      "codename": "Emerl"
+    },
+    "Espio": {
+      "codename": "Espio"
+    },
+    "Knuckles": {
+      "codename": "Knuckles"
+    },
+    "Mecha Sonic": {
+      "codename": "MechaSonic"
+    },
+    "Metal Sonic": {
+      "codename": "MetalSonic"
+    },
+    "Mighty": {
+      "codename": "Mighty"
+    },
+    "Omega": {
+      "codename": "Omega"
+    },
+    "Rouge": {
+      "codename": "Rouge"
+    },
+    "Shadow": {
+      "codename": "Shadow"
+    },
+    "Silver": {
+      "codename": "Silver"
+    },
+    "Sonic": {
+      "codename": "Sonic"
+    },
+    "Tails": {
+      "codename": "Tails"
+    },
+    "Vector": {
+      "codename": "Vector"
+    }
+  },
+  "credits": "Art by Nibroc-Rock\nBalan and Mecha Sonic art by Mathias Wolfbrok",
+  "description": "Base config to use this game.",
+  "name": "Sonic Smackdown",
+  "smashgg_game_id": 34156,
+  "stage_to_codename": {},
+  "version": "0.1"
+}

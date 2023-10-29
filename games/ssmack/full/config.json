@@ -1,0 +1,17 @@
+{
+  "name": "Renders",
+  "description": "Character Renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Art by Nibroc-Rock",
+  "version": "0.1",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ]
+}

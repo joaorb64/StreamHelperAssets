@@ -6,5 +6,5 @@ Base config to use this game.
 
 ## Credits: 
 
-Ripped from https://www.mortalkombat.com/en-us/game
+Ripped from https://www.mortalkombat.com/en-gb/roster
 

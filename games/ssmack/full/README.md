@@ -1,10 +1,10 @@
-# Renders
+# Artwork
 
 ## Description: 
 
-Character Renders
+Character Artwork
 
 ## Credits: 
 
-Art by Nibroc-Rock
+
 

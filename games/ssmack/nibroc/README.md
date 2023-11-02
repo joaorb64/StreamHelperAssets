@@ -2,7 +2,7 @@
 
 ## Description: 
 
-Character Renders
+Character Renders by Nibroc-Rock
 
 ## Credits: 
 

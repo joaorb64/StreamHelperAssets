@@ -1,0 +1,53 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Ash": {
+      "codename": "Ash"
+    },
+    "Candyman": {
+      "codename": "Candyman"
+    },
+    "Chucky": {
+      "codename": "Chucky"
+    },
+    "Freddy Krueger": {
+      "codename": "Freddy"
+    },
+    "Ghostface": {
+      "codename": "Ghostface"
+    },
+    "Herbert West": {
+      "codename": "Herbert"
+    },
+    "Jason Voornees (Classic)": {
+      "codename": "Jason-C"
+    },
+    "Jason Voornees (Undead)": {
+      "codename": "Jason_Undead"
+    },
+    "Leatherface": {
+      "codename": "Leatherface"
+    },
+    "Maniac Cop": {
+      "codename": "ManiacCop"
+    },
+    "Michael Myers": {
+      "codename": "Michael"
+    },
+    "Pinhead": {
+      "codename": "Pinhead"
+    },
+    "Pumpkinhead": {
+      "codename": "Pumpkinhead"
+    },
+    "Tallman": {
+      "codename": "Tallman"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Terrordrome: Rise of the Boogeymen",
+  "smashgg_game_id": 45446,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

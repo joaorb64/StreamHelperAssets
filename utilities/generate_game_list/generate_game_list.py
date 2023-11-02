@@ -26,6 +26,7 @@ for dirname in os.listdir(path_to_games):
 
 list_games = {k: v for k, v in sorted(list_games.items(), key=lambda item: item[1]["name"].lower())}
 character_total = 0
+pkmn_total = 0
 
 with open(f"./list_games.txt", 'wt', encoding='utf-8') as list_file:
     for game in list_games:
@@ -40,6 +41,9 @@ with open(f"./list_games.txt", 'wt', encoding='utf-8') as list_file:
         list_file.write(f"- {game_name} ({nb_asset_packs_for_game} asset pack{has_s}, {nb_characters} character{char_has_s})\n")
         if game != "pkmn":
             character_total += nb_characters
+        else:
+            pkmn_total += nb_characters
 
 print("Number of games found:", len(list_games))
 print("Number of characters found (Excuding Pokémon):", character_total)
+print("Number of Pokémon found:", pkmn_total)

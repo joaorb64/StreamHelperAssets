@@ -79,8 +79,35 @@
       "codename": "RenStimpy"
     }
   },
-
-  "stage_to_codename": {},
+    "stage_to_codename": {
+        "Food Dream": {
+            "codename": "Food Dream"
+        },
+        "Harmonic Convergence": {
+            "codename": "Harmonic Convergence"
+        },
+        "Irken Armada Invasion": {
+            "codename": "Irken Armada Invasion"
+        },
+        "Jellyfish Fields": {
+            "codename": "Jellyfish Fields"
+        },
+        "Miracle City Volcano": {
+            "codename": "Miracle City Volcano"
+        },
+        "Rooftop Rumble": {
+            "codename": "Rooftop Rumble"
+        },
+        "Royal Woods Cemetery": {
+            "codename": "Royal Woods Cemetery"
+        },
+        "Technodrome Takedown": {
+            "codename": "Technodrome Takedown"
+        },
+        "Tremorton Joyride": {
+            "codename": "Tremorton Joyride"
+        }
+    },
   "version": "1.0",
   "description": "NASB Sweep!!!",
   "credits": "TNTBlowzUp"

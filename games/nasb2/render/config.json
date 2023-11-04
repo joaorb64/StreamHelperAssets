@@ -188,12 +188,14 @@
         "Zim": {
             "0": 0.6
         },
-       "SpongeBob": {
+        "SpongeBob": {
             "0": 0.65
         }
     },
     "uncropped_edge": [
         "u",
+        "d",
+        "l",
         "r"
     ]
 }

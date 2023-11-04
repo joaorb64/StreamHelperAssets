@@ -1,0 +1,114 @@
+{
+  "name": "Nickelodeon All-Star Brawl 2",
+  "challonge_game_id": null,
+  "smashgg_game_id": 39281,
+  "character_to_codename": {
+    "SpongeBob": {
+      "codename": "SpongeBob"
+    },
+    "Patrick": {
+      "codename": "Patrick"
+    },
+    "Squidward": {
+      "codename": "Squidward"
+    },
+    "Mecha Plankton": {
+      "codename": "MechaPlankton"
+    },
+    "El Tigre": {
+      "codename": "ElTigre"
+    },
+    "Rocko": {
+      "codename": "Rocko"
+    },
+    "Jimmy Neutron": {
+      "codename": "Jimmy"
+    },
+    "Lucy Loud": {
+      "codename": "Lucy"
+    },
+    "Angry Beavers": {
+      "codename": "Dagget"
+    },
+    "Garfield": {
+      "codename": "Garfield"
+    },
+    "Aang": {
+      "codename": "Aang"
+    },
+    "Korra": {
+      "codename": "Korra"
+    },
+    "Azula": {
+      "codename": "Azula"
+    },
+    "Raphael": {
+      "codename": "Raphael"
+    },
+    "Donatello": {
+      "codename": "Donatello"
+    },
+    "April": {
+      "codename": "April"
+    },
+    "Danny Phantom": {
+      "codename": "Danny"
+    },
+    "Ember": {
+      "codename": "Ember"
+    },
+    "Grandma Gertie": {
+      "codename": "GrandmaGertie"
+    },
+    "Gerald": {
+      "codename": "Gerald"
+    },
+    "Nigel": {
+      "codename": "Nigel"
+    },
+    "Zim": {
+      "codename": "Zim"
+    },
+    "Jenny Wakeman": {
+      "codename": "Jenny"
+    },
+    "Reptar": {
+      "codename": "Reptar"
+    },
+    "Ren & Stimpy": {
+      "codename": "RenStimpy"
+    }
+  },
+    "stage_to_codename": {
+        "Food Dream": {
+            "codename": "Food Dream"
+        },
+        "Harmonic Convergence": {
+            "codename": "Harmonic Convergence"
+        },
+        "Irken Armada Invasion": {
+            "codename": "Irken Armada Invasion"
+        },
+        "Jellyfish Fields": {
+            "codename": "Jellyfish Fields"
+        },
+        "Miracle City Volcano": {
+            "codename": "Miracle City Volcano"
+        },
+        "Rooftop Rumble": {
+            "codename": "Rooftop Rumble"
+        },
+        "Royal Woods Cemetery": {
+            "codename": "Royal Woods Cemetery"
+        },
+        "Technodrome Takedown": {
+            "codename": "Technodrome Takedown"
+        },
+        "Tremorton Joyride": {
+            "codename": "Tremorton Joyride"
+        }
+    },
+  "version": "1.0",
+  "description": "NASB Sweep!!!",
+  "credits": "TNTBlowzUp"
+}

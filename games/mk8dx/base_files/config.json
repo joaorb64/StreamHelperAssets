@@ -606,6 +606,85 @@
         "it": "Strutzi",
         "ru": "\u0411\u0438\u0440\u0434\u043e"
       }
+    },
+    "Diddy Kong": {
+      "codename": "Diddy",
+      "locale": {
+        "ja": "\u30c7\u30a3\u30c7\u30a3\u30fc\u30b3\u30f3\u30b0",
+        "zh_CN": "\u8fea\u8fea\u521a",
+        "zh_TW": "\u72c4\u72c4\u525b",
+        "ko": "\ub514\ub514\ucf69",
+        "ru": "\u0414\u0438\u0434\u0434\u0438 \u041a\u043e\u043d\u0433"
+      }
+    },
+    "Funky Kong": {
+      "codename": "Funky",
+      "locale": {
+        "ja": "\u30d5\u30a1\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
+        "zh_CN": "\u9177\u559c\u521a",
+        "zh_TW": "\u9177\u559c\u525b",
+        "ko": "\ud391\ud0a4 \ucf69",
+        "ru": "\u0424\u0430\u043d\u043a\u0438 \u041a\u043e\u043d\u0433"
+      }
+    },
+    "Pauline": {
+      "codename": "Pauline",
+      "locale": {
+        "ja": "\u30dd\u30ea\u30fc\u30f3",
+        "zh_CN": "\u5b9d\u7433",
+        "zh_TW": "\u6ce2\u7433",
+        "ko": "\ud3f4\ub9b0",
+        "ru": "\u041f\u043e\u043b\u0438\u043d\u0430"
+      }
+    },
+    "Peachette": {
+      "codename": "Peachette",
+      "locale": {
+        "ja": "\u30ad\u30ce\u30d4\u30fc\u30c1",
+        "zh_CN": "\u5947\u8bfa\u6bd4\u6843\u516c\u4e3b",
+        "zh_TW": "\u5947\u8afe\u6bd4\u59ec\u516c\u4e3b",
+        "ko": "\ud0a4\ub178\ud53c\uce58",
+        "ru": "\u041f\u0438\u0447\u0435\u0442\u0442\u0430"
+      }
+    },
+    "Petey Piranha": {
+      "codename": "Petey",
+      "locale": {
+        "fr": "Flora Piranha",
+        "de": "Mutant-Tyranha",
+        "it": "Pipino Piranha",
+        "es": "Floro Pira\u00f1a",
+        "es_LA": "Pepito pira\u00f1a",
+        "ja": "\u30dc\u30b9\u30d1\u30c3\u30af\u30f3",
+        "ko": "\ubed0\ub054\uc655",
+        "zh_CN": "\u541e\u98df\u82b1\u8001\u5927",
+        "zh_TW": "\u541e\u98df\u82b1\u8001\u5927",
+        "fr_CA": "Petey Piranha"
+      }
+    },
+    "Wiggler": {
+      "codename": "Wiggler",
+      "locale": {
+        "ja": "\u30cf\u30ca\u30c1\u30e3\u30f3",
+        "zh_CN": "\u82b1\u6bdb\u6bdb",
+        "zh_TW": "\u82b1\u6bdb\u6bdb",
+        "ko": "\uaf43\ucda9\uc774",
+        "ru": "\u0415\u0433\u043e\u0437\u0430",
+        "es": "Floruga",
+        "pt_BR": "Wiggler",
+        "pt_PT": "Lagartola",
+        "it": "Torcibruco"
+      }
+    },
+    "Kamek": {
+      "codename": "Kamek",
+      "locale": {
+        "ja": "\u30ab\u30e1\u30c3\u30af",
+        "zh_CN": "\u5361\u7f8e\u514b",
+        "zh_TW": "\u5361\u7f8e\u514b",
+        "ko": "\ub9c8\uadc0",
+        "ru": "\u041a\u0430\u043c\u0435\u043a"
+      }
     }
   },
   "credits": "",
@@ -613,7 +692,7 @@
   "name": "Mario Kart 8 Deluxe",
   "smashgg_game_id": 2165,
   "stage_to_codename": {},
-  "version": "1.11",
+  "version": "2.0",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c88 \u30c7\u30e9\u30c3\u30af\u30b9"

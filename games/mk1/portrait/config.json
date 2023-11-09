@@ -12,7 +12,7 @@
     "portrait"
   ],
   "credits": "",
-  "version": "1.0",
+  "version": "1.1",
   "eyesights": {
     "Ashrah": {
       "0": {
@@ -150,6 +150,12 @@
       "0": {
         "x": 431,
         "y": 282
+      }
+    },
+    "OmniMan": {
+      "0": {
+        "x": 513,
+        "y": 263
       }
     }
   }

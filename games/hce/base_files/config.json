@@ -1,0 +1,50 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aronia Excel": {
+      "codename": "08"
+    },
+    "Ashley": {
+      "codename": "11"
+    },
+    "Aya": {
+      "codename": "02"
+    },
+    "Aya (Immortal)": {
+      "codename": "12"
+    },
+    "Camille Enfield": {
+      "codename": "03"
+    },
+    "Celes Alfort": {
+      "codename": "05"
+    },
+    "Clestis Farrell": {
+      "codename": "07"
+    },
+    "Hardy Alfort": {
+      "codename": "06"
+    },
+    "Kakeru": {
+      "codename": "09"
+    },
+    "Kasumi Seiga Freslight": {
+      "codename": "04"
+    },
+    "Malakh": {
+      "codename": "10"
+    },
+    "Raven": {
+      "codename": "00"
+    },
+    "Silvis Laws": {
+      "codename": "01"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Hinokakera: Chaotic Eclipse",
+  "smashgg_game_id": null,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

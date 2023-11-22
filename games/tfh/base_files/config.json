@@ -42,10 +42,14 @@
     "Nidra": {
       "smashgg_name": "Nidra",
       "codename": "Nidra"
+    },
+    "Baihe": {
+      "smashgg_name": "Baihe",
+      "codename": "Baihe"
     }
   },
   "stage_to_codename": {},
-  "version": "1.21",
+  "version": "1.3",
   "description": "Base config to use this game.",
   "credits": ""
 }

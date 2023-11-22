@@ -7,12 +7,10 @@
     "full"
   ],
   "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.03",
+  "version": "1.04",
   "uncropped_edge": [
     "u",
-    "d",
-    "l",
-    "r"
+    "d"
   ],
   "eyesights": {
     "balrog": {

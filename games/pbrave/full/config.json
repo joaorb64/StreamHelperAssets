@@ -1,13 +1,13 @@
 {
   "name": "Artwork",
-  "description": "Character astwork",
+  "description": "Character artwork",
   "prefix": "",
   "postfix": "_",
   "type": [
     "full"
   ],
   "credits": "",
-  "version": "1.0",
+  "version": "1.1",
   "eyesights": {
     "Arshavin": {
       "0": {
@@ -85,6 +85,12 @@
       "0": {
         "x": 5471,
         "y": 5676
+      }
+    },
+    "Rick": {
+      "0": {
+        "x": 3788,
+        "y": 3408
       }
     }
   },

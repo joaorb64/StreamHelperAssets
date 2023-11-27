@@ -2,7 +2,7 @@
 
 ## Description: 
 
-Character astwork
+Character artwork
 
 ## Credits: 
 

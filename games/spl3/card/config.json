@@ -1,6 +1,6 @@
 {
   "name": "Tableturf Art",
-  "version": "5.0",
+  "version": "6.0",
   "description": "Art used in the Tableturf Battle mode",
   "prefix": "card_",
   "postfix": "_",
@@ -154,6 +154,33 @@
     },
     "SorellaBrella": {
       "0": 0.7170868347338936
+    },
+    "CustomBlaster": {
+      "0": 0.7191011235955056
+    },
+    "EnperrySplatDualies": {
+      "0": 0.7191011235955056
+    },
+    "FoilSqueezer": {
+      "0": 0.7191011235955056
+    },
+    "NeoSplatanaStamper": {
+      "0": 0.7191011235955056
+    },
+    "PainbrushNouveau": {
+      "0": 0.7191011235955056
+    },
+    "REEFLUX450Deco": {
+      "0": 0.7191011235955056
+    },
+    "SBLAST'91": {
+      "0": 0.7191011235955056
+    },
+    "Snipewriter5B": {
+      "0": 0.7191011235955056
+    },
+    "UndercoverSorellaBrella": {
+      "0": 0.7191011235955056
     }
   }
 }

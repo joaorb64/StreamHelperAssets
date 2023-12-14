@@ -13218,10 +13218,114 @@
         "zh_TW": "厄鬼椪",
         "zh_CN": "厄诡椪"
       }
+    },
+    "Archaludon": {
+      "codename": "1018",
+      "locale": {
+        "ja": "ブリジュラス",
+        "de": "Briduradon",
+        "es": "Archaludon",
+        "fr": "Pondralugon",
+        "it": "Archaludon",
+        "ko": "브리두라스",
+        "zh_TW": "鋁鋼橋龍",
+        "zh_CN": "铝钢桥龙"
+      }
+    },
+    "Hydrapple": {
+      "codename": "1019",
+      "locale": {
+        "ja": "カミツオロチ",
+        "de": "Hydrapfel",
+        "es": "Hydrapple",
+        "fr": "Pomdorochi",
+        "it": "Hydrapple",
+        "ko": "",
+        "zh_TW": "蜜集大蛇",
+        "zh_CN": "蜜集大蛇"
+      }
+    },
+    "Gouging Fire": {
+      "codename": "1020",
+      "locale": {
+        "ja": "ウガツホムラ",
+        "de": "Keilflamme",
+        "es": "",
+        "fr": "Feu-Perçant",
+        "it": "",
+        "ko": "",
+        "zh_TW": "破空焰",
+        "zh_CN": "破空焰"
+      }
+    },
+    "Raging Bolt": {
+      "codename": "1021",
+      "locale": {
+        "ja": "タケルライコ",
+        "de": "Furienblitz",
+        "es": "Electrofuria",
+        "fr": "Ire-Foudre",
+        "it": "Furiatonante",
+        "ko": "날뛰는우레",
+        "zh_TW": "猛雷鼓",
+        "zh_CN": "猛雷鼓"
+      }
+    },
+    "Iron Boulder": {
+      "codename": "1022",
+      "locale": {
+        "ja": "テツノイワオ",
+        "de": "Eisenfels",
+        "es": "",
+        "fr": "Roc-de-Fer",
+        "it": "",
+        "ko": "",
+        "zh_TW": "鐵磐岩",
+        "zh_CN": "铁磐岩"
+      }
+    },
+    "Iron Crown": {
+      "codename": "1023",
+      "locale": {
+        "ja": "テツノカシラ",
+        "de": "Eisenhaupt",
+        "es": "Ferrotesta",
+        "fr": "Chef-de-Fer",
+        "it": "Capoferreo",
+        "ko": "무쇠감투",
+        "zh_TW": "鐵頭殼",
+        "zh_CN": "铁头壳"
+      }
+    },
+    "Terapagos": {
+      "codename": "1024",
+      "locale": {
+        "ja": "テラパゴス",
+        "de": "Terapagos",
+        "es": "Terapagos",
+        "fr": "Terapagos",
+        "it": "Terapagos",
+        "ko": "테라파고스",
+        "zh_TW": "太樂巴戈斯",
+        "zh_CN": "太乐巴戈斯"
+      }
+    },
+    "Pecharunt": {
+      "codename": "1025",
+      "locale": {
+        "ja": "モモワロウ",
+        "de": "Infamomo",
+        "es": "Pecharunt",
+        "fr": "Pêchaminus",
+        "it": "Pecharunt",
+        "ko": "",
+        "zh_TW": "桃歹郎",
+        "zh_CN": "桃歹郎"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.51",
+  "version": "1.6",
   "description": "Base config to use this game.\nPlease open an issue on Github or warn us in the Discord if some icons misatch with other asset packs or if the Pokémon uses a pixel icon despite being available in Brilliant Diamond/Shining Pearl/Scarlet/Violet",
   "credits": "",
   "challonge_game_id": 34,

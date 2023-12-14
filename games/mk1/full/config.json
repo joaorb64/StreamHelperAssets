@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://www.mortalkombat.com/en-gb/roster",
-  "version": "1.1",
+  "version": "1.2",
   "uncropped_edge": [
     "u",
     "l",
@@ -157,6 +157,12 @@
       "0": {
         "x": 456,
         "y": 151
+      }
+    },
+    "QuanChi": {
+      "0": {
+        "x": 640,
+        "y": 137
       }
     }
   }

@@ -6,8 +6,8 @@
   "type": [
     "full"
   ],
-  "credits": "Renders for Pikachu-Cosplay from Serebii, nileplumb\nRender for Pichu-Spiky from Super Smash Bros. Ultimate\nRender for Eternal Floette by TheAdorableOshawott",
-  "version": "1.51",
+  "credits": "Renders for Pikachu-Cosplay from Serebii, nileplumb\nRender for Pichu-Spiky from Super Smash Bros. Ultimate\nRender for Floette-Eternal by TheAdorableOshawott\nPlaceholder renders from Serebii",
+  "version": "1.6",
   "uncropped_edge": [
     "u",
     "r",
@@ -20,6 +20,14 @@
     },
     "025": {
       "9": 2.0, "10": 4.5, "12": 4.5
-    }
+    },
+    "1018": {"0": 2.0},
+    "1019": {"0": 2.0},
+    "1020": {"0": 2.0},
+    "1021": {"0": 2.0},
+    "1022": {"0": 2.0},
+    "1023": {"0": 2.0},
+    "1024": {"0": 2.0, "1": 2.0, "2": 2.0},
+    "1025": {"0": 2.0}
   }
 }

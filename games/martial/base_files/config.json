@@ -1,0 +1,47 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Crane": {
+      "codename": "03"
+    },
+    "Drunk Master": {
+      "codename": "02"
+    },
+    "Ghost Kick": {
+      "codename": "04"
+    },
+    "Lotus Master": {
+      "codename": "13"
+    },
+    "Master Huang": {
+      "codename": "01"
+    },
+    "Monk": {
+      "codename": "12"
+    },
+    "Monkey Boy": {
+      "codename": "11"
+    },
+    "Red Snake": {
+      "codename": "10"
+    },
+    "Reika": {
+      "codename": "06"
+    },
+    "Saojin": {
+      "codename": "07"
+    },
+    "Scorpion": {
+      "codename": "09"
+    },
+    "Tiger": {
+      "codename": "05"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Martial Masters",
+  "smashgg_game_id": 16183,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

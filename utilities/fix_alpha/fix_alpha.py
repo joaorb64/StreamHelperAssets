@@ -1,9 +1,10 @@
 from PIL import Image
 from glob import glob
 
-file_list = glob("*.png")
+file_list = glob("**/*.png", recursive=True)
 
 for file_name in file_list:
+    print(file_name)
     source = Image.open(file_name, "r").convert("RGBA")
     max_alpha = 0
     for x in range(source.width):

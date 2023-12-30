@@ -1,0 +1,50 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Adon": {
+      "codename": "Adon"
+    },
+    "Birdie": {
+      "codename": "Birdie"
+    },
+    "Cody": {
+      "codename": "Cody"
+    },
+    "Eagle": {
+      "codename": "Eagle"
+    },
+    "Geki": {
+      "codename": "Geki"
+    },
+    "Gen": {
+      "codename": "Gen"
+    },
+    "Joe": {
+      "codename": "Joe"
+    },
+    "Ken": {
+      "codename": "Ken"
+    },
+    "Lee": {
+      "codename": "Lee"
+    },
+    "Mike": {
+      "codename": "Mike"
+    },
+    "Retsu": {
+      "codename": "Retsu"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sagat": {
+      "codename": "Sagat"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.\nNote: This pack is made with \"Street Fighter ONE\", the MUGEN remake of the original \"Street Fighter\", in mind.",
+  "name": "Street Fighter ONE",
+  "smashgg_game_id": 57007,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

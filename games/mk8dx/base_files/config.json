@@ -1,5 +1,5 @@
 {
-  "challonge_game_id": null,
+  "challonge_game_id": 12970,
   "character_to_codename": {
     "Baby Daisy": {
       "codename": "BabyDaisy",
@@ -691,11 +691,333 @@
   "description": "Base config to use this game.",
   "name": "Mario Kart 8 Deluxe",
   "smashgg_game_id": 2165,
-  "stage_to_codename": {},
-  "version": "2.0",
+  "stage_to_codename": {
+    "Mario Kart Stadium": {
+      "codename": "Gu_FirstCircuit"
+    },
+    "Water Park": {
+      "codename": "Gu_WaterPark"
+    },
+    "Sweet Sweet Canyon": {
+      "codename": "Gu_Cake"
+    },
+    "Thwomp Ruins": {
+      "codename": "Gu_DossunIseki"
+    },
+    "Mario Circuit": {
+      "codename": "Gu_MarioCircuit"
+    },
+    "Toad Harbor": {
+      "codename": "Gu_City"
+    },
+    "Twisted Mansion": {
+      "codename": "Gu_HorrorHouse"
+    },
+    "Shy Guy Falls": {
+      "codename": "Gu_Expert"
+    },
+    "Sunshine Airport": {
+      "codename": "Gu_Airport"
+    },
+    "Dolphin Shoals": {
+      "codename": "Gu_Ocean"
+    },
+    "Electrodrome": {
+      "codename": "Gu_Techno"
+    },
+    "Mount Wario": {
+      "codename": "Gu_SnowMountain"
+    },
+    "Cloudtop Cruise": {
+      "codename": "Gu_Cloud"
+    },
+    "Bone-Dry Dunes": {
+      "codename": "Gu_Desert"
+    },
+    "Bowser's Castle": {
+      "codename": "Gu_BowserCastle"
+    },
+    "Rainbow Road": {
+      "codename": "Gu_RainbowRoad"
+    },
+    "Wii | Moo Moo Meadows": {
+      "codename": "Gwii_MooMooMeadows"
+    },
+    "GBA | Mario Circuit": {
+      "codename": "Gagb_MarioCircuit"
+    },
+    "DS | Cheep Cheep Beach": {
+      "codename": "Gds_PukupukuBeach"
+    },
+    "N64 | Toad's Turnpike": {
+      "codename": "G64_KinopioHighway"
+    },
+    "GCN | Dry Dry Desert": {
+      "codename": "Ggc_DryDryDesert"
+    },
+    "SNES | Donut Plains 3": {
+      "codename": "Gsfc_DonutsPlain3"
+    },
+    "N64 | Royal Raceway": {
+      "codename": "G64_PeachCircuit"
+    },
+    "3DS | DK Jungle": {
+      "codename": "G3ds_DKJungle"
+    },
+    "DS | Wario Stadium": {
+      "codename": "Gds_WarioStadium"
+    },
+    "GCN | Sherbet Land": {
+      "codename": "Ggc_SherbetLand"
+    },
+    "3DS | Music Park": {
+      "codename": "G3ds_MusicPark"
+    },
+    "N64 | Yoshi Valley": {
+      "codename": "G64_YoshiValley"
+    },
+    "DS | Tick-Tock Clock": {
+      "codename": "Gds_TickTockClock"
+    },
+    "3DS | Piranha Plant Slide": {
+      "codename": "G3ds_PackunSlider"
+    },
+    "Wii | Grumble Volcano": {
+      "codename": "Gwii_GrumbleVolcano"
+    },
+    "N64 | Rainbow Road": {
+      "codename": "G64_RainbowRoad"
+    },
+    "GCN | Yoshi Circuit": {
+      "codename": "Dgc_YoshiCircuit"
+    },
+    "Excitebike Arena": {
+      "codename": "Du_ExciteBike"
+    },
+    "Dragon Driftway": {
+      "codename": "Du_DragonRoad"
+    },
+    "Mute City": {
+      "codename": "Du_MuteCity"
+    },
+    "Wii | Wario's Gold Mine": {
+      "codename": "Dwii_WariosMine"
+    },
+    "SNES | Rainbow Road": {
+      "codename": "Dsfc_RainbowRoad"
+    },
+    "Ice Ice Outpost": {
+      "codename": "Du_IcePark"
+    },
+    "Hyrule Circuit": {
+      "codename": "Du_Hyrule"
+    },
+    "GCN | Baby Park": {
+      "codename": "Dgc_BabyPark"
+    },
+    "GBA | Cheese Land": {
+      "codename": "Dagb_CheeseLand"
+    },
+    "Wild Woods": {
+      "codename": "Du_Woods"
+    },
+    "Animal Crossing": {
+      "codename": "Du_Animal_Spring"
+    },
+    "3DS | Neo Bowser City": {
+      "codename": "D3ds_NeoBowserCity"
+    },
+    "GBA | Ribbon Road": {
+      "codename": "Dagb_RibbonRoad"
+    },
+    "Super Bell Subway": {
+      "codename": "Du_Metro"
+    },
+    "Big Blue": {
+      "codename": "Du_BigBlue"
+    },
+    "Tour | Paris Promenade": {
+      "codename": "Cnsw_11"
+    },
+    "3DS | Toad Circuit": {
+      "codename": "Cnsw_12"
+    },
+    "N64 | Choco Mountain": {
+      "codename": "Cnsw_13"
+    },
+    "Wii | Coconut Mall": {
+      "codename": "Cnsw_14"
+    },
+    "Tour | Tokyo Blur": {
+      "codename": "Cnsw_15"
+    },
+    "DS | Shroom Ridge": {
+      "codename": "Cnsw_16"
+    },
+    "GBA | Sky Garden": {
+      "codename": "Cnsw_17"
+    },
+    "Tour | Ninja Hideaway": {
+      "codename": "Cnsw_18"
+    },
+    "Tour | New York Minute": {
+      "codename": "Cnsw_21"
+    },
+    "SNES | Mario Circuit 3": {
+      "codename": "Cnsw_22"
+    },
+    "N64 | Kalimari Desert": {
+      "codename": "Cnsw_23"
+    },
+    "DS | Waluigi Pinball": {
+      "codename": "Cnsw_24"
+    },
+    "Tour | Sydney Sprint": {
+      "codename": "Cnsw_25"
+    },
+    "GBA | Snow Land": {
+      "codename": "Cnsw_26"
+    },
+    "Wii | Mushroom Gorge": {
+      "codename": "Cnsw_27"
+    },
+    "Sky-High Sundae": {
+      "codename": "Cnsw_28"
+    },
+    "Tour | London Loop": {
+      "codename": "Cnsw_31"
+    },
+    "GBA | Boo Lake": {
+      "codename": "Cnsw_33"
+    },
+    "3DS | Rock Rock Mountain": {
+      "codename": "Cnsw_34"
+    },
+    "Wii | Maple Treeway": {
+      "codename": "Cnsw_62"
+    },
+    "Tour | Berlin Byways": {
+      "codename": "Cnsw_35"
+    },
+    "DS | Peach Gardens": {
+      "codename": "Cnsw_32"
+    },
+    "Tour | Merry Mountain": {
+      "codename": "Cnsw_37"
+    },
+    "3DS | Rainbow Road": {
+      "codename": "Cnsw_38"
+    },
+    "Tour | Amsterdam Drift": {
+      "codename": "Cnsw_41"
+    },
+    "GBA | Riverside Park": {
+      "codename": "Cnsw_47"
+    },
+    "Wii | DK Summit": {
+      "codename": "Cnsw_42"
+    },
+    "Yoshi's Island": {
+      "codename": "Cnsw_44"
+    },
+    "Tour | Bangkok Rush": {
+      "codename": "Cnsw_55"
+    },
+    "DS | Mario Circuit": {
+      "codename": "Cnsw_43"
+    },
+    "GCN | Waluigi Stadium": {
+      "codename": "Cnsw_36"
+    },
+    "Tour | Singapore Speedway": {
+      "codename": "Cnsw_45"
+    },
+    "Tour | Athens Dash": {
+      "codename": "Cnsw_65"
+    },
+    "GCN | Daisy Cruiser": {
+      "codename": "Cnsw_46"
+    },
+    "Wii | Moonview Highway": {
+      "codename": "Cnsw_63"
+    },
+    "Squeaky Clean Sprint": {
+      "codename": "Cnsw_58"
+    },
+    "Tour | Los Angeles Laps": {
+      "codename": "Cnsw_48"
+    },
+    "GBA | Sunset Wilds": {
+      "codename": "Cnsw_53"
+    },
+    "Wii | Koopa Cape": {
+      "codename": "Cnsw_52"
+    },
+    "Tour | Vancouver Velocity": {
+      "codename": "Cnsw_61"
+    },
+    "Tour | Rome Avanti": {
+      "codename": "Cnsw_54"
+    },
+    "GCN | DK Mountain": {
+      "codename": "Cnsw_56"
+    },
+    "Wii | Daisy Circuit": {
+      "codename": "Cnsw_66"
+    },
+    "Tour | Piranha Plant Cove": {
+      "codename": "Cnsw_64"
+    },
+    "Tour | Madrid Drive": {
+      "codename": "Cnsw_51"
+    },
+    "3DS | Rosalina's Ice World": {
+      "codename": "Cnsw_67"
+    },
+    "SNES | Bowser's Castle 3": {
+      "codename": "Cnsw_57"
+    },
+    "Wii | Rainbow Road": {
+      "codename": "Cnsw_68"
+    },
+    "Battle Stadium": {
+      "codename": "Bu_BattleStadium"
+    },
+    "Sweet Sweet Kingdom": {
+      "codename": "Bu_Sweets"
+    },
+    "Dragon Palace": {
+      "codename": "Bu_Dojo"
+    },
+    "Lunar Colony": {
+      "codename": "Bu_Moon"
+    },
+    "3DS | Wuhu Town": {
+      "codename": "B3ds_WuhuTown"
+    },
+    "GCN | Luigi's Mansion": {
+      "codename": "Bgc_LuigiMansion"
+    },
+    "SNES | Battle Course 1": {
+      "codename": "Bsfc_Battle1"
+    },
+    "Urchin Underpass": {
+      "codename": "Bu_DekaLine"
+    }
+  },
+  "version": "3.0",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c88 \u30c7\u30e9\u30c3\u30af\u30b9"
+    },
+    "zh_CN": {
+      "name": "马力欧卡丁车8 豪华版"
+    },
+    "zh_TW": {
+      "name": "瑪利歐賽車8 豪華版"
+    },
+    "ko": {
+      "name": "마리오 카트 8 디럭스"
     }
   }
 }

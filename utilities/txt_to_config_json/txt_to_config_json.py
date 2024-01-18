@@ -41,8 +41,9 @@ with open(f"config.json", 'wt') as config_file:
         for character_name in character_list:
             character_name = character_name.strip()
             if character_name:
-                codename = character_name.replace(' ', '').replace('&', '').replace(
-                    '.', '').replace('(', '').replace(')', '').replace('-', '').replace("'", "").replace("/", "").replace('"', '').replace(":", "")
+                codename = character_name
+                for str_character in " &.(?!;/:%\\|-_\"'~@[{}]":
+                    codename = codename.replace(str_character, "")
                 config_dict["character_to_codename"][character_name] = {
                     "codename": codename
                 }

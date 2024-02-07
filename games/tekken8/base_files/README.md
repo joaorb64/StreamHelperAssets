@@ -6,5 +6,5 @@ Base config to use this game.
 
 ## Credits: 
 
-Icons ripped from Tekken Wiki (https://tekken.fandom.com/wiki/Tekken_8#Characters)
+Icons ripped from the game
 

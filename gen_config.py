@@ -10,23 +10,6 @@ import tarfile
 import subprocess
 import time
 import traceback
-import argparse
-import shutil
-
-GithubToken = os.environ["GITHUB_TOKEN"]
-GithubRepository = os.environ["GH_REPO"]
-GithubRef = os.environ["GH_REF"]
-
-parser = argparse.ArgumentParser()
-parser.add_argument(
-    "-d", "--destroy", action="store_true",
-    help="Destructive method where it deletes the original image files. Made for the online pipeline."
-)
-parser.add_argument(
-    "-t", "--tag",
-    help="Github release tag"
-)
-args = parser.parse_args()
 
 list = {}
 
@@ -100,37 +83,14 @@ for game in games:
                             "size": os.path.getsize("./games/"+game+"/"+f)
                         }
 
-                        # Upload 7z to release
-                        print(f"> Upload ./games/{game}/{f}")
-
-                        print(
-                            f"/usr/bin/hub release edit -a ./games/{game}/{f} {args.tag}")
-
-                        _upload = subprocess.Popen(
-                            [f"/usr/bin/hub release edit -a ./games/{game}/{f} {args.tag}"],
-                            shell=True,
-                            stdout=subprocess.PIPE,
-                            stderr=subprocess.PIPE,
-                            text=True
-                        )
-                        result = _upload.communicate()
-                        print(result, _upload.returncode)
-
-                        # Delete 7z file
-                        print(f"> Delete ./games/{game}/{f}")
-
-                        _del = subprocess.Popen(
-                            [f"rm -rf ./games/{game}/{f}"], shell=True)
-                        result = _del.communicate()
-                        print(result, _del.returncode)
-
-                    # Delete original files if flag is set
-                    if args.destroy:
-                        print("> Deleting image files")
-                        _del = subprocess.Popen(
-                            [f"rm -rf ./games/{game}/{assetDir}/*.png"], shell=True)
-                        result = _del.communicate()
-                        print(result)
+                    print("> Delete original PNGs")
+                    deleteOriginalFiles = subprocess.Popen(
+                        [f"rm ./games/{game}/{assetDir}/*.png"],
+                        shell=True,
+                        text=True
+                    )
+                    out, err = deleteOriginalFiles.communicate()
+                    print(out, err, deleteOriginalFiles.returncode)
                 else:
                     files = oldAssets[game]["assets"][assetDir]["files"]
 

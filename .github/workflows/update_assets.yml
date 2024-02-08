@@ -32,7 +32,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          fetch-depth: 50
+          fetch-depth: 25
       - name: setup python
         uses: actions/setup-python@v2
         with:
@@ -44,7 +44,6 @@ jobs:
           # git fetch --tags --depth=50
           sudo apt install -y optipng
           python scripts/optimize.py
-          find . -name "*~" -type f -delete
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
           git add .
@@ -53,16 +52,8 @@ jobs:
 
       # Run assets build logic
       - name: execute py script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_REPO: ${{ github.repository }}
-          GH_REF: ${{ github.ref }}
         run: |
-          git config --global user.name 'Buildbot'
-          git config --global user.email 'buildbot@users.noreply.github.com'
-          which hub
-          hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
-          python gen_config.py --destroy --tag "${GITHUB_SHA::8}"
+          python gen_config.py
       - name: commit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -71,6 +62,15 @@ jobs:
           git config --global user.email 'buildbot@users.noreply.github.com'
           git repack -Ad
           git prune
+          find . -name "*~" -type f -delete
+          # sudo apt-get install optipng
+          # find games/ -name '*.png' -print0 | xargs -0 optipng -strip all
           git add assets.json last_versions.json
           git commit -m "Update assets"
           git push origin main
+          set -x
+          assets=()
+          for asset in $(find . -name "*.7z*"); do
+            assets+=("-a" "${asset}")
+          done
+          hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"

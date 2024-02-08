@@ -56,21 +56,21 @@ jobs:
       - name: commit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          run: |
-            git config --global http.lowSpeedLimit 0      # Disable low speed limit
-            git config --global http.lowSpeedTime 999999  # Set a very large low speed time to effectively disable the timeout
+        run: |
+          git config --global http.lowSpeedLimit 0      # Disable low speed limit
+          git config --global http.lowSpeedTime 999999  # Set a very large low speed time to effectively disable the timeout
 
-            # Commit
-            git config --global user.name 'Buildbot'
-            git config --global user.email 'buildbot@users.noreply.github.com'
-            find . -name "*~" -type f -delete
-            git add assets.json last_versions.json
-            git commit -m "Update assets"
-            git push origin main
+          # Commit
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
+          find . -name "*~" -type f -delete
+          git add assets.json last_versions.json
+          git commit -m "Update assets"
+          git push origin main
 
-            set -x
-            assets=()
-            for asset in $(find . -name "*.7z*"); do
-              assets+=("-a" "${asset}")
-            done
-            hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
+          set -x
+          assets=()
+          for asset in $(find . -name "*.7z*"); do
+            assets+=("-a" "${asset}")
+          done
+          hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"

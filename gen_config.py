@@ -129,6 +129,22 @@ for game in games:
                                  config.get("description", "")+"\n\n")
                     readme.write("## Credits: \n\n" +
                                  config.get("credits", "")+"\n\n")
+
+                # Upload 7z to release
+                print(f"> Upload ./games/{game}/{game}.{assetDir}.7z")
+                _upload = subprocess.Popen([
+                    "/usr/bin/hub", "release", "edit", "-a",
+                    f"./games/{game}/{game}.{assetDir}.7z"
+                ])
+                result = _upload.communicate()
+                print(result)
+
+                # Delete 7z file
+                _del = subprocess.Popen([
+                    "rm", "-rf",
+                    f"./games/{game}/{game}.{assetDir}.7z"
+                ])
+                result = _del.communicate()
         except Exception as e:
             print(traceback.format_exc())
 

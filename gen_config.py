@@ -10,6 +10,15 @@ import tarfile
 import subprocess
 import time
 import traceback
+import argparse
+import shutil
+
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    "-d", "--destroy", action="store_true",
+    help="Destructive method where it deletes the original image files. Made for the online pipeline."
+)
+args = parser.parse_args()
 
 list = {}
 
@@ -82,6 +91,14 @@ for game in games:
                             "name": f,
                             "size": os.path.getsize("./games/"+game+"/"+f)
                         }
+
+                    # Delete original files if flag is set
+                    if args.destroy:
+                        _del = subprocess.Popen([
+                            "rm", "-rf",
+                            f"./games/{game}/{assetDir}/*.png"
+                        ])
+                        result = _del.communicate()
                 else:
                     files = oldAssets[game]["assets"][assetDir]["files"]
 

@@ -53,6 +53,8 @@ jobs:
 
       # Run assets build logic
       - name: execute py script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'

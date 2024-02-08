@@ -54,6 +54,8 @@ jobs:
       # Run assets build logic
       - name: execute py script
         run: |
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
           which hub
           hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
           python gen_config.py --destroy

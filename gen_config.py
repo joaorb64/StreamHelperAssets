@@ -13,7 +13,7 @@ import traceback
 import argparse
 import shutil
 
-GithubToken = os.environ["GH_TOKEN"]
+GithubToken = os.environ["GITHUB_TOKEN"]
 GithubRepository = os.environ["GH_REPO"]
 GithubRef = os.environ["GH_REF"]
 

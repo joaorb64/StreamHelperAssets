@@ -94,11 +94,13 @@ for game in games:
 
                     # Delete original files if flag is set
                     if args.destroy:
+                        print("> Deleting image files")
                         _del = subprocess.Popen([
                             "rm", "-rf",
                             f"./games/{game}/{assetDir}/*.png"
                         ])
                         result = _del.communicate()
+                        print(result)
                 else:
                     files = oldAssets[game]["assets"][assetDir]["files"]
 

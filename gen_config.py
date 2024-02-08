@@ -94,18 +94,14 @@ for game in games:
 
                         # Upload 7z to release
                         print(f"> Upload ./games/{game}/{f}")
-                        _upload = subprocess.Popen([
-                            "/usr/bin/hub", "release", "edit", "-a",
-                            f"./games/{game}/{f}"
-                        ], shell=True, text=True)
+                        _upload = subprocess.Popen(
+                            f"/usr/bin/hub release edit -a ./games/{game}/{f}", shell=True)
                         result = _upload.communicate()
                         print(result)
 
                         # Delete 7z file
-                        _del = subprocess.Popen([
-                            "rm", "-rf",
-                            f"./games/{game}/{game}.{assetDir}.7z"
-                        ])
+                        _del = subprocess.Popen(
+                            f"rm -rf ./games/{game}/{game}.{assetDir}.7z", shell=True)
                         result = _del.communicate()
 
                     # Delete original files if flag is set

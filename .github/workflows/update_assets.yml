@@ -56,21 +56,9 @@ jobs:
       - name: commit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
+          run: |
           git config --global http.lowSpeedLimit 0      # Disable low speed limit
           git config --global http.lowSpeedTime 999999  # Set a very large low speed time to effectively disable the timeout
-          
-          # Create release as draft, add files
-          set -x
-          hub release create -p -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
-
-          sleep 60
-          
-          for asset in $(find . -name "*.7z*"); do
-            # assets+=("-a" "${asset}")
-            hub release edit -a ${asset} "${GITHUB_SHA::8}"
-            rm ${asset}
-          done
 
           # Commit
           git config --global user.name 'Buildbot'
@@ -80,5 +68,9 @@ jobs:
           git commit -m "Update assets"
           git push origin main
 
-          # Set release as latest
-          hub release edit -p "${GITHUB_SHA::8}"
+          set -x
+          assets=()
+          for asset in $(find . -name "*.7z*"); do
+            assets+=("-a" "${asset}")
+          done
+          hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"

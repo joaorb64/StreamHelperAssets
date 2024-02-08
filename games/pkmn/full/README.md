@@ -8,5 +8,5 @@ Pokémon Home sprites
 
 Renders for Pikachu-Cosplay from Serebii, nileplumb
 Render for Pichu-Spiky from Super Smash Bros. Ultimate
-Render for Eternal Floette by TheAdorableOshawott
+Render for Floette-Eternal by TheAdorableOshawott
 

@@ -4,7 +4,7 @@
     "credits": "Original characters: www.mariowiki.com. Remix arts by @sopebockz, @Retro64, @thequickslash. Resizing by joao_shino.",
     "prefix": "",
     "postfix": "_",
-    "version": "1.4",
+    "version": "1.5",
     "eyesights": {
         "mario": {
             "0": {
@@ -202,6 +202,12 @@
             "0": {
                 "x": 682,
                 "y": 527
+            }
+        },
+        "banjo": {
+            "0": {
+                "x": 742,
+                "y": 361
             }
         }
     },

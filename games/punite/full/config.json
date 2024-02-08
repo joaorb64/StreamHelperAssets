@@ -6,8 +6,8 @@
   "type": [
     "full"
   ],
-  "credits": "Meowscarada is currently using a placeholder asset",
-  "version": "1.21",
+  "credits": "",
+  "version": "1.3",
   "uncropped_edge": [
     "u",
     "r",
@@ -365,8 +365,14 @@
     },
     "908": {
       "0": {
-        "x": 177,
+        "x": 243,
         "y": 75
+      }
+    },
+    "130": {
+      "0": {
+        "x": 299,
+        "y": 118
       }
     }
   }

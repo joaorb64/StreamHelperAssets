@@ -100,10 +100,10 @@ for game in games:
                         print(f"> Upload ./games/{game}/{f}")
 
                         print(
-                            f"/usr/bin/hub release edit -a {args.tag} ./games/{game}/{f}")
+                            f"/usr/bin/hub release edit -a ./games/{game}/{f} {args.tag}")
 
                         _upload = subprocess.Popen(
-                            [f"/usr/bin/hub release edit -a {args.tag} ./games/{game}/{f}"], shell=True)
+                            [f"/usr/bin/hub release edit -a ./games/{game}/{f} {args.tag}"], shell=True)
                         result = _upload.communicate()
                         print(result, _upload.returncode)
 

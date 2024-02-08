@@ -1,0 +1,22 @@
+{
+  "name": "Artwork",
+  "description": "Character artwork",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "portrait"
+  ],
+  "credits": "Fan artwork by JBLC (https://www.jblcillu.com/)\nCommissioned by Mathias Wolfbrok\nPlease make sure to explicitly credit the artist if used",
+  "version": "0.1",
+  "eyesights": {
+    "Kazuya": {
+      "0": {
+        "x": 1483,
+        "y": 1336
+      }
+    }
+  },
+  "uncropped_edge": [
+    "u"
+  ]
+}

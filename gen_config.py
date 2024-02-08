@@ -18,6 +18,10 @@ parser.add_argument(
     "-d", "--destroy", action="store_true",
     help="Destructive method where it deletes the original image files. Made for the online pipeline."
 )
+parser.add_argument(
+    "-t", "--tag",
+    help="Github release tag"
+)
 args = parser.parse_args()
 
 list = {}
@@ -96,10 +100,10 @@ for game in games:
                         print(f"> Upload ./games/{game}/{f}")
 
                         print(
-                            f"/usr/bin/hub release edit -a ./games/{game}/{f}")
+                            f"/usr/bin/hub release edit -a {args.tag} ./games/{game}/{f}")
 
                         _upload = subprocess.Popen(
-                            [f"/usr/bin/hub release edit -a ./games/{game}/{f}"], shell=True)
+                            [f"/usr/bin/hub release edit -a {args.tag} ./games/{game}/{f}"], shell=True)
                         result = _upload.communicate()
                         print(result, _upload.returncode)
 

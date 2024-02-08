@@ -60,13 +60,15 @@ jobs:
           git config --global user.email 'buildbot@users.noreply.github.com'
           which hub
           hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
-          python gen_config.py --destroy
+          python gen_config.py --destroy --tag "${GITHUB_SHA::8}"
       - name: commit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
+          git repack -Ad
+          git prune
           git add assets.json last_versions.json
           git commit -m "Update assets"
           git push origin main

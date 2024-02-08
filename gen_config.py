@@ -92,6 +92,22 @@ for game in games:
                             "size": os.path.getsize("./games/"+game+"/"+f)
                         }
 
+                        # Upload 7z to release
+                        print(f"> Upload ./games/{game}/{f}")
+                        _upload = subprocess.Popen([
+                            "/usr/bin/hub", "release", "edit", "-a",
+                            f"./games/{game}/{f}"
+                        ], shell=True, text=True)
+                        result = _upload.communicate()
+                        print(result)
+
+                        # Delete 7z file
+                        _del = subprocess.Popen([
+                            "rm", "-rf",
+                            f"./games/{game}/{game}.{assetDir}.7z"
+                        ])
+                        result = _del.communicate()
+
                     # Delete original files if flag is set
                     if args.destroy:
                         print("> Deleting image files")
@@ -129,22 +145,6 @@ for game in games:
                                  config.get("description", "")+"\n\n")
                     readme.write("## Credits: \n\n" +
                                  config.get("credits", "")+"\n\n")
-
-                # Upload 7z to release
-                print(f"> Upload ./games/{game}/{game}.{assetDir}.7z")
-                _upload = subprocess.Popen([
-                    "/usr/bin/hub", "release", "edit", "-a",
-                    f"./games/{game}/{game}.{assetDir}.7z"
-                ])
-                result = _upload.communicate()
-                print(result)
-
-                # Delete 7z file
-                _del = subprocess.Popen([
-                    "rm", "-rf",
-                    f"./games/{game}/{game}.{assetDir}.7z"
-                ])
-                result = _del.communicate()
         except Exception as e:
             print(traceback.format_exc())
 

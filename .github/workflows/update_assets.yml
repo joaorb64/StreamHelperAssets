@@ -55,6 +55,8 @@ jobs:
       - name: execute py script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          GH_REF: ${{ github.ref }}
         run: |
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'

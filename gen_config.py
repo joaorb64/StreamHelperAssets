@@ -13,6 +13,10 @@ import traceback
 import argparse
 import shutil
 
+GithubToken = os.environ["GH_TOKEN"]
+GithubRepository = os.environ["GH_REPO"]
+GithubRef = os.environ["GH_REF"]
+
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "-d", "--destroy", action="store_true",

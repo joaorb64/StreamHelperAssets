@@ -60,6 +60,8 @@ jobs:
           # Create release as draft, add files
           set -x
           hub release create -p -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
+
+          sleep 60
           
           for asset in $(find . -name "*.7z*"); do
             # assets+=("-a" "${asset}")

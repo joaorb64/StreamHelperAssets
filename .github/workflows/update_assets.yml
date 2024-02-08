@@ -57,6 +57,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git config --global http.lowSpeedLimit 0      # Disable low speed limit
+          git config --global http.lowSpeedTime 999999  # Set a very large low speed time to effectively disable the timeout
+          
           # Create release as draft, add files
           set -x
           hub release create -p -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"

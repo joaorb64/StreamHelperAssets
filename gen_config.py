@@ -107,7 +107,12 @@ for game in games:
                             f"/usr/bin/hub release edit -a ./games/{game}/{f} {args.tag}")
 
                         _upload = subprocess.Popen(
-                            [f"/usr/bin/hub release edit -a ./games/{game}/{f} {args.tag}"], shell=True)
+                            [f"/usr/bin/hub release edit -a ./games/{game}/{f} {args.tag}"],
+                            shell=True,
+                            stdout=subprocess.PIPE,
+                            stderr=subprocess.PIPE,
+                            text=True
+                        )
                         result = _upload.communicate()
                         print(result, _upload.returncode)
 

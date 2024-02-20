@@ -32,7 +32,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          fetch-depth: 50
+          fetch-depth: 5
       - name: setup python
         uses: actions/setup-python@v2
         with:
@@ -41,7 +41,6 @@ jobs:
       # Optimize images
       - name: Optimize images
         run: |
-          # git fetch --tags --depth=50
           sudo apt install -y optipng
           python scripts/optimize.py
           git config --global user.name 'Buildbot'
@@ -58,17 +57,25 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # Create release as draft, add files
+          set -x
+          hub release create -p -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
+
+          sleep 60
+          
+          for asset in $(find . -name "*.7z*"); do
+            # assets+=("-a" "${asset}")
+            hub release edit -a ${asset} "${GITHUB_SHA::8}"
+            rm ${asset}
+          done
+
+          # Commit
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
           find . -name "*~" -type f -delete
-          # sudo apt-get install optipng
-          # find games/ -name '*.png' -print0 | xargs -0 optipng -strip all
-          git add .
+          git add assets.json last_versions.json
           git commit -m "Update assets"
           git push origin main
-          set -x
-          assets=()
-          for asset in $(find . -name "*.7z*"); do
-            assets+=("-a" "${asset}")
-          done
-          hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
+
+          # Set release as latest
+          hub release edit -p "${GITHUB_SHA::8}"

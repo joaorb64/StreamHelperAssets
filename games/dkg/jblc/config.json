@@ -7,12 +7,18 @@
     "portrait"
   ],
   "credits": "Fan artwork by JBLC (https://www.jblcillu.com/)\nCommissioned by Mathias Wolfbrok\nPlease make sure to explicitly credit the artist if used",
-  "version": "0.1",
+  "version": "0.2",
   "eyesights": {
     "Kazuya": {
       "0": {
         "x": 1483,
         "y": 1336
+      }
+    },
+    "Boggy": {
+      "0": {
+        "x": 1322,
+        "y": 808
       }
     }
   },

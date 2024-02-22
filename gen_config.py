@@ -82,6 +82,15 @@ for game in games:
                             "name": f,
                             "size": os.path.getsize("./games/"+game+"/"+f)
                         }
+
+                    print("> Delete original PNGs")
+                    deleteOriginalFiles = subprocess.Popen(
+                        [f"rm ./games/{game}/{assetDir}/*.png"],
+                        shell=True,
+                        text=True
+                    )
+                    out, err = deleteOriginalFiles.communicate()
+                    print(out, err, deleteOriginalFiles.returncode)
                 else:
                     files = oldAssets[game]["assets"][assetDir]["files"]
 

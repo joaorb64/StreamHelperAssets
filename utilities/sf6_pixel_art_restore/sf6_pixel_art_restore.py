@@ -5,7 +5,7 @@ from pathlib import Path
 from os.path import basename as get_file_name
 import json
 
-result_folder_name = "sf6/pixel_art_restore"
+result_folder_name = "../../games/sf6/pixel_art_restore"
 Path(result_folder_name).mkdir(parents=True, exist_ok=True)
 
 target_size=128
@@ -52,7 +52,7 @@ with open(og_config_path, "rt", encoding="utf-8") as og_config_file:
     with open(new_config_path, "wt", encoding="utf-8") as new_config_file:
         config = json.loads(og_config_file.read())
         config["name"] = f'{config["name"]} (Cleaned up)'
-        config["description"] = f'{config["description"]}\nCleaned up programmatically to remove extraction artefacts and integer upscaled to 4K'
+        config["description"] = f'{config["description"]}\nCleaned up programmatically to remove extraction and upscale artefacts, and integer upscaled to 4K'
         for codename in config.get("eyesights").keys():
             for skin in config.get("eyesights").get(codename).keys():
                 for coordinate in config.get("eyesights").get(codename).get(skin).keys():

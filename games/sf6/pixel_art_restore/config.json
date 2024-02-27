@@ -1,12 +1,12 @@
 {
   "name": "Pixel Art portraits (Cleaned up)",
-  "description": "Character pixel art as seen in custom \"Here comes a new challenger\" screens. Flipped horizontally for characters to look to the right.\nCleaned up programmatically to remove extraction artefacts and integer upscaled to 4K",
+  "description": "Character pixel art as seen in custom \"Here comes a new challenger\" screens. Flipped horizontally for characters to look to the right.\nCleaned up programmatically to remove extraction and upscale artefacts, and integer upscaled to 4K",
   "prefix": "",
   "postfix": "_",
   "type": [
     "icon"
   ],
-  "version": "1.3",
+  "version": "1.5",
   "eyesights": {
     "ChunLi": {
       "0": {
@@ -126,6 +126,12 @@
       "0": {
         "x": 2182,
         "y": 1976
+      }
+    },
+    "Ed": {
+      "0": {
+        "x": 1961,
+        "y": 1532
       }
     }
   }

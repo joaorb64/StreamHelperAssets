@@ -66,25 +66,29 @@ card_body_images = card_body_tag.findAll('img')
 count = 0
 list_weapons = main_config_dict["character_to_codename"].keys()
 for weapon in list_weapons:
-    found = False
-    for image_tag in card_body_images:
-        alt_text = image_tag["alt"]
-        if ((f"S3 Tableturf Battle card {weapon}.png".lower() in alt_text.lower()) 
-            or ("Hero" in alt_text and "Hero" in weapon)):
-            found = True
-            count += 1
-            thumb_link = image_tag["src"]
-            image_link = convert_thumb_link_to_image_link(thumb_link)
-            image_response = robust_request(image_link)
-            weapon_codename = main_config_dict["character_to_codename"][weapon]["codename"]
-            image_filename = f"card_{weapon_codename}_0.png"
-            with open(f"{card_path}/{image_filename}", "wb") as f:
-                f.write(image_response.content)
-            with Image.open(f"{card_path}/{image_filename}") as image_contents:
-                image_height = image_contents.height
-                ratio = 512.0/float(image_height)
-                if ratio != 1.0:
-                    card_config_dict["rescaling_factor"][weapon_codename] = {"0": ratio}
+    if ("Order" not in weapon or (("Order" in weapon) and ("Dualie" in weapon))):
+        found = False
+        for image_tag in card_body_images:
+            alt_text = image_tag["alt"]
+            if ((f"S3 Tableturf Battle card {weapon}.png".lower() in alt_text.lower()) 
+                or ("Hero" in alt_text and "Hero" in weapon)):
+                found = True
+                count += 1
+                thumb_link = image_tag["src"]
+                image_link = convert_thumb_link_to_image_link(thumb_link)
+                image_response = robust_request(image_link)
+                weapon_codename = main_config_dict["character_to_codename"][weapon]["codename"]
+                image_filename = f"card_{weapon_codename}_0.png"
+                with open(f"{card_path}/{image_filename}", "wb") as f:
+                    f.write(image_response.content)
+                with Image.open(f"{card_path}/{image_filename}") as image_contents:
+                    image_height = image_contents.height
+                    ratio = 512.0/float(image_height)
+                    if ratio != 1.0:
+                        card_config_dict["rescaling_factor"][weapon_codename] = {"0": ratio}
+    
+    if ("Order" in weapon) and ("Dualie" not in weapon):
+        found = False
 
     if not found:
         print("Not found:", weapon)

@@ -1,3 +1,6 @@
+### This script cleans up the Street Fighter 6 Pixel Art asset pack to "restore" the image as it was prior to Capcom’s upscaling, and then integer scales said assets back to a 4K-compatible resolution
+### Note: This script assumes the input images are 1080 pixels wide and that the art itself is originally 128 pixels wide
+
 from PIL import Image
 from glob import glob
 from statistics import mode

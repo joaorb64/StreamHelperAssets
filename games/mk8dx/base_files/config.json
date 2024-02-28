@@ -1,5 +1,5 @@
 {
-  "challonge_game_id": null,
+  "challonge_game_id": 12970,
   "character_to_codename": {
     "Baby Daisy": {
       "codename": "BabyDaisy",
@@ -606,17 +606,418 @@
         "it": "Strutzi",
         "ru": "\u0411\u0438\u0440\u0434\u043e"
       }
+    },
+    "Diddy Kong": {
+      "codename": "Diddy",
+      "locale": {
+        "ja": "\u30c7\u30a3\u30c7\u30a3\u30fc\u30b3\u30f3\u30b0",
+        "zh_CN": "\u8fea\u8fea\u521a",
+        "zh_TW": "\u72c4\u72c4\u525b",
+        "ko": "\ub514\ub514\ucf69",
+        "ru": "\u0414\u0438\u0434\u0434\u0438 \u041a\u043e\u043d\u0433"
+      }
+    },
+    "Funky Kong": {
+      "codename": "Funky",
+      "locale": {
+        "ja": "\u30d5\u30a1\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
+        "zh_CN": "\u9177\u559c\u521a",
+        "zh_TW": "\u9177\u559c\u525b",
+        "ko": "\ud391\ud0a4 \ucf69",
+        "ru": "\u0424\u0430\u043d\u043a\u0438 \u041a\u043e\u043d\u0433"
+      }
+    },
+    "Pauline": {
+      "codename": "Pauline",
+      "locale": {
+        "ja": "\u30dd\u30ea\u30fc\u30f3",
+        "zh_CN": "\u5b9d\u7433",
+        "zh_TW": "\u6ce2\u7433",
+        "ko": "\ud3f4\ub9b0",
+        "ru": "\u041f\u043e\u043b\u0438\u043d\u0430"
+      }
+    },
+    "Peachette": {
+      "codename": "Peachette",
+      "locale": {
+        "ja": "\u30ad\u30ce\u30d4\u30fc\u30c1",
+        "zh_CN": "\u5947\u8bfa\u6bd4\u6843\u516c\u4e3b",
+        "zh_TW": "\u5947\u8afe\u6bd4\u59ec\u516c\u4e3b",
+        "ko": "\ud0a4\ub178\ud53c\uce58",
+        "ru": "\u041f\u0438\u0447\u0435\u0442\u0442\u0430"
+      }
+    },
+    "Petey Piranha": {
+      "codename": "Petey",
+      "locale": {
+        "fr": "Flora Piranha",
+        "de": "Mutant-Tyranha",
+        "it": "Pipino Piranha",
+        "es": "Floro Pira\u00f1a",
+        "es_LA": "Pepito pira\u00f1a",
+        "ja": "\u30dc\u30b9\u30d1\u30c3\u30af\u30f3",
+        "ko": "\ubed0\ub054\uc655",
+        "zh_CN": "\u541e\u98df\u82b1\u8001\u5927",
+        "zh_TW": "\u541e\u98df\u82b1\u8001\u5927",
+        "fr_CA": "Petey Piranha"
+      }
+    },
+    "Wiggler": {
+      "codename": "Wiggler",
+      "locale": {
+        "ja": "\u30cf\u30ca\u30c1\u30e3\u30f3",
+        "zh_CN": "\u82b1\u6bdb\u6bdb",
+        "zh_TW": "\u82b1\u6bdb\u6bdb",
+        "ko": "\uaf43\ucda9\uc774",
+        "ru": "\u0415\u0433\u043e\u0437\u0430",
+        "es": "Floruga",
+        "pt_BR": "Wiggler",
+        "pt_PT": "Lagartola",
+        "it": "Torcibruco"
+      }
+    },
+    "Kamek": {
+      "codename": "Kamek",
+      "locale": {
+        "ja": "\u30ab\u30e1\u30c3\u30af",
+        "zh_CN": "\u5361\u7f8e\u514b",
+        "zh_TW": "\u5361\u7f8e\u514b",
+        "ko": "\ub9c8\uadc0",
+        "ru": "\u041a\u0430\u043c\u0435\u043a"
+      }
     }
   },
   "credits": "",
   "description": "Base config to use this game.",
   "name": "Mario Kart 8 Deluxe",
   "smashgg_game_id": 2165,
-  "stage_to_codename": {},
-  "version": "1.11",
+  "stage_to_codename": {
+    "Mario Kart Stadium": {
+      "codename": "Gu_FirstCircuit"
+    },
+    "Water Park": {
+      "codename": "Gu_WaterPark"
+    },
+    "Sweet Sweet Canyon": {
+      "codename": "Gu_Cake"
+    },
+    "Thwomp Ruins": {
+      "codename": "Gu_DossunIseki"
+    },
+    "Mario Circuit": {
+      "codename": "Gu_MarioCircuit"
+    },
+    "Toad Harbor": {
+      "codename": "Gu_City"
+    },
+    "Twisted Mansion": {
+      "codename": "Gu_HorrorHouse"
+    },
+    "Shy Guy Falls": {
+      "codename": "Gu_Expert"
+    },
+    "Sunshine Airport": {
+      "codename": "Gu_Airport"
+    },
+    "Dolphin Shoals": {
+      "codename": "Gu_Ocean"
+    },
+    "Electrodrome": {
+      "codename": "Gu_Techno"
+    },
+    "Mount Wario": {
+      "codename": "Gu_SnowMountain"
+    },
+    "Cloudtop Cruise": {
+      "codename": "Gu_Cloud"
+    },
+    "Bone-Dry Dunes": {
+      "codename": "Gu_Desert"
+    },
+    "Bowser's Castle": {
+      "codename": "Gu_BowserCastle"
+    },
+    "Rainbow Road": {
+      "codename": "Gu_RainbowRoad"
+    },
+    "Wii | Moo Moo Meadows": {
+      "codename": "Gwii_MooMooMeadows"
+    },
+    "GBA | Mario Circuit": {
+      "codename": "Gagb_MarioCircuit"
+    },
+    "DS | Cheep Cheep Beach": {
+      "codename": "Gds_PukupukuBeach"
+    },
+    "N64 | Toad's Turnpike": {
+      "codename": "G64_KinopioHighway"
+    },
+    "GCN | Dry Dry Desert": {
+      "codename": "Ggc_DryDryDesert"
+    },
+    "SNES | Donut Plains 3": {
+      "codename": "Gsfc_DonutsPlain3"
+    },
+    "N64 | Royal Raceway": {
+      "codename": "G64_PeachCircuit"
+    },
+    "3DS | DK Jungle": {
+      "codename": "G3ds_DKJungle"
+    },
+    "DS | Wario Stadium": {
+      "codename": "Gds_WarioStadium"
+    },
+    "GCN | Sherbet Land": {
+      "codename": "Ggc_SherbetLand"
+    },
+    "3DS | Music Park": {
+      "codename": "G3ds_MusicPark"
+    },
+    "N64 | Yoshi Valley": {
+      "codename": "G64_YoshiValley"
+    },
+    "DS | Tick-Tock Clock": {
+      "codename": "Gds_TickTockClock"
+    },
+    "3DS | Piranha Plant Slide": {
+      "codename": "G3ds_PackunSlider"
+    },
+    "Wii | Grumble Volcano": {
+      "codename": "Gwii_GrumbleVolcano"
+    },
+    "N64 | Rainbow Road": {
+      "codename": "G64_RainbowRoad"
+    },
+    "GCN | Yoshi Circuit": {
+      "codename": "Dgc_YoshiCircuit"
+    },
+    "Excitebike Arena": {
+      "codename": "Du_ExciteBike"
+    },
+    "Dragon Driftway": {
+      "codename": "Du_DragonRoad"
+    },
+    "Mute City": {
+      "codename": "Du_MuteCity"
+    },
+    "Wii | Wario's Gold Mine": {
+      "codename": "Dwii_WariosMine"
+    },
+    "SNES | Rainbow Road": {
+      "codename": "Dsfc_RainbowRoad"
+    },
+    "Ice Ice Outpost": {
+      "codename": "Du_IcePark"
+    },
+    "Hyrule Circuit": {
+      "codename": "Du_Hyrule"
+    },
+    "GCN | Baby Park": {
+      "codename": "Dgc_BabyPark"
+    },
+    "GBA | Cheese Land": {
+      "codename": "Dagb_CheeseLand"
+    },
+    "Wild Woods": {
+      "codename": "Du_Woods"
+    },
+    "Animal Crossing": {
+      "codename": "Du_Animal_Spring"
+    },
+    "3DS | Neo Bowser City": {
+      "codename": "D3ds_NeoBowserCity"
+    },
+    "GBA | Ribbon Road": {
+      "codename": "Dagb_RibbonRoad"
+    },
+    "Super Bell Subway": {
+      "codename": "Du_Metro"
+    },
+    "Big Blue": {
+      "codename": "Du_BigBlue"
+    },
+    "Tour | Paris Promenade": {
+      "codename": "Cnsw_11"
+    },
+    "3DS | Toad Circuit": {
+      "codename": "Cnsw_12"
+    },
+    "N64 | Choco Mountain": {
+      "codename": "Cnsw_13"
+    },
+    "Wii | Coconut Mall": {
+      "codename": "Cnsw_14"
+    },
+    "Tour | Tokyo Blur": {
+      "codename": "Cnsw_15"
+    },
+    "DS | Shroom Ridge": {
+      "codename": "Cnsw_16"
+    },
+    "GBA | Sky Garden": {
+      "codename": "Cnsw_17"
+    },
+    "Tour | Ninja Hideaway": {
+      "codename": "Cnsw_18"
+    },
+    "Tour | New York Minute": {
+      "codename": "Cnsw_21"
+    },
+    "SNES | Mario Circuit 3": {
+      "codename": "Cnsw_22"
+    },
+    "N64 | Kalimari Desert": {
+      "codename": "Cnsw_23"
+    },
+    "DS | Waluigi Pinball": {
+      "codename": "Cnsw_24"
+    },
+    "Tour | Sydney Sprint": {
+      "codename": "Cnsw_25"
+    },
+    "GBA | Snow Land": {
+      "codename": "Cnsw_26"
+    },
+    "Wii | Mushroom Gorge": {
+      "codename": "Cnsw_27"
+    },
+    "Sky-High Sundae": {
+      "codename": "Cnsw_28"
+    },
+    "Tour | London Loop": {
+      "codename": "Cnsw_31"
+    },
+    "GBA | Boo Lake": {
+      "codename": "Cnsw_33"
+    },
+    "3DS | Rock Rock Mountain": {
+      "codename": "Cnsw_34"
+    },
+    "Wii | Maple Treeway": {
+      "codename": "Cnsw_62"
+    },
+    "Tour | Berlin Byways": {
+      "codename": "Cnsw_35"
+    },
+    "DS | Peach Gardens": {
+      "codename": "Cnsw_32"
+    },
+    "Tour | Merry Mountain": {
+      "codename": "Cnsw_37"
+    },
+    "3DS | Rainbow Road": {
+      "codename": "Cnsw_38"
+    },
+    "Tour | Amsterdam Drift": {
+      "codename": "Cnsw_41"
+    },
+    "GBA | Riverside Park": {
+      "codename": "Cnsw_47"
+    },
+    "Wii | DK Summit": {
+      "codename": "Cnsw_42"
+    },
+    "Yoshi's Island": {
+      "codename": "Cnsw_44"
+    },
+    "Tour | Bangkok Rush": {
+      "codename": "Cnsw_55"
+    },
+    "DS | Mario Circuit": {
+      "codename": "Cnsw_43"
+    },
+    "GCN | Waluigi Stadium": {
+      "codename": "Cnsw_36"
+    },
+    "Tour | Singapore Speedway": {
+      "codename": "Cnsw_45"
+    },
+    "Tour | Athens Dash": {
+      "codename": "Cnsw_65"
+    },
+    "GCN | Daisy Cruiser": {
+      "codename": "Cnsw_46"
+    },
+    "Wii | Moonview Highway": {
+      "codename": "Cnsw_63"
+    },
+    "Squeaky Clean Sprint": {
+      "codename": "Cnsw_58"
+    },
+    "Tour | Los Angeles Laps": {
+      "codename": "Cnsw_48"
+    },
+    "GBA | Sunset Wilds": {
+      "codename": "Cnsw_53"
+    },
+    "Wii | Koopa Cape": {
+      "codename": "Cnsw_52"
+    },
+    "Tour | Vancouver Velocity": {
+      "codename": "Cnsw_61"
+    },
+    "Tour | Rome Avanti": {
+      "codename": "Cnsw_54"
+    },
+    "GCN | DK Mountain": {
+      "codename": "Cnsw_56"
+    },
+    "Wii | Daisy Circuit": {
+      "codename": "Cnsw_66"
+    },
+    "Tour | Piranha Plant Cove": {
+      "codename": "Cnsw_64"
+    },
+    "Tour | Madrid Drive": {
+      "codename": "Cnsw_51"
+    },
+    "3DS | Rosalina's Ice World": {
+      "codename": "Cnsw_67"
+    },
+    "SNES | Bowser's Castle 3": {
+      "codename": "Cnsw_57"
+    },
+    "Wii | Rainbow Road": {
+      "codename": "Cnsw_68"
+    },
+    "Battle Stadium": {
+      "codename": "Bu_BattleStadium"
+    },
+    "Sweet Sweet Kingdom": {
+      "codename": "Bu_Sweets"
+    },
+    "Dragon Palace": {
+      "codename": "Bu_Dojo"
+    },
+    "Lunar Colony": {
+      "codename": "Bu_Moon"
+    },
+    "3DS | Wuhu Town": {
+      "codename": "B3ds_WuhuTown"
+    },
+    "GCN | Luigi's Mansion": {
+      "codename": "Bgc_LuigiMansion"
+    },
+    "SNES | Battle Course 1": {
+      "codename": "Bsfc_Battle1"
+    },
+    "Urchin Underpass": {
+      "codename": "Bu_DekaLine"
+    }
+  },
+  "version": "3.0",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c88 \u30c7\u30e9\u30c3\u30af\u30b9"
+    },
+    "zh_CN": {
+      "name": "马力欧卡丁车8 豪华版"
+    },
+    "zh_TW": {
+      "name": "瑪利歐賽車8 豪華版"
+    },
+    "ko": {
+      "name": "마리오 카트 8 디럭스"
     }
   }
 }

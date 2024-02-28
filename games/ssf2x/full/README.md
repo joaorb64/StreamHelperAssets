@@ -6,5 +6,5 @@ Character artwork
 
 ## Credits: 
 
-@MathiasWolfbrok for cropping
+
 

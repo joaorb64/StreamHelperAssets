@@ -86,10 +86,22 @@
     },
     "Nier": {
       "codename": "Nier"
+    },
+    "Lucilius": {
+      "codename": "Lucilius"
+    },
+    "2B": {
+      "codename": "2B"
+    },
+    "Vane": {
+      "codename": "Vane"
+    },
+    "Beatrix": {
+      "codename": "Beatrix"
     }
   },
   "stage_to_codename": {},
-  "version": "0.1",
+  "version": "1.2",
   "description": "Base config to use this game.",
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters"
 }

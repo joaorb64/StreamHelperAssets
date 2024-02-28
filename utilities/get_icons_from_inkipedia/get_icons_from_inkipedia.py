@@ -4,6 +4,8 @@ import json
 from pathlib import Path
 import sys
 import chinese_converter
+from PIL import Image
+import io
 
 sys.setrecursionlimit(100)
 
@@ -43,7 +45,7 @@ def robust_request(link, timeout=30, recursion=30):
 def generate_main_config_skeleton():
     description = "Base config to use this game."
     credits = ""
-    version = "5.0"
+    version = "6.0"
 
     game_id = 36202
 
@@ -122,8 +124,18 @@ def generate_main_config_skeleton():
             "Barnacle & Dime": {
                 "codename": "barnacle"
             },
-            "Crableg Capital": {"codename": "capital"},
-            "Shipshape Cargo Co.": {"codename": "cargo"}
+            "Crableg Capital": {
+                "codename": "capital"
+            },
+            "Shipshape Cargo Co.": {
+                "codename": "cargo"
+            },
+            "Robo ROM-en": {
+                "codename": "robo"
+            },
+            "Bluefin Depot": {
+                "codename": "bluefin"
+            }
         },
         "version": version,
         "description": str(description),
@@ -302,9 +314,13 @@ for weapon_name in weapon_list.keys():
     weapon_codename = weapon_codename.replace(" ", "")
     weapon_codename = weapon_codename.replace("-", "")
     icon_filename = f"icon_{weapon_codename}_0.png"
-    with open(f"{icon_path}/{icon_filename}", "wb") as f:
-        icon_file = robust_request(icon_url)
-        f.write(icon_file.content)
+    # Image resize
+    icon_file = robust_request(icon_url)
+    icon_image = Image.open(io.BytesIO(icon_file.content)).convert("RGBA")
+    target_size = (256, 256)
+    icon_image = icon_image.resize(target_size, Image.Resampling.LANCZOS)
+    icon_image.save(f"{icon_path}/{icon_filename}")
+
     main_config["character_to_codename"][weapon_name] = {
         "codename": weapon_codename}
     main_config["character_to_codename"][weapon_name]["locale"] = {}

@@ -1,11 +1,23 @@
 {
   "challonge_game_id": null,
   "character_to_codename": {
+    "Ashrah": {
+      "codename": "Ashrah"
+    },
     "Baraka": {
       "codename": "Baraka"
     },
     "Ermac": {
       "codename": "Ermac"
+    },
+    "General Shao": {
+      "codename": "Shao"
+    },
+    "Geras": {
+      "codename": "Geras"
+    },
+    "Havik": {
+      "codename": "Havik"
     },
     "Homelander": {
       "codename": "Homelander"
@@ -31,6 +43,9 @@
     "Mileena": {
       "codename": "Mileena"
     },
+    "Nitara": {
+      "codename": "Nitara"
+    },
     "Omni-Man": {
       "codename": "OmniMan"
     },
@@ -46,11 +61,20 @@
     "Rain": {
       "codename": "Rain"
     },
+    "Reiko": {
+      "codename": "Reiko"
+    },
+    "Reptile": {
+      "codename": "Reptile"
+    },
     "Scorpion": {
       "codename": "Scorpion"
     },
     "Shang Tsung": {
       "codename": "ShangTsung"
+    },
+    "Sindel": {
+      "codename": "Sindel"
     },
     "Smoke": {
       "codename": "Smoke"
@@ -63,30 +87,6 @@
     },
     "Tanya": {
       "codename": "Tanya"
-    },
-    "Geras": {
-      "codename": "Geras"
-    },
-    "Reptile": {
-      "codename": "Reptile"
-    },
-    "Havik": {
-      "codename": "Havik"
-    },
-    "Ashrah": {
-      "codename": "Ashrah"
-    },
-    "Sindel": {
-      "codename": "Sindel"
-    },
-    "General Shao": {
-      "codename": "Shao"
-    },
-    "Nitara": {
-      "codename": "Nitara"
-    },
-    "Reiko": {
-      "codename": "Reiko"
     }
   },
   "credits": "Ripped from https://www.mortalkombat.com/en-gb/roster",
@@ -94,5 +94,5 @@
   "name": "Mortal Kombat 1",
   "smashgg_game_id": 48599,
   "stage_to_codename": {},
-  "version": "1.01"
+  "version": "1.2"
 }

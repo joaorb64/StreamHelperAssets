@@ -4,7 +4,7 @@
   "prefix": "",
   "postfix": "_",
   "credits": "@joao_shino for all crops",
-  "version": "1.4",
+  "version": "1.5",
   "type": "portrait",
   "eyesights": {
     "mario": {
@@ -245,6 +245,30 @@
       "0": {
         "x": 203,
         "y": 154
+      }
+    },
+    "banjo": {
+      "0": {
+        "x": 208,
+        "y": 125
+      }
+    },
+    "ebisumaru": {
+      "0": {
+        "x": 196,
+        "y": 138
+      }
+    },
+    "metal_luigi": {
+      "0": {
+        "x": 169,
+        "y": 138
+      }
+    },
+    "dragon_king": {
+      "0": {
+        "x": 305,
+        "y": 140
       }
     }
   }

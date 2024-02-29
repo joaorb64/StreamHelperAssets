@@ -12,7 +12,7 @@
     "portrait"
   ],
   "credits": "",
-  "version": "1.2",
+  "version": "1.3",
   "eyesights": {
     "Ashrah": {
       "0": {
@@ -162,6 +162,12 @@
       "0": {
         "x": 486,
         "y": 281
+      }
+    },
+    "Peacemaker": {
+      "0": {
+        "x": 467,
+        "y": 284
       }
     }
   }

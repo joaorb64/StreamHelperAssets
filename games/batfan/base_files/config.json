@@ -1,0 +1,47 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Ashley": {
+      "codename": "Ashley"
+    },
+    "Cedric": {
+      "codename": "Cedric"
+    },
+    "Coyori": {
+      "codename": "Coyori"
+    },
+    "Deathbringer": {
+      "codename": "Deathbringer"
+    },
+    "Donvalve": {
+      "codename": "Donvalve"
+    },
+    "Face": {
+      "codename": "Face"
+    },
+    "Freed": {
+      "codename": "Freed"
+    },
+    "Marco": {
+      "codename": "Marco"
+    },
+    "Odile & Dokurod": {
+      "codename": "OdileDokurod"
+    },
+    "Olivia": {
+      "codename": "Olivia"
+    },
+    "Urs": {
+      "codename": "Urs"
+    },
+    "Watson": {
+      "codename": "Watson"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Battle Fantasia",
+  "smashgg_game_id": 8103,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

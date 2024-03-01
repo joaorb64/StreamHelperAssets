@@ -45,7 +45,7 @@ def robust_request(link, timeout=30, recursion=30):
 def generate_main_config_skeleton():
     description = "Base config to use this game."
     credits = ""
-    version = "6.0"
+    version = "7.0"
 
     game_id = 36202
 
@@ -135,6 +135,9 @@ def generate_main_config_skeleton():
             },
             "Bluefin Depot": {
                 "codename": "bluefin"
+            },
+            "Marlin Airport": {
+                "codename": "airport"
             }
         },
         "version": version,

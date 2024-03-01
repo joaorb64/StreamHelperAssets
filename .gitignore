@@ -34,3 +34,5 @@ utilities/translate_pokemon_names/source/*
 *.bak
 utilities/mass_update/*.json
 utilities/sf6_pixel_art_restore/sf6/*
+*.zip
+utilities/download_mk_costumes/mk1/*

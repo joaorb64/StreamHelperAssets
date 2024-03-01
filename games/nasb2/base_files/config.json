@@ -102,6 +102,10 @@
         "Ren & Stimpy": {
             "codename": "RenStimpy",
             "smashgg_name": "Ren & Stimpy"
+        },
+        "Mr. Krabs": {
+            "codename": "Sushi",
+            "smashgg_name": "Mr. Krabs"
         }
     },
     "stage_to_codename": {
@@ -146,7 +150,7 @@
             "smashgg_id": "585"
         }
     },
-    "version": "1.21",
+    "version": "1.3",
     "description": "NASB Sweep!!!",
     "credits": "TNTBlowzUp"
 }

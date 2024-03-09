@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://www.mortalkombatwarehouse.com/mk12/characters",
-  "version": "1.21",
+  "version": "1.3",
   "eyesights": {
     "Ashrah": {
       "0": {
@@ -157,6 +157,12 @@
       "0": {
         "x": 270,
         "y": 114
+      }
+    },
+    "Peacemaker": {
+      "0": {
+        "x": 287,
+        "y": 138
       }
     }
   }

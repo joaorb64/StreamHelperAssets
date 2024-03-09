@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
-  "version": "1.2",
+  "version": "1.21",
   "uncropped_edge": [
     "l",
     "r"
@@ -177,6 +177,10 @@
       "0": {
         "x": 1112,
         "y": 716
+      },
+      "1": {
+        "x": 917,
+        "y": 506
       }
     },
     "Zooey": {

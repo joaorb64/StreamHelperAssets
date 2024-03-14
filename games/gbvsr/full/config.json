@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
-  "version": "1.21",
+  "version": "1.22",
   "uncropped_edge": [
     "l",
     "r"
@@ -89,6 +89,10 @@
       "0": {
         "x": 974,
         "y": 640
+      },
+      "1": {
+        "x": 631,
+        "y": 368
       }
     },
     "Ladiva": {

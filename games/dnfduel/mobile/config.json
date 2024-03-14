@@ -6,8 +6,8 @@
   "type": [
     "mobile"
   ],
-  "credits": "",
-  "version": "1.3",
+  "credits": "Image for Lost Warrior is his 2A",
+  "version": "1.4",
   "eyesights": {
     "Berserker": {
       "0": {
@@ -101,8 +101,8 @@
     },
     "LostWarrior": {
       "0": {
-        "x": 178,
-        "y": 90
+        "x": 563,
+        "y": 142
       }
     },
     "Spectre": {
@@ -122,6 +122,16 @@
         "x": 140,
         "y": 124
       }
+    },
+    "Monk": {
+      "0": {
+        "x": 218,
+        "y": 111
+      }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "r"
+  ]
 }

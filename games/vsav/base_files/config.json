@@ -4,67 +4,121 @@
   "challonge_game_id": 7646,
   "character_to_codename": {
     "Anakaris": {
-      "codename": "03"
+      "codename": "03",
+      "locale": {
+        "ja": "アナカリス"
+      }
     },
     "Bishamon": {
-      "codename": "06"
+      "codename": "06",
+      "locale": {
+        "ja": "毘沙門"
+      }
     },
     "Demitri Maximoff": {
-      "codename": "01"
+      "codename": "01",
+      "locale": {
+        "ja": "デミトリ・マキシモフ"
+      }
     },
     "Felicia": {
-      "codename": "05"
+      "codename": "05",
+      "locale": {
+        "ja": "フェリシア"
+      }
     },
     "Hsien-Ko": {
-      "codename": "15"
+      "codename": "15",
+      "locale": {
+        "ja": "レイレイ"
+      }
     },
     "Jon Talbain": {
-      "codename": "07"
+      "codename": "07",
+      "locale": {
+        "ja": "ガロン"
+      }
     },
     "Lord Raptor": {
-      "codename": "10"
+      "codename": "10",
+      "locale": {
+        "ja": "ザベル・ザロック"
+      }
     },
     "Morrigan Aensland": {
-      "codename": "04"
+      "codename": "04",
+      "locale": {
+        "ja": "モリガン・アーンスランド"
+      }
     },
     "Rikuo": {
-      "codename": "14"
+      "codename": "14",
+      "locale": {
+        "ja": "オルバス"
+      }
     },
     "Sasquatch": {
-      "codename": "08"
+      "codename": "08",
+      "locale": {
+        "ja": "サスカッチ"
+      }
     },
     "Victor von Gerdenheim": {
-      "codename": "02"
+      "codename": "02",
+      "locale": {
+        "ja": "ヴィクトル・フォン・ゲルデンハイム"
+      }
     },
     "Baby Bonnie Hood": {
-      "codename": "09"
+      "codename": "09",
+      "locale": {
+        "ja": "バレッタ"
+      }
     },
     "Jedah Dohma": {
-      "codename": "11"
+      "codename": "11",
+      "locale": {
+        "ja": "ジェダ・ドーマ"
+      }
     },
     "Lilith": {
-      "codename": "12"
+      "codename": "12",
+      "locale": {
+        "ja": "リリス"
+      }
     },
     "Q-Bee": {
-      "codename": "13"
+      "codename": "13",
+      "locale": {
+        "ja": "キュービィ"
+      }
     },
     "Donovan Baine": {
-      "codename": "18"
+      "codename": "18",
+      "locale": {
+        "ja": "ドノヴァン・ベイン"
+      }
     },
     "Huitzil": {
-      "codename": "17"
+      "codename": "17",
+      "locale": {
+        "ja": "フォボス"
+      }
     },
     "Pyron": {
-      "codename": "16"
+      "codename": "16",
+      "locale": {
+        "ja": "パイロン"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.04",
+  "version": "1.05",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
     "ja": {
-      "name": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2 \u30bb\u30a4\u30f4\u30a1\u30fc \u30ed\u30fc\u30c9 \u30aa\u30d6 \u30f4\u30a1\u30f3\u30d1\u30a4\u30a2"
+      "name": "ヴァンパイア セイヴァー The Lord of Vampire"
     }
   }
 }

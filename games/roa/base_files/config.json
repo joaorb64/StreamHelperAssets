@@ -320,9 +320,17 @@
       "locale": {
         "ru": "\u041d\u0435\u043e\u043d\u043e\u0432\u044b\u0439 \u0416\u044e\u043b\u044c\u0432\u0438\u043b\u043b\u044c"
       }
+    },
+    "Badger Co. Mines": {
+      "codename": "mine",
+      "locale": {}
+    },
+    "The Tutorial Grid": {
+      "codename": "tutorial",
+      "locale": {}
     }
   },
-  "version": "2.22",
+  "version": "2.3",
   "description": "Base config to use this game.",
   "credits": "@Readeku for ripping the assets"
 }

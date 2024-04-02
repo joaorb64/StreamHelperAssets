@@ -1,0 +1,56 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Chiretta": {
+      "codename": "Chiretta"
+    },
+    "Dreadwyrm": {
+      "codename": "Dreadwyrm"
+    },
+    "Gunner": {
+      "codename": "Gunner"
+    },
+    "Harissa": {
+      "codename": "Harissa"
+    },
+    "Hazel": {
+      "codename": "Hazel"
+    },
+    "Maypul": {
+      "codename": "Maypul"
+    },
+    "Neera": {
+      "codename": "Neera"
+    },
+    "Queen": {
+      "codename": "Queen"
+    },
+    "Reva": {
+      "codename": "Reva"
+    },
+    "Saffron": {
+      "codename": "Saffron"
+    },
+    "Selicy": {
+      "codename": "Selicy"
+    },
+    "Shiso": {
+      "codename": "Shiso"
+    },
+    "Shopkeeper": {
+      "codename": "Shopkeeper"
+    },
+    "Terra": {
+      "codename": "Terra"
+    },
+    "Violette": {
+      "codename": "Violette"
+    }
+  },
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Duelists_of_Eden)",
+  "description": "Base config to use this game.",
+  "name": "Duelists of Eden",
+  "smashgg_game_id": 48268,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

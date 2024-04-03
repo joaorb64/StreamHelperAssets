@@ -19,7 +19,7 @@
   "character_to_codename": {
     "Mario": {
       "smashgg_name": "Mario",
-      "codename": "Mario",
+      "codename": "mario",
       "locale": {
         "ja": "\u30de\u30ea\u30aa",
         "en_GB": "Mario",
@@ -39,7 +39,7 @@
     },
     "Luigi": {
       "smashgg_name": "Luigi",
-      "codename": "Luigi",
+      "codename": "luigi",
       "locale": {
         "ja": "\u30eb\u30a4\u30fc\u30b8",
         "en_GB": "Luigi",
@@ -59,7 +59,7 @@
     },
     "Peach": {
       "smashgg_name": "Peach",
-      "codename": "Peach",
+      "codename": "peach",
       "locale": {
         "ja": "\u30d4\u30fc\u30c1",
         "en_GB": "Peach",
@@ -79,7 +79,7 @@
     },
     "Bowser": {
       "smashgg_name": "Bowser",
-      "codename": "Bowser",
+      "codename": "koopa",
       "locale": {
         "ja": "\u30af\u30c3\u30d1",
         "en_GB": "Bowser",
@@ -99,7 +99,7 @@
     },
     "Dr. Mario": {
       "smashgg_name": "Dr. Mario",
-      "codename": "DrMario",
+      "codename": "drmario",
       "locale": {
         "ja": "\u30c9\u30af\u30bf\u30fc\u30de\u30ea\u30aa",
         "en_GB": "Dr. Mario",
@@ -119,7 +119,7 @@
     },
     "Yoshi": {
       "smashgg_name": "Yoshi",
-      "codename": "Yoshi",
+      "codename": "yoshi",
       "locale": {
         "ja": "\u30e8\u30c3\u30b7\u30fc",
         "en_GB": "Yoshi",
@@ -139,7 +139,7 @@
     },
     "Donkey Kong": {
       "smashgg_name": "Donkey Kong",
-      "codename": "DonkeyKong",
+      "codename": "donkey",
       "locale": {
         "ja": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
         "en_GB": "Donkey Kong",
@@ -159,7 +159,7 @@
     },
     "Diddy Kong": {
       "smashgg_name": "Diddy Kong",
-      "codename": "DiddyKong",
+      "codename": "diddy",
       "locale": {
         "ja": "\u30c7\u30a3\u30c7\u30a3\u30fc\u30b3\u30f3\u30b0",
         "en_GB": "Diddy Kong",
@@ -179,7 +179,7 @@
     },
     "Link": {
       "smashgg_name": "Link",
-      "codename": "Link",
+      "codename": "link",
       "locale": {
         "ja": "\u30ea\u30f3\u30af",
         "en_GB": "Link",
@@ -199,7 +199,7 @@
     },
     "Zelda": {
       "smashgg_name": "Zelda",
-      "codename": "Zelda",
+      "codename": "zelda",
       "locale": {
         "ja": "\u30bc\u30eb\u30c0",
         "en_GB": "Zelda",
@@ -219,7 +219,7 @@
     },
     "Sheik": {
       "smashgg_name": "Sheik",
-      "codename": "Sheik",
+      "codename": "sheik",
       "locale": {
         "ja": "\u30b7\u30fc\u30af",
         "en_GB": "Sheik",
@@ -239,7 +239,7 @@
     },
     "Ganondorf": {
       "smashgg_name": "Ganondorf",
-      "codename": "Ganondorf",
+      "codename": "ganon",
       "locale": {
         "ja": "\u30ac\u30ce\u30f3\u30c9\u30ed\u30d5",
         "en_GB": "Ganondorf",
@@ -259,7 +259,7 @@
     },
     "Toon Link": {
       "smashgg_name": "Toon Link",
-      "codename": "ToonLink",
+      "codename": "toonlink",
       "locale": {
         "fr": "Link Cartoon",
         "ja": "\u30c8\u30a5\u30fc\u30f3\u30ea\u30f3\u30af",
@@ -279,7 +279,7 @@
     },
     "Samus": {
       "smashgg_name": "Samus",
-      "codename": "Samus",
+      "codename": "samus",
       "locale": {
         "ja": "\u30b5\u30e0\u30b9",
         "en_GB": "Samus",
@@ -299,7 +299,7 @@
     },
     "Zero Suit Samus": {
       "smashgg_name": "Zero Suit Samus",
-      "codename": "ZeroSuitSamus",
+      "codename": "szerosuit",
       "locale": {
         "fr": "Samus sans armure",
         "ja": "\u30bc\u30ed\u30b9\u30fc\u30c4\u30b5\u30e0\u30b9",
@@ -319,7 +319,7 @@
     },
     "Kirby": {
       "smashgg_name": "Kirby",
-      "codename": "Kirby",
+      "codename": "kirby",
       "locale": {
         "ja": "\u30ab\u30fc\u30d3\u30a3",
         "en_GB": "Kirby",
@@ -339,7 +339,7 @@
     },
     "Meta Knight": {
       "smashgg_name": "Meta Knight",
-      "codename": "MetaKnight",
+      "codename": "metaknight",
       "locale": {
         "ja": "\u30e1\u30bf\u30ca\u30a4\u30c8",
         "en_GB": "Meta Knight",
@@ -359,7 +359,7 @@
     },
     "King Dedede": {
       "smashgg_name": "King Dedede",
-      "codename": "KingDedede",
+      "codename": "dedede",
       "locale": {
         "fr": "Roi DaDiDou",
         "ja": "\u30c7\u30c7\u30c7",
@@ -379,7 +379,7 @@
     },
     "Fox": {
       "smashgg_name": "Fox",
-      "codename": "Fox",
+      "codename": "fox",
       "locale": {
         "ja": "\u30d5\u30a9\u30c3\u30af\u30b9",
         "en_GB": "Fox",
@@ -399,7 +399,7 @@
     },
     "Falco": {
       "smashgg_name": "Falco",
-      "codename": "Falco",
+      "codename": "falco",
       "locale": {
         "ja": "\u30d5\u30a1\u30eb\u30b3",
         "en_GB": "Falco",
@@ -419,7 +419,7 @@
     },
     "Pikachu": {
       "smashgg_name": "Pikachu",
-      "codename": "Pikachu",
+      "codename": "pikachu",
       "locale": {
         "ja": "\u30d4\u30ab\u30c1\u30e5\u30a6",
         "en_GB": "Pikachu",
@@ -439,7 +439,7 @@
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
-      "codename": "Jigglypuff",
+      "codename": "purin",
       "locale": {
         "fr": "Rondoudou",
         "ja": "\u30d7\u30ea\u30f3",
@@ -459,7 +459,7 @@
     },
     "Mewtwo": {
       "smashgg_name": "Mewtwo",
-      "codename": "Mewtwo",
+      "codename": "mewtwo",
       "locale": {
         "ja": "\u30df\u30e5\u30a6\u30c4\u30fc",
         "en_GB": "Mewtwo",
@@ -479,7 +479,7 @@
     },
     "Charizard": {
       "smashgg_name": "Charizard",
-      "codename": "Charizard",
+      "codename": "lizardon",
       "locale": {
         "fr": "Dracaufeu",
         "ja": "\u30ea\u30b6\u30fc\u30c9\u30f3",
@@ -491,7 +491,7 @@
     },
     "Lucario": {
       "smashgg_name": "Lucario",
-      "codename": "Lucario",
+      "codename": "lucario",
       "locale": {
         "ja": "\u30eb\u30ab\u30ea\u30aa",
         "en_GB": "Lucario",
@@ -511,7 +511,7 @@
     },
     "Captain Falcon": {
       "smashgg_name": "Captain Falcon",
-      "codename": "CaptainFalcon",
+      "codename": "captain",
       "locale": {
         "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30d5\u30a1\u30eb\u30b3\u30f3",
         "en_GB": "Captain Falcon",
@@ -531,7 +531,7 @@
     },
     "Ness": {
       "smashgg_name": "Ness",
-      "codename": "Ness",
+      "codename": "ness",
       "locale": {
         "ja": "\u30cd\u30b9",
         "en_GB": "Ness",
@@ -551,7 +551,7 @@
     },
     "Lucas": {
       "smashgg_name": "Lucas",
-      "codename": "Lucas",
+      "codename": "lucas",
       "locale": {
         "ja": "\u30ea\u30e5\u30ab",
         "en_GB": "Lucas",
@@ -571,7 +571,7 @@
     },
     "Marth": {
       "smashgg_name": "Marth",
-      "codename": "Marth",
+      "codename": "marth",
       "locale": {
         "ja": "\u30de\u30eb\u30b9",
         "en_GB": "Marth",
@@ -591,7 +591,7 @@
     },
     "Roy": {
       "smashgg_name": "Roy",
-      "codename": "Roy",
+      "codename": "roy",
       "locale": {
         "ja": "\u30ed\u30a4",
         "en_GB": "Roy",
@@ -611,7 +611,7 @@
     },
     "Ike": {
       "smashgg_name": "Ike",
-      "codename": "Ike",
+      "codename": "ike",
       "locale": {
         "ja": "\u30a2\u30a4\u30af",
         "en_GB": "Ike",
@@ -631,7 +631,7 @@
     },
     "Mr. Game & Watch": {
       "smashgg_name": "Mr. Game & Watch",
-      "codename": "MrGameWatch",
+      "codename": "gamewatch",
       "locale": {
         "ja": "Mr.\u30b2\u30fc\u30e0\uff06\u30a6\u30a9\u30c3\u30c1",
         "en_GB": "Mr. Game & Watch",
@@ -651,7 +651,7 @@
     },
     "Pit": {
       "smashgg_name": "Pit",
-      "codename": "Pit",
+      "codename": "pit",
       "locale": {
         "ja": "\u30d4\u30c3\u30c8",
         "en_GB": "Pit",
@@ -671,7 +671,7 @@
     },
     "Wario": {
       "smashgg_name": "Wario",
-      "codename": "Wario",
+      "codename": "wario",
       "locale": {
         "ja": "\u30ef\u30ea\u30aa",
         "en_GB": "Wario",
@@ -691,7 +691,7 @@
     },
     "Olimar": {
       "smashgg_name": "Olimar",
-      "codename": "Olimar",
+      "codename": "pikmin",
       "locale": {
         "ja": "\u30d4\u30af\u30df\u30f3&\u30aa\u30ea\u30de\u30fc",
         "en_GB": "Olimar",
@@ -711,7 +711,7 @@
     },
     "R.O.B.": {
       "smashgg_name": "R.O.B.",
-      "codename": "ROB",
+      "codename": "robot",
       "locale": {
         "ja": "\u30ed\u30dc\u30c3\u30c8",
         "en_GB": "R.O.B.",
@@ -731,7 +731,7 @@
     },
     "Sonic": {
       "smashgg_name": "Sonic",
-      "codename": "Sonic",
+      "codename": "sonic",
       "locale": {
         "ja": "\u30bd\u30cb\u30c3\u30af",
         "en_GB": "Sonic",
@@ -751,7 +751,7 @@
     },
     "Rosalina & Luma": {
       "smashgg_name": "Rosalina & Luma",
-      "codename": "RosalinaLuma",
+      "codename": "rosetta",
       "locale": {
         "fr": "Harmonie & Luma",
         "ja": "\u30ed\u30bc\u30c3\u30bf&\u30c1\u30b3",
@@ -771,7 +771,7 @@
     },
     "Bowser Jr.": {
       "smashgg_name": "Bowser Jr.",
-      "codename": "BowserJr",
+      "codename": "koopajr",
       "locale": {
         "ja": "\u30af\u30c3\u30d1 Jr.",
         "en_GB": "Bowser Jr.",
@@ -791,7 +791,7 @@
     },
     "Greninja": {
       "smashgg_name": "Greninja",
-      "codename": "Greninja",
+      "codename": "gekkouga",
       "locale": {
         "fr": "Amphinobi",
         "ja": "\u30b2\u30c3\u30b3\u30a6\u30ac",
@@ -811,7 +811,7 @@
     },
     "Robin": {
       "smashgg_name": "Robin",
-      "codename": "Robin",
+      "codename": "reflet",
       "locale": {
         "fr": "Daraen",
         "ja": "\u30eb\u30d5\u30ec",
@@ -831,7 +831,7 @@
     },
     "Lucina": {
       "smashgg_name": "Lucina",
-      "codename": "Lucina",
+      "codename": "lucina",
       "locale": {
         "ja": "\u30eb\u30ad\u30ca",
         "en_GB": "Lucina",
@@ -851,7 +851,7 @@
     },
     "Palutena": {
       "smashgg_name": "Palutena",
-      "codename": "Palutena",
+      "codename": "palutena",
       "locale": {
         "ja": "\u30d1\u30eb\u30c6\u30ca",
         "en_GB": "Palutena",
@@ -871,7 +871,7 @@
     },
     "Dark Pit": {
       "smashgg_name": "Dark Pit",
-      "codename": "DarkPit",
+      "codename": "pitb",
       "locale": {
         "fr": "Pit Mal\u00e9fique",
         "ja": "\u30d6\u30e9\u30c3\u30af\u30d4\u30c3\u30c8",
@@ -891,7 +891,7 @@
     },
     "Villager": {
       "smashgg_name": "Villager",
-      "codename": "Villager",
+      "codename": "murabito",
       "locale": {
         "fr": "Villageois",
         "ja": "\u3080\u3089\u3073\u3068",
@@ -911,7 +911,7 @@
     },
     "Little Mac": {
       "smashgg_name": "Little Mac",
-      "codename": "LittleMac",
+      "codename": "littlemac",
       "locale": {
         "ja": "\u30ea\u30c8\u30eb\u30fb\u30de\u30c3\u30af",
         "en_GB": "Little Mac",
@@ -931,7 +931,7 @@
     },
     "Wii Fit Trainer": {
       "smashgg_name": "Wii Fit Trainer",
-      "codename": "WiiFitTrainer",
+      "codename": "wiifit",
       "locale": {
         "fr": "Entra\u00eeneuse Wii Fit",
         "ja": "Wii Fit \u30c8\u30ec\u30fc\u30ca\u30fc",
@@ -951,7 +951,7 @@
     },
     "Shulk": {
       "smashgg_name": "Shulk",
-      "codename": "Shulk",
+      "codename": "shulk",
       "locale": {
         "ja": "\u30b7\u30e5\u30eb\u30af",
         "en_GB": "Shulk",
@@ -971,7 +971,7 @@
     },
     "Duck Hunt": {
       "smashgg_name": "Duck Hunt",
-      "codename": "DuckHunt",
+      "codename": "duckhunt",
       "locale": {
         "ja": "\u30c0\u30c3\u30af\u30cf\u30f3\u30c8",
         "en_GB": "Duck Hunt Duo",
@@ -991,7 +991,7 @@
     },
     "Mega Man": {
       "smashgg_name": "Mega Man",
-      "codename": "MegaMan",
+      "codename": "rockman",
       "locale": {
         "ja": "\u30ed\u30c3\u30af\u30de\u30f3",
         "en_GB": "Mega Man",
@@ -1011,7 +1011,7 @@
     },
     "Pac-Man": {
       "smashgg_name": "Pac-Man",
-      "codename": "Pac-Man",
+      "codename": "pacman",
       "locale": {
         "ja": "\u30d1\u30c3\u30af\u30de\u30f3",
         "en_GB": "Pac-Man",
@@ -1031,7 +1031,7 @@
     },
     "Ryu": {
       "smashgg_name": "Ryu",
-      "codename": "Ryu",
+      "codename": "ryu",
       "locale": {
         "ja": "\u30ea\u30e5\u30a6",
         "en_GB": "Ryu",
@@ -1051,7 +1051,7 @@
     },
     "Cloud": {
       "smashgg_name": "Cloud",
-      "codename": "Cloud",
+      "codename": "cloud",
       "locale": {
         "ja": "\u30af\u30e9\u30a6\u30c9",
         "en_GB": "Cloud",
@@ -1071,7 +1071,7 @@
     },
     "Corrin": {
       "smashgg_name": "Corrin",
-      "codename": "Corrin",
+      "codename": "kamui",
       "locale": {
         "ja": "\u30ab\u30e0\u30a4",
         "en_GB": "Corrin",
@@ -1091,7 +1091,7 @@
     },
     "Bayonetta": {
       "smashgg_name": "Bayonetta",
-      "codename": "Bayonetta",
+      "codename": "bayonetta",
       "locale": {
         "ja": "\u30d9\u30e8\u30cd\u30c3\u30bf",
         "en_GB": "Bayonetta",
@@ -1111,14 +1111,14 @@
     },
     "Random": {
       "smashgg_name": "Random",
-      "codename": "Random",
+      "codename": "omakase",
       "locale": {
         "fr": "Al\u00e9atoire"
       }
     },
     "Mii Gunner": {
       "smashgg_name": "Mii Gunner",
-      "codename": "MiiGunner",
+      "codename": "miigunner",
       "locale": {
         "fr": "Tireuse Mii",
         "es": "Tiradora Mii",
@@ -1135,7 +1135,7 @@
     },
     "Mii Swordfighter": {
       "smashgg_name": "Mii Swordfighter",
-      "codename": "MiiSwordfighter",
+      "codename": "miiswordsman",
       "locale": {
         "fr": "\u00c9p\u00e9iste Mii",
         "es": "Espadach\u00edn Mii",
@@ -1152,7 +1152,7 @@
     },
     "Mii Brawler": {
       "smashgg_name": "Mii Brawler",
-      "codename": "MiiBrawler",
+      "codename": "miifighter",
       "locale": {
         "fr": "Boxeur Mii",
         "fr_CA": "Bagarreur Mii",
@@ -1169,8 +1169,217 @@
       }
     }
   },
-  "stage_to_codename": {},
-  "version": "1.08",
+  "stage_to_codename": {
+    "Battlefield": {
+      "smashgg_id": 30,
+      "codename": "battlefield_f"
+    },
+    "Final Destination": {
+      "smashgg_id": 31,
+      "codename": "end_f"
+    },
+    "Delfino Plaza": {
+      "smashgg_id": 32,
+      "codename": "xdolpic"
+    },
+    "Halberd": {
+      "smashgg_id": 33,
+      "codename": "xhalberd"
+    },
+    "Lylat Cruise": {
+      "smashgg_id": 34,
+      "codename": "xstarfox"
+    },
+    "Castle Siege": {
+      "smashgg_id": 35,
+      "codename": "xemblem"
+    },
+    "Town and City": {
+      "smashgg_id": 36,
+      "codename": "village2"
+    },
+    "Smashville": {
+      "smashgg_id": 37,
+      "codename": "xvillage"
+    },
+    "Duck Hunt": {
+      "smashgg_id": 38,
+      "codename": "duckhunt"
+    },
+    "Dream Land": {
+      "smashgg_id": 39,
+      "codename": "pupupuland_64_f"
+    },
+    "Miiverse": {
+      "smashgg_id": 40,
+      "codename": "miiverse"
+    },
+    "Big Battlefield": {
+      "smashgg_id": 41,
+      "codename": "battlefield_l"
+    },
+    "Mario Galaxy": {
+      "smashgg_id": 42,
+      "codename": "galaxy"
+    },
+    "Mushroom Kingdom U": {
+      "smashgg_id": 43,
+      "codename": "mariou"
+    },
+    "Mario Circuit": {
+      "smashgg_id": 44,
+      "codename": "mariokart"
+    },
+    "Peach's Castle": {
+      "smashgg_id": 45,
+      "codename": "peachcastle64_f"
+    },
+    "Luigi's Mansion": {
+      "smashgg_id": 46,
+      "codename": "xmansion"
+    },
+    "Mario Circuit (Brawl)": {
+      "smashgg_id": 47,
+      "codename": "xkart"
+    },
+    "Woolly World": {
+      "smashgg_id": 48,
+      "codename": "yoshiu"
+    },
+    "Yoshi's Island": {
+      "smashgg_id": 49,
+      "codename": "dxyorster"
+    },
+    "Jungle Hijinxs": {
+      "smashgg_id": 50,
+      "codename": "dkreturns"
+    },
+    "Kongo Jungle 64": {
+      "smashgg_id": 51,
+      "codename": "64jungle"
+    },
+    "75m": {
+      "smashgg_id": 52,
+      "codename": "xdonkey"
+    },
+    "Skyloft": {
+      "smashgg_id": 53,
+      "codename": "skyward"
+    },
+    "Hyrule Castle": {
+      "smashgg_id": 54,
+      "codename": "hyrule64_f"
+    },
+    "Temple": {
+      "smashgg_id": 55,
+      "codename": "temple"
+    },
+    "Bridge of Eldin": {
+      "smashgg_id": 56,
+      "codename": "xoldin"
+    },
+    "Pyrosphere": {
+      "smashgg_id": 57,
+      "codename": "metroid"
+    },
+    "Norfair": {
+      "smashgg_id": 58,
+      "codename": "xnorfair"
+    },
+    "The Great Cave Offensive": {
+      "smashgg_id": 59,
+      "codename": "cave"
+    },
+    "Orbital Gate Assault": {
+      "smashgg_id": 60,
+      "codename": "assault"
+    },
+    "Kalos Pokemon League": {
+      "smashgg_id": 61,
+      "codename": "kalos"
+    },
+    "Pokemon Stadium": {
+      "smashgg_id": 62,
+      "codename": "xstadium"
+    },
+    "Port Town Aero Drive": {
+      "smashgg_id": 63,
+      "codename": "xfzero"
+    },
+    "Onett": {
+      "smashgg_id": 64,
+      "codename": "dxonett"
+    },
+    "Coliseum": {
+      "smashgg_id": 65,
+      "codename": "colloseum_f"
+    },
+    "Flat Zone X": {
+      "smashgg_id": 66,
+      "codename": "gw3"
+    },
+    "Palutena's Temple": {
+      "smashgg_id": 67,
+      "codename": "angeland"
+    },
+    "Skyworld": {
+      "smashgg_id": 68,
+      "codename": "xpalutena"
+    },
+    "Gamer": {
+      "smashgg_id": 69,
+      "codename": "gamer"
+    },
+    "Garden of Hope": {
+      "smashgg_id": 70,
+      "codename": "pikminu"
+    },
+    "Boxing Ring": {
+      "smashgg_id": 71,
+      "codename": "punchout"
+    },
+    "Wii Fit Studio": {
+      "smashgg_id": 72,
+      "codename": "wiifit"
+    },
+    "Gaur Plain": {
+      "smashgg_id": 73,
+      "codename": "xenoblade"
+    },
+    "Wrecking Crew": {
+      "smashgg_id": 74,
+      "codename": "wrecking"
+    },
+    "Pilotwings": {
+      "smashgg_id": 75,
+      "codename": "pilotwings"
+    },
+    "Wuhu Island": {
+      "smashgg_id": 76,
+      "codename": "wufu"
+    },
+    "Windy Hill Zone": {
+      "smashgg_id": 77,
+      "codename": "windyhill"
+    },
+    "Wily Castle": {
+      "smashgg_id": 78,
+      "codename": "wily"
+    },
+    "Pac-Land": {
+      "smashgg_id": 79,
+      "codename": "pacland"
+    },
+    "Suzaku Castle": {
+      "smashgg_id": 80,
+      "codename": "streetfighter_f"
+    },
+    "Battlefield/Dreamland": {
+      "smashgg_id": 204,
+      "codename": "battlefielddreamland"
+    }
+  },
+  "version": "1.1",
   "description": "Base config to use this game.",
   "credits": ""
 }

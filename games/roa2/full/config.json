@@ -1,48 +1,60 @@
 {
   "name": "Renders",
   "description": "Character renders",
-  "prefix": "file_",
-  "postfix": "_",
+  "prefix": "",
+  "postfix": "-3D_",
   "type": [
     "full"
   ],
   "credits": "",
-  "version": "0.3",
+  "version": "0.4",
   "eyesights": {
     "Ranno": {
       "0": {
-        "x": 1074,
+        "x": 1086,
         "y": 705
       }
     },
     "Zetterburn": {
       "0": {
-        "x": 1236,
-        "y": 437
+        "x": 1162,
+        "y": 552
       }
     },
     "Fleet": {
       "0": {
-        "x": 824,
+        "x": 830,
         "y": 380
       }
     },
     "Kragg": {
       "0": {
-        "x": 1274,
-        "y": 1007
+        "x": 1288,
+        "y": 989
       }
     },
     "Wrastor": {
       "0": {
-        "x": 890,
-        "y": 418
+        "x": 900,
+        "y": 420
       }
     },
     "Maypul": {
       "0": {
-        "x": 693,
-        "y": 535
+        "x": 694,
+        "y": 540
+      }
+    },
+    "Clairen": {
+      "0": {
+        "x": 1060,
+        "y": 480
+      }
+    },
+    "Loxodont": {
+      "0": {
+        "x": 1160,
+        "y": 386
       }
     }
   },
@@ -51,5 +63,15 @@
     "d",
     "l",
     "r"
-  ]
+  ],
+  "rescaling_factor": {
+    "Clairen": {"0": 1.0},
+    "Fleet": {"0": 1.30},
+    "Kragg": {"0": 1.25},
+    "Loxodont": {"0": 1.1},
+    "Maypul": {"0": 1.40},
+    "Ranno": {"0": 1.40},
+    "Wrastor": {"0": 1.35},
+    "Zetterburn": {"0": 1.25}
+  }
 }

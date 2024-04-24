@@ -1,5 +1,5 @@
 {
-  "challonge_game_id": null,
+  "challonge_game_id": 253944,
   "character_to_codename": {
     "Aleksander Arshavin": {
       "codename": "Arshavin"
@@ -39,6 +39,9 @@
     },
     "Ximena Guadalupe": {
       "codename": "Ximena"
+    },
+    "Rick Johnson": {
+      "codename": "Rick"
     }
   },
   "credits": "",
@@ -46,5 +49,5 @@
   "name": "Pocket Bravery",
   "smashgg_game_id": 44108,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.11"
 }

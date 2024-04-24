@@ -1,0 +1,10 @@
+{
+  "name": "Course Icons",
+  "version": "3.0",
+  "description": "Course icons, as seen in the Results Screen",
+  "prefix": "ym_AwardBG_",
+  "postfix": "_00",
+  "type": [
+    "stage_icon"
+  ]
+}

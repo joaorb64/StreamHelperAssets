@@ -1,6 +1,6 @@
 {
   "name": "Special Icons",
-  "version": "5.0",
+  "version": "6.0",
   "description": "Special icons",
   "prefix": "spe_",
   "postfix": "_",
@@ -1537,6 +1537,144 @@
             "de": "Tintend\u00fcser",
             "it": "Jet splat",
             "es": "Propulsor"
+          }
+        },
+        "CustomBlaster": {
+          "value": "Triple Splashdown",
+          "locale": {
+            "ja": "\u30a6\u30eb\u30c8\u30e9\u30c1\u30e3\u30af\u30c1",
+            "ko": "\uc6b8\ud2b8\ub77c \ucc29\uc9c0",
+            "zh_TW": "\u7d42\u6975\u8457\u9678",
+            "zh_CN": "\u7ec8\u6781\u7740\u9646",
+            "ru": "\u0422\u0440\u043e\u0439\u043d\u043e\u0439 \u043c\u0435\u0433\u0430\u043f\u043b\u044e\u0445",
+            "fr": "Triple choc chromatique",
+            "nl": "Ultralanding",
+            "de": "Tri-Tintenschock",
+            "it": "Triplo vernischianto",
+            "es": "Pu\u00f1etazos explosivos",
+            "es_LA": "Clavado triple"
+          }
+        },
+        "EnperrySplatDualies": {
+          "value": "Triple Splashdown",
+          "locale": {
+            "ja": "\u30a6\u30eb\u30c8\u30e9\u30c1\u30e3\u30af\u30c1",
+            "ko": "\uc6b8\ud2b8\ub77c \ucc29\uc9c0",
+            "zh_TW": "\u7d42\u6975\u8457\u9678",
+            "zh_CN": "\u7ec8\u6781\u7740\u9646",
+            "ru": "\u0422\u0440\u043e\u0439\u043d\u043e\u0439 \u043c\u0435\u0433\u0430\u043f\u043b\u044e\u0445",
+            "fr": "Triple choc chromatique",
+            "nl": "Ultralanding",
+            "de": "Tri-Tintenschock",
+            "it": "Triplo vernischianto",
+            "es": "Pu\u00f1etazos explosivos",
+            "es_LA": "Clavado triple"
+          }
+        },
+        "FoilSqueezer": {
+          "value": "Splattercolor Screen",
+          "locale": {
+            "ja": "\u30b9\u30df\u30ca\u30ac\u30b7\u30fc\u30c8",
+            "ko": "\uc2a4\ud50c\ub798\ud130\uceec\ub7ec \uc2a4\ud06c\ub9b0",
+            "zh_TW": "\u6d6e\u58a8\u5e55\u7246",
+            "zh_CN": "\u6d6e\u58a8\u5e55\u5899",
+            "ru": "\u0417\u0430\u043b\u0438\u0432\u043d\u043e\u0439 \u0431\u0430\u0440\u044c\u0435\u0440",
+            "fr": "Barri\u00e8re barbouill\u00e9e",
+            "nl": "PLED-scherm",
+            "de": "Unsichtbarriere",
+            "it": "Cortina ingannevole",
+            "es": "Pantintalla",
+            "es_LA": "Muro marmoleado"
+          }
+        },
+        "NeoSplatanaStamper": {
+          "value": "Crab Tank",
+          "locale": {
+            "ja": "\u30ab\u30cb\u30bf\u30f3\u30af",
+            "ko": "\ud06c\ub7a9 \ud0f1\ud06c",
+            "ru": "\u041a\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043a",
+            "fr": "Crabe d'assaut",
+            "nl": "Krabbentank",
+            "de": "Krabbenpanzer",
+            "it": "Granchio armato",
+            "es": "Cangrejobot"
+          }
+        },
+        "PainbrushNouveau": {
+          "value": "Tenta Missiles",
+          "locale": {
+            "ja": "\u30de\u30eb\u30c1\u30df\u30b5\u30a4\u30eb",
+            "ko": "\uba40\ud2f0 \ubbf8\uc0ac\uc77c",
+            "zh_TW": "\u591a\u91cd\u5c0e\u5f48",
+            "zh_CN": "\u591a\u91cd\u5bfc\u5f39",
+            "ru": "\u041a\u0430\u0440\u0430\u043a\u0430\u0442\u043d\u0438\u0446\u0430",
+            "fr": "Multi-missile",
+            "nl": "Spetterraketten",
+            "de": "Schwarmraketen",
+            "it": "Lanciarazzi",
+            "es": "Lanzamisiles"
+          }
+        },
+        "REEFLUX450Deco": {
+          "value": "Reefslider",
+          "locale": {
+            "ja": "\u30b5\u30e1\u30e9\u30a4\u30c9",
+            "ko": "\uc0e4\ud06c \ub77c\uc774\ub4dc",
+            "zh_TW": "\u9bca\u9b5a\u5750\u9a0e",
+            "zh_CN": "\u9ca8\u9c7c\u5750\u9a91",
+            "ru": "\u041c\u043e\u0442\u043e\u043a\u0443\u043b\u0430",
+            "fr": "Cavalsquale",
+            "nl": "Opblaashaai",
+            "de": "Haihammer",
+            "it": "Motosqualo",
+            "es": "Flotibur\u00f3n"
+          }
+        },
+        "SBLAST'91": {
+          "value": "Booyah Bomb",
+          "locale": {
+            "ja": "\u30ca\u30a4\u30b9\u30c0\u30de",
+            "ko": "\ub098\uc774\uc2a4\uc625",
+            "zh_TW": "\u8b9a\u6c23\u5f48",
+            "zh_CN": "\u8d5e\u6c14\u5f39",
+            "ru": "\u0419\u043e-\u0445\u043e-\u043f\u043b\u044e\u0445\u0435\u0440",
+            "nl": "Coole bom",
+            "de": "Cool-Kugel",
+            "it": "Granbotto",
+            "es": "Bola genializante",
+            "fr_CA": "Excellinator",
+            "fr": "Jolizator"
+          }
+        },
+        "Snipewriter5B": {
+          "value": "Ink Storm",
+          "locale": {
+            "ja": "\u30a2\u30e1\u30d5\u30e9\u30b7",
+            "ko": "\uba39\uad6c\ub984",
+            "zh_TW": "\u58a8\u96e8\u96f2",
+            "zh_CN": "\u58a8\u96e8\u4e91",
+            "ru": "\u0422\u0443\u0447\u0430 \u043a\u0440\u0430\u0441\u043a\u0438",
+            "fr": "Pluie d'encre",
+            "nl": "Spetterbui",
+            "de": "Tintenschauer",
+            "it": "Pioggia di colore",
+            "es": "Atormentador"
+          }
+        },
+        "UndercoverSorellaBrella": {
+          "value": "Splattercolor Screen",
+          "locale": {
+            "ja": "\u30b9\u30df\u30ca\u30ac\u30b7\u30fc\u30c8",
+            "ko": "\uc2a4\ud50c\ub798\ud130\uceec\ub7ec \uc2a4\ud06c\ub9b0",
+            "zh_TW": "\u6d6e\u58a8\u5e55\u7246",
+            "zh_CN": "\u6d6e\u58a8\u5e55\u5899",
+            "ru": "\u0417\u0430\u043b\u0438\u0432\u043d\u043e\u0439 \u0431\u0430\u0440\u044c\u0435\u0440",
+            "fr": "Barri\u00e8re barbouill\u00e9e",
+            "nl": "PLED-scherm",
+            "de": "Unsichtbarriere",
+            "it": "Cortina ingannevole",
+            "es": "Pantintalla",
+            "es_LA": "Muro marmoleado"
           }
         }
       }

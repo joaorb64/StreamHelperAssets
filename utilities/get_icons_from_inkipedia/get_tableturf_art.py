@@ -69,10 +69,8 @@ for weapon in list_weapons:
     found = False
     for image_tag in card_body_images:
         alt_text = image_tag["alt"]
-        if ((alt_text.lower() in weapon.lower() and weapon.lower() in alt_text.lower()) 
-            or ("Hero" in alt_text and "Hero" in weapon) 
-            or ("Noueveau" in alt_text and "Nouveau" in weapon and "Dapple" in weapon)
-            or ("Tentatek Splatteershot" in alt_text and "Tentatek Splattershot" in weapon)):
+        if ((f"S3 Tableturf Battle card {weapon}.png".lower() in alt_text.lower()) 
+            or ("Hero" in alt_text and "Hero" in weapon)):
             found = True
             count += 1
             thumb_link = image_tag["src"]

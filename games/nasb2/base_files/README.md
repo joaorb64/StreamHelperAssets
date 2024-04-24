@@ -1,6 +1,10 @@
 # Nickelodeon All-Star Brawl 2
 
-## Description: Last updated: November 4th 2023
+## Description: 
 
-## Credits: Renders made by Fairplay Labs, implementation by TNTBlowzUp
+NASB Sweep!!!
+
+## Credits: 
+
+TNTBlowzUp
 

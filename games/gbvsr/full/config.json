@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
-  "version": "0.1",
+  "version": "1.2",
   "uncropped_edge": [
     "l",
     "r"
@@ -119,6 +119,10 @@
       "0": {
         "x": 1249,
         "y": 745
+      },
+      "1": {
+        "x": 961,
+        "y": 593
       }
     },
     "Nier": {
@@ -179,6 +183,18 @@
       "0": {
         "x": 932,
         "y": 865
+      }
+    },
+    "Lucilius": {
+      "0": {
+        "x": 1519,
+        "y": 649
+      }
+    },
+    "2B": {
+      "0": {
+        "x": 750,
+        "y": 657
       }
     }
   }

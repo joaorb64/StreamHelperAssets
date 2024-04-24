@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://www.mortalkombatwarehouse.com/mk12/characters",
-  "version": "1.3",
+  "version": "1.4",
   "eyesights": {
     "Ashrah": {
       "0": {
@@ -163,6 +163,12 @@
       "0": {
         "x": 287,
         "y": 138
+      }
+    },
+    "Ermac": {
+      "0": {
+        "x": 262,
+        "y": 136
       }
     }
   }

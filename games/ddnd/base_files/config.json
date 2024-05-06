@@ -1,0 +1,232 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "A Shuang": {
+      "codename": "AShuang",
+      "locale": {
+        "zh_CN": "\u963f\u723d",
+        "zh_TW": "\u963f\u723d"
+      }
+    },
+    "Da Lan": {
+      "codename": "DaLan",
+      "locale": {
+        "zh_CN": "\u5927\u61d2",
+        "zh_TW": "\u5927\u61f6"
+      }
+    },
+    "Dong Dong": {
+      "codename": "DongDong",
+      "locale": {
+        "zh_CN": "\u4e1c\u4e1c",
+        "zh_TW": "\u6771\u6771"
+      }
+    },
+    "Fei Fei": {
+      "codename": "FeiFei",
+      "locale": {
+        "zh_CN": "\u83f2\u83f2",
+        "zh_TW": "\u83f2\u83f2"
+      }
+    },
+    "Gouki": {
+      "codename": "GOUKI",
+      "locale": {
+        "zh_TW": "GOUKI",
+        "zh_CN": "GOUKI"
+      }
+    },
+    "Huo Chai Ren": {
+      "codename": "HuoChaiRen",
+      "locale": {
+        "zh_CN": "\u706b\u67f4\u4eba",
+        "zh_TW": "\u706b\u67f4\u4eba"
+      }
+    },
+    "Jian Ci Lang": {
+      "codename": "JianCiLang",
+      "locale": {
+        "zh_CN": "\u5065\u6b21\u90ce",
+        "zh_TW": "\u5065\u6b21\u90ce"
+      }
+    },
+    "Jiang Bao": {
+      "codename": "JiangBao",
+      "locale": {
+        "zh_CN": "\u9171\u7206",
+        "zh_TW": "\u91ac\u7206"
+      }
+    },
+    "Jie Jie": {
+      "codename": "JieJie",
+      "locale": {
+        "zh_CN": "\u6770\u6770",
+        "zh_TW": "\u5091\u5091"
+      }
+    },
+    "Jie Mei Hua": {
+      "codename": "JieMeiHua",
+      "locale": {
+        "zh_CN": "\u59d0\u59b9\u82b1",
+        "zh_TW": "\u59d0\u59b9\u82b1"
+      }
+    },
+    "Ken": {
+      "codename": "Ken",
+      "locale": {
+        "ja": "\u30b1\u30f3",
+        "en_GB": "Ken",
+        "en_AU": "Ken",
+        "fr": "Ken",
+        "fr_CA": "Ken",
+        "es": "Ken",
+        "es_LA": "Ken",
+        "de": "Ken",
+        "it": "Ken",
+        "nl": "Ken",
+        "ru": "\u041a\u0435\u043d",
+        "ko": "Ken",
+        "zh_TW": "KEN",
+        "zh_CN": "\u80af"
+      }
+    },
+    "Korone": {
+      "codename": "Korone",
+      "locale": {
+        "zh_CN": "\u620c\u795e\u6c81\u97f3",
+        "zh_TW": "\u620c\u795e\u6c81\u97f3"
+      }
+    },
+    "Mario": {
+      "codename": "Mario",
+      "locale": {
+        "ja": "\u30de\u30ea\u30aa",
+        "en_GB": "Mario",
+        "en_AU": "Mario",
+        "fr": "Mario",
+        "fr_CA": "Mario",
+        "es": "Mario",
+        "es_LA": "Mario",
+        "de": "Mario",
+        "it": "Mario",
+        "nl": "Mario",
+        "ru": "\u041c\u0430\u0440\u0438\u043e",
+        "ko": "\ub9c8\ub9ac\uc624",
+        "zh_TW": "\u746a\u5229\u6b50",
+        "zh_CN": "\u9a6c\u529b\u6b27"
+      }
+    },
+    "Mian Hua Tang": {
+      "codename": "MianHuaTang",
+      "locale": {
+        "zh_CN": "\u68c9\u82b1\u7cd6",
+        "zh_TW": "\u68c9\u82b1\u7cd6"
+      }
+    },
+    "Ming Boy": {
+      "codename": "MingBoy",
+      "locale": {
+        "zh_CN": "\u660e\u4ed4",
+        "zh_TW": "\u660e\u4ed4"
+      }
+    },
+    "Mo Shu Shi": {
+      "codename": "MoShuShi",
+      "locale": {
+        "zh_CN": "\u9b54\u672f\u5e08",
+        "zh_TW": "\u9b54\u8853\u5e2b"
+      }
+    },
+    "Sheng Dan": {
+      "codename": "ShengDan",
+      "locale": {
+        "zh_CN": "\u5723\u8bde",
+        "zh_TW": "\u8056\u8a95"
+      }
+    },
+    "Sheng Hua Nan": {
+      "codename": "ShengHuaNan",
+      "locale": {
+        "zh_CN": "\u751f\u5316\u7537",
+        "zh_TW": "\u751f\u5316\u7537"
+      }
+    },
+    "Sun Wukong": {
+      "codename": "SunWukong",
+      "locale": {
+        "zh_CN": "\u5b59\u609f\u7a7a",
+        "zh_TW": "\u5b6b\u609f\u7a7a"
+      }
+    },
+    "Terminator": {
+      "codename": "Terminator",
+      "locale": {
+        "zh_CN": "\u7ec8\u7ed3\u8005",
+        "zh_TW": "\u7d42\u7d50\u8005"
+      }
+    },
+    "Tuo Lei": {
+      "codename": "TuoLei",
+      "locale": {
+        "zh_CN": "\u6258\u96f7",
+        "zh_TW": "\u6258\u96f7"
+      }
+    },
+    "Violent Dong Dong": {
+      "codename": "ViolentDongDong",
+      "locale": {
+        "zh_CN": "\u66b4\u8d70\u4e1c\u4e1c",
+        "zh_TW": "\u66b4\u8d70\u6771\u6771"
+      }
+    },
+    "Wu Liao Jun": {
+      "codename": "WuLiaoJun",
+      "locale": {
+        "zh_CN": "\u65e0\u804a\u541b",
+        "zh_TW": "\u7121\u804a\u541b"
+      }
+    },
+    "Xiao Pan": {
+      "codename": "XiaoPan",
+      "locale": {
+        "zh_CN": "\u5c0f\u80d6",
+        "zh_TW": "\u5c0f\u80d6"
+      }
+    },
+    "Yin Yin": {
+      "codename": "YinYin",
+      "locale": {
+        "zh_CN": "\u8335\u8335",
+        "zh_TW": "\u8335\u8335"
+      }
+    },
+    "Zhuge Liang": {
+      "codename": "ZhugeLiang",
+      "locale": {
+        "zh_CN": "\u8bf8\u845b\u4eae",
+        "zh_TW": "\u8af8\u845b\u4eae"
+      }
+    },
+    "Zu Qiu Liu Mang": {
+      "codename": "LiuMang",
+      "locale": {
+        "zh_CN": "\u8db3\u7403\u6d41\u6c13",
+        "zh_TW": "\u8db3\u7403\u6d41\u6c13"
+      }
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Dong Dong Never Die: Judgment Day",
+  "smashgg_game_id": 70534,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "zh_CN": {
+      "name": "东东不死传说 审判日"
+    },
+    "zh_TW": {
+      "name": "東東不死傳說 審判日"
+    }
+  }
+}

@@ -156,6 +156,32 @@
         "it": "Scrafty",
         "es": "Scrafty"
       }
+    },
+    "Breloom": {
+      "codename": "286",
+      "locale": {
+        "fr": "Chapignon",
+        "de": "Kapilz",
+        "ko": "\ubc84\uc12f\ubaa8",
+        "ja": "\u30ad\u30ce\u30ac\u30c3\u30b5",
+        "zh_CN": "\u6597\u7b20\u83c7",
+        "zh_TW": "\u6597\u7b20\u83c7",
+        "it": "Breloom",
+        "es": "Breloom"
+      }
+    },
+    "Medicham": {
+      "codename": "308",
+      "locale": {
+        "fr": "Charmina",
+        "de": "Meditalis",
+        "ko": "\uc694\uac00\ub7a8",
+        "ja": "\u30c1\u30e3\u30fc\u30ec\u30e0",
+        "zh_CN": "\u6070\u96f7\u59c6",
+        "zh_TW": "\u6070\u96f7\u59c6",
+        "it": "Medicham",
+        "es": "Medicham"
+      }
     }
   },
   "credits": "Box sprites from the mainline games from Generation 3-8\nEzerart for the Pokémon Scarlet & Violet icons",
@@ -163,5 +189,5 @@
   "name": "Pok\u00e9mon: Close Combat",
   "smashgg_game_id": 56300,
   "stage_to_codename": {},
-  "version": "1.1"
+  "version": "1.2"
 }

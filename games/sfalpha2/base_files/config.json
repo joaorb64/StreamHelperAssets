@@ -1,0 +1,73 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Adon": {
+      "codename": "adon"
+    },
+    "Akuma": {
+      "codename": "gouki"
+    },
+    "Birdie": {
+      "codename": "birdie"
+    },
+    "Charlie Nash": {
+      "codename": "nash"
+    },
+    "Chun-Li": {
+      "codename": "chunli"
+    },
+    "Dan": {
+      "codename": "dan"
+    },
+    "Dhalsim": {
+      "codename": "dhalsim"
+    },
+    "Evil Ryu": {
+      "codename": "evilryu"
+    },
+    "Gen": {
+      "codename": "gen"
+    },
+    "Guy": {
+      "codename": "guy"
+    },
+    "Ken": {
+      "codename": "ken"
+    },
+    "M. Bison": {
+      "codename": "vega"
+    },
+    "Rolento": {
+      "codename": "rolento"
+    },
+    "Rose": {
+      "codename": "rose"
+    },
+    "Ryu": {
+      "codename": "ryu"
+    },
+    "Sagat": {
+      "codename": "sagat"
+    },
+    "Sakura": {
+      "codename": "sakura"
+    },
+    "Sodom": {
+      "codename": "sodom"
+    },
+    "Zangief": {
+      "codename": "zangief"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "locale": {
+    "ja": {
+      "name": "ストリートファイターZERO/2"
+    }
+  },
+  "name": "Street Fighter Alpha 2",
+  "smashgg_game_id": 9219,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

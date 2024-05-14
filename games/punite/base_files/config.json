@@ -808,10 +808,23 @@
         "it": "Miraidon",
         "es": "Miraidon"
       }
+    },
+    "Falinks": {
+      "codename": "870",
+      "locale": {
+        "fr": "Hexadron",
+        "de": "Legios",
+        "ko": "\ub300\uc5ec\ub974",
+        "ja": "\u30bf\u30a4\u30ec\u30fc\u30c4",
+        "zh_CN": "\u5217\u9635\u5175",
+        "zh_TW": "\u5217\u9663\u5175",
+        "it": "Falinks",
+        "es": "Falinks"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.4",
+  "version": "1.5",
   "description": "Base config to use this game",
-  "credits": "Icons from the Pokémon's most recent appearance in the Pokémon mainline series"
+  "credits": "Box sprites from the mainline games from Generation 3-8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pokémon Scarlet & Violet icons"
 }

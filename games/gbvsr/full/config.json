@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
-  "version": "1.4",
+  "version": "1.41",
   "uncropped_edge": [
     "l",
     "r"
@@ -145,6 +145,10 @@
       "0": {
         "x": 1111,
         "y": 788
+      },
+      "1": {
+        "x": 1041,
+        "y": 285
       }
     },
     "Siegfried": {

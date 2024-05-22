@@ -1,0 +1,119 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akuma": {
+      "codename": "Akuma"
+    },
+    "Balrog": {
+      "codename": "Balrog"
+    },
+    "Choi Bounge": {
+      "codename": "ChoiBounge"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Dan Hibiki": {
+      "codename": "DanHibiki"
+    },
+    "Demitri Maximoff": {
+      "codename": "DemitriMaximoff"
+    },
+    "Dhalsim": {
+      "codename": "Dhalsim"
+    },
+    "Earthquake": {
+      "codename": "Earthquake"
+    },
+    "Geese Howard": {
+      "codename": "GeeseHoward"
+    },
+    "Genjuro Kibagami": {
+      "codename": "GenjuroKibagami"
+    },
+    "Goenitz": {
+      "codename": "Goenitz"
+    },
+    "Guile": {
+      "codename": "Guile"
+    },
+    "Hugo": {
+      "codename": "Hugo"
+    },
+    "Iori Yagami": {
+      "codename": "IoriYagami"
+    },
+    "Kasumi Todoh": {
+      "codename": "KasumiTodoh"
+    },
+    "Ken Masters": {
+      "codename": "KenMasters"
+    },
+    "Kim Kaphwan": {
+      "codename": "KimKaphwan"
+    },
+    "Kyo Kusanagi": {
+      "codename": "KyoKusanagi"
+    },
+    "M. Bison": {
+      "codename": "MBison"
+    },
+    "Mai Shiranui": {
+      "codename": "MaiShiranui"
+    },
+    "Mars People": {
+      "codename": "MarsPeople"
+    },
+    "Mr. Karate": {
+      "codename": "MrKarate"
+    },
+    "Orochi Iori": {
+      "codename": "OrochiIori"
+    },
+    "Princess Athena": {
+      "codename": "PrincessAthena"
+    },
+    "Red Arremer": {
+      "codename": "RedArremer"
+    },
+    "Ryo Sakazaki": {
+      "codename": "RyoSakazaki"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sagat": {
+      "codename": "Sagat"
+    },
+    "Serious Mr. Karate": {
+      "codename": "SeriousMrKarate"
+    },
+    "Shiki": {
+      "codename": "Shiki"
+    },
+    "Shin Akuma": {
+      "codename": "ShinAkuma"
+    },
+    "Terry Bogard": {
+      "codename": "TerryBogard"
+    },
+    "Tessa": {
+      "codename": "Tessa"
+    },
+    "Vega": {
+      "codename": "Vega"
+    },
+    "Violent Ken": {
+      "codename": "ViolentKen"
+    },
+    "Zero": {
+      "codename": "Zero"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "SNK vs. Capcom: SVC Chaos",
+  "smashgg_game_id": 8557,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

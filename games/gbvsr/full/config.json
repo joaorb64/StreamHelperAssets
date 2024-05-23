@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
-  "version": "1.41",
+  "version": "1.42",
   "uncropped_edge": [
     "l",
     "r"
@@ -219,6 +219,10 @@
       "0": {
         "x": 1515,
         "y": 733
+      },
+      "1": {
+        "x": 963,
+        "y": 613
       }
     }
   },

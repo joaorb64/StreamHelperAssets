@@ -150,6 +150,15 @@
       "locale": {
         "fr": "Le Joker",
         "pt_BR": "O Coringa"
+      },
+      "skin_name": {
+        "1": {
+          "name": "The Batman who Laughs",
+          "locale": {
+            "fr": "Le Batman qui Rit",
+            "pt_BR": "O Batman que ri"
+          }
+        }
       }
     },
     "Jason Voorhees": {
@@ -160,6 +169,15 @@
       "locale": {
         "fr": "Garde Banane",
         "pt_BR": "Guarda Banana"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Lady Banana Guard",
+          "locale": {
+            "fr": "Garde Lady Banane",
+            "pt_BR": "Senhora Guarda Banana"
+          }
+        }
       }
     }
   },

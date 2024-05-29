@@ -104,8 +104,7 @@
     "Velma Dinkley": {
       "codename": "Velma",
       "locale": {
-        "fr": "V\u00e9ra Dinkley",
-        "pt_BR": "Velma"
+        "fr": "V\u00e9ra Dinkley"
       },
       "smashgg_name": "Velma"
     },
@@ -130,7 +129,10 @@
     },
     "Stripe": {
       "codename": "Stripe",
-      "smashgg_name": "Stripe"
+      "smashgg_name": "Stripe",
+      "locale": {
+        "pt_BR": "Moicano"
+      }
     },
     "Gizmo": {
       "codename": "Gizmo",
@@ -140,7 +142,24 @@
       "codename": "Marvin",
       "locale": {
         "fr": "Marvin le Martien",
-        "pt_BR": "Marvin o Marciano"
+        "pt_BR": "Marvin, o Marciano"
+      }
+    },
+    "Joker": {
+      "codename": "Joker",
+      "locale": {
+        "fr": "Le Joker",
+        "pt_BR": "O Coringa"
+      }
+    },
+    "Jason Voorhees": {
+      "codename": "Jason"
+    },
+    "Banana Guard": {
+      "codename": "Banana",
+      "locale": {
+        "fr": "Garde Banane",
+        "pt_BR": "Guarda Banana"
       }
     }
   },
@@ -149,5 +168,5 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "1.51"
+  "version": "2.0"
 }

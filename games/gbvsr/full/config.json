@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
-  "version": "1.3",
+  "version": "1.42",
   "uncropped_edge": [
     "l",
     "r"
@@ -145,6 +145,10 @@
       "0": {
         "x": 1111,
         "y": 788
+      },
+      "1": {
+        "x": 1041,
+        "y": 285
       }
     },
     "Siegfried": {
@@ -209,6 +213,16 @@
       "0": {
         "x": 1607,
         "y": 611
+      }
+    },
+    "Beatrix": {
+      "0": {
+        "x": 1515,
+        "y": 733
+      },
+      "1": {
+        "x": 963,
+        "y": 613
       }
     }
   },

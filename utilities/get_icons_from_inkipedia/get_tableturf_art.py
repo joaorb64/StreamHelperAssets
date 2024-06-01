@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 import sys
 from PIL import Image
+from urllib.parse import quote
 
 sys.setrecursionlimit(100)
 
@@ -69,9 +70,9 @@ for weapon in list_weapons:
     if ("Order" not in weapon or (("Order" in weapon) and ("Dualie" in weapon))):
         found = False
         for image_tag in card_body_images:
-            alt_text = image_tag["alt"]
-            if ((f"S3 Tableturf Battle card {weapon}.png".lower() in alt_text.lower()) 
-                or ("Hero" in alt_text and "Hero" in weapon)):
+            img_src = image_tag["src"]
+            if ((f"S3_Tableturf_Battle_card_{quote(weapon.replace(' ', '_'), safe='_')}.png".lower() in img_src.lower()) 
+                or ("Hero" in img_src and "Hero" in weapon)):
                 found = True
                 count += 1
                 thumb_link = image_tag["src"]

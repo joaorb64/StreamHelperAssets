@@ -1,6 +1,6 @@
 {
   "name": "Tableturf Art",
-  "version": "7.0",
+  "version": "8.01",
   "description": "Art used in the Tableturf Battle mode",
   "prefix": "card_",
   "postfix": "_",
@@ -214,6 +214,36 @@
     },
     "SplatanaStamperNouveau": {
       "0": 0.7191011235955056
+    },
+    "Bamboozler14MkII": {
+      "0": 0.7345767575322812
+    },
+    "CharcoalDecavitator": {
+      "0": 0.7345767575322812
+    },
+    "CustomDouserDualiesFF": {
+      "0": 0.7345767575322812
+    },
+    "CustomHydraSplatling": {
+      "0": 0.7345767575322812
+    },
+    "CustomRangeBlaster": {
+      "0": 0.7345767575322812
+    },
+    "CustomWellstringV": {
+      "0": 0.7345767575322812
+    },
+    "HeavyEditSplatlingNouveau": {
+      "0": 0.7345767575322812
+    },
+    "MintDecavitator": {
+      "0": 0.7345767575322812
+    },
+    "RecycledBrella24MkII": {
+      "0": 0.7345767575322812
+    },
+    "WellstringV": {
+      "0": 0.7345767575322812
     }
   }
 }

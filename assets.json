@@ -106,7 +106,7 @@
                 "files": {
                     "arms.badge_alt.7z.001": {
                         "name": "arms.badge_alt.7z.001",
-                        "size": 284274
+                        "size": 284273
                     }
                 },
                 "has_eyesight_data": false,
@@ -134,7 +134,7 @@
                 "files": {
                     "arms.full.7z.001": {
                         "name": "arms.full.7z.001",
-                        "size": 341564059
+                        "size": 341564065
                     }
                 },
                 "has_eyesight_data": true,
@@ -280,7 +280,7 @@
                 "files": {
                     "awds.base_files.7z.001": {
                         "name": "awds.base_files.7z.001",
-                        "size": 336918
+                        "size": 336917
                     }
                 },
                 "has_eyesight_data": false,
@@ -360,7 +360,7 @@
                 "files": {
                     "bbcf.base_files.7z.001": {
                         "name": "bbcf.base_files.7z.001",
-                        "size": 775564
+                        "size": 775563
                     }
                 },
                 "has_eyesight_data": false,
@@ -374,7 +374,7 @@
                 "files": {
                     "bbcf.full.7z.001": {
                         "name": "bbcf.full.7z.001",
-                        "size": 23584511
+                        "size": 23584505
                     }
                 },
                 "has_eyesight_data": true,
@@ -454,7 +454,7 @@
                 "files": {
                     "bh.stage_icon.7z.001": {
                         "name": "bh.stage_icon.7z.001",
-                        "size": 17346486
+                        "size": 17346487
                     }
                 },
                 "has_eyesight_data": false,
@@ -473,7 +473,7 @@
                 "files": {
                     "breakers.base_files.7z.001": {
                         "name": "breakers.base_files.7z.001",
-                        "size": 209220
+                        "size": 209221
                     }
                 },
                 "has_eyesight_data": false,
@@ -586,7 +586,7 @@
                 "files": {
                     "cybot.full.7z.001": {
                         "name": "cybot.full.7z.001",
-                        "size": 9342928
+                        "size": 9342929
                     }
                 },
                 "has_eyesight_data": true,
@@ -638,7 +638,7 @@
                 "files": {
                     "dbfz.full.7z.001": {
                         "name": "dbfz.full.7z.001",
-                        "size": 6634587
+                        "size": 6634588
                     }
                 },
                 "has_eyesight_data": true,
@@ -657,7 +657,7 @@
                 "files": {
                     "dbz3.base_files.7z.001": {
                         "name": "dbz3.base_files.7z.001",
-                        "size": 508227
+                        "size": 508228
                     }
                 },
                 "has_eyesight_data": false,
@@ -676,7 +676,7 @@
                 "files": {
                     "ddnd.base_files.7z.001": {
                         "name": "ddnd.base_files.7z.001",
-                        "size": 3410347
+                        "size": 3410348
                     }
                 },
                 "has_eyesight_data": true,
@@ -695,7 +695,7 @@
                 "files": {
                     "dfci.base_files.7z.001": {
                         "name": "dfci.base_files.7z.001",
-                        "size": 14750781
+                        "size": 14750789
                     }
                 },
                 "has_eyesight_data": true,
@@ -794,7 +794,7 @@
                 "files": {
                     "dnfduel.full.7z.001": {
                         "name": "dnfduel.full.7z.001",
-                        "size": 13466790
+                        "size": 13466791
                     }
                 },
                 "has_eyesight_data": true,
@@ -808,7 +808,7 @@
                 "files": {
                     "dnfduel.mobile.7z.001": {
                         "name": "dnfduel.mobile.7z.001",
-                        "size": 3581653
+                        "size": 3581654
                     }
                 },
                 "has_eyesight_data": true,
@@ -841,7 +841,7 @@
                 "files": {
                     "doa5lr.full.7z.001": {
                         "name": "doa5lr.full.7z.001",
-                        "size": 43358389
+                        "size": 43358384
                     }
                 },
                 "has_eyesight_data": true,
@@ -860,7 +860,7 @@
                 "files": {
                     "doe.base_files.7z.001": {
                         "name": "doe.base_files.7z.001",
-                        "size": 9930349
+                        "size": 9930348
                     }
                 },
                 "has_eyesight_data": false,
@@ -940,7 +940,7 @@
                 "files": {
                     "en1a.full.7z.001": {
                         "name": "en1a.full.7z.001",
-                        "size": 1703996
+                        "size": 1703995
                     }
                 },
                 "has_eyesight_data": true,
@@ -968,12 +968,12 @@
                 "version": "1.03"
             },
             "full": {
-                "credits": "@MathiasWolfbrok for cropping",
+                "credits": "",
                 "description": "Character artwork",
                 "files": {
                     "fexl.full.7z.001": {
                         "name": "fexl.full.7z.001",
-                        "size": 4618624
+                        "size": 4618620
                     }
                 },
                 "has_eyesight_data": true,
@@ -987,18 +987,32 @@
     "ffcotw": {
         "assets": {
             "base_files": {
-                "credits": "Icons currently use pre-release screenshots from the game as placeholders\nDetouring by @MathiasWolfbrok",
+                "credits": "Icons ripped from https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/",
                 "description": "Base config to use this game.",
                 "files": {
                     "ffcotw.base_files.7z.001": {
                         "name": "ffcotw.base_files.7z.001",
-                        "size": 24861387
+                        "size": 2616847
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Fatal Fury: City of the Wolves",
+                "version": "0.3"
+            },
+            "full": {
+                "credits": "Icons ripped from https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/",
+                "description": "Character renders",
+                "files": {
+                    "ffcotw.full.7z.001": {
+                        "name": "ffcotw.full.7z.001",
+                        "size": 5325597
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
-                "name": "Fatal Fury: City of the Wolves",
-                "version": "0.2"
+                "name": "Renders",
+                "version": "0.3"
             }
         },
         "name": "Fatal Fury: City of the Wolves"
@@ -1011,7 +1025,7 @@
                 "files": {
                     "foa.base_files.7z.001": {
                         "name": "foa.base_files.7z.001",
-                        "size": 483211
+                        "size": 483210
                     }
                 },
                 "has_eyesight_data": false,
@@ -1025,7 +1039,7 @@
                 "files": {
                     "foa.full.7z.001": {
                         "name": "foa.full.7z.001",
-                        "size": 1805076
+                        "size": 1805075
                     }
                 },
                 "has_eyesight_data": true,
@@ -1063,7 +1077,7 @@
                 "files": {
                     "fray.base_files.7z.001": {
                         "name": "fray.base_files.7z.001",
-                        "size": 387082
+                        "size": 387081
                     }
                 },
                 "has_eyesight_data": false,
@@ -1077,7 +1091,7 @@
                 "files": {
                     "fray.full.7z.001": {
                         "name": "fray.full.7z.001",
-                        "size": 413158
+                        "size": 413157
                     }
                 },
                 "has_eyesight_data": true,
@@ -1096,7 +1110,7 @@
                 "files": {
                     "garoumotw.base_files.7z.001": {
                         "name": "garoumotw.base_files.7z.001",
-                        "size": 268694
+                        "size": 268693
                     }
                 },
                 "has_eyesight_data": false,
@@ -1129,7 +1143,7 @@
                 "files": {
                     "gbvs.base_files.7z.001": {
                         "name": "gbvs.base_files.7z.001",
-                        "size": 485453
+                        "size": 485452
                     }
                 },
                 "has_eyesight_data": false,
@@ -1143,7 +1157,7 @@
                 "files": {
                     "gbvs.full.7z.001": {
                         "name": "gbvs.full.7z.001",
-                        "size": 28580023
+                        "size": 28580015
                     }
                 },
                 "has_eyesight_data": true,
@@ -1209,7 +1223,7 @@
                 "files": {
                     "ggst.chibi.7z.001": {
                         "name": "ggst.chibi.7z.001",
-                        "size": 11831779
+                        "size": 11831778
                     }
                 },
                 "has_eyesight_data": true,
@@ -1242,7 +1256,7 @@
                 "files": {
                     "ggxrd2.base_files.7z.001": {
                         "name": "ggxrd2.base_files.7z.001",
-                        "size": 1162011
+                        "size": 1162012
                     }
                 },
                 "has_eyesight_data": false,
@@ -1275,7 +1289,7 @@
                 "files": {
                     "ggxxacpr.base_files.7z.001": {
                         "name": "ggxxacpr.base_files.7z.001",
-                        "size": 575442
+                        "size": 575441
                     }
                 },
                 "has_eyesight_data": false,
@@ -1289,7 +1303,7 @@
                 "files": {
                     "ggxxacpr.full.7z.001": {
                         "name": "ggxxacpr.full.7z.001",
-                        "size": 38614392
+                        "size": 38614391
                     }
                 },
                 "has_eyesight_data": true,
@@ -1308,7 +1322,7 @@
                 "files": {
                     "gor.base_files.7z.001": {
                         "name": "gor.base_files.7z.001",
-                        "size": 1409093
+                        "size": 1409092
                     }
                 },
                 "has_eyesight_data": false,
@@ -1322,7 +1336,7 @@
                 "files": {
                     "gor.full.7z.001": {
                         "name": "gor.full.7z.001",
-                        "size": 3160354
+                        "size": 3160353
                     }
                 },
                 "has_eyesight_data": true,
@@ -1341,7 +1355,7 @@
                 "files": {
                     "hce.base_files.7z.001": {
                         "name": "hce.base_files.7z.001",
-                        "size": 397568
+                        "size": 397567
                     }
                 },
                 "has_eyesight_data": false,
@@ -1355,7 +1369,7 @@
                 "files": {
                     "hce.full.7z.001": {
                         "name": "hce.full.7z.001",
-                        "size": 2485471
+                        "size": 2485470
                     }
                 },
                 "has_eyesight_data": true,
@@ -1440,7 +1454,7 @@
                 "files": {
                     "idols.art.7z.001": {
                         "name": "idols.art.7z.001",
-                        "size": 73623431
+                        "size": 73623432
                     }
                 },
                 "has_eyesight_data": true,
@@ -1520,7 +1534,7 @@
                 "files": {
                     "jojoasbr.base_files.7z.001": {
                         "name": "jojoasbr.base_files.7z.001",
-                        "size": 2135670
+                        "size": 2135669
                     }
                 },
                 "has_eyesight_data": false,
@@ -1534,7 +1548,7 @@
                 "files": {
                     "jojoasbr.full.7z.001": {
                         "name": "jojoasbr.full.7z.001",
-                        "size": 15770436
+                        "size": 15770435
                     }
                 },
                 "has_eyesight_data": true,
@@ -1666,7 +1680,7 @@
                 "files": {
                     "kf2.full.7z.001": {
                         "name": "kf2.full.7z.001",
-                        "size": 1950439
+                        "size": 1950438
                     }
                 },
                 "has_eyesight_data": true,
@@ -1765,7 +1779,7 @@
                 "files": {
                     "klkif.full.7z.001": {
                         "name": "klkif.full.7z.001",
-                        "size": 6607669
+                        "size": 6607668
                     }
                 },
                 "has_eyesight_data": true,
@@ -1812,7 +1826,7 @@
                 "files": {
                     "kof02um.full_win.7z.001": {
                         "name": "kof02um.full_win.7z.001",
-                        "size": 59011023
+                        "size": 59011024
                     }
                 },
                 "has_eyesight_data": false,
@@ -1831,7 +1845,7 @@
                 "files": {
                     "kof03.base_files.7z.001": {
                         "name": "kof03.base_files.7z.001",
-                        "size": 1946953
+                        "size": 1946952
                     }
                 },
                 "has_eyesight_data": false,
@@ -1845,7 +1859,7 @@
                 "files": {
                     "kof03.full.7z.001": {
                         "name": "kof03.full.7z.001",
-                        "size": 3309300
+                        "size": 3309301
                     }
                 },
                 "has_eyesight_data": true,
@@ -1930,7 +1944,7 @@
                 "files": {
                     "kofxi.base_files.7z.001": {
                         "name": "kofxi.base_files.7z.001",
-                        "size": 988088
+                        "size": 988087
                     }
                 },
                 "has_eyesight_data": false,
@@ -2024,7 +2038,7 @@
                 "files": {
                     "kofxv.full.7z.001": {
                         "name": "kofxv.full.7z.001",
-                        "size": 42335286
+                        "size": 42335285
                     }
                 },
                 "has_eyesight_data": true,
@@ -2170,7 +2184,7 @@
                 "files": {
                     "lor.base_files.7z.001": {
                         "name": "lor.base_files.7z.001",
-                        "size": 345142
+                        "size": 345143
                     }
                 },
                 "has_eyesight_data": false,
@@ -2203,7 +2217,7 @@
                 "files": {
                     "martial.full.7z.001": {
                         "name": "martial.full.7z.001",
-                        "size": 475291
+                        "size": 475290
                     }
                 },
                 "has_eyesight_data": true,
@@ -2222,7 +2236,7 @@
                 "files": {
                     "mbaacc.banner.7z.001": {
                         "name": "mbaacc.banner.7z.001",
-                        "size": 750578
+                        "size": 750577
                     }
                 },
                 "has_eyesight_data": false,
@@ -2236,7 +2250,7 @@
                 "files": {
                     "mbaacc.base_files.7z.001": {
                         "name": "mbaacc.base_files.7z.001",
-                        "size": 537446
+                        "size": 537445
                     }
                 },
                 "has_eyesight_data": false,
@@ -2283,7 +2297,7 @@
                 "files": {
                     "mbtl.full.7z.001": {
                         "name": "mbtl.full.7z.001",
-                        "size": 8162542
+                        "size": 8162541
                     }
                 },
                 "has_eyesight_data": true,
@@ -2311,7 +2325,7 @@
                 "files": {
                     "mbtl.tsukihime.7z.001": {
                         "name": "mbtl.tsukihime.7z.001",
-                        "size": 19890036
+                        "size": 19890030
                     }
                 },
                 "has_eyesight_data": true,
@@ -2330,7 +2344,7 @@
                 "files": {
                     "merfight.base_files.7z.001": {
                         "name": "merfight.base_files.7z.001",
-                        "size": 383899
+                        "size": 383898
                     }
                 },
                 "has_eyesight_data": false,
@@ -2363,7 +2377,7 @@
                 "files": {
                     "mhoj2.base_files.7z.001": {
                         "name": "mhoj2.base_files.7z.001",
-                        "size": 26176980
+                        "size": 26176979
                     }
                 },
                 "has_eyesight_data": true,
@@ -2382,13 +2396,13 @@
                 "files": {
                     "mk1.base_files.7z.001": {
                         "name": "mk1.base_files.7z.001",
-                        "size": 8152166
+                        "size": 8460585
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Mortal Kombat 1",
-                "version": "1.4"
+                "version": "1.5"
             },
             "costume": {
                 "credits": "Ripped from https://www.mortalkombatwarehouse.com/mk12/characters",
@@ -2396,13 +2410,13 @@
                 "files": {
                     "mk1.costume.7z.001": {
                         "name": "mk1.costume.7z.001",
-                        "size": 1501122896
+                        "size": 1547668834
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Skins",
-                "version": "1.4"
+                "version": "1.5"
             },
             "full": {
                 "credits": "Ripped from https://www.mortalkombat.com/en-gb/roster",
@@ -2410,13 +2424,13 @@
                 "files": {
                     "mk1.full.7z.001": {
                         "name": "mk1.full.7z.001",
-                        "size": 20792986
+                        "size": 21677420
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "1.4"
+                "version": "1.5"
             },
             "portrait": {
                 "credits": "",
@@ -2424,13 +2438,13 @@
                 "files": {
                     "mk1.portrait.7z.001": {
                         "name": "mk1.portrait.7z.001",
-                        "size": 14297388
+                        "size": 14828352
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "1.4"
+                "version": "1.5"
             }
         },
         "name": "Mortal Kombat 1"
@@ -2481,7 +2495,7 @@
                 "files": {
                     "mk8dx.base_files.7z.001": {
                         "name": "mk8dx.base_files.7z.001",
-                        "size": 1703272
+                        "size": 1703273
                     }
                 },
                 "has_eyesight_data": false,
@@ -2514,7 +2528,7 @@
                 "files": {
                     "mkwii.base_files.7z.001": {
                         "name": "mkwii.base_files.7z.001",
-                        "size": 3389950
+                        "size": 3389949
                     }
                 },
                 "has_eyesight_data": false,
@@ -2528,7 +2542,7 @@
                 "files": {
                     "mkwii.full.7z.001": {
                         "name": "mkwii.full.7z.001",
-                        "size": 14273961
+                        "size": 14273967
                     }
                 },
                 "has_eyesight_data": true,
@@ -2547,7 +2561,7 @@
                 "files": {
                     "mkxl.base_files.7z.001": {
                         "name": "mkxl.base_files.7z.001",
-                        "size": 37556285
+                        "size": 37556284
                     }
                 },
                 "has_eyesight_data": true,
@@ -2707,7 +2721,7 @@
                 "files": {
                     "mta.full_upscale.7z.001": {
                         "name": "mta.full_upscale.7z.001",
-                        "size": 237248250
+                        "size": 237248235
                     }
                 },
                 "has_eyesight_data": false,
@@ -2721,7 +2735,7 @@
                 "files": {
                     "mta.logo.7z.001": {
                         "name": "mta.logo.7z.001",
-                        "size": 1304910
+                        "size": 1304909
                     }
                 },
                 "has_eyesight_data": false,
@@ -2740,7 +2754,7 @@
                 "files": {
                     "multiversus.base_files.7z.001": {
                         "name": "multiversus.base_files.7z.001",
-                        "size": 5234755
+                        "size": 5234754
                     }
                 },
                 "has_eyesight_data": false,
@@ -2754,7 +2768,7 @@
                 "files": {
                     "multiversus.full.7z.001": {
                         "name": "multiversus.full.7z.001",
-                        "size": 149318077
+                        "size": 149318096
                     }
                 },
                 "has_eyesight_data": true,
@@ -2839,7 +2853,7 @@
                 "files": {
                     "nasb.ani.7z.001": {
                         "name": "nasb.ani.7z.001",
-                        "size": 8971115
+                        "size": 8971108
                     }
                 },
                 "has_eyesight_data": false,
@@ -2867,7 +2881,7 @@
                 "files": {
                     "nasb.full.7z.001": {
                         "name": "nasb.full.7z.001",
-                        "size": 50271240
+                        "size": 50271241
                     }
                 },
                 "has_eyesight_data": true,
@@ -2881,7 +2895,7 @@
                 "files": {
                     "nasb.stage_icon.7z.001": {
                         "name": "nasb.stage_icon.7z.001",
-                        "size": 64943458
+                        "size": 64943465
                     }
                 },
                 "has_eyesight_data": false,
@@ -2914,7 +2928,7 @@
                 "files": {
                     "nasb2.render.7z.001": {
                         "name": "nasb2.render.7z.001",
-                        "size": 231242383
+                        "size": 231242382
                     }
                 },
                 "has_eyesight_data": true,
@@ -2928,7 +2942,7 @@
                 "files": {
                     "nasb2.stage_icon.7z.001": {
                         "name": "nasb2.stage_icon.7z.001",
-                        "size": 24356181
+                        "size": 24356174
                     }
                 },
                 "has_eyesight_data": false,
@@ -3013,7 +3027,7 @@
                 "files": {
                     "opxdbz.full.7z.001": {
                         "name": "opxdbz.full.7z.001",
-                        "size": 592962
+                        "size": 592961
                     }
                 },
                 "has_eyesight_data": true,
@@ -3032,7 +3046,7 @@
                 "files": {
                     "ostrikers.art.7z.001": {
                         "name": "ostrikers.art.7z.001",
-                        "size": 173189331
+                        "size": 173189337
                     }
                 },
                 "has_eyesight_data": true,
@@ -3060,7 +3074,7 @@
                 "files": {
                     "ostrikers.full.7z.001": {
                         "name": "ostrikers.full.7z.001",
-                        "size": 9926502
+                        "size": 9926495
                     }
                 },
                 "has_eyesight_data": true,
@@ -3098,7 +3112,7 @@
                 "files": {
                     "p4au.base_files.7z.001": {
                         "name": "p4au.base_files.7z.001",
-                        "size": 596905
+                        "size": 596906
                     }
                 },
                 "has_eyesight_data": false,
@@ -3145,7 +3159,7 @@
                 "files": {
                     "panel.full.7z.001": {
                         "name": "panel.full.7z.001",
-                        "size": 60316
+                        "size": 60317
                     }
                 },
                 "has_eyesight_data": false,
@@ -3164,7 +3178,7 @@
                 "files": {
                     "panelna.base_files.7z.001": {
                         "name": "panelna.base_files.7z.001",
-                        "size": 450939
+                        "size": 450938
                     }
                 },
                 "has_eyesight_data": false,
@@ -3178,7 +3192,7 @@
                 "files": {
                     "panelna.full.7z.001": {
                         "name": "panelna.full.7z.001",
-                        "size": 47577
+                        "size": 47578
                     }
                 },
                 "has_eyesight_data": false,
@@ -3197,7 +3211,7 @@
                 "files": {
                     "pbo.base_files.7z.001": {
                         "name": "pbo.base_files.7z.001",
-                        "size": 1941454
+                        "size": 1941453
                     }
                 },
                 "has_eyesight_data": false,
@@ -3244,7 +3258,7 @@
                 "files": {
                     "pbrave.full.7z.001": {
                         "name": "pbrave.full.7z.001",
-                        "size": 90147529
+                        "size": 90147536
                     }
                 },
                 "has_eyesight_data": true,
@@ -3329,7 +3343,7 @@
                 "files": {
                     "pkmn.base_files.7z.001": {
                         "name": "pkmn.base_files.7z.001",
-                        "size": 18411325
+                        "size": 18411317
                     }
                 },
                 "has_eyesight_data": false,
@@ -3343,7 +3357,7 @@
                 "files": {
                     "pkmn.full.7z.001": {
                         "name": "pkmn.full.7z.001",
-                        "size": 129935673
+                        "size": 129935674
                     }
                 },
                 "has_eyesight_data": false,
@@ -3357,7 +3371,7 @@
                 "files": {
                     "pkmn.pixel_box.7z.001": {
                         "name": "pkmn.pixel_box.7z.001",
-                        "size": 762576
+                        "size": 762585
                     }
                 },
                 "has_eyesight_data": false,
@@ -3376,7 +3390,7 @@
                 "files": {
                     "pocket.base_files.7z.001": {
                         "name": "pocket.base_files.7z.001",
-                        "size": 37649
+                        "size": 37651
                     }
                 },
                 "has_eyesight_data": false,
@@ -3442,7 +3456,7 @@
                 "files": {
                     "pplanet.base_files.7z.001": {
                         "name": "pplanet.base_files.7z.001",
-                        "size": 56362
+                        "size": 56363
                     }
                 },
                 "has_eyesight_data": false,
@@ -3475,7 +3489,7 @@
                 "files": {
                     "pplus.base_files.7z.001": {
                         "name": "pplus.base_files.7z.001",
-                        "size": 274855
+                        "size": 274856
                     }
                 },
                 "has_eyesight_data": false,
@@ -3503,7 +3517,7 @@
                 "files": {
                     "pplus.portrait.7z.001": {
                         "name": "pplus.portrait.7z.001",
-                        "size": 4789420
+                        "size": 4789418
                     }
                 },
                 "has_eyesight_data": true,
@@ -3555,7 +3569,7 @@
                 "files": {
                     "prbftg.full.7z.001": {
                         "name": "prbftg.full.7z.001",
-                        "size": 24710075
+                        "size": 24710068
                     }
                 },
                 "has_eyesight_data": true,
@@ -3640,7 +3654,7 @@
                 "files": {
                     "punite.base_files.7z.001": {
                         "name": "punite.base_files.7z.001",
-                        "size": 76400
+                        "size": 76399
                     }
                 },
                 "has_eyesight_data": false,
@@ -3654,7 +3668,7 @@
                 "files": {
                     "punite.full.7z.001": {
                         "name": "punite.full.7z.001",
-                        "size": 6234927
+                        "size": 6234926
                     }
                 },
                 "has_eyesight_data": true,
@@ -3720,7 +3734,7 @@
                 "files": {
                     "reddearth.full.7z.001": {
                         "name": "reddearth.full.7z.001",
-                        "size": 34415
+                        "size": 34414
                     }
                 },
                 "has_eyesight_data": true,
@@ -3805,7 +3819,7 @@
                 "files": {
                     "roa.base_files.7z.001": {
                         "name": "roa.base_files.7z.001",
-                        "size": 82141
+                        "size": 82140
                     }
                 },
                 "has_eyesight_data": false,
@@ -3828,18 +3842,18 @@
                 "version": "2.3"
             },
             "full": {
-                "credits": "@Readeku for ripping the assets\nWe also recommend downloading the Skins pack alongside this one",
+                "credits": "@Readeku for ripping the assets\nSandbert Art from the \"Sandbert (Definitive Edition)\" mod by Buttercup <3, Lukaru and Spider Boi\nWe also recommend downloading the Skins pack alongside this one",
                 "description": "Character artworks",
                 "files": {
                     "roa.full.7z.001": {
                         "name": "roa.full.7z.001",
-                        "size": 47969391
+                        "size": 47976785
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "2.3"
+                "version": "2.31"
             },
             "stage_bg": {
                 "credits": "@Readeku for ripping the assets",
@@ -3847,7 +3861,7 @@
                 "files": {
                     "roa.stage_bg.7z.001": {
                         "name": "roa.stage_bg.7z.001",
-                        "size": 220335929
+                        "size": 220335935
                     }
                 },
                 "has_eyesight_data": false,
@@ -3880,7 +3894,7 @@
                 "files": {
                     "roa2.art.7z.001": {
                         "name": "roa2.art.7z.001",
-                        "size": 29139418
+                        "size": 29139417
                     }
                 },
                 "has_eyesight_data": true,
@@ -3922,7 +3936,7 @@
                 "files": {
                     "roa2.stage_bg.7z.001": {
                         "name": "roa2.stage_bg.7z.001",
-                        "size": 114131381
+                        "size": 114131375
                     }
                 },
                 "has_eyesight_data": false,
@@ -3955,13 +3969,13 @@
                 "files": {
                     "rrev.base_files.7z.001": {
                         "name": "rrev.base_files.7z.001",
-                        "size": 12999334
+                        "size": 10841976
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Rushdown Revolt",
-                "version": "1.3"
+                "version": "1.31"
             },
             "csp": {
                 "credits": null,
@@ -3969,7 +3983,7 @@
                 "files": {
                     "rrev.csp.7z.001": {
                         "name": "rrev.csp.7z.001",
-                        "size": 18235398
+                        "size": 18235391
                     }
                 },
                 "has_eyesight_data": false,
@@ -4035,7 +4049,7 @@
                 "files": {
                     "sa2b.base_files.7z.001": {
                         "name": "sa2b.base_files.7z.001",
-                        "size": 25343610
+                        "size": 25343617
                     }
                 },
                 "has_eyesight_data": true,
@@ -4068,7 +4082,7 @@
                 "files": {
                     "samsho2019.full.7z.001": {
                         "name": "samsho2019.full.7z.001",
-                        "size": 22445145
+                        "size": 22445144
                     }
                 },
                 "has_eyesight_data": true,
@@ -4087,7 +4101,7 @@
                 "files": {
                     "samsho3.base_files.7z.001": {
                         "name": "samsho3.base_files.7z.001",
-                        "size": 373578
+                        "size": 373577
                     }
                 },
                 "has_eyesight_data": true,
@@ -4172,7 +4186,7 @@
                 "files": {
                     "sc2.full.7z.001": {
                         "name": "sc2.full.7z.001",
-                        "size": 17029771
+                        "size": 17029764
                     }
                 },
                 "has_eyesight_data": true,
@@ -4191,7 +4205,7 @@
                 "files": {
                     "sc6.full.7z.001": {
                         "name": "sc6.full.7z.001",
-                        "size": 9466354
+                        "size": 9466353
                     }
                 },
                 "has_eyesight_data": true,
@@ -4210,7 +4224,7 @@
                 "files": {
                     "sdb.base_files.7z.001": {
                         "name": "sdb.base_files.7z.001",
-                        "size": 179967
+                        "size": 179966
                     }
                 },
                 "has_eyesight_data": false,
@@ -4224,7 +4238,7 @@
                 "files": {
                     "sdb.full.7z.001": {
                         "name": "sdb.full.7z.001",
-                        "size": 983724
+                        "size": 983731
                     }
                 },
                 "has_eyesight_data": true,
@@ -4243,7 +4257,7 @@
                 "files": {
                     "sdbz.base_files.7z.001": {
                         "name": "sdbz.base_files.7z.001",
-                        "size": 30125000
+                        "size": 30124992
                     }
                 },
                 "has_eyesight_data": true,
@@ -4285,7 +4299,7 @@
                 "files": {
                     "sdbz.stage_icon.7z.001": {
                         "name": "sdbz.stage_icon.7z.001",
-                        "size": 894757
+                        "size": 894758
                     }
                 },
                 "has_eyesight_data": false,
@@ -4304,7 +4318,7 @@
                 "files": {
                     "sf3ts.base_files.7z.001": {
                         "name": "sf3ts.base_files.7z.001",
-                        "size": 93095
+                        "size": 93094
                     }
                 },
                 "has_eyesight_data": false,
@@ -4318,7 +4332,7 @@
                 "files": {
                     "sf3ts.full.7z.001": {
                         "name": "sf3ts.full.7z.001",
-                        "size": 99750731
+                        "size": 99750738
                     }
                 },
                 "has_eyesight_data": true,
@@ -4365,7 +4379,7 @@
                 "files": {
                     "sf6.art.7z.001": {
                         "name": "sf6.art.7z.001",
-                        "size": 43779935
+                        "size": 43779928
                     }
                 },
                 "has_eyesight_data": true,
@@ -4379,13 +4393,13 @@
                 "files": {
                     "sf6.base_files.7z.001": {
                         "name": "sf6.base_files.7z.001",
-                        "size": 10317584
+                        "size": 10317625
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Street Fighter 6",
-                "version": "1.7"
+                "version": "1.71"
             },
             "cartoon": {
                 "credits": null,
@@ -4407,7 +4421,7 @@
                 "files": {
                     "sf6.chibi.7z.001": {
                         "name": "sf6.chibi.7z.001",
-                        "size": 5887694
+                        "size": 5887693
                     }
                 },
                 "has_eyesight_data": true,
@@ -4435,7 +4449,7 @@
                 "files": {
                     "sf6.hd_portrait.7z.001": {
                         "name": "sf6.hd_portrait.7z.001",
-                        "size": 33725171
+                        "size": 33725170
                     }
                 },
                 "has_eyesight_data": true,
@@ -4449,7 +4463,7 @@
                 "files": {
                     "sf6.kangyaku.7z.001": {
                         "name": "sf6.kangyaku.7z.001",
-                        "size": 34974840
+                        "size": 34974839
                     }
                 },
                 "has_eyesight_data": true,
@@ -4463,7 +4477,7 @@
                 "files": {
                     "sf6.pixel_art.7z.001": {
                         "name": "sf6.pixel_art.7z.001",
-                        "size": 9249694
+                        "size": 9249693
                     }
                 },
                 "has_eyesight_data": true,
@@ -4477,7 +4491,7 @@
                 "files": {
                     "sf6.pixel_art_restore.7z.001": {
                         "name": "sf6.pixel_art_restore.7z.001",
-                        "size": 861561
+                        "size": 861560
                     }
                 },
                 "has_eyesight_data": true,
@@ -4491,7 +4505,7 @@
                 "files": {
                     "sf6.stat.7z.001": {
                         "name": "sf6.stat.7z.001",
-                        "size": 859317
+                        "size": 859316
                     }
                 },
                 "has_eyesight_data": true,
@@ -4505,7 +4519,7 @@
                 "files": {
                     "sf6.website.7z.001": {
                         "name": "sf6.website.7z.001",
-                        "size": 5321697
+                        "size": 5321696
                     }
                 },
                 "has_eyesight_data": false,
@@ -4543,7 +4557,7 @@
                 "files": {
                     "sfalpha3.base_files.7z.001": {
                         "name": "sfalpha3.base_files.7z.001",
-                        "size": 686578
+                        "size": 686577
                     }
                 },
                 "has_eyesight_data": true,
@@ -4557,7 +4571,7 @@
                 "files": {
                     "sfalpha3.full.7z.001": {
                         "name": "sfalpha3.full.7z.001",
-                        "size": 21119518
+                        "size": 21119526
                     }
                 },
                 "has_eyesight_data": true,
@@ -4595,7 +4609,7 @@
                 "files": {
                     "sfex3.base_files.7z.001": {
                         "name": "sfex3.base_files.7z.001",
-                        "size": 10404084
+                        "size": 10404076
                     }
                 },
                 "has_eyesight_data": true,
@@ -4609,7 +4623,7 @@
                 "files": {
                     "sfex3.full_upscale.7z.001": {
                         "name": "sfex3.full_upscale.7z.001",
-                        "size": 94018511
+                        "size": 94018512
                     }
                 },
                 "has_eyesight_data": true,
@@ -4628,7 +4642,7 @@
                 "files": {
                     "sfone.base_files.7z.001": {
                         "name": "sfone.base_files.7z.001",
-                        "size": 260808
+                        "size": 260809
                     }
                 },
                 "has_eyesight_data": false,
@@ -4647,7 +4661,7 @@
                 "files": {
                     "sftm.base_files.7z.001": {
                         "name": "sftm.base_files.7z.001",
-                        "size": 745130
+                        "size": 745129
                     }
                 },
                 "has_eyesight_data": true,
@@ -4666,7 +4680,7 @@
                 "files": {
                     "sfv.base_files.7z.001": {
                         "name": "sfv.base_files.7z.001",
-                        "size": 15949374
+                        "size": 15949375
                     }
                 },
                 "has_eyesight_data": false,
@@ -4680,7 +4694,7 @@
                 "files": {
                     "sfv.full.7z.001": {
                         "name": "sfv.full.7z.001",
-                        "size": 23181502
+                        "size": 23181503
                     }
                 },
                 "has_eyesight_data": true,
@@ -4699,7 +4713,7 @@
                 "files": {
                     "sfxt.base_files.7z.001": {
                         "name": "sfxt.base_files.7z.001",
-                        "size": 2123594
+                        "size": 2123595
                     }
                 },
                 "has_eyesight_data": false,
@@ -4732,7 +4746,7 @@
                 "files": {
                     "sg.full.7z.001": {
                         "name": "sg.full.7z.001",
-                        "size": 59268943
+                        "size": 59268936
                     }
                 },
                 "has_eyesight_data": true,
@@ -4751,7 +4765,7 @@
                 "files": {
                     "slap.base_files.7z.001": {
                         "name": "slap.base_files.7z.001",
-                        "size": 908326
+                        "size": 908334
                     }
                 },
                 "has_eyesight_data": false,
@@ -4770,7 +4784,7 @@
                 "files": {
                     "sms.base_files.7z.001": {
                         "name": "sms.base_files.7z.001",
-                        "size": 417534
+                        "size": 417533
                     }
                 },
                 "has_eyesight_data": false,
@@ -4803,7 +4817,7 @@
                 "files": {
                     "snesmoon.base_files.7z.001": {
                         "name": "snesmoon.base_files.7z.001",
-                        "size": 14609
+                        "size": 14608
                     }
                 },
                 "has_eyesight_data": false,
@@ -4836,7 +4850,7 @@
                 "files": {
                     "sonicf.base_files.7z.001": {
                         "name": "sonicf.base_files.7z.001",
-                        "size": 173297
+                        "size": 173296
                     }
                 },
                 "has_eyesight_data": false,
@@ -4930,7 +4944,7 @@
                 "files": {
                     "spl3.special.7z.001": {
                         "name": "spl3.special.7z.001",
-                        "size": 106386
+                        "size": 106387
                     }
                 },
                 "has_eyesight_data": false,
@@ -4958,7 +4972,7 @@
                 "files": {
                     "spl3.sub.7z.001": {
                         "name": "spl3.sub.7z.001",
-                        "size": 82857
+                        "size": 82858
                     }
                 },
                 "has_eyesight_data": false,
@@ -4977,7 +4991,7 @@
                 "files": {
                     "ssb64.artwork.7z.001": {
                         "name": "ssb64.artwork.7z.001",
-                        "size": 100988509
+                        "size": 100988510
                     }
                 },
                 "has_eyesight_data": true,
@@ -4991,7 +5005,7 @@
                 "files": {
                     "ssb64.base_files.7z.001": {
                         "name": "ssb64.base_files.7z.001",
-                        "size": 131462
+                        "size": 131463
                     }
                 },
                 "has_eyesight_data": false,
@@ -5066,7 +5080,7 @@
                 "files": {
                     "ssbb.classic_renders.7z.001": {
                         "name": "ssbb.classic_renders.7z.001",
-                        "size": 4184181
+                        "size": 4184180
                     }
                 },
                 "has_eyesight_data": true,
@@ -5080,7 +5094,7 @@
                 "files": {
                     "ssbb.classic_renders_upscaled.7z.001": {
                         "name": "ssbb.classic_renders_upscaled.7z.001",
-                        "size": 129870100
+                        "size": 129870089
                     }
                 },
                 "has_eyesight_data": true,
@@ -5094,7 +5108,7 @@
                 "files": {
                     "ssbb.full.7z.001": {
                         "name": "ssbb.full.7z.001",
-                        "size": 4190652
+                        "size": 4190653
                     }
                 },
                 "has_eyesight_data": true,
@@ -5108,7 +5122,7 @@
                 "files": {
                     "ssbb.full_upscaled.7z.001": {
                         "name": "ssbb.full_upscaled.7z.001",
-                        "size": 107636929
+                        "size": 107636941
                     }
                 },
                 "has_eyesight_data": true,
@@ -5155,7 +5169,7 @@
                 "files": {
                     "ssbm.CSProject_MeleeFull.7z.001": {
                         "name": "ssbm.CSProject_MeleeFull.7z.001",
-                        "size": 85853722
+                        "size": 85853721
                     }
                 },
                 "has_eyesight_data": true,
@@ -5183,7 +5197,7 @@
                 "files": {
                     "ssbm.full.7z.001": {
                         "name": "ssbm.full.7z.001",
-                        "size": 23610249
+                        "size": 23610241
                     }
                 },
                 "has_eyesight_data": true,
@@ -5211,7 +5225,7 @@
                 "files": {
                     "ssbm.portrait_hd.7z.001": {
                         "name": "ssbm.portrait_hd.7z.001",
-                        "size": 67128367
+                        "size": 67128366
                     }
                 },
                 "has_eyesight_data": true,
@@ -5225,7 +5239,7 @@
                 "files": {
                     "ssbm.stage_icon.7z.001": {
                         "name": "ssbm.stage_icon.7z.001",
-                        "size": 23978662
+                        "size": 23978670
                     }
                 },
                 "has_eyesight_data": false,
@@ -5258,7 +5272,7 @@
                 "files": {
                     "ssbu.full.7z.001": {
                         "name": "ssbu.full.7z.001",
-                        "size": 252578845
+                        "size": 252578837
                     }
                 },
                 "has_eyesight_data": true,
@@ -5272,7 +5286,7 @@
                 "files": {
                     "ssbu.mural_art.7z.001": {
                         "name": "ssbu.mural_art.7z.001",
-                        "size": 956859339
+                        "size": 956859354
                     }
                 },
                 "has_eyesight_data": true,
@@ -5286,7 +5300,7 @@
                 "files": {
                     "ssbu.portrait.7z.001": {
                         "name": "ssbu.portrait.7z.001",
-                        "size": 23733825
+                        "size": 23733824
                     }
                 },
                 "has_eyesight_data": true,
@@ -5318,7 +5332,7 @@
                     },
                     "ssbu.vs_renders.7z.002": {
                         "name": "ssbu.vs_renders.7z.002",
-                        "size": 772633775
+                        "size": 772633762
                     }
                 },
                 "has_eyesight_data": true,
@@ -5332,7 +5346,7 @@
                 "files": {
                     "ssbu.webm.7z.001": {
                         "name": "ssbu.webm.7z.001",
-                        "size": 423042170
+                        "size": 423042154
                     }
                 },
                 "has_eyesight_data": false,
@@ -5346,7 +5360,7 @@
                 "files": {
                     "ssbu.website.7z.001": {
                         "name": "ssbu.website.7z.001",
-                        "size": 1280505171
+                        "size": 1280505192
                     }
                 },
                 "has_eyesight_data": true,
@@ -5379,7 +5393,7 @@
                 "files": {
                     "ssbwiiu.full.7z.001": {
                         "name": "ssbwiiu.full.7z.001",
-                        "size": 70031702
+                        "size": 70031701
                     }
                 },
                 "has_eyesight_data": true,
@@ -5468,7 +5482,7 @@
                 "files": {
                     "ssf2x.ultra_icon.7z.001": {
                         "name": "ssf2x.ultra_icon.7z.001",
-                        "size": 52890867
+                        "size": 52890860
                     }
                 },
                 "has_eyesight_data": true,
@@ -5487,7 +5501,7 @@
                 "files": {
                     "ssmack.base_files.7z.001": {
                         "name": "ssmack.base_files.7z.001",
-                        "size": 1216747
+                        "size": 1216748
                     }
                 },
                 "has_eyesight_data": false,
@@ -5501,7 +5515,7 @@
                 "files": {
                     "ssmack.full.7z.001": {
                         "name": "ssmack.full.7z.001",
-                        "size": 23706124
+                        "size": 23706123
                     }
                 },
                 "has_eyesight_data": true,
@@ -5515,7 +5529,7 @@
                 "files": {
                     "ssmack.nibroc.7z.001": {
                         "name": "ssmack.nibroc.7z.001",
-                        "size": 82130362
+                        "size": 82130368
                     }
                 },
                 "has_eyesight_data": false,
@@ -5534,7 +5548,7 @@
                 "files": {
                     "svc.base_files.7z.001": {
                         "name": "svc.base_files.7z.001",
-                        "size": 44671634
+                        "size": 44671626
                     }
                 },
                 "has_eyesight_data": true,
@@ -5567,7 +5581,7 @@
                 "files": {
                     "svcpocket.full.7z.001": {
                         "name": "svcpocket.full.7z.001",
-                        "size": 49079
+                        "size": 49080
                     }
                 },
                 "has_eyesight_data": true,
@@ -5586,7 +5600,7 @@
                 "files": {
                     "svg.base_files.7z.001": {
                         "name": "svg.base_files.7z.001",
-                        "size": 105822
+                        "size": 105821
                     }
                 },
                 "has_eyesight_data": false,
@@ -5638,7 +5652,7 @@
                 "files": {
                     "tekken5dr.base_files.7z.001": {
                         "name": "tekken5dr.base_files.7z.001",
-                        "size": 1522426
+                        "size": 1522427
                     }
                 },
                 "has_eyesight_data": false,
@@ -5671,7 +5685,7 @@
                 "files": {
                     "tekken7.full.7z.001": {
                         "name": "tekken7.full.7z.001",
-                        "size": 827518898
+                        "size": 827518893
                     }
                 },
                 "has_eyesight_data": true,
@@ -5690,7 +5704,7 @@
                 "files": {
                     "tekken8.base_files.7z.001": {
                         "name": "tekken8.base_files.7z.001",
-                        "size": 4779539
+                        "size": 4779538
                     }
                 },
                 "has_eyesight_data": false,
@@ -5704,7 +5718,7 @@
                 "files": {
                     "tekken8.costume_select.7z.001": {
                         "name": "tekken8.costume_select.7z.001",
-                        "size": 62994140
+                        "size": 62994133
                     }
                 },
                 "has_eyesight_data": true,
@@ -5732,7 +5746,7 @@
                 "files": {
                     "tekken8.vs_renders.7z.001": {
                         "name": "tekken8.vs_renders.7z.001",
-                        "size": 126285767
+                        "size": 126285756
                     }
                 },
                 "has_eyesight_data": true,
@@ -5798,7 +5812,7 @@
                 "files": {
                     "tla.full.7z.001": {
                         "name": "tla.full.7z.001",
-                        "size": 2284462
+                        "size": 2284463
                     }
                 },
                 "has_eyesight_data": false,
@@ -5850,7 +5864,7 @@
                 "files": {
                     "tmntxjlt.base_files.7z.001": {
                         "name": "tmntxjlt.base_files.7z.001",
-                        "size": 9563790
+                        "size": 9563784
                     }
                 },
                 "has_eyesight_data": false,
@@ -5864,7 +5878,7 @@
                 "files": {
                     "tmntxjlt.full.7z.001": {
                         "name": "tmntxjlt.full.7z.001",
-                        "size": 156866113
+                        "size": 156866120
                     }
                 },
                 "has_eyesight_data": true,
@@ -5883,7 +5897,7 @@
                 "files": {
                     "touhou123hts.base_files.7z.001": {
                         "name": "touhou123hts.base_files.7z.001",
-                        "size": 2121074
+                        "size": 2121073
                     }
                 },
                 "has_eyesight_data": false,
@@ -5916,7 +5930,7 @@
                 "files": {
                     "trotb.base_files.7z.001": {
                         "name": "trotb.base_files.7z.001",
-                        "size": 1036659
+                        "size": 1036658
                     }
                 },
                 "has_eyesight_data": true,
@@ -5935,7 +5949,7 @@
                 "files": {
                     "tss.base_files.7z.001": {
                         "name": "tss.base_files.7z.001",
-                        "size": 128324
+                        "size": 128323
                     }
                 },
                 "has_eyesight_data": false,
@@ -5949,7 +5963,7 @@
                 "files": {
                     "tss.full.7z.001": {
                         "name": "tss.full.7z.001",
-                        "size": 162242
+                        "size": 162243
                     }
                 },
                 "has_eyesight_data": false,
@@ -5968,7 +5982,7 @@
                 "files": {
                     "ttt.base_files.7z.001": {
                         "name": "ttt.base_files.7z.001",
-                        "size": 2827657
+                        "size": 2827656
                     }
                 },
                 "has_eyesight_data": true,
@@ -5987,7 +6001,7 @@
                 "files": {
                     "ttt2.base_files.7z.001": {
                         "name": "ttt2.base_files.7z.001",
-                        "size": 1316309
+                        "size": 1316308
                     }
                 },
                 "has_eyesight_data": true,
@@ -6001,7 +6015,7 @@
                 "files": {
                     "ttt2.full.7z.001": {
                         "name": "ttt2.full.7z.001",
-                        "size": 48510254
+                        "size": 48510253
                     }
                 },
                 "has_eyesight_data": true,
@@ -6020,7 +6034,7 @@
                 "files": {
                     "tvc.base_files.7z.001": {
                         "name": "tvc.base_files.7z.001",
-                        "size": 1891159
+                        "size": 1891160
                     }
                 },
                 "has_eyesight_data": true,
@@ -6034,7 +6048,7 @@
                 "files": {
                     "tvc.full.7z.001": {
                         "name": "tvc.full.7z.001",
-                        "size": 12437746
+                        "size": 12437745
                     }
                 },
                 "has_eyesight_data": true,
@@ -6053,7 +6067,7 @@
                 "files": {
                     "umvc3.base_files.7z.001": {
                         "name": "umvc3.base_files.7z.001",
-                        "size": 129451170
+                        "size": 129451172
                     }
                 },
                 "has_eyesight_data": true,
@@ -6067,7 +6081,7 @@
                 "files": {
                     "umvc3.full.7z.001": {
                         "name": "umvc3.full.7z.001",
-                        "size": 261547897
+                        "size": 261547909
                     }
                 },
                 "has_eyesight_data": true,
@@ -6086,7 +6100,7 @@
                 "files": {
                     "uni2.base_files.7z.001": {
                         "name": "uni2.base_files.7z.001",
-                        "size": 6331697
+                        "size": 6331696
                     }
                 },
                 "has_eyesight_data": false,
@@ -6114,7 +6128,7 @@
                 "files": {
                     "uni2.full.7z.001": {
                         "name": "uni2.full.7z.001",
-                        "size": 59984621
+                        "size": 59984613
                     }
                 },
                 "has_eyesight_data": true,
@@ -6166,7 +6180,7 @@
                 "files": {
                     "usf2.base_files.7z.001": {
                         "name": "usf2.base_files.7z.001",
-                        "size": 64876648
+                        "size": 64876655
                     }
                 },
                 "has_eyesight_data": true,
@@ -6199,7 +6213,7 @@
                 "files": {
                     "usfiv.full.7z.001": {
                         "name": "usfiv.full.7z.001",
-                        "size": 44518829
+                        "size": 44518830
                     }
                 },
                 "has_eyesight_data": false,
@@ -6232,7 +6246,7 @@
                 "files": {
                     "vf3tb.full_upscale.7z.001": {
                         "name": "vf3tb.full_upscale.7z.001",
-                        "size": 15689559
+                        "size": 15689560
                     }
                 },
                 "has_eyesight_data": true,
@@ -6251,7 +6265,7 @@
                 "files": {
                     "vf4ft.base_files.7z.001": {
                         "name": "vf4ft.base_files.7z.001",
-                        "size": 880385
+                        "size": 880386
                     }
                 },
                 "has_eyesight_data": true,
@@ -6289,7 +6303,7 @@
                 "files": {
                     "vsav.base_files.7z.001": {
                         "name": "vsav.base_files.7z.001",
-                        "size": 14817827
+                        "size": 14817828
                     }
                 },
                 "has_eyesight_data": false,
@@ -6303,7 +6317,7 @@
                 "files": {
                     "vsav.full.7z.001": {
                         "name": "vsav.full.7z.001",
-                        "size": 19119176
+                        "size": 19119177
                     }
                 },
                 "has_eyesight_data": true,
@@ -6317,7 +6331,7 @@
                 "files": {
                     "vsav.full_new.7z.001": {
                         "name": "vsav.full_new.7z.001",
-                        "size": 59393227
+                        "size": 59393219
                     }
                 },
                 "has_eyesight_data": true,
@@ -6458,7 +6472,7 @@
                 "files": {
                     "windjammers.full.7z.001": {
                         "name": "windjammers.full.7z.001",
-                        "size": 23462
+                        "size": 23463
                     }
                 },
                 "has_eyesight_data": false,
@@ -6533,7 +6547,7 @@
                 "files": {
                     "windjammers2.stage_icon.7z.001": {
                         "name": "windjammers2.stage_icon.7z.001",
-                        "size": 10083512
+                        "size": 10083520
                     }
                 },
                 "has_eyesight_data": false,

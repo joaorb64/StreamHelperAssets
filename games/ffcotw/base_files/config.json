@@ -2,28 +2,34 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Hotaru Futaba": {
-      "codename": "HotaruFutaba"
+      "codename": "Hotaru"
     },
     "Preecha": {
       "codename": "Preecha"
     },
     "Rock Howard": {
-      "codename": "RockHoward"
+      "codename": "Rock"
     },
     "Terry Bogard": {
-      "codename": "TerryBogard"
+      "codename": "Terry"
     },
     "Tizoc": {
       "codename": "Tizoc"
     },
     "Marco Rodrigues": {
       "codename": "Marco"
+    },
+    "B. Jenet": {
+      "codename": "Jenet"
+    },
+    "Vox Reaper": {
+      "codename": "Vox"
     }
   },
-  "credits": "Icons currently use pre-release screenshots from the game as placeholders\nDetouring by @MathiasWolfbrok",
+  "credits": "Icons ripped from https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/",
   "description": "Base config to use this game.",
   "name": "Fatal Fury: City of the Wolves",
   "smashgg_game_id": null,
   "stage_to_codename": {},
-  "version": "0.2"
+  "version": "0.3"
 }

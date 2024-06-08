@@ -1,0 +1,67 @@
+{
+  "name": "Renders",
+  "description": "Character renders",
+  "credits": "Icons ripped from https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "0.3",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "eyesights": {
+    "Hotaru": {
+      "0": {
+        "x": 422,
+        "y": 463
+      }
+    },
+    "Jenet": {
+      "0": {
+        "x": 1360,
+        "y": 216
+      }
+    },
+    "Marco": {
+      "0": {
+        "x": 981,
+        "y": 258
+      }
+    },
+    "Preecha": {
+      "0": {
+        "x": 1342,
+        "y": 476
+      }
+    },
+    "Rock": {
+      "0": {
+        "x": 1457,
+        "y": 437
+      }
+    },
+    "Terry": {
+      "0": {
+        "x": 1029,
+        "y": 211
+      }
+    },
+    "Tizoc": {
+      "0": {
+        "x": 1752,
+        "y": 1247
+      }
+    },
+    "Vox": {
+      "0": {
+        "x": 599,
+        "y": 358
+      }
+    }
+  }
+}

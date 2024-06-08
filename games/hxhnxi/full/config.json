@@ -1,0 +1,55 @@
+{
+  "name": "Renders",
+  "description": "Character renders",
+  "credits": "Ripped from https://hunterhunter-ni.bushiroadgames.com/en/character/",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "0.1",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "eyesights": {
+    "Gon": {
+      "0": {
+        "x": 872,
+        "y": 406
+      }
+    },
+    "Hisoka": {
+      "0": {
+        "x": 830,
+        "y": 236
+      }
+    },
+    "Kilua": {
+      "0": {
+        "x": 760,
+        "y": 413
+      }
+    },
+    "Kurapika": {
+      "0": {
+        "x": 794,
+        "y": 410
+      }
+    },
+    "Leorio": {
+      "0": {
+        "x": 753,
+        "y": 188
+      }
+    },
+    "Netero": {
+      "0": {
+        "x": 753,
+        "y": 395
+      }
+    }
+  }
+}

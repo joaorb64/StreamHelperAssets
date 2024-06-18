@@ -7,7 +7,7 @@
     "mobile"
   ],
   "credits": "Image for Lost Warrior is his 2A",
-  "version": "1.4",
+  "version": "1.5",
   "eyesights": {
     "Berserker": {
       "0": {
@@ -127,6 +127,12 @@
       "0": {
         "x": 218,
         "y": 111
+      }
+    },
+    "NenMaster": {
+      "0": {
+        "x": 163,
+        "y": 84
       }
     }
   },

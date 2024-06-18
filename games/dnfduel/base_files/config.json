@@ -60,6 +60,9 @@
     },
     "Monk": {
       "codename": "Monk"
+    },
+    "Nen Master": {
+      "codename": "NenMaster"
     }
   },
   "credits": "",
@@ -67,5 +70,5 @@
   "name": "DNF Duel",
   "smashgg_game_id": 41040,
   "stage_to_codename": {},
-  "version": "1.4"
+  "version": "1.5"
 }

@@ -132,6 +132,12 @@
         "x": 192,
         "y": 112
       }
+    },
+    "Bison": {
+      "0": {
+        "x": 192,
+        "y": 141
+      }
     }
   },
   "name": "Stat assets",
@@ -140,7 +146,7 @@
   "type": [
     "stat"
   ],
-  "version": "1.7",
+  "version": "1.8",
   "uncropped_edge": [
     "u",
     "d",

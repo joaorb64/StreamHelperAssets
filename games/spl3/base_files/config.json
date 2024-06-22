@@ -4860,5 +4860,9 @@
       "value": "502eba",
       "force_opponent": "caba21"
     }
-  ]
+  ],
+  "defaults": {
+    "players_per_team": 4,
+    "characters_per_player": 1
+  }
 }

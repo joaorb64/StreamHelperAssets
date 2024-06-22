@@ -149,13 +149,16 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.24",
+  "version": "1.25",
   "description": "Base config to use this game.",
   "credits": "",
-  "ratio_game": true,
   "locale": {
     "ja": {
       "name": "Capcom vs. SNK 2: Millionaire Fighting 2001"
     }
+  },
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 3
   }
 }

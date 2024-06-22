@@ -113,8 +113,11 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.22",
+  "version": "1.23",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Skullgirls)",
-  "ratio_game": true
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 3
+  }
 }

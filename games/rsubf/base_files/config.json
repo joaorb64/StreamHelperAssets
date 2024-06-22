@@ -75,5 +75,9 @@
     "ja": {
       "name": "私立ジャスティス学園"
     }
+  },
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 2
   }
 }

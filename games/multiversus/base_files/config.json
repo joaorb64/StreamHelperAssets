@@ -186,5 +186,9 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "2.0"
+  "version": "2.01",
+  "defaults": {
+    "players_per_team": 2,
+    "characters_per_player": 1
+  }
 }

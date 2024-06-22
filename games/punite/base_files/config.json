@@ -839,5 +839,9 @@
   "stage_to_codename": {},
   "version": "1.6",
   "description": "Base config to use this game",
-  "credits": "Box sprites from the mainline games from Generation 3-8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pokémon Scarlet & Violet icons"
+  "credits": "Box sprites from the mainline games from Generation 3-8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pokémon Scarlet & Violet icons",
+  "defaults": {
+    "players_per_team": 5,
+    "characters_per_player": 1
+  }
 }

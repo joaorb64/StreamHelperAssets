@@ -160,10 +160,14 @@
   "name": "My Hero One\u2019s Justice 2",
   "smashgg_game_id": 44800,
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.01",
   "locale": {
     "ja": {
       "name": "僕のヒーローアカデミア One's Justice 2"
     }
+  },
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 3
   }
 }

@@ -28,5 +28,9 @@
   "name": "Hunter \u00d7 Hunter: Nen \u00d7 Impact",
   "smashgg_game_id": null,
   "stage_to_codename": {},
-  "version": "0.21"
+  "version": "0.22",
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 3
+  }
 }

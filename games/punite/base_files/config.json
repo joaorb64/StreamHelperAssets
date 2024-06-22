@@ -821,10 +821,23 @@
         "it": "Falinks",
         "es": "Falinks"
       }
+    },
+    "Ceruledge": {
+      "codename": "937",
+      "locale": {
+        "fr": "Malvalame",
+        "de": "Azugladis",
+        "ko": "\ud30c\ub77c\ube14\ub808\uc774\uc988",
+        "ja": "\u30bd\u30a6\u30d6\u30ec\u30a4\u30ba",
+        "zh_CN": "\u82cd\u708e\u5203\u9b3c",
+        "zh_TW": "\u84bc\u708e\u5203\u9b3c",
+        "it": "Ceruledge",
+        "es": "Ceruledge"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.5",
+  "version": "1.6",
   "description": "Base config to use this game",
   "credits": "Box sprites from the mainline games from Generation 3-8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pokémon Scarlet & Violet icons"
 }

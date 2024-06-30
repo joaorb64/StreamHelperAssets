@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.03",
+  "version": "1.04",
   "eyesights": {
     "DK": {
       "0": {
@@ -63,5 +63,11 @@
         "y": 825
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ]
 }

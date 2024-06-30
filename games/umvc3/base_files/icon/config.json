@@ -2273,12 +2273,12 @@
       }
     }
   },
-  "postfix": "0",
+  "postfix": "_",
   "prefix": "",
   "type": [
     "icon"
   ],
-  "version": "2.0",
+  "version": "2.01",
   "rescaling_factor": {
     "Batsu": {
       "0": 0.5

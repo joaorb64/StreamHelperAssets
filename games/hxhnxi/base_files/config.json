@@ -21,6 +21,12 @@
     },
     "Netero": {
       "codename": "Netero"
+    },
+    "Machi": {
+      "codename": "Machi"
+    },
+    "Uvogin": {
+      "codename": "Uvogin"
     }
   },
   "credits": "Icons ipped from https://hunterhunter-ni.bushiroadgames.com/en/character/",
@@ -28,7 +34,7 @@
   "name": "Hunter \u00d7 Hunter: Nen \u00d7 Impact",
   "smashgg_game_id": null,
   "stage_to_codename": {},
-  "version": "0.22",
+  "version": "0.3",
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 3

@@ -1,129 +1,131 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from genericpath import isfile
 import json
 import os
-from posix import listdir
-import sys
-import tarfile
 import subprocess
-import time
 import traceback
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-list = {}
-
-games = [f for f in os.listdir("./games/") if os.path.isdir("./games/"+f)]
-
+list_ = {}
+games = [f for f in os.listdir("./games/") if os.path.isdir("./games/" + f)]
 oldAssets = {}
 
 with open("assets.json", 'r', encoding='utf-8') as oldAssetsFile:
     oldAssets = json.load(oldAssetsFile)
 
 lastVersions = {}
-
 # with open("last_versions.json", 'r', encoding='utf-8') as lastVersionsFile:
 #     lastVersions = json.load(lastVersionsFile)
 
-for game in games:
-    print("Game: "+game)
-    path = "./games/"+game+"/"
 
+def process_game(game):
     try:
-        with open(path+"/base_files/config.json", 'r', encoding='utf-8') as configFile:
+        print("Game: " + game)
+        path = "./games/" + game + "/"
+
+        with open(path + "base_files/config.json", 'r', encoding='utf-8') as configFile:
             config = json.load(configFile)
-            list[game] = {
+            list_[game] = {
                 "name": config["name"],
                 "assets": {}
             }
+
+        assetDirs = [f for f in os.listdir(path) if os.path.isdir(path + f)]
+        print("Assets: " + str(assetDirs))
+
+        futures = []
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            for assetDir in assetDirs:
+                futures.append(executor.submit(
+                    process_asset_dir, game, assetDir, path, config))
+
+        for future in as_completed(futures):
+            future.result()
+
     except Exception as e:
-        print(e)
-        continue
+        print(traceback.format_exc())
 
-    assetDirs = [f for f in os.listdir(path) if os.path.isdir(path+f)]
-    print("Assets: "+str(assetDirs))
 
-    for assetDir in assetDirs:
-        assetPath = "./games/"+game+"/"+assetDir+"/"
-
+def process_asset_dir(game, assetDir, path, config):
+    try:
+        assetPath = "./games/" + game + "/" + assetDir + "/"
         modified = True if float(config.get("version", 0)) > float(
             lastVersions.get(f'{game}.{assetDir}', 0)) else False
-
         lastVersions[f'{game}.{assetDir}'] = config.get("version", 0)
 
-        if modified:
-            deleteOldZips = subprocess.Popen(
-                ["rm "+path+"/"+assetDir+".7z*"],
-                shell=True
-            )
-            deleteOldZips.communicate()
+        # if modified:
+        #     delete_old_zips = subprocess.Popen(
+        #         ["rm " + path + "/" + assetDir + ".7z*"], shell=True)
+        #     delete_old_zips.communicate()
 
-        print(">"+assetPath)
+        print(">" + assetPath)
         print("Was modified", modified)
 
-        try:
-            with open(assetPath+"config.json", 'r', encoding='utf-8') as configFile:
-                config = json.load(configFile)
+        with open(assetPath + "config.json", 'r', encoding='utf-8') as configFile:
+            config = json.load(configFile)
+            files = {}
 
-                files = {}
+            if modified:
+                _zip = subprocess.Popen([
+                    "7z", "-v1500m", "-r", "a",
+                    "./games/" + game + "/" + game + "." + assetDir + ".7z",
+                    "./games/" + game + "/" + assetDir
+                ])
+                _zip.communicate()
 
-                if modified:
-                    _zip = subprocess.Popen([
-                        "7z", "-v1500m", "-r", "a",
-                        "./games/"+game+"/"+game+"."+assetDir+".7z",
-                        "./games/"+game+"/"+assetDir
-                    ])
-                    result = _zip.communicate()
+                fileNames = [f for f in os.listdir(
+                    "./games/" + game + "/") if f.startswith(game + "." + assetDir + ".7z")]
+                for f in fileNames:
+                    files[f] = {
+                        "name": f,
+                        "size": os.path.getsize("./games/" + game + "/" + f)
+                    }
 
-                    fileNames = [f for f in os.listdir(
-                        "./games/"+game+"/") if f.startswith(game+"."+assetDir+".7z")]
-                    for f in fileNames:
-                        files[f] = {
-                            "name": f,
-                            "size": os.path.getsize("./games/"+game+"/"+f)
-                        }
+                print("> Delete original PNGs")
+                delete_original_files = subprocess.Popen(
+                    [f"rm ./games/{game}/{assetDir}/*.png"],
+                    shell=True,
+                    text=True
+                )
+                out, err = delete_original_files.communicate()
+                print(out, err, delete_original_files.returncode)
+            else:
+                files = oldAssets[game]["assets"][assetDir]["files"]
 
-                    print("> Delete original PNGs")
-                    deleteOriginalFiles = subprocess.Popen(
-                        [f"rm ./games/{game}/{assetDir}/*.png"],
-                        shell=True,
-                        text=True
-                    )
-                    out, err = deleteOriginalFiles.communicate()
-                    print(out, err, deleteOriginalFiles.returncode)
-                else:
-                    files = oldAssets[game]["assets"][assetDir]["files"]
+            eyesightData = config.get("eyesights", {})
 
-                eyesightData = config.get("eyesights", {})
+            if assetDir == "base_files":
+                with open("./games/" + game + "/" + assetDir + "/icon/config.json", 'r', encoding='utf-8') as iconConfig:
+                    sub_config = json.load(iconConfig)
+                    eyesightData = sub_config.get("eyesights", {})
 
-                # When we're dealing with base_files,
-                # get eyesight data from base_files/icon config file instead
-                if assetDir == "base_files":
-                    with open("./games/"+game+"/"+assetDir+"/icon/config.json", 'r', encoding='utf-8') as iconConfig:
-                        sub_config = json.load(iconConfig)
-                        eyesightData = sub_config.get("eyesights", {})
+            list_[game]["assets"][assetDir] = {
+                "name": config.get("name"),
+                "credits": config.get("credits"),
+                "description": config.get("description"),
+                "files": files,
+                "version": config.get("version"),
+                "has_stage_data": len(config.get("stage_to_codename", {})) > 0,
+                "has_eyesight_data": len(eyesightData) > 0
+            }
 
-                list[game]["assets"][assetDir] = {
-                    "name": config.get("name"),
-                    "credits": config.get("credits"),
-                    "description": config.get("description"),
-                    "files": files,
-                    "version": config.get("version"),
-                    "has_stage_data": len(config.get("stage_to_codename", {})) > 0,
-                    "has_eyesight_data": len(eyesightData) > 0
-                }
+            with open(assetPath + "README.md", 'w', encoding='utf-8') as readme:
+                readme.write("# " + config.get("name", "") + "\n\n")
+                readme.write("## Description: \n\n" +
+                             config.get("description", "") + "\n\n")
+                readme.write("## Credits: \n\n" +
+                             config.get("credits", "") + "\n\n")
 
-                with open(assetPath+"README.md", 'w', encoding='utf-8') as readme:
-                    readme.write("# "+config.get("name", "")+"\n\n")
-                    readme.write("## Description: \n\n" +
-                                 config.get("description", "")+"\n\n")
-                    readme.write("## Credits: \n\n" +
-                                 config.get("credits", "")+"\n\n")
-        except Exception as e:
-            print(traceback.format_exc())
+    except Exception as e:
+        print(traceback.format_exc())
+
+
+for game in games:
+    process_game(game)
 
 with open('assets.json', 'w', encoding="utf-8") as outfile:
-    json.dump(list, outfile, indent=4, sort_keys=True)
+    json.dump(list_, outfile, indent=4, sort_keys=True)
 
 with open('last_versions.json', 'w', encoding="utf-8") as outfile:
     json.dump(lastVersions, outfile, indent=4, sort_keys=True)

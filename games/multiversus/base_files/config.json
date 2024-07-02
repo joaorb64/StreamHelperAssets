@@ -181,7 +181,10 @@
       }
     },
     "Agent Smith": {
-      "codename": "Smith"
+      "codename": "Smith",
+      "locale": {
+        "pt_BR": "Agente Smith"
+      }
     }
   },
   "credits": "",

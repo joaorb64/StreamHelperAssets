@@ -179,6 +179,9 @@
           }
         }
       }
+    },
+    "Agent Smith": {
+      "codename": "Smith"
     }
   },
   "credits": "",
@@ -186,7 +189,7 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "2.01",
+  "version": "2.1",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1

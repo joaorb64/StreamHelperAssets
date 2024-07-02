@@ -212,7 +212,7 @@ export default function AssetPack(props) {
                       <h4>{game.name}</h4>
                       <h6>{id}</h6>
                     </div>
-                    <div style={{ display: "flex", gap: "8px" }}>
+                    <div style={{ display: "flex", gap: "8px", flexWrap: "wrap" }}>
                       {Object.entries(game.assets).map((asset, j) => (
                         <Link to={`/game/${id}/${asset[0]}`}>
                           <h5>
@@ -252,7 +252,7 @@ export default function AssetPack(props) {
                       display: "flex",
                       gap: 8,
                       justifyContent: "center",
-                      alignItems: "center",
+                      alignItems: "center"
                     }}
                   >
                     {Object.keys(game.assets[pack].files).map((file, index) => (
@@ -282,7 +282,7 @@ export default function AssetPack(props) {
           }}
         >
           {Object.entries(characterData).map(([codename, charData]) => (
-            <div class="card">
+            <div class="card col-12 col-md-6 col-lg-4 col-xl-3">
               <div class="card-body">
                 {charData.name != null ? (
                   <>
@@ -407,7 +407,7 @@ export default function AssetPack(props) {
                               </div>
                             </div>
                           </div>
-                          <div class="btn-group btn-group-toggle">
+                          <div class="btn-group btn-group-toggle" style={{flexWrap: "wrap"}}>
                             {Object.entries(charData.images || {}).map(
                               ([skin, skinData], index) => (
                                 <button

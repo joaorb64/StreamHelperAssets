@@ -24,13 +24,16 @@
     },
     "Loxodont": {
       "codename": "Loxodont"
+    },
+    "La Reina": {
+      "codename": "Reina"
     }
   },
   "credits": "",
   "description": "Base config to use this game.",
   "name": "Rivals 2",
   "smashgg_game_id": 53945,
-  "version": "0.42",
+  "version": "0.5",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest"

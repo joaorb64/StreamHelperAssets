@@ -1,8 +1,610 @@
 {
-  "prefix": "file_",
+  "eyesights": {
+    "Android17Super": {
+      "0": {
+        "x": 339,
+        "y": 310
+      }
+    },
+    "Android18": {
+      "0": {
+        "x": 290,
+        "y": 311
+      }
+    },
+    "Anilaza": {
+      "0": {
+        "x": 479,
+        "y": 206
+      }
+    },
+    "Bardock": {
+      "0": {
+        "x": 343,
+        "y": 214
+      }
+    },
+    "Beerus": {
+      "0": {
+        "x": 501,
+        "y": 209
+      }
+    },
+    "Bergamo": {
+      "0": {
+        "x": 699,
+        "y": 210
+      }
+    },
+    "BrolySuper": {
+      "0": {
+        "x": 609,
+        "y": 264
+      }
+    },
+    "BrolySuperSuperSaiyan": {
+      "0": {
+        "x": 487,
+        "y": 208
+      }
+    },
+    "BrolySuperSuperSayianFullPower": {
+      "0": {
+        "x": 592,
+        "y": 234
+      }
+    },
+    "Burter": {
+      "0": {
+        "x": 312,
+        "y": 184
+      }
+    },
+    "Caulifla": {
+      "0": {
+        "x": 421,
+        "y": 231
+      }
+    },
+    "CauliflaSuperSayian2": {
+      "0": {
+        "x": 502,
+        "y": 228
+      }
+    },
+    "CellPerfectForm": {
+      "0": {
+        "x": 617,
+        "y": 272
+      }
+    },
+    "Dabura": {
+      "0": {
+        "x": 609,
+        "y": 163
+      }
+    },
+    "Dyspo": {
+      "0": {
+        "x": 454,
+        "y": 240
+      }
+    },
+    "FriezaGoldenFrieza": {
+      "0": {
+        "x": 505,
+        "y": 203
+      }
+    },
+    "FriezaSuper": {
+      "0": {
+        "x": 435,
+        "y": 206
+      }
+    },
+    "GogetaSuper": {
+      "0": {
+        "x": 500,
+        "y": 297
+      }
+    },
+    "GogetaSuperSuperSaiyanGodSuperSaiyan": {
+      "0": {
+        "x": 470,
+        "y": 190
+      }
+    },
+    "GogetaSuperSuperSayian": {
+      "0": {
+        "x": 462,
+        "y": 284
+      }
+    },
+    "GohanAdult": {
+      "0": {
+        "x": 362,
+        "y": 271
+      }
+    },
+    "GohanAdultSuperSayian2": {
+      "0": {
+        "x": 394,
+        "y": 293
+      }
+    },
+    "GohanFuture": {
+      "0": {
+        "x": 379,
+        "y": 266
+      }
+    },
+    "GohanFutureSuperSayian": {
+      "0": {
+        "x": 556,
+        "y": 273
+      }
+    },
+    "GohanKid": {
+      "0": {
+        "x": 507,
+        "y": 275
+      }
+    },
+    "GokuBlack": {
+      "0": {
+        "x": 498,
+        "y": 226
+      }
+    },
+    "GokuBlackSuperSayianRosé": {
+      "0": {
+        "x": 476,
+        "y": 238
+      }
+    },
+    "GokuSuper": {
+      "0": {
+        "x": 724,
+        "y": 334
+      }
+    },
+    "GokuSuperSuperSaiyan": {
+      "0": {
+        "x": 616,
+        "y": 271
+      }
+    },
+    "GokuSuperSuperSaiyanGod": {
+      "0": {
+        "x": 490,
+        "y": 156
+      }
+    },
+    "GokuSuperSuperSaiyanGodSuperSayian": {
+      "0": {
+        "x": 470,
+        "y": 144
+      }
+    },
+    "GokuSuperUltraInstinct": {
+      "0": {
+        "x": 481,
+        "y": 261
+      }
+    },
+    "GokuSuperUltraInstinctSign": {
+      "0": {
+        "x": 397,
+        "y": 348
+      }
+    },
+    "GokuZEarly": {
+      "0": {
+        "x": 623,
+        "y": 211
+      }
+    },
+    "GokuZEnd": {
+      "0": {
+        "x": 417,
+        "y": 282
+      }
+    },
+    "GokuZEndSuperSaiyan": {
+      "0": {
+        "x": 515,
+        "y": 267
+      }
+    },
+    "GokuZEndSuperSaiyan2": {
+      "0": {
+        "x": 483,
+        "y": 303
+      }
+    },
+    "GokuZEndSuperSaiyan3": {
+      "0": {
+        "x": 671,
+        "y": 223
+      }
+    },
+    "GokuZMid": {
+      "0": {
+        "x": 358,
+        "y": 217
+      }
+    },
+    "GokuZMidSuperSaiyan": {
+      "0": {
+        "x": 132,
+        "y": 331
+      }
+    },
+    "Goten": {
+      "0": {
+        "x": 464,
+        "y": 238
+      }
+    },
+    "Gotenks": {
+      "0": {
+        "x": 442,
+        "y": 268
+      }
+    },
+    "GotenksSuperSaiyan": {
+      "0": {
+        "x": 316,
+        "y": 250
+      }
+    },
+    "GotenksSuperSaiyan3": {
+      "0": {
+        "x": 460,
+        "y": 257
+      }
+    },
+    "GotenSuperSayian": {
+      "0": {
+        "x": 450,
+        "y": 282
+      }
+    },
+    "Hit": {
+      "0": {
+        "x": 406,
+        "y": 152
+      }
+    },
+    "Jeice": {
+      "0": {
+        "x": 597,
+        "y": 238
+      }
+    },
+    "Jiren": {
+      "0": {
+        "x": 514,
+        "y": 151
+      }
+    },
+    "JirenFullPower": {
+      "0": {
+        "x": 429,
+        "y": 192
+      }
+    },
+    "Kakunsa": {
+      "0": {
+        "x": 491,
+        "y": 285
+      }
+    },
+    "Kale": {
+      "0": {
+        "x": 483,
+        "y": 215
+      }
+    },
+    "KaleSuperSayian": {
+      "0": {
+        "x": 485,
+        "y": 294
+      }
+    },
+    "KaleSuperSayianBerserk": {
+      "0": {
+        "x": 447,
+        "y": 250
+      }
+    },
+    "Kefla": {
+      "0": {
+        "x": 489,
+        "y": 204
+      }
+    },
+    "KeflaSuperSayian": {
+      "0": {
+        "x": 516,
+        "y": 250
+      }
+    },
+    "KeflaSuperSayian2": {
+      "0": {
+        "x": 496,
+        "y": 182
+      }
+    },
+    "Krillin": {
+      "0": {
+        "x": 669,
+        "y": 433
+      }
+    },
+    "MajinBuu": {
+      "0": {
+        "x": 480,
+        "y": 205
+      }
+    },
+    "MasterRoshi": {
+      "0": {
+        "x": 422,
+        "y": 173
+      }
+    },
+    "MasterRoshiMaxPower": {
+      "0": {
+        "x": 570,
+        "y": 114
+      }
+    },
+    "MrSatan": {
+      "0": {
+        "x": 557,
+        "y": 258
+      }
+    },
+    "Nappa": {
+      "0": {
+        "x": 373,
+        "y": 271
+      }
+    },
+    "Piccolo": {
+      "0": {
+        "x": 487,
+        "y": 238
+      }
+    },
+    "Raditz": {
+      "0": {
+        "x": 577,
+        "y": 241
+      }
+    },
+    "Ribrianne": {
+      "0": {
+        "x": 495,
+        "y": 217
+      }
+    },
+    "Roasie": {
+      "0": {
+        "x": 464,
+        "y": 251
+      }
+    },
+    "Spopovich": {
+      "0": {
+        "x": 585,
+        "y": 260
+      }
+    },
+    "Tien": {
+      "0": {
+        "x": 403,
+        "y": 151
+      }
+    },
+    "Toppo": {
+      "0": {
+        "x": 355,
+        "y": 230
+      }
+    },
+    "TrunksFuture": {
+      "0": {
+        "x": 481,
+        "y": 229
+      }
+    },
+    "TrunksFutureMeleeSuperSaiyan": {
+      "0": {
+        "x": 409,
+        "y": 141
+      }
+    },
+    "TrunksFutureSuperSaiyan": {
+      "0": {
+        "x": 414,
+        "y": 221
+      }
+    },
+    "TrunksFutureSuperTrunks": {
+      "0": {
+        "x": 476,
+        "y": 235
+      }
+    },
+    "TrunksFutureSword": {
+      "0": {
+        "x": 473,
+        "y": 235
+      }
+    },
+    "TrunksFutureSwordSuperSayian": {
+      "0": {
+        "x": 530,
+        "y": 303
+      }
+    },
+    "TrunksKid": {
+      "0": {
+        "x": 472,
+        "y": 213
+      }
+    },
+    "TrunksKidSuperSaiyan": {
+      "0": {
+        "x": 464,
+        "y": 236
+      }
+    },
+    "VegetaGreatApe": {
+      "0": {
+        "x": 306,
+        "y": 263
+      }
+    },
+    "VegetaMajinVegeta": {
+      "0": {
+        "x": 480,
+        "y": 217
+      }
+    },
+    "VegetaSuper": {
+      "0": {
+        "x": 466,
+        "y": 285
+      }
+    },
+    "VegetaSuperSuperSayian": {
+      "0": {
+        "x": 247,
+        "y": 251
+      }
+    },
+    "VegetaSuperSuperSayianGod": {
+      "0": {
+        "x": 638,
+        "y": 201
+      }
+    },
+    "VegetaSuperSuperSayianGodSuperSayian": {
+      "0": {
+        "x": 492,
+        "y": 282
+      }
+    },
+    "VegetaSuperVegeta": {
+      "0": {
+        "x": 521,
+        "y": 234
+      }
+    },
+    "VegetaZEarly": {
+      "0": {
+        "x": 519,
+        "y": 264
+      }
+    },
+    "VegetaZEarlySuperSaiyan": {
+      "0": {
+        "x": 520,
+        "y": 252
+      }
+    },
+    "VegetaZEnd": {
+      "0": {
+        "x": 434,
+        "y": 352
+      }
+    },
+    "VegetaZEndSuperSayian": {
+      "0": {
+        "x": 730,
+        "y": 265
+      }
+    },
+    "VegetaZEndSuperSayian2": {
+      "0": {
+        "x": 543,
+        "y": 186
+      }
+    },
+    "VegetaZScouter": {
+      "0": {
+        "x": 526,
+        "y": 205
+      }
+    },
+    "Vegito": {
+      "0": {
+        "x": 439,
+        "y": 202
+      }
+    },
+    "VegitoSuperSayianGodSuperSayian": {
+      "0": {
+        "x": 341,
+        "y": 195
+      }
+    },
+    "VegitoSuperVegito": {
+      "0": {
+        "x": 651,
+        "y": 209
+      }
+    },
+    "Videl": {
+      "0": {
+        "x": 558,
+        "y": 220
+      }
+    },
+    "Whis": {
+      "0": {
+        "x": 396,
+        "y": 243
+      }
+    },
+    "Yajirobe": {
+      "0": {
+        "x": 490,
+        "y": 193
+      }
+    },
+    "Yamcha": {
+      "0": {
+        "x": 474,
+        "y": 181
+      }
+    },
+    "Zamasu": {
+      "0": {
+        "x": 556,
+        "y": 182
+      }
+    },
+    "ZamasuFused": {
+      "0": {
+        "x": 479,
+        "y": 183
+      }
+    },
+    "ZamasuFusedHalfCorrupted": {
+      "0": {
+        "x": 542,
+        "y": 162
+      }
+    }
+  },
   "postfix": "_",
+  "prefix": "file_",
   "type": [
     "icon"
   ],
-  "version": "1.0"
+  "version": "1.02"
 }

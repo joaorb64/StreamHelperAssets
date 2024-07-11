@@ -7,7 +7,7 @@
     "portrait"
   ],
   "credits": "Fan artwork by JBLC (https://www.jblcillu.com/)\nCommissioned by Mathias Wolfbrok\nPlease make sure to explicitly credit the artist if used",
-  "version": "0.9",
+  "version": "1.0",
   "eyesights": {
     "Kazuya": {
       "0": {
@@ -67,6 +67,12 @@
       "0": {
         "x": 1208,
         "y": 576
+      }
+    },
+    "Azteca": {
+      "0": {
+        "x": 1332,
+        "y": 536
       }
     }
   }

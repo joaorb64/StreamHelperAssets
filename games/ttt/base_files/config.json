@@ -134,5 +134,9 @@
   "name": "Tekken Tag Tournament",
   "smashgg_game_id": 5188,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01",
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 2
+  }
 }

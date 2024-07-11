@@ -1,6 +1,6 @@
 {
   "name": "Sub Icons",
-  "version": "7.0",
+  "version": "8.01",
   "description": "Sub weapon icons",
   "prefix": "sub_",
   "postfix": "_",
@@ -2098,6 +2098,161 @@
             "de": "Sepitox-Nebel",
             "it": "Nebbia tossica",
             "es": "Nebulizador"
+          }
+        },
+        "Bamboozler14MkII": {
+          "value": "Fizzy Bomb",
+          "locale": {
+            "ja": "\u30bf\u30f3\u30b5\u30f3\u30dc\u30e0",
+            "ko": "\ud0c4\uc0b0 \ubc24",
+            "zh_TW": "\u78b3\u9178\u70b8\u5f48",
+            "zh_CN": "\u78b3\u9178\u70b8\u5f39",
+            "ru": "\u0421\u043e\u0434\u043e\u0432\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bombe soda",
+            "nl": "Bomblikje",
+            "de": "Sprudel-Bombe",
+            "it": "Bomba a gassosa",
+            "es": "Bomba carb\u00f3nica"
+          }
+        },
+        "CharcoalDecavitator": {
+          "value": "Splash Wall",
+          "locale": {
+            "ja": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30b7\u30fc\u30eb\u30c9",
+            "ko": "\uc2a4\ud50c\ub798\uc2dc \uc2e4\ub4dc",
+            "zh_TW": "\u65af\u666e\u62c9\u9632\u8b77\u7246",
+            "zh_CN": "\u65af\u666e\u62c9\u9632\u62a4\u5899",
+            "ru": "\u0427\u0435\u0440\u043d\u0438\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043d\u0430\u0432\u0435\u0441",
+            "fr": "Mur d'encre",
+            "nl": "Inktgordijn",
+            "de": "Tintenwall",
+            "it": "Muro di colore",
+            "es": "Tel\u00f3n de Tinta",
+            "es_LA": "Barricada"
+          }
+        },
+        "CustomDouserDualiesFF": {
+          "value": "Burst Bomb",
+          "locale": {
+            "ja": "\u30af\u30a4\u30c3\u30af\u30dc\u30e0",
+            "ko": "\ud035 \ubc24",
+            "zh_TW": "\u5feb\u901f\u70b8\u5f48",
+            "zh_CN": "\u5feb\u901f\u70b8\u5f39",
+            "ru": "\u0420\u0430\u0437\u0440\u044b\u0432\u043d\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bombe ballon",
+            "nl": "Ballonbom",
+            "de": "Insta-Bombe",
+            "it": "Granata",
+            "es": "Bomba R\u00e1pida",
+            "es_LA": "Globo Entintado"
+          }
+        },
+        "CustomHydraSplatling": {
+          "value": "Ink Mine",
+          "locale": {
+            "ja": "\u30c8\u30e9\u30c3\u30d7",
+            "ko": "\ud2b8\ub7a9",
+            "ru": "\u041c\u0438\u043d\u044b",
+            "nl": "Inktmijn",
+            "de": "Tintenmine",
+            "it": "Mina",
+            "fr_CA": "Mine d'encre",
+            "es": "Bomba Trampa",
+            "es_LA": "Mina de tinta",
+            "fr": "Mine"
+          }
+        },
+        "CustomRangeBlaster": {
+          "value": "Splat Bomb",
+          "locale": {
+            "ja": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0",
+            "ko": "\uc2a4\ud50c\ub798\uc2dc \ubd04",
+            "zh_TW": "\u65af\u666e\u62c9\u70b8\u5f48",
+            "zh_CN": "\u65af\u666e\u62c9\u70b8\u5f39",
+            "ru": "\u0411\u0440\u044b\u0437\u0433\u0430\u044e\u0449\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bombe splash",
+            "nl": "Klodderbom",
+            "de": "Klecksbombe",
+            "it": "Bomba splash",
+            "es": "Bomba b\u00e1sica",
+            "es_LA": "Plasbomba"
+          }
+        },
+        "CustomWellstringV": {
+          "value": "Point Sensor",
+          "locale": {
+            "ja": "\u30dd\u30a4\u30f3\u30c8\u30bb\u30f3\u30b5\u30fc",
+            "ko": "\ud3ec\uc778\ud2b8 \uc13c\uc11c",
+            "zh_TW": "\u5b9a\u9ede\u5075\u6e2c\u5668",
+            "zh_CN": "\u5b9a\u70b9\u4fa6\u6d4b\u5668",
+            "ru": "\u041c\u0430\u0440\u043a\u0435\u0440 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f",
+            "fr": "D\u00e9tecteur",
+            "nl": "Detector",
+            "de": "Detektor",
+            "it": "Cimice",
+            "es": "Rastreador"
+          }
+        },
+        "HeavyEditSplatlingNouveau": {
+          "value": "Splat Bomb",
+          "locale": {
+            "ja": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0",
+            "ko": "\uc2a4\ud50c\ub798\uc2dc \ubd04",
+            "zh_TW": "\u65af\u666e\u62c9\u70b8\u5f48",
+            "zh_CN": "\u65af\u666e\u62c9\u70b8\u5f39",
+            "ru": "\u0411\u0440\u044b\u0437\u0433\u0430\u044e\u0449\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bombe splash",
+            "nl": "Klodderbom",
+            "de": "Klecksbombe",
+            "it": "Bomba splash",
+            "es": "Bomba b\u00e1sica",
+            "es_LA": "Plasbomba"
+          }
+        },
+        "MintDecavitator": {
+          "value": "Suction Bomb",
+          "locale": {
+            "ja": "\u30ad\u30e5\u30fc\u30d0\u30f3\u30dc\u30e0",
+            "ko": "\ube68\ud310 \ubc24",
+            "zh_TW": "\u5438\u76e4\u70b8\u5f48",
+            "zh_CN": "\u5438\u76d8\u70b8\u5f39",
+            "ru": "\u0411\u043e\u043c\u0431\u0430 \u043d\u0430 \u043f\u0440\u0438\u0441\u043e\u0441\u043a\u0435",
+            "fr": "Bombe gluante",
+            "nl": "Kleefbom",
+            "de": "Haftbombe",
+            "it": "Appiccibomba",
+            "es": "Bomba ventosa",
+            "es_LA": "Bomba pegajosa"
+          }
+        },
+        "RecycledBrella24MkII": {
+          "value": "Toxic Mist",
+          "locale": {
+            "ja": "\u30dd\u30a4\u30ba\u30f3\u30df\u30b9\u30c8",
+            "ko": "\ud3ec\uc774\uc98c \ubbf8\uc2a4\ud2b8",
+            "zh_TW": "\u6bd2\u9727",
+            "zh_CN": "\u6bd2\u96fe",
+            "ru": "\u0415\u0434\u043a\u0438\u0439 \u0442\u0443\u043c\u0430\u043d",
+            "fr": "Brume toxique",
+            "nl": "Gifmist",
+            "de": "Sepitox-Nebel",
+            "it": "Nebbia tossica",
+            "es": "Nebulizador"
+          }
+        },
+        "WellstringV": {
+          "value": "Autobomb",
+          "locale": {
+            "ja": "\u30ed\u30dc\u30c3\u30c8\u30dc\u30e0",
+            "ko": "\ub85c\ubd07 \ubc24",
+            "zh_TW": "\u6a5f\u5668\u4eba\u70b8\u5f48",
+            "zh_CN": "\u673a\u5668\u4eba\u70b8\u5f39",
+            "ru": "\u0420\u043e\u0431\u043e\u0431\u043e\u043c\u0431",
+            "fr": "Bombe robot",
+            "nl": "Robobom",
+            "de": "Robo-Bombe",
+            "it": "Robobomba",
+            "es": "Robobomba"
           }
         }
       }

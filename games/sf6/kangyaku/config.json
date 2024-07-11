@@ -132,6 +132,12 @@
         "x": 1000,
         "y": 469
       }
+    },
+    "Bison": {
+      "0": {
+        "x": 1493,
+        "y": 378
+      }
     }
   },
   "name": "Kangyaku Artwork",
@@ -140,5 +146,5 @@
   "type": [
     "kangyaku"
   ],
-  "version": "1.7"
+  "version": "1.8"
 }

@@ -1,0 +1,44 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Ciel": {
+      "codename": "Ciel"
+    },
+    "Gangco": {
+      "codename": "Gangco"
+    },
+    "Hitboxer": {
+      "codename": "Hitboxer"
+    },
+    "Kern": {
+      "codename": "Kern"
+    },
+    "Manta": {
+      "codename": "Manta"
+    },
+    "Mirmo": {
+      "codename": "Mirmo"
+    },
+    "Mr. No.5": {
+      "codename": "MrNo5"
+    },
+    "Nosferatu": {
+      "codename": "Nosferatu"
+    },
+    "Random": {
+      "codename": "Random"
+    },
+    "Skullion": {
+      "codename": "Skullion"
+    },
+    "Zaiva": {
+      "codename": "Zaiva"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Arcus Chroma",
+  "smashgg_game_id": 73005,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

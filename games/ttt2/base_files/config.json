@@ -183,10 +183,14 @@
   "description": "Base config to use this game.",
   "name": "Tekken Tag Tournament 2",
   "smashgg_game_id": 4985,
-  "version": "1.05",
+  "version": "1.06",
   "locale": {
     "ja": {
       "name": "\u9244\u62f3\u30bf\u30c3\u30b0\u30c8\u30fc\u30ca\u30e1\u30f3\u30c82"
     }
+  },
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 2
   }
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Artwork used by @ft_toriaka for stat breakdowns",
+  "description": "Artwork used by [@ft_toriaka](https://drive.google.com/drive/folders/1HSdkWCPFZXCtrjPJueidXMauiIZ2Q7Uh) for stat breakdowns",
   "eyesights": {
     "AKI": {
       "0": {
@@ -132,6 +132,12 @@
         "x": 192,
         "y": 112
       }
+    },
+    "Bison": {
+      "0": {
+        "x": 192,
+        "y": 141
+      }
     }
   },
   "name": "Stat assets",
@@ -140,7 +146,7 @@
   "type": [
     "stat"
   ],
-  "version": "1.7",
+  "version": "1.8",
   "uncropped_edge": [
     "u",
     "d",

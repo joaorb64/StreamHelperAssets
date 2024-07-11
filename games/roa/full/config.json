@@ -6,8 +6,8 @@
   "type": [
     "full"
   ],
-  "credits": "@Readeku for ripping the assets\nWe also recommend downloading the Skins pack alongside this one",
-  "version": "2.3",
+  "credits": "@Readeku for ripping the assets\nSandbert Art from the \"Sandbert (Definitive Edition)\" mod by Buttercup <3, Lukaru and Spider Boi\nWe also recommend downloading the Skins pack alongside this one",
+  "version": "2.31",
   "eyesights": {
     "Absa": {
       "0": {
@@ -140,6 +140,12 @@
         "x": 512,
         "y": 320
       }
+    },
+    "Sandbert": {
+      "0": {
+        "x": 244,
+        "y": 122
+      }
     }
   },
   "uncropped_edge": [
@@ -163,6 +169,9 @@
     },
     "Zetterburn": {
       "18": 1.5628491620111731843575418994413
+    },
+    "Sandbert": {
+      "0": 6.3942857142857142857142857142857
     }
   }
 }

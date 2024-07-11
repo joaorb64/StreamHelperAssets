@@ -1,5 +1,5 @@
 {
-  "credits": "",
+  "credits": "Placeholder La Reina art by @SuperRareBoy",
   "description": "Character artwork",
   "eyesights": {
     "Clairen": {
@@ -49,6 +49,12 @@
         "x": 1601,
         "y": 734
       }
+    },
+    "Reina": {
+      "0": {
+        "x": 853,
+        "y": 468
+      }
     }
   },
   "name": "Artwork",
@@ -60,6 +66,9 @@
     },
     "Loxodont": {
       "0": 0.55
+    },
+    "Reina": {
+      "0": 1.7070588235294117647058823529412
     }
   },
   "type": [
@@ -71,5 +80,5 @@
     "l",
     "r"
   ],
-  "version": "0.4"
+  "version": "0.5"
 }

@@ -110,6 +110,10 @@
         "Zuko": {
             "codename": "Stevia",
             "smashgg_name": "Zuko"
+        },
+        "Rocksteady": {
+            "codename": "Headbanger",
+            "smashgg_name": "Rocksteady"
         }
     },
     "stage_to_codename": {
@@ -150,11 +154,11 @@
             "smashgg_id": "583"
         },
         "Pariah's Keep": {
-            "codename": "Pariahs Keep",
+            "codename": "Pariah's Keep",
             "smashgg_id": "585"
         }
     },
-    "version": "1.4",
+    "version": "1.5",
     "description": "NASB Sweep!!!",
     "credits": "TNTBlowzUp"
 }

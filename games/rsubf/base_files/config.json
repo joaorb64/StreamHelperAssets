@@ -1,0 +1,83 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akira Kazama": {
+      "codename": "AkiraKazama"
+    },
+    "Batsu Ichimonji": {
+      "codename": "BatsuIchimonji"
+    },
+    "Boman Delgado": {
+      "codename": "BomanDelgado"
+    },
+    "Daigo Kazama": {
+      "codename": "DaigoKazama"
+    },
+    "Eiji \"Edge\" Yamada": {
+      "codename": "EijiEdgeYamada"
+    },
+    "Gan Isurugi": {
+      "codename": "GanIsurugi"
+    },
+    "Hayato Nekketsu": {
+      "codename": "HayatoNekketsu"
+    },
+    "Hideo Shimazu": {
+      "codename": "HideoShimazu"
+    },
+    "Hinata Wakaba": {
+      "codename": "HinataWakaba"
+    },
+    "Hyo Imawano": {
+      "codename": "HyoImawano"
+    },
+    "Kyoko Minazuki": {
+      "codename": "KyokoMinazuki"
+    },
+    "Kyosuke Kagami": {
+      "codename": "KyosukeKagami"
+    },
+    "Nagare Namikawa": {
+      "codename": "NagareNamikawa"
+    },
+    "Natsu Ayuhara": {
+      "codename": "NatsuAyuhara"
+    },
+    "Raizo Imawano": {
+      "codename": "RaizoImawano"
+    },
+    "Ran Hibiki": {
+      "codename": "RanHibiki"
+    },
+    "Roberto Miura": {
+      "codename": "RobertoMiura"
+    },
+    "Roy Bromwell": {
+      "codename": "RoyBromwell"
+    },
+    "Sakura Kasugano": {
+      "codename": "SakuraKasugano"
+    },
+    "Shoma Sawamura": {
+      "codename": "ShomaSawamura"
+    },
+    "Tiffany Lords": {
+      "codename": "TiffanyLords"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Rival Schools: United by Fate",
+  "smashgg_game_id": 11627,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "私立ジャスティス学園"
+    }
+  },
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 2
+  }
+}

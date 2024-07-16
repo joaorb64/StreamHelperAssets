@@ -1,0 +1,84 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Anna Williams": {
+      "codename": "AnnaWilliams"
+    },
+    "Bryan Fury": {
+      "codename": "BryanFury"
+    },
+    "Doctor Bosconovitch": {
+      "codename": "DoctorBosconovitch"
+    },
+    "Eddy Gordo": {
+      "codename": "EddyGordo",
+      "skin_name": {
+        "1": {
+          "name": "Tiger Jackson"
+        }
+      }
+    },
+    "Forest Law": {
+      "codename": "ForestLaw"
+    },
+    "Gon": {
+      "codename": "Gon"
+    },
+    "Gun Jack": {
+      "codename": "GunJack"
+    },
+    "Heihachi Mishima": {
+      "codename": "HeihachiMishima"
+    },
+    "Hwoarang": {
+      "codename": "Hwoarang"
+    },
+    "Jin Kazama": {
+      "codename": "JinKazama"
+    },
+    "Julia Chang": {
+      "codename": "JuliaChang"
+    },
+    "King II": {
+      "codename": "KingII"
+    },
+    "Kuma": {
+      "codename": "Kuma",
+      "skin_name": {
+        "1": {
+          "name": "Panda"
+        }
+      }
+    },
+    "Lei Wulong": {
+      "codename": "LeiWulong"
+    },
+    "Ling Xiaoyu": {
+      "codename": "LingXiaoyu"
+    },
+    "Mokujin": {
+      "codename": "Mokujin"
+    },
+    "Nina Williams": {
+      "codename": "NinaWilliams"
+    },
+    "Ogre": {
+      "codename": "Ogre"
+    },
+    "Paul Phoenix": {
+      "codename": "PaulPhoenix"
+    },
+    "True Ogre": {
+      "codename": "TrueOgre"
+    },
+    "Yoshimitsu": {
+      "codename": "Yoshimitsu"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Tekken 3",
+  "smashgg_game_id": 5216,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

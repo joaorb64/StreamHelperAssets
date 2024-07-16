@@ -7,8 +7,8 @@
     "full"
   ],
   "credits": "Ripped from https://2xko.riotgames.com/en-us/",
-  "version": "0.11",
-  "uncropped_edge": ["u", "d", "l"],
+  "version": "0.3",
+  "uncropped_edge": ["u", "l"],
   "eyesights": {
     "Ahri": {
       "0": {
@@ -32,6 +32,18 @@
       "0": {
         "x": 306,
         "y": 208
+      }
+    },
+    "Illaoi": {
+      "0": {
+        "x": 406,
+        "y": 177
+      }
+    },
+    "Braum": {
+      "0": {
+        "x": 369,
+        "y": 284
       }
     }
   }

@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://www.mortalkombat.com/en-gb/roster",
-  "version": "1.2",
+  "version": "1.5",
   "uncropped_edge": [
     "u",
     "l",
@@ -163,6 +163,24 @@
       "0": {
         "x": 640,
         "y": 137
+      }
+    },
+    "Peacemaker": {
+      "0": {
+        "x": 638,
+        "y": 145
+      }
+    },
+    "Ermac": {
+      "0": {
+        "x": 632,
+        "y": 122
+      }
+    },
+    "Homelander": {
+      "0": {
+        "x": 580,
+        "y": 134
       }
     }
   }

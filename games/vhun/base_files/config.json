@@ -1,0 +1,53 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Anakaris": {
+      "codename": "Anakaris"
+    },
+    "Bishamon": {
+      "codename": "Bishamon"
+    },
+    "Demitri Maximoff": {
+      "codename": "DemitriMaximoff"
+    },
+    "Donovan Baine": {
+      "codename": "DonovanBaine"
+    },
+    "Felicia": {
+      "codename": "Felicia"
+    },
+    "Hsien-Ko": {
+      "codename": "HsienKo"
+    },
+    "Huitzil": {
+      "codename": "Huitzil"
+    },
+    "Jon Talbain": {
+      "codename": "JonTalbain"
+    },
+    "Lord Raptor": {
+      "codename": "LordRaptor"
+    },
+    "Morrigan Aensland": {
+      "codename": "MorriganAensland"
+    },
+    "Pyron": {
+      "codename": "Pyron"
+    },
+    "Rikuo": {
+      "codename": "Rikuo"
+    },
+    "Sasquatch": {
+      "codename": "Sasquatch"
+    },
+    "Victor von Gerdenheim": {
+      "codename": "VictorvonGerdenheim"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Night Warriors: Darkstalkers' Revenge",
+  "smashgg_game_id": 12988,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

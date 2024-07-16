@@ -1,97 +1,103 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "",
+  "name": "Artwork",
+  "description": "Character artwork",
+  "prefix": "file_",
   "postfix": "_",
   "type": [
     "full"
   ],
-  "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.02",
+  "credits": "",
+  "version": "1.03",
   "eyesights": {
     "BJenet": {
       "0": {
-        "x": 351,
-        "y": 367
+        "x": 672,
+        "y": 237
       }
     },
     "DongHwan": {
       "0": {
-        "x": 730,
-        "y": 202
+        "x": 586,
+        "y": 244
       }
     },
     "Freeman": {
       "0": {
-        "x": 496,
-        "y": 202
+        "x": 1138,
+        "y": 177
       }
     },
     "Gato": {
       "0": {
-        "x": 370,
-        "y": 354
+        "x": 669,
+        "y": 152
       }
     },
     "Grant": {
       "0": {
-        "x": 123,
-        "y": 447
+        "x": 507,
+        "y": 121
       }
     },
     "Griffon": {
       "0": {
-        "x": 613,
-        "y": 133
+        "x": 509,
+        "y": 160
       }
     },
     "Hokutomaru": {
       "0": {
-        "x": 313,
-        "y": 111
+        "x": 590,
+        "y": 348
       }
     },
     "Hotaru": {
       "0": {
-        "x": 498,
-        "y": 303
+        "x": 651,
+        "y": 273
       }
     },
     "JaeHoon": {
       "0": {
-        "x": 577,
-        "y": 186
+        "x": 1580,
+        "y": 531
       }
     },
     "Kain": {
       "0": {
-        "x": 570,
-        "y": 301
+        "x": 425,
+        "y": 214
       }
     },
     "Kevin": {
       "0": {
-        "x": 270,
-        "y": 138
+        "x": 529,
+        "y": 168
       }
     },
     "Marco": {
       "0": {
-        "x": 231,
-        "y": 195
+        "x": 538,
+        "y": 124
       }
     },
     "Rock": {
       "0": {
-        "x": 418,
-        "y": 324
+        "x": 482,
+        "y": 322
       }
     },
     "Terry": {
       "0": {
-        "x": 601,
-        "y": 235
+        "x": 587,
+        "y": 234
       }
     }
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

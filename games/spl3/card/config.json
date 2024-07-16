@@ -1,6 +1,6 @@
 {
   "name": "Tableturf Art",
-  "version": "6.0",
+  "version": "8.01",
   "description": "Art used in the Tableturf Battle mode",
   "prefix": "card_",
   "postfix": "_",
@@ -164,9 +164,6 @@
     "FoilSqueezer": {
       "0": 0.7191011235955056
     },
-    "NeoSplatanaStamper": {
-      "0": 0.7191011235955056
-    },
     "PainbrushNouveau": {
       "0": 0.7191011235955056
     },
@@ -181,6 +178,72 @@
     },
     "UndercoverSorellaBrella": {
       "0": 0.7191011235955056
+    },
+    "52GalDeco": {
+      "0": 0.7345767575322812
+    },
+    "CustomEliter4K": {
+      "0": 0.7345767575322812
+    },
+    "CustomEliter4KScope": {
+      "0": 0.7345767575322812
+    },
+    "CustomExplosher": {
+      "0": 0.7345767575322812
+    },
+    "DouserDualiesFF": {
+      "0": 0.7345767575322812
+    },
+    "DreadWringerD": {
+      "0": 0.7345767575322812
+    },
+    "FoilFlingzaRoller": {
+      "0": 0.7345767575322812
+    },
+    "GloogaDualiesDeco": {
+      "0": 0.7345767575322812
+    },
+    "Nautilus79": {
+      "0": 0.7345767575322812
+    },
+    "NewSquiffer": {
+      "0": 0.7345767575322812
+    },
+    "RecycledBrella24MkI": {
+      "0": 0.7345767575322812
+    },
+    "SplatanaStamperNouveau": {
+      "0": 0.7191011235955056
+    },
+    "Bamboozler14MkII": {
+      "0": 0.7345767575322812
+    },
+    "CharcoalDecavitator": {
+      "0": 0.7345767575322812
+    },
+    "CustomDouserDualiesFF": {
+      "0": 0.7345767575322812
+    },
+    "CustomHydraSplatling": {
+      "0": 0.7345767575322812
+    },
+    "CustomRangeBlaster": {
+      "0": 0.7345767575322812
+    },
+    "CustomWellstringV": {
+      "0": 0.7345767575322812
+    },
+    "HeavyEditSplatlingNouveau": {
+      "0": 0.7345767575322812
+    },
+    "MintDecavitator": {
+      "0": 0.7345767575322812
+    },
+    "RecycledBrella24MkII": {
+      "0": 0.7345767575322812
+    },
+    "WellstringV": {
+      "0": 0.7345767575322812
     }
   }
 }

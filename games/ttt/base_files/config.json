@@ -1,0 +1,142 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Anna Williams": {
+      "codename": "Anna"
+    },
+    "Armor King": {
+      "codename": "ArmorKing"
+    },
+    "Baek Doo San": {
+      "codename": "Baek"
+    },
+    "Bruce Irvin": {
+      "codename": "Bruce"
+    },
+    "Bryan Fury": {
+      "codename": "Bryan"
+    },
+    "Devil": {
+      "codename": "Devil",
+      "skin_name": {
+        "1": {
+          "name": "Angel"
+        }
+      }
+    },
+    "Eddy Gordo": {
+      "codename": "Eddy",
+      "skin_name": {
+        "1": {
+          "name": "Tiger Jackson"
+        }
+      }
+    },
+    "Forest Law": {
+      "codename": "Law"
+    },
+    "Ganryu": {
+      "codename": "Ganryu"
+    },
+    "Gun Jack": {
+      "codename": "JackGun"
+    },
+    "Heihachi Mishima": {
+      "codename": "Heihachi"
+    },
+    "Hwoarang": {
+      "codename": "Hwoarang"
+    },
+    "Jack-2": {
+      "codename": "Jack2"
+    },
+    "Jin Kazama": {
+      "codename": "Jin"
+    },
+    "Julia Chang": {
+      "codename": "Julia"
+    },
+    "Jun Kazama": {
+      "codename": "Jun"
+    },
+    "Kazuya Mishima": {
+      "codename": "Kazuya"
+    },
+    "King II": {
+      "codename": "King"
+    },
+    "Kuma": {
+      "codename": "Kuma",
+      "skin_name": {
+        "1": {
+          "name": "Panda"
+        }
+      }
+    },
+    "Kunimitsu": {
+      "codename": "Kunimitsu"
+    },
+    "Lee Chaolan": {
+      "codename": "Lee"
+    },
+    "Lei Wulong": {
+      "codename": "Lei"
+    },
+    "Ling Xiaoyu": {
+      "codename": "Xiaoyu"
+    },
+    "Michelle Chang": {
+      "codename": "Michelle"
+    },
+    "Nina Williams": {
+      "codename": "Nina"
+    },
+    "Ogre": {
+      "codename": "Ogre"
+    },
+    "Paul Phoenix": {
+      "codename": "Paul"
+    },
+    "Prototype Jack": {
+      "codename": "JackP"
+    },
+    "Roger": {
+      "codename": "Roger",
+      "skin_name": {
+        "1": {
+          "name": "Alex"
+        }
+      }
+    },
+    "Tetsujin": {
+      "codename": "Tetsujin",
+      "skin_name": {
+        "1": {
+          "name": "Mokujin"
+        }
+      }
+    },
+    "True Ogre": {
+      "codename": "OgreTrue"
+    },
+    "Unknown": {
+      "codename": "Unknown"
+    },
+    "Wang Jinrei": {
+      "codename": "Wang"
+    },
+    "Yoshimitsu": {
+      "codename": "Yoshimitsu"
+    }
+  },
+  "credits": "Assets ripped from the PlayStation 2 version by @MathiasWolfbrok",
+  "description": "Base config to use this game.",
+  "name": "Tekken Tag Tournament",
+  "smashgg_game_id": 5188,
+  "stage_to_codename": {},
+  "version": "1.01",
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 2
+  }
+}

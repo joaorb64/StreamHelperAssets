@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://www.mortalkombatwarehouse.com/mk12/characters",
-  "version": "1.21",
+  "version": "1.5",
   "eyesights": {
     "Ashrah": {
       "0": {
@@ -157,6 +157,24 @@
       "0": {
         "x": 270,
         "y": 114
+      }
+    },
+    "Peacemaker": {
+      "0": {
+        "x": 287,
+        "y": 138
+      }
+    },
+    "Ermac": {
+      "0": {
+        "x": 262,
+        "y": 136
+      }
+    },
+    "Homelander": {
+      "0": {
+        "x": 256,
+        "y": 132
       }
     }
   }

@@ -45,7 +45,7 @@ def robust_request(link, timeout=30, recursion=30):
 def generate_main_config_skeleton():
     description = "Base config to use this game."
     credits = ""
-    version = "6.0"
+    version = "8.0"
 
     game_id = 36202
 
@@ -135,6 +135,12 @@ def generate_main_config_skeleton():
             },
             "Bluefin Depot": {
                 "codename": "bluefin"
+            },
+            "Marlin Airport": {
+                "codename": "airport"
+            },
+            "Lemuria Hub": {
+                "codename": "hub"
             }
         },
         "version": version,
@@ -287,7 +293,8 @@ special_names = {
 
 for image_tag in weapon_body_images:
     if "S3_Weapon_Main" in image_tag["src"]:
-        weapon_name = image_tag["alt"]
+        print(image_tag.parent)
+        weapon_name = image_tag.parent["title"]
         weapon_name = weapon_name.replace("S3 Weapon Main ", "")
         weapon_name = weapon_name.replace(" Flat.png", "")
         weapon_name = weapon_name.replace(" 2D Current.png", "")
@@ -374,16 +381,16 @@ for weapon_name in weapon_list.keys():
         if f'title="{weapon_name}"' in str(line):
             images = line.findAll('img')
             for image_tag in images:
-                if "Weapon Sub" in image_tag["alt"]:
+                if "Weapon_Sub" in image_tag["src"]:
                     sub_image_link = convert_weapon_thumb_link_to_image_link(
                         image_tag["src"])
-                    sub_name = (image_tag["alt"].replace(
-                        "S3 Weapon Sub ", "")).replace(" Flat.png", "")
-                if "Weapon Special" in image_tag["alt"]:
+                    sub_name = image_tag.parent["title"]
+                    print("    Sub:", sub_name)
+                if "Weapon_Special" in image_tag["src"]:
                     special_image_link = convert_weapon_thumb_link_to_image_link(
                         image_tag["src"])
-                    special_name = (image_tag["alt"].replace(
-                        "S3 Weapon Special ", "")).replace(".png", "")
+                    special_name = image_tag.parent["title"]
+                    print("    Special:", special_name)
             break
 
     sub_filename = f"sub_{weapon_codename}_0.png"

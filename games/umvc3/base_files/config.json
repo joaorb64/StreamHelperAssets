@@ -152,10 +152,188 @@
     },
     "Zero": {
       "codename": "Zero"
+    },
+    "Asura": {
+      "codename": "Asuraan"
+    },
+    "Batsu": {
+      "codename": "Batsu"
+    },
+    "Bishop": {
+      "codename": "Bishop"
+    },
+    "M. Bison": {
+      "codename": "BisonSkrull"
+    },
+    "Cammy": {
+      "codename": "Cammyremer"
+    },
+    "Captain Commando": {
+      "codename": "CapCom"
+    },
+    "Carnage": {
+      "codename": "Carnage"
+    },
+    "Charlie Nash": {
+      "codename": "Chl"
+    },
+    "Colossus": {
+      "codename": "Closus"
+    },
+    "Captain Marvel": {
+      "codename": "Cmar"
+    },
+    "Cyclops": {
+      "codename": "Cyclop"
+    },
+    "Paradox / Stranger": {
+      "codename": "DStranger"
+    },
+    "Dan": {
+      "codename": "Dan"
+    },
+    "Vergil (DMC5)": {
+      "codename": "Dm5gil"
+    },
+    "Dante (DMC1)": {
+      "codename": "Dmc1e"
+    },
+    "Evil Ryu": {
+      "codename": "Eyu"
+    },
+    "Gambit": {
+      "codename": "Gambit"
+    },
+    "Gloria": {
+      "codename": "Glori"
+    },
+    "Guile": {
+      "codename": "Gui"
+    },
+    "Hinata": {
+      "codename": "Hnt"
+    },
+    "Hunk": {
+      "codename": "Hunkpool"
+    },
+    "Sherry": {
+      "codename": "Hunksher"
+    },
+    "Iceman": {
+      "codename": "Iceman"
+    },
+    "Jake": {
+      "codename": "Jastar"
+    },
+    "Jean Grey": {
+      "codename": "Jeannix"
+    },
+    "King Thor": {
+      "codename": "KTho"
+    },
+    "Ken": {
+      "codename": "KennFist"
+    },
+    "Krauser": {
+      "codename": "Krauser"
+    },
+    "Leon": {
+      "codename": "Leons"
+    },
+    "Lilith": {
+      "codename": "Lilithan"
+    },
+    "Phoenix & Maya": {
+      "codename": "Mayahodo"
+    },
+    "Monster Hunter": {
+      "codename": "MonsterHun"
+    },
+    "Moonstone": {
+      "codename": "Mooneto"
+    },
+    "Sentinel (MVC2)": {
+      "codename": "Mvc2inel"
+    },
+    "Onslaught": {
+      "codename": "Onslaugh"
+    },
+    "Orange Hulk": {
+      "codename": "Orlk"
+    },
+    "Psylocke": {
+      "codename": "Psylock"
+    },
+    "Rashid": {
+      "codename": "Rash"
+    },
+    "Red She Hulk": {
+      "codename": "RedShlk"
+    },
+    "Strider-2099": {
+      "codename": "STR29"
+    },
+    "Sakura": {
+      "codename": "Sakura"
+    },
+    "Servbot": {
+      "codename": "ServbotA"
+    },
+    "Shadow Lady": {
+      "codename": "Shadli"
+    },
+    "Shin Akuma": {
+      "codename": "Shini"
+    },
+    "Shocker": {
+      "codename": "Shocker"
+    },
+    "Clea": {
+      "codename": "SorcClea"
+    },
+    "Spider-Gwen": {
+      "codename": "SpiderGwe"
+    },
+    "Jill (S.T.A.R.S)": {
+      "codename": "StaJ"
+    },
+    "Chris (S.T.A.R.S)": {
+      "codename": "Stris"
+    },
+    "Jon Talbain": {
+      "codename": "Talbain"
+    },
+    "Thanos": {
+      "codename": "Thanos"
+    },
+    "The Thing": {
+      "codename": "Thing1"
+    },
+    "U.S. Agent": {
+      "codename": "USAGENTica"
+    },
+    "Ultron": {
+      "codename": "Ultro"
+    },
+    "Venom": {
+      "codename": "Venom"
+    },
+    "Wolverine (Laura)": {
+      "codename": "WL3"
+    },
+    "Wesker (S.T.A.R.S)": {
+      "codename": "Westar"
+    },
+    "X": {
+      "codename": "Xero"
     }
   },
   "stage_to_codename": {},
-  "version": "1.03",
-  "description": "Base config to use this game.",
-  "credits": ""
+  "version": "2.01",
+  "description": "Base config to use this game.\nIncludes modded characters and costumes from the HAVENGERS Clone Engine mod pack (https://www.nexusmods.com/ultimatemarvelvscapcom3/mods/286)",
+  "credits": "",
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 3
+  }
 }

@@ -1,0 +1,74 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Ai.Mi": {
+      "codename": "Ai.Mi"
+    },
+    "Asher": {
+      "codename": "Asher"
+    },
+    "Atlas": {
+      "codename": "Atlas"
+    },
+    "Drek'ar": {
+      "codename": "Drek_ar"
+    },
+    "Dubu": {
+      "codename": "Dubu"
+    },
+    "Era": {
+      "codename": "Era"
+    },
+    "Estelle": {
+      "codename": "Estelle"
+    },
+    "Finii": {
+      "codename": "Finii"
+    },
+    "Juliette": {
+      "codename": "Juliette"
+    },
+    "Juno": {
+      "codename": "Juno"
+    },
+    "Kai": {
+      "codename": "Kai"
+    },
+    "Kazan": {
+      "codename": "Kazan"
+    },
+    "Luna": {
+      "codename": "Luna"
+    },
+    "Mako": {
+      "codename": "Mako"
+    },
+    "Nao": {
+      "codename": "Nao"
+    },
+    "Octavia": {
+      "codename": "Octavia"
+    },
+    "Rasmus": {
+      "codename": "Rasmus"
+    },
+    "Rune": {
+      "codename": "Rune"
+    },
+    "Vyce": {
+      "codename": "Vyce"
+    },
+    "X": {
+      "codename": "X"
+    },
+    "Zentaro": {
+      "codename": "Zentaro"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Omega Strikers",
+  "smashgg_game_id": 45263,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

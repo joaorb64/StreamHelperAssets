@@ -1,0 +1,84 @@
+{
+  "credits": "Placeholder La Reina art by @SuperRareBoy",
+  "description": "Character artwork",
+  "eyesights": {
+    "Clairen": {
+      "0": {
+        "x": 1989,
+        "y": 720
+      }
+    },
+    "Fleet": {
+      "0": {
+        "x": 1424,
+        "y": 1088
+      }
+    },
+    "Kragg": {
+      "0": {
+        "x": 1673,
+        "y": 1351
+      }
+    },
+    "Loxodont": {
+      "0": {
+        "x": 3815,
+        "y": 2153
+      }
+    },
+    "Maypul": {
+      "0": {
+        "x": 2109,
+        "y": 752
+      }
+    },
+    "Ranno": {
+      "0": {
+        "x": 1474,
+        "y": 535
+      }
+    },
+    "Wrastor": {
+      "0": {
+        "x": 1689,
+        "y": 468
+      }
+    },
+    "Zetterburn": {
+      "0": {
+        "x": 1601,
+        "y": 734
+      }
+    },
+    "Reina": {
+      "0": {
+        "x": 853,
+        "y": 468
+      }
+    }
+  },
+  "name": "Artwork",
+  "postfix": "-2D_",
+  "prefix": "",
+  "rescaling_factor": {
+    "Fleet": {
+      "0": 0.75
+    },
+    "Loxodont": {
+      "0": 0.55
+    },
+    "Reina": {
+      "0": 1.7070588235294117647058823529412
+    }
+  },
+  "type": [
+    "art"
+  ],
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "version": "0.5"
+}

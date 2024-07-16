@@ -102,12 +102,15 @@
     },
     "Eddy Gordo": {
       "codename": "edd"
+    },
+    "Lidia Sobieska": {
+      "codename": "nsd"
     }
   },
   "credits": "Icons ripped from the game",
   "description": "Base config to use this game.",
   "name": "Tekken 8",
-  "smashgg_game_id": null,
+  "smashgg_game_id": 49783,
   "stage_to_codename": {},
-  "version": "1.01"
+  "version": "1.3"
 }

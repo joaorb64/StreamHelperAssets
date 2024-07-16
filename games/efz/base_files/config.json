@@ -1,0 +1,80 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akane Satomura": {
+      "codename": "Akane"
+    },
+    "Akiko Minase": {
+      "codename": "Akiko"
+    },
+    "Ayu Tsukimiya": {
+      "codename": "Ayu"
+    },
+    "Doppel Nanase": {
+      "codename": "Doppel"
+    },
+    "Ikumi Amasawa": {
+      "codename": "Ikumi"
+    },
+    "Kannabi no Mikoto": {
+      "codename": "Kanna"
+    },
+    "Kano Kirishima": {
+      "codename": "Kano"
+    },
+    "Kaori Misaka": {
+      "codename": "Kaori"
+    },
+    "Mai Kawasumi": {
+      "codename": "Mai"
+    },
+    "Makoto Sawatari": {
+      "codename": "Makoto"
+    },
+    "Mayu Shiina": {
+      "codename": "Mayu"
+    },
+    "Minagi Tohno": {
+      "codename": "Minagi"
+    },
+    "Mio Kouzuki": {
+      "codename": "Mio"
+    },
+    "Misaki Kawana": {
+      "codename": "Misaki"
+    },
+    "Mishio Amano": {
+      "codename": "Mishio"
+    },
+    "Misuzu Kamio": {
+      "codename": "Misuzu"
+    },
+    "Mizuka Nagamori": {
+      "codename": "Mizuka"
+    },
+    "Nayuki Minase (asleep)": {
+      "codename": "Nayukiasleep"
+    },
+    "Nayuki Minase (awake)": {
+      "codename": "Nayukiawake"
+    },
+    "Rumi Nanase": {
+      "codename": "Rumi"
+    },
+    "Sayuri Kurata": {
+      "codename": "Sayuri"
+    },
+    "Shiori Misaka": {
+      "codename": "Shiori"
+    },
+    "UNKNOWN": {
+      "codename": "UNKNOWN"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Eternal Fighter Zero -Memorial- Edition",
+  "smashgg_game_id": 33860,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

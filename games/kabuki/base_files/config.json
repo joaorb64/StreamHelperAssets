@@ -1,0 +1,47 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Danj\u016br\u014d Kabuki": {
+      "codename": "DanjuroKabuki"
+    },
+    "Jyashinsai": {
+      "codename": "Jyashinsai"
+    },
+    "Karakuri Soldier": {
+      "codename": "KarakuriSoldier"
+    },
+    "Kinu": {
+      "codename": "Kinu"
+    },
+    "Lucifeller": {
+      "codename": "Lucifeller"
+    },
+    "Manjimaru Sengoku": {
+      "codename": "ManjimaruSengoku"
+    },
+    "Manto Ace": {
+      "codename": "MantoAce"
+    },
+    "Orochimaru": {
+      "codename": "Orochimaru"
+    },
+    "Taro Gokuraku": {
+      "codename": "TaroGokuraku"
+    },
+    "Tsunade": {
+      "codename": "Tsunade"
+    },
+    "Yagumo": {
+      "codename": "Yagumo"
+    },
+    "Ziria": {
+      "codename": "Ziria"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Far East of Eden: Kabuki Klash",
+  "smashgg_game_id": 37000,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

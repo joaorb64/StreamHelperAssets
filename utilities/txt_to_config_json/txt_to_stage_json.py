@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-game_id = 16388
+game_id = 18499
 stage_list_filename = "stages_list.txt"
 
 with open(f"stage.json", 'wt') as config_file:

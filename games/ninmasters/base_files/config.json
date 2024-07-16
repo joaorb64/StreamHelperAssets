@@ -1,0 +1,47 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Goemon": {
+      "codename": "Goemon"
+    },
+    "Houoh": {
+      "codename": "Houoh"
+    },
+    "Kamui": {
+      "codename": "Kamui"
+    },
+    "Karasu": {
+      "codename": "Karasu"
+    },
+    "Kasumi": {
+      "codename": "Kasumi"
+    },
+    "Natsume": {
+      "codename": "Natsume"
+    },
+    "Nobunaga": {
+      "codename": "Nobunaga"
+    },
+    "Raiga": {
+      "codename": "Raiga"
+    },
+    "Ranmaru": {
+      "codename": "Ranmaru"
+    },
+    "Sasuke": {
+      "codename": "Sasuke"
+    },
+    "Tenho": {
+      "codename": "Tenho"
+    },
+    "Unzen": {
+      "codename": "Unzen"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Ninja Master's ~Ha\u014d Ninp\u014d Ch\u014d~",
+  "smashgg_game_id": 37673,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

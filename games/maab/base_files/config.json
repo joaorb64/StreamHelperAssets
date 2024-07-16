@@ -1,0 +1,50 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Arthur Blade Protector": {
+      "codename": "ArthurBladeProtector"
+    },
+    "Bisclavret": {
+      "codename": "Bisclavret"
+    },
+    "Eternal Flame": {
+      "codename": "EternalFlame"
+    },
+    "Iai Arthur": {
+      "codename": "IaiArthur"
+    },
+    "Iori Yagami": {
+      "codename": "IoriYagami"
+    },
+    "Koume Sakiyama": {
+      "codename": "KoumeSakiyama"
+    },
+    "Nimue": {
+      "codename": "Nimue"
+    },
+    "Riesz": {
+      "codename": "Riesz"
+    },
+    "Snow White": {
+      "codename": "SnowWhite"
+    },
+    "Thief Arthur": {
+      "codename": "ThiefArthur"
+    },
+    "Twinblade Arthur": {
+      "codename": "TwinbladeArthur"
+    },
+    "Wildcat Arthur": {
+      "codename": "WildcatArthur"
+    },
+    "Zechs Siegfried": {
+      "codename": "ZechsSiegfried"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Million Arthur: Arcana Blood",
+  "smashgg_game_id": 17742,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

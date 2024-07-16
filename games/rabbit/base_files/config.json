@@ -1,0 +1,35 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Egith": {
+      "codename": "Egith"
+    },
+    "Hou En": {
+      "codename": "HouEn"
+    },
+    "Ja koh": {
+      "codename": "Jakoh"
+    },
+    "Little Eddy": {
+      "codename": "LittleEddy"
+    },
+    "Rex": {
+      "codename": "Rex"
+    },
+    "Tian Ren": {
+      "codename": "TianRen"
+    },
+    "Wu-Ling": {
+      "codename": "WuLing"
+    },
+    "Yu Lan": {
+      "codename": "YuLan"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Rabbit",
+  "smashgg_game_id": 18499,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

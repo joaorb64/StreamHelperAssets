@@ -1,0 +1,74 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akari Ichijou": {
+      "codename": "AkariIchijou"
+    },
+    "Genbu no Okina": {
+      "codename": "GenbunoOkina"
+    },
+    "Hagure Hitogata": {
+      "codename": "HagureHitogata"
+    },
+    "Hibiki Takane": {
+      "codename": "HibikiTakane"
+    },
+    "Hyo Amano": {
+      "codename": "HyoAmano"
+    },
+    "Juzoh Kanzaki": {
+      "codename": "JuzohKanzaki"
+    },
+    "Kaede (Awakened)": {
+      "codename": "KaedeAwakened"
+    },
+    "Kaede (Original)": {
+      "codename": "KaedeOriginal"
+    },
+    "Kaori Sanada": {
+      "codename": "KaoriSanada"
+    },
+    "Keiichiro Washizuka": {
+      "codename": "KeiichiroWashizuka"
+    },
+    "Kotetsu Naoe": {
+      "codename": "KotetsuNaoe"
+    },
+    "Kouryu": {
+      "codename": "Kouryu"
+    },
+    "Lee Rekka": {
+      "codename": "LeeRekka"
+    },
+    "Moriya Minakata": {
+      "codename": "MoriyaMinakata"
+    },
+    "Mukuro": {
+      "codename": "Mukuro"
+    },
+    "Musashi Akatsuki": {
+      "codename": "MusashiAkatsuki"
+    },
+    "Setsuna": {
+      "codename": "Setsuna"
+    },
+    "Shigen Naoe": {
+      "codename": "ShigenNaoe"
+    },
+    "Shinnosuke Kagami": {
+      "codename": "ShinnosukeKagami"
+    },
+    "Yuki": {
+      "codename": "Yuki"
+    },
+    "Zantetsu": {
+      "codename": "Zantetsu"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "The Last Blade 2",
+  "smashgg_game_id": 21284,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

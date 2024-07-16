@@ -1,0 +1,83 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Andy Bogard": {
+      "codename": "AndyBogard"
+    },
+    "Billy Kane": {
+      "codename": "BillyKane"
+    },
+    "Blue Mary": {
+      "codename": "BlueMary"
+    },
+    "Bob Wilson": {
+      "codename": "BobWilson"
+    },
+    "Cheng Sinzan": {
+      "codename": "ChengSinzan"
+    },
+    "Duck King": {
+      "codename": "DuckKing"
+    },
+    "EX Billy Kane": {
+      "codename": "EXBillyKane"
+    },
+    "EX Blue Mary": {
+      "codename": "EXBlueMary"
+    },
+    "EX Tung Fu Rue": {
+      "codename": "EXTungFuRue"
+    },
+    "Franco Bash": {
+      "codename": "FrancoBash"
+    },
+    "Hon-Fu": {
+      "codename": "HonFu"
+    },
+    "Jin Chonrei": {
+      "codename": "JinChonrei"
+    },
+    "Jin Chonshu": {
+      "codename": "JinChonshu"
+    },
+    "Joe Higashi": {
+      "codename": "JoeHigashi"
+    },
+    "Kim Kaphwan": {
+      "codename": "KimKaphwan"
+    },
+    "Laurence Blood": {
+      "codename": "LaurenceBlood"
+    },
+    "Mai Shiranui": {
+      "codename": "MaiShiranui"
+    },
+    "Nightmare Geese": {
+      "codename": "NightmareGeese"
+    },
+    "Ryuji Yamazaki": {
+      "codename": "RyujiYamazaki"
+    },
+    "Shadow Andy": {
+      "codename": "EXAndy"
+    },
+    "Sokaku Mochizuki": {
+      "codename": "SokakuMochizuki"
+    },
+    "Terry Bogard": {
+      "codename": "TerryBogard"
+    },
+    "Tung Fu Rue": {
+      "codename": "TungFuRue"
+    },
+    "Wolfgang Krauser": {
+      "codename": "WolfgangKrauser"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Real Bout Fatal Fury Special",
+  "smashgg_game_id": 16390,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

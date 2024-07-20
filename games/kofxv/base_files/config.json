@@ -184,10 +184,16 @@
     },
     "Otoma=Raga": {
       "codename": "Boss2"
+    },
+    "Mature": {
+      "codename": "Mature"
+    },
+    "Vice":{
+      "codename": "Vice"
     }
   },
   "stage_to_codename": {},
-  "version": "2.31",
+  "version": "2.32",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping",
   "defaults": {

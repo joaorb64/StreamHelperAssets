@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "\u00a9 FRENCH-BREAD / ARC SYSTEM WORKS\n\nUNDER NIGHT IN-BIRTH II Sys:Celes Official Site: https://www.arcsystemworks.jp/uni2celes/en/\nUNDER NIGHT IN-BIRTH II Sys:Celes Fan Kit: https://www.arcsystemworks.jp/uni2celes/en/fankit/\nThe rights to the data included within are held by Arc System Works.",
-  "version": "1.02",
+  "version": "1.1",
   "uncropped_edge": [
     "u",
     "d",
@@ -158,6 +158,12 @@
         "x": 485,
         "y": 840
       }
+    },
+    "uzuki": {
+      "0": {
+        "x": 1366,
+        "y": 1610
+      }
     }
   },
   "rescaling_factor": {
@@ -232,6 +238,9 @@
     },
     "kuon": {
       "0": 0.46296296296296297
+    },
+    "uzuki":{
+      "0": 0.46296296296296296296296296296296
     }
   }
 }

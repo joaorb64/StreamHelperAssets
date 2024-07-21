@@ -326,10 +326,13 @@
     },
     "X": {
       "codename": "Xero"
+    },
+    "Hayato": {
+      "codename": "Hayto"
     }
   },
   "stage_to_codename": {},
-  "version": "2.01",
+  "version": "2.1",
   "description": "Base config to use this game.\nIncludes modded characters and costumes from the HAVENGERS Clone Engine mod pack (https://www.nexusmods.com/ultimatemarvelvscapcom3/mods/286)",
   "credits": "",
   "defaults": {

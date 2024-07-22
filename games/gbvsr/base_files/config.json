@@ -101,10 +101,16 @@
     },
     "Versusia": {
       "codename": "Versusia"
+    },
+    "Vikala": {
+      "codename": "Vikala"
+    },
+    "Sandalphon": {
+      "codename": "Sandalphon"
     }
   },
   "stage_to_codename": {},
-  "version": "1.41",
+  "version": "1.42",
   "description": "Base config to use this game.",
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters"
 }

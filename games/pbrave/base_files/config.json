@@ -42,6 +42,15 @@
     },
     "Rick Johnson": {
       "codename": "Rick"
+    },
+    "Brandon Carter":{
+      "codename": "Brandon"
+    },
+    "Son Ji-Sung": {
+      "codename": "Son"
+    },
+    "Camille Leclerc": {
+      "codename": "Camille"
     }
   },
   "credits": "",
@@ -49,5 +58,5 @@
   "name": "Pocket Bravery",
   "smashgg_game_id": 44108,
   "stage_to_codename": {},
-  "version": "1.11"
+  "version": "1.12"
 }

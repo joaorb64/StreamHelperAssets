@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://www.mortalkombatwarehouse.com/mk12/characters",
-  "version": "1.5",
+  "version": "1.6",
   "eyesights": {
     "Ashrah": {
       "0": {
@@ -175,6 +175,12 @@
       "0": {
         "x": 256,
         "y": 132
+      }
+    },
+    "Takeda": {
+      "0": {
+        "x": 502,
+        "y": 175
       }
     }
   }

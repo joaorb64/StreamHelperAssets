@@ -834,10 +834,23 @@
         "it": "Ceruledge",
         "es": "Ceruledge"
       }
+    },
+    "Ho-Oh": {
+      "codename": "250",
+      "locale": {
+        "fr": "Ho-Oh",
+        "de": "Ho-Oh",
+        "ko": "\uce60\uc0c9\uc870",
+        "ja": "\u30db\u30a6\u30aa\u30a6",
+        "zh_CN": "\u51e4\u738b",
+        "zh_TW": "\u9cf3\u738b",
+        "it": "Ho-Oh",
+        "es": "Ho-Oh"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.6",
+  "version": "1.7",
   "description": "Base config to use this game",
   "credits": "Box sprites from the mainline games from Generation 3-8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pokémon Scarlet & Violet icons",
   "defaults": {

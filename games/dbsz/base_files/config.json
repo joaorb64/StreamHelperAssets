@@ -300,6 +300,51 @@
     },
     "Zamasu (Fused) - Half-Corrupted": {
       "codename": "ZamasuFusedHalfCorrupted"
+    },
+    "Chiaotzu": {
+      "codename": "Chiaotzu"
+    },
+    "Saibaman": {
+      "codename": "Saibaman"
+    },
+    "Cui": {
+      "codename": "Cui"
+    },
+    "Dodoria": {
+      "codename": "Dodoria"
+    },
+    "Zarbon": {
+      "codename": "Zarbon"
+    },
+    "Zarbon - Super Zarbon": {
+      "codename": "SuperZarbon"
+    },
+    "Nail": {
+      "codename": "Nail"
+    },
+    "Guldo": {
+      "codename": "Guldo"
+    },
+    "Recoome": {
+      "codename": "Recoome"
+    },
+    "Ginyu": {
+      "codename": "Ginyu"
+    },
+    "Frieza (Z) - 1st Form": {
+      "codename": "FriezaZ-1"
+    },
+    "Frieza (Z) - 2nd Form": {
+      "codename": "FriezaZ-2"
+    },
+    "Frieza (Z) - 3rd Form": {
+      "codename": "FriezaZ-3"
+    },
+    "Frieza (Z) - 4th Form": {
+      "codename": "FriezaZ-4"
+    },
+    "Frieza (Z) - Full Power": {
+      "codename": "FriezaZ-5"
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/",
@@ -307,5 +352,5 @@
   "name": "Dragon Ball: Sparking! Zero",
   "smashgg_game_id": 73208,
   "stage_to_codename": {},
-  "version": "1.02"
+  "version": "1.1"
 }

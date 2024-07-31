@@ -1,0 +1,44 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Avu": {
+      "codename": "Avu"
+    },
+    "Bobby": {
+      "codename": "Bobby"
+    },
+    "Chaos": {
+      "codename": "Chaos"
+    },
+    "Goldor": {
+      "codename": "Goldor"
+    },
+    "Hoi": {
+      "codename": "Hoi"
+    },
+    "Jin": {
+      "codename": "Jin"
+    },
+    "Mahamba": {
+      "codename": "Mahamba"
+    },
+    "Racheal": {
+      "codename": "Racheal"
+    },
+    "Salamander": {
+      "codename": "Salamander"
+    },
+    "Titi": {
+      "codename": "Titi"
+    },
+    "Zen": {
+      "codename": "Zen"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Martial Champion",
+  "smashgg_game_id": 16404,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -1,0 +1,77 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Captain America": {
+      "codename": "CaptainAmerica"
+    },
+    "Captain Commando": {
+      "codename": "CaptainCommando"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Gambit": {
+      "codename": "Gambit"
+    },
+    "High Speed Venom": {
+      "codename": "HighSpeedVenom"
+    },
+    "Hulk": {
+      "codename": "Hulk"
+    },
+    "Hyper Armor War Machine": {
+      "codename": "HyperArmorWarMachine"
+    },
+    "Jin Saotome": {
+      "codename": "JinSaotome"
+    },
+    "Lilith": {
+      "codename": "Lilith"
+    },
+    "Mega Man": {
+      "codename": "MegaMan"
+    },
+    "Morrigan": {
+      "codename": "Morrigan"
+    },
+    "Onslaught": {
+      "codename": "Onslaught"
+    },
+    "Orange Hulk": {
+      "codename": "OrangeHulk"
+    },
+    "Roll": {
+      "codename": "Roll"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Shadow Lady": {
+      "codename": "ShadowLady"
+    },
+    "Spider-Man": {
+      "codename": "SpiderMan"
+    },
+    "Strider Hiryu": {
+      "codename": "StriderHiryu"
+    },
+    "Venom": {
+      "codename": "Venom"
+    },
+    "War Machine": {
+      "codename": "WarMachine"
+    },
+    "Wolverine": {
+      "codename": "Wolverine"
+    },
+    "Zangief": {
+      "codename": "Zangief"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Marvel vs. Capcom: Clash of Super Heroes",
+  "smashgg_game_id": 9968,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

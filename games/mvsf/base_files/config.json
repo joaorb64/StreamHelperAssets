@@ -1,0 +1,89 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akuma": {
+      "codename": "Akuma"
+    },
+    "Apocalypse": {
+      "codename": "Apocalypse"
+    },
+    "Armored Spider-Man": {
+      "codename": "ArmoredSpiderMan"
+    },
+    "Blackheart": {
+      "codename": "Blackheart"
+    },
+    "Captain America": {
+      "codename": "CaptainAmerica"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Cyber Akuma": {
+      "codename": "CyberAkuma"
+    },
+    "Cyclops": {
+      "codename": "Cyclops"
+    },
+    "Dan": {
+      "codename": "Dan"
+    },
+    "Dark Sakura": {
+      "codename": "DarkSakura"
+    },
+    "Dhalsim": {
+      "codename": "Dhalsim"
+    },
+    "Hulk": {
+      "codename": "Hulk"
+    },
+    "Ken": {
+      "codename": "Ken"
+    },
+    "M. Bison": {
+      "codename": "MBison"
+    },
+    "Mech Zangief": {
+      "codename": "MechZangief"
+    },
+    "Mephisto": {
+      "codename": "Mephisto"
+    },
+    "Norimaro": {
+      "codename": "Norimaro"
+    },
+    "Omega Red": {
+      "codename": "OmegaRed"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sakura": {
+      "codename": "Sakura"
+    },
+    "Shadow": {
+      "codename": "Shadow"
+    },
+    "Shuma-Gorath": {
+      "codename": "ShumaGorath"
+    },
+    "Spider-Man": {
+      "codename": "SpiderMan"
+    },
+    "U.S. Agent": {
+      "codename": "USAgent"
+    },
+    "Wolverine": {
+      "codename": "Wolverine"
+    },
+    "Zangief": {
+      "codename": "Zangief"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Marvel Super Heroes vs. Street Fighter",
+  "smashgg_game_id": 10075,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

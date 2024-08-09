@@ -1,0 +1,62 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akuma": {
+      "codename": "Akuma"
+    },
+    "Cammy": {
+      "codename": "Cammy"
+    },
+    "Charlie Nash": {
+      "codename": "CharlieNash"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Cyclops": {
+      "codename": "Cyclops"
+    },
+    "Dhalsim": {
+      "codename": "Dhalsim"
+    },
+    "Gambit": {
+      "codename": "Gambit"
+    },
+    "Juggernaut": {
+      "codename": "Juggernaut"
+    },
+    "Ken": {
+      "codename": "Ken"
+    },
+    "M.Bison": {
+      "codename": "MBison"
+    },
+    "Magneto": {
+      "codename": "Magneto"
+    },
+    "Rogue": {
+      "codename": "Rogue"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Sabretooth": {
+      "codename": "Sabretooth"
+    },
+    "Storm": {
+      "codename": "Storm"
+    },
+    "Wolverine": {
+      "codename": "Wolverine"
+    },
+    "Zangief": {
+      "codename": "Zangief"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "X-Men vs. Street Fighter",
+  "smashgg_game_id": 9973,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

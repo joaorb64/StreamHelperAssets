@@ -1,0 +1,50 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Anita": {
+      "codename": "Anita"
+    },
+    "Blackheart": {
+      "codename": "Blackheart"
+    },
+    "Captain America": {
+      "codename": "CaptainAmerica"
+    },
+    "Doctor Doom": {
+      "codename": "DoctorDoom"
+    },
+    "Hulk": {
+      "codename": "Hulk"
+    },
+    "Iron Man": {
+      "codename": "IronMan"
+    },
+    "Juggernaut": {
+      "codename": "Juggernaut"
+    },
+    "Magneto": {
+      "codename": "Magneto"
+    },
+    "Psylocke": {
+      "codename": "Psylocke"
+    },
+    "Shuma-Gorath": {
+      "codename": "ShumaGorath"
+    },
+    "Spider-Man": {
+      "codename": "SpiderMan"
+    },
+    "Thanos": {
+      "codename": "Thanos"
+    },
+    "Wolverine": {
+      "codename": "Wolverine"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Marvel Super Heroes",
+  "smashgg_game_id": 14893,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Artwork",
+  "description": "Character artwork",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "1.0"
+}

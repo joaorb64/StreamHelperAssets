@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "mvc"
+game_codename = "msh"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

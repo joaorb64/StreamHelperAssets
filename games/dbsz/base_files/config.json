@@ -345,6 +345,51 @@
     },
     "Frieza (Z) - Full Power": {
       "codename": "FriezaZ-5"
+    },
+    "Gohan (Teen)": {
+      "codename": "GohanTeen"
+    },
+    "Gohan (Teen) - Super Sayian": {
+      "codename": "GohanTeen-1"
+    },
+    "Gohan (Teen) - Super Sayian 2": {
+      "codename": "GohanTeen-2"
+    },
+    "Trunks (Future) (Melee)": {
+      "codename": "TrunksFutureMelee"
+    },
+    "Android 17 (Z)": {
+      "codename": "Android17Z"
+    },
+    "Android 16": {
+      "codename": "Android16"
+    },
+    "Android 19": {
+      "codename": "Android19"
+    },
+    "Dr. Gero": {
+      "codename": "Gero"
+    },
+    "Cell - 1st Form": {
+      "codename": "Cell-1"
+    },
+    "Cell - 2nd Form": {
+      "codename": "Cell-2"
+    },
+    "Cell - Super Perfect Cell": {
+      "codename": "Cell-+"
+    },
+    "Cell Jr.": {
+      "codename": "CellJr"
+    },
+    "Piccolo - Fused with Kami": {
+      "codename": "PiccoloFused"
+    },
+    "King Cold": {
+      "codename": "Cold"
+    },
+    "Frieza - Mecha Frieza": {
+      "codename": "FriezaMech"
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/",
@@ -352,5 +397,5 @@
   "name": "Dragon Ball: Sparking! Zero",
   "smashgg_game_id": 73208,
   "stage_to_codename": {},
-  "version": "1.11"
+  "version": "1.2"
 }

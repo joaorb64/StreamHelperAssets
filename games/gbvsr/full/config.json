@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
-  "version": "1.42",
+  "version": "1.5",
   "uncropped_edge": [
     "l",
     "r"
@@ -223,6 +223,12 @@
       "1": {
         "x": 963,
         "y": 613
+      }
+    },
+    "Versusia": {
+      "0": {
+        "x": 1120,
+        "y": 785
       }
     }
   },

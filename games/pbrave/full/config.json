@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.1",
+  "version": "1.2",
   "eyesights": {
     "Arshavin": {
       "0": {
@@ -92,6 +92,12 @@
         "x": 3788,
         "y": 3408
       }
+    },
+    "Brandon": {
+      "0": {
+        "x": 2892,
+        "y": 1670
+      }
     }
   },
   "uncropped_edge": [
@@ -99,5 +105,10 @@
     "d",
     "l",
     "r"
-  ]
+  ],
+  "rescaling_factor": {
+    "Brandon": {
+      "0": 1.5642392934510914847525412431261
+    }
+  }
 }

@@ -241,7 +241,7 @@
     "Krillin": {
       "codename": "Krillin"
     },
-    "Majin Buu": {
+    "Buu - Majin Buu (Good)": {
       "codename": "MajinBuu"
     },
     "Master Roshi": {
@@ -390,6 +390,33 @@
     },
     "Zarbon - Super Zarbon": {
       "codename": "SuperZarbon"
+    },
+    "Gohan (Adult) - Great Saiyaman": {
+      "codename": "Saiyaman"
+    },
+    "Gohan (Adult) - Ultimate Gohan": {
+      "codename": "GohanUltimate"
+    },
+    "Gohan (Adult) - Super Sayian": {
+      "codename": "GohanAdult-1"
+    },
+    "Babidi": {
+      "codename": "Babidi"
+    },
+    "Buu - Majin Buu (Evil)": {
+      "codename": "BuuEvil"
+    },
+    "Buu - Super Buu": {
+      "codename": "BuuSuper"
+    },
+    "Buu - Super Buu (Gotenks Absorbed)": {
+      "codename": "BuuSuper-1"
+    },
+    "Buu - Super Buu (Gohan Absorbed)": {
+      "codename": "BuuSuper-2"
+    },
+    "Buu - Kid Buu": {
+      "codename": "BuuKid"
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/",
@@ -397,5 +424,5 @@
   "name": "Dragon Ball: Sparking! Zero",
   "smashgg_game_id": 73208,
   "stage_to_codename": {},
-  "version": "1.2"
+  "version": "1.3"
 }

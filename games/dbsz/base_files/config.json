@@ -19,6 +19,9 @@
     "Anilaza": {
       "codename": "Anilaza"
     },
+    "Babidi": {
+      "codename": "Babidi"
+    },
     "Bardock": {
       "codename": "Bardock"
     },
@@ -39,6 +42,24 @@
     },
     "Burter": {
       "codename": "Burter"
+    },
+    "Buu - Kid Buu": {
+      "codename": "BuuKid"
+    },
+    "Buu - Majin Buu (Evil)": {
+      "codename": "BuuEvil"
+    },
+    "Buu - Majin Buu (Good)": {
+      "codename": "MajinBuu"
+    },
+    "Buu - Super Buu": {
+      "codename": "BuuSuper"
+    },
+    "Buu - Super Buu (Gohan Absorbed)": {
+      "codename": "BuuSuper-2"
+    },
+    "Buu - Super Buu (Gotenks Absorbed)": {
+      "codename": "BuuSuper-1"
     },
     "Caulifla": {
       "codename": "Caulifla"
@@ -79,9 +100,6 @@
     "Dyspo": {
       "codename": "Dyspo"
     },
-    "Frieza - Mecha Frieza": {
-      "codename": "FriezaMech"
-    },
     "Frieza (Super)": {
       "codename": "FriezaSuper"
     },
@@ -103,6 +121,9 @@
     "Frieza (Z) - Full Power": {
       "codename": "FriezaZ-5"
     },
+    "Frieza - Mecha Frieza": {
+      "codename": "FriezaMech"
+    },
     "Ginyu": {
       "codename": "Ginyu"
     },
@@ -118,8 +139,17 @@
     "Gohan (Adult)": {
       "codename": "GohanAdult"
     },
+    "Gohan (Adult) - Great Saiyaman": {
+      "codename": "Saiyaman"
+    },
+    "Gohan (Adult) - Super Sayian": {
+      "codename": "GohanAdult-1"
+    },
     "Gohan (Adult) - Super Sayian 2": {
       "codename": "GohanAdultSuperSayian2"
+    },
+    "Gohan (Adult) - Ultimate Gohan": {
+      "codename": "GohanUltimate"
     },
     "Gohan (Future)": {
       "codename": "GohanFuture"
@@ -241,9 +271,6 @@
     "Krillin": {
       "codename": "Krillin"
     },
-    "Buu - Majin Buu (Good)": {
-      "codename": "MajinBuu"
-    },
     "Master Roshi": {
       "codename": "MasterRoshi"
     },
@@ -292,12 +319,6 @@
     "Trunks (Future)": {
       "codename": "TrunksFuture"
     },
-    "Trunks (Future) - Super Saiyan": {
-      "codename": "TrunksFutureSuperSaiyan"
-    },
-    "Trunks (Future) - Super Trunks": {
-      "codename": "TrunksFutureSuperTrunks"
-    },
     "Trunks (Future) (Melee)": {
       "codename": "TrunksFutureMelee"
     },
@@ -310,20 +331,17 @@
     "Trunks (Future) (Sword) - Super Sayian": {
       "codename": "TrunksFutureSwordSuperSayian"
     },
+    "Trunks (Future) - Super Saiyan": {
+      "codename": "TrunksFutureSuperSaiyan"
+    },
+    "Trunks (Future) - Super Trunks": {
+      "codename": "TrunksFutureSuperTrunks"
+    },
     "Trunks (Kid)": {
       "codename": "TrunksKid"
     },
     "Trunks (Kid) - Super Saiyan": {
       "codename": "TrunksKidSuperSaiyan"
-    },
-    "Vegeta - Great Ape": {
-      "codename": "VegetaGreatApe"
-    },
-    "Vegeta - Majin Vegeta": {
-      "codename": "VegetaMajinVegeta"
-    },
-    "Vegeta - Super Vegeta": {
-      "codename": "VegetaSuperVegeta"
     },
     "Vegeta (Super)": {
       "codename": "VegetaSuper"
@@ -354,6 +372,15 @@
     },
     "Vegeta (Z-Scouter)": {
       "codename": "VegetaZScouter"
+    },
+    "Vegeta - Great Ape": {
+      "codename": "VegetaGreatApe"
+    },
+    "Vegeta - Majin Vegeta": {
+      "codename": "VegetaMajinVegeta"
+    },
+    "Vegeta - Super Vegeta": {
+      "codename": "VegetaSuperVegeta"
     },
     "Vegito": {
       "codename": "Vegito"
@@ -390,33 +417,6 @@
     },
     "Zarbon - Super Zarbon": {
       "codename": "SuperZarbon"
-    },
-    "Gohan (Adult) - Great Saiyaman": {
-      "codename": "Saiyaman"
-    },
-    "Gohan (Adult) - Ultimate Gohan": {
-      "codename": "GohanUltimate"
-    },
-    "Gohan (Adult) - Super Sayian": {
-      "codename": "GohanAdult-1"
-    },
-    "Babidi": {
-      "codename": "Babidi"
-    },
-    "Buu - Majin Buu (Evil)": {
-      "codename": "BuuEvil"
-    },
-    "Buu - Super Buu": {
-      "codename": "BuuSuper"
-    },
-    "Buu - Super Buu (Gotenks Absorbed)": {
-      "codename": "BuuSuper-1"
-    },
-    "Buu - Super Buu (Gohan Absorbed)": {
-      "codename": "BuuSuper-2"
-    },
-    "Buu - Kid Buu": {
-      "codename": "BuuKid"
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/",

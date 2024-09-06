@@ -19,6 +19,9 @@
     "Anilaza": {
       "codename": "Anilaza"
     },
+    "Babidi": {
+      "codename": "Babidi"
+    },
     "Bardock": {
       "codename": "Bardock"
     },
@@ -34,16 +37,34 @@
     "Broly (Super) - Super Saiyan": {
       "codename": "BrolySuperSuperSaiyan"
     },
-    "Broly (Super) - Super Sayian Full Power": {
+    "Broly (Super) - Super Saiyan Full Power": {
       "codename": "BrolySuperSuperSayianFullPower"
     },
     "Burter": {
       "codename": "Burter"
     },
+    "Buu - Kid Buu": {
+      "codename": "BuuKid"
+    },
+    "Buu - Majin Buu (Evil)": {
+      "codename": "BuuEvil"
+    },
+    "Buu - Majin Buu (Good)": {
+      "codename": "MajinBuu"
+    },
+    "Buu - Super Buu": {
+      "codename": "BuuSuper"
+    },
+    "Buu - Super Buu (Gohan Absorbed)": {
+      "codename": "BuuSuper-2"
+    },
+    "Buu - Super Buu (Gotenks Absorbed)": {
+      "codename": "BuuSuper-1"
+    },
     "Caulifla": {
       "codename": "Caulifla"
     },
-    "Caulifla - Super Sayian 2": {
+    "Caulifla - Super Saiyan 2": {
       "codename": "CauliflaSuperSayian2"
     },
     "Cell - 1st Form": {
@@ -79,9 +100,6 @@
     "Dyspo": {
       "codename": "Dyspo"
     },
-    "Frieza - Mecha Frieza": {
-      "codename": "FriezaMech"
-    },
     "Frieza (Super)": {
       "codename": "FriezaSuper"
     },
@@ -103,6 +121,9 @@
     "Frieza (Z) - Full Power": {
       "codename": "FriezaZ-5"
     },
+    "Frieza - Mecha Frieza": {
+      "codename": "FriezaMech"
+    },
     "Ginyu": {
       "codename": "Ginyu"
     },
@@ -112,19 +133,28 @@
     "Gogeta (Super) - Super Saiyan God Super Saiyan": {
       "codename": "GogetaSuperSuperSaiyanGodSuperSaiyan"
     },
-    "Gogeta (Super) - Super Sayian": {
+    "Gogeta (Super) - Super Saiyan": {
       "codename": "GogetaSuperSuperSayian"
     },
     "Gohan (Adult)": {
       "codename": "GohanAdult"
     },
-    "Gohan (Adult) - Super Sayian 2": {
+    "Gohan (Adult) - Great Saiyaman": {
+      "codename": "Saiyaman"
+    },
+    "Gohan (Adult) - Super Saiyan": {
+      "codename": "GohanAdult-1"
+    },
+    "Gohan (Adult) - Super Saiyan 2": {
       "codename": "GohanAdultSuperSayian2"
+    },
+    "Gohan (Adult) - Ultimate Gohan": {
+      "codename": "GohanUltimate"
     },
     "Gohan (Future)": {
       "codename": "GohanFuture"
     },
-    "Gohan (Future) - Super Sayian": {
+    "Gohan (Future) - Super Saiyan": {
       "codename": "GohanFutureSuperSayian"
     },
     "Gohan (Kid)": {
@@ -133,10 +163,10 @@
     "Gohan (Teen)": {
       "codename": "GohanTeen"
     },
-    "Gohan (Teen) - Super Sayian": {
+    "Gohan (Teen) - Super Saiyan": {
       "codename": "GohanTeen-1"
     },
-    "Gohan (Teen) - Super Sayian 2": {
+    "Gohan (Teen) - Super Saiyan 2": {
       "codename": "GohanTeen-2"
     },
     "Goku (Super)": {
@@ -148,7 +178,7 @@
     "Goku (Super) - Super Saiyan God": {
       "codename": "GokuSuperSuperSaiyanGod"
     },
-    "Goku (Super) - Super Saiyan God Super Sayian": {
+    "Goku (Super) - Super Saiyan God Super Saiyan": {
       "codename": "GokuSuperSuperSaiyanGodSuperSayian"
     },
     "Goku (Super) - Ultra Instinct": {
@@ -181,13 +211,13 @@
     "Goku Black": {
       "codename": "GokuBlack"
     },
-    "Goku Black - Super Sayian Rosé": {
+    "Goku Black - Super Saiyan Rosé": {
       "codename": "GokuBlackSuperSayianRosé"
     },
     "Goten": {
       "codename": "Goten"
     },
-    "Goten - Super Sayian": {
+    "Goten - Super Saiyan": {
       "codename": "GotenSuperSayian"
     },
     "Gotenks": {
@@ -220,19 +250,19 @@
     "Kale": {
       "codename": "Kale"
     },
-    "Kale - Super Sayian": {
+    "Kale - Super Saiyan": {
       "codename": "KaleSuperSayian"
     },
-    "Kale - Super Sayian (Berserk)": {
+    "Kale - Super Saiyan (Berserk)": {
       "codename": "KaleSuperSayianBerserk"
     },
     "Kefla": {
       "codename": "Kefla"
     },
-    "Kefla - Super Sayian": {
+    "Kefla - Super Saiyan": {
       "codename": "KeflaSuperSayian"
     },
-    "Kefla - Super Sayian 2": {
+    "Kefla - Super Saiyan 2": {
       "codename": "KeflaSuperSayian2"
     },
     "King Cold": {
@@ -240,9 +270,6 @@
     },
     "Krillin": {
       "codename": "Krillin"
-    },
-    "Majin Buu": {
-      "codename": "MajinBuu"
     },
     "Master Roshi": {
       "codename": "MasterRoshi"
@@ -292,12 +319,6 @@
     "Trunks (Future)": {
       "codename": "TrunksFuture"
     },
-    "Trunks (Future) - Super Saiyan": {
-      "codename": "TrunksFutureSuperSaiyan"
-    },
-    "Trunks (Future) - Super Trunks": {
-      "codename": "TrunksFutureSuperTrunks"
-    },
     "Trunks (Future) (Melee)": {
       "codename": "TrunksFutureMelee"
     },
@@ -307,8 +328,14 @@
     "Trunks (Future) (Sword)": {
       "codename": "TrunksFutureSword"
     },
-    "Trunks (Future) (Sword) - Super Sayian": {
+    "Trunks (Future) (Sword) - Super Saiyan": {
       "codename": "TrunksFutureSwordSuperSayian"
+    },
+    "Trunks (Future) - Super Saiyan": {
+      "codename": "TrunksFutureSuperSaiyan"
+    },
+    "Trunks (Future) - Super Trunks": {
+      "codename": "TrunksFutureSuperTrunks"
     },
     "Trunks (Kid)": {
       "codename": "TrunksKid"
@@ -316,25 +343,16 @@
     "Trunks (Kid) - Super Saiyan": {
       "codename": "TrunksKidSuperSaiyan"
     },
-    "Vegeta - Great Ape": {
-      "codename": "VegetaGreatApe"
-    },
-    "Vegeta - Majin Vegeta": {
-      "codename": "VegetaMajinVegeta"
-    },
-    "Vegeta - Super Vegeta": {
-      "codename": "VegetaSuperVegeta"
-    },
     "Vegeta (Super)": {
       "codename": "VegetaSuper"
     },
-    "Vegeta (Super) - Super Sayian": {
+    "Vegeta (Super) - Super Saiyan": {
       "codename": "VegetaSuperSuperSayian"
     },
-    "Vegeta (Super) - Super Sayian God": {
+    "Vegeta (Super) - Super Saiyan God": {
       "codename": "VegetaSuperSuperSayianGod"
     },
-    "Vegeta (Super) - Super Sayian God Super Sayian": {
+    "Vegeta (Super) - Super Saiyan God Super Saiyan": {
       "codename": "VegetaSuperSuperSayianGodSuperSayian"
     },
     "Vegeta (Z-Early)": {
@@ -346,19 +364,28 @@
     "Vegeta (Z-End)": {
       "codename": "VegetaZEnd"
     },
-    "Vegeta (Z-End) - Super Sayian": {
+    "Vegeta (Z-End) - Super Saiyan": {
       "codename": "VegetaZEndSuperSayian"
     },
-    "Vegeta (Z-End) - Super Sayian 2": {
+    "Vegeta (Z-End) - Super Saiyan 2": {
       "codename": "VegetaZEndSuperSayian2"
     },
     "Vegeta (Z-Scouter)": {
       "codename": "VegetaZScouter"
     },
+    "Vegeta - Great Ape": {
+      "codename": "VegetaGreatApe"
+    },
+    "Vegeta - Majin Vegeta": {
+      "codename": "VegetaMajinVegeta"
+    },
+    "Vegeta - Super Vegeta": {
+      "codename": "VegetaSuperVegeta"
+    },
     "Vegito": {
       "codename": "Vegito"
     },
-    "Vegito - Super Sayian God Super Sayian": {
+    "Vegito - Super Saiyan God Super Saiyan": {
       "codename": "VegitoSuperSayianGodSuperSayian"
     },
     "Vegito - Super Vegito": {
@@ -397,5 +424,5 @@
   "name": "Dragon Ball: Sparking! Zero",
   "smashgg_game_id": 73208,
   "stage_to_codename": {},
-  "version": "1.2"
+  "version": "1.3"
 }

@@ -1,0 +1,5 @@
+- Get images with blue background. Pixels on borders aren't the same color, should check.
+- Select by color, delete background.
+- With the same selection, feather by 5px.
+- Invert selection, delete. This will add a 5px feather. This helps a lot with hair.
+- For Jamie, check his ponytail. It usually has lots of small holes in it from the background deletion.

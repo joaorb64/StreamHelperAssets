@@ -1,0 +1,62 @@
+{
+  "name": "Fate/Unlimited Codes",
+  "smashgg_game_id": 11350,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Archer": {
+      "codename": "Archer"
+    },
+    "Assassin": {
+      "codename": "Assassin"
+    },
+    "Bazett": {
+      "codename": "Bazett"
+    },
+    "Berserker": {
+      "codename": "Berserker"
+    },
+    "Caster": {
+      "codename": "Caster"
+    },
+    "Gilgamesh": {
+      "codename": "Gilgamesh"
+    },
+    "Kirei": {
+      "codename": "Kirei"
+    },
+    "Lancer": {
+      "codename": "Lancer"
+    },
+    "Leysritt": {
+      "codename": "Leysritt"
+    },
+    "Luviagelita": {
+      "codename": "Luviagelita"
+    },
+    "Rider": {
+      "codename": "Rider"
+    },
+    "Rin": {
+      "codename": "Rin"
+    },
+    "Saber": {
+      "codename": "Saber"
+    },
+    "Saber Alter": {
+      "codename": "SaberAlter"
+    },
+    "Sakura": {
+      "codename": "Sakura"
+    },
+    "Shirou": {
+      "codename": "Shirou"
+    },
+    "Zero Lancer": {
+      "codename": "ZeroLancer"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Fate_Unlimited_Codes)"
+}

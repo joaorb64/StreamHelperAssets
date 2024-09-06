@@ -182,6 +182,73 @@
         "it": "Medicham",
         "es": "Medicham"
       }
+    },
+    "Tyrogue": {
+      "codename": "236",
+      "locale": {
+        "fr": "Debugant",
+        "de": "Rabauz",
+        "ko": "\ubc30\ub8e8\ud0a4",
+        "ja": "\u30d0\u30eb\u30ad\u30fc",
+        "zh_CN": "\u65e0\u754f\u5c0f\u5b50",
+        "zh_TW": "\u7121\u754f\u5c0f\u5b50",
+        "it": "Tyrogue",
+        "es": "Tyrogue"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Hitmonlee",
+          "locale": {
+            "fr": "Kicklee",
+            "de": "Kicklee",
+            "ko": "\uc2dc\ub77c\uc18c\ubaac",
+            "ja": "\u30b5\u30ef\u30e0\u30e9\u30fc",
+            "zh_CN": "\u98de\u817f\u90ce",
+            "zh_TW": "\u98db\u817f\u90ce",
+            "it": "Hitmonlee",
+            "es": "Hitmonlee"
+          }
+        },
+        "2": {
+          "name": "Hitmonchan",
+          "locale": {
+            "fr": "Tygnon",
+            "de": "Nockchan",
+            "ko": "\ud64d\uc218\ubaac",
+            "ja": "\u30a8\u30d3\u30ef\u30e9\u30fc",
+            "zh_CN": "\u5feb\u62f3\u90ce",
+            "zh_TW": "\u5feb\u62f3\u90ce",
+            "it": "Hitmonchan",
+            "es": "Hitmonchan"
+          }
+        },
+        "3": {
+          "name": "Hitmontop",
+          "locale": {
+            "fr": "Kapoera",
+            "de": "Kapoera",
+            "ko": "\uce74\ud3ec\uc5d0\ub77c",
+            "ja": "\u30ab\u30dd\u30a8\u30e9\u30fc",
+            "zh_CN": "\u6218\u821e\u90ce",
+            "zh_TW": "\u6230\u821e\u90ce",
+            "it": "Hitmontop",
+            "es": "Hitmontop"
+          }
+        }
+      }
+    },
+    "Slither Wing": {
+      "codename": "988",
+      "locale": {
+        "fr": "Rampe-Ailes",
+        "de": "Kriechfl\u00fcgel",
+        "ko": "\ub545\uc744\uae30\ub294\ub0a0\uac1c",
+        "ja": "\u30c1\u30f2\u30cf\u30a6\u30cf\u30cd",
+        "zh_CN": "\u722c\u5730\u7fc5",
+        "zh_TW": "\u722c\u5730\u7fc5",
+        "it": "Alirasenti",
+        "es": "Reptalada"
+      }
     }
   },
   "credits": "Box sprites from the mainline games from Generation 3-8\nEzerart for the Pokémon Scarlet & Violet icons",
@@ -189,5 +256,5 @@
   "name": "Pok\u00e9mon: Close Combat",
   "smashgg_game_id": 56300,
   "stage_to_codename": {},
-  "version": "1.2"
+  "version": "1.3"
 }

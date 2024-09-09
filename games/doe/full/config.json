@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.0",
+  "version": "1.1",
   "uncropped_edge": [
     "u",
     "d",
@@ -104,6 +104,26 @@
         "x": 2240,
         "y": 788
       }
+    },
+    "Perilla": {
+      "0": {
+        "x": 1028,
+        "y": 510
+      }
+    },
+    "Terrable": {
+      "0": {
+        "x": 1043,
+        "y": 463
+      }
+    }
+  },
+  "rescaling_factor": {
+    "Perilla": {
+      "0": 2.392578125
+    },
+    "Terrable": {
+      "0": 2.392578125
     }
   }
 }

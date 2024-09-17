@@ -22,6 +22,18 @@
     "Babidi": {
       "codename": "Babidi"
     },
+    "Baby - Baby Vegeta": {
+      "codename": "Baby"
+    },
+    "Baby - Great Ape Baby": {
+      "codename": "Baby-3"
+    },
+    "Baby - Super Baby 1": {
+      "codename": "Baby-1"
+    },
+    "Baby - Super Baby 2": {
+      "codename": "Baby-2"
+    },
     "Bardock": {
       "codename": "Bardock"
     },
@@ -100,6 +112,9 @@
     "Dyspo": {
       "codename": "Dyspo"
     },
+    "Frieza - Mecha Frieza": {
+      "codename": "FriezaMech"
+    },
     "Frieza (Super)": {
       "codename": "FriezaSuper"
     },
@@ -121,20 +136,20 @@
     "Frieza (Z) - Full Power": {
       "codename": "FriezaZ-5"
     },
-    "Frieza - Mecha Frieza": {
-      "codename": "FriezaMech"
-    },
     "Ginyu": {
       "codename": "Ginyu"
+    },
+    "Gogeta (GT) - Super Saiyan 4": {
+      "codename": "GogetaGT-4"
     },
     "Gogeta (Super)": {
       "codename": "GogetaSuper"
     },
-    "Gogeta (Super) - Super Saiyan God Super Saiyan": {
-      "codename": "GogetaSuperSuperSaiyanGodSuperSaiyan"
-    },
     "Gogeta (Super) - Super Saiyan": {
       "codename": "GogetaSuperSuperSayian"
+    },
+    "Gogeta (Super) - Super Saiyan God Super Saiyan": {
+      "codename": "GogetaSuperSuperSaiyanGodSuperSaiyan"
     },
     "Gohan (Adult)": {
       "codename": "GohanAdult"
@@ -168,6 +183,18 @@
     },
     "Gohan (Teen) - Super Saiyan 2": {
       "codename": "GohanTeen-2"
+    },
+    "Goku (GT)": {
+      "codename": "GokuGT"
+    },
+    "Goku (GT) - Super Saiyan": {
+      "codename": "GokuGT-1"
+    },
+    "Goku (GT) - Super Saiyan 3": {
+      "codename": "GokuGT-3"
+    },
+    "Goku (GT) - Super Saiyan 4": {
+      "codename": "GokuGT-4"
     },
     "Goku (Super)": {
       "codename": "GokuSuper"
@@ -271,6 +298,9 @@
     "Krillin": {
       "codename": "Krillin"
     },
+    "Majuub": {
+      "codename": "Majuub"
+    },
     "Master Roshi": {
       "codename": "MasterRoshi"
     },
@@ -285,6 +315,12 @@
     },
     "Nappa": {
       "codename": "Nappa"
+    },
+    "Omega Shenron": {
+      "codename": "Omega"
+    },
+    "Pan (GT)": {
+      "codename": "PanGT"
     },
     "Piccolo": {
       "codename": "Piccolo"
@@ -310,6 +346,9 @@
     "Spopovich": {
       "codename": "Spopovich"
     },
+    "Syn Shenron": {
+      "codename": "Syn"
+    },
     "Tien": {
       "codename": "Tien"
     },
@@ -318,6 +357,12 @@
     },
     "Trunks (Future)": {
       "codename": "TrunksFuture"
+    },
+    "Trunks (Future) - Super Saiyan": {
+      "codename": "TrunksFutureSuperSaiyan"
+    },
+    "Trunks (Future) - Super Trunks": {
+      "codename": "TrunksFutureSuperTrunks"
     },
     "Trunks (Future) (Melee)": {
       "codename": "TrunksFutureMelee"
@@ -331,17 +376,26 @@
     "Trunks (Future) (Sword) - Super Saiyan": {
       "codename": "TrunksFutureSwordSuperSayian"
     },
-    "Trunks (Future) - Super Saiyan": {
-      "codename": "TrunksFutureSuperSaiyan"
-    },
-    "Trunks (Future) - Super Trunks": {
-      "codename": "TrunksFutureSuperTrunks"
-    },
     "Trunks (Kid)": {
       "codename": "TrunksKid"
     },
     "Trunks (Kid) - Super Saiyan": {
       "codename": "TrunksKidSuperSaiyan"
+    },
+    "Uub (GT)": {
+      "codename": "UubGT"
+    },
+    "Vegeta - Great Ape": {
+      "codename": "VegetaGreatApe"
+    },
+    "Vegeta - Majin Vegeta": {
+      "codename": "VegetaMajinVegeta"
+    },
+    "Vegeta - Super Vegeta": {
+      "codename": "VegetaSuperVegeta"
+    },
+    "Vegeta (GT) - Super Saiyan 4": {
+      "codename": "VegetaGT-4"
     },
     "Vegeta (Super)": {
       "codename": "VegetaSuper"
@@ -372,15 +426,6 @@
     },
     "Vegeta (Z-Scouter)": {
       "codename": "VegetaZScouter"
-    },
-    "Vegeta - Great Ape": {
-      "codename": "VegetaGreatApe"
-    },
-    "Vegeta - Majin Vegeta": {
-      "codename": "VegetaMajinVegeta"
-    },
-    "Vegeta - Super Vegeta": {
-      "codename": "VegetaSuperVegeta"
     },
     "Vegito": {
       "codename": "Vegito"
@@ -424,5 +469,5 @@
   "name": "Dragon Ball: Sparking! Zero",
   "smashgg_game_id": 73208,
   "stage_to_codename": {},
-  "version": "1.3"
+  "version": "1.4"
 }

@@ -73,32 +73,6 @@
       "codename": "Burter",
       "skin_name": {}
     },
-    "Kid Buu": {
-      "codename": "BuuKid",
-      "skin_name": {}
-    },
-    "Majin Buu": {
-      "codename": "MajinBuu",
-      "skin_name": {
-        "0": {
-          "name": "Good"
-        },
-        "1": {
-          "name": "Evil"
-        }
-      }
-    },
-    "Super Buu": {
-      "codename": "BuuSuper",
-      "skin_name": {
-        "1": {
-          "name": "Gohan Absorbed"
-        },
-        "2": {
-          "name": "Gotenks Absorbed"
-        }
-      }
-    },
     "Caulifla": {
       "codename": "Caulifla",
       "skin_name": {
@@ -315,7 +289,7 @@
       "codename": "GokuBlack",
       "skin_name": {
         "1": {
-          "name": "Super Saiyan Ros\u00e9"
+          "name": "Super Saiyan Rosé"
         }
       }
     },
@@ -384,6 +358,10 @@
         }
       }
     },
+    "Kid Buu": {
+      "codename": "BuuKid",
+      "skin_name": {}
+    },
     "King Cold": {
       "codename": "Cold",
       "skin_name": {}
@@ -391,6 +369,17 @@
     "Krillin": {
       "codename": "Krillin",
       "skin_name": {}
+    },
+    "Majin Buu": {
+      "codename": "MajinBuu",
+      "skin_name": {
+        "0": {
+          "name": "Good"
+        },
+        "1": {
+          "name": "Evil"
+        }
+      }
     },
     "Majuub": {
       "codename": "Majuub",
@@ -455,6 +444,17 @@
     "Spopovich": {
       "codename": "Spopovich",
       "skin_name": {}
+    },
+    "Super Buu": {
+      "codename": "BuuSuper",
+      "skin_name": {
+        "1": {
+          "name": "Gohan Absorbed"
+        },
+        "2": {
+          "name": "Gotenks Absorbed"
+        }
+      }
     },
     "Syn Shenron": {
       "codename": "Syn",

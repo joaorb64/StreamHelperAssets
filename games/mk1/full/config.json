@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://www.mortalkombat.com/en-gb/roster",
-  "version": "1.6",
+  "version": "2.0",
   "uncropped_edge": [
     "u",
     "l",
@@ -187,6 +187,24 @@
       "0": {
         "x": 502,
         "y": 175
+      }
+    },
+    "Cyrax": {
+      "0": {
+        "x": 533,
+        "y": 206
+      }
+    },
+    "Sektor": {
+      "0": {
+        "x": 574,
+        "y": 260
+      }
+    },
+    "Noob": {
+      "0": {
+        "x": 491,
+        "y": 191
       }
     }
   }

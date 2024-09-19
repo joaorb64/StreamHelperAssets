@@ -194,6 +194,22 @@
     },
     "Beetlejuice": {
       "codename": "Beetlejuice"
+    },
+    "Powerpuff Girls": {
+      "codename": "Powerpuff",
+      "locale": {
+        "fr": "Les Supers Nanas",
+        "pt_BR": "As Meninas Superpoderosas"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Rowdyruff Boys",
+          "locale": {
+            "fr": "Les Sales Petits Mecs",
+            "pt_BR": "Os Meninos Desordeiros"
+          }
+        }
+      }
     }
   },
   "credits": "",
@@ -201,7 +217,7 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "2.3",
+  "version": "2.4",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1

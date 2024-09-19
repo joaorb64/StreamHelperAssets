@@ -1,6 +1,14 @@
 {
   "challonge_game_id": null,
   "character_to_codename": {
+    "Android 13": {
+      "codename": "Android13",
+      "skin_name": {
+        "1": {
+          "name": "Fusion Android 13"
+        }
+      }
+    },
     "Android 16": {
       "codename": "Android16",
       "skin_name": {}
@@ -58,6 +66,14 @@
       "codename": "Bergamo",
       "skin_name": {}
     },
+    "Bojack": {
+      "codename": "Bojack",
+      "skin_name": {
+        "1": {
+          "name": "Full Power"
+        }
+      }
+    },
     "Broly (Super)": {
       "codename": "BrolySuper",
       "skin_name": {
@@ -69,9 +85,31 @@
         }
       }
     },
+    "Broly (Z)": {
+      "codename": "BrolyZ",
+      "skin_name": {
+        "1": {
+          "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Legendary Super Saiyan"
+        }
+      }
+    },
     "Burter": {
       "codename": "Burter",
       "skin_name": {}
+    },
+    "Cabba": {
+      "codename": "Cabba",
+      "skin_name": {
+        "1": {
+          "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Super Saiyan 2"
+        }
+      }
     },
     "Caulifla": {
       "codename": "Caulifla",
@@ -106,6 +144,17 @@
       "codename": "Chiaotzu",
       "skin_name": {}
     },
+    "Cooler": {
+      "codename": "Cooler",
+      "skin_name": {
+        "1": {
+          "name": "Final Form"
+        },
+        "2": {
+          "name": "Metal Cooler"
+        }
+      }
+    },
     "Cui": {
       "codename": "Cui",
       "skin_name": {}
@@ -120,6 +169,10 @@
     },
     "Dr. Gero": {
       "codename": "Gero",
+      "skin_name": {}
+    },
+    "Dr. Wheelo": {
+      "codename": "Wheelo",
       "skin_name": {}
     },
     "Dyspo": {
@@ -162,6 +215,22 @@
         }
       }
     },
+    "Frieza Force Soldier": {
+      "codename": "Soldier",
+      "skin_name": {}
+    },
+    "Frost": {
+      "codename": "Frost",
+      "skin_name": {}
+    },
+    "Garlic Jr.": {
+      "codename": "GarlicJr",
+      "skin_name": {
+        "0": {
+          "name": "Super Garlic Jr."
+        }
+      }
+    },
     "Ginyu": {
       "codename": "Ginyu",
       "skin_name": {}
@@ -182,6 +251,14 @@
         },
         "2": {
           "name": "Super Saiyan God Super Saiyan"
+        }
+      }
+    },
+    "Gogeta (Z)": {
+      "codename": "GogetaZ",
+      "skin_name": {
+        "0": {
+          "name": "Super Gogeta"
         }
       }
     },
@@ -224,6 +301,14 @@
           "name": "Super Saiyan 2"
         }
       }
+    },
+    "Goku (Daima-Mini)": {
+      "codename": "GokuMini",
+      "skin_name": {}
+    },
+    "Goku (DB-Teen)": {
+      "codename": "GokuTeen",
+      "skin_name": {}
     },
     "Goku (GT)": {
       "codename": "GokuGT",
@@ -316,9 +401,21 @@
       "codename": "Guldo",
       "skin_name": {}
     },
+    "Hirudegarn": {
+      "codename": "Hirudegarn",
+      "skin_name": {}
+    },
     "Hit": {
       "codename": "Hit",
       "skin_name": {}
+    },
+    "Janemba": {
+      "codename": "Janemba",
+      "skin_name": {
+        "1": {
+          "name": "Super Janemba"
+        }
+      }
     },
     "Jeice": {
       "codename": "Jeice",
@@ -369,6 +466,14 @@
     "Krillin": {
       "codename": "Krillin",
       "skin_name": {}
+    },
+    "Lord Slug": {
+      "codename": "Slug",
+      "skin_name": {
+        "1": {
+          "name": "Giant Form"
+        }
+      }
     },
     "Majin Buu": {
       "codename": "MajinBuu",
@@ -460,13 +565,21 @@
       "codename": "Syn",
       "skin_name": {}
     },
+    "Tapion": {
+      "codename": "Tapion",
+      "skin_name": {}
+    },
     "Tien": {
       "codename": "Tien",
       "skin_name": {}
     },
     "Toppo": {
       "codename": "Toppo",
-      "skin_name": {}
+      "skin_name": {
+        "1": {
+          "name": "God of Destruction"
+        }
+      }
     },
     "Trunks (Future)": {
       "codename": "TrunksFuture",
@@ -502,6 +615,10 @@
           "name": "Super Saiyan"
         }
       }
+    },
+    "Turles": {
+      "codename": "Turles",
+      "skin_name": {}
     },
     "Uub (GT)": {
       "codename": "UubGT",

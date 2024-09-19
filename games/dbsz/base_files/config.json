@@ -179,14 +179,6 @@
       "codename": "Dyspo",
       "skin_name": {}
     },
-    "Frieza": {
-      "codename": "FriezaMech",
-      "skin_name": {
-        "0": {
-          "name": "Mecha Frieza"
-        }
-      }
-    },
     "Frieza (Super)": {
       "codename": "FriezaSuper",
       "skin_name": {
@@ -212,6 +204,9 @@
         },
         "4": {
           "name": "Full Power"
+        },
+        "5": {
+          "name": "Mecha Frieza"
         }
       }
     },
@@ -581,30 +576,31 @@
         }
       }
     },
-    "Trunks (Future)": {
+    "Trunks (Future) (Super)": {
       "codename": "TrunksFuture",
       "skin_name": {
         "1": {
           "name": "Super Saiyan"
-        },
-        "2": {
-          "name": "Super Trunks"
         }
       }
     },
-    "Trunks (Future) (Melee)": {
-      "codename": "TrunksFutureMelee",
-      "skin_name": {
-        "1": {
-          "name": "Super Saiyan"
-        }
-      }
-    },
-    "Trunks (Future) (Sword)": {
+    "Trunks (Future) (Z)": {
       "codename": "TrunksFutureSword",
       "skin_name": {
+        "0": {
+          "name": "Sword"
+        },
         "1": {
-          "name": "Super Saiyan"
+          "name": "Sword - Super Saiyan"
+        },
+        "2": {
+          "name": "Melee"
+        },
+        "3": {
+          "name": "Melee - Super Saiyan"
+        },
+        "4": {
+          "name": "Super Trunks"
         }
       }
     },
@@ -623,20 +619,6 @@
     "Uub (GT)": {
       "codename": "UubGT",
       "skin_name": {}
-    },
-    "Vegeta": {
-      "codename": "VegetaSuperVegeta",
-      "skin_name": {
-        "0": {
-          "name": "Super Vegeta"
-        },
-        "1": {
-          "name": "Great Ape"
-        },
-        "2": {
-          "name": "Majin Vegeta"
-        }
-      }
     },
     "Vegeta (GT)": {
       "codename": "VegetaGT-4",
@@ -665,6 +647,9 @@
       "skin_name": {
         "1": {
           "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Super Vegeta"
         }
       }
     },
@@ -676,12 +661,19 @@
         },
         "2": {
           "name": "Super Saiyan 2"
+        },
+        "3": {
+          "name": "Majin Vegeta"
         }
       }
     },
     "Vegeta (Z-Scouter)": {
       "codename": "VegetaZScouter",
-      "skin_name": {}
+      "skin_name": {
+        "1": {
+          "name": "Great Ape"
+        }
+      }
     },
     "Vegito": {
       "codename": "Vegito",

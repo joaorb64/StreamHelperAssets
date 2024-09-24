@@ -138,13 +138,19 @@
         "x": 1493,
         "y": 378
       }
+    },
+    "Terry": {
+      "0": {
+        "x": 973,
+        "y": 422
+      }
     }
   },
   "name": "Kangyaku Artwork",
   "postfix": "_",
-  "prefix": "Kangyaku ",
+  "prefix": "Kangyaku_",
   "type": [
     "kangyaku"
   ],
-  "version": "1.8"
+  "version": "1.9"
 }

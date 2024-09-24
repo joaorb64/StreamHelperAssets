@@ -108,10 +108,7 @@
       "codename": "Ghostface"
     },
     "Conan the Barbarian": {
-      "codename": "Conan"
-    },
-    "T-1000": {
-      "codename": "T-1000",
+      "codename": "Conan",
       "locale": {
         "fr": "Conan le Barbare",
         "it": "Conan il barbaro",
@@ -119,6 +116,9 @@
         "es_LA": "Conan el Bárbaro",
         "pt": "Conan, o bárbaro"
       }
+    },
+    "T-1000": {
+      "codename": "T-1000"
     }
   },
   "credits": "Ripped from https://www.mortalkombat.com/en-gb/roster",
@@ -126,5 +126,5 @@
   "name": "Mortal Kombat 1",
   "smashgg_game_id": 48599,
   "stage_to_codename": {},
-  "version": "2.0"
+  "version": "2.01"
 }

@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://www.mortalkombatwarehouse.com/mk12/characters",
-  "version": "1.6",
+  "version": "2.0",
   "eyesights": {
     "Ashrah": {
       "0": {
@@ -181,6 +181,24 @@
       "0": {
         "x": 502,
         "y": 175
+      }
+    },
+    "Cyrax": {
+      "0": {
+        "x": 236,
+        "y": 160
+      }
+    },
+    "Noob": {
+      "0": {
+        "x": 260,
+        "y": 153
+      }
+    },
+    "Sektor": {
+      "0": {
+        "x": 268,
+        "y": 133
       }
     }
   }

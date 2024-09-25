@@ -8,6 +8,7 @@ import urllib.parse
 import os
 from PIL import Image
 import io
+from multiprocessing.pool import Pool
 
 sys.setrecursionlimit(100)
 
@@ -35,24 +36,27 @@ def robust_request(link, timeout=30):
             return robust_request(link)
     return response
 
-create_folder_structure()
-with open("mk1_links.json", "rt", encoding="utf-8") as mk1_links_file:
-    mk1_links = json.loads(mk1_links_file.read())
-
-for character in mk1_links.keys():
-    print(character)
+def save_character_costumes(character):
     character_page = robust_request(mk1_links[character], timeout=30)
     character_content = character_page.text
     character_soup = BS(character_content, features="html.parser")
     skin_table = character_soup.findAll("div", {"id": "skins"})
     skin_body = skin_table[0].findAll("div", {"class": "body"})
     skin_img = skin_body[0].findAll("img")
-    print(len(skin_img))
-    for skin_index in range(len(skin_img)):
+    print(character, len(skin_img))
+    skin_index = 0
+    for index in range(len(skin_img)):
         filename = f"{costumes}/file_{character}_{str(skin_index).zfill(4)}.png"
-        img_link = f'https://www.mortalkombatwarehouse.com{skin_img[skin_index]["src"]}'
-        img_request = robust_request(img_link)
-        # with open(filename, "wb") as f:
-        image_data = Image.open(io.BytesIO(img_request.content))
-        image_data.save(filename, optimize=True)
-            # f.write(img_request.content)
+        img_link = f'https://www.mortalkombatwarehouse.com{skin_img[index]["src"]}'
+        if "KAM" not in img_link:
+            img_request = robust_request(img_link)
+            image_data = Image.open(io.BytesIO(img_request.content))
+            image_data.save(filename, optimize=True)
+            skin_index += 1
+
+create_folder_structure()
+with open("mk1_links.json", "rt", encoding="utf-8") as mk1_links_file:
+    mk1_links = json.loads(mk1_links_file.read())
+
+with Pool() as pool:
+    pool.map(save_character_costumes, mk1_links.keys())

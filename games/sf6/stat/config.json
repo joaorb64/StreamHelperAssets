@@ -138,6 +138,12 @@
         "x": 192,
         "y": 141
       }
+    },
+    "Terry": {
+      "0": {
+        "x": 186,
+        "y": 155
+      }
     }
   },
   "name": "Stat assets",
@@ -146,7 +152,7 @@
   "type": [
     "stat"
   ],
-  "version": "1.8",
+  "version": "1.9",
   "uncropped_edge": [
     "u",
     "d",

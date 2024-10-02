@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "ngnt4"
+game_codename = "tekken5dr"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

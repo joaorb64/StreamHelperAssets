@@ -1,5 +1,5 @@
 {
-    "credits": "Official renders from Bandai Namco",
+    "credits": "Official renders from Bandai Namco\nHeihachi render edited by Mathias Wolfbrok to add the left foot back",
     "description": "Official renders",
     "eyesights": {
         "ali": {
@@ -205,6 +205,12 @@
                 "x": 865,
                 "y": 176
             }
+        },
+        "hei": {
+            "0": {
+                "x": 832,
+                "y": 189
+            }
         }
     },
     "name": "Renders",
@@ -219,7 +225,7 @@
         "l",
         "r"
     ],
-    "version": "1.3",
+    "version": "1.4",
     "rescaling_factor": {
         "nsd": {
             "0": 0.69562682215743440233236151603499

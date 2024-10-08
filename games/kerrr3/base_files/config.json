@@ -1,0 +1,59 @@
+{
+  "name": "Koihime Enbu RyoRaiRai Version 3",
+  "smashgg_game_id": 22404,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bachō Mōki": {
+      "codename": "Bacho"
+    },
+    "Chō'un Shiryū": {
+      "codename": "Choun"
+    },
+    "Chōhi Yokutoku": {
+      "codename": "Chochi"
+    },
+    "Chōryō Bun'en": {
+      "codename": "Choryo"
+    },
+    "Gakushin Bunken": {
+      "codename": "Gakushin"
+    },
+    "Jokō Kōmei": {
+      "codename": "Joko"
+    },
+    "Kakōton Genjō": {
+      "codename": "Kakoton"
+    },
+    "Kakōen Myōsai": {
+      "codename": "Kakoen"
+    },
+    "Kan'u Unchō": {
+      "codename": "Kanu"
+    },
+    "Kannei Kōha": {
+      "codename": "Kannei"
+    },
+    "Sonken Kōyū": {
+      "codename": "Kouyū"
+    },
+    "Ryofu Hōsen": {
+      "codename": "Ryofu"
+    },
+    "Shūtai Yōhei": {
+      "codename": "Shutai"
+    },
+    "Sonken Chūbō": {
+      "codename": "Sonken"
+    },
+    "Sonshōkō": {
+      "codename": "Sonshoko"
+    },
+    "Sōsō Mōtoku": {
+      "codename": "Soso"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Koihime_Enbu/RyoRaiRai_V3)"
+}

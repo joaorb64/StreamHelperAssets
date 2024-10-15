@@ -1,0 +1,11 @@
+{
+  "name": "Profiles",
+  "description": "Character profile pictures",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "profile"
+  ],
+  "credits": "",
+  "version": "1.0"
+}

@@ -721,6 +721,14 @@
           "name": "Super Zarbon"
         }
       }
+    },
+    "Vegeta (Daima-Mini)": {
+      "codename": "VegetaMini",
+      "skin_name": {}
+    },
+    "Glorio": {
+      "codename": "Glorio",
+      "skin_name": {}
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/",
@@ -728,5 +736,5 @@
   "name": "Dragon Ball: Sparking! Zero",
   "smashgg_game_id": 73208,
   "stage_to_codename": {},
-  "version": "1.6"
+  "version": "1.61"
 }

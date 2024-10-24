@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
-  "version": "1.5",
+  "version": "1.6",
   "uncropped_edge": [
     "l",
     "r"
@@ -229,6 +229,12 @@
       "0": {
         "x": 1120,
         "y": 785
+      }
+    },
+    "Vikala": {
+      "0": {
+        "x": 1349,
+        "y": 745
       }
     }
   },

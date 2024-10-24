@@ -1,0 +1,59 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Alexander": {
+      "codename": "Alexander"
+    },
+    "Erlik": {
+      "codename": "Erlik"
+    },
+    "Graffi": {
+      "codename": "Graffi"
+    },
+    "Hana": {
+      "codename": "Hana"
+    },
+    "Jake": {
+      "codename": "Jake"
+    },
+    "Lei Long": {
+      "codename": "LeiLong"
+    },
+    "MJ": {
+      "codename": "MJ"
+    },
+    "Magnus": {
+      "codename": "Magnus"
+    },
+    "Mateo": {
+      "codename": "Mateo"
+    },
+    "Mochizuki": {
+      "codename": "Mochizuki"
+    },
+    "Nagi": {
+      "codename": "Nagi"
+    },
+    "Oro": {
+      "codename": "Oro"
+    },
+    "Pink Samurai": {
+      "codename": "PinkSamurai"
+    },
+    "Ryohei": {
+      "codename": "Ryohei"
+    },
+    "Shinsuke": {
+      "codename": "Shinsuke"
+    },
+    "Zero": {
+      "codename": "Zero"
+    }
+  },
+  "credits": "Ripped from https://www.aksysgames.com/blazingstrike/characters/",
+  "description": "Base config to use this game.",
+  "name": "Blazing Strike",
+  "smashgg_game_id": 46364,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

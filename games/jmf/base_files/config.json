@@ -1,0 +1,231 @@
+{
+  "name": "Joy Mech Fight",
+  "locale": {
+    "ja": {
+      "name": "\u30b8\u30e7\u30a4\u30e1\u30ab\u30d5\u30a1\u30a4\u30c8"
+    }
+  },
+  "smashgg_game_id": 31109,
+  "challonge_game_id": 142881,
+  "character_to_codename": {
+    "Flame": {
+      "codename": "flame",
+      "locale": {
+        "ja": "\u30db\u30ce\u30aa"
+      }
+    },
+    "Tiger": {
+      "codename": "tiger",
+      "locale": {
+        "ja": "\u30bf\u30a4\u30ac\u30fc"
+      }
+    },
+    "Neo": {
+      "codename": "neo",
+      "locale": {
+        "ja": "\u30cd\u30aa"
+      }
+    },
+    "Senju": {
+      "codename": "senju",
+      "locale": {
+        "ja": "\u30bb\u30f3\u30b8\u30e5"
+      }
+    },
+    "Sasuke": {
+      "codename": "sasuke",
+      "locale": {
+        "ja": "\u30b5\u30b9\u30b1"
+      }
+    },
+    "Eye": {
+      "codename": "eye",
+      "locale": {
+        "ja": "\u30a2\u30a4"
+      }
+    },
+    "Giant": {
+      "codename": "giant",
+      "locale": {
+        "ja": "\u30b8\u30e3\u30a4\u30a2\u30f3\u30c8"
+      }
+    },
+    "Sukapon": {
+      "codename": "sukapon",
+      "locale": {
+        "ja": "\u30b9\u30ab\u30dd\u30f3"
+      }
+    },
+    "Zak": {
+      "codename": "zak",
+      "locale": {
+        "ja": "\u30b6\u30b3"
+      }
+    },
+    "Bokbok": {
+      "codename": "bokbok",
+      "locale": {
+        "ja": "\u30dc\u30b3\u30dc\u30b3"
+      }
+    },
+    "Geo": {
+      "codename": "geo",
+      "locale": {
+        "ja": "\u30b8\u30aa"
+      }
+    },
+    "Grak": {
+      "codename": "grak",
+      "locale": {
+        "ja": "\u30ac\u30e9\u30c3\u30af"
+      }
+    },
+    "Old": {
+      "codename": "old",
+      "locale": {
+        "ja": "\u30aa\u30fc\u30eb\u30c9"
+      }
+    },
+    "Jibber": {
+      "codename": "jibber",
+      "locale": {
+        "ja": "\u30b8\u30dc\u30eb"
+      }
+    },
+    "Gel": {
+      "codename": "gel",
+      "locale": {
+        "ja": "\u30b8\u30a7\u30eb"
+      }
+    },
+    "Skater": {
+      "codename": "skater",
+      "locale": {
+        "ja": "\u30b9\u30b1\u30fc\u30bf\u30fc"
+      }
+    },
+    "Legend": {
+      "codename": "legend",
+      "locale": {
+        "ja": "\u30ec\u30b8\u30a7\u30f3\u30c9"
+      }
+    },
+    "Hover": {
+      "codename": "hover",
+      "locale": {
+        "ja": "\u30db\u30d0\u30fc"
+      }
+    },
+    "Shenlong": {
+      "codename": "shenlong",
+      "locale": {
+        "ja": "\u30b7\u30a7\u30f3\u30ed\u30f3"
+      }
+    },
+    "Star": {
+      "codename": "star",
+      "locale": {
+        "ja": "\u30b9\u30bf\u30fc"
+      }
+    },
+    "Ghoston": {
+      "codename": "ghoston",
+      "locale": {
+        "ja": "\u30b4\u30fc\u30b9\u30c8\u30f3"
+      }
+    },
+    "Giganto": {
+      "codename": "giganto",
+      "locale": {
+        "ja": "\u30ae\u30ac\u30f3\u30c8"
+      }
+    },
+    "John": {
+      "codename": "john",
+      "locale": {
+        "ja": "\u30b8\u30aa\u30fc\u30f3"
+      }
+    },
+    "Superzak": {
+      "codename": "superzak",
+      "locale": {
+        "ja": "\u30b9\u30fc\u30d1\u30fc\u30b6\u30b3"
+      }
+    },
+    "Blaze": {
+      "codename": "blaze",
+      "locale": {
+        "ja": "\u30ab\u30a8\u30f3"
+      }
+    },
+    "Leo": {
+      "codename": "leo",
+      "locale": {
+        "ja": "\u30ec\u30aa"
+      }
+    },
+    "Nay": {
+      "codename": "nay",
+      "locale": {
+        "ja": "\u30cd\u30a4"
+      }
+    },
+    "Ashura": {
+      "codename": "ashura",
+      "locale": {
+        "ja": "\u30a2\u30b7\u30e5\u30e9"
+      }
+    },
+    "Hanzor": {
+      "codename": "hanzor",
+      "locale": {
+        "ja": "\u30cf\u30f3\u30be\u30fc"
+      }
+    },
+    "Wai": {
+      "codename": "wai",
+      "locale": {
+        "ja": "\u30ef\u30a4"
+      }
+    },
+    "Gaean": {
+      "codename": "gaean",
+      "locale": {
+        "ja": "\u30ac\u30a4\u30a2\u30f3"
+      }
+    },
+    "Skapokon": {
+      "codename": "skapokon",
+      "locale": {
+        "ja": "\u30b9\u30ab\u30dd\u30ab\u30fc\u30f3"
+      }
+    },
+    "Dachon": {
+      "codename": "dachon",
+      "locale": {
+        "ja": "\u30c0\u30c1\u30e7\u30fc\u30f3"
+      }
+    },
+    "Ra": {
+      "codename": "ra",
+      "locale": {
+        "ja": "\u30e9\u30fc"
+      }
+    },
+    "Garborg": {
+      "codename": "garborg",
+      "locale": {
+        "ja": "\u30ac\u30fc\u30dc\u30fc\u30b0"
+      }
+    },
+    "Houou": {
+      "codename": "houou",
+      "locale": {
+        "ja": "\u30db\u30a6\u30aa\u30a6"
+      }
+    }
+  },
+  "stage_to_codename": {},
+  "version": "1.0",
+  "description": "Base config to use this game."
+}

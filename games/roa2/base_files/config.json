@@ -2,44 +2,55 @@
   "challonge_game_id": 359436,
   "character_to_codename": {
     "Kragg": {
-      "codename": "Kragg"
+      "codename": "Kragg",
+      "smashgg_name": "Kragg"
     },
     "Ranno": {
-      "codename": "Ranno"
+      "codename": "Ranno",
+      "smashgg_name": "Ranno"
     },
     "Wrastor": {
-      "codename": "Wrastor"
+      "codename": "Wrastor",
+      "smashgg_name": "Wrastor"
     },
     "Zetterburn": {
-      "codename": "Zetterburn"
+      "codename": "Zetterburn",
+      "smashgg_name": "Zetterburn"
     },
     "Fleet": {
-      "codename": "Fleet"
+      "codename": "Fleet",
+      "smashgg_name": "Fleet"
     },
     "Maypul": {
-      "codename": "Maypul"
+      "codename": "Maypul",
+      "smashgg_name": "Maypul"
     },
     "Clairen": {
-      "codename": "Clairen"
+      "codename": "Clairen",
+      "smashgg_name": "Clairen"
     },
     "Loxodont": {
-      "codename": "Loxodont"
+      "codename": "Loxodont",
+      "smashgg_name": "Loxodont"
     },
     "La Reina": {
-      "codename": "Reina"
+      "codename": "Reina",
+      "smashgg_name": "La Reina"
     },
     "Orcane":{
-      "codename": "Orcane"
+      "codename": "Orcane",
+      "smashgg_name": "Orcane"
     },
     "Forsburn":{
-      "codename": "Forsburn"
+      "codename": "Forsburn",
+      "smashgg_name": "Forsburn"
     }
   },
   "credits": "Icons ripped from ",
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "1.02",
+  "version": "1.03",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest"

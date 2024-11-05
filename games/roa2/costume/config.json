@@ -1,5 +1,5 @@
 {
-  "credits": "Extracted from https://github.com/Ateozc/RoA-Stream-Tool/tree/master/Stream%20Tool/Resources/Games/Rivals%202",
+  "credits": "Extracted from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
   "description": "Renders for every in-game costume",
   "eyesights": {
     "Clairen": {
@@ -65,7 +65,7 @@
   },
   "name": "Costumes",
   "postfix": "-",
-  "prefix": "",
+  "prefix": "file_",
   "type": [
     "costume"
   ],
@@ -75,5 +75,5 @@
     "l",
     "r"
   ],
-  "version": "1.03"
+  "version": "1.04"
 }

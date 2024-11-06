@@ -49,6 +49,17 @@ jobs:
           git commit -m "Optimize images"
           git push origin main
 
+      # Calculate average sizes
+      - name: Calculate average sizes
+        run: |
+          pip install pillow
+          python scripts/calc_avg.py
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
+          git add .
+          git commit -m "Add averages"
+          git push origin main
+
       # Run assets build logic
       - name: execute py script
         run: |

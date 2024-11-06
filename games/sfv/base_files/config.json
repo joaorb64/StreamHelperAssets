@@ -88,7 +88,7 @@
       "codename": "ibuki"
     },
     "Juri": {
-      "smashgg_name": "Juri Han",
+      "smashgg_name": "Juri",
       "codename": "juri"
     },
     "Kage": {
@@ -100,7 +100,7 @@
       "codename": "karin"
     },
     "Ken": {
-      "smashgg_name": "Ken Masters",
+      "smashgg_name": "Ken",
       "codename": "ken"
     },
     "Kolin": {
@@ -184,7 +184,6 @@
       "codename": "zeku"
     },
     "Random": {
-      "smashgg_name": "Random Character",
       "codename": "random",
       "locale": {
         "fr": "Al\u00e9atoire"
@@ -192,7 +191,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "0.96",
+  "version": "0.97",
   "description": "Base config to use this game.",
   "locale": {
     "ja": {

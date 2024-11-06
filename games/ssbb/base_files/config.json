@@ -544,7 +544,7 @@
       }
     },
     "Pok\u00e9mon Trainer": {
-      "smashgg_name": "Pokemon Trainer",
+      "smashgg_name": "Pokémon Trainer",
       "codename": "pokemon_trainer",
       "locale": {
         "fr": "Dresseur de Pok\u00e9mon",
@@ -744,7 +744,7 @@
       }
     },
     "Random": {
-      "smashgg_name": "Random Character",
+      "smashgg_name": "Random",
       "codename": "random",
       "locale": {
         "fr": "Al\u00e9atoire"
@@ -873,6 +873,6 @@
       "codename": "onett"
     }
   },
-  "version": "1.02",
+  "version": "1.03",
   "description": "Base config to use this game."
 }

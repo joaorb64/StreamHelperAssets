@@ -1,11 +1,15 @@
 {
-  "name": "Stage Icons",
-  "version": "0.93",
-  "description": "Stage icons",
-  "credits": "@davidvkimball for the screenshots\n@MathiasWolfbrok for cropping",
-  "prefix": "",
-  "postfix": "",
-  "type": [
-    "stage_icon"
-  ]
+    "name": "Stage Icons",
+    "version": "0.93",
+    "description": "Stage icons",
+    "credits": "@davidvkimball for the screenshots\n@MathiasWolfbrok for cropping",
+    "prefix": "",
+    "postfix": "",
+    "type": [
+        "stage_icon"
+    ],
+    "average_size": {
+        "x": 1273,
+        "y": 717
+    }
 }

@@ -1,301 +1,305 @@
 {
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "name": "Artwork",
-  "description": "Character Artwork",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Files ripped from The King of Fighters portal (https://www.snk-corp.co.jp/us/games/kof-portal/characters/#kofxi)\nArtwork for console characters and EX Kyo sourced from Neo Geo Battle Colisseum",
-  "version": "1.03",
-  "eyesights": {
-    "Adelheid": {
-      "0": {
-        "x": 345,
-        "y": 172
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "name": "Artwork",
+    "description": "Character Artwork",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Files ripped from The King of Fighters portal (https://www.snk-corp.co.jp/us/games/kof-portal/characters/#kofxi)\nArtwork for console characters and EX Kyo sourced from Neo Geo Battle Colisseum",
+    "version": "1.03",
+    "eyesights": {
+        "Adelheid": {
+            "0": {
+                "x": 345,
+                "y": 172
+            }
+        },
+        "AshCrimson": {
+            "0": {
+                "x": 371,
+                "y": 170
+            }
+        },
+        "AthenaAsamiya": {
+            "0": {
+                "x": 447,
+                "y": 164
+            }
+        },
+        "BJenet": {
+            "0": {
+                "x": 442,
+                "y": 146
+            }
+        },
+        "BenimaruNikaido": {
+            "0": {
+                "x": 428,
+                "y": 140
+            }
+        },
+        "BlueMary": {
+            "0": {
+                "x": 469,
+                "y": 152
+            }
+        },
+        "Clark": {
+            "0": {
+                "x": 460,
+                "y": 132
+            }
+        },
+        "DuckKing": {
+            "0": {
+                "x": 514,
+                "y": 155
+            }
+        },
+        "DuoLon": {
+            "0": {
+                "x": 425,
+                "y": 134
+            }
+        },
+        "EXKyo": {
+            "0": {
+                "x": 432,
+                "y": 108
+            }
+        },
+        "Eiji": {
+            "0": {
+                "x": 491,
+                "y": 219
+            }
+        },
+        "Elisabeth": {
+            "0": {
+                "x": 439,
+                "y": 151
+            }
+        },
+        "GaiTendo": {
+            "0": {
+                "x": 441,
+                "y": 155
+            }
+        },
+        "Gato": {
+            "0": {
+                "x": 460,
+                "y": 145
+            }
+        },
+        "Geese": {
+            "0": {
+                "x": 392,
+                "y": 76
+            }
+        },
+        "Griffon": {
+            "0": {
+                "x": 382,
+                "y": 96
+            }
+        },
+        "Hayate": {
+            "0": {
+                "x": 432,
+                "y": 163
+            }
+        },
+        "Hotaru": {
+            "0": {
+                "x": 388,
+                "y": 204
+            }
+        },
+        "IoriYagami": {
+            "0": {
+                "x": 459,
+                "y": 143
+            }
+        },
+        "Jyazu": {
+            "0": {
+                "x": 568,
+                "y": 247
+            }
+        },
+        "K": {
+            "0": {
+                "x": 406,
+                "y": 135
+            }
+        },
+        "KasumiTodo": {
+            "0": {
+                "x": 431,
+                "y": 171
+            }
+        },
+        "KimKaphwan": {
+            "0": {
+                "x": 459,
+                "y": 141
+            }
+        },
+        "King": {
+            "0": {
+                "x": 446,
+                "y": 151
+            }
+        },
+        "KulaDiamond": {
+            "0": {
+                "x": 458,
+                "y": 164
+            }
+        },
+        "KyoKusanagi": {
+            "0": {
+                "x": 411,
+                "y": 148
+            }
+        },
+        "Magaki": {
+            "0": {
+                "x": 315,
+                "y": 104
+            }
+        },
+        "MaiShiranui": {
+            "0": {
+                "x": 200,
+                "y": 171
+            }
+        },
+        "Malin": {
+            "0": {
+                "x": 416,
+                "y": 250
+            }
+        },
+        "Maxima": {
+            "0": {
+                "x": 451,
+                "y": 147
+            }
+        },
+        "Momoko": {
+            "0": {
+                "x": 412,
+                "y": 177
+            }
+        },
+        "MrBig": {
+            "0": {
+                "x": 386,
+                "y": 64
+            }
+        },
+        "Oswald": {
+            "0": {
+                "x": 412,
+                "y": 139
+            }
+        },
+        "Ralf": {
+            "0": {
+                "x": 422,
+                "y": 138
+            }
+        },
+        "Ramon": {
+            "0": {
+                "x": 399,
+                "y": 157
+            }
+        },
+        "RobertGarcia": {
+            "0": {
+                "x": 439,
+                "y": 88
+            }
+        },
+        "RyoSakazaki": {
+            "0": {
+                "x": 426,
+                "y": 143
+            }
+        },
+        "ShenWoo": {
+            "0": {
+                "x": 468,
+                "y": 140
+            }
+        },
+        "ShingoYabuki": {
+            "0": {
+                "x": 317,
+                "y": 261
+            }
+        },
+        "Shion": {
+            "0": {
+                "x": 424,
+                "y": 170
+            }
+        },
+        "SieKensou": {
+            "0": {
+                "x": 487,
+                "y": 179
+            }
+        },
+        "Silber": {
+            "0": {
+                "x": 422,
+                "y": 171
+            }
+        },
+        "TerryBogard": {
+            "0": {
+                "x": 396,
+                "y": 136
+            }
+        },
+        "TungFuRue": {
+            "0": {
+                "x": 372,
+                "y": 131
+            }
+        },
+        "Vanessa": {
+            "0": {
+                "x": 440,
+                "y": 154
+            }
+        },
+        "Whip": {
+            "0": {
+                "x": 395,
+                "y": 162
+            }
+        },
+        "YuriSakazaki": {
+            "0": {
+                "x": 385,
+                "y": 156
+            }
+        }
     },
-    "AshCrimson": {
-      "0": {
-        "x": 371,
-        "y": 170
-      }
-    },
-    "AthenaAsamiya": {
-      "0": {
-        "x": 447,
-        "y": 164
-      }
-    },
-    "BJenet": {
-      "0": {
-        "x": 442,
-        "y": 146
-      }
-    },
-    "BenimaruNikaido": {
-      "0": {
-        "x": 428,
-        "y": 140
-      }
-    },
-    "BlueMary": {
-      "0": {
-        "x": 469,
-        "y": 152
-      }
-    },
-    "Clark": {
-      "0": {
-        "x": 460,
-        "y": 132
-      }
-    },
-    "DuckKing": {
-      "0": {
-        "x": 514,
-        "y": 155
-      }
-    },
-    "DuoLon": {
-      "0": {
-        "x": 425,
-        "y": 134
-      }
-    },
-    "EXKyo": {
-      "0": {
-        "x": 432,
-        "y": 108
-      }
-    },
-    "Eiji": {
-      "0": {
-        "x": 491,
-        "y": 219
-      }
-    },
-    "Elisabeth": {
-      "0": {
-        "x": 439,
-        "y": 151
-      }
-    },
-    "GaiTendo": {
-      "0": {
-        "x": 441,
-        "y": 155
-      }
-    },
-    "Gato": {
-      "0": {
-        "x": 460,
-        "y": 145
-      }
-    },
-    "Geese": {
-      "0": {
-        "x": 392,
-        "y": 76
-      }
-    },
-    "Griffon": {
-      "0": {
-        "x": 382,
-        "y": 96
-      }
-    },
-    "Hayate": {
-      "0": {
-        "x": 432,
-        "y": 163
-      }
-    },
-    "Hotaru": {
-      "0": {
-        "x": 388,
-        "y": 204
-      }
-    },
-    "IoriYagami": {
-      "0": {
-        "x": 459,
-        "y": 143
-      }
-    },
-    "Jyazu": {
-      "0": {
-        "x": 568,
-        "y": 247
-      }
-    },
-    "K": {
-      "0": {
-        "x": 406,
-        "y": 135
-      }
-    },
-    "KasumiTodo": {
-      "0": {
-        "x": 431,
-        "y": 171
-      }
-    },
-    "KimKaphwan": {
-      "0": {
-        "x": 459,
-        "y": 141
-      }
-    },
-    "King": {
-      "0": {
-        "x": 446,
-        "y": 151
-      }
-    },
-    "KulaDiamond": {
-      "0": {
-        "x": 458,
-        "y": 164
-      }
-    },
-    "KyoKusanagi": {
-      "0": {
-        "x": 411,
-        "y": 148
-      }
-    },
-    "Magaki": {
-      "0": {
-        "x": 315,
-        "y": 104
-      }
-    },
-    "MaiShiranui": {
-      "0": {
-        "x": 200,
-        "y": 171
-      }
-    },
-    "Malin": {
-      "0": {
-        "x": 416,
-        "y": 250
-      }
-    },
-    "Maxima": {
-      "0": {
-        "x": 451,
-        "y": 147
-      }
-    },
-    "Momoko": {
-      "0": {
-        "x": 412,
-        "y": 177
-      }
-    },
-    "MrBig": {
-      "0": {
-        "x": 386,
-        "y": 64
-      }
-    },
-    "Oswald": {
-      "0": {
-        "x": 412,
-        "y": 139
-      }
-    },
-    "Ralf": {
-      "0": {
-        "x": 422,
-        "y": 138
-      }
-    },
-    "Ramon": {
-      "0": {
-        "x": 399,
-        "y": 157
-      }
-    },
-    "RobertGarcia": {
-      "0": {
-        "x": 439,
-        "y": 88
-      }
-    },
-    "RyoSakazaki": {
-      "0": {
-        "x": 426,
-        "y": 143
-      }
-    },
-    "ShenWoo": {
-      "0": {
-        "x": 468,
-        "y": 140
-      }
-    },
-    "ShingoYabuki": {
-      "0": {
-        "x": 317,
-        "y": 261
-      }
-    },
-    "Shion": {
-      "0": {
-        "x": 424,
-        "y": 170
-      }
-    },
-    "SieKensou": {
-      "0": {
-        "x": 487,
-        "y": 179
-      }
-    },
-    "Silber": {
-      "0": {
-        "x": 422,
-        "y": 171
-      }
-    },
-    "TerryBogard": {
-      "0": {
-        "x": 396,
-        "y": 136
-      }
-    },
-    "TungFuRue": {
-      "0": {
-        "x": 372,
-        "y": 131
-      }
-    },
-    "Vanessa": {
-      "0": {
-        "x": 440,
-        "y": 154
-      }
-    },
-    "Whip": {
-      "0": {
-        "x": 395,
-        "y": 162
-      }
-    },
-    "YuriSakazaki": {
-      "0": {
-        "x": 385,
-        "y": 156
-      }
+    "average_size": {
+        "x": 878,
+        "y": 1009
     }
-  }
 }

@@ -1,11 +1,15 @@
 {
-  "name": "Stages",
-  "description": "Stage icons",
-  "prefix": "",
-  "postfix": "",
-  "type": [
-    "stage_icon"
-  ],
-  "credits": "Assets provided by BiancaRacc",
-  "version": "2.0"
+    "name": "Stages",
+    "description": "Stage icons",
+    "prefix": "",
+    "postfix": "",
+    "type": [
+        "stage_icon"
+    ],
+    "credits": "Assets provided by BiancaRacc",
+    "version": "2.0",
+    "average_size": {
+        "x": 748,
+        "y": 373
+    }
 }

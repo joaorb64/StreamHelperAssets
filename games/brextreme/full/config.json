@@ -1,115 +1,119 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Bloody_Roar_Extreme)",
-  "version": "1.0",
-  "eyesights": {
-    "Alice": {
-      "0": {
-        "x": 458,
-        "y": 99
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Bloody_Roar_Extreme)",
+    "version": "1.0",
+    "eyesights": {
+        "Alice": {
+            "0": {
+                "x": 458,
+                "y": 99
+            }
+        },
+        "Bakuryu": {
+            "0": {
+                "x": 486,
+                "y": 177
+            }
+        },
+        "Busuzima": {
+            "0": {
+                "x": 477,
+                "y": 132
+            }
+        },
+        "Cronos": {
+            "0": {
+                "x": 446,
+                "y": 136
+            }
+        },
+        "Fang": {
+            "0": {
+                "x": 491,
+                "y": 164
+            }
+        },
+        "Gado": {
+            "0": {
+                "x": 532,
+                "y": 134
+            }
+        },
+        "Ganesha": {
+            "0": {
+                "x": 484,
+                "y": 90
+            }
+        },
+        "Jenny": {
+            "0": {
+                "x": 496,
+                "y": 168
+            }
+        },
+        "Kohryu": {
+            "0": {
+                "x": 489,
+                "y": 117
+            }
+        },
+        "Long": {
+            "0": {
+                "x": 564,
+                "y": 154
+            }
+        },
+        "Shenlong": {
+            "0": {
+                "x": 467,
+                "y": 171
+            }
+        },
+        "Shina": {
+            "0": {
+                "x": 591,
+                "y": 157
+            }
+        },
+        "Stun": {
+            "0": {
+                "x": 541,
+                "y": 178
+            }
+        },
+        "Uranus": {
+            "0": {
+                "x": 433,
+                "y": 121
+            }
+        },
+        "Uriko": {
+            "0": {
+                "x": 594,
+                "y": 87
+            }
+        },
+        "Xion": {
+            "0": {
+                "x": 449,
+                "y": 95
+            }
+        },
+        "Yugo": {
+            "0": {
+                "x": 492,
+                "y": 158
+            }
+        }
     },
-    "Bakuryu": {
-      "0": {
-        "x": 486,
-        "y": 177
-      }
-    },
-    "Busuzima": {
-      "0": {
-        "x": 477,
-        "y": 132
-      }
-    },
-    "Cronos": {
-      "0": {
-        "x": 446,
-        "y": 136
-      }
-    },
-    "Fang": {
-      "0": {
-        "x": 491,
-        "y": 164
-      }
-    },
-    "Gado": {
-      "0": {
-        "x": 532,
-        "y": 134
-      }
-    },
-    "Ganesha": {
-      "0": {
-        "x": 484,
-        "y": 90
-      }
-    },
-    "Jenny": {
-      "0": {
-        "x": 496,
-        "y": 168
-      }
-    },
-    "Kohryu": {
-      "0": {
-        "x": 489,
-        "y": 117
-      }
-    },
-    "Long": {
-      "0": {
-        "x": 564,
-        "y": 154
-      }
-    },
-    "Shenlong": {
-      "0": {
-        "x": 467,
-        "y": 171
-      }
-    },
-    "Shina": {
-      "0": {
-        "x": 591,
-        "y": 157
-      }
-    },
-    "Stun": {
-      "0": {
-        "x": 541,
-        "y": 178
-      }
-    },
-    "Uranus": {
-      "0": {
-        "x": 433,
-        "y": 121
-      }
-    },
-    "Uriko": {
-      "0": {
-        "x": 594,
-        "y": 87
-      }
-    },
-    "Xion": {
-      "0": {
-        "x": 449,
-        "y": 95
-      }
-    },
-    "Yugo": {
-      "0": {
-        "x": 492,
-        "y": 158
-      }
+    "average_size": {
+        "x": 959,
+        "y": 498
     }
-  }
 }

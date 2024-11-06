@@ -1,73 +1,77 @@
 {
-  "name": "Win Screens",
-  "description": "Character Win Screens",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.02",
-  "eyesights": {
-    "AlsionIII": {
-      "0": {
-        "x": 470,
-        "y": 288
-      }
+    "name": "Win Screens",
+    "description": "Character Win Screens",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "@MathiasWolfbrok for cropping",
+    "version": "1.02",
+    "eyesights": {
+        "AlsionIII": {
+            "0": {
+                "x": 470,
+                "y": 288
+            }
+        },
+        "BaiHu": {
+            "0": {
+                "x": 475,
+                "y": 190
+            }
+        },
+        "Condor": {
+            "0": {
+                "x": 478,
+                "y": 223
+            }
+        },
+        "DaoLong": {
+            "0": {
+                "x": 478,
+                "y": 240
+            }
+        },
+        "Maheri": {
+            "0": {
+                "x": 273,
+                "y": 154
+            }
+        },
+        "Pielle": {
+            "0": {
+                "x": 475,
+                "y": 295
+            }
+        },
+        "Rila": {
+            "0": {
+                "x": 316,
+                "y": 342
+            }
+        },
+        "Saizo": {
+            "0": {
+                "x": 463,
+                "y": 337
+            }
+        },
+        "Sho": {
+            "0": {
+                "x": 511,
+                "y": 169
+            }
+        },
+        "Tia": {
+            "0": {
+                "x": 358,
+                "y": 220
+            }
+        }
     },
-    "BaiHu": {
-      "0": {
-        "x": 475,
-        "y": 190
-      }
-    },
-    "Condor": {
-      "0": {
-        "x": 478,
-        "y": 223
-      }
-    },
-    "DaoLong": {
-      "0": {
-        "x": 478,
-        "y": 240
-      }
-    },
-    "Maheri": {
-      "0": {
-        "x": 273,
-        "y": 154
-      }
-    },
-    "Pielle": {
-      "0": {
-        "x": 475,
-        "y": 295
-      }
-    },
-    "Rila": {
-      "0": {
-        "x": 316,
-        "y": 342
-      }
-    },
-    "Saizo": {
-      "0": {
-        "x": 463,
-        "y": 337
-      }
-    },
-    "Sho": {
-      "0": {
-        "x": 511,
-        "y": 169
-      }
-    },
-    "Tia": {
-      "0": {
-        "x": 358,
-        "y": 220
-      }
+    "average_size": {
+        "x": 960,
+        "y": 1080
     }
-  }
 }

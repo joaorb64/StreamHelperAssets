@@ -1,139 +1,143 @@
 {
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0",
-  "rescaling_factor": {
-    "DaigoKazama": {
-      "0": 1.5
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "rescaling_factor": {
+        "DaigoKazama": {
+            "0": 1.5
+        },
+        "HayatoNekketsu": {
+            "0": 2.0
+        },
+        "BomanDelgado": {
+            "0": 1.2
+        }
     },
-    "HayatoNekketsu": {
-      "0": 2.0
+    "eyesights": {
+        "AkiraKazama": {
+            "0": {
+                "x": 343,
+                "y": 217
+            },
+            "1": {
+                "x": 287,
+                "y": 212
+            }
+        },
+        "BatsuIchimonji": {
+            "0": {
+                "x": 310,
+                "y": 277
+            }
+        },
+        "BomanDelgado": {
+            "0": {
+                "x": 351,
+                "y": 184
+            }
+        },
+        "DaigoKazama": {
+            "0": {
+                "x": 234,
+                "y": 133
+            }
+        },
+        "EijiEdgeYamada": {
+            "0": {
+                "x": 272,
+                "y": 294
+            }
+        },
+        "GanIsurugi": {
+            "0": {
+                "x": 315,
+                "y": 160
+            }
+        },
+        "HayatoNekketsu": {
+            "0": {
+                "x": 190,
+                "y": 101
+            }
+        },
+        "HideoShimazu": {
+            "0": {
+                "x": 334,
+                "y": 217
+            }
+        },
+        "HinataWakaba": {
+            "0": {
+                "x": 312,
+                "y": 249
+            }
+        },
+        "HyoImawano": {
+            "0": {
+                "x": 251,
+                "y": 279
+            }
+        },
+        "KyokoMinazuki": {
+            "0": {
+                "x": 300,
+                "y": 225
+            }
+        },
+        "KyosukeKagami": {
+            "0": {
+                "x": 371,
+                "y": 202
+            }
+        },
+        "NatsuAyuhara": {
+            "0": {
+                "x": 407,
+                "y": 146
+            }
+        },
+        "RaizoImawano": {
+            "0": {
+                "x": 319,
+                "y": 292
+            }
+        },
+        "RobertoMiura": {
+            "0": {
+                "x": 258,
+                "y": 124
+            }
+        },
+        "RoyBromwell": {
+            "0": {
+                "x": 277,
+                "y": 198
+            }
+        },
+        "SakuraKasugano": {
+            "0": {
+                "x": 365,
+                "y": 170
+            }
+        },
+        "ShomaSawamura": {
+            "0": {
+                "x": 325,
+                "y": 278
+            }
+        },
+        "TiffanyLords": {
+            "0": {
+                "x": 331,
+                "y": 126
+            }
+        }
     },
-    "BomanDelgado": {
-      "0": 1.2
+    "average_size": {
+        "x": 594,
+        "y": 753
     }
-  },
-  "eyesights": {
-    "AkiraKazama": {
-      "0": {
-        "x": 343,
-        "y": 217
-      },
-      "1": {
-        "x": 287,
-        "y": 212
-      }
-    },
-    "BatsuIchimonji": {
-      "0": {
-        "x": 310,
-        "y": 277
-      }
-    },
-    "BomanDelgado": {
-      "0": {
-        "x": 351,
-        "y": 184
-      }
-    },
-    "DaigoKazama": {
-      "0": {
-        "x": 234,
-        "y": 133
-      }
-    },
-    "EijiEdgeYamada": {
-      "0": {
-        "x": 272,
-        "y": 294
-      }
-    },
-    "GanIsurugi": {
-      "0": {
-        "x": 315,
-        "y": 160
-      }
-    },
-    "HayatoNekketsu": {
-      "0": {
-        "x": 190,
-        "y": 101
-      }
-    },
-    "HideoShimazu": {
-      "0": {
-        "x": 334,
-        "y": 217
-      }
-    },
-    "HinataWakaba": {
-      "0": {
-        "x": 312,
-        "y": 249
-      }
-    },
-    "HyoImawano": {
-      "0": {
-        "x": 251,
-        "y": 279
-      }
-    },
-    "KyokoMinazuki": {
-      "0": {
-        "x": 300,
-        "y": 225
-      }
-    },
-    "KyosukeKagami": {
-      "0": {
-        "x": 371,
-        "y": 202
-      }
-    },
-    "NatsuAyuhara": {
-      "0": {
-        "x": 407,
-        "y": 146
-      }
-    },
-    "RaizoImawano": {
-      "0": {
-        "x": 319,
-        "y": 292
-      }
-    },
-    "RobertoMiura": {
-      "0": {
-        "x": 258,
-        "y": 124
-      }
-    },
-    "RoyBromwell": {
-      "0": {
-        "x": 277,
-        "y": 198
-      }
-    },
-    "SakuraKasugano": {
-      "0": {
-        "x": 365,
-        "y": 170
-      }
-    },
-    "ShomaSawamura": {
-      "0": {
-        "x": 325,
-        "y": 278
-      }
-    },
-    "TiffanyLords": {
-      "0": {
-        "x": 331,
-        "y": 126
-      }
-    }
-  }
 }

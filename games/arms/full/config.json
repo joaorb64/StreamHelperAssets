@@ -1,109 +1,113 @@
 {
-  "name": "Renders",
-  "description": "Character renders",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "@Frosty_4267 & @LOSER_31_56 for the alternate color renders\n@MathiasWolfbrok for cropping",
-  "version": "1.25",
-  "eyesights": {
-    "ByteBarq": {
-      "0": {
-        "x": 1192,
-        "y": 1582
-      }
+    "name": "Renders",
+    "description": "Character renders",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "@Frosty_4267 & @LOSER_31_56 for the alternate color renders\n@MathiasWolfbrok for cropping",
+    "version": "1.25",
+    "eyesights": {
+        "ByteBarq": {
+            "0": {
+                "x": 1192,
+                "y": 1582
+            }
+        },
+        "DNAMan": {
+            "0": {
+                "x": 782,
+                "y": 254
+            }
+        },
+        "DrCoyle": {
+            "0": {
+                "x": 1769,
+                "y": 712
+            }
+        },
+        "KidCobra": {
+            "0": {
+                "x": 1905,
+                "y": 2289
+            }
+        },
+        "LolaPop": {
+            "0": {
+                "x": 2660,
+                "y": 932
+            }
+        },
+        "MasterMummy": {
+            "0": {
+                "x": 2247,
+                "y": 1162
+            }
+        },
+        "MaxBrass": {
+            "0": {
+                "x": 1607,
+                "y": 1285
+            }
+        },
+        "Mechanica": {
+            "0": {
+                "x": 2870,
+                "y": 755
+            }
+        },
+        "MinMin": {
+            "0": {
+                "x": 2361,
+                "y": 1108
+            }
+        },
+        "Misango": {
+            "0": {
+                "x": 2019,
+                "y": 536
+            }
+        },
+        "Ninjara": {
+            "0": {
+                "x": 126,
+                "y": 2229
+            }
+        },
+        "RibbonGirl": {
+            "0": {
+                "x": 1588,
+                "y": 1090
+            }
+        },
+        "SpringMan": {
+            "0": {
+                "x": 1510,
+                "y": 1444
+            }
+        },
+        "Springtron": {
+            "0": {
+                "x": 1663,
+                "y": 1061
+            }
+        },
+        "Twintelle": {
+            "0": {
+                "x": 1279,
+                "y": 1516
+            }
+        }
     },
-    "DNAMan": {
-      "0": {
-        "x": 782,
-        "y": 254
-      }
-    },
-    "DrCoyle": {
-      "0": {
-        "x": 1769,
-        "y": 712
-      }
-    },
-    "KidCobra": {
-      "0": {
-        "x": 1905,
-        "y": 2289
-      }
-    },
-    "LolaPop": {
-      "0": {
-        "x": 2660,
-        "y": 932
-      }
-    },
-    "MasterMummy": {
-      "0": {
-        "x": 2247,
-        "y": 1162
-      }
-    },
-    "MaxBrass": {
-      "0": {
-        "x": 1607,
-        "y": 1285
-      }
-    },
-    "Mechanica": {
-      "0": {
-        "x": 2870,
-        "y": 755
-      }
-    },
-    "MinMin": {
-      "0": {
-        "x": 2361,
-        "y": 1108
-      }
-    },
-    "Misango": {
-      "0": {
-        "x": 2019,
-        "y": 536
-      }
-    },
-    "Ninjara": {
-      "0": {
-        "x": 126,
-        "y": 2229
-      }
-    },
-    "RibbonGirl": {
-      "0": {
-        "x": 1588,
-        "y": 1090
-      }
-    },
-    "SpringMan": {
-      "0": {
-        "x": 1510,
-        "y": 1444
-      }
-    },
-    "Springtron": {
-      "0": {
-        "x": 1663,
-        "y": 1061
-      }
-    },
-    "Twintelle": {
-      "0": {
-        "x": 1279,
-        "y": 1516
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 3360,
+        "y": 3171
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

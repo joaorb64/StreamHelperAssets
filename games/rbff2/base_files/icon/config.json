@@ -1,8 +1,12 @@
 {
-  "prefix": "rb2_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0"
+    "prefix": "rb2_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "average_size": {
+        "x": 24,
+        "y": 32
+    }
 }

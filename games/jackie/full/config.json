@@ -1,67 +1,71 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Jackie_Chan_in_Fists_of_Fire)",
-  "version": "1.02",
-  "eyesights": {
-    "AdmiralJackie": {
-      "0": {
-        "x": 378,
-        "y": 283
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Jackie_Chan_in_Fists_of_Fire)",
+    "version": "1.02",
+    "eyesights": {
+        "AdmiralJackie": {
+            "0": {
+                "x": 378,
+                "y": 283
+            }
+        },
+        "DrunkenFistJackie": {
+            "0": {
+                "x": 276,
+                "y": 123
+            }
+        },
+        "KimMaree": {
+            "0": {
+                "x": 327,
+                "y": 487
+            }
+        },
+        "Lau": {
+            "0": {
+                "x": 327,
+                "y": 258
+            }
+        },
+        "MysteriousLion": {
+            "0": {
+                "x": 351,
+                "y": 234
+            }
+        },
+        "Sam": {
+            "0": {
+                "x": 325,
+                "y": 328
+            }
+        },
+        "SpiritualKungFuJackie": {
+            "0": {
+                "x": 381,
+                "y": 299
+            }
+        },
+        "Thorsten": {
+            "0": {
+                "x": 363,
+                "y": 247
+            }
+        },
+        "Yeung": {
+            "0": {
+                "x": 216,
+                "y": 274
+            }
+        }
     },
-    "DrunkenFistJackie": {
-      "0": {
-        "x": 276,
-        "y": 123
-      }
-    },
-    "KimMaree": {
-      "0": {
-        "x": 327,
-        "y": 487
-      }
-    },
-    "Lau": {
-      "0": {
-        "x": 327,
-        "y": 258
-      }
-    },
-    "MysteriousLion": {
-      "0": {
-        "x": 351,
-        "y": 234
-      }
-    },
-    "Sam": {
-      "0": {
-        "x": 325,
-        "y": 328
-      }
-    },
-    "SpiritualKungFuJackie": {
-      "0": {
-        "x": 381,
-        "y": 299
-      }
-    },
-    "Thorsten": {
-      "0": {
-        "x": 363,
-        "y": 247
-      }
-    },
-    "Yeung": {
-      "0": {
-        "x": 216,
-        "y": 274
-      }
+    "average_size": {
+        "x": 720,
+        "y": 996
     }
-  }
 }

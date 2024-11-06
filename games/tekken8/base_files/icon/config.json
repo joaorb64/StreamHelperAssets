@@ -1,8 +1,12 @@
 {
-  "prefix": "T_UI_STIW_HUD_Character_MessageWin_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.4"
+    "prefix": "T_UI_STIW_HUD_Character_MessageWin_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.4",
+    "average_size": {
+        "x": 220,
+        "y": 200
+    }
 }

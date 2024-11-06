@@ -4,5 +4,9 @@
     "type": [
         "icon"
     ],
-    "version": "1.4"
+    "version": "1.4",
+    "average_size": {
+        "x": 65,
+        "y": 65
+    }
 }

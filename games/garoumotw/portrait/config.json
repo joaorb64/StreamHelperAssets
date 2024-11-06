@@ -1,97 +1,101 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "portrait"
-  ],
-  "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.03",
-  "eyesights": {
-    "BJenet": {
-      "0": {
-        "x": 351,
-        "y": 367
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "portrait"
+    ],
+    "credits": "@MathiasWolfbrok for cropping",
+    "version": "1.03",
+    "eyesights": {
+        "BJenet": {
+            "0": {
+                "x": 351,
+                "y": 367
+            }
+        },
+        "DongHwan": {
+            "0": {
+                "x": 730,
+                "y": 202
+            }
+        },
+        "Freeman": {
+            "0": {
+                "x": 496,
+                "y": 202
+            }
+        },
+        "Gato": {
+            "0": {
+                "x": 370,
+                "y": 354
+            }
+        },
+        "Grant": {
+            "0": {
+                "x": 123,
+                "y": 447
+            }
+        },
+        "Griffon": {
+            "0": {
+                "x": 613,
+                "y": 133
+            }
+        },
+        "Hokutomaru": {
+            "0": {
+                "x": 313,
+                "y": 111
+            }
+        },
+        "Hotaru": {
+            "0": {
+                "x": 498,
+                "y": 303
+            }
+        },
+        "JaeHoon": {
+            "0": {
+                "x": 577,
+                "y": 186
+            }
+        },
+        "Kain": {
+            "0": {
+                "x": 570,
+                "y": 301
+            }
+        },
+        "Kevin": {
+            "0": {
+                "x": 270,
+                "y": 138
+            }
+        },
+        "Marco": {
+            "0": {
+                "x": 231,
+                "y": 195
+            }
+        },
+        "Rock": {
+            "0": {
+                "x": 418,
+                "y": 324
+            }
+        },
+        "Terry": {
+            "0": {
+                "x": 601,
+                "y": 235
+            }
+        }
     },
-    "DongHwan": {
-      "0": {
-        "x": 730,
-        "y": 202
-      }
-    },
-    "Freeman": {
-      "0": {
-        "x": 496,
-        "y": 202
-      }
-    },
-    "Gato": {
-      "0": {
-        "x": 370,
-        "y": 354
-      }
-    },
-    "Grant": {
-      "0": {
-        "x": 123,
-        "y": 447
-      }
-    },
-    "Griffon": {
-      "0": {
-        "x": 613,
-        "y": 133
-      }
-    },
-    "Hokutomaru": {
-      "0": {
-        "x": 313,
-        "y": 111
-      }
-    },
-    "Hotaru": {
-      "0": {
-        "x": 498,
-        "y": 303
-      }
-    },
-    "JaeHoon": {
-      "0": {
-        "x": 577,
-        "y": 186
-      }
-    },
-    "Kain": {
-      "0": {
-        "x": 570,
-        "y": 301
-      }
-    },
-    "Kevin": {
-      "0": {
-        "x": 270,
-        "y": 138
-      }
-    },
-    "Marco": {
-      "0": {
-        "x": 231,
-        "y": 195
-      }
-    },
-    "Rock": {
-      "0": {
-        "x": 418,
-        "y": 324
-      }
-    },
-    "Terry": {
-      "0": {
-        "x": 601,
-        "y": 235
-      }
+    "average_size": {
+        "x": 960,
+        "y": 1080
     }
-  }
 }

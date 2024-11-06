@@ -1,248 +1,253 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/BBCF)",
-  "version": "1.04",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "rescaling_factor": {
-    "MaiNatsume": {
-      "0": 0.5
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/BBCF)",
+    "version": "1.04",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "rescaling_factor": {
+        "MaiNatsume": {
+            "0": 0.5
+        },
+        "Mu12": {
+            "0": 1.4
+        },
+        "RachelAlucard": {
+            "0": 0.5
+        },
+        "Susanoo": {
+            "0": 0.5649717514124294
+        }
     },
-    "Mu12": {
-      "0": 1.4
+    "eyesights": {
+        "AmaneNishiki": {
+            "0": {
+                "x": 327,
+                "y": 101
+            }
+        },
+        "Arakune": {
+            "0": {
+                "x": 182,
+                "y": 312
+            }
+        },
+        "Azrael": {
+            "0": {
+                "x": 388,
+                "y": 224
+            }
+        },
+        "BangShishigami": {
+            "0": {
+                "x": 370,
+                "y": 179
+            }
+        },
+        "Bullet": {
+            "0": {
+                "x": 286,
+                "y": 161
+            }
+        },
+        "CarlClover": {
+            "0": {
+                "x": 426,
+                "y": 399
+            }
+        },
+        "CelicaAMercury": {
+            "0": {
+                "x": 501,
+                "y": 327
+            }
+        },
+        "Es": {
+            "0": {
+                "x": 558,
+                "y": 147
+            }
+        },
+        "Hakumen": {
+            "0": {
+                "x": 413,
+                "y": 258
+            }
+        },
+        "Hazama": {
+            "0": {
+                "x": 163,
+                "y": 99
+            }
+        },
+        "HibikiKohaku": {
+            "0": {
+                "x": 367,
+                "y": 84
+            }
+        },
+        "IronTager": {
+            "0": {
+                "x": 553,
+                "y": 130
+            }
+        },
+        "Izanami": {
+            "0": {
+                "x": 481,
+                "y": 299
+            }
+        },
+        "Izayoi": {
+            "0": {
+                "x": 402,
+                "y": 317
+            }
+        },
+        "JinKisaragi": {
+            "0": {
+                "x": 327,
+                "y": 299
+            }
+        },
+        "Jubei": {
+            "0": {
+                "x": 443,
+                "y": 519
+            }
+        },
+        "KaguraMutsuki": {
+            "0": {
+                "x": 392,
+                "y": 248
+            }
+        },
+        "Kokonoe": {
+            "0": {
+                "x": 270,
+                "y": 177
+            }
+        },
+        "Lambda11": {
+            "0": {
+                "x": 313,
+                "y": 363
+            }
+        },
+        "LitchiFayeLing": {
+            "0": {
+                "x": 504,
+                "y": 169
+            }
+        },
+        "MaiNatsume": {
+            "0": {
+                "x": 676,
+                "y": 547
+            }
+        },
+        "MakotoNanaya": {
+            "0": {
+                "x": 228,
+                "y": 148
+            }
+        },
+        "Mu12": {
+            "0": {
+                "x": 380,
+                "y": 150
+            }
+        },
+        "NaotoKurogane": {
+            "0": {
+                "x": 301,
+                "y": 187
+            }
+        },
+        "NinethePhantom": {
+            "0": {
+                "x": 402,
+                "y": 222
+            }
+        },
+        "NoelVermillion": {
+            "0": {
+                "x": 335,
+                "y": 232
+            }
+        },
+        "Nu13": {
+            "0": {
+                "x": 454,
+                "y": 209
+            }
+        },
+        "PlatinumtheTrinity": {
+            "0": {
+                "x": 288,
+                "y": 295
+            }
+        },
+        "RachelAlucard": {
+            "0": {
+                "x": 584,
+                "y": 542
+            }
+        },
+        "RagnatheBloodedge": {
+            "0": {
+                "x": 407,
+                "y": 204
+            }
+        },
+        "ReliusClover": {
+            "0": {
+                "x": 307,
+                "y": 267
+            }
+        },
+        "Susanoo": {
+            "0": {
+                "x": 539,
+                "y": 562
+            }
+        },
+        "Taokaka": {
+            "0": {
+                "x": 360,
+                "y": 273
+            }
+        },
+        "TsubakiYayoi": {
+            "0": {
+                "x": 381,
+                "y": 117
+            }
+        },
+        "ValkenhaynRHellsing": {
+            "0": {
+                "x": 281,
+                "y": 66
+            }
+        },
+        "YuukiTerumi": {
+            "0": {
+                "x": 367,
+                "y": 172
+            }
+        }
     },
-    "RachelAlucard": {
-      "0": 0.5
-    },
-    "Susanoo": {
-      "0": 0.56497175141242937853107344632768
+    "average_size": {
+        "x": 780,
+        "y": 1098
     }
-  },  "eyesights": {
-    "AmaneNishiki": {
-      "0": {
-        "x": 327,
-        "y": 101
-      }
-    },
-    "Arakune": {
-      "0": {
-        "x": 182,
-        "y": 312
-      }
-    },
-    "Azrael": {
-      "0": {
-        "x": 388,
-        "y": 224
-      }
-    },
-    "BangShishigami": {
-      "0": {
-        "x": 370,
-        "y": 179
-      }
-    },
-    "Bullet": {
-      "0": {
-        "x": 286,
-        "y": 161
-      }
-    },
-    "CarlClover": {
-      "0": {
-        "x": 426,
-        "y": 399
-      }
-    },
-    "CelicaAMercury": {
-      "0": {
-        "x": 501,
-        "y": 327
-      }
-    },
-    "Es": {
-      "0": {
-        "x": 558,
-        "y": 147
-      }
-    },
-    "Hakumen": {
-      "0": {
-        "x": 413,
-        "y": 258
-      }
-    },
-    "Hazama": {
-      "0": {
-        "x": 163,
-        "y": 99
-      }
-    },
-    "HibikiKohaku": {
-      "0": {
-        "x": 367,
-        "y": 84
-      }
-    },
-    "IronTager": {
-      "0": {
-        "x": 553,
-        "y": 130
-      }
-    },
-    "Izanami": {
-      "0": {
-        "x": 481,
-        "y": 299
-      }
-    },
-    "Izayoi": {
-      "0": {
-        "x": 402,
-        "y": 317
-      }
-    },
-    "JinKisaragi": {
-      "0": {
-        "x": 327,
-        "y": 299
-      }
-    },
-    "Jubei": {
-      "0": {
-        "x": 443,
-        "y": 519
-      }
-    },
-    "KaguraMutsuki": {
-      "0": {
-        "x": 392,
-        "y": 248
-      }
-    },
-    "Kokonoe": {
-      "0": {
-        "x": 270,
-        "y": 177
-      }
-    },
-    "Lambda11": {
-      "0": {
-        "x": 313,
-        "y": 363
-      }
-    },
-    "LitchiFayeLing": {
-      "0": {
-        "x": 504,
-        "y": 169
-      }
-    },
-    "MaiNatsume": {
-      "0": {
-        "x": 676,
-        "y": 547
-      }
-    },
-    "MakotoNanaya": {
-      "0": {
-        "x": 228,
-        "y": 148
-      }
-    },
-    "Mu12": {
-      "0": {
-        "x": 380,
-        "y": 150
-      }
-    },
-    "NaotoKurogane": {
-      "0": {
-        "x": 301,
-        "y": 187
-      }
-    },
-    "NinethePhantom": {
-      "0": {
-        "x": 402,
-        "y": 222
-      }
-    },
-    "NoelVermillion": {
-      "0": {
-        "x": 335,
-        "y": 232
-      }
-    },
-    "Nu13": {
-      "0": {
-        "x": 454,
-        "y": 209
-      }
-    },
-    "PlatinumtheTrinity": {
-      "0": {
-        "x": 288,
-        "y": 295
-      }
-    },
-    "RachelAlucard": {
-      "0": {
-        "x": 584,
-        "y": 542
-      }
-    },
-    "RagnatheBloodedge": {
-      "0": {
-        "x": 407,
-        "y": 204
-      }
-    },
-    "ReliusClover": {
-      "0": {
-        "x": 307,
-        "y": 267
-      }
-    },
-    "Susanoo": {
-      "0": {
-        "x": 539,
-        "y": 562
-      }
-    },
-    "Taokaka": {
-      "0": {
-        "x": 360,
-        "y": 273
-      }
-    },
-    "TsubakiYayoi": {
-      "0": {
-        "x": 381,
-        "y": 117
-      }
-    },
-    "ValkenhaynRHellsing": {
-      "0": {
-        "x": 281,
-        "y": 66
-      }
-    },
-    "YuukiTerumi": {
-      "0": {
-        "x": 367,
-        "y": 172
-      }
-    }
-  }
 }

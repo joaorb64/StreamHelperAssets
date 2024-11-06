@@ -1,8 +1,12 @@
 {
-  "prefix": "karnov_icon_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0"
+    "prefix": "karnov_icon_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "average_size": {
+        "x": 30,
+        "y": 30
+    }
 }

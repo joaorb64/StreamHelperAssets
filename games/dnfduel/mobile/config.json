@@ -1,143 +1,147 @@
 {
-  "name": "DFO Portraits",
-  "description": "Portraits from Dungeon Fighter Online",
-  "prefix": "mobile_",
-  "postfix": "_",
-  "type": [
-    "mobile"
-  ],
-  "credits": "Image for Lost Warrior is his 2A",
-  "version": "1.5",
-  "eyesights": {
-    "Berserker": {
-      "0": {
-        "x": 233,
-        "y": 111
-      }
+    "name": "DFO Portraits",
+    "description": "Portraits from Dungeon Fighter Online",
+    "prefix": "mobile_",
+    "postfix": "_",
+    "type": [
+        "mobile"
+    ],
+    "credits": "Image for Lost Warrior is his 2A",
+    "version": "1.5",
+    "eyesights": {
+        "Berserker": {
+            "0": {
+                "x": 233,
+                "y": 111
+            }
+        },
+        "Crusader": {
+            "0": {
+                "x": 193,
+                "y": 129
+            }
+        },
+        "DragonKnight": {
+            "0": {
+                "x": 122,
+                "y": 137
+            }
+        },
+        "Ghostblade": {
+            "0": {
+                "x": 196,
+                "y": 163
+            }
+        },
+        "Grappler": {
+            "0": {
+                "x": 185,
+                "y": 68
+            }
+        },
+        "Hitman": {
+            "0": {
+                "x": 133,
+                "y": 67
+            }
+        },
+        "Inquisitor": {
+            "0": {
+                "x": 86,
+                "y": 60
+            }
+        },
+        "Kunoichi": {
+            "0": {
+                "x": 168,
+                "y": 91
+            }
+        },
+        "Mechanic": {
+            "0": {
+                "x": 163,
+                "y": 73
+            }
+        },
+        "Ranger": {
+            "0": {
+                "x": 95,
+                "y": 64
+            }
+        },
+        "Striker": {
+            "0": {
+                "x": 182,
+                "y": 98
+            }
+        },
+        "Vanguard": {
+            "0": {
+                "x": 136,
+                "y": 123
+            }
+        },
+        "SwiftMaster": {
+            "0": {
+                "x": 164,
+                "y": 165
+            }
+        },
+        "Troubleshooter": {
+            "0": {
+                "x": 103,
+                "y": 113
+            }
+        },
+        "Enchantress": {
+            "0": {
+                "x": 103,
+                "y": 89
+            }
+        },
+        "LostWarrior": {
+            "0": {
+                "x": 563,
+                "y": 142
+            }
+        },
+        "Spectre": {
+            "0": {
+                "x": 169,
+                "y": 49
+            }
+        },
+        "Brawler": {
+            "0": {
+                "x": 163,
+                "y": 64
+            }
+        },
+        "BattleMage": {
+            "0": {
+                "x": 140,
+                "y": 124
+            }
+        },
+        "Monk": {
+            "0": {
+                "x": 218,
+                "y": 111
+            }
+        },
+        "NenMaster": {
+            "0": {
+                "x": 163,
+                "y": 84
+            }
+        }
     },
-    "Crusader": {
-      "0": {
-        "x": 193,
-        "y": 129
-      }
-    },
-    "DragonKnight": {
-      "0": {
-        "x": 122,
-        "y": 137
-      }
-    },
-    "Ghostblade": {
-      "0": {
-        "x": 196,
-        "y": 163
-      }
-    },
-    "Grappler": {
-      "0": {
-        "x": 185,
-        "y": 68
-      }
-    },
-    "Hitman": {
-      "0": {
-        "x": 133,
-        "y": 67
-      }
-    },
-    "Inquisitor": {
-      "0": {
-        "x": 86,
-        "y": 60
-      }
-    },
-    "Kunoichi": {
-      "0": {
-        "x": 168,
-        "y": 91
-      }
-    },
-    "Mechanic": {
-      "0": {
-        "x": 163,
-        "y": 73
-      }
-    },
-    "Ranger": {
-      "0": {
-        "x": 95,
-        "y": 64
-      }
-    },
-    "Striker": {
-      "0": {
-        "x": 182,
-        "y": 98
-      }
-    },
-    "Vanguard": {
-      "0": {
-        "x": 136,
-        "y": 123
-      }
-    },
-    "SwiftMaster": {
-      "0": {
-        "x": 164,
-        "y": 165
-      }
-    },
-    "Troubleshooter": {
-      "0": {
-        "x": 103,
-        "y": 113
-      }
-    },
-    "Enchantress": {
-      "0": {
-        "x": 103,
-        "y": 89
-      }
-    },
-    "LostWarrior": {
-      "0": {
-        "x": 563,
-        "y": 142
-      }
-    },
-    "Spectre": {
-      "0": {
-        "x": 169,
-        "y": 49
-      }
-    },
-    "Brawler": {
-      "0": {
-        "x": 163,
-        "y": 64
-      }
-    },
-    "BattleMage": {
-      "0": {
-        "x": 140,
-        "y": 124
-      }
-    },
-    "Monk": {
-      "0": {
-        "x": 218,
-        "y": 111
-      }
-    },
-    "NenMaster": {
-      "0": {
-        "x": 163,
-        "y": 84
-      }
+    "uncropped_edge": [
+        "u",
+        "r"
+    ],
+    "average_size": {
+        "x": 408,
+        "y": 306
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "r"
-  ]
 }

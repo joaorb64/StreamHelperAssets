@@ -1,99 +1,103 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/KILL_la_KILL_IF)",
-  "version": "1.03",
-  "rescaling_factor": {
-    "DTR": {
-      "0": 1.7
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/KILL_la_KILL_IF)",
+    "version": "1.03",
+    "rescaling_factor": {
+        "DTR": {
+            "0": 1.7
+        },
+        "Satsuki2": {
+            "0": 1.3554040895813049
+        }
     },
-    "Satsuki2": {
-      "0": 1.3554040895813047711781888997079
+    "eyesights": {
+        "DTR": {
+            "0": {
+                "x": 303,
+                "y": 283
+            }
+        },
+        "Gamagoori": {
+            "0": {
+                "x": 515,
+                "y": 151
+            }
+        },
+        "Inumuta": {
+            "0": {
+                "x": 269,
+                "y": 154
+            }
+        },
+        "Jakuzure": {
+            "0": {
+                "x": 185,
+                "y": 394
+            }
+        },
+        "Mako": {
+            "0": {
+                "x": 451,
+                "y": 159
+            }
+        },
+        "Nui": {
+            "0": {
+                "x": 399,
+                "y": 259
+            }
+        },
+        "Ragyo": {
+            "0": {
+                "x": 626,
+                "y": 89
+            }
+        },
+        "Ryuko": {
+            "0": {
+                "x": 173,
+                "y": 149
+            }
+        },
+        "Ryuko2": {
+            "0": {
+                "x": 512,
+                "y": 272
+            }
+        },
+        "Sanageyama": {
+            "0": {
+                "x": 334,
+                "y": 103
+            }
+        },
+        "Satsuki": {
+            "0": {
+                "x": 260,
+                "y": 152
+            }
+        },
+        "Satsuki2": {
+            "0": {
+                "x": 393,
+                "y": 181
+            }
+        }
+    },
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 906,
+        "y": 1265
     }
-  },
-  "eyesights": {
-    "DTR": {
-      "0": {
-        "x": 303,
-        "y": 283
-      }
-    },
-    "Gamagoori": {
-      "0": {
-        "x": 515,
-        "y": 151
-      }
-    },
-    "Inumuta": {
-      "0": {
-        "x": 269,
-        "y": 154
-      }
-    },
-    "Jakuzure": {
-      "0": {
-        "x": 185,
-        "y": 394
-      }
-    },
-    "Mako": {
-      "0": {
-        "x": 451,
-        "y": 159
-      }
-    },
-    "Nui": {
-      "0": {
-        "x": 399,
-        "y": 259
-      }
-    },
-    "Ragyo": {
-      "0": {
-        "x": 626,
-        "y": 89
-      }
-    },
-    "Ryuko": {
-      "0": {
-        "x": 173,
-        "y": 149
-      }
-    },
-    "Ryuko2": {
-      "0": {
-        "x": 512,
-        "y": 272
-      }
-    },
-    "Sanageyama": {
-      "0": {
-        "x": 334,
-        "y": 103
-      }
-    },
-    "Satsuki": {
-      "0": {
-        "x": 260,
-        "y": 152
-      }
-    },
-    "Satsuki2": {
-      "0": {
-        "x": 393,
-        "y": 181
-      }
-    }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

@@ -1,16 +1,20 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "portrait"
-  ],
-  "credits": "Strum portrait from Advance Wars 2: Black Hole Rising",
-  "version": "1.01",
-  "uncropped_edge": [
-    "l",
-    "r",
-    "u"
-  ]
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "portrait"
+    ],
+    "credits": "Strum portrait from Advance Wars 2: Black Hole Rising",
+    "version": "1.01",
+    "uncropped_edge": [
+        "l",
+        "r",
+        "u"
+    ],
+    "average_size": {
+        "x": 1006,
+        "y": 2236
+    }
 }

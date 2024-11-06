@@ -1,109 +1,113 @@
 {
-  "name": "Artwork",
-  "description": "Character artwork",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.01",
-  "eyesights": {
-    "AlexJefailey": {
-      "0": {
-        "x": 974,
-        "y": 1200
-      }
+    "name": "Artwork",
+    "description": "Character artwork",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "@MathiasWolfbrok for cropping",
+    "version": "1.01",
+    "eyesights": {
+        "AlexJefailey": {
+            "0": {
+                "x": 974,
+                "y": 1200
+            }
+        },
+        "CodenameSKill": {
+            "0": {
+                "x": 317,
+                "y": 131
+            }
+        },
+        "Dive": {
+            "0": {
+                "x": 796,
+                "y": 430
+            }
+        },
+        "DrVictoriaShoals": {
+            "0": {
+                "x": 633,
+                "y": 332
+            }
+        },
+        "JohnnyGat": {
+            "0": {
+                "x": 103,
+                "y": 54
+            }
+        },
+        "Kenny": {
+            "0": {
+                "x": 724,
+                "y": 240
+            }
+        },
+        "Kick": {
+            "0": {
+                "x": 700,
+                "y": 295
+            }
+        },
+        "KungPao": {
+            "0": {
+                "x": 845,
+                "y": 304
+            }
+        },
+        "Markman": {
+            "0": {
+                "x": 613,
+                "y": 294
+            }
+        },
+        "MrN": {
+            "0": {
+                "x": 1443,
+                "y": 280
+            }
+        },
+        "Redacted": {
+            "0": {
+                "x": 3378,
+                "y": 1227
+            }
+        },
+        "Stream": {
+            "0": {
+                "x": 654,
+                "y": 195
+            }
+        },
+        "TheBaz": {
+            "0": {
+                "x": 817,
+                "y": 215
+            }
+        },
+        "TheFencer": {
+            "0": {
+                "x": 870,
+                "y": 116
+            }
+        },
+        "UncleSensei": {
+            "0": {
+                "x": 643,
+                "y": 215
+            }
+        }
     },
-    "CodenameSKill": {
-      "0": {
-        "x": 317,
-        "y": 131
-      }
-    },
-    "Dive": {
-      "0": {
-        "x": 796,
-        "y": 430
-      }
-    },
-    "DrVictoriaShoals": {
-      "0": {
-        "x": 633,
-        "y": 332
-      }
-    },
-    "JohnnyGat": {
-      "0": {
-        "x": 103,
-        "y": 54
-      }
-    },
-    "Kenny": {
-      "0": {
-        "x": 724,
-        "y": 240
-      }
-    },
-    "Kick": {
-      "0": {
-        "x": 700,
-        "y": 295
-      }
-    },
-    "KungPao": {
-      "0": {
-        "x": 845,
-        "y": 304
-      }
-    },
-    "Markman": {
-      "0": {
-        "x": 613,
-        "y": 294
-      }
-    },
-    "MrN": {
-      "0": {
-        "x": 1443,
-        "y": 280
-      }
-    },
-    "Redacted": {
-      "0": {
-        "x": 3378,
-        "y": 1227
-      }
-    },
-    "Stream": {
-      "0": {
-        "x": 654,
-        "y": 195
-      }
-    },
-    "TheBaz": {
-      "0": {
-        "x": 817,
-        "y": 215
-      }
-    },
-    "TheFencer": {
-      "0": {
-        "x": 870,
-        "y": 116
-      }
-    },
-    "UncleSensei": {
-      "0": {
-        "x": 643,
-        "y": 215
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 1861,
+        "y": 2697
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

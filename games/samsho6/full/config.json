@@ -1,289 +1,293 @@
 {
-  "name": "Artwork",
-  "description": "Character artwork",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.01",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "AmakusaShiroTokisada": {
-      "0": {
-        "x": 403,
-        "y": 266
-      }
+    "name": "Artwork",
+    "description": "Character artwork",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.01",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "AmakusaShiroTokisada": {
+            "0": {
+                "x": 403,
+                "y": 266
+            }
+        },
+        "Andrew": {
+            "0": {
+                "x": 450,
+                "y": 241
+            }
+        },
+        "BasaraKubikiri": {
+            "0": {
+                "x": 701,
+                "y": 308
+            }
+        },
+        "BustGalford": {
+            "0": {
+                "x": 363,
+                "y": 134
+            }
+        },
+        "ChamCham": {
+            "0": {
+                "x": 458,
+                "y": 329
+            }
+        },
+        "CharlotteChristineColde": {
+            "0": {
+                "x": 313,
+                "y": 104
+            }
+        },
+        "DemonGaoh": {
+            "0": {
+                "x": 398,
+                "y": 416
+            }
+        },
+        "EXNakoruru": {
+            "0": {
+                "x": 445,
+                "y": 301
+            }
+        },
+        "Earthquake": {
+            "0": {
+                "x": 370,
+                "y": 292
+            }
+        },
+        "Enja": {
+            "0": {
+                "x": 935,
+                "y": 193
+            }
+        },
+        "GairaCaffeine": {
+            "0": {
+                "x": 609,
+                "y": 211
+            }
+        },
+        "GalfordDWeller": {
+            "0": {
+                "x": 347,
+                "y": 128
+            }
+        },
+        "Gaoh": {
+            "0": {
+                "x": 529,
+                "y": 137
+            }
+        },
+        "GenanShiranui": {
+            "0": {
+                "x": 391,
+                "y": 334
+            }
+        },
+        "GenjuroKibagami": {
+            "0": {
+                "x": 404,
+                "y": 250
+            }
+        },
+        "HanzoHattori": {
+            "0": {
+                "x": 389,
+                "y": 551
+            }
+        },
+        "Haohmaru": {
+            "0": {
+                "x": 325,
+                "y": 254
+            }
+        },
+        "Iroha": {
+            "0": {
+                "x": 419,
+                "y": 451
+            }
+        },
+        "JubeiYagyu": {
+            "0": {
+                "x": 394,
+                "y": 134
+            }
+        },
+        "KarakuriOchaMaro": {
+            "0": {
+                "x": 485,
+                "y": 394
+            }
+        },
+        "KazukiKazama": {
+            "0": {
+                "x": 499,
+                "y": 290
+            }
+        },
+        "KimUngChe": {
+            "0": {
+                "x": 593,
+                "y": 239
+            }
+        },
+        "Kuroko": {
+            "0": {
+                "x": 340,
+                "y": 379
+            }
+        },
+        "Kusaregedo": {
+            "0": {
+                "x": 590,
+                "y": 260
+            }
+        },
+        "KyoshiroSenryo": {
+            "0": {
+                "x": 417,
+                "y": 298
+            }
+        },
+        "MinaMajikina": {
+            "0": {
+                "x": 405,
+                "y": 410
+            }
+        },
+        "MizukiRashojin": {
+            "0": {
+                "x": 434,
+                "y": 176
+            }
+        },
+        "Nakoruru": {
+            "0": {
+                "x": 425,
+                "y": 281
+            }
+        },
+        "NeinhaltSieger": {
+            "0": {
+                "x": 495,
+                "y": 98
+            }
+        },
+        "NicotineCaffeine": {
+            "0": {
+                "x": 352,
+                "y": 322
+            }
+        },
+        "Rasetsumaru": {
+            "0": {
+                "x": 283,
+                "y": 244
+            }
+        },
+        "Rera": {
+            "0": {
+                "x": 416,
+                "y": 223
+            }
+        },
+        "Rimururu": {
+            "0": {
+                "x": 373,
+                "y": 226
+            }
+        },
+        "SankuroYorozu": {
+            "0": {
+                "x": 525,
+                "y": 125
+            }
+        },
+        "ShizumaruHisame": {
+            "0": {
+                "x": 317,
+                "y": 338
+            }
+        },
+        "SogetsuKazama": {
+            "0": {
+                "x": 274,
+                "y": 176
+            }
+        },
+        "SugorokuMatsuribayashi": {
+            "0": {
+                "x": 400,
+                "y": 403
+            }
+        },
+        "Suija": {
+            "0": {
+                "x": 1207,
+                "y": 427
+            }
+        },
+        "TamTam": {
+            "0": {
+                "x": 367,
+                "y": 350
+            }
+        },
+        "UkyoTachibana": {
+            "0": {
+                "x": 417,
+                "y": 86
+            }
+        },
+        "WanFu": {
+            "0": {
+                "x": 513,
+                "y": 344
+            }
+        },
+        "YoshitoraTokugawa": {
+            "0": {
+                "x": 304,
+                "y": 173
+            }
+        },
+        "YumejiKurokouchi": {
+            "0": {
+                "x": 410,
+                "y": 344
+            }
+        },
+        "Yunfei": {
+            "0": {
+                "x": 369,
+                "y": 251
+            }
+        },
+        "ZankuroMinazuki": {
+            "0": {
+                "x": 404,
+                "y": 238
+            }
+        }
     },
-    "Andrew": {
-      "0": {
-        "x": 450,
-        "y": 241
-      }
-    },
-    "BasaraKubikiri": {
-      "0": {
-        "x": 701,
-        "y": 308
-      }
-    },
-    "BustGalford": {
-      "0": {
-        "x": 363,
-        "y": 134
-      }
-    },
-    "ChamCham": {
-      "0": {
-        "x": 458,
-        "y": 329
-      }
-    },
-    "CharlotteChristineColde": {
-      "0": {
-        "x": 313,
-        "y": 104
-      }
-    },
-    "DemonGaoh": {
-      "0": {
-        "x": 398,
-        "y": 416
-      }
-    },
-    "EXNakoruru": {
-      "0": {
-        "x": 445,
-        "y": 301
-      }
-    },
-    "Earthquake": {
-      "0": {
-        "x": 370,
-        "y": 292
-      }
-    },
-    "Enja": {
-      "0": {
-        "x": 935,
-        "y": 193
-      }
-    },
-    "GairaCaffeine": {
-      "0": {
-        "x": 609,
-        "y": 211
-      }
-    },
-    "GalfordDWeller": {
-      "0": {
-        "x": 347,
-        "y": 128
-      }
-    },
-    "Gaoh": {
-      "0": {
-        "x": 529,
-        "y": 137
-      }
-    },
-    "GenanShiranui": {
-      "0": {
-        "x": 391,
-        "y": 334
-      }
-    },
-    "GenjuroKibagami": {
-      "0": {
-        "x": 404,
-        "y": 250
-      }
-    },
-    "HanzoHattori": {
-      "0": {
-        "x": 389,
-        "y": 551
-      }
-    },
-    "Haohmaru": {
-      "0": {
-        "x": 325,
-        "y": 254
-      }
-    },
-    "Iroha": {
-      "0": {
-        "x": 419,
-        "y": 451
-      }
-    },
-    "JubeiYagyu": {
-      "0": {
-        "x": 394,
-        "y": 134
-      }
-    },
-    "KarakuriOchaMaro": {
-      "0": {
-        "x": 485,
-        "y": 394
-      }
-    },
-    "KazukiKazama": {
-      "0": {
-        "x": 499,
-        "y": 290
-      }
-    },
-    "KimUngChe": {
-      "0": {
-        "x": 593,
-        "y": 239
-      }
-    },
-    "Kuroko": {
-      "0": {
-        "x": 340,
-        "y": 379
-      }
-    },
-    "Kusaregedo": {
-      "0": {
-        "x": 590,
-        "y": 260
-      }
-    },
-    "KyoshiroSenryo": {
-      "0": {
-        "x": 417,
-        "y": 298
-      }
-    },
-    "MinaMajikina": {
-      "0": {
-        "x": 405,
-        "y": 410
-      }
-    },
-    "MizukiRashojin": {
-      "0": {
-        "x": 434,
-        "y": 176
-      }
-    },
-    "Nakoruru": {
-      "0": {
-        "x": 425,
-        "y": 281
-      }
-    },
-    "NeinhaltSieger": {
-      "0": {
-        "x": 495,
-        "y": 98
-      }
-    },
-    "NicotineCaffeine": {
-      "0": {
-        "x": 352,
-        "y": 322
-      }
-    },
-    "Rasetsumaru": {
-      "0": {
-        "x": 283,
-        "y": 244
-      }
-    },
-    "Rera": {
-      "0": {
-        "x": 416,
-        "y": 223
-      }
-    },
-    "Rimururu": {
-      "0": {
-        "x": 373,
-        "y": 226
-      }
-    },
-    "SankuroYorozu": {
-      "0": {
-        "x": 525,
-        "y": 125
-      }
-    },
-    "ShizumaruHisame": {
-      "0": {
-        "x": 317,
-        "y": 338
-      }
-    },
-    "SogetsuKazama": {
-      "0": {
-        "x": 274,
-        "y": 176
-      }
-    },
-    "SugorokuMatsuribayashi": {
-      "0": {
-        "x": 400,
-        "y": 403
-      }
-    },
-    "Suija": {
-      "0": {
-        "x": 1207,
-        "y": 427
-      }
-    },
-    "TamTam": {
-      "0": {
-        "x": 367,
-        "y": 350
-      }
-    },
-    "UkyoTachibana": {
-      "0": {
-        "x": 417,
-        "y": 86
-      }
-    },
-    "WanFu": {
-      "0": {
-        "x": 513,
-        "y": 344
-      }
-    },
-    "YoshitoraTokugawa": {
-      "0": {
-        "x": 304,
-        "y": 173
-      }
-    },
-    "YumejiKurokouchi": {
-      "0": {
-        "x": 410,
-        "y": 344
-      }
-    },
-    "Yunfei": {
-      "0": {
-        "x": 369,
-        "y": 251
-      }
-    },
-    "ZankuroMinazuki": {
-      "0": {
-        "x": 404,
-        "y": 238
-      }
+    "average_size": {
+        "x": 868,
+        "y": 1033
     }
-  }
 }

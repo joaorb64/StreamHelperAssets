@@ -1,5 +1,11 @@
 {
     "prefix": "file_",
     "postfix": "_",
-    "type": ["icon"]
+    "type": [
+        "icon"
+    ],
+    "average_size": {
+        "x": 49,
+        "y": 50
+    }
 }

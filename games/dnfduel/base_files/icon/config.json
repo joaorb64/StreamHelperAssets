@@ -1,8 +1,12 @@
 {
-  "prefix": "icon_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.5"
+    "prefix": "icon_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.5",
+    "average_size": {
+        "x": 124,
+        "y": 124
+    }
 }

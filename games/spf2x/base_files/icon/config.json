@@ -1,8 +1,12 @@
 {
-  "prefix": "puzzlefighter_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0"
+    "prefix": "puzzlefighter_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "average_size": {
+        "x": 44,
+        "y": 43
+    }
 }

@@ -1,109 +1,113 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Koihime_Enbu/RyoRaiRai_V3)",
-  "version": "1.0",
-  "eyesights": {
-    "Bacho": {
-      "0": {
-        "x": 306,
-        "y": 290
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Koihime_Enbu/RyoRaiRai_V3)",
+    "version": "1.0",
+    "eyesights": {
+        "Bacho": {
+            "0": {
+                "x": 306,
+                "y": 290
+            }
+        },
+        "Chochi": {
+            "0": {
+                "x": 856,
+                "y": 427
+            }
+        },
+        "Choryo": {
+            "0": {
+                "x": 929,
+                "y": 194
+            }
+        },
+        "Choun": {
+            "0": {
+                "x": 529,
+                "y": 263
+            }
+        },
+        "Gakushin": {
+            "0": {
+                "x": 387,
+                "y": 149
+            }
+        },
+        "Joko": {
+            "0": {
+                "x": 256,
+                "y": 178
+            }
+        },
+        "Kakoen": {
+            "0": {
+                "x": 577,
+                "y": 515
+            }
+        },
+        "Kakoton": {
+            "0": {
+                "x": 528,
+                "y": 310
+            }
+        },
+        "Kannei": {
+            "0": {
+                "x": 412,
+                "y": 206
+            }
+        },
+        "Kanu": {
+            "0": {
+                "x": 451,
+                "y": 361
+            }
+        },
+        "Kouy\u016b": {
+            "0": {
+                "x": 507,
+                "y": 162
+            }
+        },
+        "Ryofu": {
+            "0": {
+                "x": 695,
+                "y": 467
+            }
+        },
+        "Shutai": {
+            "0": {
+                "x": 526,
+                "y": 248
+            }
+        },
+        "Sonken": {
+            "0": {
+                "x": 570,
+                "y": 190
+            }
+        },
+        "Sonshoko": {
+            "0": {
+                "x": 622,
+                "y": 271
+            }
+        },
+        "Soso": {
+            "0": {
+                "x": 519,
+                "y": 217
+            }
+        }
     },
-    "Chochi": {
-      "0": {
-        "x": 856,
-        "y": 427
-      }
-    },
-    "Choryo": {
-      "0": {
-        "x": 929,
-        "y": 194
-      }
-    },
-    "Choun": {
-      "0": {
-        "x": 529,
-        "y": 263
-      }
-    },
-    "Gakushin": {
-      "0": {
-        "x": 387,
-        "y": 149
-      }
-    },
-    "Joko": {
-      "0": {
-        "x": 256,
-        "y": 178
-      }
-    },
-    "Kakoen": {
-      "0": {
-        "x": 577,
-        "y": 515
-      }
-    },
-    "Kakoton": {
-      "0": {
-        "x": 528,
-        "y": 310
-      }
-    },
-    "Kannei": {
-      "0": {
-        "x": 412,
-        "y": 206
-      }
-    },
-    "Kanu": {
-      "0": {
-        "x": 451,
-        "y": 361
-      }
-    },
-    "Kouy\u016b": {
-      "0": {
-        "x": 507,
-        "y": 162
-      }
-    },
-    "Ryofu": {
-      "0": {
-        "x": 695,
-        "y": 467
-      }
-    },
-    "Shutai": {
-      "0": {
-        "x": 526,
-        "y": 248
-      }
-    },
-    "Sonken": {
-      "0": {
-        "x": 570,
-        "y": 190
-      }
-    },
-    "Sonshoko": {
-      "0": {
-        "x": 622,
-        "y": 271
-      }
-    },
-    "Soso": {
-      "0": {
-        "x": 519,
-        "y": 217
-      }
+    "average_size": {
+        "x": 1082,
+        "y": 1209
     }
-  }
 }

@@ -1,193 +1,197 @@
 {
-  "name": "Chibi characters",
-  "description": "Chibi versions of characters",
-  "prefix": "chibi_",
-  "postfix": "_",
-  "type": [
-    "chibi"
-  ],
-  "credits": "\u00a9 ARC SYSTEM WORKS\n\nGuilty Gear -Strive- Official Site: https://www.guiltygear.com/ggst/en/\nGuilty Gear -Strive- Fan Kit: https://www.guiltygear.com/ggst/en/fankit/\nThe rights to the data included within are held by Arc System Works.",
-  "version": "2.4",
-  "eyesights": {
-    "Anji": {
-      "0": {
-        "x": 439,
-        "y": 408
-      }
+    "name": "Chibi characters",
+    "description": "Chibi versions of characters",
+    "prefix": "chibi_",
+    "postfix": "_",
+    "type": [
+        "chibi"
+    ],
+    "credits": "\u00a9 ARC SYSTEM WORKS\n\nGuilty Gear -Strive- Official Site: https://www.guiltygear.com/ggst/en/\nGuilty Gear -Strive- Fan Kit: https://www.guiltygear.com/ggst/en/fankit/\nThe rights to the data included within are held by Arc System Works.",
+    "version": "2.4",
+    "eyesights": {
+        "Anji": {
+            "0": {
+                "x": 439,
+                "y": 408
+            }
+        },
+        "Axl": {
+            "0": {
+                "x": 472,
+                "y": 360
+            }
+        },
+        "Baiken": {
+            "0": {
+                "x": 570,
+                "y": 517
+            }
+        },
+        "Chipp": {
+            "0": {
+                "x": 543,
+                "y": 470
+            }
+        },
+        "Faust": {
+            "0": {
+                "x": 479,
+                "y": 350
+            }
+        },
+        "Giovanna": {
+            "0": {
+                "x": 487,
+                "y": 445
+            }
+        },
+        "Goldlewis": {
+            "0": {
+                "x": 708,
+                "y": 332
+            }
+        },
+        "HappyChaos": {
+            "0": {
+                "x": 416,
+                "y": 473
+            }
+        },
+        "I-No": {
+            "0": {
+                "x": 413,
+                "y": 613
+            }
+        },
+        "Jack-O": {
+            "0": {
+                "x": 666,
+                "y": 536
+            }
+        },
+        "Ky": {
+            "0": {
+                "x": 382,
+                "y": 451
+            }
+        },
+        "Leo": {
+            "0": {
+                "x": 449,
+                "y": 430
+            }
+        },
+        "May": {
+            "0": {
+                "x": 400,
+                "y": 454
+            }
+        },
+        "Millia": {
+            "0": {
+                "x": 262,
+                "y": 410
+            }
+        },
+        "Nagoriyuki": {
+            "0": {
+                "x": 379,
+                "y": 542
+            }
+        },
+        "Potemkin": {
+            "0": {
+                "x": 535,
+                "y": 259
+            }
+        },
+        "Ramlethal": {
+            "0": {
+                "x": 488,
+                "y": 455
+            }
+        },
+        "Sol": {
+            "0": {
+                "x": 531,
+                "y": 513
+            }
+        },
+        "Testament": {
+            "0": {
+                "x": 647,
+                "y": 460
+            }
+        },
+        "Zato": {
+            "0": {
+                "x": 551,
+                "y": 284
+            }
+        },
+        "Bridget": {
+            "0": {
+                "x": 661,
+                "y": 301
+            }
+        },
+        "Sin": {
+            "0": {
+                "x": 562,
+                "y": 505
+            }
+        },
+        "Bed": {
+            "0": {
+                "x": 198,
+                "y": 558
+            }
+        },
+        "Asuka": {
+            "0": {
+                "x": 474,
+                "y": 516
+            }
+        },
+        "Johnny": {
+            "0": {
+                "x": 535,
+                "y": 418
+            }
+        },
+        "Elphelt": {
+            "0": {
+                "x": 479,
+                "y": 492
+            }
+        },
+        "ABA": {
+            "0": {
+                "x": 682,
+                "y": 523
+            }
+        },
+        "Slayer": {
+            "0": {
+                "x": 493,
+                "y": 534
+            }
+        },
+        "Dizzy": {
+            "0": {
+                "x": 708,
+                "y": 592
+            }
+        }
     },
-    "Axl": {
-      "0": {
-        "x": 472,
-        "y": 360
-      }
-    },
-    "Baiken": {
-      "0": {
-        "x": 570,
-        "y": 517
-      }
-    },
-    "Chipp": {
-      "0": {
-        "x": 543,
-        "y": 470
-      }
-    },
-    "Faust": {
-      "0": {
-        "x": 479,
-        "y": 350
-      }
-    },
-    "Giovanna": {
-      "0": {
-        "x": 487,
-        "y": 445
-      }
-    },
-    "Goldlewis": {
-      "0": {
-        "x": 708,
-        "y": 332
-      }
-    },
-    "HappyChaos": {
-      "0": {
-        "x": 416,
-        "y": 473
-      }
-    },
-    "I-No": {
-      "0": {
-        "x": 413,
-        "y": 613
-      }
-    },
-    "Jack-O": {
-      "0": {
-        "x": 666,
-        "y": 536
-      }
-    },
-    "Ky": {
-      "0": {
-        "x": 382,
-        "y": 451
-      }
-    },
-    "Leo": {
-      "0": {
-        "x": 449,
-        "y": 430
-      }
-    },
-    "May": {
-      "0": {
-        "x": 400,
-        "y": 454
-      }
-    },
-    "Millia": {
-      "0": {
-        "x": 262,
-        "y": 410
-      }
-    },
-    "Nagoriyuki": {
-      "0": {
-        "x": 379,
-        "y": 542
-      }
-    },
-    "Potemkin": {
-      "0": {
-        "x": 535,
-        "y": 259
-      }
-    },
-    "Ramlethal": {
-      "0": {
-        "x": 488,
-        "y": 455
-      }
-    },
-    "Sol": {
-      "0": {
-        "x": 531,
-        "y": 513
-      }
-    },
-    "Testament": {
-      "0": {
-        "x": 647,
-        "y": 460
-      }
-    },
-    "Zato": {
-      "0": {
-        "x": 551,
-        "y": 284
-      }
-    },
-    "Bridget": {
-      "0": {
-        "x": 661,
-        "y": 301
-      }
-    },
-    "Sin": {
-      "0": {
-        "x": 562,
-        "y": 505
-      }
-    },
-    "Bed": {
-      "0": {
-        "x": 198,
-        "y": 558
-      }
-    },
-    "Asuka": {
-      "0": {
-        "x": 474,
-        "y": 516
-      }
-    },
-    "Johnny": {
-      "0": {
-        "x": 535,
-        "y": 418
-      }
-    },
-    "Elphelt": {
-      "0": {
-        "x": 479,
-        "y": 492
-      }
-    },
-    "ABA": {
-      "0": {
-        "x": 682,
-        "y": 523
-      }
-    },
-    "Slayer": {
-      "0": {
-        "x": 493,
-        "y": 534
-      }
-    },
-    "Dizzy": {
-      "0": {
-        "x": 708,
-        "y": 592
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 1041,
+        "y": 1128
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

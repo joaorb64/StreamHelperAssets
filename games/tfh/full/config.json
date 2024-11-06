@@ -1,90 +1,94 @@
 {
-  "name": "Splash art",
-  "description": "Splash art used for promotional material",
-  "prefix": "",
-  "postfix": "_Action_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.31",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "rescaling_factor": {
-    "Nidra": {
-      "0": 2.1660377358490566037735849056604
+    "name": "Splash art",
+    "description": "Splash art used for promotional material",
+    "prefix": "",
+    "postfix": "_Action_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.31",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "rescaling_factor": {
+        "Nidra": {
+            "0": 2.1660377358490566
+        }
+    },
+    "eyesights": {
+        "Arizona": {
+            "0": {
+                "x": 822,
+                "y": 1065
+            }
+        },
+        "Oleander": {
+            "0": {
+                "x": 663,
+                "y": 483
+            }
+        },
+        "Paprika": {
+            "0": {
+                "x": 663,
+                "y": 551
+            }
+        },
+        "Pom": {
+            "0": {
+                "x": 756,
+                "y": 464
+            }
+        },
+        "Shanty": {
+            "0": {
+                "x": 431,
+                "y": 941
+            }
+        },
+        "Tianhuo": {
+            "0": {
+                "x": 782,
+                "y": 788
+            }
+        },
+        "Velvet": {
+            "0": {
+                "x": 879,
+                "y": 581
+            }
+        },
+        "Texas": {
+            "0": {
+                "x": 695,
+                "y": 1148
+            }
+        },
+        "Stronghoof": {
+            "0": {
+                "x": 1349,
+                "y": 975
+            }
+        },
+        "Baihe": {
+            "0": {
+                "x": 1691,
+                "y": 848
+            }
+        },
+        "Nidra": {
+            "0": {
+                "x": 449,
+                "y": 328
+            }
+        }
+    },
+    "average_size": {
+        "x": 1991,
+        "y": 1976
     }
-  },
-  "eyesights": {
-    "Arizona": {
-      "0": {
-        "x": 822,
-        "y": 1065
-      }
-    },
-    "Oleander": {
-      "0": {
-        "x": 663,
-        "y": 483
-      }
-    },
-    "Paprika": {
-      "0": {
-        "x": 663,
-        "y": 551
-      }
-    },
-    "Pom": {
-      "0": {
-        "x": 756,
-        "y": 464
-      }
-    },
-    "Shanty": {
-      "0": {
-        "x": 431,
-        "y": 941
-      }
-    },
-    "Tianhuo": {
-      "0": {
-        "x": 782,
-        "y": 788
-      }
-    },
-    "Velvet": {
-      "0": {
-        "x": 879,
-        "y": 581
-      }
-    },
-    "Texas": {
-      "0": {
-        "x": 695,
-        "y": 1148
-      }
-    },
-    "Stronghoof": {
-      "0": {
-        "x": 1349,
-        "y": 975
-      }
-    },
-    "Baihe": {
-      "0": {
-        "x": 1691,
-        "y": 848
-      }
-    },
-    "Nidra": {
-      "0": {
-        "x": 449,
-        "y": 328
-      }
-    }
-  }
 }

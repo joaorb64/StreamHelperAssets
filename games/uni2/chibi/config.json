@@ -1,163 +1,167 @@
 {
-  "name": "Mini Characters",
-  "description": "Chibi versions of characters, as seen in the Fan Kit",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "chibi"
-  ],
-  "credits": "© FRENCH-BREAD / ARC SYSTEM WORKS\n\nUNDER NIGHT IN-BIRTH II Sys:Celes Official Site: https://www.arcsystemworks.jp/uni2celes/en/\nUNDER NIGHT IN-BIRTH II Sys:Celes Fan Kit: https://www.arcsystemworks.jp/uni2celes/en/fankit/\nThe rights to the data included within are held by Arc System Works.",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "akatsuki": {
-      "0": {
-        "x": 244,
-        "y": 436
-      }
+    "name": "Mini Characters",
+    "description": "Chibi versions of characters, as seen in the Fan Kit",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "chibi"
+    ],
+    "credits": "\u00a9 FRENCH-BREAD / ARC SYSTEM WORKS\n\nUNDER NIGHT IN-BIRTH II Sys:Celes Official Site: https://www.arcsystemworks.jp/uni2celes/en/\nUNDER NIGHT IN-BIRTH II Sys:Celes Fan Kit: https://www.arcsystemworks.jp/uni2celes/en/fankit/\nThe rights to the data included within are held by Arc System Works.",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "akatsuki": {
+            "0": {
+                "x": 244,
+                "y": 436
+            }
+        },
+        "byakuya": {
+            "0": {
+                "x": 686,
+                "y": 509
+            }
+        },
+        "carmine": {
+            "0": {
+                "x": 266,
+                "y": 451
+            }
+        },
+        "chaos": {
+            "0": {
+                "x": 490,
+                "y": 370
+            }
+        },
+        "eltnum": {
+            "0": {
+                "x": 641,
+                "y": 502
+            }
+        },
+        "enkidu": {
+            "0": {
+                "x": 501,
+                "y": 616
+            }
+        },
+        "gordeau": {
+            "0": {
+                "x": 982,
+                "y": 546
+            }
+        },
+        "hilda": {
+            "0": {
+                "x": 736,
+                "y": 774
+            }
+        },
+        "hyde": {
+            "0": {
+                "x": 437,
+                "y": 618
+            }
+        },
+        "kaguya": {
+            "0": {
+                "x": 576,
+                "y": 425
+            }
+        },
+        "kuon": {
+            "0": {
+                "x": 1016,
+                "y": 1322
+            }
+        },
+        "linne": {
+            "0": {
+                "x": 280,
+                "y": 591
+            }
+        },
+        "londrekia": {
+            "0": {
+                "x": 245,
+                "y": 416
+            }
+        },
+        "merkava": {
+            "0": {
+                "x": 705,
+                "y": 179
+            }
+        },
+        "mika": {
+            "0": {
+                "x": 902,
+                "y": 502
+            }
+        },
+        "nanase": {
+            "0": {
+                "x": 527,
+                "y": 507
+            }
+        },
+        "orie": {
+            "0": {
+                "x": 342,
+                "y": 648
+            }
+        },
+        "phonon": {
+            "0": {
+                "x": 359,
+                "y": 286
+            }
+        },
+        "seth": {
+            "0": {
+                "x": 231,
+                "y": 483
+            }
+        },
+        "tsurugi": {
+            "0": {
+                "x": 327,
+                "y": 449
+            }
+        },
+        "vatista": {
+            "0": {
+                "x": 493,
+                "y": 640
+            }
+        },
+        "wagner": {
+            "0": {
+                "x": 554,
+                "y": 486
+            }
+        },
+        "waldstein": {
+            "0": {
+                "x": 493,
+                "y": 1014
+            }
+        },
+        "yuzuriha": {
+            "0": {
+                "x": 476,
+                "y": 566
+            }
+        }
     },
-    "byakuya": {
-      "0": {
-        "x": 686,
-        "y": 509
-      }
-    },
-    "carmine": {
-      "0": {
-        "x": 266,
-        "y": 451
-      }
-    },
-    "chaos": {
-      "0": {
-        "x": 490,
-        "y": 370
-      }
-    },
-    "eltnum": {
-      "0": {
-        "x": 641,
-        "y": 502
-      }
-    },
-    "enkidu": {
-      "0": {
-        "x": 501,
-        "y": 616
-      }
-    },
-    "gordeau": {
-      "0": {
-        "x": 982,
-        "y": 546
-      }
-    },
-    "hilda": {
-      "0": {
-        "x": 736,
-        "y": 774
-      }
-    },
-    "hyde": {
-      "0": {
-        "x": 437,
-        "y": 618
-      }
-    },
-    "kaguya": {
-      "0": {
-        "x": 576,
-        "y": 425
-      }
-    },
-    "kuon": {
-      "0": {
-        "x": 1016,
-        "y": 1322
-      }
-    },
-    "linne": {
-      "0": {
-        "x": 280,
-        "y": 591
-      }
-    },
-    "londrekia": {
-      "0": {
-        "x": 245,
-        "y": 416
-      }
-    },
-    "merkava": {
-      "0": {
-        "x": 705,
-        "y": 179
-      }
-    },
-    "mika": {
-      "0": {
-        "x": 902,
-        "y": 502
-      }
-    },
-    "nanase": {
-      "0": {
-        "x": 527,
-        "y": 507
-      }
-    },
-    "orie": {
-      "0": {
-        "x": 342,
-        "y": 648
-      }
-    },
-    "phonon": {
-      "0": {
-        "x": 359,
-        "y": 286
-      }
-    },
-    "seth": {
-      "0": {
-        "x": 231,
-        "y": 483
-      }
-    },
-    "tsurugi": {
-      "0": {
-        "x": 327,
-        "y": 449
-      }
-    },
-    "vatista": {
-      "0": {
-        "x": 493,
-        "y": 640
-      }
-    },
-    "wagner": {
-      "0": {
-        "x": 554,
-        "y": 486
-      }
-    },
-    "waldstein": {
-      "0": {
-        "x": 493,
-        "y": 1014
-      }
-    },
-    "yuzuriha": {
-      "0": {
-        "x": 476,
-        "y": 566
-      }
+    "average_size": {
+        "x": 1098,
+        "y": 1409
     }
-  }
 }

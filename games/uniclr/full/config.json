@@ -1,145 +1,149 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Under_Night_In-Birth/UNICLR)",
-  "version": "1.03",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Akatsuki": {
-      "0": {
-        "x": 426,
-        "y": 247
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Under_Night_In-Birth/UNICLR)",
+    "version": "1.03",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Akatsuki": {
+            "0": {
+                "x": 426,
+                "y": 247
+            }
+        },
+        "Byakuya": {
+            "0": {
+                "x": 819,
+                "y": 442
+            }
+        },
+        "Carmine": {
+            "0": {
+                "x": 364,
+                "y": 143
+            }
+        },
+        "Chaos": {
+            "0": {
+                "x": 513,
+                "y": 171
+            }
+        },
+        "Eltnum": {
+            "0": {
+                "x": 823,
+                "y": 301
+            }
+        },
+        "Enkidu": {
+            "0": {
+                "x": 732,
+                "y": 268
+            }
+        },
+        "Gordeau": {
+            "0": {
+                "x": 1112,
+                "y": 667
+            }
+        },
+        "Hilda": {
+            "0": {
+                "x": 672,
+                "y": 358
+            }
+        },
+        "Hyde": {
+            "0": {
+                "x": 367,
+                "y": 606
+            }
+        },
+        "Linne": {
+            "0": {
+                "x": 471,
+                "y": 292
+            }
+        },
+        "Londrekia": {
+            "0": {
+                "x": 593,
+                "y": 649
+            }
+        },
+        "Merkava": {
+            "0": {
+                "x": 910,
+                "y": 920
+            }
+        },
+        "Mika": {
+            "0": {
+                "x": 1013,
+                "y": 393
+            }
+        },
+        "Nanase": {
+            "0": {
+                "x": 484,
+                "y": 456
+            }
+        },
+        "Orie": {
+            "0": {
+                "x": 811,
+                "y": 260
+            }
+        },
+        "Phonon": {
+            "0": {
+                "x": 751,
+                "y": 196
+            }
+        },
+        "Seth": {
+            "0": {
+                "x": 1229,
+                "y": 208
+            }
+        },
+        "Vatista": {
+            "0": {
+                "x": 941,
+                "y": 501
+            }
+        },
+        "Wagner": {
+            "0": {
+                "x": 718,
+                "y": 466
+            }
+        },
+        "Waldstein": {
+            "0": {
+                "x": 1451,
+                "y": 849
+            }
+        },
+        "Yuzuriha": {
+            "0": {
+                "x": 522,
+                "y": 619
+            }
+        }
     },
-    "Byakuya": {
-      "0": {
-        "x": 819,
-        "y": 442
-      }
-    },
-    "Carmine": {
-      "0": {
-        "x": 364,
-        "y": 143
-      }
-    },
-    "Chaos": {
-      "0": {
-        "x": 513,
-        "y": 171
-      }
-    },
-    "Eltnum": {
-      "0": {
-        "x": 823,
-        "y": 301
-      }
-    },
-    "Enkidu": {
-      "0": {
-        "x": 732,
-        "y": 268
-      }
-    },
-    "Gordeau": {
-      "0": {
-        "x": 1112,
-        "y": 667
-      }
-    },
-    "Hilda": {
-      "0": {
-        "x": 672,
-        "y": 358
-      }
-    },
-    "Hyde": {
-      "0": {
-        "x": 367,
-        "y": 606
-      }
-    },
-    "Linne": {
-      "0": {
-        "x": 471,
-        "y": 292
-      }
-    },
-    "Londrekia": {
-      "0": {
-        "x": 593,
-        "y": 649
-      }
-    },
-    "Merkava": {
-      "0": {
-        "x": 910,
-        "y": 920
-      }
-    },
-    "Mika": {
-      "0": {
-        "x": 1013,
-        "y": 393
-      }
-    },
-    "Nanase": {
-      "0": {
-        "x": 484,
-        "y": 456
-      }
-    },
-    "Orie": {
-      "0": {
-        "x": 811,
-        "y": 260
-      }
-    },
-    "Phonon": {
-      "0": {
-        "x": 751,
-        "y": 196
-      }
-    },
-    "Seth": {
-      "0": {
-        "x": 1229,
-        "y": 208
-      }
-    },
-    "Vatista": {
-      "0": {
-        "x": 941,
-        "y": 501
-      }
-    },
-    "Wagner": {
-      "0": {
-        "x": 718,
-        "y": 466
-      }
-    },
-    "Waldstein": {
-      "0": {
-        "x": 1451,
-        "y": 849
-      }
-    },
-    "Yuzuriha": {
-      "0": {
-        "x": 522,
-        "y": 619
-      }
+    "average_size": {
+        "x": 1529,
+        "y": 1955
     }
-  }
 }

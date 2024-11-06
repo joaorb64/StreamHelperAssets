@@ -1,145 +1,149 @@
 {
-  "name": "Portraits (Website)",
-  "description": "Character portraits with character names, as seen on the Melty Blood: Type Lumina official website",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full_website"
-  ],
-  "credits": "",
-  "version": "1.61",
-  "eyesights": {
-    "AkihaTohno": {
-      "0": {
-        "x": 234,
-        "y": 73
-      }
+    "name": "Portraits (Website)",
+    "description": "Character portraits with character names, as seen on the Melty Blood: Type Lumina official website",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full_website"
+    ],
+    "credits": "",
+    "version": "1.61",
+    "eyesights": {
+        "AkihaTohno": {
+            "0": {
+                "x": 234,
+                "y": 73
+            }
+        },
+        "AokoAozaki": {
+            "0": {
+                "x": 256,
+                "y": 97
+            }
+        },
+        "ArcueidBrunestud": {
+            "0": {
+                "x": 112,
+                "y": 103
+            }
+        },
+        "Ciel": {
+            "0": {
+                "x": 264,
+                "y": 299
+            }
+        },
+        "DeadApostleNoel": {
+            "0": {
+                "x": 360,
+                "y": 166
+            }
+        },
+        "Hisui": {
+            "0": {
+                "x": 215,
+                "y": 94
+            }
+        },
+        "HisuiKohaku": {
+            "0": {
+                "x": 372,
+                "y": 210
+            }
+        },
+        "Kohaku": {
+            "0": {
+                "x": 522,
+                "y": 114
+            }
+        },
+        "KoumaKishima": {
+            "0": {
+                "x": 324,
+                "y": 76
+            }
+        },
+        "Mario": {
+            "0": {
+                "x": 236,
+                "y": 101
+            }
+        },
+        "MichaelRoaValdamjong": {
+            "0": {
+                "x": 364,
+                "y": 117
+            }
+        },
+        "MiyakoArima": {
+            "0": {
+                "x": 208,
+                "y": 115
+            }
+        },
+        "Noel": {
+            "0": {
+                "x": 181,
+                "y": 166
+            }
+        },
+        "PoweredCiel": {
+            "0": {
+                "x": 299,
+                "y": 82
+            }
+        },
+        "RedArcueid": {
+            "0": {
+                "x": 374,
+                "y": 96
+            }
+        },
+        "Saber": {
+            "0": {
+                "x": 416,
+                "y": 292
+            }
+        },
+        "ShikiTohno": {
+            "0": {
+                "x": 136,
+                "y": 95
+            }
+        },
+        "VlovArkhangel": {
+            "0": {
+                "x": 452,
+                "y": 86
+            }
+        },
+        "Mash": {
+            "0": {
+                "x": 508,
+                "y": 294
+            }
+        },
+        "NecoArc": {
+            "0": {
+                "x": 117,
+                "y": 188
+            }
+        },
+        "Ushiwakamaru": {
+            "0": {
+                "x": 597,
+                "y": 194
+            }
+        },
+        "Count": {
+            "0": {
+                "x": 526,
+                "y": 136
+            }
+        }
     },
-    "AokoAozaki": {
-      "0": {
-        "x": 256,
-        "y": 97
-      }
-    },
-    "ArcueidBrunestud": {
-      "0": {
-        "x": 112,
-        "y": 103
-      }
-    },
-    "Ciel": {
-      "0": {
-        "x": 264,
-        "y": 299
-      }
-    },
-    "DeadApostleNoel": {
-      "0": {
-        "x": 360,
-        "y": 166
-      }
-    },
-    "Hisui": {
-      "0": {
-        "x": 215,
-        "y": 94
-      }
-    },
-    "HisuiKohaku": {
-      "0": {
-        "x": 372,
-        "y": 210
-      }
-    },
-    "Kohaku": {
-      "0": {
-        "x": 522,
-        "y": 114
-      }
-    },
-    "KoumaKishima": {
-      "0": {
-        "x": 324,
-        "y": 76
-      }
-    },
-    "Mario": {
-      "0": {
-        "x": 236,
-        "y": 101
-      }
-    },
-    "MichaelRoaValdamjong": {
-      "0": {
-        "x": 364,
-        "y": 117
-      }
-    },
-    "MiyakoArima": {
-      "0": {
-        "x": 208,
-        "y": 115
-      }
-    },
-    "Noel": {
-      "0": {
-        "x": 181,
-        "y": 166
-      }
-    },
-    "PoweredCiel": {
-      "0": {
-        "x": 299,
-        "y": 82
-      }
-    },
-    "RedArcueid": {
-      "0": {
-        "x": 374,
-        "y": 96
-      }
-    },
-    "Saber": {
-      "0": {
-        "x": 416,
-        "y": 292
-      }
-    },
-    "ShikiTohno": {
-      "0": {
-        "x": 136,
-        "y": 95
-      }
-    },
-    "VlovArkhangel": {
-      "0": {
-        "x": 452,
-        "y": 86
-      }
-    },
-    "Mash": {
-      "0": {
-        "x": 508,
-        "y": 294
-      }
-    },
-    "NecoArc": {
-      "0": {
-        "x": 117,
-        "y": 188
-      }
-    },
-    "Ushiwakamaru": {
-      "0": {
-        "x": 597,
-        "y": 194
-      }
-    },
-    "Count": {
-      "0": {
-        "x": 526,
-        "y": 136
-      }
+    "average_size": {
+        "x": 651,
+        "y": 879
     }
-  }
 }

@@ -1,10 +1,14 @@
 {
-  "name": "Stage Icons",
-  "version": "8.0",
-  "description": "Stage icons",
-  "prefix": "stage_",
-  "postfix": "",
-  "type": [
-    "stage_icon"
-  ]
+    "name": "Stage Icons",
+    "version": "8.0",
+    "description": "Stage icons",
+    "prefix": "stage_",
+    "postfix": "",
+    "type": [
+        "stage_icon"
+    ],
+    "average_size": {
+        "x": 1434,
+        "y": 808
+    }
 }

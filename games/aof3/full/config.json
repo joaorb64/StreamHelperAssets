@@ -1,73 +1,77 @@
 {
-  "name": "Win Screens",
-  "description": "Character Win Screens",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Art_of_Fighting_3)\n@MathiasWolfbrok for cropping",
-  "version": "1.02",
-  "eyesights": {
-    "Jin": {
-      "0": {
-        "x": 504,
-        "y": 181
-      }
+    "name": "Win Screens",
+    "description": "Character Win Screens",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Art_of_Fighting_3)\n@MathiasWolfbrok for cropping",
+    "version": "1.02",
+    "eyesights": {
+        "Jin": {
+            "0": {
+                "x": 504,
+                "y": 181
+            }
+        },
+        "Karman": {
+            "0": {
+                "x": 669,
+                "y": 295
+            }
+        },
+        "Kasumi": {
+            "0": {
+                "x": 718,
+                "y": 423
+            }
+        },
+        "Lenny": {
+            "0": {
+                "x": 484,
+                "y": 271
+            }
+        },
+        "Robert": {
+            "0": {
+                "x": 385,
+                "y": 261
+            }
+        },
+        "Rody": {
+            "0": {
+                "x": 594,
+                "y": 549
+            }
+        },
+        "Ryo": {
+            "0": {
+                "x": 475,
+                "y": 355
+            }
+        },
+        "Sinclair": {
+            "0": {
+                "x": 454,
+                "y": 92
+            }
+        },
+        "Wang": {
+            "0": {
+                "x": 458,
+                "y": 208
+            }
+        },
+        "Wyler": {
+            "0": {
+                "x": 302,
+                "y": 239
+            }
+        }
     },
-    "Karman": {
-      "0": {
-        "x": 669,
-        "y": 295
-      }
-    },
-    "Kasumi": {
-      "0": {
-        "x": 718,
-        "y": 423
-      }
-    },
-    "Lenny": {
-      "0": {
-        "x": 484,
-        "y": 271
-      }
-    },
-    "Robert": {
-      "0": {
-        "x": 385,
-        "y": 261
-      }
-    },
-    "Rody": {
-      "0": {
-        "x": 594,
-        "y": 549
-      }
-    },
-    "Ryo": {
-      "0": {
-        "x": 475,
-        "y": 355
-      }
-    },
-    "Sinclair": {
-      "0": {
-        "x": 454,
-        "y": 92
-      }
-    },
-    "Wang": {
-      "0": {
-        "x": 458,
-        "y": 208
-      }
-    },
-    "Wyler": {
-      "0": {
-        "x": 302,
-        "y": 239
-      }
+    "average_size": {
+        "x": 960,
+        "y": 1080
     }
-  }
 }

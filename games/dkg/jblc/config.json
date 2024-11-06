@@ -1,79 +1,83 @@
 {
-  "name": "Artwork",
-  "description": "Character artwork",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "portrait"
-  ],
-  "credits": "Fan artwork by JBLC (https://www.jblcillu.com/)\nCommissioned by Mathias Wolfbrok\nPlease make sure to explicitly credit the artist if used",
-  "version": "1.0",
-  "eyesights": {
-    "Kazuya": {
-      "0": {
-        "x": 1483,
-        "y": 1336
-      }
+    "name": "Artwork",
+    "description": "Character artwork",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "portrait"
+    ],
+    "credits": "Fan artwork by JBLC (https://www.jblcillu.com/)\nCommissioned by Mathias Wolfbrok\nPlease make sure to explicitly credit the artist if used",
+    "version": "1.0",
+    "eyesights": {
+        "Kazuya": {
+            "0": {
+                "x": 1483,
+                "y": 1336
+            }
+        },
+        "Boggy": {
+            "0": {
+                "x": 1322,
+                "y": 808
+            }
+        },
+        "Lihua": {
+            "0": {
+                "x": 1718,
+                "y": 1098
+            }
+        },
+        "Barts": {
+            "0": {
+                "x": 1063,
+                "y": 1126
+            }
+        },
+        "Gekkou": {
+            "0": {
+                "x": 1247,
+                "y": 889
+            }
+        },
+        "Gonzales": {
+            "0": {
+                "x": 1359,
+                "y": 581
+            }
+        },
+        "JMcCoy": {
+            "0": {
+                "x": 1877,
+                "y": 730
+            }
+        },
+        "Liza": {
+            "0": {
+                "x": 1821,
+                "y": 558
+            }
+        },
+        "Wulong": {
+            "0": {
+                "x": 1173,
+                "y": 1053
+            }
+        },
+        "Marco": {
+            "0": {
+                "x": 1208,
+                "y": 576
+            }
+        },
+        "Azteca": {
+            "0": {
+                "x": 1332,
+                "y": 536
+            }
+        }
     },
-    "Boggy": {
-      "0": {
-        "x": 1322,
-        "y": 808
-      }
-    },
-    "Lihua": {
-      "0": {
-        "x": 1718,
-        "y": 1098
-      }
-    },
-    "Barts": {
-      "0": {
-        "x": 1063,
-        "y": 1126
-      }
-    },
-    "Gekkou": {
-      "0": {
-        "x": 1247,
-        "y": 889
-      }
-    },
-    "Gonzales": {
-      "0": {
-        "x": 1359,
-        "y": 581
-      }
-    },
-    "JMcCoy": {
-      "0": {
-        "x": 1877,
-        "y": 730
-      }
-    },
-    "Liza": {
-      "0": {
-        "x": 1821,
-        "y": 558
-      }
-    },
-    "Wulong": {
-      "0": {
-        "x": 1173,
-        "y": 1053
-      }
-    },
-    "Marco": {
-      "0": {
-        "x": 1208,
-        "y": 576
-      }
-    },
-    "Azteca": {
-      "0": {
-        "x": 1332,
-        "y": 536
-      }
+    "average_size": {
+        "x": 2475,
+        "y": 3497
     }
-  }
 }

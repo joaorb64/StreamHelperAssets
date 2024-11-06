@@ -1,11 +1,15 @@
 {
-  "name": "Icon",
-  "description": "Individual front-facing head sprites",
-  "prefix": "icon_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "credits": "Superjustinbros for making spritesheet on The Spriters Resource",
-  "version": "1.0"
+    "name": "Icon",
+    "description": "Individual front-facing head sprites",
+    "prefix": "icon_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "credits": "Superjustinbros for making spritesheet on The Spriters Resource",
+    "version": "1.0",
+    "average_size": {
+        "x": 96,
+        "y": 96
+    }
 }

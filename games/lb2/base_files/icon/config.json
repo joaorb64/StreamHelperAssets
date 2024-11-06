@@ -1,136 +1,140 @@
 {
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0",
-  "eyesights": {
-    "AkariIchijou": {
-      "0": {
-        "x": 992,
-        "y": 676
-      }
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "eyesights": {
+        "AkariIchijou": {
+            "0": {
+                "x": 992,
+                "y": 676
+            }
+        },
+        "GenbunoOkina": {
+            "0": {
+                "x": 916,
+                "y": 722
+            }
+        },
+        "HagureHitogata": {
+            "0": {
+                "x": 982,
+                "y": 768
+            }
+        },
+        "HibikiTakane": {
+            "0": {
+                "x": 714,
+                "y": 446
+            }
+        },
+        "HyoAmano": {
+            "0": {
+                "x": 1530,
+                "y": 646
+            }
+        },
+        "JuzohKanzaki": {
+            "0": {
+                "x": 1183,
+                "y": 705
+            }
+        },
+        "KaedeAwakened": {
+            "0": {
+                "x": 1218,
+                "y": 532
+            }
+        },
+        "KaedeOriginal": {
+            "0": {
+                "x": 582,
+                "y": 554
+            }
+        },
+        "KaoriSanada": {
+            "0": {
+                "x": 866,
+                "y": 837
+            }
+        },
+        "KeiichiroWashizuka": {
+            "0": {
+                "x": 1098,
+                "y": 420
+            }
+        },
+        "KotetsuNaoe": {
+            "0": {
+                "x": 1464,
+                "y": 472
+            }
+        },
+        "Kouryu": {
+            "0": {
+                "x": 869,
+                "y": 660
+            }
+        },
+        "LeeRekka": {
+            "0": {
+                "x": 832,
+                "y": 670
+            }
+        },
+        "MoriyaMinakata": {
+            "0": {
+                "x": 918,
+                "y": 428
+            }
+        },
+        "Mukuro": {
+            "0": {
+                "x": 1362,
+                "y": 370
+            }
+        },
+        "MusashiAkatsuki": {
+            "0": {
+                "x": 1348,
+                "y": 564
+            }
+        },
+        "Setsuna": {
+            "0": {
+                "x": 872,
+                "y": 834
+            }
+        },
+        "ShigenNaoe": {
+            "0": {
+                "x": 1484,
+                "y": 486
+            }
+        },
+        "ShinnosukeKagami": {
+            "0": {
+                "x": 834,
+                "y": 404
+            }
+        },
+        "Yuki": {
+            "0": {
+                "x": 1468,
+                "y": 705
+            }
+        },
+        "Zantetsu": {
+            "0": {
+                "x": 1799,
+                "y": 852
+            }
+        }
     },
-    "GenbunoOkina": {
-      "0": {
-        "x": 916,
-        "y": 722
-      }
-    },
-    "HagureHitogata": {
-      "0": {
-        "x": 982,
-        "y": 768
-      }
-    },
-    "HibikiTakane": {
-      "0": {
-        "x": 714,
-        "y": 446
-      }
-    },
-    "HyoAmano": {
-      "0": {
-        "x": 1530,
-        "y": 646
-      }
-    },
-    "JuzohKanzaki": {
-      "0": {
-        "x": 1183,
-        "y": 705
-      }
-    },
-    "KaedeAwakened": {
-      "0": {
-        "x": 1218,
-        "y": 532
-      }
-    },
-    "KaedeOriginal": {
-      "0": {
-        "x": 582,
-        "y": 554
-      }
-    },
-    "KaoriSanada": {
-      "0": {
-        "x": 866,
-        "y": 837
-      }
-    },
-    "KeiichiroWashizuka": {
-      "0": {
-        "x": 1098,
-        "y": 420
-      }
-    },
-    "KotetsuNaoe": {
-      "0": {
-        "x": 1464,
-        "y": 472
-      }
-    },
-    "Kouryu": {
-      "0": {
-        "x": 869,
-        "y": 660
-      }
-    },
-    "LeeRekka": {
-      "0": {
-        "x": 832,
-        "y": 670
-      }
-    },
-    "MoriyaMinakata": {
-      "0": {
-        "x": 918,
-        "y": 428
-      }
-    },
-    "Mukuro": {
-      "0": {
-        "x": 1362,
-        "y": 370
-      }
-    },
-    "MusashiAkatsuki": {
-      "0": {
-        "x": 1348,
-        "y": 564
-      }
-    },
-    "Setsuna": {
-      "0": {
-        "x": 872,
-        "y": 834
-      }
-    },
-    "ShigenNaoe": {
-      "0": {
-        "x": 1484,
-        "y": 486
-      }
-    },
-    "ShinnosukeKagami": {
-      "0": {
-        "x": 834,
-        "y": 404
-      }
-    },
-    "Yuki": {
-      "0": {
-        "x": 1468,
-        "y": 705
-      }
-    },
-    "Zantetsu": {
-      "0": {
-        "x": 1799,
-        "y": 852
-      }
+    "average_size": {
+        "x": 1985,
+        "y": 1769
     }
-  }
 }

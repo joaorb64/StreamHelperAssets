@@ -1,11 +1,15 @@
 {
-  "name": "Stages",
-  "description": "Stage icons",
-  "prefix": "stage_",
-  "postfix": "_large_0",
-  "type": [
-    "stage_icon"
-  ],
-  "credits": "",
-  "version": "1.8"
+    "name": "Stages",
+    "description": "Stage icons",
+    "prefix": "stage_",
+    "postfix": "_large_0",
+    "type": [
+        "stage_icon"
+    ],
+    "credits": "",
+    "version": "1.8",
+    "average_size": {
+        "x": 3051,
+        "y": 1716
+    }
 }

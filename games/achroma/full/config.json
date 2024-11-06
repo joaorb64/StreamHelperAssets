@@ -1,85 +1,89 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Ciel": {
-      "0": {
-        "x": 2172,
-        "y": 919
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Ciel": {
+            "0": {
+                "x": 2172,
+                "y": 919
+            }
+        },
+        "Gangco": {
+            "0": {
+                "x": 2305,
+                "y": 959
+            }
+        },
+        "Hitboxer": {
+            "0": {
+                "x": 348,
+                "y": 1287
+            }
+        },
+        "Kern": {
+            "0": {
+                "x": 1339,
+                "y": 1586
+            }
+        },
+        "Manta": {
+            "0": {
+                "x": 2922,
+                "y": 2056
+            }
+        },
+        "Mirmo": {
+            "0": {
+                "x": 1660,
+                "y": 672
+            }
+        },
+        "MrNo5": {
+            "0": {
+                "x": 946,
+                "y": 2266
+            }
+        },
+        "Nosferatu": {
+            "0": {
+                "x": 1427,
+                "y": 611
+            }
+        },
+        "Skullion": {
+            "0": {
+                "x": 1830,
+                "y": 1570
+            }
+        },
+        "Zaiva": {
+            "0": {
+                "x": 1540,
+                "y": 936
+            }
+        },
+        "Random": {
+            "0": {
+                "x": 755,
+                "y": 1125
+            }
+        }
     },
-    "Gangco": {
-      "0": {
-        "x": 2305,
-        "y": 959
-      }
-    },
-    "Hitboxer": {
-      "0": {
-        "x": 348,
-        "y": 1287
-      }
-    },
-    "Kern": {
-      "0": {
-        "x": 1339,
-        "y": 1586
-      }
-    },
-    "Manta": {
-      "0": {
-        "x": 2922,
-        "y": 2056
-      }
-    },
-    "Mirmo": {
-      "0": {
-        "x": 1660,
-        "y": 672
-      }
-    },
-    "MrNo5": {
-      "0": {
-        "x": 946,
-        "y": 2266
-      }
-    },
-    "Nosferatu": {
-      "0": {
-        "x": 1427,
-        "y": 611
-      }
-    },
-    "Skullion": {
-      "0": {
-        "x": 1830,
-        "y": 1570
-      }
-    },
-    "Zaiva": {
-      "0": {
-        "x": 1540,
-        "y": 936
-      }
-    },
-    "Random": {
-      "0": {
-        "x": 755,
-        "y": 1125
-      }
+    "average_size": {
+        "x": 3214,
+        "y": 3266
     }
-  }
 }

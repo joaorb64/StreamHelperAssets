@@ -1,97 +1,101 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.12",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Adler": {
-      "0": {
-        "x": 169,
-        "y": 63
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.12",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Adler": {
+            "0": {
+                "x": 169,
+                "y": 63
+            }
+        },
+        "Akatsuki": {
+            "0": {
+                "x": 180,
+                "y": 74
+            }
+        },
+        "Anonym": {
+            "0": {
+                "x": 289,
+                "y": 112
+            }
+        },
+        "Blitztank": {
+            "0": {
+                "x": 379,
+                "y": 50
+            }
+        },
+        "Elektrosoldat": {
+            "0": {
+                "x": 173,
+                "y": 49
+            }
+        },
+        "Fritz": {
+            "0": {
+                "x": 190,
+                "y": 73
+            }
+        },
+        "Kanae": {
+            "0": {
+                "x": 170,
+                "y": 91
+            }
+        },
+        "MarilynSue": {
+            "0": {
+                "x": 166,
+                "y": 123
+            }
+        },
+        "Murakumo": {
+            "0": {
+                "x": 261,
+                "y": 73
+            }
+        },
+        "Mycale": {
+            "0": {
+                "x": 269,
+                "y": 140
+            }
+        },
+        "Perfecti": {
+            "0": {
+                "x": 320,
+                "y": 157
+            }
+        },
+        "Sai": {
+            "0": {
+                "x": 164,
+                "y": 75
+            }
+        },
+        "Wei": {
+            "0": {
+                "x": 274,
+                "y": 56
+            }
+        }
     },
-    "Akatsuki": {
-      "0": {
-        "x": 180,
-        "y": 74
-      }
-    },
-    "Anonym": {
-      "0": {
-        "x": 289,
-        "y": 112
-      }
-    },
-    "Blitztank": {
-      "0": {
-        "x": 379,
-        "y": 50
-      }
-    },
-    "Elektrosoldat": {
-      "0": {
-        "x": 173,
-        "y": 49
-      }
-    },
-    "Fritz": {
-      "0": {
-        "x": 190,
-        "y": 73
-      }
-    },
-    "Kanae": {
-      "0": {
-        "x": 170,
-        "y": 91
-      }
-    },
-    "MarilynSue": {
-      "0": {
-        "x": 166,
-        "y": 123
-      }
-    },
-    "Murakumo": {
-      "0": {
-        "x": 261,
-        "y": 73
-      }
-    },
-    "Mycale": {
-      "0": {
-        "x": 269,
-        "y": 140
-      }
-    },
-    "Perfecti": {
-      "0": {
-        "x": 320,
-        "y": 157
-      }
-    },
-    "Sai": {
-      "0": {
-        "x": 164,
-        "y": 75
-      }
-    },
-    "Wei": {
-      "0": {
-        "x": 274,
-        "y": 56
-      }
+    "average_size": {
+        "x": 496,
+        "y": 932
     }
-  }
 }

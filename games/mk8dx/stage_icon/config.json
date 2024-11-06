@@ -1,10 +1,14 @@
 {
-  "name": "Course Icons",
-  "version": "3.0",
-  "description": "Course icons, as seen in the Results Screen",
-  "prefix": "ym_AwardBG_",
-  "postfix": "_00",
-  "type": [
-    "stage_icon"
-  ]
+    "name": "Course Icons",
+    "version": "3.0",
+    "description": "Course icons, as seen in the Results Screen",
+    "prefix": "ym_AwardBG_",
+    "postfix": "_00",
+    "type": [
+        "stage_icon"
+    ],
+    "average_size": {
+        "x": 1280,
+        "y": 720
+    }
 }

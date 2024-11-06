@@ -1,144 +1,148 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Skullgirls Wiki (https://skullgirls.fandom.com/wiki/Skullgirls)",
-  "version": "1.22",
-  "rescaling_factor": {
-    "Annie": {
-      "0": 0.63
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Skullgirls Wiki (https://skullgirls.fandom.com/wiki/Skullgirls)",
+    "version": "1.22",
+    "rescaling_factor": {
+        "Annie": {
+            "0": 0.63
+        },
+        "Umbrella": {
+            "0": 0.85
+        },
+        "BlackDahlia": {
+            "0": 0.7
+        },
+        "MsFortune": {
+            "0": 0.9
+        },
+        "BigBand": {
+            "0": 1.15
+        },
+        "RoboFortune": {
+            "0": 1.15
+        },
+        "Peacock": {
+            "0": 0.85
+        }
     },
-    "Umbrella": {
-      "0": 0.85
+    "eyesights": {
+        "Annie": {
+            "0": {
+                "x": 573,
+                "y": 383
+            }
+        },
+        "Beowulf": {
+            "0": {
+                "x": 1084,
+                "y": 1558
+            }
+        },
+        "BigBand": {
+            "0": {
+                "x": 751,
+                "y": 920
+            }
+        },
+        "BlackDahlia": {
+            "0": {
+                "x": 1187,
+                "y": 555
+            }
+        },
+        "Cerebella": {
+            "0": {
+                "x": 867,
+                "y": 1122
+            }
+        },
+        "Double": {
+            "0": {
+                "x": 994,
+                "y": 187
+            }
+        },
+        "Eliza": {
+            "0": {
+                "x": 883,
+                "y": 490
+            }
+        },
+        "Filia": {
+            "0": {
+                "x": 551,
+                "y": 739
+            }
+        },
+        "Fukua": {
+            "0": {
+                "x": 1096,
+                "y": 743
+            }
+        },
+        "Marie": {
+            "0": {
+                "x": 1147,
+                "y": 665
+            }
+        },
+        "MsFortune": {
+            "0": {
+                "x": 237,
+                "y": 678
+            }
+        },
+        "Painwheel": {
+            "0": {
+                "x": 590,
+                "y": 1060
+            }
+        },
+        "Parasoul": {
+            "0": {
+                "x": 642,
+                "y": 332
+            }
+        },
+        "Peacock": {
+            "0": {
+                "x": 711,
+                "y": 924
+            }
+        },
+        "RoboFortune": {
+            "0": {
+                "x": 907,
+                "y": 894
+            }
+        },
+        "Squigly": {
+            "0": {
+                "x": 574,
+                "y": 612
+            }
+        },
+        "Umbrella": {
+            "0": {
+                "x": 1533,
+                "y": 1129
+            }
+        },
+        "Valentine": {
+            "0": {
+                "x": 898,
+                "y": 518
+            }
+        }
     },
-    "BlackDahlia": {
-      "0": 0.7
-    },
-    "MsFortune": {
-      "0": 0.9
-    },
-    "BigBand": {
-      "0": 1.15
-    },
-    "RoboFortune": {
-      "0": 1.15
-    },
-    "Peacock": {
-      "0": 0.85
+    "average_size": {
+        "x": 1995,
+        "y": 2260
     }
-  },
-  "eyesights": {
-    "Annie": {
-      "0": {
-        "x": 573,
-        "y": 383
-      }
-    },
-    "Beowulf": {
-      "0": {
-        "x": 1084,
-        "y": 1558
-      }
-    },
-    "BigBand": {
-      "0": {
-        "x": 751,
-        "y": 920
-      }
-    },
-    "BlackDahlia": {
-      "0": {
-        "x": 1187,
-        "y": 555
-      }
-    },
-    "Cerebella": {
-      "0": {
-        "x": 867,
-        "y": 1122
-      }
-    },
-    "Double": {
-      "0": {
-        "x": 994,
-        "y": 187
-      }
-    },
-    "Eliza": {
-      "0": {
-        "x": 883,
-        "y": 490
-      }
-    },
-    "Filia": {
-      "0": {
-        "x": 551,
-        "y": 739
-      }
-    },
-    "Fukua": {
-      "0": {
-        "x": 1096,
-        "y": 743
-      }
-    },
-    "Marie": {
-      "0": {
-        "x": 1147,
-        "y": 665
-      }
-    },
-    "MsFortune": {
-      "0": {
-        "x": 237,
-        "y": 678
-      }
-    },
-    "Painwheel": {
-      "0": {
-        "x": 590,
-        "y": 1060
-      }
-    },
-    "Parasoul": {
-      "0": {
-        "x": 642,
-        "y": 332
-      }
-    },
-    "Peacock": {
-      "0": {
-        "x": 711,
-        "y": 924
-      }
-    },
-    "RoboFortune": {
-      "0": {
-        "x": 907,
-        "y": 894
-      }
-    },
-    "Squigly": {
-      "0": {
-        "x": 574,
-        "y": 612
-      }
-    },
-    "Umbrella": {
-      "0": {
-        "x": 1533,
-        "y": 1129
-      }
-    },
-    "Valentine": {
-      "0": {
-        "x": 898,
-        "y": 518
-      }
-    }
-  }
 }

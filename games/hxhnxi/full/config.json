@@ -1,115 +1,119 @@
 {
-  "name": "Renders",
-  "description": "Character renders",
-  "credits": "Ripped from https://hunterhunter-ni.bushiroadgames.com/en/character/",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Gon": {
-      "0": {
-        "x": 872,
-        "y": 406
-      }
+    "name": "Renders",
+    "description": "Character renders",
+    "credits": "Ripped from https://hunterhunter-ni.bushiroadgames.com/en/character/",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Gon": {
+            "0": {
+                "x": 872,
+                "y": 406
+            }
+        },
+        "Hisoka": {
+            "0": {
+                "x": 830,
+                "y": 236
+            }
+        },
+        "Kilua": {
+            "0": {
+                "x": 760,
+                "y": 413
+            }
+        },
+        "Kurapika": {
+            "0": {
+                "x": 794,
+                "y": 410
+            }
+        },
+        "Leorio": {
+            "0": {
+                "x": 753,
+                "y": 188
+            }
+        },
+        "Netero": {
+            "0": {
+                "x": 753,
+                "y": 395
+            }
+        },
+        "Bisky": {
+            "0": {
+                "x": 705,
+                "y": 423
+            }
+        },
+        "Machi": {
+            "0": {
+                "x": 752,
+                "y": 374
+            }
+        },
+        "Uvogin": {
+            "0": {
+                "x": 745,
+                "y": 285
+            }
+        },
+        "Chrollo": {
+            "0": {
+                "x": 835,
+                "y": 243
+            }
+        },
+        "Feitan": {
+            "0": {
+                "x": 775,
+                "y": 431
+            }
+        },
+        "Meruem": {
+            "0": {
+                "x": 801,
+                "y": 249
+            }
+        },
+        "Genthru": {
+            "0": {
+                "x": 754,
+                "y": 240
+            }
+        },
+        "Kite": {
+            "0": {
+                "x": 698,
+                "y": 210
+            }
+        },
+        "Morel": {
+            "0": {
+                "x": 730,
+                "y": 230
+            }
+        },
+        "Razor": {
+            "0": {
+                "x": 773,
+                "y": 212
+            }
+        }
     },
-    "Hisoka": {
-      "0": {
-        "x": 830,
-        "y": 236
-      }
-    },
-    "Kilua": {
-      "0": {
-        "x": 760,
-        "y": 413
-      }
-    },
-    "Kurapika": {
-      "0": {
-        "x": 794,
-        "y": 410
-      }
-    },
-    "Leorio": {
-      "0": {
-        "x": 753,
-        "y": 188
-      }
-    },
-    "Netero": {
-      "0": {
-        "x": 753,
-        "y": 395
-      }
-    },
-    "Bisky": {
-      "0": {
-        "x": 705,
-        "y": 423
-      }
-    },
-    "Machi": {
-      "0": {
-        "x": 752,
-        "y": 374
-      }
-    },
-    "Uvogin": {
-      "0": {
-        "x": 745,
-        "y": 285
-      }
-    },
-    "Chrollo": {
-      "0": {
-        "x": 835,
-        "y": 243
-      }
-    },
-    "Feitan": {
-      "0": {
-        "x": 775,
-        "y": 431
-      }
-    },
-    "Meruem": {
-      "0": {
-        "x": 801,
-        "y": 249
-      }
-    },
-    "Genthru": {
-      "0": {
-        "x": 754,
-        "y": 240
-      }
-    },
-    "Kite": {
-      "0": {
-        "x": 698,
-        "y": 210
-      }
-    },
-    "Morel": {
-      "0": {
-        "x": 730,
-        "y": 230
-      }
-    },
-    "Razor": {
-      "0": {
-        "x": 773,
-        "y": 212
-      }
+    "average_size": {
+        "x": 1320,
+        "y": 2060
     }
-  }
 }

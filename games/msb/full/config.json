@@ -1,91 +1,95 @@
 {
-  "name": "Renders",
-  "description": "Character Renders",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.02",
-  "eyesights": {
-    "Birdo": {
-      "0": {
-        "x": 1281,
-        "y": 413
-      }
+    "name": "Renders",
+    "description": "Character Renders",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.02",
+    "eyesights": {
+        "Birdo": {
+            "0": {
+                "x": 1281,
+                "y": 413
+            }
+        },
+        "Bowser": {
+            "0": {
+                "x": 2017,
+                "y": 735
+            }
+        },
+        "BowserJr": {
+            "0": {
+                "x": 1157,
+                "y": 581
+            }
+        },
+        "Daisy": {
+            "0": {
+                "x": 552,
+                "y": 551
+            }
+        },
+        "DiddyKong": {
+            "0": {
+                "x": 590,
+                "y": 873
+            }
+        },
+        "DonkeyKong": {
+            "0": {
+                "x": 363,
+                "y": 1234
+            }
+        },
+        "Luigi": {
+            "0": {
+                "x": 436,
+                "y": 536
+            }
+        },
+        "Mario": {
+            "0": {
+                "x": 495,
+                "y": 241
+            }
+        },
+        "Peach": {
+            "0": {
+                "x": 878,
+                "y": 523
+            }
+        },
+        "Waluigi": {
+            "0": {
+                "x": 804,
+                "y": 482
+            }
+        },
+        "Wario": {
+            "0": {
+                "x": 237,
+                "y": 977
+            }
+        },
+        "Yoshi": {
+            "0": {
+                "x": 1456,
+                "y": 327
+            }
+        }
     },
-    "Bowser": {
-      "0": {
-        "x": 2017,
-        "y": 735
-      }
-    },
-    "BowserJr": {
-      "0": {
-        "x": 1157,
-        "y": 581
-      }
-    },
-    "Daisy": {
-      "0": {
-        "x": 552,
-        "y": 551
-      }
-    },
-    "DiddyKong": {
-      "0": {
-        "x": 590,
-        "y": 873
-      }
-    },
-    "DonkeyKong": {
-      "0": {
-        "x": 363,
-        "y": 1234
-      }
-    },
-    "Luigi": {
-      "0": {
-        "x": 436,
-        "y": 536
-      }
-    },
-    "Mario": {
-      "0": {
-        "x": 495,
-        "y": 241
-      }
-    },
-    "Peach": {
-      "0": {
-        "x": 878,
-        "y": 523
-      }
-    },
-    "Waluigi": {
-      "0": {
-        "x": 804,
-        "y": 482
-      }
-    },
-    "Wario": {
-      "0": {
-        "x": 237,
-        "y": 977
-      }
-    },
-    "Yoshi": {
-      "0": {
-        "x": 1456,
-        "y": 327
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 1834,
+        "y": 2157
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

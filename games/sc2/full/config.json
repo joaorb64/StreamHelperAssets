@@ -1,169 +1,173 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.01",
-  "eyesights": {
-    "Assassin": {
-      "0": {
-        "x": 740,
-        "y": 456
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.01",
+    "eyesights": {
+        "Assassin": {
+            "0": {
+                "x": 740,
+                "y": 456
+            }
+        },
+        "Astaroth": {
+            "0": {
+                "x": 236,
+                "y": 129
+            }
+        },
+        "Berserker": {
+            "0": {
+                "x": 690,
+                "y": 276
+            }
+        },
+        "CassandraAlexandra": {
+            "0": {
+                "x": 270,
+                "y": 162
+            }
+        },
+        "CervantesdeLeon": {
+            "0": {
+                "x": 256,
+                "y": 129
+            }
+        },
+        "ChaiXianghua": {
+            "0": {
+                "x": 261,
+                "y": 150
+            }
+        },
+        "Charade": {
+            "0": {
+                "x": 244,
+                "y": 221
+            }
+        },
+        "HeihachiMishima": {
+            "0": {
+                "x": 298,
+                "y": 149
+            }
+        },
+        "HeishiroMitsurugi": {
+            "0": {
+                "x": 217,
+                "y": 151
+            }
+        },
+        "HongYunsung": {
+            "0": {
+                "x": 207,
+                "y": 219
+            }
+        },
+        "Inferno": {
+            "0": {
+                "x": 271,
+                "y": 95
+            }
+        },
+        "IsabellaIvyValentine": {
+            "0": {
+                "x": 246,
+                "y": 179
+            }
+        },
+        "Kilik": {
+            "0": {
+                "x": 305,
+                "y": 149
+            }
+        },
+        "Link": {
+            "0": {
+                "x": 138,
+                "y": 201
+            }
+        },
+        "Lizardman": {
+            "0": {
+                "x": 716,
+                "y": 174
+            }
+        },
+        "Maxi": {
+            "0": {
+                "x": 279,
+                "y": 184
+            }
+        },
+        "Necrid": {
+            "0": {
+                "x": 141,
+                "y": 143
+            }
+        },
+        "Nightmare": {
+            "0": {
+                "x": 209,
+                "y": 149
+            }
+        },
+        "RaphaelSorel": {
+            "0": {
+                "x": 264,
+                "y": 138
+            }
+        },
+        "SeungMina": {
+            "0": {
+                "x": 290,
+                "y": 162
+            }
+        },
+        "SophitiaAlexandra": {
+            "0": {
+                "x": 265,
+                "y": 175
+            }
+        },
+        "Spawn": {
+            "0": {
+                "x": 202,
+                "y": 193
+            }
+        },
+        "Taki": {
+            "0": {
+                "x": 283,
+                "y": 181
+            }
+        },
+        "Talim": {
+            "0": {
+                "x": 261,
+                "y": 104
+            }
+        },
+        "Voldo": {
+            "0": {
+                "x": 479,
+                "y": 83
+            }
+        },
+        "Yoshimitsu": {
+            "0": {
+                "x": 246,
+                "y": 181
+            }
+        }
     },
-    "Astaroth": {
-      "0": {
-        "x": 236,
-        "y": 129
-      }
-    },
-    "Berserker": {
-      "0": {
-        "x": 690,
-        "y": 276
-      }
-    },
-    "CassandraAlexandra": {
-      "0": {
-        "x": 270,
-        "y": 162
-      }
-    },
-    "CervantesdeLeon": {
-      "0": {
-        "x": 256,
-        "y": 129
-      }
-    },
-    "ChaiXianghua": {
-      "0": {
-        "x": 261,
-        "y": 150
-      }
-    },
-    "Charade": {
-      "0": {
-        "x": 244,
-        "y": 221
-      }
-    },
-    "HeihachiMishima": {
-      "0": {
-        "x": 298,
-        "y": 149
-      }
-    },
-    "HeishiroMitsurugi": {
-      "0": {
-        "x": 217,
-        "y": 151
-      }
-    },
-    "HongYunsung": {
-      "0": {
-        "x": 207,
-        "y": 219
-      }
-    },
-    "Inferno": {
-      "0": {
-        "x": 271,
-        "y": 95
-      }
-    },
-    "IsabellaIvyValentine": {
-      "0": {
-        "x": 246,
-        "y": 179
-      }
-    },
-    "Kilik": {
-      "0": {
-        "x": 305,
-        "y": 149
-      }
-    },
-    "Link": {
-      "0": {
-        "x": 138,
-        "y": 201
-      }
-    },
-    "Lizardman": {
-      "0": {
-        "x": 716,
-        "y": 174
-      }
-    },
-    "Maxi": {
-      "0": {
-        "x": 279,
-        "y": 184
-      }
-    },
-    "Necrid": {
-      "0": {
-        "x": 141,
-        "y": 143
-      }
-    },
-    "Nightmare": {
-      "0": {
-        "x": 209,
-        "y": 149
-      }
-    },
-    "RaphaelSorel": {
-      "0": {
-        "x": 264,
-        "y": 138
-      }
-    },
-    "SeungMina": {
-      "0": {
-        "x": 290,
-        "y": 162
-      }
-    },
-    "SophitiaAlexandra": {
-      "0": {
-        "x": 265,
-        "y": 175
-      }
-    },
-    "Spawn": {
-      "0": {
-        "x": 202,
-        "y": 193
-      }
-    },
-    "Taki": {
-      "0": {
-        "x": 283,
-        "y": 181
-      }
-    },
-    "Talim": {
-      "0": {
-        "x": 261,
-        "y": 104
-      }
-    },
-    "Voldo": {
-      "0": {
-        "x": 479,
-        "y": 83
-      }
-    },
-    "Yoshimitsu": {
-      "0": {
-        "x": 246,
-        "y": 181
-      }
+    "average_size": {
+        "x": 616,
+        "y": 603
     }
-  }
 }

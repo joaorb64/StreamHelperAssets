@@ -1,8 +1,12 @@
 {
-  "prefix": "stock_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0"
+    "prefix": "stock_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "average_size": {
+        "x": 31,
+        "y": 31
+    }
 }

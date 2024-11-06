@@ -1,169 +1,173 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/GGACR)",
-  "version": "1.12",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "ABA": {
-      "0": {
-        "x": 625,
-        "y": 517
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/GGACR)",
+    "version": "1.12",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "ABA": {
+            "0": {
+                "x": 625,
+                "y": 517
+            }
+        },
+        "AnjiMito": {
+            "0": {
+                "x": 763,
+                "y": 349
+            }
+        },
+        "AxlLow": {
+            "0": {
+                "x": 635,
+                "y": 483
+            }
+        },
+        "Baiken": {
+            "0": {
+                "x": 443,
+                "y": 336
+            }
+        },
+        "Bridget": {
+            "0": {
+                "x": 663,
+                "y": 486
+            }
+        },
+        "ChippZanuff": {
+            "0": {
+                "x": 811,
+                "y": 344
+            }
+        },
+        "Dizzy": {
+            "0": {
+                "x": 827,
+                "y": 413
+            }
+        },
+        "Eddie": {
+            "0": {
+                "x": 758,
+                "y": 504
+            }
+        },
+        "Faust": {
+            "0": {
+                "x": 663,
+                "y": 490
+            }
+        },
+        "INo": {
+            "0": {
+                "x": 653,
+                "y": 475
+            }
+        },
+        "JamKuradoberi": {
+            "0": {
+                "x": 642,
+                "y": 661
+            }
+        },
+        "Johnny": {
+            "0": {
+                "x": 928,
+                "y": 253
+            }
+        },
+        "Justice": {
+            "0": {
+                "x": 371,
+                "y": 160
+            }
+        },
+        "KliffUndersn": {
+            "0": {
+                "x": 649,
+                "y": 578
+            }
+        },
+        "KyKiske": {
+            "0": {
+                "x": 760,
+                "y": 301
+            }
+        },
+        "May": {
+            "0": {
+                "x": 514,
+                "y": 625
+            }
+        },
+        "MilliaRage": {
+            "0": {
+                "x": 813,
+                "y": 322
+            }
+        },
+        "OrderSol": {
+            "0": {
+                "x": 653,
+                "y": 464
+            }
+        },
+        "Potemkin": {
+            "0": {
+                "x": 1185,
+                "y": 508
+            }
+        },
+        "RoboKy": {
+            "0": {
+                "x": 389,
+                "y": 117
+            }
+        },
+        "Slayer": {
+            "0": {
+                "x": 669,
+                "y": 134
+            }
+        },
+        "SolBadguy": {
+            "0": {
+                "x": 561,
+                "y": 311
+            }
+        },
+        "Testament": {
+            "0": {
+                "x": 847,
+                "y": 361
+            }
+        },
+        "Venom": {
+            "0": {
+                "x": 629,
+                "y": 453
+            }
+        },
+        "Zappa": {
+            "0": {
+                "x": 517,
+                "y": 206
+            }
+        }
     },
-    "AnjiMito": {
-      "0": {
-        "x": 763,
-        "y": 349
-      }
-    },
-    "AxlLow": {
-      "0": {
-        "x": 635,
-        "y": 483
-      }
-    },
-    "Baiken": {
-      "0": {
-        "x": 443,
-        "y": 336
-      }
-    },
-    "Bridget": {
-      "0": {
-        "x": 663,
-        "y": 486
-      }
-    },
-    "ChippZanuff": {
-      "0": {
-        "x": 811,
-        "y": 344
-      }
-    },
-    "Dizzy": {
-      "0": {
-        "x": 827,
-        "y": 413
-      }
-    },
-    "Eddie": {
-      "0": {
-        "x": 758,
-        "y": 504
-      }
-    },
-    "Faust": {
-      "0": {
-        "x": 663,
-        "y": 490
-      }
-    },
-    "INo": {
-      "0": {
-        "x": 653,
-        "y": 475
-      }
-    },
-    "JamKuradoberi": {
-      "0": {
-        "x": 642,
-        "y": 661
-      }
-    },
-    "Johnny": {
-      "0": {
-        "x": 928,
-        "y": 253
-      }
-    },
-    "Justice": {
-      "0": {
-        "x": 371,
-        "y": 160
-      }
-    },
-    "KliffUndersn": {
-      "0": {
-        "x": 649,
-        "y": 578
-      }
-    },
-    "KyKiske": {
-      "0": {
-        "x": 760,
-        "y": 301
-      }
-    },
-    "May": {
-      "0": {
-        "x": 514,
-        "y": 625
-      }
-    },
-    "MilliaRage": {
-      "0": {
-        "x": 813,
-        "y": 322
-      }
-    },
-    "OrderSol": {
-      "0": {
-        "x": 653,
-        "y": 464
-      }
-    },
-    "Potemkin": {
-      "0": {
-        "x": 1185,
-        "y": 508
-      }
-    },
-    "RoboKy": {
-      "0": {
-        "x": 389,
-        "y": 117
-      }
-    },
-    "Slayer": {
-      "0": {
-        "x": 669,
-        "y": 134
-      }
-    },
-    "SolBadguy": {
-      "0": {
-        "x": 561,
-        "y": 311
-      }
-    },
-    "Testament": {
-      "0": {
-        "x": 847,
-        "y": 361
-      }
-    },
-    "Venom": {
-      "0": {
-        "x": 629,
-        "y": 453
-      }
-    },
-    "Zappa": {
-      "0": {
-        "x": 517,
-        "y": 206
-      }
+    "average_size": {
+        "x": 1375,
+        "y": 2182
     }
-  }
 }

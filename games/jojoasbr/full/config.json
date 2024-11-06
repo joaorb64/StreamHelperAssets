@@ -1,379 +1,383 @@
 {
-  "name": "Renders",
-  "description": "Character renders",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.8",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "AkiraOtoishi": {
-      "0": {
-        "x": 466,
-        "y": 142
-      }
+    "name": "Renders",
+    "description": "Character renders",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.8",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "AkiraOtoishi": {
+            "0": {
+                "x": 466,
+                "y": 142
+            }
+        },
+        "BrunoBucciarati": {
+            "0": {
+                "x": 424,
+                "y": 154
+            }
+        },
+        "CaesarAnthonioZeppeli": {
+            "0": {
+                "x": 498,
+                "y": 187
+            }
+        },
+        "DIOStardustCrusaders": {
+            "0": {
+                "x": 520,
+                "y": 153
+            }
+        },
+        "Diavolo": {
+            "0": {
+                "x": 550,
+                "y": 191
+            }
+        },
+        "DiegoBrando": {
+            "0": {
+                "x": 516,
+                "y": 110
+            }
+        },
+        "DioBrandoPhantomBlood": {
+            "0": {
+                "x": 482,
+                "y": 127
+            }
+        },
+        "EnricoPucci": {
+            "0": {
+                "x": 464,
+                "y": 134
+            }
+        },
+        "ErmesCostello": {
+            "0": {
+                "x": 207,
+                "y": 216
+            }
+        },
+        "Esidisi": {
+            "0": {
+                "x": 562,
+                "y": 162
+            }
+        },
+        "FooFightersFF": {
+            "0": {
+                "x": 305,
+                "y": 128
+            }
+        },
+        "FunnyValentine": {
+            "0": {
+                "x": 520,
+                "y": 235
+            }
+        },
+        "Ghiaccio": {
+            "0": {
+                "x": 271,
+                "y": 421
+            }
+        },
+        "GiornoGiovanna": {
+            "0": {
+                "x": 429,
+                "y": 243
+            }
+        },
+        "GuidoMista": {
+            "0": {
+                "x": 571,
+                "y": 144
+            }
+        },
+        "GyroZeppeli": {
+            "0": {
+                "x": 557,
+                "y": 125
+            }
+        },
+        "HolHorse": {
+            "0": {
+                "x": 458,
+                "y": 154
+            }
+        },
+        "Iggy": {
+            "0": {
+                "x": 555,
+                "y": 595
+            }
+        },
+        "IkuroHashizawa": {
+            "0": {
+                "x": 498,
+                "y": 322
+            }
+        },
+        "JeanPierrePolnareff": {
+            "0": {
+                "x": 392,
+                "y": 267
+            }
+        },
+        "JohnnyJoestar": {
+            "0": {
+                "x": 418,
+                "y": 133
+            }
+        },
+        "JolyneCujoh": {
+            "0": {
+                "x": 616,
+                "y": 157
+            }
+        },
+        "JonathanJoestar": {
+            "0": {
+                "x": 550,
+                "y": 133
+            }
+        },
+        "JosephJoestarBattleTendency": {
+            "0": {
+                "x": 495,
+                "y": 230
+            }
+        },
+        "JosephJoestarStardustCrusaders": {
+            "0": {
+                "x": 552,
+                "y": 131
+            }
+        },
+        "JosukeHigashikataDiamondisUnbreakable": {
+            "0": {
+                "x": 518,
+                "y": 270
+            }
+        },
+        "JosukeHigashikataJoJolion": {
+            "0": {
+                "x": 593,
+                "y": 223
+            }
+        },
+        "JotaroKujoDiamondisUnbreakable": {
+            "0": {
+                "x": 594,
+                "y": 157
+            }
+        },
+        "JotaroKujoStardustCrusaders": {
+            "0": {
+                "x": 482,
+                "y": 183
+            }
+        },
+        "Kars": {
+            "0": {
+                "x": 608,
+                "y": 297
+            }
+        },
+        "KoichiHirose": {
+            "0": {
+                "x": 455,
+                "y": 229
+            }
+        },
+        "KosakuKawajiri": {
+            "0": {
+                "x": 270,
+                "y": 191
+            }
+        },
+        "LisaLisa": {
+            "0": {
+                "x": 498,
+                "y": 110
+            }
+        },
+        "Mariah": {
+            "0": {
+                "x": 510,
+                "y": 151
+            }
+        },
+        "MuhammadAvdol": {
+            "0": {
+                "x": 546,
+                "y": 306
+            }
+        },
+        "NaranciaGhirga": {
+            "0": {
+                "x": 573,
+                "y": 242
+            }
+        },
+        "NarcisoAnasuiNarcisoAnastasia": {
+            "0": {
+                "x": 485,
+                "y": 372
+            }
+        },
+        "NoriakiKakyoin": {
+            "0": {
+                "x": 520,
+                "y": 103
+            }
+        },
+        "OkuyasuNijimura": {
+            "0": {
+                "x": 647,
+                "y": 129
+            }
+        },
+        "PannacottaFugo": {
+            "0": {
+                "x": 601,
+                "y": 125
+            }
+        },
+        "PetShop": {
+            "0": {
+                "x": 581,
+                "y": 525
+            }
+        },
+        "ProsciuttoPesci": {
+            "0": {
+                "x": 563,
+                "y": 115
+            }
+        },
+        "RobertEOSpeedwagon": {
+            "0": {
+                "x": 504,
+                "y": 155
+            }
+        },
+        "RohanKishibe": {
+            "0": {
+                "x": 534,
+                "y": 147
+            }
+        },
+        "ShigekiyoShigechiYangu": {
+            "0": {
+                "x": 538,
+                "y": 332
+            }
+        },
+        "TrishUna": {
+            "0": {
+                "x": 281,
+                "y": 157
+            }
+        },
+        "VanillaIceCoolIce": {
+            "0": {
+                "x": 274,
+                "y": 135
+            }
+        },
+        "Wamuu": {
+            "0": {
+                "x": 498,
+                "y": 145
+            }
+        },
+        "WillAZeppeli": {
+            "0": {
+                "x": 408,
+                "y": 252
+            }
+        },
+        "YoshikageKira": {
+            "0": {
+                "x": 480,
+                "y": 268
+            }
+        },
+        "YukakoYamagishi": {
+            "0": {
+                "x": 510,
+                "y": 176
+            }
+        },
+        "RisottoNero": {
+            "0": {
+                "x": 508,
+                "y": 134
+            }
+        },
+        "NewPucci": {
+            "0": {
+                "x": 638,
+                "y": 209
+            }
+        },
+        "WeatherReport": {
+            "0": {
+                "x": 600,
+                "y": 281
+            }
+        },
+        "Stroheim": {
+            "0": {
+                "x": 577,
+                "y": 109
+            }
+        },
+        "Keicho": {
+            "0": {
+                "x": 453,
+                "y": 136
+            }
+        },
+        "DiegoAlt": {
+            "0": {
+                "x": 583,
+                "y": 161
+            }
+        },
+        "Abbacchio": {
+            "0": {
+                "x": 618,
+                "y": 179
+            }
+        },
+        "Yuya": {
+            "0": {
+                "x": 609,
+                "y": 162
+            }
+        },
+        "Toru": {
+            "0": {
+                "x": 322,
+                "y": 162
+            }
+        }
     },
-    "BrunoBucciarati": {
-      "0": {
-        "x": 424,
-        "y": 154
-      }
-    },
-    "CaesarAnthonioZeppeli": {
-      "0": {
-        "x": 498,
-        "y": 187
-      }
-    },
-    "DIOStardustCrusaders": {
-      "0": {
-        "x": 520,
-        "y": 153
-      }
-    },
-    "Diavolo": {
-      "0": {
-        "x": 550,
-        "y": 191
-      }
-    },
-    "DiegoBrando": {
-      "0": {
-        "x": 516,
-        "y": 110
-      }
-    },
-    "DioBrandoPhantomBlood": {
-      "0": {
-        "x": 482,
-        "y": 127
-      }
-    },
-    "EnricoPucci": {
-      "0": {
-        "x": 464,
-        "y": 134
-      }
-    },
-    "ErmesCostello": {
-      "0": {
-        "x": 207,
-        "y": 216
-      }
-    },
-    "Esidisi": {
-      "0": {
-        "x": 562,
-        "y": 162
-      }
-    },
-    "FooFightersFF": {
-      "0": {
-        "x": 305,
-        "y": 128
-      }
-    },
-    "FunnyValentine": {
-      "0": {
-        "x": 520,
-        "y": 235
-      }
-    },
-    "Ghiaccio": {
-      "0": {
-        "x": 271,
-        "y": 421
-      }
-    },
-    "GiornoGiovanna": {
-      "0": {
-        "x": 429,
-        "y": 243
-      }
-    },
-    "GuidoMista": {
-      "0": {
-        "x": 571,
-        "y": 144
-      }
-    },
-    "GyroZeppeli": {
-      "0": {
-        "x": 557,
-        "y": 125
-      }
-    },
-    "HolHorse": {
-      "0": {
-        "x": 458,
-        "y": 154
-      }
-    },
-    "Iggy": {
-      "0": {
-        "x": 555,
-        "y": 595
-      }
-    },
-    "IkuroHashizawa": {
-      "0": {
-        "x": 498,
-        "y": 322
-      }
-    },
-    "JeanPierrePolnareff": {
-      "0": {
-        "x": 392,
-        "y": 267
-      }
-    },
-    "JohnnyJoestar": {
-      "0": {
-        "x": 418,
-        "y": 133
-      }
-    },
-    "JolyneCujoh": {
-      "0": {
-        "x": 616,
-        "y": 157
-      }
-    },
-    "JonathanJoestar": {
-      "0": {
-        "x": 550,
-        "y": 133
-      }
-    },
-    "JosephJoestarBattleTendency": {
-      "0": {
-        "x": 495,
-        "y": 230
-      }
-    },
-    "JosephJoestarStardustCrusaders": {
-      "0": {
-        "x": 552,
-        "y": 131
-      }
-    },
-    "JosukeHigashikataDiamondisUnbreakable": {
-      "0": {
-        "x": 518,
-        "y": 270
-      }
-    },
-    "JosukeHigashikataJoJolion": {
-      "0": {
-        "x": 593,
-        "y": 223
-      }
-    },
-    "JotaroKujoDiamondisUnbreakable": {
-      "0": {
-        "x": 594,
-        "y": 157
-      }
-    },
-    "JotaroKujoStardustCrusaders": {
-      "0": {
-        "x": 482,
-        "y": 183
-      }
-    },
-    "Kars": {
-      "0": {
-        "x": 608,
-        "y": 297
-      }
-    },
-    "KoichiHirose": {
-      "0": {
-        "x": 455,
-        "y": 229
-      }
-    },
-    "KosakuKawajiri": {
-      "0": {
-        "x": 270,
-        "y": 191
-      }
-    },
-    "LisaLisa": {
-      "0": {
-        "x": 498,
-        "y": 110
-      }
-    },
-    "Mariah": {
-      "0": {
-        "x": 510,
-        "y": 151
-      }
-    },
-    "MuhammadAvdol": {
-      "0": {
-        "x": 546,
-        "y": 306
-      }
-    },
-    "NaranciaGhirga": {
-      "0": {
-        "x": 573,
-        "y": 242
-      }
-    },
-    "NarcisoAnasuiNarcisoAnastasia": {
-      "0": {
-        "x": 485,
-        "y": 372
-      }
-    },
-    "NoriakiKakyoin": {
-      "0": {
-        "x": 520,
-        "y": 103
-      }
-    },
-    "OkuyasuNijimura": {
-      "0": {
-        "x": 647,
-        "y": 129
-      }
-    },
-    "PannacottaFugo": {
-      "0": {
-        "x": 601,
-        "y": 125
-      }
-    },
-    "PetShop": {
-      "0": {
-        "x": 581,
-        "y": 525
-      }
-    },
-    "ProsciuttoPesci": {
-      "0": {
-        "x": 563,
-        "y": 115
-      }
-    },
-    "RobertEOSpeedwagon": {
-      "0": {
-        "x": 504,
-        "y": 155
-      }
-    },
-    "RohanKishibe": {
-      "0": {
-        "x": 534,
-        "y": 147
-      }
-    },
-    "ShigekiyoShigechiYangu": {
-      "0": {
-        "x": 538,
-        "y": 332
-      }
-    },
-    "TrishUna": {
-      "0": {
-        "x": 281,
-        "y": 157
-      }
-    },
-    "VanillaIceCoolIce": {
-      "0": {
-        "x": 274,
-        "y": 135
-      }
-    },
-    "Wamuu": {
-      "0": {
-        "x": 498,
-        "y": 145
-      }
-    },
-    "WillAZeppeli": {
-      "0": {
-        "x": 408,
-        "y": 252
-      }
-    },
-    "YoshikageKira": {
-      "0": {
-        "x": 480,
-        "y": 268
-      }
-    },
-    "YukakoYamagishi": {
-      "0": {
-        "x": 510,
-        "y": 176
-      }
-    },
-    "RisottoNero": {
-      "0": {
-        "x": 508,
-        "y": 134
-      }
-    },
-    "NewPucci": {
-      "0": {
-        "x": 638,
-        "y": 209
-      }
-    },
-    "WeatherReport": {
-      "0": {
-        "x": 600,
-        "y": 281
-      }
-    },
-    "Stroheim": {
-      "0": {
-        "x": 577,
-        "y": 109
-      }
-    },
-    "Keicho": {
-      "0": {
-        "x": 453,
-        "y": 136
-      }
-    },
-    "DiegoAlt": {
-      "0": {
-        "x": 583,
-        "y": 161
-      }
-    },
-    "Abbacchio": {
-      "0": {
-        "x": 618,
-        "y": 179
-      }
-    },
-    "Yuya": {
-      "0": {
-        "x": 609,
-        "y": 162
-      }
-    },
-    "Toru": {
-      "0": {
-        "x": 322,
-        "y": 162
-      }
+    "average_size": {
+        "x": 960,
+        "y": 1285
     }
-  }
 }

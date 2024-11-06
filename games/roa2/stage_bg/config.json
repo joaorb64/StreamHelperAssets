@@ -1,11 +1,15 @@
 {
-  "name": "Stage Backgrounds",
-  "description": "Stage backgrounds",
-  "prefix": "",
-  "postfix": "_StageBackground",
-  "type": [
-    "stage_bg"
-  ],
-  "credits": "",
-  "version": "0.41"
+    "name": "Stage Backgrounds",
+    "description": "Stage backgrounds",
+    "prefix": "",
+    "postfix": "_StageBackground",
+    "type": [
+        "stage_bg"
+    ],
+    "credits": "",
+    "version": "0.41",
+    "average_size": {
+        "x": 6856,
+        "y": 3855
+    }
 }

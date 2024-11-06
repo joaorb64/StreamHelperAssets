@@ -1,90 +1,94 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Files ripped from God Of Rock Website",
-  "version": "1.00",
-  "eyesights": {
-    "Champ": {
-	  "0": {
-        "x": 225,
-        "y": 85
-      }
-	},
-	"Edith": {
-	  "0": {
-        "x": 535,
-        "y": 145
-      }
-	},
-	"Hilde": {
-	  "0": {
-        "x": 240,
-        "y": 235
-      }
-	},
-	"Johann": {
-	  "0": {
-        "x": 500,
-        "y": 90
-      }
-	},
-	"King": {
-	  "0": {
-        "x": 190,
-        "y": 160
-      }
-	},
-	"Kosaku": {
-	  "0": {
-        "x": 165,
-        "y": 90
-      }
-	},
-	"Lyn": {
-	  "0": {
-        "x": 230,
-        "y": 125
-      }
-	},
-	"Ollie": {
-	  "0": {
-        "x": 325,
-        "y": 65
-      }
-	},
-	"Queen": {
-	  "0": {
-        "x": 200,
-        "y": 200
-      }
-	},
-	"Rosetta": {
-	  "0": {
-        "x": 235,
-        "y": 210
-      }
-	},
-	"Tophat": {
-	  "0": {
-        "x": 145,
-        "y": 205
-      }
-	},
-	"Ziggy": {
-	  "0": {
-        "x": 185,
-        "y": 120
-      }
-	}
-  },
-  "uncropped_edge": [
-    "u",
-    "l",
-    "r"
-  ]
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Files ripped from God Of Rock Website",
+    "version": "1.00",
+    "eyesights": {
+        "Champ": {
+            "0": {
+                "x": 225,
+                "y": 85
+            }
+        },
+        "Edith": {
+            "0": {
+                "x": 535,
+                "y": 145
+            }
+        },
+        "Hilde": {
+            "0": {
+                "x": 240,
+                "y": 235
+            }
+        },
+        "Johann": {
+            "0": {
+                "x": 500,
+                "y": 90
+            }
+        },
+        "King": {
+            "0": {
+                "x": 190,
+                "y": 160
+            }
+        },
+        "Kosaku": {
+            "0": {
+                "x": 165,
+                "y": 90
+            }
+        },
+        "Lyn": {
+            "0": {
+                "x": 230,
+                "y": 125
+            }
+        },
+        "Ollie": {
+            "0": {
+                "x": 325,
+                "y": 65
+            }
+        },
+        "Queen": {
+            "0": {
+                "x": 200,
+                "y": 200
+            }
+        },
+        "Rosetta": {
+            "0": {
+                "x": 235,
+                "y": 210
+            }
+        },
+        "Tophat": {
+            "0": {
+                "x": 145,
+                "y": 205
+            }
+        },
+        "Ziggy": {
+            "0": {
+                "x": 185,
+                "y": 120
+            }
+        }
+    },
+    "uncropped_edge": [
+        "u",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 501,
+        "y": 720
+    }
 }

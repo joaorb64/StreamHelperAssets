@@ -1,10 +1,14 @@
 {
-  "name": "Party Crash Badges",
-  "description": "Character portraits used on the badges offered for taking part in Party Crash matches on the winning team side",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "badge_alt"
-  ],
-  "version": "1.01"
+    "name": "Party Crash Badges",
+    "description": "Character portraits used on the badges offered for taking part in Party Crash matches on the winning team side",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "badge_alt"
+    ],
+    "version": "1.01",
+    "average_size": {
+        "x": 170,
+        "y": 170
+    }
 }

@@ -1,108 +1,112 @@
 {
-  "credits": "Placeholder La Reina art by @SuperRareBoy",
-  "description": "Character artwork",
-  "eyesights": {
-    "Clairen": {
-      "0": {
-        "x": 3578,
-        "y": 1372
-      }
+    "credits": "Placeholder La Reina art by @SuperRareBoy",
+    "description": "Character artwork",
+    "eyesights": {
+        "Clairen": {
+            "0": {
+                "x": 3578,
+                "y": 1372
+            }
+        },
+        "Fleet": {
+            "0": {
+                "x": 1424,
+                "y": 1088
+            }
+        },
+        "Kragg": {
+            "0": {
+                "x": 3240,
+                "y": 1419
+            }
+        },
+        "Loxodont": {
+            "0": {
+                "x": 3815,
+                "y": 2153
+            }
+        },
+        "Maypul": {
+            "0": {
+                "x": 1836,
+                "y": 790
+            }
+        },
+        "Ranno": {
+            "0": {
+                "x": 1474,
+                "y": 535
+            }
+        },
+        "Wrastor": {
+            "0": {
+                "x": 3450,
+                "y": 1325
+            }
+        },
+        "Zetterburn": {
+            "0": {
+                "x": 3326,
+                "y": 1180
+            }
+        },
+        "Reina": {
+            "0": {
+                "x": 853,
+                "y": 468
+            }
+        },
+        "Orcane": {
+            "0": {
+                "x": 1811,
+                "y": 765
+            }
+        },
+        "Forsburn": {
+            "0": {
+                "x": 1960,
+                "y": 761
+            }
+        }
     },
-    "Fleet": {
-      "0": {
-        "x": 1424,
-        "y": 1088
-      }
+    "name": "Artwork",
+    "postfix": "-2D_",
+    "prefix": "",
+    "rescaling_factor": {
+        "Fleet": {
+            "0": 0.75
+        },
+        "Loxodont": {
+            "0": 0.55
+        },
+        "Reina": {
+            "0": 1.7070588235294117
+        },
+        "Clairen": {
+            "0": 0.5
+        },
+        "Kragg": {
+            "0": 0.5859375
+        },
+        "Wrastor": {
+            "0": 0.53
+        },
+        "Zetterburn": {
+            "0": 0.5859375
+        }
     },
-    "Kragg": {
-      "0": {
-        "x": 3240,
-        "y": 1419
-      }
-    },
-    "Loxodont": {
-      "0": {
-        "x": 3815,
-        "y": 2153
-      }
-    },
-    "Maypul": {
-      "0": {
-        "x": 1836,
-        "y": 790
-      }
-    },
-    "Ranno": {
-      "0": {
-        "x": 1474,
-        "y": 535
-      }
-    },
-    "Wrastor": {
-      "0": {
-        "x": 3450,
-        "y": 1325
-      }
-    },
-    "Zetterburn": {
-      "0": {
-        "x": 3326,
-        "y": 1180
-      }
-    },
-    "Reina": {
-      "0": {
-        "x": 853,
-        "y": 468
-      }
-    },
-    "Orcane": {
-      "0": {
-        "x": 1811,
-        "y": 765
-      }
-    },
-    "Forsburn": {
-      "0": {
-        "x": 1960,
-        "y": 761
-      }
+    "type": [
+        "art"
+    ],
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "version": "1.02",
+    "average_size": {
+        "x": 3157,
+        "y": 3170
     }
-  },
-  "name": "Artwork",
-  "postfix": "-2D_",
-  "prefix": "",
-  "rescaling_factor": {
-    "Fleet": {
-      "0": 0.75
-    },
-    "Loxodont": {
-      "0": 0.55
-    },
-    "Reina": {
-      "0": 1.7070588235294117647058823529412
-    },
-    "Clairen": {
-      "0": 0.5
-    },
-    "Kragg": {
-      "0": 0.5859375
-    },
-    "Wrastor": {
-      "0": 0.53
-    },
-    "Zetterburn": {
-      "0": 0.5859375
-    }
-  },
-  "type": [
-    "art"
-  ],
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "version": "1.02"
 }

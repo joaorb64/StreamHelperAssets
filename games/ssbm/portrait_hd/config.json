@@ -1,175 +1,179 @@
 {
-  "name": "HD Portraits",
-  "description": "HD Renders of character portraits, resized and flipped for consistency.",
-  "credits": "Renders available under https://assets.melee.tv/, by @davidvkimball.",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "version": "1.0",
-  "eyesights": {
-    "mario": {
-      "0": {
-        "x": 731,
-        "y": 194
-      }
+    "name": "HD Portraits",
+    "description": "HD Renders of character portraits, resized and flipped for consistency.",
+    "credits": "Renders available under https://assets.melee.tv/, by @davidvkimball.",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "version": "1.0",
+    "eyesights": {
+        "mario": {
+            "0": {
+                "x": 731,
+                "y": 194
+            }
+        },
+        "donkey_kong": {
+            "0": {
+                "x": 1156,
+                "y": 392
+            }
+        },
+        "link": {
+            "0": {
+                "x": 1510,
+                "y": 220
+            }
+        },
+        "samus": {
+            "0": {
+                "x": 1285,
+                "y": 229
+            }
+        },
+        "yoshi": {
+            "0": {
+                "x": 814,
+                "y": 126
+            }
+        },
+        "kirby": {
+            "0": {
+                "x": 1228,
+                "y": 905
+            }
+        },
+        "fox": {
+            "0": {
+                "x": 1007,
+                "y": 235
+            }
+        },
+        "pikachu": {
+            "0": {
+                "x": 859,
+                "y": 326
+            }
+        },
+        "luigi": {
+            "0": {
+                "x": 930,
+                "y": 245
+            }
+        },
+        "ness": {
+            "0": {
+                "x": 729,
+                "y": 225
+            }
+        },
+        "captain_falcon": {
+            "0": {
+                "x": 1700,
+                "y": 175
+            }
+        },
+        "jigglypuff": {
+            "0": {
+                "x": 680,
+                "y": 335
+            }
+        },
+        "peach": {
+            "0": {
+                "x": 1380,
+                "y": 302
+            }
+        },
+        "bowser": {
+            "0": {
+                "x": 1330,
+                "y": 620
+            }
+        },
+        "ice_climbers": {
+            "0": {
+                "x": 872,
+                "y": 228
+            }
+        },
+        "sheik": {
+            "0": {
+                "x": 1253,
+                "y": 203
+            }
+        },
+        "zelda": {
+            "0": {
+                "x": 1484,
+                "y": 200
+            }
+        },
+        "dr_mario": {
+            "0": {
+                "x": 785,
+                "y": 215
+            }
+        },
+        "pichu": {
+            "0": {
+                "x": 696,
+                "y": 262
+            }
+        },
+        "falco": {
+            "0": {
+                "x": 1318,
+                "y": 222
+            }
+        },
+        "marth": {
+            "0": {
+                "x": 916,
+                "y": 541
+            }
+        },
+        "young_link": {
+            "0": {
+                "x": 848,
+                "y": 200
+            }
+        },
+        "ganondorf": {
+            "0": {
+                "x": 1654,
+                "y": 189
+            }
+        },
+        "mewtwo": {
+            "0": {
+                "x": 913,
+                "y": 273
+            }
+        },
+        "roy": {
+            "0": {
+                "x": 1085,
+                "y": 377
+            }
+        },
+        "game_&_watch": {
+            "0": {
+                "x": 855,
+                "y": 141
+            }
+        }
     },
-    "donkey_kong": {
-      "0": {
-        "x": 1156,
-        "y": 392
-      }
-    },
-    "link": {
-      "0": {
-        "x": 1510,
-        "y": 220
-      }
-    },
-    "samus": {
-      "0": {
-        "x": 1285,
-        "y": 229
-      }
-    },
-    "yoshi": {
-      "0": {
-        "x": 814,
-        "y": 126
-      }
-    },
-    "kirby": {
-      "0": {
-        "x": 1228,
-        "y": 905
-      }
-    },
-    "fox": {
-      "0": {
-        "x": 1007,
-        "y": 235
-      }
-    },
-    "pikachu": {
-      "0": {
-        "x": 859,
-        "y": 326
-      }
-    },
-    "luigi": {
-      "0": {
-        "x": 930,
-        "y": 245
-      }
-    },
-    "ness": {
-      "0": {
-        "x": 729,
-        "y": 225
-      }
-    },
-    "captain_falcon": {
-      "0": {
-        "x": 1700,
-        "y": 175
-      }
-    },
-    "jigglypuff": {
-      "0": {
-        "x": 680,
-        "y": 335
-      }
-    },
-    "peach": {
-      "0": {
-        "x": 1380,
-        "y": 302
-      }
-    },
-    "bowser": {
-      "0": {
-        "x": 1330,
-        "y": 620
-      }
-    },
-    "ice_climbers": {
-      "0": {
-        "x": 872,
-        "y": 228
-      }
-    },
-    "sheik": {
-      "0": {
-        "x": 1253,
-        "y": 203
-      }
-    },
-    "zelda": {
-      "0": {
-        "x": 1484,
-        "y": 200
-      }
-    },
-    "dr_mario": {
-      "0": {
-        "x": 785,
-        "y": 215
-      }
-    },
-    "pichu": {
-      "0": {
-        "x": 696,
-        "y": 262
-      }
-    },
-    "falco": {
-      "0": {
-        "x": 1318,
-        "y": 222
-      }
-    },
-    "marth": {
-      "0": {
-        "x": 916,
-        "y": 541
-      }
-    },
-    "young_link": {
-      "0": {
-        "x": 848,
-        "y": 200
-      }
-    },
-    "ganondorf": {
-      "0": {
-        "x": 1654,
-        "y": 189
-      }
-    },
-    "mewtwo": {
-      "0": {
-        "x": 913,
-        "y": 273
-      }
-    },
-    "roy": {
-      "0": {
-        "x": 1085,
-        "y": 377
-      }
-    },
-    "game_&_watch": {
-      "0": {
-        "x": 855,
-        "y": 141
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 1978,
+        "y": 1189
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

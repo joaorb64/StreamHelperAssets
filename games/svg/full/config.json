@@ -1,88 +1,92 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Ripped from the PS2 version by Mathias Wolfbrok",
-  "version": "1.0",
-  "uncropped_edge": [
-    "r"
-  ],
-  "eyesights": {
-    "Earth": {
-      "0": {
-        "x": 83,
-        "y": 61
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Ripped from the PS2 version by Mathias Wolfbrok",
+    "version": "1.0",
+    "uncropped_edge": [
+        "r"
+    ],
+    "eyesights": {
+        "Earth": {
+            "0": {
+                "x": 83,
+                "y": 61
+            }
+        },
+        "Erile": {
+            "0": {
+                "x": 116,
+                "y": 190
+            }
+        },
+        "Hiro": {
+            "0": {
+                "x": 98,
+                "y": 63
+            }
+        },
+        "Hiro2": {
+            "0": {
+                "x": 100,
+                "y": 75
+            }
+        },
+        "Jadou": {
+            "0": {
+                "x": 145,
+                "y": 34
+            }
+        },
+        "Jadou2": {
+            "0": {
+                "x": 112,
+                "y": 41
+            }
+        },
+        "Krayce": {
+            "0": {
+                "x": 94,
+                "y": 56
+            }
+        },
+        "Mayura": {
+            "0": {
+                "x": 73,
+                "y": 30
+            }
+        },
+        "Orochimaru": {
+            "0": {
+                "x": 115,
+                "y": 37
+            }
+        },
+        "Roze": {
+            "0": {
+                "x": 89,
+                "y": 42
+            }
+        },
+        "Ryuken": {
+            "0": {
+                "x": 93,
+                "y": 39
+            }
+        },
+        "Welles": {
+            "0": {
+                "x": 86,
+                "y": 39
+            }
+        }
     },
-    "Erile": {
-      "0": {
-        "x": 116,
-        "y": 190
-      }
-    },
-    "Hiro": {
-      "0": {
-        "x": 98,
-        "y": 63
-      }
-    },
-    "Hiro2": {
-      "0": {
-        "x": 100,
-        "y": 75
-      }
-    },
-    "Jadou": {
-      "0": {
-        "x": 145,
-        "y": 34
-      }
-    },
-    "Jadou2": {
-      "0": {
-        "x": 112,
-        "y": 41
-      }
-    },
-    "Krayce": {
-      "0": {
-        "x": 94,
-        "y": 56
-      }
-    },
-    "Mayura": {
-      "0": {
-        "x": 73,
-        "y": 30
-      }
-    },
-    "Orochimaru": {
-      "0": {
-        "x": 115,
-        "y": 37
-      }
-    },
-    "Roze": {
-      "0": {
-        "x": 89,
-        "y": 42
-      }
-    },
-    "Ryuken": {
-      "0": {
-        "x": 93,
-        "y": 39
-      }
-    },
-    "Welles": {
-      "0": {
-        "x": 86,
-        "y": 39
-      }
+    "average_size": {
+        "x": 258,
+        "y": 214
     }
-  }
 }

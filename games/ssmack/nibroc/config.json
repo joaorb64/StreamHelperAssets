@@ -1,17 +1,21 @@
 {
-  "name": "Renders",
-  "description": "Character Renders by Nibroc-Rock",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Art by Nibroc-Rock",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "l",
-    "r",
-    "d"
-  ]
+    "name": "Renders",
+    "description": "Character Renders by Nibroc-Rock",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Art by Nibroc-Rock",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "l",
+        "r",
+        "d"
+    ],
+    "average_size": {
+        "x": 2754,
+        "y": 2910
+    }
 }

@@ -1,10 +1,14 @@
 {
-  "name": "Stage Icons",
-  "version": "1.4",
-  "description": "Stage icons using the 3d dioramas from the Stage Select Screen",
-  "prefix": "",
-  "postfix": "",
-  "type": [
-    "stage_icon"
-  ]
+    "name": "Stage Icons",
+    "version": "1.4",
+    "description": "Stage icons using the 3d dioramas from the Stage Select Screen",
+    "prefix": "",
+    "postfix": "",
+    "type": [
+        "stage_icon"
+    ],
+    "average_size": {
+        "x": 492,
+        "y": 363
+    }
 }

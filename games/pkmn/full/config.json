@@ -1,25 +1,31 @@
 {
-  "name": "Pok\u00e9mon Home sprites",
-  "description": "Pok\u00e9mon Home sprites",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Renders for Pikachu-Cosplay from Serebii, nileplumb\nRender for Pichu-Spiky from Super Smash Bros. Ultimate\nRender for Floette-Eternal by TheAdorableOshawott",
-  "version": "1.61",
-  "uncropped_edge": [
-    "u",
-    "r",
-    "d",
-    "l"
-  ],
-  "rescaling_factor": {
-    "670": {
-      "5": 2.109375
+    "name": "Pok\u00e9mon Home sprites",
+    "description": "Pok\u00e9mon Home sprites",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Renders for Pikachu-Cosplay from Serebii, nileplumb\nRender for Pichu-Spiky from Super Smash Bros. Ultimate\nRender for Floette-Eternal by TheAdorableOshawott",
+    "version": "1.61",
+    "uncropped_edge": [
+        "u",
+        "r",
+        "d",
+        "l"
+    ],
+    "rescaling_factor": {
+        "670": {
+            "5": 2.109375
+        },
+        "025": {
+            "9": 2.0,
+            "10": 4.5,
+            "12": 4.5
+        }
     },
-    "025": {
-      "9": 2.0, "10": 4.5, "12": 4.5
+    "average_size": {
+        "x": 512,
+        "y": 511
     }
-  }
 }

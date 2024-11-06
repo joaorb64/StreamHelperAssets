@@ -1,16 +1,20 @@
 {
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "0.5",
-  "rescaling_factor": {
-    "Kilua": {
-      "0": 0.66666666666666666666666666666667
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "0.5",
+    "rescaling_factor": {
+        "Kilua": {
+            "0": 0.6666666666666666
+        },
+        "Feitan": {
+            "0": 1.0169491525423728
+        }
     },
-    "Feitan": {
-      "0": 1.0169491525423728813559322033898
+    "average_size": {
+        "x": 731,
+        "y": 247
     }
-  }
 }

@@ -1,50 +1,57 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Ripped from https://2xko.riotgames.com/en-us/",
-  "version": "0.3",
-  "uncropped_edge": ["u", "l"],
-  "eyesights": {
-    "Ahri": {
-      "0": {
-        "x": 330,
-        "y": 171
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Ripped from https://2xko.riotgames.com/en-us/",
+    "version": "0.3",
+    "uncropped_edge": [
+        "u",
+        "l"
+    ],
+    "eyesights": {
+        "Ahri": {
+            "0": {
+                "x": 330,
+                "y": 171
+            }
+        },
+        "Darius": {
+            "0": {
+                "x": 451,
+                "y": 137
+            }
+        },
+        "Ekko": {
+            "0": {
+                "x": 397,
+                "y": 197
+            }
+        },
+        "Yasuo": {
+            "0": {
+                "x": 306,
+                "y": 208
+            }
+        },
+        "Illaoi": {
+            "0": {
+                "x": 406,
+                "y": 177
+            }
+        },
+        "Braum": {
+            "0": {
+                "x": 369,
+                "y": 284
+            }
+        }
     },
-    "Darius": {
-      "0": {
-        "x": 451,
-        "y": 137
-      }
-    },
-    "Ekko": {
-      "0": {
-        "x": 397,
-        "y": 197
-      }
-    },
-    "Yasuo": {
-      "0": {
-        "x": 306,
-        "y": 208
-      }
-    },
-    "Illaoi": {
-      "0": {
-        "x": 406,
-        "y": 177
-      }
-    },
-    "Braum": {
-      "0": {
-        "x": 369,
-        "y": 284
-      }
+    "average_size": {
+        "x": 840,
+        "y": 1240
     }
-  }
 }

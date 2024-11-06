@@ -1,90 +1,94 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.0",
-  "uncropped_edge": [
-    "r",
-    "u",
-    "l"
-  ],
-  "eyesights": {
-    "ChungPaifu": {
-      "0": {
-        "x": 1386,
-        "y": 960
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.0",
+    "uncropped_edge": [
+        "r",
+        "u",
+        "l"
+    ],
+    "eyesights": {
+        "ChungPaifu": {
+            "0": {
+                "x": 1386,
+                "y": 960
+            }
+        },
+        "GordonBowman": {
+            "0": {
+                "x": 1323,
+                "y": 513
+            }
+        },
+        "Gozu": {
+            "0": {
+                "x": 1341,
+                "y": 1098
+            }
+        },
+        "Joker": {
+            "0": {
+                "x": 1188,
+                "y": 708
+            }
+        },
+        "Jyazu": {
+            "0": {
+                "x": 1338,
+                "y": 789
+            }
+        },
+        "KimSueIl": {
+            "0": {
+                "x": 1362,
+                "y": 570
+            }
+        },
+        "KingLeo": {
+            "0": {
+                "x": 903,
+                "y": 537
+            }
+        },
+        "KingLion": {
+            "0": {
+                "x": 1380,
+                "y": 621
+            }
+        },
+        "MaxEagle": {
+            "0": {
+                "x": 963,
+                "y": 675
+            }
+        },
+        "Mezu": {
+            "0": {
+                "x": 1242,
+                "y": 1305
+            }
+        },
+        "Rosa": {
+            "0": {
+                "x": 1167,
+                "y": 816
+            }
+        },
+        "ShoHayate": {
+            "0": {
+                "x": 1227,
+                "y": 579
+            }
+        }
     },
-    "GordonBowman": {
-      "0": {
-        "x": 1323,
-        "y": 513
-      }
-    },
-    "Gozu": {
-      "0": {
-        "x": 1341,
-        "y": 1098
-      }
-    },
-    "Joker": {
-      "0": {
-        "x": 1188,
-        "y": 708
-      }
-    },
-    "Jyazu": {
-      "0": {
-        "x": 1338,
-        "y": 789
-      }
-    },
-    "KimSueIl": {
-      "0": {
-        "x": 1362,
-        "y": 570
-      }
-    },
-    "KingLeo": {
-      "0": {
-        "x": 903,
-        "y": 537
-      }
-    },
-    "KingLion": {
-      "0": {
-        "x": 1380,
-        "y": 621
-      }
-    },
-    "MaxEagle": {
-      "0": {
-        "x": 963,
-        "y": 675
-      }
-    },
-    "Mezu": {
-      "0": {
-        "x": 1242,
-        "y": 1305
-      }
-    },
-    "Rosa": {
-      "0": {
-        "x": 1167,
-        "y": 816
-      }
-    },
-    "ShoHayate": {
-      "0": {
-        "x": 1227,
-        "y": 579
-      }
+    "average_size": {
+        "x": 2613,
+        "y": 2145
     }
-  }
 }

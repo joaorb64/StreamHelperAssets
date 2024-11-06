@@ -1,41 +1,45 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Red_Earth/War-Zard)\n@MathiasWolfbrok for cropping",
-  "version": "1.02",
-  "uncropped_edge": [
-    "u","r"
-  ],
-  "eyesights": {
-    "Kenji": {
-      "0": {
-        "x": 357,
-        "y": 70
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Red_Earth/War-Zard)\n@MathiasWolfbrok for cropping",
+    "version": "1.02",
+    "uncropped_edge": [
+        "u",
+        "r"
+    ],
+    "eyesights": {
+        "Kenji": {
+            "0": {
+                "x": 357,
+                "y": 70
+            }
+        },
+        "Leo": {
+            "0": {
+                "x": 400,
+                "y": 93
+            }
+        },
+        "MaiLing": {
+            "0": {
+                "x": 300,
+                "y": 250
+            }
+        },
+        "Tessa": {
+            "0": {
+                "x": 346,
+                "y": 276
+            }
+        }
     },
-    "Leo": {
-      "0": {
-        "x": 400,
-        "y": 93
-      }
-    },
-    "MaiLing": {
-      "0": {
-        "x": 300,
-        "y": 250
-      }
-    },
-    "Tessa": {
-      "0": {
-        "x": 346,
-        "y": 276
-      }
+    "average_size": {
+        "x": 960,
+        "y": 1080
     }
-  }
-
 }

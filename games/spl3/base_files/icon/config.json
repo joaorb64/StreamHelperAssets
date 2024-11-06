@@ -1,14 +1,18 @@
 {
-  "prefix": "icon_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "8.0",
-  "uncropped_edge": [
-    "u",
-    "r",
-    "d",
-    "l"
-  ]
+    "prefix": "icon_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "8.0",
+    "uncropped_edge": [
+        "u",
+        "r",
+        "d",
+        "l"
+    ],
+    "average_size": {
+        "x": 256,
+        "y": 256
+    }
 }

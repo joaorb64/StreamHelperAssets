@@ -1,156 +1,160 @@
 {
-  "name": "Pixel Art portraits (Cleaned up)",
-  "description": "Character pixel art as seen in custom \"Here comes a new challenger\" screens. Flipped horizontally for characters to look to the right.\nCleaned up programmatically to remove extraction and upscale artefacts, and integer upscaled to 4K",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.9",
-  "eyesights": {
-    "ChunLi": {
-      "0": {
-        "x": 2318,
-        "y": 1881
-      }
+    "name": "Pixel Art portraits (Cleaned up)",
+    "description": "Character pixel art as seen in custom \"Here comes a new challenger\" screens. Flipped horizontally for characters to look to the right.\nCleaned up programmatically to remove extraction and upscale artefacts, and integer upscaled to 4K",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.9",
+    "eyesights": {
+        "ChunLi": {
+            "0": {
+                "x": 2318,
+                "y": 1881
+            }
+        },
+        "Jamie": {
+            "0": {
+                "x": 2244,
+                "y": 2013
+            }
+        },
+        "Luke": {
+            "0": {
+                "x": 2083,
+                "y": 1737
+            }
+        },
+        "Ryu": {
+            "0": {
+                "x": 2535,
+                "y": 1715
+            }
+        },
+        "Guile": {
+            "0": {
+                "x": 2388,
+                "y": 1506
+            }
+        },
+        "Juri": {
+            "0": {
+                "x": 1950,
+                "y": 1499
+            }
+        },
+        "Kimberly": {
+            "0": {
+                "x": 2149,
+                "y": 1917
+            }
+        },
+        "Ken": {
+            "0": {
+                "x": 2233,
+                "y": 1726
+            }
+        },
+        "Honda": {
+            "0": {
+                "x": 2366,
+                "y": 1682
+            }
+        },
+        "Dhalsim": {
+            "0": {
+                "x": 2601,
+                "y": 1330
+            }
+        },
+        "Blanka": {
+            "0": {
+                "x": 2869,
+                "y": 1245
+            }
+        },
+        "JP": {
+            "0": {
+                "x": 1550,
+                "y": 947
+            }
+        },
+        "Marisa": {
+            "0": {
+                "x": 1781,
+                "y": 1374
+            }
+        },
+        "Manon": {
+            "0": {
+                "x": 2502,
+                "y": 1241
+            }
+        },
+        "DeeJay": {
+            "0": {
+                "x": 2119,
+                "y": 1532
+            }
+        },
+        "Cammy": {
+            "0": {
+                "x": 2156,
+                "y": 1561
+            }
+        },
+        "Lily": {
+            "0": {
+                "x": 2454,
+                "y": 1851
+            }
+        },
+        "Zangief": {
+            "0": {
+                "x": 2421,
+                "y": 1473
+            }
+        },
+        "Rashid": {
+            "0": {
+                "x": 2175,
+                "y": 1748
+            }
+        },
+        "AKI": {
+            "0": {
+                "x": 2182,
+                "y": 1976
+            }
+        },
+        "Ed": {
+            "0": {
+                "x": 1961,
+                "y": 1532
+            }
+        },
+        "Akuma": {
+            "0": {
+                "x": 2821,
+                "y": 1679
+            }
+        },
+        "Bison": {
+            "0": {
+                "x": 1770,
+                "y": 1436
+            }
+        },
+        "Terry": {
+            "0": {
+                "x": 1510,
+                "y": 1513
+            }
+        }
     },
-    "Jamie": {
-      "0": {
-        "x": 2244,
-        "y": 2013
-      }
-    },
-    "Luke": {
-      "0": {
-        "x": 2083,
-        "y": 1737
-      }
-    },
-    "Ryu": {
-      "0": {
-        "x": 2535,
-        "y": 1715
-      }
-    },
-    "Guile": {
-      "0": {
-        "x": 2388,
-        "y": 1506
-      }
-    },
-    "Juri": {
-      "0": {
-        "x": 1950,
-        "y": 1499
-      }
-    },
-    "Kimberly": {
-      "0": {
-        "x": 2149,
-        "y": 1917
-      }
-    },
-    "Ken": {
-      "0": {
-        "x": 2233,
-        "y": 1726
-      }
-    },
-    "Honda": {
-      "0": {
-        "x": 2366,
-        "y": 1682
-      }
-    },
-    "Dhalsim": {
-      "0": {
-        "x": 2601,
-        "y": 1330
-      }
-    },
-    "Blanka": {
-      "0": {
-        "x": 2869,
-        "y": 1245
-      }
-    },
-    "JP": {
-      "0": {
-        "x": 1550,
-        "y": 947
-      }
-    },
-    "Marisa": {
-      "0": {
-        "x": 1781,
-        "y": 1374
-      }
-    },
-    "Manon": {
-      "0": {
-        "x": 2502,
-        "y": 1241
-      }
-    },
-    "DeeJay": {
-      "0": {
-        "x": 2119,
-        "y": 1532
-      }
-    },
-    "Cammy": {
-      "0": {
-        "x": 2156,
-        "y": 1561
-      }
-    },
-    "Lily": {
-      "0": {
-        "x": 2454,
-        "y": 1851
-      }
-    },
-    "Zangief": {
-      "0": {
-        "x": 2421,
-        "y": 1473
-      }
-    },
-    "Rashid": {
-      "0": {
-        "x": 2175,
-        "y": 1748
-      }
-    },
-    "AKI": {
-      "0": {
-        "x": 2182,
-        "y": 1976
-      }
-    },
-    "Ed": {
-      "0": {
-        "x": 1961,
-        "y": 1532
-      }
-    },
-    "Akuma": {
-      "0": {
-        "x": 2821,
-        "y": 1679
-      }
-    },
-    "Bison": {
-      "0": {
-        "x": 1770,
-        "y": 1436
-      }
-    },
-    "Terry": {
-      "0": {
-        "x": 1510,
-        "y": 1513
-      }
+    "average_size": {
+        "x": 3964,
+        "y": 3968
     }
-  }
 }

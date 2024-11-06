@@ -1,61 +1,65 @@
 {
-  "name": "Artwork",
-  "description": "Character artwork",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Ripped from https://ninza.miraheze.org/wiki/Characters",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "l",
-    "r",
-    "d"
-  ],
-  "eyesights": {
-    "Arthur": {
-      "0": {
-        "x": 183,
-        "y": 195
-      }
+    "name": "Artwork",
+    "description": "Character artwork",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Ripped from https://ninza.miraheze.org/wiki/Characters",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "l",
+        "r",
+        "d"
+    ],
+    "eyesights": {
+        "Arthur": {
+            "0": {
+                "x": 183,
+                "y": 195
+            }
+        },
+        "Ifgwym": {
+            "0": {
+                "x": 535,
+                "y": 101
+            }
+        },
+        "Jeanine": {
+            "0": {
+                "x": 178,
+                "y": 178
+            }
+        },
+        "Juan": {
+            "0": {
+                "x": 277,
+                "y": 155
+            }
+        },
+        "Kaitlyn": {
+            "0": {
+                "x": 549,
+                "y": 187
+            }
+        },
+        "Pwerk": {
+            "0": {
+                "x": 444,
+                "y": 119
+            }
+        },
+        "Tobias": {
+            "0": {
+                "x": 210,
+                "y": 125
+            }
+        }
     },
-    "Ifgwym": {
-      "0": {
-        "x": 535,
-        "y": 101
-      }
-    },
-    "Jeanine": {
-      "0": {
-        "x": 178,
-        "y": 178
-      }
-    },
-    "Juan": {
-      "0": {
-        "x": 277,
-        "y": 155
-      }
-    },
-    "Kaitlyn": {
-      "0": {
-        "x": 549,
-        "y": 187
-      }
-    },
-    "Pwerk": {
-      "0": {
-        "x": 444,
-        "y": 119
-      }
-    },
-    "Tobias": {
-      "0": {
-        "x": 210,
-        "y": 125
-      }
+    "average_size": {
+        "x": 655,
+        "y": 570
     }
-  }
 }

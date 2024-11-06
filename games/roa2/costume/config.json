@@ -1,79 +1,83 @@
 {
-  "credits": "Extracted from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
-  "description": "Renders for every in-game costume",
-  "eyesights": {
-    "Clairen": {
-      "0": {
-        "x": 804,
-        "y": 332
-      }
+    "credits": "Extracted from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
+    "description": "Renders for every in-game costume",
+    "eyesights": {
+        "Clairen": {
+            "0": {
+                "x": 804,
+                "y": 332
+            }
+        },
+        "Fleet": {
+            "0": {
+                "x": 766,
+                "y": 319
+            }
+        },
+        "Kragg": {
+            "0": {
+                "x": 778,
+                "y": 482
+            }
+        },
+        "Loxodont": {
+            "0": {
+                "x": 691,
+                "y": 337
+            }
+        },
+        "Maypul": {
+            "0": {
+                "x": 761,
+                "y": 421
+            }
+        },
+        "Ranno": {
+            "0": {
+                "x": 563,
+                "y": 200
+            }
+        },
+        "Orcane": {
+            "0": {
+                "x": 753,
+                "y": 316
+            }
+        },
+        "Wrastor": {
+            "0": {
+                "x": 644,
+                "y": 259
+            }
+        },
+        "Zetterburn": {
+            "0": {
+                "x": 696,
+                "y": 376
+            }
+        },
+        "Forsburn": {
+            "0": {
+                "x": 855,
+                "y": 393
+            }
+        }
     },
-    "Fleet": {
-      "0": {
-        "x": 766,
-        "y": 319
-      }
-    },
-    "Kragg": {
-      "0": {
-        "x": 778,
-        "y": 482
-      }
-    },
-    "Loxodont": {
-      "0": {
-        "x": 691,
-        "y": 337
-      }
-    },
-    "Maypul": {
-      "0": {
-        "x": 761,
-        "y": 421
-      }
-    },
-    "Ranno": {
-      "0": {
-        "x": 563,
-        "y": 200
-      }
-    },
-    "Orcane": {
-      "0": {
-        "x": 753,
-        "y": 316
-      }
-    },
-    "Wrastor": {
-      "0": {
-        "x": 644,
-        "y": 259
-      }
-    },
-    "Zetterburn": {
-      "0": {
-        "x": 696,
-        "y": 376
-      }
-    },
-    "Forsburn": {
-      "0": {
-        "x": 855,
-        "y": 393
-      }
+    "name": "Costumes",
+    "postfix": "-",
+    "prefix": "file_",
+    "type": [
+        "costume"
+    ],
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "version": "1.04",
+    "average_size": {
+        "x": 1024,
+        "y": 1024
     }
-  },
-  "name": "Costumes",
-  "postfix": "-",
-  "prefix": "file_",
-  "type": [
-    "costume"
-  ],
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "version": "1.04"
 }

@@ -1,17 +1,21 @@
 {
-  "name": "Emblems",
-  "description": "Character emblems",
-  "prefix": "logo_",
-  "postfix": "_",
-  "type": [
-    "logo"
-  ],
-  "credits": "",
-  "version": "1.01",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
+    "name": "Emblems",
+    "description": "Character emblems",
+    "prefix": "logo_",
+    "postfix": "_",
+    "type": [
+        "logo"
+    ],
+    "credits": "",
+    "version": "1.01",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 788,
+        "y": 788
+    }
 }

@@ -1,244 +1,248 @@
 {
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0",
-  "eyesights": {
-    "Akamaru": {
-      "0": {
-        "x": 53,
-        "y": 60
-      }
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "eyesights": {
+        "Akamaru": {
+            "0": {
+                "x": 53,
+                "y": 60
+            }
+        },
+        "AnkoMitarashi": {
+            "0": {
+                "x": 67,
+                "y": 96
+            }
+        },
+        "AwakenedHinata": {
+            "0": {
+                "x": 74,
+                "y": 96
+            }
+        },
+        "ChojiAkimichi": {
+            "0": {
+                "x": 64,
+                "y": 96
+            }
+        },
+        "Crow": {
+            "0": {
+                "x": 75,
+                "y": 89
+            }
+        },
+        "Gaara": {
+            "0": {
+                "x": 90,
+                "y": 96
+            }
+        },
+        "Haku": {
+            "0": {
+                "x": 91,
+                "y": 96
+            }
+        },
+        "HinataHyuga": {
+            "0": {
+                "x": 71,
+                "y": 92
+            }
+        },
+        "InoYamanaka": {
+            "0": {
+                "x": 84,
+                "y": 96
+            }
+        },
+        "IrukaUmino": {
+            "0": {
+                "x": 90,
+                "y": 85
+            }
+        },
+        "ItachiUchiha": {
+            "0": {
+                "x": 80,
+                "y": 96
+            }
+        },
+        "Jiraiya": {
+            "0": {
+                "x": 76,
+                "y": 96
+            }
+        },
+        "Jirobo": {
+            "0": {
+                "x": 86,
+                "y": 96
+            }
+        },
+        "KabutoYakushi": {
+            "0": {
+                "x": 71,
+                "y": 96
+            }
+        },
+        "KakashiHatake": {
+            "0": {
+                "x": 77,
+                "y": 88
+            }
+        },
+        "Kankuro": {
+            "0": {
+                "x": 79,
+                "y": 96
+            }
+        },
+        "KibaInuzuka": {
+            "0": {
+                "x": 74,
+                "y": 96
+            }
+        },
+        "Kidomaru": {
+            "0": {
+                "x": 73,
+                "y": 88
+            }
+        },
+        "Kimimaro": {
+            "0": {
+                "x": 74,
+                "y": 103
+            }
+        },
+        "KisameHoshigaki": {
+            "0": {
+                "x": 69,
+                "y": 82
+            }
+        },
+        "Lee": {
+            "0": {
+                "x": 88,
+                "y": 96
+            }
+        },
+        "MightGuy": {
+            "0": {
+                "x": 92,
+                "y": 96
+            }
+        },
+        "Mizuki": {
+            "0": {
+                "x": 80,
+                "y": 86
+            }
+        },
+        "NarutoUzumaki": {
+            "0": {
+                "x": 86,
+                "y": 96
+            }
+        },
+        "NejiHyuga": {
+            "0": {
+                "x": 82,
+                "y": 96
+            }
+        },
+        "Orochimaru": {
+            "0": {
+                "x": 87,
+                "y": 96
+            }
+        },
+        "SakonUkon": {
+            "0": {
+                "x": 76,
+                "y": 96
+            }
+        },
+        "SakuraHaruno": {
+            "0": {
+                "x": 66,
+                "y": 96
+            }
+        },
+        "SasukeUchiha": {
+            "0": {
+                "x": 79,
+                "y": 103
+            }
+        },
+        "SecondStateSasuke": {
+            "0": {
+                "x": 59,
+                "y": 96
+            }
+        },
+        "ShikamaruNara": {
+            "0": {
+                "x": 86,
+                "y": 96
+            }
+        },
+        "ShinoAburame": {
+            "0": {
+                "x": 105,
+                "y": 96
+            }
+        },
+        "Tayuya": {
+            "0": {
+                "x": 87,
+                "y": 96
+            }
+        },
+        "Temari": {
+            "0": {
+                "x": 69,
+                "y": 96
+            }
+        },
+        "Tenten": {
+            "0": {
+                "x": 78,
+                "y": 96
+            }
+        },
+        "ThirdHokage": {
+            "0": {
+                "x": 92,
+                "y": 96
+            }
+        },
+        "Tsunade": {
+            "0": {
+                "x": 80,
+                "y": 96
+            }
+        },
+        "UltimateNineTailedNaruto": {
+            "0": {
+                "x": 67,
+                "y": 96
+            }
+        },
+        "ZabuzaMomochi": {
+            "0": {
+                "x": 77,
+                "y": 96
+            }
+        }
     },
-    "AnkoMitarashi": {
-      "0": {
-        "x": 67,
-        "y": 96
-      }
-    },
-    "AwakenedHinata": {
-      "0": {
-        "x": 74,
-        "y": 96
-      }
-    },
-    "ChojiAkimichi": {
-      "0": {
-        "x": 64,
-        "y": 96
-      }
-    },
-    "Crow": {
-      "0": {
-        "x": 75,
-        "y": 89
-      }
-    },
-    "Gaara": {
-      "0": {
-        "x": 90,
-        "y": 96
-      }
-    },
-    "Haku": {
-      "0": {
-        "x": 91,
-        "y": 96
-      }
-    },
-    "HinataHyuga": {
-      "0": {
-        "x": 71,
-        "y": 92
-      }
-    },
-    "InoYamanaka": {
-      "0": {
-        "x": 84,
-        "y": 96
-      }
-    },
-    "IrukaUmino": {
-      "0": {
-        "x": 90,
-        "y": 85
-      }
-    },
-    "ItachiUchiha": {
-      "0": {
-        "x": 80,
-        "y": 96
-      }
-    },
-    "Jiraiya": {
-      "0": {
-        "x": 76,
-        "y": 96
-      }
-    },
-    "Jirobo": {
-      "0": {
-        "x": 86,
-        "y": 96
-      }
-    },
-    "KabutoYakushi": {
-      "0": {
-        "x": 71,
-        "y": 96
-      }
-    },
-    "KakashiHatake": {
-      "0": {
-        "x": 77,
-        "y": 88
-      }
-    },
-    "Kankuro": {
-      "0": {
-        "x": 79,
-        "y": 96
-      }
-    },
-    "KibaInuzuka": {
-      "0": {
-        "x": 74,
-        "y": 96
-      }
-    },
-    "Kidomaru": {
-      "0": {
-        "x": 73,
-        "y": 88
-      }
-    },
-    "Kimimaro": {
-      "0": {
-        "x": 74,
-        "y": 103
-      }
-    },
-    "KisameHoshigaki": {
-      "0": {
-        "x": 69,
-        "y": 82
-      }
-    },
-    "Lee": {
-      "0": {
-        "x": 88,
-        "y": 96
-      }
-    },
-    "MightGuy": {
-      "0": {
-        "x": 92,
-        "y": 96
-      }
-    },
-    "Mizuki": {
-      "0": {
-        "x": 80,
-        "y": 86
-      }
-    },
-    "NarutoUzumaki": {
-      "0": {
-        "x": 86,
-        "y": 96
-      }
-    },
-    "NejiHyuga": {
-      "0": {
-        "x": 82,
-        "y": 96
-      }
-    },
-    "Orochimaru": {
-      "0": {
-        "x": 87,
-        "y": 96
-      }
-    },
-    "SakonUkon": {
-      "0": {
-        "x": 76,
-        "y": 96
-      }
-    },
-    "SakuraHaruno": {
-      "0": {
-        "x": 66,
-        "y": 96
-      }
-    },
-    "SasukeUchiha": {
-      "0": {
-        "x": 79,
-        "y": 103
-      }
-    },
-    "SecondStateSasuke": {
-      "0": {
-        "x": 59,
-        "y": 96
-      }
-    },
-    "ShikamaruNara": {
-      "0": {
-        "x": 86,
-        "y": 96
-      }
-    },
-    "ShinoAburame": {
-      "0": {
-        "x": 105,
-        "y": 96
-      }
-    },
-    "Tayuya": {
-      "0": {
-        "x": 87,
-        "y": 96
-      }
-    },
-    "Temari": {
-      "0": {
-        "x": 69,
-        "y": 96
-      }
-    },
-    "Tenten": {
-      "0": {
-        "x": 78,
-        "y": 96
-      }
-    },
-    "ThirdHokage": {
-      "0": {
-        "x": 92,
-        "y": 96
-      }
-    },
-    "Tsunade": {
-      "0": {
-        "x": 80,
-        "y": 96
-      }
-    },
-    "UltimateNineTailedNaruto": {
-      "0": {
-        "x": 67,
-        "y": 96
-      }
-    },
-    "ZabuzaMomochi": {
-      "0": {
-        "x": 77,
-        "y": 96
-      }
+    "average_size": {
+        "x": 162,
+        "y": 266
     }
-  }
 }

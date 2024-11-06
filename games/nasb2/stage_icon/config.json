@@ -4,5 +4,9 @@
     "type": [
         "stage_icon"
     ],
-    "version": "1.12"
+    "version": "1.12",
+    "average_size": {
+        "x": 1920,
+        "y": 1080
+    }
 }

@@ -1,118 +1,125 @@
 {
-  "name": "HD Remix Idle Animations",
-  "description": "Idle Animations from Super Street Fighter 2 Turbo: HD Remix (PS3/360)",
-  "prefix": "ssf2x-",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u","d","l","r"
-  ],
-  "eyesights": {
-    "balrog": {
-      "0": {
-        "x": 177,
-        "y": 78
-      }
+    "name": "HD Remix Idle Animations",
+    "description": "Idle Animations from Super Street Fighter 2 Turbo: HD Remix (PS3/360)",
+    "prefix": "ssf2x-",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "balrog": {
+            "0": {
+                "x": 177,
+                "y": 78
+            }
+        },
+        "blanka": {
+            "0": {
+                "x": 275,
+                "y": 120
+            }
+        },
+        "cammy": {
+            "0": {
+                "x": 143,
+                "y": 58
+            }
+        },
+        "chunli": {
+            "0": {
+                "x": 152,
+                "y": 58
+            }
+        },
+        "deejay": {
+            "0": {
+                "x": 173,
+                "y": 50
+            }
+        },
+        "dhalsim": {
+            "0": {
+                "x": 192,
+                "y": 83
+            }
+        },
+        "ehonda": {
+            "0": {
+                "x": 306,
+                "y": 74
+            }
+        },
+        "feilong": {
+            "0": {
+                "x": 230,
+                "y": 66
+            }
+        },
+        "gouki": {
+            "0": {
+                "x": 188,
+                "y": 118
+            }
+        },
+        "guile": {
+            "0": {
+                "x": 211,
+                "y": 61
+            }
+        },
+        "ken": {
+            "0": {
+                "x": 176,
+                "y": 73
+            }
+        },
+        "mbison": {
+            "0": {
+                "x": 190,
+                "y": 72
+            }
+        },
+        "ryu": {
+            "0": {
+                "x": 183,
+                "y": 71
+            }
+        },
+        "sagat": {
+            "0": {
+                "x": 225,
+                "y": 82
+            }
+        },
+        "thawk": {
+            "0": {
+                "x": 287,
+                "y": 99
+            }
+        },
+        "vega": {
+            "0": {
+                "x": 233,
+                "y": 52
+            }
+        },
+        "zangief": {
+            "0": {
+                "x": 262,
+                "y": 51
+            }
+        }
     },
-    "blanka": {
-      "0": {
-        "x": 275,
-        "y": 120
-      }
-    },
-    "cammy": {
-      "0": {
-        "x": 143,
-        "y": 58
-      }
-    },
-    "chunli": {
-      "0": {
-        "x": 152,
-        "y": 58
-      }
-    },
-    "deejay": {
-      "0": {
-        "x": 173,
-        "y": 50
-      }
-    },
-    "dhalsim": {
-      "0": {
-        "x": 192,
-        "y": 83
-      }
-    },
-    "ehonda": {
-      "0": {
-        "x": 306,
-        "y": 74
-      }
-    },
-    "feilong": {
-      "0": {
-        "x": 230,
-        "y": 66
-      }
-    },
-    "gouki": {
-      "0": {
-        "x": 188,
-        "y": 118
-      }
-    },
-    "guile": {
-      "0": {
-        "x": 211,
-        "y": 61
-      }
-    },
-    "ken": {
-      "0": {
-        "x": 176,
-        "y": 73
-      }
-    },
-    "mbison": {
-      "0": {
-        "x": 190,
-        "y": 72
-      }
-    },
-    "ryu": {
-      "0": {
-        "x": 183,
-        "y": 71
-      }
-    },
-    "sagat": {
-      "0": {
-        "x": 225,
-        "y": 82
-      }
-    },
-    "thawk": {
-      "0": {
-        "x": 287,
-        "y": 99
-      }
-    },
-    "vega": {
-      "0": {
-        "x": 233,
-        "y": 52
-      }
-    },
-    "zangief": {
-      "0": {
-        "x": 262,
-        "y": 51
-      }
+    "average_size": {
+        "x": 343,
+        "y": 530
     }
-  }
 }

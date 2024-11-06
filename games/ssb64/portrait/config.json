@@ -1,7 +1,11 @@
 {
-  "name": "Portraits",
-  "description": "Character select screen portraits without the background",
-  "prefix": "",
-  "postfix": "",
-  "version": "1.5"
+    "name": "Portraits",
+    "description": "Character select screen portraits without the background",
+    "prefix": "",
+    "postfix": "",
+    "version": "1.5",
+    "average_size": {
+        "x": 28,
+        "y": 28
+    }
 }

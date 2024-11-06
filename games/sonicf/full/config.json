@@ -1,89 +1,93 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "rescaling_factor": {
-    "HoneytheCat": {
-      "0": 0.74366197183098591549295774647887
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "rescaling_factor": {
+        "HoneytheCat": {
+            "0": 0.7436619718309859
+        }
+    },
+    "eyesights": {
+        "AmyRose": {
+            "0": {
+                "x": 971,
+                "y": 740
+            }
+        },
+        "BarkthePolarBear": {
+            "0": {
+                "x": 665,
+                "y": 837
+            }
+        },
+        "BeantheDynamite": {
+            "0": {
+                "x": 1151,
+                "y": 867
+            }
+        },
+        "DrEggman": {
+            "0": {
+                "x": 956,
+                "y": 184
+            }
+        },
+        "EspiotheChameleon": {
+            "0": {
+                "x": 1529,
+                "y": 1261
+            }
+        },
+        "FangtheSniper": {
+            "0": {
+                "x": 1073,
+                "y": 716
+            }
+        },
+        "HoneytheCat": {
+            "0": {
+                "x": 1506,
+                "y": 1601
+            }
+        },
+        "KnucklestheEchidna": {
+            "0": {
+                "x": 1686,
+                "y": 519
+            }
+        },
+        "MetalSonic": {
+            "0": {
+                "x": 1188,
+                "y": 1176
+            }
+        },
+        "MilesTailsPrower": {
+            "0": {
+                "x": 1465,
+                "y": 819
+            }
+        },
+        "SonictheHedgehog": {
+            "0": {
+                "x": 975,
+                "y": 1242
+            }
+        }
+    },
+    "average_size": {
+        "x": 1828,
+        "y": 2460
     }
-  },
-  "eyesights": {
-    "AmyRose": {
-      "0": {
-        "x": 971,
-        "y": 740
-      }
-    },
-    "BarkthePolarBear": {
-      "0": {
-        "x": 665,
-        "y": 837
-      }
-    },
-    "BeantheDynamite": {
-      "0": {
-        "x": 1151,
-        "y": 867
-      }
-    },
-    "DrEggman": {
-      "0": {
-        "x": 956,
-        "y": 184
-      }
-    },
-    "EspiotheChameleon": {
-      "0": {
-        "x": 1529,
-        "y": 1261
-      }
-    },
-    "FangtheSniper": {
-      "0": {
-        "x": 1073,
-        "y": 716
-      }
-    },
-    "HoneytheCat": {
-      "0": {
-        "x": 1506,
-        "y": 1601
-      }
-    },
-    "KnucklestheEchidna": {
-      "0": {
-        "x": 1686,
-        "y": 519
-      }
-    },
-    "MetalSonic": {
-      "0": {
-        "x": 1188,
-        "y": 1176
-      }
-    },
-    "MilesTailsPrower": {
-      "0": {
-        "x": 1465,
-        "y": 819
-      }
-    },
-    "SonictheHedgehog": {
-      "0": {
-        "x": 975,
-        "y": 1242
-      }
-    }
-  }
 }

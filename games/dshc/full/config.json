@@ -1,205 +1,209 @@
 {
-  "name": "Artwork",
-  "description": "Character artwork",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Ripped from https://demonslayer-hinokami.sega.com/",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Akaza": {
-      "0": {
-        "x": 1289,
-        "y": 185
-      }
+    "name": "Artwork",
+    "description": "Character artwork",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Ripped from https://demonslayer-hinokami.sega.com/",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Akaza": {
+            "0": {
+                "x": 1289,
+                "y": 185
+            }
+        },
+        "Daki": {
+            "0": {
+                "x": 1290,
+                "y": 312
+            }
+        },
+        "Enmu": {
+            "0": {
+                "x": 770,
+                "y": 497
+            }
+        },
+        "GiyuTomioka": {
+            "0": {
+                "x": 1058,
+                "y": 335
+            }
+        },
+        "GiyuTomiokaKimetsuAcademy": {
+            "0": {
+                "x": 1589,
+                "y": 197
+            }
+        },
+        "Gyutaro": {
+            "0": {
+                "x": 1700,
+                "y": 784
+            }
+        },
+        "InosukeHashibira": {
+            "0": {
+                "x": 1469,
+                "y": 691
+            }
+        },
+        "InosukeHashibiraEntertainmentDistrict": {
+            "0": {
+                "x": 1447,
+                "y": 274
+            }
+        },
+        "InosukeHashibiraKimetsuAcademy": {
+            "0": {
+                "x": 1562,
+                "y": 287
+            }
+        },
+        "KyojuroRengoku": {
+            "0": {
+                "x": 1425,
+                "y": 507
+            }
+        },
+        "Makomo": {
+            "0": {
+                "x": 1550,
+                "y": 385
+            }
+        },
+        "Murata": {
+            "0": {
+                "x": 1770,
+                "y": 201
+            }
+        },
+        "NezukoKamado": {
+            "0": {
+                "x": 1136,
+                "y": 627
+            }
+        },
+        "NezukoKamadoAwakenedForm": {
+            "0": {
+                "x": 1246,
+                "y": 227
+            }
+        },
+        "NezukoKamadoKimetsuAcademy": {
+            "0": {
+                "x": 1297,
+                "y": 286
+            }
+        },
+        "Rui": {
+            "0": {
+                "x": 1235,
+                "y": 585
+            }
+        },
+        "Sabito": {
+            "0": {
+                "x": 986,
+                "y": 628
+            }
+        },
+        "SakonjiUrokodaki": {
+            "0": {
+                "x": 1226,
+                "y": 267
+            }
+        },
+        "ShinobuKocho": {
+            "0": {
+                "x": 1326,
+                "y": 352
+            }
+        },
+        "ShinobuKochoKimetsuAcademy": {
+            "0": {
+                "x": 1237,
+                "y": 241
+            }
+        },
+        "Susamaru": {
+            "0": {
+                "x": 1041,
+                "y": 454
+            }
+        },
+        "TanjiroKamado": {
+            "0": {
+                "x": 1233,
+                "y": 306
+            }
+        },
+        "TanjiroKamadoEntertainmentDistrict": {
+            "0": {
+                "x": 1357,
+                "y": 539
+            }
+        },
+        "TanjiroKamadoHinokami": {
+            "0": {
+                "x": 1224,
+                "y": 751
+            }
+        },
+        "TanjiroKamadoKimetsuAcademy": {
+            "0": {
+                "x": 1539,
+                "y": 256
+            }
+        },
+        "TengenUzui": {
+            "0": {
+                "x": 1395,
+                "y": 554
+            }
+        },
+        "Yahaba": {
+            "0": {
+                "x": 1307,
+                "y": 412
+            }
+        },
+        "YushiroTamayo": {
+            "0": {
+                "x": 1320,
+                "y": 233
+            }
+        },
+        "ZenitsuAgatsuma": {
+            "0": {
+                "x": 1350,
+                "y": 523
+            }
+        },
+        "ZenitsuAgatsumaEntertainmentDistrict": {
+            "0": {
+                "x": 1291,
+                "y": 587
+            }
+        },
+        "ZenitsuAgatsumaKimetsuAcademy": {
+            "0": {
+                "x": 1464,
+                "y": 222
+            }
+        }
     },
-    "Daki": {
-      "0": {
-        "x": 1290,
-        "y": 312
-      }
-    },
-    "Enmu": {
-      "0": {
-        "x": 770,
-        "y": 497
-      }
-    },
-    "GiyuTomioka": {
-      "0": {
-        "x": 1058,
-        "y": 335
-      }
-    },
-    "GiyuTomiokaKimetsuAcademy": {
-      "0": {
-        "x": 1589,
-        "y": 197
-      }
-    },
-    "Gyutaro": {
-      "0": {
-        "x": 1700,
-        "y": 784
-      }
-    },
-    "InosukeHashibira": {
-      "0": {
-        "x": 1469,
-        "y": 691
-      }
-    },
-    "InosukeHashibiraEntertainmentDistrict": {
-      "0": {
-        "x": 1447,
-        "y": 274
-      }
-    },
-    "InosukeHashibiraKimetsuAcademy": {
-      "0": {
-        "x": 1562,
-        "y": 287
-      }
-    },
-    "KyojuroRengoku": {
-      "0": {
-        "x": 1425,
-        "y": 507
-      }
-    },
-    "Makomo": {
-      "0": {
-        "x": 1550,
-        "y": 385
-      }
-    },
-    "Murata": {
-      "0": {
-        "x": 1770,
-        "y": 201
-      }
-    },
-    "NezukoKamado": {
-      "0": {
-        "x": 1136,
-        "y": 627
-      }
-    },
-    "NezukoKamadoAwakenedForm": {
-      "0": {
-        "x": 1246,
-        "y": 227
-      }
-    },
-    "NezukoKamadoKimetsuAcademy": {
-      "0": {
-        "x": 1297,
-        "y": 286
-      }
-    },
-    "Rui": {
-      "0": {
-        "x": 1235,
-        "y": 585
-      }
-    },
-    "Sabito": {
-      "0": {
-        "x": 986,
-        "y": 628
-      }
-    },
-    "SakonjiUrokodaki": {
-      "0": {
-        "x": 1226,
-        "y": 267
-      }
-    },
-    "ShinobuKocho": {
-      "0": {
-        "x": 1326,
-        "y": 352
-      }
-    },
-    "ShinobuKochoKimetsuAcademy": {
-      "0": {
-        "x": 1237,
-        "y": 241
-      }
-    },
-    "Susamaru": {
-      "0": {
-        "x": 1041,
-        "y": 454
-      }
-    },
-    "TanjiroKamado": {
-      "0": {
-        "x": 1233,
-        "y": 306
-      }
-    },
-    "TanjiroKamadoEntertainmentDistrict": {
-      "0": {
-        "x": 1357,
-        "y": 539
-      }
-    },
-    "TanjiroKamadoHinokami": {
-      "0": {
-        "x": 1224,
-        "y": 751
-      }
-    },
-    "TanjiroKamadoKimetsuAcademy": {
-      "0": {
-        "x": 1539,
-        "y": 256
-      }
-    },
-    "TengenUzui": {
-      "0": {
-        "x": 1395,
-        "y": 554
-      }
-    },
-    "Yahaba": {
-      "0": {
-        "x": 1307,
-        "y": 412
-      }
-    },
-    "YushiroTamayo": {
-      "0": {
-        "x": 1320,
-        "y": 233
-      }
-    },
-    "ZenitsuAgatsuma": {
-      "0": {
-        "x": 1350,
-        "y": 523
-      }
-    },
-    "ZenitsuAgatsumaEntertainmentDistrict": {
-      "0": {
-        "x": 1291,
-        "y": 587
-      }
-    },
-    "ZenitsuAgatsumaKimetsuAcademy": {
-      "0": {
-        "x": 1464,
-        "y": 222
-      }
+    "average_size": {
+        "x": 2613,
+        "y": 1840
     }
-  }
 }

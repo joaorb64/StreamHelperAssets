@@ -1,43 +1,47 @@
 {
-  "name": "Artwork",
-  "description": "Character Artwork",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "art"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Red_Earth/War-Zard)",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "r",
-    "d",
-    "l"
-  ],
-  "eyesights": {
-    "Kenji": {
-      "0": {
-        "x": 592,
-        "y": 199
-      }
+    "name": "Artwork",
+    "description": "Character Artwork",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "art"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Red_Earth/War-Zard)",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "r",
+        "d",
+        "l"
+    ],
+    "eyesights": {
+        "Kenji": {
+            "0": {
+                "x": 592,
+                "y": 199
+            }
+        },
+        "Leo": {
+            "0": {
+                "x": 559,
+                "y": 228
+            }
+        },
+        "MaiLing": {
+            "0": {
+                "x": 639,
+                "y": 209
+            }
+        },
+        "Tessa": {
+            "0": {
+                "x": 593,
+                "y": 244
+            }
+        }
     },
-    "Leo": {
-      "0": {
-        "x": 559,
-        "y": 228
-      }
-    },
-    "MaiLing": {
-      "0": {
-        "x": 639,
-        "y": 209
-      }
-    },
-    "Tessa": {
-      "0": {
-        "x": 593,
-        "y": 244
-      }
+    "average_size": {
+        "x": 1200,
+        "y": 930
     }
-  }
 }

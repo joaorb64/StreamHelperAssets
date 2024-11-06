@@ -1,91 +1,95 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Fight_of_Animals)",
-  "version": "1.11",
-  "eyesights": {
-    "BadDog": {
-      "0": {
-        "x": 229,
-        "y": 102
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Fight_of_Animals)",
+    "version": "1.11",
+    "eyesights": {
+        "BadDog": {
+            "0": {
+                "x": 229,
+                "y": 102
+            }
+        },
+        "Crowrilla": {
+            "0": {
+                "x": 417,
+                "y": 153
+            }
+        },
+        "EggDog": {
+            "0": {
+                "x": 284,
+                "y": 110
+            }
+        },
+        "FluffySheep": {
+            "0": {
+                "x": 292,
+                "y": 88
+            }
+        },
+        "KungfuDachshund": {
+            "0": {
+                "x": 295,
+                "y": 53
+            }
+        },
+        "MagicSquirrel": {
+            "0": {
+                "x": 386,
+                "y": 210
+            }
+        },
+        "MightyFox": {
+            "0": {
+                "x": 166,
+                "y": 45
+            }
+        },
+        "MuscleBeluga": {
+            "0": {
+                "x": 104,
+                "y": 62
+            }
+        },
+        "PowerHookDog": {
+            "0": {
+                "x": 276,
+                "y": 125
+            }
+        },
+        "SlenderCat": {
+            "0": {
+                "x": 111,
+                "y": 59
+            }
+        },
+        "TrickyFox": {
+            "0": {
+                "x": 195,
+                "y": 83
+            }
+        },
+        "WalkingCat": {
+            "0": {
+                "x": 130,
+                "y": 108
+            }
+        }
     },
-    "Crowrilla": {
-      "0": {
-        "x": 417,
-        "y": 153
-      }
-    },
-    "EggDog": {
-      "0": {
-        "x": 284,
-        "y": 110
-      }
-    },
-    "FluffySheep": {
-      "0": {
-        "x": 292,
-        "y": 88
-      }
-    },
-    "KungfuDachshund": {
-      "0": {
-        "x": 295,
-        "y": 53
-      }
-    },
-    "MagicSquirrel": {
-      "0": {
-        "x": 386,
-        "y": 210
-      }
-    },
-    "MightyFox": {
-      "0": {
-        "x": 166,
-        "y": 45
-      }
-    },
-    "MuscleBeluga": {
-      "0": {
-        "x": 104,
-        "y": 62
-      }
-    },
-    "PowerHookDog": {
-      "0": {
-        "x": 276,
-        "y": 125
-      }
-    },
-    "SlenderCat": {
-      "0": {
-        "x": 111,
-        "y": 59
-      }
-    },
-    "TrickyFox": {
-      "0": {
-        "x": 195,
-        "y": 83
-      }
-    },
-    "WalkingCat": {
-      "0": {
-        "x": 130,
-        "y": 108
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 471,
+        "y": 516
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

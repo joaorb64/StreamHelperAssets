@@ -1,8 +1,12 @@
 {
-  "prefix": "123941_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0"
+    "prefix": "123941_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "average_size": {
+        "x": 47,
+        "y": 22
+    }
 }

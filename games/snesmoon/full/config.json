@@ -1,80 +1,84 @@
 {
-  "name": "Portraits",
-  "description": "Character Portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/SMS)",
-  "version": "1.03",
-  "eyesights": {
-    "SailorChibiMoon": {
-      "0": {
-        "x": 219,
-        "y": 251
-      }
+    "name": "Portraits",
+    "description": "Character Portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/SMS)",
+    "version": "1.03",
+    "eyesights": {
+        "SailorChibiMoon": {
+            "0": {
+                "x": 219,
+                "y": 251
+            }
+        },
+        "SailorJupiter": {
+            "0": {
+                "x": 208,
+                "y": 244
+            }
+        },
+        "SailorMars": {
+            "0": {
+                "x": 335,
+                "y": 183
+            }
+        },
+        "SailorMercury": {
+            "0": {
+                "x": 140,
+                "y": 167
+            }
+        },
+        "SailorMoon": {
+            "0": {
+                "x": 288,
+                "y": 296
+            }
+        },
+        "SailorNeptune": {
+            "0": {
+                "x": 88,
+                "y": 105
+            }
+        },
+        "SailorPluto": {
+            "0": {
+                "x": 123,
+                "y": 107
+            }
+        },
+        "SailorUranus": {
+            "0": {
+                "x": 99,
+                "y": 102
+            }
+        },
+        "SailorVenus": {
+            "0": {
+                "x": 310,
+                "y": 231
+            }
+        }
     },
-    "SailorJupiter": {
-      "0": {
-        "x": 208,
-        "y": 244
-      }
+    "uncropped_edge": [
+        "u",
+        "l",
+        "r"
+    ],
+    "rescaling_factor": {
+        "SailorNeptune": {
+            "0": 2.0
+        },
+        "SailorUranus": {
+            "0": 2.0
+        }
     },
-    "SailorMars": {
-      "0": {
-        "x": 335,
-        "y": 183
-      }
-    },
-    "SailorMercury": {
-      "0": {
-        "x": 140,
-        "y": 167
-      }
-    },
-    "SailorMoon": {
-      "0": {
-        "x": 288,
-        "y": 296
-      }
-    },
-    "SailorNeptune": {
-      "0": {
-        "x": 88,
-        "y": 105
-      }
-    },
-    "SailorPluto": {
-      "0": {
-        "x": 123,
-        "y": 107
-      }
-    },
-    "SailorUranus": {
-      "0": {
-        "x": 99,
-        "y": 102
-      }
-    },
-    "SailorVenus": {
-      "0": {
-        "x": 310,
-        "y": 231
-      }
+    "average_size": {
+        "x": 386,
+        "y": 496
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "l",
-    "r"
-  ],
-  "rescaling_factor": {
-    "SailorNeptune": {
-      "0": 2.0
-    },
-    "SailorUranus": {
-      "0": 2.0
-    }
-  }
 }

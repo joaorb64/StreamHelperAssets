@@ -1,97 +1,101 @@
 {
-  "name": "Artwork",
-  "description": "Character Artwork",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "l",
-    "r",
-    "d"
-  ],
-  "eyesights": {
-    "ArthurBladeProtector": {
-      "0": {
-        "x": 121,
-        "y": 116
-      }
+    "name": "Artwork",
+    "description": "Character Artwork",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "l",
+        "r",
+        "d"
+    ],
+    "eyesights": {
+        "ArthurBladeProtector": {
+            "0": {
+                "x": 121,
+                "y": 116
+            }
+        },
+        "Bisclavret": {
+            "0": {
+                "x": 141,
+                "y": 133
+            }
+        },
+        "EternalFlame": {
+            "0": {
+                "x": 115,
+                "y": 104
+            }
+        },
+        "IaiArthur": {
+            "0": {
+                "x": 106,
+                "y": 103
+            }
+        },
+        "IoriYagami": {
+            "0": {
+                "x": 138,
+                "y": 63
+            }
+        },
+        "KoumeSakiyama": {
+            "0": {
+                "x": 137,
+                "y": 115
+            }
+        },
+        "Nimue": {
+            "0": {
+                "x": 155,
+                "y": 139
+            }
+        },
+        "Riesz": {
+            "0": {
+                "x": 91,
+                "y": 126
+            }
+        },
+        "SnowWhite": {
+            "0": {
+                "x": 131,
+                "y": 125
+            }
+        },
+        "ThiefArthur": {
+            "0": {
+                "x": 122,
+                "y": 124
+            }
+        },
+        "TwinbladeArthur": {
+            "0": {
+                "x": 107,
+                "y": 98
+            }
+        },
+        "WildcatArthur": {
+            "0": {
+                "x": 121,
+                "y": 101
+            }
+        },
+        "ZechsSiegfried": {
+            "0": {
+                "x": 72,
+                "y": 99
+            }
+        }
     },
-    "Bisclavret": {
-      "0": {
-        "x": 141,
-        "y": 133
-      }
-    },
-    "EternalFlame": {
-      "0": {
-        "x": 115,
-        "y": 104
-      }
-    },
-    "IaiArthur": {
-      "0": {
-        "x": 106,
-        "y": 103
-      }
-    },
-    "IoriYagami": {
-      "0": {
-        "x": 138,
-        "y": 63
-      }
-    },
-    "KoumeSakiyama": {
-      "0": {
-        "x": 137,
-        "y": 115
-      }
-    },
-    "Nimue": {
-      "0": {
-        "x": 155,
-        "y": 139
-      }
-    },
-    "Riesz": {
-      "0": {
-        "x": 91,
-        "y": 126
-      }
-    },
-    "SnowWhite": {
-      "0": {
-        "x": 131,
-        "y": 125
-      }
-    },
-    "ThiefArthur": {
-      "0": {
-        "x": 122,
-        "y": 124
-      }
-    },
-    "TwinbladeArthur": {
-      "0": {
-        "x": 107,
-        "y": 98
-      }
-    },
-    "WildcatArthur": {
-      "0": {
-        "x": 121,
-        "y": 101
-      }
-    },
-    "ZechsSiegfried": {
-      "0": {
-        "x": 72,
-        "y": 99
-      }
+    "average_size": {
+        "x": 241,
+        "y": 514
     }
-  }
 }

@@ -1,132 +1,136 @@
 {
-  "name": "Renders (Upscaled)",
-  "description": "Character renders",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full_upscale"
-  ],
-  "credits": "@MathiasWolfbrok for ripping the files\nUpscaled using realesrgan-x4plus-anime",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Bui": {
-      "0": {
-        "x": 740,
-        "y": 672
-      }
+    "name": "Renders (Upscaled)",
+    "description": "Character renders",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full_upscale"
+    ],
+    "credits": "@MathiasWolfbrok for ripping the files\nUpscaled using realesrgan-x4plus-anime",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Bui": {
+            "0": {
+                "x": 740,
+                "y": 672
+            }
+        },
+        "Chu": {
+            "0": {
+                "x": 1012,
+                "y": 556
+            }
+        },
+        "Genkai": {
+            "0": {
+                "x": 1000,
+                "y": 876
+            }
+        },
+        "Hiei": {
+            "0": {
+                "x": 1024,
+                "y": 764
+            }
+        },
+        "Itsuki": {
+            "0": {
+                "x": 1020,
+                "y": 652
+            }
+        },
+        "Jin": {
+            "0": {
+                "x": 1028,
+                "y": 712
+            }
+        },
+        "Karasu": {
+            "0": {
+                "x": 1008,
+                "y": 624
+            }
+        },
+        "Kazuma": {
+            "0": {
+                "x": 928,
+                "y": 712
+            }
+        },
+        "Koenma": {
+            "0": {
+                "x": 984,
+                "y": 708
+            }
+        },
+        "Kurama": {
+            "0": {
+                "x": 992,
+                "y": 632
+            }
+        },
+        "Onji": {
+            "0": {
+                "x": 1060,
+                "y": 592
+            }
+        },
+        "Rinku": {
+            "0": {
+                "x": 1020,
+                "y": 884
+            }
+        },
+        "Shinobu": {
+            "0": {
+                "x": 1092,
+                "y": 544
+            }
+        },
+        "Shishiwakamaru": {
+            "0": {
+                "x": 1012,
+                "y": 600
+            }
+        },
+        "Suzaku": {
+            "0": {
+                "x": 1048,
+                "y": 836
+            }
+        },
+        "Toguro": {
+            "0": {
+                "x": 1144,
+                "y": 500
+            }
+        },
+        "ToguroElder": {
+            "0": {
+                "x": 996,
+                "y": 804
+            }
+        },
+        "Toya": {
+            "0": {
+                "x": 1064,
+                "y": 688
+            }
+        },
+        "Yusuke": {
+            "0": {
+                "x": 1120,
+                "y": 708
+            }
+        }
     },
-    "Chu": {
-      "0": {
-        "x": 1012,
-        "y": 556
-      }
-    },
-    "Genkai": {
-      "0": {
-        "x": 1000,
-        "y": 876
-      }
-    },
-    "Hiei": {
-      "0": {
-        "x": 1024,
-        "y": 764
-      }
-    },
-    "Itsuki": {
-      "0": {
-        "x": 1020,
-        "y": 652
-      }
-    },
-    "Jin": {
-      "0": {
-        "x": 1028,
-        "y": 712
-      }
-    },
-    "Karasu": {
-      "0": {
-        "x": 1008,
-        "y": 624
-      }
-    },
-    "Kazuma": {
-      "0": {
-        "x": 928,
-        "y": 712
-      }
-    },
-    "Koenma": {
-      "0": {
-        "x": 984,
-        "y": 708
-      }
-    },
-    "Kurama": {
-      "0": {
-        "x": 992,
-        "y": 632
-      }
-    },
-    "Onji": {
-      "0": {
-        "x": 1060,
-        "y": 592
-      }
-    },
-    "Rinku": {
-      "0": {
-        "x": 1020,
-        "y": 884
-      }
-    },
-    "Shinobu": {
-      "0": {
-        "x": 1092,
-        "y": 544
-      }
-    },
-    "Shishiwakamaru": {
-      "0": {
-        "x": 1012,
-        "y": 600
-      }
-    },
-    "Suzaku": {
-      "0": {
-        "x": 1048,
-        "y": 836
-      }
-    },
-    "Toguro": {
-      "0": {
-        "x": 1144,
-        "y": 500
-      }
-    },
-    "ToguroElder": {
-      "0": {
-        "x": 996,
-        "y": 804
-      }
-    },
-    "Toya": {
-      "0": {
-        "x": 1064,
-        "y": 688
-      }
-    },
-    "Yusuke": {
-      "0": {
-        "x": 1120,
-        "y": 708
-      }
+    "average_size": {
+        "x": 2048,
+        "y": 2048
     }
-  }
 }

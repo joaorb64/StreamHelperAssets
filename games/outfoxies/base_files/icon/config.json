@@ -1,58 +1,62 @@
 {
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0",
-  "eyesights": {
-    "BernardWhite": {
-      "0": {
-        "x": 175,
-        "y": 239
-      }
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "eyesights": {
+        "BernardWhite": {
+            "0": {
+                "x": 175,
+                "y": 239
+            }
+        },
+        "BettyDoe": {
+            "0": {
+                "x": 240,
+                "y": 115
+            }
+        },
+        "DannyandDemi": {
+            "0": {
+                "x": 453,
+                "y": 253
+            }
+        },
+        "Dweeb": {
+            "0": {
+                "x": 289,
+                "y": 226
+            }
+        },
+        "Eve": {
+            "0": {
+                "x": 234,
+                "y": 305
+            }
+        },
+        "JohnSmith": {
+            "0": {
+                "x": 404,
+                "y": 125
+            }
+        },
+        "ProfessorChing": {
+            "0": {
+                "x": 624,
+                "y": 763
+            }
+        }
     },
-    "BettyDoe": {
-      "0": {
-        "x": 240,
-        "y": 115
-      }
-    },
-    "DannyandDemi": {
-      "0": {
-        "x": 453,
-        "y": 253
-      }
-    },
-    "Dweeb": {
-      "0": {
-        "x": 289,
-        "y": 226
-      }
-    },
-    "Eve": {
-      "0": {
-        "x": 234,
-        "y": 305
-      }
-    },
-    "JohnSmith": {
-      "0": {
-        "x": 404,
-        "y": 125
-      }
-    },
-    "ProfessorChing": {
-      "0": {
-        "x": 624,
-        "y": 763
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 702,
+        "y": 1348
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

@@ -1,169 +1,173 @@
 {
-  "name": "Renders",
-  "description": "Character renders",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/Guilty_Gear_Xrd_REV_2)",
-  "version": "1.0",
-  "eyesights": {
-    "Answer": {
-      "0": {
-        "x": 235,
-        "y": 197
-      }
+    "name": "Renders",
+    "description": "Character renders",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/Guilty_Gear_Xrd_REV_2)",
+    "version": "1.0",
+    "eyesights": {
+        "Answer": {
+            "0": {
+                "x": 235,
+                "y": 197
+            }
+        },
+        "AxlLow": {
+            "0": {
+                "x": 337,
+                "y": 83
+            }
+        },
+        "Baiken": {
+            "0": {
+                "x": 414,
+                "y": 187
+            }
+        },
+        "Bedman": {
+            "0": {
+                "x": 428,
+                "y": 385
+            }
+        },
+        "ChippZanuff": {
+            "0": {
+                "x": 411,
+                "y": 130
+            }
+        },
+        "Dizzy": {
+            "0": {
+                "x": 512,
+                "y": 205
+            }
+        },
+        "ElpheltValentine": {
+            "0": {
+                "x": 274,
+                "y": 244
+            }
+        },
+        "Faust": {
+            "0": {
+                "x": 364,
+                "y": 143
+            }
+        },
+        "INo": {
+            "0": {
+                "x": 178,
+                "y": 217
+            }
+        },
+        "JackO": {
+            "0": {
+                "x": 351,
+                "y": 169
+            }
+        },
+        "JamKuradoberi": {
+            "0": {
+                "x": 278,
+                "y": 148
+            }
+        },
+        "Johnny": {
+            "0": {
+                "x": 512,
+                "y": 85
+            }
+        },
+        "KumHaehyun": {
+            "0": {
+                "x": 289,
+                "y": 134
+            }
+        },
+        "KyKiske": {
+            "0": {
+                "x": 337,
+                "y": 134
+            }
+        },
+        "LeoWhitefang": {
+            "0": {
+                "x": 245,
+                "y": 157
+            }
+        },
+        "May": {
+            "0": {
+                "x": 225,
+                "y": 187
+            }
+        },
+        "MilliaRage": {
+            "0": {
+                "x": 272,
+                "y": 130
+            }
+        },
+        "Potemkin": {
+            "0": {
+                "x": 404,
+                "y": 124
+            }
+        },
+        "RamlethalValentine": {
+            "0": {
+                "x": 331,
+                "y": 151
+            }
+        },
+        "Raven": {
+            "0": {
+                "x": 302,
+                "y": 114
+            }
+        },
+        "SinKiske": {
+            "0": {
+                "x": 431,
+                "y": 144
+            }
+        },
+        "Slayer": {
+            "0": {
+                "x": 229,
+                "y": 88
+            }
+        },
+        "SolBadguy": {
+            "0": {
+                "x": 369,
+                "y": 156
+            }
+        },
+        "Venom": {
+            "0": {
+                "x": 277,
+                "y": 97
+            }
+        },
+        "Zato1": {
+            "0": {
+                "x": 319,
+                "y": 52
+            }
+        }
     },
-    "AxlLow": {
-      "0": {
-        "x": 337,
-        "y": 83
-      }
-    },
-    "Baiken": {
-      "0": {
-        "x": 414,
-        "y": 187
-      }
-    },
-    "Bedman": {
-      "0": {
-        "x": 428,
-        "y": 385
-      }
-    },
-    "ChippZanuff": {
-      "0": {
-        "x": 411,
-        "y": 130
-      }
-    },
-    "Dizzy": {
-      "0": {
-        "x": 512,
-        "y": 205
-      }
-    },
-    "ElpheltValentine": {
-      "0": {
-        "x": 274,
-        "y": 244
-      }
-    },
-    "Faust": {
-      "0": {
-        "x": 364,
-        "y": 143
-      }
-    },
-    "INo": {
-      "0": {
-        "x": 178,
-        "y": 217
-      }
-    },
-    "JackO": {
-      "0": {
-        "x": 351,
-        "y": 169
-      }
-    },
-    "JamKuradoberi": {
-      "0": {
-        "x": 278,
-        "y": 148
-      }
-    },
-    "Johnny": {
-      "0": {
-        "x": 512,
-        "y": 85
-      }
-    },
-    "KumHaehyun": {
-      "0": {
-        "x": 289,
-        "y": 134
-      }
-    },
-    "KyKiske": {
-      "0": {
-        "x": 337,
-        "y": 134
-      }
-    },
-    "LeoWhitefang": {
-      "0": {
-        "x": 245,
-        "y": 157
-      }
-    },
-    "May": {
-      "0": {
-        "x": 225,
-        "y": 187
-      }
-    },
-    "MilliaRage": {
-      "0": {
-        "x": 272,
-        "y": 130
-      }
-    },
-    "Potemkin": {
-      "0": {
-        "x": 404,
-        "y": 124
-      }
-    },
-    "RamlethalValentine": {
-      "0": {
-        "x": 331,
-        "y": 151
-      }
-    },
-    "Raven": {
-      "0": {
-        "x": 302,
-        "y": 114
-      }
-    },
-    "SinKiske": {
-      "0": {
-        "x": 431,
-        "y": 144
-      }
-    },
-    "Slayer": {
-      "0": {
-        "x": 229,
-        "y": 88
-      }
-    },
-    "SolBadguy": {
-      "0": {
-        "x": 369,
-        "y": 156
-      }
-    },
-    "Venom": {
-      "0": {
-        "x": 277,
-        "y": 97
-      }
-    },
-    "Zato1": {
-      "0": {
-        "x": 319,
-        "y": 52
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 648,
+        "y": 883
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

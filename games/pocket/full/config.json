@@ -1,11 +1,15 @@
 {
-  "name": "Win Screens",
-  "description": "Character Win Screens",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Pocket_Fighter)\n@MathiasWolfbrok for cropping",
-  "version": "1.01"
+    "name": "Win Screens",
+    "description": "Character Win Screens",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Pocket_Fighter)\n@MathiasWolfbrok for cropping",
+    "version": "1.01",
+    "average_size": {
+        "x": 960,
+        "y": 1080
+    }
 }

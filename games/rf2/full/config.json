@@ -1,109 +1,113 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/The_Rumble_Fish_2)",
-  "version": "1.01",
-  "eyesights": {
-    "Aran": {
-      "0": {
-        "x": 133,
-        "y": 250
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/The_Rumble_Fish_2)",
+    "version": "1.01",
+    "eyesights": {
+        "Aran": {
+            "0": {
+                "x": 133,
+                "y": 250
+            }
+        },
+        "Bazoo": {
+            "0": {
+                "x": 261,
+                "y": 203
+            }
+        },
+        "Beatrice": {
+            "0": {
+                "x": 227,
+                "y": 135
+            }
+        },
+        "Boyd": {
+            "0": {
+                "x": 183,
+                "y": 103
+            }
+        },
+        "Garnet": {
+            "0": {
+                "x": 339,
+                "y": 230
+            }
+        },
+        "Greed": {
+            "0": {
+                "x": 234,
+                "y": 190
+            }
+        },
+        "Hazama": {
+            "0": {
+                "x": 280,
+                "y": 154
+            }
+        },
+        "Hikari": {
+            "0": {
+                "x": 232,
+                "y": 185
+            }
+        },
+        "Kaya": {
+            "0": {
+                "x": 275,
+                "y": 171
+            }
+        },
+        "Lud": {
+            "0": {
+                "x": 331,
+                "y": 273
+            }
+        },
+        "Mito": {
+            "0": {
+                "x": 448,
+                "y": 222
+            }
+        },
+        "Orville": {
+            "0": {
+                "x": 362,
+                "y": 89
+            }
+        },
+        "Sheryl": {
+            "0": {
+                "x": 332,
+                "y": 152
+            }
+        },
+        "Typhon": {
+            "0": {
+                "x": 296,
+                "y": 256
+            }
+        },
+        "Viren": {
+            "0": {
+                "x": 353,
+                "y": 119
+            }
+        },
+        "Zen": {
+            "0": {
+                "x": 516,
+                "y": 314
+            }
+        }
     },
-    "Bazoo": {
-      "0": {
-        "x": 261,
-        "y": 203
-      }
-    },
-    "Beatrice": {
-      "0": {
-        "x": 227,
-        "y": 135
-      }
-    },
-    "Boyd": {
-      "0": {
-        "x": 183,
-        "y": 103
-      }
-    },
-    "Garnet": {
-      "0": {
-        "x": 339,
-        "y": 230
-      }
-    },
-    "Greed": {
-      "0": {
-        "x": 234,
-        "y": 190
-      }
-    },
-    "Hazama": {
-      "0": {
-        "x": 280,
-        "y": 154
-      }
-    },
-    "Hikari": {
-      "0": {
-        "x": 232,
-        "y": 185
-      }
-    },
-    "Kaya": {
-      "0": {
-        "x": 275,
-        "y": 171
-      }
-    },
-    "Lud": {
-      "0": {
-        "x": 331,
-        "y": 273
-      }
-    },
-    "Mito": {
-      "0": {
-        "x": 448,
-        "y": 222
-      }
-    },
-    "Orville": {
-      "0": {
-        "x": 362,
-        "y": 89
-      }
-    },
-    "Sheryl": {
-      "0": {
-        "x": 332,
-        "y": 152
-      }
-    },
-    "Typhon": {
-      "0": {
-        "x": 296,
-        "y": 256
-      }
-    },
-    "Viren": {
-      "0": {
-        "x": 353,
-        "y": 119
-      }
-    },
-    "Zen": {
-      "0": {
-        "x": 516,
-        "y": 314
-      }
+    "average_size": {
+        "x": 607,
+        "y": 804
     }
-  }
 }

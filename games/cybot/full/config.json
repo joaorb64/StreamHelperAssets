@@ -1,115 +1,119 @@
 {
-  "name": "Artwork",
-  "description": "Character artwork",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Cyberbots)",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Blodia": {
-      "0": {
-        "x": 386,
-        "y": 127
-      }
+    "name": "Artwork",
+    "description": "Character artwork",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Cyberbots)",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Blodia": {
+            "0": {
+                "x": 386,
+                "y": 127
+            }
+        },
+        "Cyclone": {
+            "0": {
+                "x": 317,
+                "y": 270
+            }
+        },
+        "Fordy": {
+            "0": {
+                "x": 280,
+                "y": 297
+            }
+        },
+        "Gaits": {
+            "0": {
+                "x": 259,
+                "y": 243
+            }
+        },
+        "Guldin": {
+            "0": {
+                "x": 270,
+                "y": 294
+            }
+        },
+        "Helion": {
+            "0": {
+                "x": 219,
+                "y": 181
+            }
+        },
+        "Jackal": {
+            "0": {
+                "x": 249,
+                "y": 213
+            }
+        },
+        "KillerBee": {
+            "0": {
+                "x": 336,
+                "y": 163
+            }
+        },
+        "Lightning": {
+            "0": {
+                "x": 319,
+                "y": 256
+            }
+        },
+        "Reptos": {
+            "0": {
+                "x": 301,
+                "y": 160
+            }
+        },
+        "Riot": {
+            "0": {
+                "x": 389,
+                "y": 261
+            }
+        },
+        "Super8": {
+            "0": {
+                "x": 343,
+                "y": 420
+            }
+        },
+        "Swordsman": {
+            "0": {
+                "x": 347,
+                "y": 232
+            }
+        },
+        "Tarantula": {
+            "0": {
+                "x": 383,
+                "y": 330
+            }
+        },
+        "Vise": {
+            "0": {
+                "x": 286,
+                "y": 278
+            }
+        },
+        "Warlock": {
+            "0": {
+                "x": 316,
+                "y": 116
+            }
+        }
     },
-    "Cyclone": {
-      "0": {
-        "x": 317,
-        "y": 270
-      }
-    },
-    "Fordy": {
-      "0": {
-        "x": 280,
-        "y": 297
-      }
-    },
-    "Gaits": {
-      "0": {
-        "x": 259,
-        "y": 243
-      }
-    },
-    "Guldin": {
-      "0": {
-        "x": 270,
-        "y": 294
-      }
-    },
-    "Helion": {
-      "0": {
-        "x": 219,
-        "y": 181
-      }
-    },
-    "Jackal": {
-      "0": {
-        "x": 249,
-        "y": 213
-      }
-    },
-    "KillerBee": {
-      "0": {
-        "x": 336,
-        "y": 163
-      }
-    },
-    "Lightning": {
-      "0": {
-        "x": 319,
-        "y": 256
-      }
-    },
-    "Reptos": {
-      "0": {
-        "x": 301,
-        "y": 160
-      }
-    },
-    "Riot": {
-      "0": {
-        "x": 389,
-        "y": 261
-      }
-    },
-    "Super8": {
-      "0": {
-        "x": 343,
-        "y": 420
-      }
-    },
-    "Swordsman": {
-      "0": {
-        "x": 347,
-        "y": 232
-      }
-    },
-    "Tarantula": {
-      "0": {
-        "x": 383,
-        "y": 330
-      }
-    },
-    "Vise": {
-      "0": {
-        "x": 286,
-        "y": 278
-      }
-    },
-    "Warlock": {
-      "0": {
-        "x": 316,
-        "y": 116
-      }
+    "average_size": {
+        "x": 667,
+        "y": 768
     }
-  }
 }

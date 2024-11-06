@@ -1,8 +1,12 @@
 {
-  "prefix": "64px-LLB_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "2.01"
+    "prefix": "64px-LLB_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "2.01",
+    "average_size": {
+        "x": 64,
+        "y": 64
+    }
 }

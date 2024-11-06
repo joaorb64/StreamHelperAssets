@@ -1,15 +1,21 @@
 {
-  "name": "Sprites",
-  "description": "Animated Sprites",
-  "prefix": "anim_",
-  "postfix": "_",
-  "type": [
-    "anim"
-  ],
-  "credits": "",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d","l","r"
-  ]
+    "name": "Sprites",
+    "description": "Animated Sprites",
+    "prefix": "anim_",
+    "postfix": "_",
+    "type": [
+        "anim"
+    ],
+    "credits": "",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 166,
+        "y": 115
+    }
 }

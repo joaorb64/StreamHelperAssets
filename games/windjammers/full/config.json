@@ -1,17 +1,21 @@
 {
-  "name": "Portraits",
-  "description": "Character Portraits",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "@MathiasWolfbrok for cropping",
-  "version": "1.12",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
+    "name": "Portraits",
+    "description": "Character Portraits",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "@MathiasWolfbrok for cropping",
+    "version": "1.12",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 960,
+        "y": 1080
+    }
 }

@@ -1,249 +1,253 @@
 {
-  "name": "Tableturf Art",
-  "version": "8.01",
-  "description": "Art used in the Tableturf Battle mode",
-  "prefix": "card_",
-  "postfix": "_",
-  "type": [
-    "card"
-  ],
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "rescaling_factor": {
-    "96GalDeco": {
-      "0": 0.7170868347338936
-    },
-    "AerosprayRG": {
-      "0": 0.7170868347338936
-    },
-    "BigSwigRoller": {
-      "0": 0.7170868347338936
-    },
-    "CarbonRollerDeco": {
-      "0": 0.7170868347338936
-    },
-    "ClashBlasterNeo": {
-      "0": 0.7170868347338936
-    },
-    "CustomJetSquelcher": {
-      "0": 0.7170868347338936
-    },
-    "CustomSplattershotJr": {
-      "0": 0.7170868347338936
-    },
-    "DappleDualiesNouveau": {
-      "0": 0.7170868347338936
-    },
-    "ForgeSplattershotPro": {
-      "0": 0.7170868347338936
-    },
-    "InkbrushNouveau": {
-      "0": 0.7170868347338936
-    },
-    "KrakOnSplatRoller": {
-      "0": 0.7170868347338936
-    },
-    "L3NozzlenoseD": {
-      "0": 0.7170868347338936
-    },
-    "LunaBlaster": {
-      "0": 0.7170868347338936
-    },
-    "LunaBlasterNeo": {
-      "0": 0.7170868347338936
-    },
-    "NZAP'89": {
-      "0": 0.7170868347338936
-    },
-    "NeoSplashomatic": {
-      "0": 0.7170868347338936
-    },
-    "NeoSplooshomatic": {
-      "0": 0.7170868347338936
-    },
-    "RapidBlasterDeco": {
-      "0": 0.7170868347338936
-    },
-    "SlosherDeco": {
-      "0": 0.7170868347338936
-    },
-    "Snipewriter5H": {
-      "0": 0.7170868347338936
-    },
-    "SplattershotNova": {
-      "0": 0.7170868347338936
-    },
-    "TentatekSplattershot": {
-      "0": 0.7170868347338936
-    },
-    "TriSlosherNouveau": {
-      "0": 0.7170868347338936
-    },
-    "Z+FSplatCharger": {
-      "0": 0.7170868347338936
-    },
-    "Z+FSplatterscope": {
-      "0": 0.7170868347338936
-    },
-    "ZinkMiniSplatling": {
-      "0": 0.7170868347338936
-    },
-    "AnnakiSplattershotNova": {
-      "0": 0.7170868347338936
-    },
-    "BigSwigRollerExpress": {
-      "0": 0.7170868347338936
-    },
-    "CustomDualieSquelchers": {
-      "0": 0.7170868347338936
-    },
-    "H3NozzlenoseD": {
-      "0": 0.7170868347338936
-    },
-    "HeavySplatlingDeco": {
-      "0": 0.7170868347338936
-    },
-    "LightTetraDualies": {
-      "0": 0.7170868347338936
-    },
-    "Painbrush": {
-      "0": 0.7170868347338936
-    },
-    "RapidBlasterProDeco": {
-      "0": 0.7170868347338936
-    },
-    "SBLAST'92": {
-      "0": 0.7170868347338936
-    },
-    "SplatanaWiperDeco": {
-      "0": 0.7170868347338936
-    },
-    "TentaSorellaBrella": {
-      "0": 0.7170868347338936
-    },
-    "BallpointSplatlingNouveau": {
-      "0": 0.7170868347338936
-    },
-    "BloblobberDeco": {
-      "0": 0.7170868347338936
-    },
-    "CustomGooTuber": {
-      "0": 0.7170868347338936
-    },
-    "DreadWringer": {
-      "0": 0.7170868347338936
-    },
-    "GoldDynamoRoller": {
-      "0": 0.7170868347338936
-    },
-    "HeavyEditSplatling": {
-      "0": 0.7170868347338936
-    },
-    "InklineTriStringer": {
-      "0": 0.7170868347338936
-    },
-    "OctobrushNouveau": {
-      "0": 0.7170868347338936
-    },
-    "SloshingMachineNeo": {
-      "0": 0.7170868347338936
-    },
-    "SorellaBrella": {
-      "0": 0.7170868347338936
-    },
-    "CustomBlaster": {
-      "0": 0.7191011235955056
-    },
-    "EnperrySplatDualies": {
-      "0": 0.7191011235955056
-    },
-    "FoilSqueezer": {
-      "0": 0.7191011235955056
-    },
-    "PainbrushNouveau": {
-      "0": 0.7191011235955056
-    },
-    "REEFLUX450Deco": {
-      "0": 0.7191011235955056
-    },
-    "SBLAST'91": {
-      "0": 0.7191011235955056
-    },
-    "Snipewriter5B": {
-      "0": 0.7191011235955056
-    },
-    "UndercoverSorellaBrella": {
-      "0": 0.7191011235955056
-    },
-    "52GalDeco": {
-      "0": 0.7345767575322812
-    },
-    "CustomEliter4K": {
-      "0": 0.7345767575322812
-    },
-    "CustomEliter4KScope": {
-      "0": 0.7345767575322812
-    },
-    "CustomExplosher": {
-      "0": 0.7345767575322812
-    },
-    "DouserDualiesFF": {
-      "0": 0.7345767575322812
-    },
-    "DreadWringerD": {
-      "0": 0.7345767575322812
-    },
-    "FoilFlingzaRoller": {
-      "0": 0.7345767575322812
-    },
-    "GloogaDualiesDeco": {
-      "0": 0.7345767575322812
-    },
-    "Nautilus79": {
-      "0": 0.7345767575322812
-    },
-    "NewSquiffer": {
-      "0": 0.7345767575322812
-    },
-    "RecycledBrella24MkI": {
-      "0": 0.7345767575322812
-    },
-    "SplatanaStamperNouveau": {
-      "0": 0.7191011235955056
-    },
-    "Bamboozler14MkII": {
-      "0": 0.7345767575322812
-    },
-    "CharcoalDecavitator": {
-      "0": 0.7345767575322812
-    },
-    "CustomDouserDualiesFF": {
-      "0": 0.7345767575322812
-    },
-    "CustomHydraSplatling": {
-      "0": 0.7345767575322812
-    },
-    "CustomRangeBlaster": {
-      "0": 0.7345767575322812
-    },
-    "CustomWellstringV": {
-      "0": 0.7345767575322812
-    },
-    "HeavyEditSplatlingNouveau": {
-      "0": 0.7345767575322812
-    },
-    "MintDecavitator": {
-      "0": 0.7345767575322812
-    },
-    "RecycledBrella24MkII": {
-      "0": 0.7345767575322812
-    },
-    "WellstringV": {
-      "0": 0.7345767575322812
+    "name": "Tableturf Art",
+    "version": "8.01",
+    "description": "Art used in the Tableturf Battle mode",
+    "prefix": "card_",
+    "postfix": "_",
+    "type": [
+        "card"
+    ],
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "rescaling_factor": {
+        "96GalDeco": {
+            "0": 0.7170868347338936
+        },
+        "AerosprayRG": {
+            "0": 0.7170868347338936
+        },
+        "BigSwigRoller": {
+            "0": 0.7170868347338936
+        },
+        "CarbonRollerDeco": {
+            "0": 0.7170868347338936
+        },
+        "ClashBlasterNeo": {
+            "0": 0.7170868347338936
+        },
+        "CustomJetSquelcher": {
+            "0": 0.7170868347338936
+        },
+        "CustomSplattershotJr": {
+            "0": 0.7170868347338936
+        },
+        "DappleDualiesNouveau": {
+            "0": 0.7170868347338936
+        },
+        "ForgeSplattershotPro": {
+            "0": 0.7170868347338936
+        },
+        "InkbrushNouveau": {
+            "0": 0.7170868347338936
+        },
+        "KrakOnSplatRoller": {
+            "0": 0.7170868347338936
+        },
+        "L3NozzlenoseD": {
+            "0": 0.7170868347338936
+        },
+        "LunaBlaster": {
+            "0": 0.7170868347338936
+        },
+        "LunaBlasterNeo": {
+            "0": 0.7170868347338936
+        },
+        "NZAP'89": {
+            "0": 0.7170868347338936
+        },
+        "NeoSplashomatic": {
+            "0": 0.7170868347338936
+        },
+        "NeoSplooshomatic": {
+            "0": 0.7170868347338936
+        },
+        "RapidBlasterDeco": {
+            "0": 0.7170868347338936
+        },
+        "SlosherDeco": {
+            "0": 0.7170868347338936
+        },
+        "Snipewriter5H": {
+            "0": 0.7170868347338936
+        },
+        "SplattershotNova": {
+            "0": 0.7170868347338936
+        },
+        "TentatekSplattershot": {
+            "0": 0.7170868347338936
+        },
+        "TriSlosherNouveau": {
+            "0": 0.7170868347338936
+        },
+        "Z+FSplatCharger": {
+            "0": 0.7170868347338936
+        },
+        "Z+FSplatterscope": {
+            "0": 0.7170868347338936
+        },
+        "ZinkMiniSplatling": {
+            "0": 0.7170868347338936
+        },
+        "AnnakiSplattershotNova": {
+            "0": 0.7170868347338936
+        },
+        "BigSwigRollerExpress": {
+            "0": 0.7170868347338936
+        },
+        "CustomDualieSquelchers": {
+            "0": 0.7170868347338936
+        },
+        "H3NozzlenoseD": {
+            "0": 0.7170868347338936
+        },
+        "HeavySplatlingDeco": {
+            "0": 0.7170868347338936
+        },
+        "LightTetraDualies": {
+            "0": 0.7170868347338936
+        },
+        "Painbrush": {
+            "0": 0.7170868347338936
+        },
+        "RapidBlasterProDeco": {
+            "0": 0.7170868347338936
+        },
+        "SBLAST'92": {
+            "0": 0.7170868347338936
+        },
+        "SplatanaWiperDeco": {
+            "0": 0.7170868347338936
+        },
+        "TentaSorellaBrella": {
+            "0": 0.7170868347338936
+        },
+        "BallpointSplatlingNouveau": {
+            "0": 0.7170868347338936
+        },
+        "BloblobberDeco": {
+            "0": 0.7170868347338936
+        },
+        "CustomGooTuber": {
+            "0": 0.7170868347338936
+        },
+        "DreadWringer": {
+            "0": 0.7170868347338936
+        },
+        "GoldDynamoRoller": {
+            "0": 0.7170868347338936
+        },
+        "HeavyEditSplatling": {
+            "0": 0.7170868347338936
+        },
+        "InklineTriStringer": {
+            "0": 0.7170868347338936
+        },
+        "OctobrushNouveau": {
+            "0": 0.7170868347338936
+        },
+        "SloshingMachineNeo": {
+            "0": 0.7170868347338936
+        },
+        "SorellaBrella": {
+            "0": 0.7170868347338936
+        },
+        "CustomBlaster": {
+            "0": 0.7191011235955056
+        },
+        "EnperrySplatDualies": {
+            "0": 0.7191011235955056
+        },
+        "FoilSqueezer": {
+            "0": 0.7191011235955056
+        },
+        "PainbrushNouveau": {
+            "0": 0.7191011235955056
+        },
+        "REEFLUX450Deco": {
+            "0": 0.7191011235955056
+        },
+        "SBLAST'91": {
+            "0": 0.7191011235955056
+        },
+        "Snipewriter5B": {
+            "0": 0.7191011235955056
+        },
+        "UndercoverSorellaBrella": {
+            "0": 0.7191011235955056
+        },
+        "52GalDeco": {
+            "0": 0.7345767575322812
+        },
+        "CustomEliter4K": {
+            "0": 0.7345767575322812
+        },
+        "CustomEliter4KScope": {
+            "0": 0.7345767575322812
+        },
+        "CustomExplosher": {
+            "0": 0.7345767575322812
+        },
+        "DouserDualiesFF": {
+            "0": 0.7345767575322812
+        },
+        "DreadWringerD": {
+            "0": 0.7345767575322812
+        },
+        "FoilFlingzaRoller": {
+            "0": 0.7345767575322812
+        },
+        "GloogaDualiesDeco": {
+            "0": 0.7345767575322812
+        },
+        "Nautilus79": {
+            "0": 0.7345767575322812
+        },
+        "NewSquiffer": {
+            "0": 0.7345767575322812
+        },
+        "RecycledBrella24MkI": {
+            "0": 0.7345767575322812
+        },
+        "SplatanaStamperNouveau": {
+            "0": 0.7191011235955056
+        },
+        "Bamboozler14MkII": {
+            "0": 0.7345767575322812
+        },
+        "CharcoalDecavitator": {
+            "0": 0.7345767575322812
+        },
+        "CustomDouserDualiesFF": {
+            "0": 0.7345767575322812
+        },
+        "CustomHydraSplatling": {
+            "0": 0.7345767575322812
+        },
+        "CustomRangeBlaster": {
+            "0": 0.7345767575322812
+        },
+        "CustomWellstringV": {
+            "0": 0.7345767575322812
+        },
+        "HeavyEditSplatlingNouveau": {
+            "0": 0.7345767575322812
+        },
+        "MintDecavitator": {
+            "0": 0.7345767575322812
+        },
+        "RecycledBrella24MkII": {
+            "0": 0.7345767575322812
+        },
+        "WellstringV": {
+            "0": 0.7345767575322812
+        }
+    },
+    "average_size": {
+        "x": 451,
+        "y": 627
     }
-  }
 }

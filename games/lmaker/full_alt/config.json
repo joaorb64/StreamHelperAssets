@@ -1,79 +1,83 @@
 {
-  "name": "Artwork",
-  "description": "Character Artwork",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full_alt"
-  ],
-  "credits": "@yowaikoi for the sprite rips",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Aifa": {
-      "0": {
-        "x": 1707,
-        "y": 572
-      }
+    "name": "Artwork",
+    "description": "Character Artwork",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full_alt"
+    ],
+    "credits": "@yowaikoi for the sprite rips",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Aifa": {
+            "0": {
+                "x": 1707,
+                "y": 572
+            }
+        },
+        "Gaira": {
+            "0": {
+                "x": 1752,
+                "y": 657
+            }
+        },
+        "Hiryu": {
+            "0": {
+                "x": 1281,
+                "y": 713
+            }
+        },
+        "Kouko": {
+            "0": {
+                "x": 1506,
+                "y": 327
+            }
+        },
+        "Ranju": {
+            "0": {
+                "x": 1857,
+                "y": 540
+            }
+        },
+        "Renki": {
+            "0": {
+                "x": 1857,
+                "y": 410
+            }
+        },
+        "Rinrei": {
+            "0": {
+                "x": 1875,
+                "y": 380
+            }
+        },
+        "Roushinshi": {
+            "0": {
+                "x": 2166,
+                "y": 221
+            }
+        },
+        "Soumei": {
+            "0": {
+                "x": 2148,
+                "y": 785
+            }
+        },
+        "Youen": {
+            "0": {
+                "x": 1509,
+                "y": 341
+            }
+        }
     },
-    "Gaira": {
-      "0": {
-        "x": 1752,
-        "y": 657
-      }
-    },
-    "Hiryu": {
-      "0": {
-        "x": 1281,
-        "y": 713
-      }
-    },
-    "Kouko": {
-      "0": {
-        "x": 1506,
-        "y": 327
-      }
-    },
-    "Ranju": {
-      "0": {
-        "x": 1857,
-        "y": 540
-      }
-    },
-    "Renki": {
-      "0": {
-        "x": 1857,
-        "y": 410
-      }
-    },
-    "Rinrei": {
-      "0": {
-        "x": 1875,
-        "y": 380
-      }
-    },
-    "Roushinshi": {
-      "0": {
-        "x": 2166,
-        "y": 221
-      }
-    },
-    "Soumei": {
-      "0": {
-        "x": 2148,
-        "y": 785
-      }
-    },
-    "Youen": {
-      "0": {
-        "x": 1509,
-        "y": 341
-      }
+    "average_size": {
+        "x": 2400,
+        "y": 2288
     }
-  }
 }

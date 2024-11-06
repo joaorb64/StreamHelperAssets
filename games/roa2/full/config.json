@@ -1,111 +1,115 @@
 {
-  "name": "Renders",
-  "description": "Character renders",
-  "prefix": "",
-  "postfix": "-3D_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.0",
-  "eyesights": {
-    "Ranno": {
-      "0": {
-        "x": 1086,
-        "y": 705
-      }
+    "name": "Renders",
+    "description": "Character renders",
+    "prefix": "",
+    "postfix": "-3D_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.0",
+    "eyesights": {
+        "Ranno": {
+            "0": {
+                "x": 1086,
+                "y": 705
+            }
+        },
+        "Zetterburn": {
+            "0": {
+                "x": 1162,
+                "y": 552
+            }
+        },
+        "Fleet": {
+            "0": {
+                "x": 830,
+                "y": 380
+            }
+        },
+        "Kragg": {
+            "0": {
+                "x": 1288,
+                "y": 989
+            }
+        },
+        "Wrastor": {
+            "0": {
+                "x": 900,
+                "y": 420
+            }
+        },
+        "Maypul": {
+            "0": {
+                "x": 694,
+                "y": 540
+            }
+        },
+        "Clairen": {
+            "0": {
+                "x": 1060,
+                "y": 480
+            }
+        },
+        "Loxodont": {
+            "0": {
+                "x": 1256,
+                "y": 482
+            }
+        },
+        "Orcane": {
+            "0": {
+                "x": 1169,
+                "y": 527
+            }
+        },
+        "Forsburn": {
+            "0": {
+                "x": 1580,
+                "y": 650
+            }
+        }
     },
-    "Zetterburn": {
-      "0": {
-        "x": 1162,
-        "y": 552
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "rescaling_factor": {
+        "Clairen": {
+            "0": 1.0
+        },
+        "Fleet": {
+            "0": 1.3
+        },
+        "Kragg": {
+            "0": 1.25
+        },
+        "Loxodont": {
+            "0": 1.1
+        },
+        "Maypul": {
+            "0": 1.4
+        },
+        "Ranno": {
+            "0": 1.4
+        },
+        "Wrastor": {
+            "0": 1.35
+        },
+        "Zetterburn": {
+            "0": 1.25
+        },
+        "Forsburn": {
+            "0": 1.0
+        },
+        "Orcane": {
+            "0": 1.0
+        }
     },
-    "Fleet": {
-      "0": {
-        "x": 830,
-        "y": 380
-      }
-    },
-    "Kragg": {
-      "0": {
-        "x": 1288,
-        "y": 989
-      }
-    },
-    "Wrastor": {
-      "0": {
-        "x": 900,
-        "y": 420
-      }
-    },
-    "Maypul": {
-      "0": {
-        "x": 694,
-        "y": 540
-      }
-    },
-    "Clairen": {
-      "0": {
-        "x": 1060,
-        "y": 480
-      }
-    },
-    "Loxodont": {
-      "0": {
-        "x": 1256,
-        "y": 482
-      }
-    },
-    "Orcane": {
-      "0": {
-        "x": 1169,
-        "y": 527
-      }
-    },
-    "Forsburn": {
-      "0": {
-        "x": 1580,
-        "y": 650
-      }
+    "average_size": {
+        "x": 1850,
+        "y": 1850
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "rescaling_factor": {
-    "Clairen": {
-      "0": 1.0
-    },
-    "Fleet": {
-      "0": 1.30
-    },
-    "Kragg": {
-      "0": 1.25
-    },
-    "Loxodont": {
-      "0": 1.1
-    },
-    "Maypul": {
-      "0": 1.40
-    },
-    "Ranno": {
-      "0": 1.40
-    },
-    "Wrastor": {
-      "0": 1.35
-    },
-    "Zetterburn": {
-      "0": 1.25
-    },
-    "Forsburn": {
-      "0": 1.0
-    },
-    "Orcane": {
-      "0": 1.0
-    }
-  }
 }

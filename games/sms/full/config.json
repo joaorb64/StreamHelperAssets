@@ -1,73 +1,77 @@
 {
-  "name": "Artwork",
-  "description": "Character Artworks",
-  "prefix": "full_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.04",
-  "eyesights": {
-    "DK": {
-      "0": {
-        "x": 1632,
-        "y": 951
-      }
+    "name": "Artwork",
+    "description": "Character Artworks",
+    "prefix": "full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.04",
+    "eyesights": {
+        "DK": {
+            "0": {
+                "x": 1632,
+                "y": 951
+            }
+        },
+        "Daisy": {
+            "0": {
+                "x": 521,
+                "y": 604
+            }
+        },
+        "Luigi": {
+            "0": {
+                "x": 1426,
+                "y": 684
+            }
+        },
+        "Mario": {
+            "0": {
+                "x": 1117,
+                "y": 980
+            }
+        },
+        "Peach": {
+            "0": {
+                "x": 1164,
+                "y": 723
+            }
+        },
+        "Super": {
+            "0": {
+                "x": 1125,
+                "y": 516
+            }
+        },
+        "Waluigi": {
+            "0": {
+                "x": 904,
+                "y": 1228
+            }
+        },
+        "Wario": {
+            "0": {
+                "x": 1445,
+                "y": 725
+            }
+        },
+        "Yoshi": {
+            "0": {
+                "x": 630,
+                "y": 825
+            }
+        }
     },
-    "Daisy": {
-      "0": {
-        "x": 521,
-        "y": 604
-      }
-    },
-    "Luigi": {
-      "0": {
-        "x": 1426,
-        "y": 684
-      }
-    },
-    "Mario": {
-      "0": {
-        "x": 1117,
-        "y": 980
-      }
-    },
-    "Peach": {
-      "0": {
-        "x": 1164,
-        "y": 723
-      }
-    },
-    "Super": {
-      "0": {
-        "x": 1125,
-        "y": 516
-      }
-    },
-    "Waluigi": {
-      "0": {
-        "x": 904,
-        "y": 1228
-      }
-    },
-    "Wario": {
-      "0": {
-        "x": 1445,
-        "y": 725
-      }
-    },
-    "Yoshi": {
-      "0": {
-        "x": 630,
-        "y": 825
-      }
+    "uncropped_edge": [
+        "u",
+        "l",
+        "r",
+        "d"
+    ],
+    "average_size": {
+        "x": 2266,
+        "y": 2673
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "l",
-    "r",
-    "d"
-  ]
 }

@@ -1,67 +1,71 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Supercombo.gg (https://wiki.supercombo.gg/w/Waku_Waku_7)\n@MathiasWolfbrok for cropping",
-  "version": "1.01",
-  "eyesights": {
-    "Arina": {
-      "0": {
-        "x": 573,
-        "y": 393
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Supercombo.gg (https://wiki.supercombo.gg/w/Waku_Waku_7)\n@MathiasWolfbrok for cropping",
+    "version": "1.01",
+    "eyesights": {
+        "Arina": {
+            "0": {
+                "x": 573,
+                "y": 393
+            }
+        },
+        "BonusKun": {
+            "0": {
+                "x": 615,
+                "y": 433
+            }
+        },
+        "DandyJ": {
+            "0": {
+                "x": 132,
+                "y": 436
+            }
+        },
+        "Fernandez": {
+            "0": {
+                "x": 0,
+                "y": 193
+            }
+        },
+        "Mauru": {
+            "0": {
+                "x": 417,
+                "y": 676
+            }
+        },
+        "PolitankZ": {
+            "0": {
+                "x": 209,
+                "y": 193
+            }
+        },
+        "Rai": {
+            "0": {
+                "x": 472,
+                "y": 438
+            }
+        },
+        "Slash": {
+            "0": {
+                "x": 360,
+                "y": 346
+            }
+        },
+        "Tesse": {
+            "0": {
+                "x": 559,
+                "y": 552
+            }
+        }
     },
-    "BonusKun": {
-      "0": {
-        "x": 615,
-        "y": 433
-      }
-    },
-    "DandyJ": {
-      "0": {
-        "x": 132,
-        "y": 436
-      }
-    },
-    "Fernandez": {
-      "0": {
-        "x": 0,
-        "y": 193
-      }
-    },
-    "Mauru": {
-      "0": {
-        "x": 417,
-        "y": 676
-      }
-    },
-    "PolitankZ": {
-      "0": {
-        "x": 209,
-        "y": 193
-      }
-    },
-    "Rai": {
-      "0": {
-        "x": 472,
-        "y": 438
-      }
-    },
-    "Slash": {
-      "0": {
-        "x": 360,
-        "y": 346
-      }
-    },
-    "Tesse": {
-      "0": {
-        "x": 559,
-        "y": 552
-      }
+    "average_size": {
+        "x": 960,
+        "y": 1080
     }
-  }
 }

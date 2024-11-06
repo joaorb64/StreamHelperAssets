@@ -1,112 +1,116 @@
 {
-  "name": "USF2 HD portraits",
-  "description": "Portraits from Ultra Street Fighter II (Switch)",
-  "prefix": "",
-  "postfix": "_",
-  "credits": "Assets ripped from Ultra Street Fighter II by @joao_shino",
-  "version": "1.5",
-  "eyesights": {
-    "mbison": {
-      "0": {
-        "x": 256,
-        "y": 204
-      }
+    "name": "USF2 HD portraits",
+    "description": "Portraits from Ultra Street Fighter II (Switch)",
+    "prefix": "",
+    "postfix": "_",
+    "credits": "Assets ripped from Ultra Street Fighter II by @joao_shino",
+    "version": "1.5",
+    "eyesights": {
+        "mbison": {
+            "0": {
+                "x": 256,
+                "y": 204
+            }
+        },
+        "blanka": {
+            "0": {
+                "x": 291,
+                "y": 219
+            }
+        },
+        "cammy": {
+            "0": {
+                "x": 306,
+                "y": 242
+            }
+        },
+        "chunli": {
+            "0": {
+                "x": 325,
+                "y": 236
+            }
+        },
+        "deejay": {
+            "0": {
+                "x": 277,
+                "y": 190
+            }
+        },
+        "dhalsim": {
+            "0": {
+                "x": 252,
+                "y": 209
+            }
+        },
+        "ehonda": {
+            "0": {
+                "x": 308,
+                "y": 250
+            }
+        },
+        "feilong": {
+            "0": {
+                "x": 313,
+                "y": 273
+            }
+        },
+        "guile": {
+            "0": {
+                "x": 325,
+                "y": 248
+            }
+        },
+        "ken": {
+            "0": {
+                "x": 292,
+                "y": 250
+            }
+        },
+        "vega": {
+            "0": {
+                "x": 256,
+                "y": 249
+            }
+        },
+        "ryu": {
+            "0": {
+                "x": 278,
+                "y": 238
+            }
+        },
+        "sagat": {
+            "0": {
+                "x": 349,
+                "y": 202
+            }
+        },
+        "thawk": {
+            "0": {
+                "x": 338,
+                "y": 218
+            }
+        },
+        "balrog": {
+            "0": {
+                "x": 386,
+                "y": 206
+            }
+        },
+        "zangief": {
+            "0": {
+                "x": 343,
+                "y": 197
+            }
+        },
+        "gouki": {
+            "0": {
+                "x": 183,
+                "y": 329
+            }
+        }
     },
-    "blanka": {
-      "0": {
-        "x": 291,
-        "y": 219
-      }
-    },
-    "cammy": {
-      "0": {
-        "x": 306,
-        "y": 242
-      }
-    },
-    "chunli": {
-      "0": {
-        "x": 325,
-        "y": 236
-      }
-    },
-    "deejay": {
-      "0": {
-        "x": 277,
-        "y": 190
-      }
-    },
-    "dhalsim": {
-      "0": {
-        "x": 252,
-        "y": 209
-      }
-    },
-    "ehonda": {
-      "0": {
-        "x": 308,
-        "y": 250
-      }
-    },
-    "feilong": {
-      "0": {
-        "x": 313,
-        "y": 273
-      }
-    },
-    "guile": {
-      "0": {
-        "x": 325,
-        "y": 248
-      }
-    },
-    "ken": {
-      "0": {
-        "x": 292,
-        "y": 250
-      }
-    },
-    "vega": {
-      "0": {
-        "x": 256,
-        "y": 249
-      }
-    },
-    "ryu": {
-      "0": {
-        "x": 278,
-        "y": 238
-      }
-    },
-    "sagat": {
-      "0": {
-        "x": 349,
-        "y": 202
-      }
-    },
-    "thawk": {
-      "0": {
-        "x": 338,
-        "y": 218
-      }
-    },
-    "balrog": {
-      "0": {
-        "x": 386,
-        "y": 206
-      }
-    },
-    "zangief": {
-      "0": {
-        "x": 343,
-        "y": 197
-      }
-    },
-    "gouki": {
-      "0": {
-        "x": 183,
-        "y": 329
-      }
+    "average_size": {
+        "x": 509,
+        "y": 509
     }
-  }
 }

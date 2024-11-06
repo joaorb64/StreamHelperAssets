@@ -1,55 +1,59 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "0.21",
-  "eyesights": {
-    "CommanderVideo": {
-      "0": {
-        "x": 907,
-        "y": 218
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "0.21",
+    "eyesights": {
+        "CommanderVideo": {
+            "0": {
+                "x": 907,
+                "y": 218
+            }
+        },
+        "Octodad": {
+            "0": {
+                "x": 602,
+                "y": 125
+            }
+        },
+        "Orcane": {
+            "0": {
+                "x": 850,
+                "y": 270
+            }
+        },
+        "TheWatcher": {
+            "0": {
+                "x": 1209,
+                "y": 309
+            }
+        },
+        "UltraFishbunjin3000": {
+            "0": {
+                "x": 924,
+                "y": 251
+            }
+        },
+        "Welltaro": {
+            "0": {
+                "x": 866,
+                "y": 281
+            }
+        }
     },
-    "Octodad": {
-      "0": {
-        "x": 602,
-        "y": 125
-      }
-    },
-    "Orcane": {
-      "0": {
-        "x": 850,
-        "y": 270
-      }
-    },
-    "TheWatcher": {
-      "0": {
-        "x": 1209,
-        "y": 309
-      }
-    },
-    "UltraFishbunjin3000": {
-      "0": {
-        "x": 924,
-        "y": 251
-      }
-    },
-    "Welltaro": {
-      "0": {
-        "x": 866,
-        "y": 281
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 1524,
+        "y": 1578
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
 }

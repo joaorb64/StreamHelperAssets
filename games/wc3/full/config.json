@@ -1,43 +1,47 @@
 {
-  "name": "Full",
-  "description": "VS screen renders from Classic Mode (Left side). Image borders adjusted to make characters proportionally better with one another.",
-  "credits": "Render captures by UnclePunch's pack in SmashBoards.",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "version": "1.04",
-  "eyesights": {
-    "nightelf": {
-      "0": {
-        "x": 169,
-        "y": 95
-      }
+    "name": "Full",
+    "description": "VS screen renders from Classic Mode (Left side). Image borders adjusted to make characters proportionally better with one another.",
+    "credits": "Render captures by UnclePunch's pack in SmashBoards.",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "version": "1.04",
+    "eyesights": {
+        "nightelf": {
+            "0": {
+                "x": 169,
+                "y": 95
+            }
+        },
+        "undead": {
+            "0": {
+                "x": 169,
+                "y": 100
+            }
+        },
+        "orc": {
+            "0": {
+                "x": 169,
+                "y": 120
+            }
+        },
+        "random": {
+            "0": {
+                "x": 609,
+                "y": 450
+            }
+        },
+        "human": {
+            "0": {
+                "x": 169,
+                "y": 85
+            }
+        }
     },
-    "undead": {
-      "0": {
-        "x": 169,
-        "y": 100
-      }
-    },
-    "orc": {
-      "0": {
-        "x": 169,
-        "y": 120
-      }
-    },
-    "random": {
-      "0": {
-        "x": 609,
-        "y": 450
-      }
-    },
-    "human": {
-      "0": {
-        "x": 169,
-        "y": 85
-      }
+    "average_size": {
+        "x": 537,
+        "y": 526
     }
-  }
 }

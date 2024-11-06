@@ -3,5 +3,9 @@
     "postfix": "_",
     "type": [
         "icon"
-    ]
+    ],
+    "average_size": {
+        "x": 32,
+        "y": 32
+    }
 }

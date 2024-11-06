@@ -1,17 +1,21 @@
 {
-  "name": "Chibi",
-  "description": "Chibi Animation Frames from the Breakers Collection",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.02",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ]
+    "name": "Chibi",
+    "description": "Chibi Animation Frames from the Breakers Collection",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.02",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "average_size": {
+        "x": 212,
+        "y": 264
+    }
 }

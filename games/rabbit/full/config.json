@@ -1,66 +1,70 @@
 {
-  "name": "Portraits",
-  "description": "Character Portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Egith": {
-      "0": {
-        "x": 500,
-        "y": 59
-      }
+    "name": "Portraits",
+    "description": "Character Portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Egith": {
+            "0": {
+                "x": 500,
+                "y": 59
+            }
+        },
+        "HouEn": {
+            "0": {
+                "x": 519,
+                "y": 324
+            }
+        },
+        "Jakoh": {
+            "0": {
+                "x": 365,
+                "y": 326
+            }
+        },
+        "LittleEddy": {
+            "0": {
+                "x": 231,
+                "y": 451
+            }
+        },
+        "Rex": {
+            "0": {
+                "x": 397,
+                "y": 143
+            }
+        },
+        "TianRen": {
+            "0": {
+                "x": 251,
+                "y": 157
+            }
+        },
+        "WuLing": {
+            "0": {
+                "x": 270,
+                "y": 273
+            }
+        },
+        "YuLan": {
+            "0": {
+                "x": 519,
+                "y": 226
+            }
+        }
     },
-    "HouEn": {
-      "0": {
-        "x": 519,
-        "y": 324
-      }
-    },
-    "Jakoh": {
-      "0": {
-        "x": 365,
-        "y": 326
-      }
-    },
-    "LittleEddy": {
-      "0": {
-        "x": 231,
-        "y": 451
-      }
-    },
-    "Rex": {
-      "0": {
-        "x": 397,
-        "y": 143
-      }
-    },
-    "TianRen": {
-      "0": {
-        "x": 251,
-        "y": 157
-      }
-    },
-    "WuLing": {
-      "0": {
-        "x": 270,
-        "y": 273
-      }
-    },
-    "YuLan": {
-      "0": {
-        "x": 519,
-        "y": 226
-      }
+    "average_size": {
+        "x": 966,
+        "y": 730
     }
-  }
 }

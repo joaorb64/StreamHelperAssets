@@ -1,177 +1,181 @@
 {
-  "name": "Artwork",
-  "description": "Character artworks",
-  "prefix": "art_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "@Readeku for ripping the assets\nSandbert Art from the \"Sandbert (Definitive Edition)\" mod by Buttercup <3, Lukaru and Spider Boi\nWe also recommend downloading the Skins pack alongside this one",
-  "version": "2.31",
-  "eyesights": {
-    "Absa": {
-      "0": {
-        "x": 1223,
-        "y": 654
-      },
-      "17": {
-        "x": 345,
-        "y": 331
-      }
+    "name": "Artwork",
+    "description": "Character artworks",
+    "prefix": "art_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "@Readeku for ripping the assets\nSandbert Art from the \"Sandbert (Definitive Edition)\" mod by Buttercup <3, Lukaru and Spider Boi\nWe also recommend downloading the Skins pack alongside this one",
+    "version": "2.31",
+    "eyesights": {
+        "Absa": {
+            "0": {
+                "x": 1223,
+                "y": 654
+            },
+            "17": {
+                "x": 345,
+                "y": 331
+            }
+        },
+        "Clairen": {
+            "0": {
+                "x": 1981,
+                "y": 374
+            }
+        },
+        "Elliana": {
+            "0": {
+                "x": 1802,
+                "y": 539
+            },
+            "15": {
+                "x": 770,
+                "y": 845
+            }
+        },
+        "Etalus": {
+            "0": {
+                "x": 1986,
+                "y": 134
+            }
+        },
+        "Forsburn": {
+            "0": {
+                "x": 1960,
+                "y": 761
+            },
+            "18": {
+                "x": 726,
+                "y": 335
+            }
+        },
+        "Hodan": {
+            "0": {
+                "x": 1777,
+                "y": 603
+            }
+        },
+        "Kragg": {
+            "0": {
+                "x": 1610,
+                "y": 1341
+            }
+        },
+        "Maypul": {
+            "0": {
+                "x": 2057,
+                "y": 750
+            },
+            "18": {
+                "x": 579,
+                "y": 212
+            }
+        },
+        "Mollo": {
+            "0": {
+                "x": 1546,
+                "y": 516
+            }
+        },
+        "Olympia": {
+            "0": {
+                "x": 1399,
+                "y": 530
+            }
+        },
+        "Orcane": {
+            "0": {
+                "x": 1811,
+                "y": 765
+            }
+        },
+        "Ori": {
+            "0": {
+                "x": 1840,
+                "y": 794
+            }
+        },
+        "Pomme": {
+            "0": {
+                "x": 941,
+                "y": 537
+            }
+        },
+        "Ranno": {
+            "0": {
+                "x": 1158,
+                "y": 437
+            }
+        },
+        "ShovelKnight": {
+            "0": {
+                "x": 1499,
+                "y": 638
+            }
+        },
+        "Sylvanos": {
+            "0": {
+                "x": 2696,
+                "y": 867
+            }
+        },
+        "Wrastor": {
+            "0": {
+                "x": 1661,
+                "y": 465
+            },
+            "16": {
+                "x": 260,
+                "y": 111
+            }
+        },
+        "Zetterburn": {
+            "0": {
+                "x": 1588,
+                "y": 722
+            },
+            "18": {
+                "x": 512,
+                "y": 320
+            }
+        },
+        "Sandbert": {
+            "0": {
+                "x": 244,
+                "y": 122
+            }
+        }
     },
-    "Clairen": {
-      "0": {
-        "x": 1981,
-        "y": 374
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "rescaling_factor": {
+        "Absa": {
+            "17": 1.6117729502452698
+        },
+        "Maypul": {
+            "18": 3.8846153846153846
+        },
+        "Forsburn": {
+            "18": 1.5661301609517144
+        },
+        "Wrastor": {
+            "16": 4.106194690265487
+        },
+        "Zetterburn": {
+            "18": 1.562849162011173
+        },
+        "Sandbert": {
+            "0": 6.394285714285714
+        }
     },
-    "Elliana": {
-      "0": {
-        "x": 1802,
-        "y": 539
-      },
-      "15": {
-        "x": 770,
-        "y": 845
-      }
-    },
-    "Etalus": {
-      "0": {
-        "x": 1986,
-        "y": 134
-      }
-    },
-    "Forsburn": {
-      "0": {
-        "x": 1960,
-        "y": 761
-      },
-      "18": {
-        "x": 726,
-        "y": 335
-      }
-    },
-    "Hodan": {
-      "0": {
-        "x": 1777,
-        "y": 603
-      }
-    },
-    "Kragg": {
-      "0": {
-        "x": 1610,
-        "y": 1341
-      }
-    },
-    "Maypul": {
-      "0": {
-        "x": 2057,
-        "y": 750
-      },
-      "18": {
-        "x": 579,
-        "y": 212
-      }
-    },
-    "Mollo": {
-      "0": {
-        "x": 1546,
-        "y": 516
-      }
-    },
-    "Olympia": {
-      "0": {
-        "x": 1399,
-        "y": 530
-      }
-    },
-    "Orcane": {
-      "0": {
-        "x": 1811,
-        "y": 765
-      }
-    },
-    "Ori": {
-      "0": {
-        "x": 1840,
-        "y": 794
-      }
-    },
-    "Pomme": {
-      "0": {
-        "x": 941,
-        "y": 537
-      }
-    },
-    "Ranno": {
-      "0": {
-        "x": 1158,
-        "y": 437
-      }
-    },
-    "ShovelKnight": {
-      "0": {
-        "x": 1499,
-        "y": 638
-      }
-    },
-    "Sylvanos": {
-      "0": {
-        "x": 2696,
-        "y": 867
-      }
-    },
-    "Wrastor": {
-      "0": {
-        "x": 1661,
-        "y": 465
-      },
-      "16": {
-        "x": 260,
-        "y": 111
-      }
-    },
-    "Zetterburn": {
-      "0": {
-        "x": 1588,
-        "y": 722
-      },
-      "18": {
-        "x": 512,
-        "y": 320
-      }
-    },
-    "Sandbert": {
-      "0": {
-        "x": 244,
-        "y": 122
-      }
+    "average_size": {
+        "x": 1809,
+        "y": 1845
     }
-  },
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "rescaling_factor": {
-    "Absa": {
-      "17": 1.6117729502452697967764540995095
-    },
-    "Maypul": {
-      "18": 3.8846153846153846153846153846154
-    },
-    "Forsburn": {
-      "18": 1.5661301609517144856543037088873
-    },
-    "Wrastor": {
-      "16": 4.1061946902654867256637168141593
-    },
-    "Zetterburn": {
-      "18": 1.5628491620111731843575418994413
-    },
-    "Sandbert": {
-      "0": 6.3942857142857142857142857142857
-    }
-  }
 }

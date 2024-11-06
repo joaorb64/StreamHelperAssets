@@ -1,115 +1,119 @@
 {
-  "name": "Hyper Street Fighter II Artwork",
-  "description": "Character artwork from Hyper Street Fighter II",
-  "prefix": "hsf2-",
-  "postfix": "_",
-  "type": [
-    "hyper"
-  ],
-  "credits": "Ripped from https://www.capcom-games.com/cfc/en-asia/title/hsf2.html",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "balrog": {
-      "0": {
-        "x": 618,
-        "y": 98
-      }
+    "name": "Hyper Street Fighter II Artwork",
+    "description": "Character artwork from Hyper Street Fighter II",
+    "prefix": "hsf2-",
+    "postfix": "_",
+    "type": [
+        "hyper"
+    ],
+    "credits": "Ripped from https://www.capcom-games.com/cfc/en-asia/title/hsf2.html",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "balrog": {
+            "0": {
+                "x": 618,
+                "y": 98
+            }
+        },
+        "blanka": {
+            "0": {
+                "x": 475,
+                "y": 319
+            }
+        },
+        "cammy": {
+            "0": {
+                "x": 612,
+                "y": 125
+            }
+        },
+        "chunli": {
+            "0": {
+                "x": 552,
+                "y": 118
+            }
+        },
+        "deejay": {
+            "0": {
+                "x": 556,
+                "y": 77
+            }
+        },
+        "dhalsim": {
+            "0": {
+                "x": 557,
+                "y": 102
+            }
+        },
+        "ehonda": {
+            "0": {
+                "x": 754,
+                "y": 360
+            }
+        },
+        "feilong": {
+            "0": {
+                "x": 627,
+                "y": 100
+            }
+        },
+        "guile": {
+            "0": {
+                "x": 540,
+                "y": 72
+            }
+        },
+        "ken": {
+            "0": {
+                "x": 638,
+                "y": 75
+            }
+        },
+        "mbison": {
+            "0": {
+                "x": 563,
+                "y": 195
+            }
+        },
+        "ryu": {
+            "0": {
+                "x": 608,
+                "y": 69
+            }
+        },
+        "sagat": {
+            "0": {
+                "x": 595,
+                "y": 32
+            }
+        },
+        "thawk": {
+            "0": {
+                "x": 609,
+                "y": 191
+            }
+        },
+        "vega": {
+            "0": {
+                "x": 546,
+                "y": 93
+            }
+        },
+        "zangief": {
+            "0": {
+                "x": 656,
+                "y": 50
+            }
+        }
     },
-    "blanka": {
-      "0": {
-        "x": 475,
-        "y": 319
-      }
-    },
-    "cammy": {
-      "0": {
-        "x": 612,
-        "y": 125
-      }
-    },
-    "chunli": {
-      "0": {
-        "x": 552,
-        "y": 118
-      }
-    },
-    "deejay": {
-      "0": {
-        "x": 556,
-        "y": 77
-      }
-    },
-    "dhalsim": {
-      "0": {
-        "x": 557,
-        "y": 102
-      }
-    },
-    "ehonda": {
-      "0": {
-        "x": 754,
-        "y": 360
-      }
-    },
-    "feilong": {
-      "0": {
-        "x": 627,
-        "y": 100
-      }
-    },
-    "guile": {
-      "0": {
-        "x": 540,
-        "y": 72
-      }
-    },
-    "ken": {
-      "0": {
-        "x": 638,
-        "y": 75
-      }
-    },
-    "mbison": {
-      "0": {
-        "x": 563,
-        "y": 195
-      }
-    },
-    "ryu": {
-      "0": {
-        "x": 608,
-        "y": 69
-      }
-    },
-    "sagat": {
-      "0": {
-        "x": 595,
-        "y": 32
-      }
-    },
-    "thawk": {
-      "0": {
-        "x": 609,
-        "y": 191
-      }
-    },
-    "vega": {
-      "0": {
-        "x": 546,
-        "y": 93
-      }
-    },
-    "zangief": {
-      "0": {
-        "x": 656,
-        "y": 50
-      }
+    "average_size": {
+        "x": 1200,
+        "y": 904
     }
-  }
 }

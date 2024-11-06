@@ -1,79 +1,83 @@
 {
-  "name": "Artwork",
-  "description": "Character Artwork",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Ripped from Fighters Generation (https://www.fightersgeneration.com/games/hokutonoken-p2.html)",
-  "version": "1.1",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Heart": {
-      "0": {
-        "x": 206,
-        "y": 45
-      }
+    "name": "Artwork",
+    "description": "Character Artwork",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Ripped from Fighters Generation (https://www.fightersgeneration.com/games/hokutonoken-p2.html)",
+    "version": "1.1",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Heart": {
+            "0": {
+                "x": 206,
+                "y": 45
+            }
+        },
+        "Jagi": {
+            "0": {
+                "x": 149,
+                "y": 76
+            }
+        },
+        "Juda": {
+            "0": {
+                "x": 213,
+                "y": 51
+            }
+        },
+        "Kenshiro": {
+            "0": {
+                "x": 86,
+                "y": 74
+            }
+        },
+        "Mamiya": {
+            "0": {
+                "x": 142,
+                "y": 70
+            }
+        },
+        "Raoh": {
+            "0": {
+                "x": 173,
+                "y": 59
+            }
+        },
+        "Rei": {
+            "0": {
+                "x": 133,
+                "y": 60
+            }
+        },
+        "Shin": {
+            "0": {
+                "x": 121,
+                "y": 58
+            }
+        },
+        "Thouther": {
+            "0": {
+                "x": 299,
+                "y": 51
+            }
+        },
+        "Toki": {
+            "0": {
+                "x": 114,
+                "y": 48
+            }
+        }
     },
-    "Jagi": {
-      "0": {
-        "x": 149,
-        "y": 76
-      }
-    },
-    "Juda": {
-      "0": {
-        "x": 213,
-        "y": 51
-      }
-    },
-    "Kenshiro": {
-      "0": {
-        "x": 86,
-        "y": 74
-      }
-    },
-    "Mamiya": {
-      "0": {
-        "x": 142,
-        "y": 70
-      }
-    },
-    "Raoh": {
-      "0": {
-        "x": 173,
-        "y": 59
-      }
-    },
-    "Rei": {
-      "0": {
-        "x": 133,
-        "y": 60
-      }
-    },
-    "Shin": {
-      "0": {
-        "x": 121,
-        "y": 58
-      }
-    },
-    "Thouther": {
-      "0": {
-        "x": 299,
-        "y": 51
-      }
-    },
-    "Toki": {
-      "0": {
-        "x": 114,
-        "y": 48
-      }
+    "average_size": {
+        "x": 670,
+        "y": 514
     }
-  }
 }

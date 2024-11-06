@@ -1,8 +1,12 @@
 {
-  "prefix": "Emoji_",
-  "postfix": "_Art_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.1"
+    "prefix": "Emoji_",
+    "postfix": "_Art_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.1",
+    "average_size": {
+        "x": 128,
+        "y": 128
+    }
 }

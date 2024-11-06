@@ -1,10 +1,14 @@
 {
-  "name": "Logos",
-  "description": "Character logos used for merchandising according to in-game lore",
-  "prefix": "",
-  "postfix": "_",
-  "type": [
-    "logo"
-  ],
-  "version": "1.01"
+    "name": "Logos",
+    "description": "Character logos used for merchandising according to in-game lore",
+    "prefix": "",
+    "postfix": "_",
+    "type": [
+        "logo"
+    ],
+    "version": "1.01",
+    "average_size": {
+        "x": 240,
+        "y": 161
+    }
 }

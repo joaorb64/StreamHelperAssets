@@ -1,118 +1,122 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/EN-Eins_Perfektewelt_Anastasis)",
-  "version": "1.01",
-  "uncropped_edge": [
-    "u"
-  ],
-  "eyesights": {
-    "Adler": {
-      "0": {
-        "x": 548,
-        "y": 260
-      }
+    "name": "Portraits",
+    "description": "Character portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/EN-Eins_Perfektewelt_Anastasis)",
+    "version": "1.01",
+    "uncropped_edge": [
+        "u"
+    ],
+    "eyesights": {
+        "Adler": {
+            "0": {
+                "x": 548,
+                "y": 260
+            }
+        },
+        "Akatsuki": {
+            "0": {
+                "x": 546,
+                "y": 331
+            }
+        },
+        "AnonymGuard": {
+            "0": {
+                "x": 441,
+                "y": 233
+            }
+        },
+        "Blitztank": {
+            "0": {
+                "x": 581,
+                "y": 200
+            }
+        },
+        "Dawei": {
+            "0": {
+                "x": 404,
+                "y": 176
+            }
+        },
+        "ENEins": {
+            "0": {
+                "x": 528,
+                "y": 302
+            }
+        },
+        "Elektrosoldat": {
+            "0": {
+                "x": 528,
+                "y": 209
+            }
+        },
+        "Fritz": {
+            "0": {
+                "x": 417,
+                "y": 248
+            }
+        },
+        "Inazuma": {
+            "0": {
+                "x": 317,
+                "y": 227
+            }
+        },
+        "Kanae": {
+            "0": {
+                "x": 467,
+                "y": 289
+            }
+        },
+        "Kati": {
+            "0": {
+                "x": 392,
+                "y": 337
+            }
+        },
+        "Marilyn": {
+            "0": {
+                "x": 486,
+                "y": 257
+            }
+        },
+        "Murakumo": {
+            "0": {
+                "x": 390,
+                "y": 173
+            }
+        },
+        "Perfecti": {
+            "0": {
+                "x": 497,
+                "y": 247
+            }
+        },
+        "Sai": {
+            "0": {
+                "x": 509,
+                "y": 238
+            }
+        },
+        "Tempelritter": {
+            "0": {
+                "x": 567,
+                "y": 353
+            }
+        },
+        "Valkyria": {
+            "0": {
+                "x": 567,
+                "y": 353
+            }
+        }
     },
-    "Akatsuki": {
-      "0": {
-        "x": 546,
-        "y": 331
-      }
-    },
-    "AnonymGuard": {
-      "0": {
-        "x": 441,
-        "y": 233
-      }
-    },
-    "Blitztank": {
-      "0": {
-        "x": 581,
-        "y": 200
-      }
-    },
-    "Dawei": {
-      "0": {
-        "x": 404,
-        "y": 176
-      }
-    },
-    "ENEins": {
-      "0": {
-        "x": 528,
-        "y": 302
-      }
-    },
-    "Elektrosoldat": {
-      "0": {
-        "x": 528,
-        "y": 209
-      }
-    },
-    "Fritz": {
-      "0": {
-        "x": 417,
-        "y": 248
-      }
-    },
-    "Inazuma": {
-      "0": {
-        "x": 317,
-        "y": 227
-      }
-    },
-    "Kanae": {
-      "0": {
-        "x": 467,
-        "y": 289
-      }
-    },
-    "Kati": {
-      "0": {
-        "x": 392,
-        "y": 337
-      }
-    },
-    "Marilyn": {
-      "0": {
-        "x": 486,
-        "y": 257
-      }
-    },
-    "Murakumo": {
-      "0": {
-        "x": 390,
-        "y": 173
-      }
-    },
-    "Perfecti": {
-      "0": {
-        "x": 497,
-        "y": 247
-      }
-    },
-    "Sai": {
-      "0": {
-        "x": 509,
-        "y": 238
-      }
-    },
-    "Tempelritter": {
-      "0": {
-        "x": 567,
-        "y": 353
-      }
-    },
-    "Valkyria": {
-      "0": {
-        "x": 567,
-        "y": 353
-      }
+    "average_size": {
+        "x": 725,
+        "y": 968
     }
-  }
 }

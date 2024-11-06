@@ -1,8 +1,12 @@
 {
-  "prefix": "chara_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0"
+    "prefix": "chara_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "average_size": {
+        "x": 300,
+        "y": 300
+    }
 }

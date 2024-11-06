@@ -1,265 +1,269 @@
 {
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "name": "Renders",
-  "description": "Character Renders",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Files ripped from The King of Fighters portal (https://www.snk-corp.co.jp/us/games/kof-portal/characters/#kofxi)",
-  "version": "1.0",
-  "eyesights": {
-    "AlbaMeira": {
-      "0": {
-        "x": 455,
-        "y": 158
-      }
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "name": "Renders",
+    "description": "Character Renders",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Files ripped from The King of Fighters portal (https://www.snk-corp.co.jp/us/games/kof-portal/characters/#kofxi)",
+    "version": "1.0",
+    "eyesights": {
+        "AlbaMeira": {
+            "0": {
+                "x": 455,
+                "y": 158
+            }
+        },
+        "AshCrimson": {
+            "0": {
+                "x": 410,
+                "y": 188
+            }
+        },
+        "AthenaAsamiya": {
+            "0": {
+                "x": 389,
+                "y": 181
+            }
+        },
+        "BJenet": {
+            "0": {
+                "x": 435,
+                "y": 147
+            }
+        },
+        "Billy": {
+            "0": {
+                "x": 420,
+                "y": 133
+            }
+        },
+        "BlueMary": {
+            "0": {
+                "x": 405,
+                "y": 170
+            }
+        },
+        "ChaeLim": {
+            "0": {
+                "x": 427,
+                "y": 163
+            }
+        },
+        "ClarkStill": {
+            "0": {
+                "x": 413,
+                "y": 134
+            }
+        },
+        "Duke": {
+            "0": {
+                "x": 420,
+                "y": 146
+            }
+        },
+        "EXKyo": {
+            "0": {
+                "x": 453,
+                "y": 133
+            }
+        },
+        "FioGermi": {
+            "0": {
+                "x": 415,
+                "y": 160
+            }
+        },
+        "HanzoHattori": {
+            "0": {
+                "x": 448,
+                "y": 127
+            }
+        },
+        "Hyena": {
+            "0": {
+                "x": 401,
+                "y": 142
+            }
+        },
+        "Iori": {
+            "0": {
+                "x": 446,
+                "y": 164
+            }
+        },
+        "Jivatma": {
+            "0": {
+                "x": 416,
+                "y": 146
+            }
+        },
+        "K": {
+            "0": {
+                "x": 464,
+                "y": 143
+            }
+        },
+        "KimKaphwan": {
+            "0": {
+                "x": 479,
+                "y": 148
+            }
+        },
+        "KulaDiamond": {
+            "0": {
+                "x": 454,
+                "y": 163
+            }
+        },
+        "Kyo": {
+            "0": {
+                "x": 423,
+                "y": 147
+            }
+        },
+        "Leona": {
+            "0": {
+                "x": 408,
+                "y": 166
+            }
+        },
+        "LienNeville": {
+            "0": {
+                "x": 413,
+                "y": 162
+            }
+        },
+        "LillyKane": {
+            "0": {
+                "x": 413,
+                "y": 154
+            }
+        },
+        "LuiseMeyrink": {
+            "0": {
+                "x": 422,
+                "y": 146
+            }
+        },
+        "MaiShiranui": {
+            "0": {
+                "x": 407,
+                "y": 178
+            }
+        },
+        "MakotoMizoguchi": {
+            "0": {
+                "x": 419,
+                "y": 165
+            }
+        },
+        "Maxima": {
+            "0": {
+                "x": 437,
+                "y": 142
+            }
+        },
+        "MignonBeart": {
+            "0": {
+                "x": 436,
+                "y": 231
+            }
+        },
+        "MrKarate": {
+            "0": {
+                "x": 418,
+                "y": 169
+            }
+        },
+        "Nagase": {
+            "0": {
+                "x": 316,
+                "y": 197
+            }
+        },
+        "NightmareGeese": {
+            "0": {
+                "x": 446,
+                "y": 149
+            }
+        },
+        "NinonBeart": {
+            "0": {
+                "x": 446,
+                "y": 193
+            }
+        },
+        "RalfJones": {
+            "0": {
+                "x": 424,
+                "y": 141
+            }
+        },
+        "RichardMeyer": {
+            "0": {
+                "x": 456,
+                "y": 140
+            }
+        },
+        "RockHoward": {
+            "0": {
+                "x": 446,
+                "y": 154
+            }
+        },
+        "RyoSakazaki": {
+            "0": {
+                "x": 438,
+                "y": 172
+            }
+        },
+        "Seth": {
+            "0": {
+                "x": 421,
+                "y": 145
+            }
+        },
+        "SoireeMeira": {
+            "0": {
+                "x": 447,
+                "y": 132
+            }
+        },
+        "TerryBogard": {
+            "0": {
+                "x": 426,
+                "y": 155
+            }
+        },
+        "WildWolf": {
+            "0": {
+                "x": 426,
+                "y": 145
+            }
+        },
+        "XiaoLon": {
+            "0": {
+                "x": 482,
+                "y": 162
+            }
+        },
+        "YuriSakazaki": {
+            "0": {
+                "x": 417,
+                "y": 155
+            }
+        }
     },
-    "AshCrimson": {
-      "0": {
-        "x": 410,
-        "y": 188
-      }
-    },
-    "AthenaAsamiya": {
-      "0": {
-        "x": 389,
-        "y": 181
-      }
-    },
-    "BJenet": {
-      "0": {
-        "x": 435,
-        "y": 147
-      }
-    },
-    "Billy": {
-      "0": {
-        "x": 420,
-        "y": 133
-      }
-    },
-    "BlueMary": {
-      "0": {
-        "x": 405,
-        "y": 170
-      }
-    },
-    "ChaeLim": {
-      "0": {
-        "x": 427,
-        "y": 163
-      }
-    },
-    "ClarkStill": {
-      "0": {
-        "x": 413,
-        "y": 134
-      }
-    },
-    "Duke": {
-      "0": {
-        "x": 420,
-        "y": 146
-      }
-    },
-    "EXKyo": {
-      "0": {
-        "x": 453,
-        "y": 133
-      }
-    },
-    "FioGermi": {
-      "0": {
-        "x": 415,
-        "y": 160
-      }
-    },
-    "HanzoHattori": {
-      "0": {
-        "x": 448,
-        "y": 127
-      }
-    },
-    "Hyena": {
-      "0": {
-        "x": 401,
-        "y": 142
-      }
-    },
-    "Iori": {
-      "0": {
-        "x": 446,
-        "y": 164
-      }
-    },
-    "Jivatma": {
-      "0": {
-        "x": 416,
-        "y": 146
-      }
-    },
-    "K": {
-      "0": {
-        "x": 464,
-        "y": 143
-      }
-    },
-    "KimKaphwan": {
-      "0": {
-        "x": 479,
-        "y": 148
-      }
-    },
-    "KulaDiamond": {
-      "0": {
-        "x": 454,
-        "y": 163
-      }
-    },
-    "Kyo": {
-      "0": {
-        "x": 423,
-        "y": 147
-      }
-    },
-    "Leona": {
-      "0": {
-        "x": 408,
-        "y": 166
-      }
-    },
-    "LienNeville": {
-      "0": {
-        "x": 413,
-        "y": 162
-      }
-    },
-    "LillyKane": {
-      "0": {
-        "x": 413,
-        "y": 154
-      }
-    },
-    "LuiseMeyrink": {
-      "0": {
-        "x": 422,
-        "y": 146
-      }
-    },
-    "MaiShiranui": {
-      "0": {
-        "x": 407,
-        "y": 178
-      }
-    },
-    "MakotoMizoguchi": {
-      "0": {
-        "x": 419,
-        "y": 165
-      }
-    },
-    "Maxima": {
-      "0": {
-        "x": 437,
-        "y": 142
-      }
-    },
-    "MignonBeart": {
-      "0": {
-        "x": 436,
-        "y": 231
-      }
-    },
-    "MrKarate": {
-      "0": {
-        "x": 418,
-        "y": 169
-      }
-    },
-    "Nagase": {
-      "0": {
-        "x": 316,
-        "y": 197
-      }
-    },
-    "NightmareGeese": {
-      "0": {
-        "x": 446,
-        "y": 149
-      }
-    },
-    "NinonBeart": {
-      "0": {
-        "x": 446,
-        "y": 193
-      }
-    },
-    "RalfJones": {
-      "0": {
-        "x": 424,
-        "y": 141
-      }
-    },
-    "RichardMeyer": {
-      "0": {
-        "x": 456,
-        "y": 140
-      }
-    },
-    "RockHoward": {
-      "0": {
-        "x": 446,
-        "y": 154
-      }
-    },
-    "RyoSakazaki": {
-      "0": {
-        "x": 438,
-        "y": 172
-      }
-    },
-    "Seth": {
-      "0": {
-        "x": 421,
-        "y": 145
-      }
-    },
-    "SoireeMeira": {
-      "0": {
-        "x": 447,
-        "y": 132
-      }
-    },
-    "TerryBogard": {
-      "0": {
-        "x": 426,
-        "y": 155
-      }
-    },
-    "WildWolf": {
-      "0": {
-        "x": 426,
-        "y": 145
-      }
-    },
-    "XiaoLon": {
-      "0": {
-        "x": 482,
-        "y": 162
-      }
-    },
-    "YuriSakazaki": {
-      "0": {
-        "x": 417,
-        "y": 155
-      }
+    "average_size": {
+        "x": 900,
+        "y": 1000
     }
-  }
 }

@@ -1,103 +1,107 @@
 {
-  "name": "Artwork",
-  "description": "Character Artwork\nNote: Only contains Vampire Savior arcade characters",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from https://www.capcom-games.com/cfc/en-us/title/vampire-h.html",
-  "version": "1.0",
-  "uncropped_edge": [
-    "u",
-    "d",
-    "l",
-    "r"
-  ],
-  "eyesights": {
-    "Anakaris": {
-      "0": {
-        "x": 745,
-        "y": 173
-      }
+    "name": "Artwork",
+    "description": "Character Artwork\nNote: Only contains Vampire Savior arcade characters",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from https://www.capcom-games.com/cfc/en-us/title/vampire-h.html",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Anakaris": {
+            "0": {
+                "x": 745,
+                "y": 173
+            }
+        },
+        "Bishamon": {
+            "0": {
+                "x": 587,
+                "y": 264
+            }
+        },
+        "DemitriMaximoff": {
+            "0": {
+                "x": 624,
+                "y": 215
+            }
+        },
+        "DonovanBaine": {
+            "0": {
+                "x": 616,
+                "y": 146
+            }
+        },
+        "Felicia": {
+            "0": {
+                "x": 529,
+                "y": 177
+            }
+        },
+        "HsienKo": {
+            "0": {
+                "x": 524,
+                "y": 172
+            }
+        },
+        "Huitzil": {
+            "0": {
+                "x": 617,
+                "y": 149
+            }
+        },
+        "JonTalbain": {
+            "0": {
+                "x": 607,
+                "y": 540
+            }
+        },
+        "LordRaptor": {
+            "0": {
+                "x": 617,
+                "y": 153
+            }
+        },
+        "MorriganAensland": {
+            "0": {
+                "x": 631,
+                "y": 185
+            }
+        },
+        "Pyron": {
+            "0": {
+                "x": 502,
+                "y": 348
+            }
+        },
+        "Rikuo": {
+            "0": {
+                "x": 634,
+                "y": 284
+            }
+        },
+        "Sasquatch": {
+            "0": {
+                "x": 571,
+                "y": 243
+            }
+        },
+        "VictorvonGerdenheim": {
+            "0": {
+                "x": 662,
+                "y": 183
+            }
+        }
     },
-    "Bishamon": {
-      "0": {
-        "x": 587,
-        "y": 264
-      }
-    },
-    "DemitriMaximoff": {
-      "0": {
-        "x": 624,
-        "y": 215
-      }
-    },
-    "DonovanBaine": {
-      "0": {
-        "x": 616,
-        "y": 146
-      }
-    },
-    "Felicia": {
-      "0": {
-        "x": 529,
-        "y": 177
-      }
-    },
-    "HsienKo": {
-      "0": {
-        "x": 524,
-        "y": 172
-      }
-    },
-    "Huitzil": {
-      "0": {
-        "x": 617,
-        "y": 149
-      }
-    },
-    "JonTalbain": {
-      "0": {
-        "x": 607,
-        "y": 540
-      }
-    },
-    "LordRaptor": {
-      "0": {
-        "x": 617,
-        "y": 153
-      }
-    },
-    "MorriganAensland": {
-      "0": {
-        "x": 631,
-        "y": 185
-      }
-    },
-    "Pyron": {
-      "0": {
-        "x": 502,
-        "y": 348
-      }
-    },
-    "Rikuo": {
-      "0": {
-        "x": 634,
-        "y": 284
-      }
-    },
-    "Sasquatch": {
-      "0": {
-        "x": 571,
-        "y": 243
-      }
-    },
-    "VictorvonGerdenheim": {
-      "0": {
-        "x": 662,
-        "y": 183
-      }
+    "average_size": {
+        "x": 1200,
+        "y": 910
     }
-  }
 }

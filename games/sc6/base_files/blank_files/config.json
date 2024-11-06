@@ -1,8 +1,12 @@
 {
-  "prefix": "UI_Chara_2D_",
-  "postfix": "_",
-  "type": [
-    "icon"
-  ],
-  "version": "1.0"
+    "prefix": "UI_Chara_2D_",
+    "postfix": "_",
+    "type": [
+        "icon"
+    ],
+    "version": "1.0",
+    "average_size": {
+        "x": 670,
+        "y": 1010
+    }
 }

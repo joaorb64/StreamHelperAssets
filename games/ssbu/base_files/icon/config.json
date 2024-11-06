@@ -1,5 +1,11 @@
 {
     "prefix": "chara_2_",
     "postfix": "_",
-    "type": ["icon"]
+    "type": [
+        "icon"
+    ],
+    "average_size": {
+        "x": 64,
+        "y": 64
+    }
 }

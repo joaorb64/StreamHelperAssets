@@ -143,7 +143,8 @@
       "locale": {
         "fr": "Marvin le Martien",
         "pt_BR": "Marvin, o Marciano"
-      }
+      },
+      "smashgg_name": "Marvin the Martian"
     },
     "Joker": {
       "codename": "Joker",
@@ -159,10 +160,12 @@
             "pt_BR": "O Batman que ri"
           }
         }
-      }
+      },
+      "smashgg_name": "The Joker"
     },
     "Jason Voorhees": {
-      "codename": "Jason"
+      "codename": "Jason",
+      "smashgg_name": "Gizmo"
     },
     "Banana Guard": {
       "codename": "Banana",
@@ -178,22 +181,26 @@
             "pt_BR": "Senhora Guarda Banana"
           }
         }
-      }
+      },
+      "smashgg_name": "Banana Guard"
     },
     "Agent Smith": {
       "codename": "Smith",
       "locale": {
         "pt_BR": "Agente Smith"
-      }
+      },
+      "smashgg_name": "Agent Smith"
     },
     "Samurai Jack": {
       "codename": "Jack",
       "locale": {
         "fr": "Samouraï Jack"
-      }
+      },
+      "smashgg_name": "Samurai Jack"
     },
     "Beetlejuice": {
-      "codename": "Beetlejuice"
+      "codename": "Beetlejuice",
+      "smashgg_name": "Beetlejuice"
     },
     "Powerpuff Girls": {
       "codename": "Powerpuff",
@@ -209,10 +216,12 @@
             "pt_BR": "Os Meninos Desordeiros"
           }
         }
-      }
+      },
+      "smashgg_name": "Powerpuff Girls"
     },
     "Nubia": {
-      "codename": "Nubia"
+      "codename": "Nubia",
+      "smashgg_name": "Nubia"
     }
   },
   "credits": "",
@@ -220,7 +229,7 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "2.5",
+  "version": "2.51",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1

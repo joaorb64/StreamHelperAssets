@@ -85,3 +85,13 @@ jobs:
             assets+=("-a" "${asset}")
           done
           hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
+
+      # Generate StartGG config insights
+      - name: Generate StartGG config insights
+        run: |
+          python scripts/check_startgg_config.py
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
+          git add .
+          git commit -m "Add startgg config insights"
+          git push origin main

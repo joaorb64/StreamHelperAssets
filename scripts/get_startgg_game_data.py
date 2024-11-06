@@ -60,12 +60,17 @@ data = data.get("data", {}).get("videogame", {})
 if args.tsh:
     new_data = {}
 
+    new_data["character_to_codename"] = {}
+
     for c in data.get("characters"):
-        pass
+        new_data["character_to_codename"][c["name"]] = {
+            "smashgg_name": c["name"],
+            "codename": generate_codename(c["name"])
+        }
 
     new_data["stage_to_codename"] = {}
 
-    for s in data.get("stages"):
+    for s in (data.get("stages") or {}):
         new_data["stage_to_codename"][s["name"]] = {
             "smashgg_id": s["id"],
             "codename": generate_codename(s["name"])

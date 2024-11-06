@@ -68,6 +68,21 @@ jobs:
             echo "No changes to commit"
           fi
 
+      # Generate StartGG config insights
+      - name: Generate StartGG config insights
+        run: |
+          pip install requests
+          python scripts/check_startgg_config.py
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Update startgg config insights"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+
       # Run assets build logic
       - name: execute py script
         run: |
@@ -94,17 +109,4 @@ jobs:
           done
           hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
 
-      # Generate StartGG config insights
-      - name: Generate StartGG config insights
-        run: |
-          pip install requests
-          python scripts/check_startgg_config.py
-          git config --global user.name 'Buildbot'
-          git config --global user.email 'buildbot@users.noreply.github.com'
-          git add .
-          if ! git diff --cached --quiet; then
-            git commit -m "Update startgg config insights"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
+      # DO NOT ADD ANYTHING AFTER THIS LINE (Files are deleted from the agent to free space and we should avoid committing the deletion)

@@ -79,7 +79,7 @@ def process_directory(directory):
                         for k, v in config_data.get("character_to_codename").items():
                             if v.get("smashgg_name") and v.get("smashgg_name") not in sgg_characterNames:
                                 log(
-                                    f"Character [{k}]: Character name \[{v['smashgg_name']}\] doesn\'t exist in StartGG")
+                                    f"- Character [{k}]: Character name [{v['smashgg_name']}] doesn\'t exist in StartGG")
 
                         tsh_characterNames = [
                             c["smashgg_name"] for c in config_data.get("character_to_codename").values() if "smashgg_name" in c

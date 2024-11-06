@@ -405,8 +405,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG
-- Character [Jason] not assigned in TSH!
-### Coverage: (29/30)
+### Coverage: (30/30)
 
 ## Marvel vs. Capcom: Clash of Super Heroes
 Game has no characters in startgg...? Or do we have a wrong game id?

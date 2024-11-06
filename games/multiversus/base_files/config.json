@@ -165,7 +165,7 @@
     },
     "Jason Voorhees": {
       "codename": "Jason",
-      "smashgg_name": "Gizmo"
+      "smashgg_name": "Jason"
     },
     "Banana Guard": {
       "codename": "Banana",
@@ -229,7 +229,7 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "2.51",
+  "version": "2.52",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1

@@ -97,6 +97,7 @@ jobs:
       # Generate StartGG config insights
       - name: Generate StartGG config insights
         run: |
+          pip install requests
           python scripts/check_startgg_config.py
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'

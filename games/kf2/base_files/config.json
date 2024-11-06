@@ -1,82 +1,104 @@
 {
-  "name": "Kirby Fighters 2",
-  "smashgg_game_id": 34915,
   "challonge_game_id": null,
   "character_to_codename": {
-    "Sword": {
-      "codename": "Sword"
-    },
-    "Bomb": {
-      "codename": "Bomb"
-    },
-    "Staff": {
-      "codename": "Staff"
+    "Archer": {
+      "codename": "Archer",
+      "smashgg_name": "Archer Kirby"
     },
     "Artist": {
-      "codename": "Artist"
-    },
-    "Fighter": {
-      "codename": "Fighter"
-    },
-    "Yo-Yo": {
-      "codename": "YoYo"
-    },
-    "Beetle": {
-      "codename": "Beetle"
-    },
-    "Bell": {
-      "codename": "Bell"
-    },
-    "Archer": {
-      "codename": "Archer"
-    },
-    "Parasol": {
-      "codename": "Parasol"
-    },
-    "Cutter": {
-      "codename": "Cutter"
-    },
-    "Hammer": {
-      "codename": "Hammer"
-    },
-    "Beam": {
-      "codename": "Beam"
-    },
-    "Wrestler": {
-      "codename": "Wrestler"
-    },
-    "Ninja": {
-      "codename": "Ninja"
-    },
-    "Whip": {
-      "codename": "Whip"
-    },
-    "Water": {
-      "codename": "Water"
+      "codename": "Artist",
+      "smashgg_name": "Artist Kirby"
     },
     "Bandana Waddle Dee": {
-      "codename": "BandanaWaddleDee"
+      "codename": "BandanaWaddleDee",
+      "smashgg_name": "Bandana Waddle Dee"
+    },
+    "Beam": {
+      "codename": "Beam",
+      "smashgg_name": "Beam Kirby"
+    },
+    "Beetle": {
+      "codename": "Beetle",
+      "smashgg_name": "Beetle Kirby"
+    },
+    "Bell": {
+      "codename": "Bell",
+      "smashgg_name": "Bell Kirby"
+    },
+    "Bomb": {
+      "codename": "Bomb",
+      "smashgg_name": "Bomb Kirby"
+    },
+    "Cutter": {
+      "codename": "Cutter",
+      "smashgg_name": "Cutter Kirby"
+    },
+    "Fighter": {
+      "codename": "Fighter",
+      "smashgg_name": "Fighter Kirby"
     },
     "Gooey": {
-      "codename": "Gooey"
+      "codename": "Gooey",
+      "smashgg_name": "Gooey"
     },
-    "Magolor": {
-      "codename": "Magolor"
+    "Hammer": {
+      "codename": "Hammer",
+      "smashgg_name": "Hammer Kirby"
     },
     "King Dedede": {
-      "codename": "KingDedede"
+      "codename": "KingDedede",
+      "smashgg_name": "King Dedede"
+    },
+    "Magolor": {
+      "codename": "Magolor",
+      "smashgg_name": "Magolor"
     },
     "Meta Knight": {
-      "codename": "MetaKnight"
+      "codename": "MetaKnight",
+      "smashgg_name": "Meta Knight"
+    },
+    "Ninja": {
+      "codename": "Ninja",
+      "smashgg_name": "Ninja Kirby"
+    },
+    "Parasol": {
+      "codename": "Parasol",
+      "smashgg_name": "Parasol Kirby"
+    },
+    "Staff": {
+      "codename": "Staff",
+      "smashgg_name": "Staff Kirby"
+    },
+    "Sword": {
+      "codename": "Sword",
+      "smashgg_name": "Sword Kirby"
+    },
+    "Water": {
+      "codename": "Water",
+      "smashgg_name": "Water Kirby"
+    },
+    "Whip": {
+      "codename": "Whip",
+      "smashgg_name": "Whip Kirby"
+    },
+    "Wrestler": {
+      "codename": "Wrestler",
+      "smashgg_name": "Wrestler Kirby"
+    },
+    "Yo-Yo": {
+      "codename": "YoYo",
+      "smashgg_name": "Yo-Yo Kirby"
     }
   },
-  "stage_to_codename": {},
-  "version": "1.02",
-  "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Kirby_Fighters_2)",
+  "description": "Base config to use this game.",
   "locale": {
     "ja": {
-      "name": "\u30ab\u30fc\u30d3\u30a3\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba2"
+      "name": "カービィファイターズ2"
     }
-  }
+  },
+  "name": "Kirby Fighters 2",
+  "smashgg_game_id": 34915,
+  "stage_to_codename": {},
+  "version": "1.03"
 }

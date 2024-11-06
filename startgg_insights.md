@@ -163,7 +163,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Dragon Ball FighterZ
-Character [Android 21 (Lab Coat)]: Character name [Android 21 (Lab Coat)] doesn't exist in StartGG
+- Character [Android 21 (Lab Coat)]: Character name [Android 21 (Lab Coat)] doesn't exist in StartGG
 ### Coverage: (42/42)
 
 ## Dragon Ball: Sparking! Zero
@@ -262,7 +262,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Guilty Gear -STRIVE-
-Character [Queen Dizzy]: Character name [Queen Dizzy] doesn't exist in StartGG
+- Character [Queen Dizzy]: Character name [Queen Dizzy] doesn't exist in StartGG
 ### Coverage: (28/28)
 
 ## Guilty Gear Xrd REV 2
@@ -369,23 +369,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Kill la Kill the Game: IF
-Traceback (most recent call last):
-  File "/home/joao/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
-    game_data = get_game_data(
-                ^^^^^^^^^^^^^^
-  File "/home/joao/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
-    data = json.loads(data.text)
-           ^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
-    return _default_decoder.decode(s)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
-    raise JSONDecodeError("Expecting value", s, err.value) from None
-json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## The King of Fighters 2002: Unlimited Match
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -631,14 +615,14 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Marvel vs. Capcom: Infinite
-Character [Ultron Sigma]: Character name [Ultron Sigma] doesn't exist in StartGG
+- Character [Ultron Sigma]: Character name [Ultron Sigma] doesn't exist in StartGG
 ### Coverage: (36/36)
 
 ## Marvel Super Heroes vs. Street Fighter
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Nickelodeon All-Star Brawl
-Character [Jenny "XJ-9" Wakeman]: Character name [Jenny] doesn't exist in StartGG
+- Character [Jenny "XJ-9" Wakeman]: Character name [Jenny] doesn't exist in StartGG
 - Character [Jenny (XJ-9)] not assigned in TSH!
 - Character [Hugh Neutron] not assigned in TSH!
 - Character [Rocko] not assigned in TSH!
@@ -783,11 +767,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether
-Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG
+- Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG
 ### Coverage: (18/18)
 
 ## Rivals of Aether II
-Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
+- Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
 ### Coverage: (10/10)
 
 ## Rushdown Revolt
@@ -859,8 +843,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (0/20)
 
 ## Street Fighter 6
-Character [Mai]: Character name [Mai] doesn't exist in StartGG
-Character [Elena]: Character name [Elena] doesn't exist in StartGG
+- Character [Mai]: Character name [Mai] doesn't exist in StartGG
+- Character [Elena]: Character name [Elena] doesn't exist in StartGG
 ### Coverage: (24/24)
 
 ## Street Fighter Alpha 2
@@ -882,9 +866,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Street Fighter V
-Character [Juri]: Character name [Juri Han] doesn't exist in StartGG
-Character [Ken]: Character name [Ken Masters] doesn't exist in StartGG
-Character [Random]: Character name [Random Character] doesn't exist in StartGG
+- Character [Juri]: Character name [Juri Han] doesn't exist in StartGG
+- Character [Ken]: Character name [Ken Masters] doesn't exist in StartGG
+- Character [Random]: Character name [Random Character] doesn't exist in StartGG
 - Character [Juri] not assigned in TSH!
 - Character [Ken] not assigned in TSH!
 ### Coverage: (43/45)
@@ -948,11 +932,40 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Super Smash Bros
+- Character [Dark Samus]: Character name [Dark Samus] doesn't exist in StartGG
+- Character [Bowser]: Character name [Bowser] doesn't exist in StartGG
+- Character [Dr. Mario]: Character name [Dr. Mario] doesn't exist in StartGG
+- Character [Falco]: Character name [Falco] doesn't exist in StartGG
+- Character [Marth]: Character name [Marth] doesn't exist in StartGG
+- Character [Young Link]: Character name [Young Link] doesn't exist in StartGG
+- Character [Ganondorf]: Character name [Ganondorf] doesn't exist in StartGG
+- Character [Mewtwo]: Character name [Mewtwo] doesn't exist in StartGG
+- Character [Wario]: Character name [Wario] doesn't exist in StartGG
+- Character [Wolf]: Character name [Wolf] doesn't exist in StartGG
+- Character [Conker]: Character name [Conker] doesn't exist in StartGG
+- Character [Lucas]: Character name [Lucas] doesn't exist in StartGG
+- Character [Sonic]: Character name [Sonic] doesn't exist in StartGG
+- Character [Sheik]: Character name [Sheik] doesn't exist in StartGG
+- Character [Marina]: Character name [Marina] doesn't exist in StartGG
+- Character [King Dedede]: Character name [Dedede] doesn't exist in StartGG
+- Character [Goemon]: Character name [Goemon] doesn't exist in StartGG
+- Character [Mad Piano]: Character name [Mad Piano] doesn't exist in StartGG
+- Character [Giant Donkey Kong]: Character name [Giant Donkey Kong] doesn't exist in StartGG
+- Character [Giga Bowser]: Character name [Giga Bowser] doesn't exist in StartGG
+- Character [Metal Mario]: Character name [Metal Mario] doesn't exist in StartGG
+- Character [Super Sonic]: Character name [Super Sonic] doesn't exist in StartGG
+- Character [Slippy]: Character name [Slippy] doesn't exist in StartGG
+- Character [Peppy]: Character name [Peppy] doesn't exist in StartGG
+- Character [Banjo & Kazooie]: Character name [Banjo & Kazooie] doesn't exist in StartGG
+- Character [Ebisumaru]: Character name [Ebisumaru] doesn't exist in StartGG
+- Character [Metal Luigi]: Character name [Metal Luigi] doesn't exist in StartGG
+- Character [Dragon King]: Character name [Dragon King] doesn't exist in StartGG
+- Character [Random]: Character name [Random Character] doesn't exist in StartGG
 ### Coverage: (12/12)
 
 ## Super Smash Bros Brawl
-Character [Pokémon Trainer]: Character name [Pokemon Trainer] doesn't exist in StartGG
-Character [Random]: Character name [Random Character] doesn't exist in StartGG
+- Character [Pokémon Trainer]: Character name [Pokemon Trainer] doesn't exist in StartGG
+- Character [Random]: Character name [Random Character] doesn't exist in StartGG
 - Character [Pokémon Trainer] not assigned in TSH!
 - Character [Random] not assigned in TSH!
 ### Coverage: (36/38)
@@ -1033,10 +1046,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (0/36)
 
 ## Them's Fightin' Herds
-Character [Texas]: Character name [Texas] doesn't exist in StartGG
-Character [Stronghoof]: Character name [Stronghoof] doesn't exist in StartGG
-Character [Nidra]: Character name [Nidra] doesn't exist in StartGG
-Character [Baihe]: Character name [Baihe] doesn't exist in StartGG
+- Character [Texas]: Character name [Texas] doesn't exist in StartGG
+- Character [Stronghoof]: Character name [Stronghoof] doesn't exist in StartGG
+- Character [Nidra]: Character name [Nidra] doesn't exist in StartGG
+- Character [Baihe]: Character name [Baihe] doesn't exist in StartGG
 ### Coverage: (7/7)
 
 ## Tough Love Arena

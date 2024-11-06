@@ -7,7 +7,7 @@
         "full"
     ],
     "credits": "@Sand_Wic for extracting the assets from the game",
-    "version": "1.0",
+    "version": "1.1",
     "eyesights": {
         "Aang": {
             "0": {
@@ -753,6 +753,30 @@
             "0": {
                 "x": 1034,
                 "y": 884
+            }
+        },
+        "Seven": {
+            "0": {
+                "x": 581,
+                "y": 410
+            }
+        },
+        "Vivi": {
+            "0": {
+                "x": 370,
+                "y": 414
+            }
+        },
+        "Imugi": {
+            "0": {
+                "x": 1317,
+                "y": 867
+            }
+        },
+        "Zuva": {
+            "0": {
+                "x": 613,
+                "y": 556
             }
         }
     },

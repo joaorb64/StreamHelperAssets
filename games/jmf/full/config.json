@@ -7,7 +7,7 @@
         "full"
     ],
     "credits": "@Spoox22 for ripping JMF sprites with correct space between sprites",
-    "version": "1.0",
+    "version": "1.01",
     "eyesights": {
         "flame": {
             "0": {
@@ -229,5 +229,11 @@
     "average_size": {
         "x": 440,
         "y": 671
-    }
+    },
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ]
 }

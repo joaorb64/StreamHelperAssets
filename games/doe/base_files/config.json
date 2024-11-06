@@ -2,55 +2,72 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Chiretta": {
-      "codename": "Chiretta"
+      "codename": "Chiretta",
+      "smashgg_name": "Chiretta"
     },
     "Dreadwyrm": {
-      "codename": "Dreadwyrm"
+      "codename": "Dreadwyrm",
+      "smashgg_name": "Dreadwyrm"
     },
     "Gunner": {
-      "codename": "Gunner"
+      "codename": "Gunner",
+      "smashgg_name": "Gunner"
     },
     "Harissa": {
-      "codename": "Harissa"
+      "codename": "Harissa",
+      "smashgg_name": "Harissa"
     },
     "Hazel": {
-      "codename": "Hazel"
+      "codename": "Hazel",
+      "smashgg_name": "Hazel"
     },
     "Maypul": {
-      "codename": "Maypul"
+      "codename": "Maypul",
+      "smashgg_name": "Maypul"
     },
     "Neera": {
-      "codename": "Neera"
+      "codename": "Neera",
+      "smashgg_name": "Neera"
     },
     "Queen": {
-      "codename": "Queen"
+      "codename": "Queen",
+      "smashgg_name": "Queen"
     },
     "Reva": {
-      "codename": "Reva"
+      "codename": "Reva",
+      "smashgg_name": "Reva"
     },
     "Saffron": {
-      "codename": "Saffron"
+      "codename": "Saffron",
+      "smashgg_name": "Saffron"
     },
     "Selicy": {
-      "codename": "Selicy"
+      "codename": "Selicy",
+      "smashgg_name": "Selicy"
     },
     "Shiso": {
-      "codename": "Shiso"
+      "codename": "Shiso",
+      "smashgg_name": "Shiso"
     },
     "Shopkeeper": {
-      "codename": "Shopkeeper"
+      "codename": "Shopkeeper",
+      "smashgg_name": "Shopkeeper"
     },
     "Terra": {
-      "codename": "Terra"
+      "codename": "Terra",
+      "smashgg_name": "Terra"
     },
     "Violette": {
-      "codename": "Violette"
+      "codename": "Violette",
+      "smashgg_name": "Violette"
     },
     "Perilla": {
-      "codename": "Perilla"
+      "codename": "Perilla",
+      "smashgg_name": "Perilla"
     },
     "Terrable": {
-      "codename": "Terrable"
+      "codename": "Terrable",
+      "smashgg_name": "Terrable"
     }
   },
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Duelists_of_Eden)",
@@ -58,5 +75,5 @@
   "name": "Duelists of Eden",
   "smashgg_game_id": 48268,
   "stage_to_codename": {},
-  "version": "1.1"
+  "version": "1.11"
 }

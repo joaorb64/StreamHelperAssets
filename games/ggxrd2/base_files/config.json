@@ -4,83 +4,108 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Answer": {
-      "codename": "Answer"
+      "codename": "Answer",
+      "smashgg_name": "Answer"
     },
     "Axl Low": {
-      "codename": "AxlLow"
+      "codename": "AxlLow",
+      "smashgg_name": "Axl Low"
     },
     "Baiken": {
-      "codename": "Baiken"
+      "codename": "Baiken",
+      "smashgg_name": "Baiken"
     },
     "Bedman": {
-      "codename": "Bedman"
+      "codename": "Bedman",
+      "smashgg_name": "Bedman"
     },
     "Chipp Zanuff": {
-      "codename": "ChippZanuff"
+      "codename": "ChippZanuff",
+      "smashgg_name": "Chipp Zanuff"
     },
     "Dizzy": {
-      "codename": "Dizzy"
+      "codename": "Dizzy",
+      "smashgg_name": "Dizzy"
     },
     "Elphelt Valentine": {
-      "codename": "ElpheltValentine"
+      "codename": "ElpheltValentine",
+      "smashgg_name": "Elphelt"
     },
     "Faust": {
-      "codename": "Faust"
+      "codename": "Faust",
+      "smashgg_name": "Faust"
     },
     "I-No": {
-      "codename": "INo"
+      "codename": "INo",
+      "smashgg_name": "I-No"
     },
     "Jack-O": {
-      "codename": "JackO"
+      "codename": "JackO",
+      "smashgg_name": "Jack-O'"
     },
     "Jam Kuradoberi": {
-      "codename": "JamKuradoberi"
+      "codename": "JamKuradoberi",
+      "smashgg_name": "Jam Kuradoberi"
     },
     "Johnny": {
-      "codename": "Johnny"
+      "codename": "Johnny",
+      "smashgg_name": "Johnny"
     },
     "Kum Haehyun": {
-      "codename": "KumHaehyun"
+      "codename": "KumHaehyun",
+      "smashgg_name": "Kum Haehyun"
     },
     "Ky Kiske": {
-      "codename": "KyKiske"
+      "codename": "KyKiske",
+      "smashgg_name": "Ky Kiske"
     },
     "Leo Whitefang": {
-      "codename": "LeoWhitefang"
+      "codename": "LeoWhitefang",
+      "smashgg_name": "Leo Whitefang"
     },
     "May": {
-      "codename": "May"
+      "codename": "May",
+      "smashgg_name": "May"
     },
     "Millia Rage": {
-      "codename": "MilliaRage"
+      "codename": "MilliaRage",
+      "smashgg_name": "Millia Rage"
     },
     "Potemkin": {
-      "codename": "Potemkin"
+      "codename": "Potemkin",
+      "smashgg_name": "Potemkin"
     },
     "Ramlethal Valentine": {
-      "codename": "RamlethalValentine"
+      "codename": "RamlethalValentine",
+      "smashgg_name": "Ramlethal"
     },
     "Raven": {
-      "codename": "Raven"
+      "codename": "Raven",
+      "smashgg_name": "Raven"
     },
     "Sin Kiske": {
-      "codename": "SinKiske"
+      "codename": "SinKiske",
+      "smashgg_name": "Sin Kiske"
     },
     "Slayer": {
-      "codename": "Slayer"
+      "codename": "Slayer",
+      "smashgg_name": "Slayer"
     },
     "Sol Badguy": {
-      "codename": "SolBadguy"
+      "codename": "SolBadguy",
+      "smashgg_name": "Sol Badguy"
     },
     "Venom": {
-      "codename": "Venom"
+      "codename": "Venom",
+      "smashgg_name": "Venom"
     },
     "Zato-1": {
-      "codename": "Zato1"
+      "codename": "Zato1",
+      "smashgg_name": "Zato-1/Eddie"
     }
   },
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "1.01",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/Guilty_Gear_Xrd_REV_2)"
 }

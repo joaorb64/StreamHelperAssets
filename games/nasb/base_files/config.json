@@ -122,16 +122,18 @@
       "codename": "cheese"
     },
     "Jenny \"XJ-9\" Wakeman": {
-      "smashgg_name": "Jenny",
+      "smashgg_name": "Jenny (XJ-9)",
       "codename": "neo",
       "locale": {
         "fr": "Jenny \u00ab XJ-9 \u00bb Wakeman"
       }
     },
     "Hugh Neutron": {
+      "smashgg_name": "Hugh Neutron",
       "codename": "pie"
     },
     "Rocko Rama": {
+      "smashgg_name": "Rocko",
       "codename": "squirrel"
     }
   },
@@ -278,7 +280,7 @@
       "codename": "squirrel_space"
     }
   },
-  "version": "1.8",
+  "version": "1.81",
   "description": "Base config to use this game.",
   "credits": ""
 }

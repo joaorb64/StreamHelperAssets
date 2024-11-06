@@ -2,47 +2,59 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Candyman": {
-      "codename": "Candyman"
+      "codename": "Candyman",
+      "smashgg_name": "Candyman"
     },
     "Dice": {
-      "codename": "Dice"
+      "codename": "Dice",
+      "smashgg_name": "Dice"
     },
     "Doombox": {
-      "codename": "Doombox"
+      "codename": "Doombox",
+      "smashgg_name": "Doombox"
     },
     "Dust & Ashes": {
-      "codename": "DustAshes"
+      "codename": "DustAshes",
+      "smashgg_name": "Dust and Ashes"
     },
     "Grid": {
-      "codename": "Grid"
+      "codename": "Grid",
+      "smashgg_name": "Grid"
     },
     "Jet": {
-      "codename": "Jet"
+      "codename": "Jet",
+      "smashgg_name": "Jet"
     },
     "Latch": {
-      "codename": "Latch"
+      "codename": "Latch",
+      "smashgg_name": "Latch"
     },
     "Nitro": {
-      "codename": "Nitro"
+      "codename": "Nitro",
+      "smashgg_name": "Nitro"
     },
     "Raptor": {
-      "codename": "Raptor"
+      "codename": "Raptor",
+      "smashgg_name": "Raptor"
     },
     "Sonata": {
-      "codename": "Sonata"
+      "codename": "Sonata",
+      "smashgg_name": "Sonata"
     },
     "Switch": {
-      "codename": "Switch"
+      "codename": "Switch",
+      "smashgg_name": "Switch"
     },
     "Toxic": {
-      "codename": "Toxic"
+      "codename": "Toxic",
+      "smashgg_name": "Toxic"
     }
   },
   "credits": "Assets provided by BiancaRacc",
   "description": "Base config to use this game.",
   "name": "Lethal League Blaze",
   "smashgg_game_id": 2868,
-  "version": "2.01",
+  "version": "2.02",
   "stage_to_codename": {
     "Scrap Desert": {
       "codename": "desert"

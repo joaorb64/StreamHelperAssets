@@ -2,49 +2,64 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Alex Jefailey": {
-      "codename": "AlexJefailey"
+      "codename": "AlexJefailey",
+      "smashgg_name": "Jefailey"
     },
     "Codename: S-Kill": {
-      "codename": "CodenameSKill"
+      "codename": "CodenameSKill",
+      "smashgg_name": "S-Kill"
     },
     "Dive": {
-      "codename": "Dive"
+      "codename": "Dive",
+      "smashgg_name": "Dive"
     },
     "Dr. Victoria Shoals": {
-      "codename": "DrVictoriaShoals"
+      "codename": "DrVictoriaShoals",
+      "smashgg_name": "Dr. Shoals"
     },
     "Johnny Gat": {
-      "codename": "JohnnyGat"
+      "codename": "JohnnyGat",
+      "smashgg_name": "Johnny Gat"
     },
     "Kenny": {
-      "codename": "Kenny"
+      "codename": "Kenny",
+      "smashgg_name": "Kenny"
     },
     "Kick": {
-      "codename": "Kick"
+      "codename": "Kick",
+      "smashgg_name": "Kick"
     },
     "Kung Pao": {
-      "codename": "KungPao"
+      "codename": "KungPao",
+      "smashgg_name": "Kung Pao"
     },
     "Markman": {
-      "codename": "Markman"
+      "codename": "Markman",
+      "smashgg_name": "MarkMan"
     },
     "Mr. N": {
-      "codename": "MrN"
+      "codename": "MrN",
+      "smashgg_name": "Mr. N"
     },
     "Redacted": {
-      "codename": "Redacted"
+      "codename": "Redacted",
+      "smashgg_name": "Redacted"
     },
     "Stream": {
-      "codename": "Stream"
+      "codename": "Stream",
+      "smashgg_name": "Stream"
     },
     "The Baz": {
-      "codename": "TheBaz"
+      "codename": "TheBaz",
+      "smashgg_name": "The Baz"
     },
     "The Fencer": {
-      "codename": "TheFencer"
+      "codename": "TheFencer",
+      "smashgg_name": "The Fencer"
     },
     "Uncle Sensei": {
-      "codename": "UncleSensei"
+      "codename": "UncleSensei",
+      "smashgg_name": "Uncle Sensei"
     }
   },
   "credits": "",
@@ -52,5 +67,5 @@
   "name": "Divekick",
   "smashgg_game_id": 7667,
   "stage_to_codename": {},
-  "version": "1.01"
+  "version": "1.02"
 }

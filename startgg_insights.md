@@ -948,39 +948,6 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Super Smash Bros
-Character [Dark Samus]: Character name [Dark Samus] doesn't exist in StartGG
-Character [Bowser]: Character name [Bowser] doesn't exist in StartGG
-Character [Dr. Mario]: Character name [Dr. Mario] doesn't exist in StartGG
-Character [Falco]: Character name [Falco] doesn't exist in StartGG
-Character [Marth]: Character name [Marth] doesn't exist in StartGG
-Character [Young Link]: Character name [Young Link] doesn't exist in StartGG
-Character [Ganondorf]: Character name [Ganondorf] doesn't exist in StartGG
-Character [Mewtwo]: Character name [Mewtwo] doesn't exist in StartGG
-Character [Wario]: Character name [Wario] doesn't exist in StartGG
-Character [Wolf]: Character name [Wolf] doesn't exist in StartGG
-Character [Conker]: Character name [Conker] doesn't exist in StartGG
-Character [Lucas]: Character name [Lucas] doesn't exist in StartGG
-Character [Sonic]: Character name [Sonic] doesn't exist in StartGG
-Character [Sheik]: Character name [Sheik] doesn't exist in StartGG
-Character [Marina]: Character name [Marina] doesn't exist in StartGG
-Character [King Dedede]: Character name [Dedede] doesn't exist in StartGG
-Character [Goemon]: Character name [Goemon] doesn't exist in StartGG
-Character [Mad Piano]: Character name [Mad Piano] doesn't exist in StartGG
-Character [Giant Donkey Kong]: Character name [Giant Donkey Kong] doesn't exist in StartGG
-Character [Giga Bowser]: Character name [Giga Bowser] doesn't exist in StartGG
-Character [Metal Mario]: Character name [Metal Mario] doesn't exist in StartGG
-Character [Super Sonic]: Character name [Super Sonic] doesn't exist in StartGG
-Character [Slippy]: Character name [Slippy] doesn't exist in StartGG
-Character [Peppy]: Character name [Peppy] doesn't exist in StartGG
-Character [Banjo & Kazooie]: Character name [Banjo & Kazooie] doesn't exist in StartGG
-Character [Ebisumaru]: Character name [Ebisumaru] doesn't exist in StartGG
-Character [Metal Luigi]: Character name [Metal Luigi] doesn't exist in StartGG
-Character [Dragon King]: Character name [Dragon King] doesn't exist in StartGG
-Character [Crash]: Character name [Crash] doesn't exist in StartGG
-Character [Peach]: Character name [Peach] doesn't exist in StartGG
-Character [Roy]: Character name [Roy] doesn't exist in StartGG
-Character [Dr. Luigi]: Character name [Dr. Luigi] doesn't exist in StartGG
-Character [Random]: Character name [Random Character] doesn't exist in StartGG
 ### Coverage: (12/12)
 
 ## Super Smash Bros Brawl

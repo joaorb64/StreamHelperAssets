@@ -158,7 +158,8 @@
           "locale": {
             "fr": "Le Batman qui Rit",
             "pt_BR": "O Batman que ri"
-          }
+          },
+          "is_different_character": true
         }
       },
       "smashgg_name": "The Joker"
@@ -180,7 +181,8 @@
             "fr": "Garde Lady Banane",
             "pt_BR": "Senhora Guarda Banana"
           }
-        }
+        },
+        "is_different_character": true
       },
       "smashgg_name": "Banana Guard"
     },
@@ -215,7 +217,8 @@
             "fr": "Les Sales Petits Mecs",
             "pt_BR": "Os Meninos Desordeiros"
           }
-        }
+        },
+        "is_different_character": true
       },
       "smashgg_name": "Powerpuff Girls"
     },
@@ -229,7 +232,7 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "2.52",
+  "version": "2.53",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1

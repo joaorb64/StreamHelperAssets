@@ -14,7 +14,8 @@
       "codename": "EddyGordo",
       "skin_name": {
         "1": {
-          "name": "Tiger Jackson"
+          "name": "Tiger Jackson",
+          "is_different_character": true
         }
       }
     },
@@ -46,7 +47,8 @@
       "codename": "Kuma",
       "skin_name": {
         "1": {
-          "name": "Panda"
+          "name": "Panda",
+          "is_different_character": true
         }
       }
     },
@@ -80,5 +82,5 @@
   "name": "Tekken 3",
   "smashgg_game_id": 5216,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01"
 }

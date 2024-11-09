@@ -1,6 +1,5 @@
 import os
 import subprocess
-from glob import glob
 
 FILE_DIR = os.path.dirname(__file__)
 
@@ -32,52 +31,41 @@ def run_linux_command(command: str):
         return -1, '', str(e)
 
 
-# _, CURRENT_TAG, _ = run_linux_command("git describe --tags --always")
+_, CURRENT_TAG, _ = run_linux_command("git describe --tags --always")
 
-# LAST_TAG = None
-# with open(f"{FILE_DIR}/last_tag.txt", "r", encoding="utf-8") as f:
-#     LAST_TAG = f.read().strip()
+LAST_TAG = None
+with open(f"{FILE_DIR}/last_tag.txt", "r", encoding="utf-8") as f:
+    LAST_TAG = f.read().strip()
 
-# changed_files = run_linux_command(
-#     f"git diff-tree --no-commit-id --name-status {LAST_TAG} {CURRENT_TAG} -r")
+changed_files = run_linux_command(
+    f"git diff-tree --no-commit-id --name-status {LAST_TAG} {CURRENT_TAG} -r")
 
-# print(
-#     f"Comparing last processed commit ({LAST_TAG}) -> origin/main ({CURRENT_TAG})")
+print(
+    f"Comparing last processed commit ({LAST_TAG}) -> origin/main ({CURRENT_TAG})")
 
-# if not CURRENT_TAG or not LAST_TAG:
-#     exit(1)
+if not CURRENT_TAG or not LAST_TAG:
+    exit(1)
 
-# print(changed_files)
+print(changed_files)
 
-# changes = []
+changes = []
 
-# for line in changed_files[1].splitlines():
-#     line = line.strip()
-#     print(line)
-#     if ".png" in line:
-#         split = line.split("\t")
-#         change = split[0].strip()
-#         filename = split[1].strip()
+for line in changed_files[1].splitlines():
+    line = line.strip()
+    print(line)
+    if ".png" in line:
+        split = line.split("\t")
+        change = split[0].strip()
+        filename = split[1].strip()
 
-#         print(change, filename)
+        print(change, filename)
 
-#         if change in ['A', 'M']:
-#             changes.append(change)
+        if change in ['A', 'M']:
+            changes.append(change)
 
-# for i, change in enumerate(changes):
-#     print(f"Optimizing [{i+1}/{len(changes)}]")
-#     run_linux_command(f"optipng {filename} -strip all")
-
-# with open(f"{FILE_DIR}/last_tag.txt", "w", encoding="utf-8") as f:
-#     f.write(CURRENT_TAG)
-
-
-
-game_codename = "sdbz"
-changes = glob(f"../games/{game_codename}/*/*.png")
-for filename in glob(f"../games/{game_codename}/base_files/*/*.png"):
-    changes.append(filename)
-
-for i, filename in enumerate(changes):
+for i, change in enumerate(changes):
     print(f"Optimizing [{i+1}/{len(changes)}]")
-    run_linux_command(f"optipng {filename} -force -strip all")
+    run_linux_command(f"optipng {filename} -strip all")
+
+with open(f"{FILE_DIR}/last_tag.txt", "w", encoding="utf-8") as f:
+    f.write(CURRENT_TAG)

@@ -1,5 +1,5 @@
 {
-  "name": "Darkstalkers 3 / Vampire Savior",
+  "name": "Vampire Savior",
   "smashgg_game_id": 582,
   "challonge_game_id": 7646,
   "character_to_codename": {
@@ -113,8 +113,8 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.05",
-  "description": "Base config to use this game.",
+  "version": "1.06",
+  "description": "Base config to use this game.\n\nAlso compatible with Darkstalkers 3, Vampire Savior 2, Vampire Hunter 2 and Vampire Chronicle for Matching Service / Darkstalkers Chronicle: The Chaos Tower",
   "credits": "",
   "locale": {
     "ja": {

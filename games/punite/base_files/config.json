@@ -847,10 +847,36 @@
         "it": "Ho-Oh",
         "es": "Ho-Oh"
       }
+    },
+    "Armarouge": {
+      "codename": "936",
+      "locale": {
+        "fr": "Carmadura",
+        "de": "Crimanzo",
+        "ko": "\uce74\ub514\ub098\ub974\ub9c8",
+        "ja": "\u30b0\u30ec\u30f3\u30a2\u30eb\u30de",
+        "zh_CN": "\u7ea2\u83b2\u94e0\u9a91",
+        "zh_TW": "\u7d05\u84ee\u93a7\u9a0e",
+        "it": "Armarouge",
+        "es": "Armarouge"
+      }
+    },
+    "Darkrai": {
+      "codename": "491",
+      "locale": {
+        "fr": "Darkrai",
+        "de": "Darkrai",
+        "ko": "\ub2e4\ud06c\ub77c\uc774",
+        "ja": "\u30c0\u30fc\u30af\u30e9\u30a4",
+        "zh_CN": "\u8fbe\u514b\u83b1\u4f0a",
+        "zh_TW": "\u9054\u514b\u840a\u4f0a",
+        "it": "Darkrai",
+        "es": "Darkrai"
+      }
     }
   },
   "stage_to_codename": {},
-  "version": "1.7",
+  "version": "1.8",
   "description": "Base config to use this game",
   "credits": "Box sprites from the mainline games from Generation 3-8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pokémon Scarlet & Violet icons",
   "defaults": {

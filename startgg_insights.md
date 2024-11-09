@@ -911,7 +911,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Night Warriors: Darkstalkers' Revenge
 Game has no characters in startgg...? Or do we have a wrong game id?
 
-## Darkstalkers 3 / Vampire Savior
+## Vampire Savior
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Waku Waku 7

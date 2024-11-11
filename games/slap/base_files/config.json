@@ -2,37 +2,48 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Asha": {
-      "codename": "Asha"
+      "codename": "Asha",
+      "smashgg_name": "Asha"
     },
     "Business Casual Man": {
-      "codename": "BusinessCasualMan"
+      "codename": "BusinessCasualMan",
+      "smashgg_name": "Business Casual Man"
     },
     "Cruiser Tetron": {
-      "codename": "CruiserTetron"
+      "codename": "CruiserTetron",
+      "smashgg_name": "Cruiser Tetron"
     },
     "Frallan": {
-      "codename": "Frallan"
+      "codename": "Frallan",
+      "smashgg_name": "Frallan"
     },
     "Goddess of Explosions": {
-      "codename": "GoddessofExplosions"
+      "codename": "GoddessofExplosions",
+      "smashgg_name": "Goddess of Explosions"
     },
     "Ittle Dew": {
-      "codename": "IttleDew"
+      "codename": "IttleDew",
+      "smashgg_name": "Ittle Dew"
     },
     "Jenny Fox": {
-      "codename": "JennyFox"
+      "codename": "JennyFox",
+      "smashgg_name": "Jenny Fox"
     },
     "Masked Ruby": {
-      "codename": "MaskedRuby"
+      "codename": "MaskedRuby",
+      "smashgg_name": "Masked Ruby"
     },
     "Orka": {
-      "codename": "Orka"
+      "codename": "Orka",
+      "smashgg_name": "Orka"
     },
     "Princess Remedy": {
-      "codename": "PrincessRemedy"
+      "codename": "PrincessRemedy",
+      "smashgg_name": "Princess Remedy"
     },
     "Ultra Fishbunjin 3000": {
-      "codename": "UltraFishbunjin3000"
+      "codename": "UltraFishbunjin3000",
+      "smashgg_name": "Ultra Fishbunjin"
     }
   },
   "credits": "",
@@ -40,5 +51,5 @@
   "name": "Slap City",
   "smashgg_game_id": 1969,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01"
 }

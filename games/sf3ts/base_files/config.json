@@ -4,68 +4,88 @@
   "challonge_game_id": 387,
   "character_to_codename": {
     "Alex": {
-      "codename": "Alex"
+      "codename": "Alex",
+      "smashgg_name": "Alex"
     },
     "Ryu": {
-      "codename": "Ryu"
+      "codename": "Ryu",
+      "smashgg_name": "Ryu"
     },
     "Ken": {
-      "codename": "Ken"
+      "codename": "Ken",
+      "smashgg_name": "Ken"
     },
     "Sean": {
-      "codename": "Sean"
+      "codename": "Sean",
+      "smashgg_name": "Sean"
     },
     "Dudley": {
-      "codename": "Dudley"
+      "codename": "Dudley",
+      "smashgg_name": "Dudley"
     },
     "Necro": {
-      "codename": "Necro"
+      "codename": "Necro",
+      "smashgg_name": "Necro"
     },
     "Oro": {
-      "codename": "Oro"
+      "codename": "Oro",
+      "smashgg_name": "Oro"
     },
     "Elena": {
-      "codename": "Elena"
+      "codename": "Elena",
+      "smashgg_name": "Elena"
     },
     "Ibuki": {
-      "codename": "Ibuki"
+      "codename": "Ibuki",
+      "smashgg_name": "Ibuki"
     },
     "Makoto": {
-      "codename": "Makoto"
+      "codename": "Makoto",
+      "smashgg_name": "Makoto"
     },
     "Yang": {
-      "codename": "Yang"
+      "codename": "Yang",
+      "smashgg_name": "Yang"
     },
     "Yun": {
-      "codename": "Yun"
+      "codename": "Yun",
+      "smashgg_name": "Yun"
     },
     "Chun-Li": {
-      "codename": "ChunLi"
+      "codename": "ChunLi",
+      "smashgg_name": "Chun-li"
     },
     "Hugo": {
-      "codename": "Hugo"
+      "codename": "Hugo",
+      "smashgg_name": "Hugo"
     },
     "Remy": {
-      "codename": "Remy"
+      "codename": "Remy",
+      "smashgg_name": "Remy"
     },
     "Akuma": {
-      "codename": "Akuma"
+      "codename": "Akuma",
+      "smashgg_name": "Akuma"
     },
     "Q": {
-      "codename": "Q"
+      "codename": "Q",
+      "smashgg_name": "Q"
     },
     "Twelve": {
-      "codename": "Twelve"
+      "codename": "Twelve",
+      "smashgg_name": "Twelve"
     },
     "Urien": {
-      "codename": "Urien"
+      "codename": "Urien",
+      "smashgg_name": "Urien"
     },
     "Gill": {
-      "codename": "Gill"
+      "codename": "Gill",
+      "smashgg_name": "Gill"
     }
   },
   "stage_to_codename": {},
-  "version": "1.04",
+  "version": "1.05",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping",
   "locale": {

@@ -2,103 +2,136 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Alien": {
-      "codename": "Alien"
+      "codename": "Alien",
+      "smashgg_name": "Alien"
     },
     "Bo' Rai Cho": {
-      "codename": "BoRaiCho"
+      "codename": "BoRaiCho",
+      "smashgg_name": "Bo' Rai Cho"
     },
     "Cassie Cage": {
-      "codename": "CassieCage"
+      "codename": "CassieCage",
+      "smashgg_name": "Cassie Cage"
     },
     "D'Vorah": {
-      "codename": "DVorah"
+      "codename": "DVorah",
+      "smashgg_name": "D'Vorah"
     },
     "Ermac": {
-      "codename": "Ermac"
+      "codename": "Ermac",
+      "smashgg_name": "Ermac"
     },
     "Erron Black": {
-      "codename": "ErronBlack"
+      "codename": "ErronBlack",
+      "smashgg_name": "Erron Black"
     },
     "Ferra/Torr": {
-      "codename": "FerraTorr"
+      "codename": "FerraTorr",
+      "smashgg_name": "Ferra/Torr"
     },
     "Goro": {
-      "codename": "Goro"
+      "codename": "Goro",
+      "smashgg_name": "Goro"
     },
     "Jacqui Briggs": {
-      "codename": "JacquiBriggs"
+      "codename": "JacquiBriggs",
+      "smashgg_name": "Jacqui Briggs"
     },
     "Jason Voorhees": {
-      "codename": "JasonVoorhees"
+      "codename": "JasonVoorhees",
+      "smashgg_name": "Jason Voorhees"
     },
     "Jackson \"Jax\" Briggs": {
-      "codename": "Jax"
+      "codename": "Jax",
+      "smashgg_name": "Jax"
     },
     "Johnny Cage": {
-      "codename": "JohnnyCage"
+      "codename": "JohnnyCage",
+      "smashgg_name": "Johnny Cage"
     },
     "Kano": {
-      "codename": "Kano"
+      "codename": "Kano",
+      "smashgg_name": "Kano"
     },
     "Kenshi Takahashi": {
-      "codename": "Kenshi"
+      "codename": "Kenshi",
+      "smashgg_name": "Kenshi"
     },
     "Kitana": {
-      "codename": "Kitana"
+      "codename": "Kitana",
+      "smashgg_name": "Kitana"
     },
     "Kotal Kahn": {
-      "codename": "KotalKahn"
+      "codename": "KotalKahn",
+      "smashgg_name": "Kotal Kahn"
     },
     "Kung Jin": {
-      "codename": "KungJin"
+      "codename": "KungJin",
+      "smashgg_name": "Kung Jin"
     },
     "Kung Lao": {
-      "codename": "KungLao"
+      "codename": "KungLao",
+      "smashgg_name": "Kung Lao"
     },
     "Leatherface": {
-      "codename": "Leatherface"
+      "codename": "Leatherface",
+      "smashgg_name": "Leatherface"
     },
     "Liu Kang": {
-      "codename": "LiuKang"
+      "codename": "LiuKang",
+      "smashgg_name": "Liu Kang"
     },
     "Mileena": {
-      "codename": "Mileena"
+      "codename": "Mileena",
+      "smashgg_name": "Mileena"
     },
     "Predator": {
-      "codename": "Predator"
+      "codename": "Predator",
+      "smashgg_name": "Predator"
     },
     "Quan Chi": {
-      "codename": "QuanChi"
+      "codename": "QuanChi",
+      "smashgg_name": "Quan Chi"
     },
     "Raiden": {
-      "codename": "Raiden"
+      "codename": "Raiden",
+      "smashgg_name": "Raiden"
     },
     "Reptile": {
-      "codename": "Reptile"
+      "codename": "Reptile",
+      "smashgg_name": "Reptile"
     },
     "Scorpion": {
-      "codename": "Scorpion"
+      "codename": "Scorpion",
+      "smashgg_name": "Scorpion"
     },
     "Shinnok": {
-      "codename": "Shinnok"
+      "codename": "Shinnok",
+      "smashgg_name": "Shinnok"
     },
     "Sonya Blade": {
-      "codename": "SonyaBlade"
+      "codename": "SonyaBlade",
+      "smashgg_name": "Sonya Blade"
     },
     "Sub-Zero": {
-      "codename": "SubZero"
+      "codename": "SubZero",
+      "smashgg_name": "Sub-Zero"
     },
-    "Takeda": {
-      "codename": "Takeda"
+    "Takeda Takahashi": {
+      "codename": "Takeda",
+      "smashgg_name": "Takeda"
     },
     "Tanya": {
-      "codename": "Tanya"
+      "codename": "Tanya",
+      "smashgg_name": "Tanya"
     },
     "Tremor": {
-      "codename": "Tremor"
+      "codename": "Tremor",
+      "smashgg_name": "Tremor"
     },
     "Triborg": {
-      "codename": "Triborg"
+      "codename": "Triborg",
+      "smashgg_name": "Triborg"
     }
   },
   "credits": "",
@@ -106,5 +139,5 @@
   "name": "Mortal Kombat XL",
   "smashgg_game_id": 23,
   "stage_to_codename": {},
-  "version": "1.01"
+  "version": "1.02"
 }

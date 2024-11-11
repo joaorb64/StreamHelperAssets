@@ -2,37 +2,48 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Amy Rose": {
-      "codename": "AmyRose"
+      "codename": "AmyRose",
+      "smashgg_name": "Amy"
     },
     "Bark the Polar Bear": {
-      "codename": "BarkthePolarBear"
+      "codename": "BarkthePolarBear",
+      "smashgg_name": "Bark"
     },
     "Bean the Dynamite": {
-      "codename": "BeantheDynamite"
+      "codename": "BeantheDynamite",
+      "smashgg_name": "Bean"
     },
     "Dr. Eggman": {
-      "codename": "DrEggman"
+      "codename": "DrEggman",
+      "smashgg_name": "Dr. Eggman"
     },
     "Espio the Chameleon": {
-      "codename": "EspiotheChameleon"
+      "codename": "EspiotheChameleon",
+      "smashgg_name": "Espio"
     },
     "Fang the Sniper": {
-      "codename": "FangtheSniper"
+      "codename": "FangtheSniper",
+      "smashgg_name": "Fang"
     },
     "Honey the Cat": {
-      "codename": "HoneytheCat"
+      "codename": "HoneytheCat",
+      "smashgg_name": "Honey"
     },
     "Knuckles the Echidna": {
-      "codename": "KnucklestheEchidna"
+      "codename": "KnucklestheEchidna",
+      "smashgg_name": "Knuckles"
     },
     "Metal Sonic": {
-      "codename": "MetalSonic"
+      "codename": "MetalSonic",
+      "smashgg_name": "Metal Sonic"
     },
     "Miles \"Tails\" Prower": {
-      "codename": "MilesTailsPrower"
+      "codename": "MilesTailsPrower",
+      "smashgg_name": "Tails"
     },
     "Sonic the Hedgehog": {
-      "codename": "SonictheHedgehog"
+      "codename": "SonictheHedgehog",
+      "smashgg_name": "Sonic"
     }
   },
   "credits": "Honey icon by Nibroc-Rock",
@@ -40,5 +51,5 @@
   "name": "Sonic the Fighters",
   "smashgg_game_id": 9881,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01"
 }

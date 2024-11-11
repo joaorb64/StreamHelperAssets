@@ -2,43 +2,55 @@
   "challonge_game_id": 212835,
   "character_to_codename": {
     "Afi & Galu": {
-      "codename": "afigalu"
+      "codename": "afigalu",
+      "smashgg_name": "Afi & Galu"
     },
     "Ashani": {
-      "codename": "ashani"
+      "codename": "ashani",
+      "smashgg_name": "Ashani"
     },
     "Ezzie": {
-      "codename": "ezzie"
+      "codename": "ezzie",
+      "smashgg_name": "Ezzie"
     },
     "Kidd": {
-      "codename": "kidd"
+      "codename": "kidd",
+      "smashgg_name": "Kidd"
     },
     "Raymer": {
-      "codename": "raymer"
+      "codename": "raymer",
+      "smashgg_name": "Raymer"
     },
     "Urdah": {
-      "codename": "urdah"
+      "codename": "urdah",
+      "smashgg_name": "Urdah"
     },
     "Weishan": {
-      "codename": "weishan"
+      "codename": "weishan",
+      "smashgg_name": "Weishan"
     },
     "Zhurong": {
-      "codename": "zhurong"
+      "codename": "zhurong",
+      "smashgg_name": "Zhurong"
     },
     "Seth": {
-      "codename": "seth"
+      "codename": "seth",
+      "smashgg_name": "Seth"
     },
     "Velora": {
-      "codename": "velora"
+      "codename": "velora",
+      "smashgg_name": "Velora"
     },
     "Random": {
       "codename": "random"
     },
     "Reina": {
-      "codename": "reina"
+      "codename": "reina",
+      "smashgg_name": "Reina"
     },
     "The Torment": {
-      "codename": "torment"
+      "codename": "torment",
+      "smashgg_name": "The Torment"
     }
   },
   "credits": "",
@@ -46,5 +58,5 @@
   "name": "Rushdown Revolt",
   "smashgg_game_id": 34863,
   "stage_to_codename": {},
-  "version": "1.31"
+  "version": "1.32"
 }

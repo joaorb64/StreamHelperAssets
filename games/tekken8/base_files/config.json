@@ -5,109 +5,144 @@
       "codename": "random"
     },
     "Asuka Kazama": {
-      "codename": "asu"
+      "codename": "asu",
+      "smashgg_name": "Asuka Kazama"
     },
     "Azucena Milagros Ortiz Castillo": {
-      "codename": "azu"
+      "codename": "azu",
+      "smashgg_name": "Azucena Ortiz"
     },
     "Bryan Fury": {
-      "codename": "bry"
+      "codename": "bry",
+      "smashgg_name": "Bryan Fury"
     },
     "Claudio Serafino": {
-      "codename": "cla"
+      "codename": "cla",
+      "smashgg_name": "Claudio Serafino"
     },
     "Emilie \"Lili\" de Rochefort": {
-      "codename": "lil"
+      "codename": "lil",
+      "smashgg_name": "Lili de Rochefort"
     },
     "Feng Wei": {
-      "codename": "fen"
+      "codename": "fen",
+      "smashgg_name": "Feng Wei"
     },
     "Hwoarang": {
-      "codename": "hwo"
+      "codename": "hwo",
+      "smashgg_name": "Hwoarang"
     },
     "Jack-8": {
-      "codename": "jac"
+      "codename": "jac",
+      "smashgg_name": "Jack-8"
     },
     "Jin Kazama": {
-      "codename": "jin"
+      "codename": "jin",
+      "smashgg_name": "Jin Kazama"
     },
     "Jun Kazama": {
-      "codename": "jun"
+      "codename": "jun",
+      "smashgg_name": "Jun Kazama"
     },
     "Kazuya Mishima": {
-      "codename": "kaz"
+      "codename": "kaz",
+      "smashgg_name": "Kazuya Mishima"
     },
     "King II": {
-      "codename": "kin"
+      "codename": "kin",
+      "smashgg_name": "King"
     },
     "Kuma": {
-      "codename": "kum"
+      "codename": "kum",
+      "smashgg_name": "Kuma"
     },
     "Lars Alexandersson": {
-      "codename": "lar"
+      "codename": "lar",
+      "smashgg_name": "Lars Alexandersson"
     },
     "Leo Kliesen": {
-      "codename": "leo"
+      "codename": "leo",
+      "smashgg_name": "Leo Kliesen"
     },
     "Leroy Smith": {
-      "codename": "ler"
+      "codename": "ler",
+      "smashgg_name": "Leroy Smith"
     },
     "Ling Xiaoyu": {
-      "codename": "xia"
+      "codename": "xia",
+      "smashgg_name": "Ling Xiaoyu"
     },
     "Marshall Law": {
-      "codename": "law"
+      "codename": "law",
+      "smashgg_name": "Marshall Law"
     },
     "Nina Williams": {
-      "codename": "nin"
+      "codename": "nin",
+      "smashgg_name": "Nina Williams"
     },
     "Panda": {
-      "codename": "pan"
+      "codename": "pan",
+      "smashgg_name": "Panda"
     },
     "Paul Phoenix": {
-      "codename": "pau"
+      "codename": "pau",
+      "smashgg_name": "Paul Phoenix"
     },
     "Raven": {
-      "codename": "rav"
+      "codename": "rav",
+      "smashgg_name": "Raven"
     },
     "Sergei Dragunov": {
-      "codename": "dra"
+      "codename": "dra",
+      "smashgg_name": "Sergei Dragunov"
     },
     "Shaheen": {
-      "codename": "sha"
+      "codename": "sha",
+      "smashgg_name": "Shaheen"
     },
     "Steve Fox": {
-      "codename": "ste"
+      "codename": "ste",
+      "smashgg_name": "Steve Fox"
     },
     "Yoshimitsu": {
-      "codename": "yos"
+      "codename": "yos",
+      "smashgg_name": "Yoshimitsu"
     },
     "Zafina": {
-      "codename": "zaf"
+      "codename": "zaf",
+      "smashgg_name": "Zafina"
     },
     "Lee Chaolan": {
-      "codename": "lee"
+      "codename": "lee",
+      "smashgg_name": "Lee Chaolan"
     },
     "Alisa Bosconovitch": {
-      "codename": "ali"
+      "codename": "ali",
+      "smashgg_name": "Alisa Bosconovitch"
     },
     "Devil Jin": {
-      "codename": "dvj"
+      "codename": "dvj",
+      "smashgg_name": "Devil Jin"
     },
     "Victor Chevalier": {
-      "codename": "vic"
+      "codename": "vic",
+      "smashgg_name": "Victor Chevalier"
     },
     "Reina": {
-      "codename": "rei"
+      "codename": "rei",
+      "smashgg_name": "Reina"
     },
     "Eddy Gordo": {
-      "codename": "edd"
+      "codename": "edd",
+      "smashgg_name": "Eddy"
     },
     "Lidia Sobieska": {
-      "codename": "nsd"
+      "codename": "nsd",
+      "smashgg_name": "Lidia Sobieska"
     },
     "Heihachi Mishima": {
-      "codename": "hei"
+      "codename": "hei",
+      "smashgg_name": "Heihachi"
     }
   },
   "credits": "Icons ripped from the game",
@@ -115,5 +150,5 @@
   "name": "Tekken 8",
   "smashgg_game_id": 49783,
   "stage_to_codename": {},
-  "version": "1.4"
+  "version": "1.41"
 }

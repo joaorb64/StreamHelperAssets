@@ -2,7 +2,8 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Random": {
-      "codename": "random"
+      "codename": "random",
+      "smashgg_name": "Random"
     },
     "Asuka Kazama": {
       "codename": "asu",
@@ -150,5 +151,5 @@
   "name": "Tekken 8",
   "smashgg_game_id": 49783,
   "stage_to_codename": {},
-  "version": "1.41"
+  "version": "1.42"
 }

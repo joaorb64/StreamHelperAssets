@@ -65,7 +65,7 @@
     },
     "Akuma": {
       "codename": "Akuma",
-      "smashgg_name": "Akuma"
+      "smashgg_name": "Gouki"
     },
     "Q": {
       "codename": "Q",
@@ -85,7 +85,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "1.05",
+  "version": "1.06",
   "description": "Base config to use this game.",
   "credits": "@MathiasWolfbrok for cropping",
   "locale": {

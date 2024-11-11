@@ -4,71 +4,92 @@
   "challonge_game_id": 186168,
   "character_to_codename": {
     "Hyde": {
-      "codename": "Hyde"
+      "codename": "Hyde",
+      "smashgg_name": "Hyde"
     },
     "Linne": {
-      "codename": "Linne"
+      "codename": "Linne",
+      "smashgg_name": "Linne"
     },
     "Waldstein": {
-      "codename": "Waldstein"
+      "codename": "Waldstein",
+      "smashgg_name": "Waldstein"
     },
     "Carmine": {
-      "codename": "Carmine"
+      "codename": "Carmine",
+      "smashgg_name": "Carmine"
     },
     "Orie": {
-      "codename": "Orie"
+      "codename": "Orie",
+      "smashgg_name": "Orie"
     },
     "Gordeau": {
-      "codename": "Gordeau"
+      "codename": "Gordeau",
+      "smashgg_name": "Gordeau"
     },
     "Merkava": {
-      "codename": "Merkava"
+      "codename": "Merkava",
+      "smashgg_name": "Merkava"
     },
     "Vatista": {
-      "codename": "Vatista"
+      "codename": "Vatista",
+      "smashgg_name": "Vatista"
     },
     "Seth": {
-      "codename": "Seth"
+      "codename": "Seth",
+      "smashgg_name": "Seth"
     },
     "Yuzuriha": {
-      "codename": "Yuzuriha"
+      "codename": "Yuzuriha",
+      "smashgg_name": "Yuzuriha"
     },
     "Hilda": {
-      "codename": "Hilda"
+      "codename": "Hilda",
+      "smashgg_name": "Hilda"
     },
     "Chaos": {
-      "codename": "Chaos"
+      "codename": "Chaos",
+      "smashgg_name": "Chaos"
     },
     "Nanase": {
-      "codename": "Nanase"
+      "codename": "Nanase",
+      "smashgg_name": "Nanase"
     },
     "Byakuya": {
-      "codename": "Byakuya"
+      "codename": "Byakuya",
+      "smashgg_name": "Byakuya"
     },
     "Phonon": {
-      "codename": "Phonon"
+      "codename": "Phonon",
+      "smashgg_name": "Phonon"
     },
     "Mika": {
-      "codename": "Mika"
+      "codename": "Mika",
+      "smashgg_name": "Mika"
     },
     "Wagner": {
-      "codename": "Wagner"
+      "codename": "Wagner",
+      "smashgg_name": "Wagner"
     },
     "Enkidu": {
-      "codename": "Enkidu"
+      "codename": "Enkidu",
+      "smashgg_name": "Enkidu"
     },
     "Londrekia": {
-      "codename": "Londrekia"
+      "codename": "Londrekia",
+      "smashgg_name": "Londrekia"
     },
     "Eltnum": {
-      "codename": "Eltnum"
+      "codename": "Eltnum",
+      "smashgg_name": "Sion Eltnum"
     },
     "Akatsuki": {
-      "codename": "Akatsuki"
+      "codename": "Akatsuki",
+      "smashgg_name": "Akatsuki"
     }
   },
   "stage_to_codename": {},
-  "version": "1.02",
+  "version": "1.03",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Under_Night_In-Birth/UNICLR)"
 }

@@ -499,9 +499,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Street Fighter III Third Strike: Fight for the Future
-- Character [Akuma]: Character name [Akuma] doesn't exist in StartGG
-- Character [Gouki] not assigned in TSH!
-### Coverage: (19/20)
+### Coverage: (20/20)
 
 ## Street Fighter 6
 - Character [Mai]: Character name [Mai] doesn't exist in StartGG

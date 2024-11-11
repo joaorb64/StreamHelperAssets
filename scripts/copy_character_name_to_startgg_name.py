@@ -1,7 +1,7 @@
 import json
 
 base_dir = './games/'
-game = "mk1"
+game = "mkxl"
 
 with open(f"{base_dir}{game}/base_files/config.json", "rt", encoding="utf-8") as config_file:
     config_json = json.loads(config_file.read())

@@ -235,29 +235,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Melty Blood: Type Lumina
-- Character [Akiha Tohno] not assigned in TSH!
-- Character [Aoko Aozaki] not assigned in TSH!
-- Character [Arcueid Brunestud] not assigned in TSH!
-- Character [Ciel] not assigned in TSH!
-- Character [Dead Apostle Noel] not assigned in TSH!
-- Character [Hisui & Kohaku] not assigned in TSH!
-- Character [Hisui] not assigned in TSH!
-- Character [Kohaku] not assigned in TSH!
-- Character [Kouma Kishima] not assigned in TSH!
-- Character [Mario Gallo Bestino] not assigned in TSH!
-- Character [Mash Kyrielight] not assigned in TSH!
-- Character [Michael Roa Valdamjong] not assigned in TSH!
-- Character [Miyako Arima] not assigned in TSH!
+- Character [Neco-Arc]: Character name [Neco-Arc] doesn't exist in StartGG
 - Character [Neco Arc] not assigned in TSH!
-- Character [Noel] not assigned in TSH!
-- Character [Powered Ciel] not assigned in TSH!
-- Character [Red Arcueid] not assigned in TSH!
-- Character [Saber] not assigned in TSH!
-- Character [Shiki Tohno] not assigned in TSH!
-- Character [The Count of Monte Cristo] not assigned in TSH!
-- Character [Ushiwakamaru] not assigned in TSH!
-- Character [Vlov Arkhangel] not assigned in TSH!
-### Coverage: (0/22)
+### Coverage: (21/22)
 
 ## Martial Champion
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -269,79 +249,16 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Mortal Kombat 1
-- Character [Ashrah] not assigned in TSH!
-- Character [Baraka] not assigned in TSH!
-- Character [General Shao] not assigned in TSH!
-- Character [Geras] not assigned in TSH!
-- Character [Havik] not assigned in TSH!
-- Character [Johnny Cage] not assigned in TSH!
-- Character [Kenshi] not assigned in TSH!
-- Character [Kitana] not assigned in TSH!
-- Character [Kung Lao] not assigned in TSH!
-- Character [Li Mei] not assigned in TSH!
-- Character [Liu Kang] not assigned in TSH!
-- Character [Mileena] not assigned in TSH!
-- Character [Nitara] not assigned in TSH!
-- Character [Raiden] not assigned in TSH!
-- Character [Rain] not assigned in TSH!
-- Character [Reiko] not assigned in TSH!
-- Character [Reptile] not assigned in TSH!
-- Character [Scorpion] not assigned in TSH!
-- Character [Shang Tsung] not assigned in TSH!
-- Character [Sindel] not assigned in TSH!
-- Character [Smoke] not assigned in TSH!
-- Character [Sub-Zero] not assigned in TSH!
-- Character [Tanya] not assigned in TSH!
-- Character [Quan Chi] not assigned in TSH!
-- Character [Omni-Man] not assigned in TSH!
-- Character [Peacemaker] not assigned in TSH!
-- Character [Ermac] not assigned in TSH!
-- Character [Homelander] not assigned in TSH!
-- Character [Takeda] not assigned in TSH!
-- Character [Cyrax] not assigned in TSH!
-- Character [Sektor] not assigned in TSH!
-- Character [Noob Saibot] not assigned in TSH!
-### Coverage: (0/32)
+- Character [Ghostface]: Character name [Ghostface] doesn't exist in StartGG
+- Character [Conan the Barbarian]: Character name [Conan the Barbarian] doesn't exist in StartGG
+- Character [T-1000]: Character name [T-1000] doesn't exist in StartGG
+### Coverage: (32/32)
 
 ## Mortal Kombat 11
-- Character [Jade] not assigned in TSH!
-- Character [Baraka] not assigned in TSH!
-- Character [Cassie Cage] not assigned in TSH!
-- Character [D'Vorah] not assigned in TSH!
-- Character [Erron Black] not assigned in TSH!
-- Character [Geras] not assigned in TSH!
-- Character [Jacqui Briggs] not assigned in TSH!
-- Character [Jax Briggs] not assigned in TSH!
-- Character [Johnny Cage] not assigned in TSH!
-- Character [Kabal] not assigned in TSH!
-- Character [Kano] not assigned in TSH!
-- Character [Kotal Kahn] not assigned in TSH!
-- Character [Kung Lao] not assigned in TSH!
-- Character [Liu Kang] not assigned in TSH!
-- Character [Noob Saibot] not assigned in TSH!
-- Character [Raiden] not assigned in TSH!
-- Character [Scorpion] not assigned in TSH!
-- Character [Shao Kahn] not assigned in TSH!
-- Character [Skarlet] not assigned in TSH!
-- Character [Sonya Blade] not assigned in TSH!
+- Character [Sub-Zero]: Character name [Sub-Zero] doesn't exist in StartGG
+- Character [Kronika]: Character name [Kronika] doesn't exist in StartGG
 - Character [Sub Zero] not assigned in TSH!
-- Character [Cetrion] not assigned in TSH!
-- Character [Kitana] not assigned in TSH!
-- Character [Kollector] not assigned in TSH!
-- Character [Frost] not assigned in TSH!
-- Character [Shang Tsung] not assigned in TSH!
-- Character [Nightwolf] not assigned in TSH!
-- Character [Joker] not assigned in TSH!
-- Character [Sindel] not assigned in TSH!
-- Character [Spawn] not assigned in TSH!
-- Character [Terminator] not assigned in TSH!
-- Character [RoboCop] not assigned in TSH!
-- Character [Rambo] not assigned in TSH!
-- Character [Rain] not assigned in TSH!
-- Character [Mileena] not assigned in TSH!
-- Character [Fujin] not assigned in TSH!
-- Character [Sheeva] not assigned in TSH!
-### Coverage: (0/37)
+### Coverage: (36/37)
 
 ## Mario Kart 64
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -353,40 +270,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Mortal Kombat XL
-- Character [Alien] not assigned in TSH!
-- Character [Bo' Rai Cho] not assigned in TSH!
-- Character [Cassie Cage] not assigned in TSH!
-- Character [D'Vorah] not assigned in TSH!
-- Character [Ermac] not assigned in TSH!
-- Character [Erron Black] not assigned in TSH!
-- Character [Ferra/Torr] not assigned in TSH!
-- Character [Goro] not assigned in TSH!
-- Character [Jacqui Briggs] not assigned in TSH!
-- Character [Jason Voorhees] not assigned in TSH!
-- Character [Jax] not assigned in TSH!
-- Character [Johnny Cage] not assigned in TSH!
-- Character [Kano] not assigned in TSH!
-- Character [Kenshi] not assigned in TSH!
-- Character [Kitana] not assigned in TSH!
-- Character [Kotal Kahn] not assigned in TSH!
-- Character [Kung Jin] not assigned in TSH!
-- Character [Kung Lao] not assigned in TSH!
-- Character [Leatherface] not assigned in TSH!
-- Character [Liu Kang] not assigned in TSH!
-- Character [Mileena] not assigned in TSH!
-- Character [Predator] not assigned in TSH!
-- Character [Quan Chi] not assigned in TSH!
-- Character [Raiden] not assigned in TSH!
-- Character [Reptile] not assigned in TSH!
-- Character [Scorpion] not assigned in TSH!
-- Character [Shinnok] not assigned in TSH!
-- Character [Sonya Blade] not assigned in TSH!
-- Character [Sub-Zero] not assigned in TSH!
-- Character [Takeda] not assigned in TSH!
-- Character [Tanya] not assigned in TSH!
-- Character [Tremor] not assigned in TSH!
-- Character [Triborg] not assigned in TSH!
-### Coverage: (0/33)
+### Coverage: (33/33)
 
 ## Mario Superstar Baseball
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -442,20 +326,15 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Omega Strikers
-- Character [AiMi] not assigned in TSH!
-- Character [Asher] not assigned in TSH!
-- Character [Atlas] not assigned in TSH!
-- Character [Drekar] not assigned in TSH!
-- Character [Dubu] not assigned in TSH!
-- Character [Era] not assigned in TSH!
-- Character [Estelle] not assigned in TSH!
-- Character [Juliette] not assigned in TSH!
-- Character [Juno] not assigned in TSH!
-- Character [Kai] not assigned in TSH!
-- Character [Luna] not assigned in TSH!
-- Character [X] not assigned in TSH!
-- Character [Rune] not assigned in TSH!
-### Coverage: (0/13)
+- Character [Finii]: Character name [Finii] doesn't exist in StartGG
+- Character [Kazan]: Character name [Kazan] doesn't exist in StartGG
+- Character [Mako]: Character name [Mako] doesn't exist in StartGG
+- Character [Nao]: Character name [Nao] doesn't exist in StartGG
+- Character [Octavia]: Character name [Octavia] doesn't exist in StartGG
+- Character [Rasmus]: Character name [Rasmus] doesn't exist in StartGG
+- Character [Vyce]: Character name [Vyce] doesn't exist in StartGG
+- Character [Zentaro]: Character name [Zentaro] doesn't exist in StartGG
+### Coverage: (13/13)
 
 ## The Outfoxies
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -513,32 +392,49 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Pokémon Unite
-- Character [Gardevoir] not assigned in TSH!
-- Character [Absol] not assigned in TSH!
-- Character [Alolan Ninetales] not assigned in TSH!
-- Character [Charizard] not assigned in TSH!
-- Character [Cinderace] not assigned in TSH!
-- Character [Cramorant] not assigned in TSH!
-- Character [Crustle] not assigned in TSH!
-- Character [Eldegoss] not assigned in TSH!
-- Character [Garchomp] not assigned in TSH!
-- Character [Gengar] not assigned in TSH!
-- Character [Greninja] not assigned in TSH!
-- Character [Lucario] not assigned in TSH!
-- Character [Machamp] not assigned in TSH!
-- Character [Mr. Mime] not assigned in TSH!
-- Character [Pikachu] not assigned in TSH!
-- Character [Slowbro] not assigned in TSH!
-- Character [Snorlax] not assigned in TSH!
-- Character [Talonflame] not assigned in TSH!
-- Character [Venusaur] not assigned in TSH!
-- Character [Wigglytuff] not assigned in TSH!
-- Character [Zeraora] not assigned in TSH!
-- Character [Sylveon] not assigned in TSH!
-- Character [Blissey] not assigned in TSH!
-- Character [Blastoise] not assigned in TSH!
-- Character [Mamoswine] not assigned in TSH!
-### Coverage: (0/25)
+- Character [Clefable]: Character name [Clefable] doesn't exist in StartGG
+- Character [Dodrio]: Character name [Dodrio] doesn't exist in StartGG
+- Character [Lapras]: Character name [Lapras] doesn't exist in StartGG
+- Character [Dragonite]: Character name [Dragonite] doesn't exist in StartGG
+- Character [Mew]: Character name [Mew] doesn't exist in StartGG
+- Character [Azumarill]: Character name [Azumarill] doesn't exist in StartGG
+- Character [Espeon]: Character name [Espeon] doesn't exist in StartGG
+- Character [Umbreon]: Character name [Umbreon] doesn't exist in StartGG
+- Character [Scizor]: Character name [Scizor] doesn't exist in StartGG
+- Character [Tyranitar]: Character name [Tyranitar] doesn't exist in StartGG
+- Character [Sableye]: Character name [Sableye] doesn't exist in StartGG
+- Character [Glaceon]: Character name [Glaceon] doesn't exist in StartGG
+- Character [Chandelure]: Character name [Chandelure] doesn't exist in StartGG
+- Character [Zoroark]: Character name [Zoroark] doesn't exist in StartGG
+- Character [Delphox]: Character name [Delphox] doesn't exist in StartGG
+- Character [Aegislash]: Character name [Aegislash] doesn't exist in StartGG
+- Character [Goodra]: Character name [Goodra] doesn't exist in StartGG
+- Character [Trevenant]: Character name [Trevenant] doesn't exist in StartGG
+- Character [Hoopa]: Character name [Hoopa] doesn't exist in StartGG
+- Character [Decidueye]: Character name [Decidueye] doesn't exist in StartGG
+- Character [Tsareena]: Character name [Tsareena] doesn't exist in StartGG
+- Character [Comfey]: Character name [Comfey] doesn't exist in StartGG
+- Character [Buzzwole]: Character name [Buzzwole] doesn't exist in StartGG
+- Character [Greedent]: Character name [Greedent] doesn't exist in StartGG
+- Character [Duraludon]: Character name [Duraludon] doesn't exist in StartGG
+- Character [Dragapult]: Character name [Dragapult] doesn't exist in StartGG
+- Character [Zacian]: Character name [Zacian] doesn't exist in StartGG
+- Character [Urshifu]: Character name [Urshifu] doesn't exist in StartGG
+- Character [Leafeon]: Character name [Leafeon] doesn't exist in StartGG
+- Character [Inteleon]: Character name [Inteleon] doesn't exist in StartGG
+- Character [Mewtwo]: Character name [Mewtwo] doesn't exist in StartGG
+- Character [Blaziken]: Character name [Blaziken] doesn't exist in StartGG
+- Character [Mimikyu]: Character name [Mimikyu] doesn't exist in StartGG
+- Character [Meowscarada]: Character name [Meowscarada] doesn't exist in StartGG
+- Character [Gyarados]: Character name [Gyarados] doesn't exist in StartGG
+- Character [Metagross]: Character name [Metagross] doesn't exist in StartGG
+- Character [Miraidon]: Character name [Miraidon] doesn't exist in StartGG
+- Character [Falinks]: Character name [Falinks] doesn't exist in StartGG
+- Character [Ceruledge]: Character name [Ceruledge] doesn't exist in StartGG
+- Character [Ho-Oh]: Character name [Ho-Oh] doesn't exist in StartGG
+- Character [Armarouge]: Character name [Armarouge] doesn't exist in StartGG
+- Character [Darkrai]: Character name [Darkrai] doesn't exist in StartGG
+### Coverage: (25/25)
 
 ## Rabbit
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -570,19 +466,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (10/10)
 
 ## Rushdown Revolt
-- Character [Afi & Galu] not assigned in TSH!
-- Character [Ashani] not assigned in TSH!
-- Character [Ezzie] not assigned in TSH!
-- Character [Kidd] not assigned in TSH!
-- Character [Raymer] not assigned in TSH!
-- Character [Weishan] not assigned in TSH!
-- Character [Urdah] not assigned in TSH!
-- Character [Zhurong] not assigned in TSH!
-- Character [Seth] not assigned in TSH!
-- Character [Velora] not assigned in TSH!
-- Character [Reina] not assigned in TSH!
-- Character [The Torment] not assigned in TSH!
-### Coverage: (0/12)
+### Coverage: (12/12)
 
 ## Rival Schools: United by Fate
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -615,27 +499,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Street Fighter III Third Strike: Fight for the Future
-- Character [Alex] not assigned in TSH!
-- Character [Chun-li] not assigned in TSH!
-- Character [Dudley] not assigned in TSH!
-- Character [Elena] not assigned in TSH!
-- Character [Gill] not assigned in TSH!
+- Character [Akuma]: Character name [Akuma] doesn't exist in StartGG
 - Character [Gouki] not assigned in TSH!
-- Character [Hugo] not assigned in TSH!
-- Character [Ibuki] not assigned in TSH!
-- Character [Ken] not assigned in TSH!
-- Character [Makoto] not assigned in TSH!
-- Character [Necro] not assigned in TSH!
-- Character [Oro] not assigned in TSH!
-- Character [Q] not assigned in TSH!
-- Character [Remy] not assigned in TSH!
-- Character [Ryu] not assigned in TSH!
-- Character [Sean] not assigned in TSH!
-- Character [Twelve] not assigned in TSH!
-- Character [Urien] not assigned in TSH!
-- Character [Yang] not assigned in TSH!
-- Character [Yun] not assigned in TSH!
-### Coverage: (0/20)
+### Coverage: (19/20)
 
 ## Street Fighter 6
 - Character [Mai]: Character name [Mai] doesn't exist in StartGG
@@ -667,34 +533,15 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Skullgirls: 2nd Encore+
-- Character [Beowulf] not assigned in TSH!
-- Character [Big Band] not assigned in TSH!
-- Character [Cerebella] not assigned in TSH!
-- Character [Double] not assigned in TSH!
-- Character [Eliza] not assigned in TSH!
-- Character [Filia] not assigned in TSH!
-- Character [Peacock] not assigned in TSH!
-- Character [Parasoul] not assigned in TSH!
-- Character [Ms. Fortune] not assigned in TSH!
-- Character [Painwheel] not assigned in TSH!
-- Character [Valentine] not assigned in TSH!
-- Character [Squigly] not assigned in TSH!
-- Character [Robo-Fortune] not assigned in TSH!
-### Coverage: (0/13)
+- Character [Fukua]: Character name [Fukua] doesn't exist in StartGG
+- Character [Annie]: Character name [Annie] doesn't exist in StartGG
+- Character [Umbrella]: Character name [Umbrella] doesn't exist in StartGG
+- Character [Black Dahlia]: Character name [Black Dahlia] doesn't exist in StartGG
+- Character [Marie]: Character name [Marie] doesn't exist in StartGG
+### Coverage: (13/13)
 
 ## Slap City
-- Character [Ultra Fishbunjin] not assigned in TSH!
-- Character [Ittle Dew] not assigned in TSH!
-- Character [Business Casual Man] not assigned in TSH!
-- Character [Jenny Fox] not assigned in TSH!
-- Character [Princess Remedy] not assigned in TSH!
-- Character [Masked Ruby] not assigned in TSH!
-- Character [Goddess of Explosions] not assigned in TSH!
-- Character [Asha] not assigned in TSH!
-- Character [Frallan] not assigned in TSH!
-- Character [Orka] not assigned in TSH!
-- Character [Cruiser Tetron] not assigned in TSH!
-### Coverage: (0/11)
+### Coverage: (11/11)
 
 ## Super Mario Strikers
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -703,17 +550,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Sonic the Fighters
-- Character [Sonic] not assigned in TSH!
-- Character [Tails] not assigned in TSH!
-- Character [Knuckles] not assigned in TSH!
-- Character [Amy] not assigned in TSH!
-- Character [Espio] not assigned in TSH!
-- Character [Fang] not assigned in TSH!
-- Character [Bark] not assigned in TSH!
-- Character [Bean] not assigned in TSH!
-- Character [Honey] not assigned in TSH!
-- Character [Dr. Eggman] not assigned in TSH!
-### Coverage: (0/10)
+- Character [Metal Sonic]: Character name [Metal Sonic] doesn't exist in StartGG
+### Coverage: (10/10)
 
 ## Super Puzzle Fighter II Turbo
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -793,43 +631,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Alisa Bosconovitch] not assigned in TSH!
-- Character [Asuka Kazama] not assigned in TSH!
-- Character [Azucena Ortiz] not assigned in TSH!
-- Character [Bryan Fury] not assigned in TSH!
-- Character [Claudio Serafino] not assigned in TSH!
-- Character [Devil Jin] not assigned in TSH!
-- Character [Feng Wei] not assigned in TSH!
-- Character [Hwoarang] not assigned in TSH!
-- Character [Jack-8] not assigned in TSH!
-- Character [Jin Kazama] not assigned in TSH!
-- Character [Jun Kazama] not assigned in TSH!
-- Character [Kazuya Mishima] not assigned in TSH!
-- Character [King] not assigned in TSH!
-- Character [Kuma] not assigned in TSH!
-- Character [Lars Alexandersson] not assigned in TSH!
-- Character [Lee Chaolan] not assigned in TSH!
-- Character [Leo Kliesen] not assigned in TSH!
-- Character [Leroy Smith] not assigned in TSH!
-- Character [Lili de Rochefort] not assigned in TSH!
-- Character [Ling Xiaoyu] not assigned in TSH!
-- Character [Marshall Law] not assigned in TSH!
-- Character [Nina Williams] not assigned in TSH!
-- Character [Panda] not assigned in TSH!
-- Character [Paul Phoenix] not assigned in TSH!
 - Character [Random] not assigned in TSH!
-- Character [Raven] not assigned in TSH!
-- Character [Reina] not assigned in TSH!
-- Character [Sergei Dragunov] not assigned in TSH!
-- Character [Shaheen] not assigned in TSH!
-- Character [Steve Fox] not assigned in TSH!
-- Character [Victor Chevalier] not assigned in TSH!
-- Character [Yoshimitsu] not assigned in TSH!
-- Character [Zafina] not assigned in TSH!
-- Character [Eddy] not assigned in TSH!
-- Character [Lidia Sobieska] not assigned in TSH!
-- Character [Heihachi] not assigned in TSH!
-### Coverage: (0/36)
+### Coverage: (35/36)
 
 ## Them's Fightin' Herds
 - Character [Texas]: Character name [Texas] doesn't exist in StartGG
@@ -872,28 +675,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Under Night In-Birth Exe:Late[cl-r]
-- Character [Akatsuki] not assigned in TSH!
-- Character [Byakuya] not assigned in TSH!
-- Character [Carmine] not assigned in TSH!
-- Character [Chaos] not assigned in TSH!
-- Character [Sion Eltnum] not assigned in TSH!
-- Character [Enkidu] not assigned in TSH!
-- Character [Gordeau] not assigned in TSH!
-- Character [Hilda] not assigned in TSH!
-- Character [Hyde] not assigned in TSH!
-- Character [Linne] not assigned in TSH!
-- Character [Londrekia] not assigned in TSH!
-- Character [Merkava] not assigned in TSH!
-- Character [Mika] not assigned in TSH!
-- Character [Nanase] not assigned in TSH!
-- Character [Orie] not assigned in TSH!
-- Character [Phonon] not assigned in TSH!
-- Character [Seth] not assigned in TSH!
-- Character [Vatista] not assigned in TSH!
-- Character [Wagner] not assigned in TSH!
-- Character [Waldstein] not assigned in TSH!
-- Character [Yuzuriha] not assigned in TSH!
-### Coverage: (0/21)
+### Coverage: (21/21)
 
 
 ## Ultra Street Fighter IV

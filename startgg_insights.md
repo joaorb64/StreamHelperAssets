@@ -235,9 +235,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Melty Blood: Type Lumina
-- Character [Neco-Arc]: Character name [Neco-Arc] doesn't exist in StartGG
-- Character [Neco Arc] not assigned in TSH!
-### Coverage: (21/22)
+### Coverage: (22/22)
 
 ## Martial Champion
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -252,13 +250,12 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Ghostface]: Character name [Ghostface] doesn't exist in StartGG
 - Character [Conan the Barbarian]: Character name [Conan the Barbarian] doesn't exist in StartGG
 - Character [T-1000]: Character name [T-1000] doesn't exist in StartGG
-### Coverage: (32/32)
+- Character [Random] not assigned in TSH!
+### Coverage: (32/33)
 
 ## Mortal Kombat 11
-- Character [Sub-Zero]: Character name [Sub-Zero] doesn't exist in StartGG
 - Character [Kronika]: Character name [Kronika] doesn't exist in StartGG
-- Character [Sub Zero] not assigned in TSH!
-### Coverage: (36/37)
+### Coverage: (37/37)
 
 ## Mario Kart 64
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -504,7 +501,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Street Fighter 6
 - Character [Mai]: Character name [Mai] doesn't exist in StartGG
 - Character [Elena]: Character name [Elena] doesn't exist in StartGG
-### Coverage: (24/24)
+- Character [Random] not assigned in TSH!
+### Coverage: (24/25)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -629,8 +627,51 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Random] not assigned in TSH!
-### Coverage: (35/36)
+- Character [Asuka Kazama]: Character name [Asuka Kazama] doesn't exist in StartGG
+- Character [Azucena Milagros Ortiz Castillo]: Character name [Azucena Ortiz] doesn't exist in StartGG
+- Character [Bryan Fury]: Character name [Bryan Fury] doesn't exist in StartGG
+- Character [Claudio Serafino]: Character name [Claudio Serafino] doesn't exist in StartGG
+- Character [Emilie "Lili" de Rochefort]: Character name [Lili de Rochefort] doesn't exist in StartGG
+- Character [Feng Wei]: Character name [Feng Wei] doesn't exist in StartGG
+- Character [Jin Kazama]: Character name [Jin Kazama] doesn't exist in StartGG
+- Character [Jun Kazama]: Character name [Jun Kazama] doesn't exist in StartGG
+- Character [Kazuya Mishima]: Character name [Kazuya Mishima] doesn't exist in StartGG
+- Character [Lars Alexandersson]: Character name [Lars Alexandersson] doesn't exist in StartGG
+- Character [Leo Kliesen]: Character name [Leo Kliesen] doesn't exist in StartGG
+- Character [Leroy Smith]: Character name [Leroy Smith] doesn't exist in StartGG
+- Character [Ling Xiaoyu]: Character name [Ling Xiaoyu] doesn't exist in StartGG
+- Character [Marshall Law]: Character name [Marshall Law] doesn't exist in StartGG
+- Character [Nina Williams]: Character name [Nina Williams] doesn't exist in StartGG
+- Character [Paul Phoenix]: Character name [Paul Phoenix] doesn't exist in StartGG
+- Character [Sergei Dragunov]: Character name [Sergei Dragunov] doesn't exist in StartGG
+- Character [Steve Fox]: Character name [Steve Fox] doesn't exist in StartGG
+- Character [Lee Chaolan]: Character name [Lee Chaolan] doesn't exist in StartGG
+- Character [Alisa Bosconovitch]: Character name [Alisa Bosconovitch] doesn't exist in StartGG
+- Character [Victor Chevalier]: Character name [Victor Chevalier] doesn't exist in StartGG
+- Character [Lidia Sobieska]: Character name [Lidia Sobieska] doesn't exist in StartGG
+- Character [Alisa] not assigned in TSH!
+- Character [Asuka] not assigned in TSH!
+- Character [Azucena] not assigned in TSH!
+- Character [Bryan] not assigned in TSH!
+- Character [Claudio] not assigned in TSH!
+- Character [Feng] not assigned in TSH!
+- Character [Jin] not assigned in TSH!
+- Character [Jun] not assigned in TSH!
+- Character [Kazuya] not assigned in TSH!
+- Character [Lars] not assigned in TSH!
+- Character [Lee] not assigned in TSH!
+- Character [Leo] not assigned in TSH!
+- Character [Leroy] not assigned in TSH!
+- Character [Lili] not assigned in TSH!
+- Character [Xiaoyu] not assigned in TSH!
+- Character [Law] not assigned in TSH!
+- Character [Nina] not assigned in TSH!
+- Character [Paul] not assigned in TSH!
+- Character [Dragunov] not assigned in TSH!
+- Character [Steve] not assigned in TSH!
+- Character [Victor] not assigned in TSH!
+- Character [Lidia] not assigned in TSH!
+### Coverage: (14/36)
 
 ## Them's Fightin' Herds
 - Character [Texas]: Character name [Texas] doesn't exist in StartGG

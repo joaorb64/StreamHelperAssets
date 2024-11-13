@@ -286,6 +286,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG
+- Character [Raven]: Character name [Raven] doesn't exist in StartGG
 ### Coverage: (30/30)
 
 ## Marvel vs. Capcom: Clash of Super Heroes
@@ -323,15 +324,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Omega Strikers
-- Character [Finii]: Character name [Finii] doesn't exist in StartGG
-- Character [Kazan]: Character name [Kazan] doesn't exist in StartGG
-- Character [Mako]: Character name [Mako] doesn't exist in StartGG
-- Character [Nao]: Character name [Nao] doesn't exist in StartGG
-- Character [Octavia]: Character name [Octavia] doesn't exist in StartGG
-- Character [Rasmus]: Character name [Rasmus] doesn't exist in StartGG
-- Character [Vyce]: Character name [Vyce] doesn't exist in StartGG
-- Character [Zentaro]: Character name [Zentaro] doesn't exist in StartGG
-### Coverage: (13/13)
+### Coverage: (21/21)
 
 ## The Outfoxies
 Game has no characters in startgg...? Or do we have a wrong game id?

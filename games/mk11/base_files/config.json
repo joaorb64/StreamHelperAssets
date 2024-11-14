@@ -2,118 +2,156 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Baraka": {
-      "codename": "15"
+      "codename": "15",
+      "smashgg_name": "Baraka"
     },
     "Cassie Cage": {
-      "codename": "10"
+      "codename": "10",
+      "smashgg_name": "Cassie Cage"
     },
     "Cetrion": {
-      "codename": "38"
+      "codename": "38",
+      "smashgg_name": "Cetrion"
     },
     "D'Vorah": {
-      "codename": "28"
+      "codename": "28",
+      "smashgg_name": "D'Vorah"
     },
     "Erron Black": {
-      "codename": "27"
+      "codename": "27",
+      "smashgg_name": "Erron Black"
     },
     "Frost": {
-      "codename": "04"
+      "codename": "04",
+      "smashgg_name": "Frost"
     },
     "Fujin": {
-      "codename": "39"
+      "codename": "39",
+      "smashgg_name": "Fujin"
     },
     "Geras": {
-      "codename": "33"
+      "codename": "33",
+      "smashgg_name": "Geras"
     },
     "Jacqui Briggs": {
-      "codename": "17"
+      "codename": "17",
+      "smashgg_name": "Jacqui Briggs"
     },
     "Jade": {
-      "codename": "24"
+      "codename": "24",
+      "smashgg_name": "Jade"
     },
-    "Jax Briggs": {
-      "codename": "11"
+    "Jackson \"Jax\" Briggs": {
+      "codename": "11",
+      "smashgg_name": "Jax Briggs"
     },
     "John Rambo": {
-      "codename": "31"
+      "codename": "31",
+      "smashgg_name": "Rambo"
     },
     "Johnny Cage": {
-      "codename": "08"
+      "codename": "08",
+      "smashgg_name": "Johnny Cage"
     },
     "Kabal": {
-      "codename": "20"
+      "codename": "20",
+      "smashgg_name": "Kabal"
     },
     "Kano": {
-      "codename": "19"
+      "codename": "19",
+      "smashgg_name": "Kano"
     },
     "Kitana": {
-      "codename": "22"
+      "codename": "22",
+      "smashgg_name": "Kitana"
     },
     "Kollector": {
-      "codename": "34"
+      "codename": "34",
+      "smashgg_name": "Kollector"
     },
     "Kotal Kahn": {
-      "codename": "29"
+      "codename": "29",
+      "smashgg_name": "Kotal Kahn"
     },
     "Kung Lao": {
-      "codename": "23"
+      "codename": "23",
+      "smashgg_name": "Kung Lao"
     },
     "Liu Kang": {
-      "codename": "21"
+      "codename": "21",
+      "smashgg_name": "Liu Kang"
     },
     "Mileena": {
-      "codename": "36"
+      "codename": "36",
+      "smashgg_name": "Mileena"
     },
     "Nightwolf": {
-      "codename": "05"
+      "codename": "05",
+      "smashgg_name": "Nightwolf"
     },
     "Noob Saibot": {
-      "codename": "14"
+      "codename": "14",
+      "smashgg_name": "Noob Saibot"
     },
     "Raiden": {
-      "codename": "16"
+      "codename": "16",
+      "smashgg_name": "Raiden"
     },
     "Rain": {
-      "codename": "40"
+      "codename": "40",
+      "smashgg_name": "Rain"
     },
     "RoboCop": {
-      "codename": "25"
+      "codename": "25",
+      "smashgg_name": "RoboCop"
     },
     "Scorpion": {
-      "codename": "13"
+      "codename": "13",
+      "smashgg_name": "Scorpion"
     },
     "Shang Tsung": {
-      "codename": "02"
+      "codename": "02",
+      "smashgg_name": "Shang Tsung"
     },
     "Shao Kahn": {
-      "codename": "03"
+      "codename": "03",
+      "smashgg_name": "Shao Kahn"
     },
     "Sheeva": {
-      "codename": "30"
+      "codename": "30",
+      "smashgg_name": "Sheeva"
     },
     "Sindel": {
-      "codename": "35"
+      "codename": "35",
+      "smashgg_name": "Sindel"
     },
     "Skarlet": {
-      "codename": "26"
+      "codename": "26",
+      "smashgg_name": "Skarlet"
     },
     "Sonya Blade": {
-      "codename": "09"
+      "codename": "09",
+      "smashgg_name": "Sonya Blade"
     },
     "Spawn": {
-      "codename": "12"
+      "codename": "12",
+      "smashgg_name": "Spawn"
     },
     "Sub-Zero": {
-      "codename": "18"
+      "codename": "18",
+      "smashgg_name": "Sub Zero"
     },
     "The Joker": {
-      "codename": "07"
+      "codename": "07",
+      "smashgg_name": "Joker"
     },
     "The Terminator": {
-      "codename": "32"
+      "codename": "32",
+      "smashgg_name": "Terminator"
     },
     "Kronika": {
-      "codename": "41"
+      "codename": "41",
+      "smashgg_name": "Kronika"
     }
   },
   "credits": "",
@@ -121,5 +159,5 @@
   "name": "Mortal Kombat 11",
   "smashgg_game_id": 3200,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.02"
 }

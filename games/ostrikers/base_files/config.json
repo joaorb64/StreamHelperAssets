@@ -2,67 +2,88 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Ai.Mi": {
-      "codename": "Ai.Mi"
+      "codename": "Ai.Mi",
+      "smashgg_name": "AiMi"
     },
     "Asher": {
-      "codename": "Asher"
+      "codename": "Asher",
+      "smashgg_name": "Asher"
     },
     "Atlas": {
-      "codename": "Atlas"
+      "codename": "Atlas",
+      "smashgg_name": "Atlas"
     },
     "Drek'ar": {
-      "codename": "Drek_ar"
+      "codename": "Drek_ar",
+      "smashgg_name": "Drekar"
     },
     "Dubu": {
-      "codename": "Dubu"
+      "codename": "Dubu",
+      "smashgg_name": "Dubu"
     },
     "Era": {
-      "codename": "Era"
+      "codename": "Era",
+      "smashgg_name": "Era"
     },
     "Estelle": {
-      "codename": "Estelle"
+      "codename": "Estelle",
+      "smashgg_name": "Estelle"
     },
     "Finii": {
-      "codename": "Finii"
+      "codename": "Finii",
+      "smashgg_name": "Finii"
     },
     "Juliette": {
-      "codename": "Juliette"
+      "codename": "Juliette",
+      "smashgg_name": "Juliette"
     },
     "Juno": {
-      "codename": "Juno"
+      "codename": "Juno",
+      "smashgg_name": "Juno"
     },
     "Kai": {
-      "codename": "Kai"
+      "codename": "Kai",
+      "smashgg_name": "Kai"
     },
     "Kazan": {
-      "codename": "Kazan"
+      "codename": "Kazan",
+      "smashgg_name": "Kazan"
     },
     "Luna": {
-      "codename": "Luna"
+      "codename": "Luna",
+      "smashgg_name": "Luna"
     },
     "Mako": {
-      "codename": "Mako"
+      "codename": "Mako",
+      "smashgg_name": "Mako"
     },
     "Nao": {
-      "codename": "Nao"
+      "codename": "Nao",
+      "smashgg_name": "Nao"
     },
     "Octavia": {
-      "codename": "Octavia"
+      "codename": "Octavia",
+      "smashgg_name": "Octavia"
     },
     "Rasmus": {
-      "codename": "Rasmus"
+      "codename": "Rasmus",
+      "smashgg_name": "Rasmus"
     },
     "Rune": {
-      "codename": "Rune"
+      "codename": "Rune",
+      "smashgg_name": "Rune"
     },
     "Vyce": {
-      "codename": "Vyce"
+      "codename": "Vyce",
+      "smashgg_name": "Vyce"
     },
     "X": {
-      "codename": "X"
+      "codename": "X",
+      "smashgg_name": "X"
     },
     "Zentaro": {
-      "codename": "Zentaro"
+      "codename": "Zentaro",
+      "smashgg_name": "Zentaro"
     }
   },
   "credits": "",
@@ -70,5 +91,5 @@
   "name": "Omega Strikers",
   "smashgg_game_id": 45263,
   "stage_to_codename": {},
-  "version": "1.0"
+  "version": "1.01"
 }

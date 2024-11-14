@@ -4,74 +4,96 @@
   "challonge_game_id": 251352,
   "character_to_codename": {
     "Shiki Tohno": {
-      "codename": "ShikiTohno"
+      "codename": "ShikiTohno",
+      "smashgg_name": "Shiki Tohno"
     },
     "Arcueid Brunestud": {
-      "codename": "ArcueidBrunestud"
+      "codename": "ArcueidBrunestud",
+      "smashgg_name": "Arcueid Brunestud"
     },
     "Akiha Tohno": {
-      "codename": "AkihaTohno"
+      "codename": "AkihaTohno",
+      "smashgg_name": "Akiha Tohno"
     },
     "Ciel": {
-      "codename": "Ciel"
+      "codename": "Ciel",
+      "smashgg_name": "Ciel"
     },
     "Hisui": {
-      "codename": "Hisui"
+      "codename": "Hisui",
+      "smashgg_name": "Hisui"
     },
     "Kohaku": {
-      "codename": "Kohaku"
+      "codename": "Kohaku",
+      "smashgg_name": "Kohaku"
     },
     "Hisui & Kohaku": {
-      "codename": "HisuiKohaku"
+      "codename": "HisuiKohaku",
+      "smashgg_name": "Hisui & Kohaku"
     },
     "Miyako Arima": {
-      "codename": "MiyakoArima"
+      "codename": "MiyakoArima",
+      "smashgg_name": "Miyako Arima"
     },
     "Kouma Kishima": {
-      "codename": "KoumaKishima"
+      "codename": "KoumaKishima",
+      "smashgg_name": "Kouma Kishima"
     },
     "Noel": {
-      "codename": "Noel"
+      "codename": "Noel",
+      "smashgg_name": "Noel"
     },
     "Michael Roa Valdamjong": {
-      "codename": "MichaelRoaValdamjong"
+      "codename": "MichaelRoaValdamjong",
+      "smashgg_name": "Michael Roa Valdamjong"
     },
     "Vlov Arkhangel": {
-      "codename": "VlovArkhangel"
+      "codename": "VlovArkhangel",
+      "smashgg_name": "Vlov Arkhangel"
     },
     "Red Arcueid": {
-      "codename": "RedArcueid"
+      "codename": "RedArcueid",
+      "smashgg_name": "Red Arcueid"
     },
     "Saber": {
-      "codename": "Saber"
+      "codename": "Saber",
+      "smashgg_name": "Saber"
     },
     "Dead Apostle Noel": {
-      "codename": "DeadApostleNoel"
+      "codename": "DeadApostleNoel",
+      "smashgg_name": "Dead Apostle Noel"
     },
     "Aoko Aozaki": {
-      "codename": "AokoAozaki"
+      "codename": "AokoAozaki",
+      "smashgg_name": "Aoko Aozaki"
     },
     "Mario Gallo Bestino": {
-      "codename": "Mario"
+      "codename": "Mario",
+      "smashgg_name": "Mario Gallo Bestino"
     },
     "Powered Ciel": {
-      "codename": "PoweredCiel"
+      "codename": "PoweredCiel",
+      "smashgg_name": "Powered Ciel"
     },
     "Neco-Arc": {
-      "codename": "NecoArc"
+      "codename": "NecoArc",
+      "smashgg_name": "Neco Arc"
     },
     "Mash Kyrielight": {
-      "codename": "Mash"
+      "codename": "Mash",
+      "smashgg_name": "Mash Kyrielight"
     },
     "Ushiwakamaru": {
-      "codename": "Ushiwakamaru"
+      "codename": "Ushiwakamaru",
+      "smashgg_name": "Ushiwakamaru"
     },
     "The Count of Monte Cristo": {
-      "codename": "Count"
+      "codename": "Count",
+      "smashgg_name": "The Count of Monte Cristo"
     }
   },
   "stage_to_codename": {},
-  "version": "1.6",
+  "version": "1.62",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)",
   "locale": {

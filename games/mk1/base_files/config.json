@@ -2,22 +2,28 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Ashrah": {
-      "codename": "Ashrah"
+      "codename": "Ashrah",
+      "smashgg_name": "Ashrah"
     },
     "Baraka": {
-      "codename": "Baraka"
+      "codename": "Baraka",
+      "smashgg_name": "Baraka"
     },
     "Ermac": {
-      "codename": "Ermac"
+      "codename": "Ermac",
+      "smashgg_name": "Ermac"
     },
     "General Shao": {
-      "codename": "Shao"
+      "codename": "Shao",
+      "smashgg_name": "General Shao"
     },
     "Geras": {
-      "codename": "Geras"
+      "codename": "Geras",
+      "smashgg_name": "Geras"
     },
     "Havik": {
-      "codename": "Havik"
+      "codename": "Havik",
+      "smashgg_name": "Havik"
     },
     "Homelander": {
       "codename": "Homelander",
@@ -26,99 +32,128 @@
         "it": "Patriota",
         "es": "Patriota",
         "es_LA": "Vengador",
-        "pt": "Capitão Pátria"
-      }
+        "pt": "Capit\u00e3o P\u00e1tria"
+      },
+      "smashgg_name": "Homelander"
     },
     "Johnny Cage": {
-      "codename": "JohnnyCage"
+      "codename": "JohnnyCage",
+      "smashgg_name": "Johnny Cage"
     },
     "Kenshi Takahashi": {
-      "codename": "Kenshi"
+      "codename": "Kenshi",
+      "smashgg_name": "Kenshi"
     },
     "Kitana": {
-      "codename": "Kitana"
+      "codename": "Kitana",
+      "smashgg_name": "Kitana"
     },
     "Kung Lao": {
-      "codename": "KungLao"
+      "codename": "KungLao",
+      "smashgg_name": "Kung Lao"
     },
     "Li Mei": {
-      "codename": "LiMei"
+      "codename": "LiMei",
+      "smashgg_name": "Li Mei"
     },
     "Liu Kang": {
-      "codename": "LiuKang"
+      "codename": "LiuKang",
+      "smashgg_name": "Liu Kang"
     },
     "Mileena": {
-      "codename": "Mileena"
+      "codename": "Mileena",
+      "smashgg_name": "Mileena"
     },
     "Nitara": {
-      "codename": "Nitara"
+      "codename": "Nitara",
+      "smashgg_name": "Nitara"
     },
     "Omni-Man": {
-      "codename": "OmniMan"
+      "codename": "OmniMan",
+      "smashgg_name": "Omni-Man"
     },
     "Peacemaker": {
-      "codename": "Peacemaker"
+      "codename": "Peacemaker",
+      "smashgg_name": "Peacemaker"
     },
     "Quan Chi": {
-      "codename": "QuanChi"
+      "codename": "QuanChi",
+      "smashgg_name": "Quan Chi"
     },
     "Raiden": {
-      "codename": "Raiden"
+      "codename": "Raiden",
+      "smashgg_name": "Raiden"
     },
     "Rain": {
-      "codename": "Rain"
+      "codename": "Rain",
+      "smashgg_name": "Rain"
     },
     "Reiko": {
-      "codename": "Reiko"
+      "codename": "Reiko",
+      "smashgg_name": "Reiko"
     },
     "Reptile": {
-      "codename": "Reptile"
+      "codename": "Reptile",
+      "smashgg_name": "Reptile"
     },
     "Scorpion": {
-      "codename": "Scorpion"
+      "codename": "Scorpion",
+      "smashgg_name": "Scorpion"
     },
     "Shang Tsung": {
-      "codename": "ShangTsung"
+      "codename": "ShangTsung",
+      "smashgg_name": "Shang Tsung"
     },
     "Sindel": {
-      "codename": "Sindel"
+      "codename": "Sindel",
+      "smashgg_name": "Sindel"
     },
     "Smoke": {
-      "codename": "Smoke"
+      "codename": "Smoke",
+      "smashgg_name": "Smoke"
     },
     "Sub-Zero": {
-      "codename": "SubZero"
+      "codename": "SubZero",
+      "smashgg_name": "Sub-Zero"
     },
-    "Takeda": {
-      "codename": "Takeda"
+    "Takeda Takahashi": {
+      "codename": "Takeda",
+      "smashgg_name": "Takeda"
     },
     "Tanya": {
-      "codename": "Tanya"
+      "codename": "Tanya",
+      "smashgg_name": "Tanya"
     },
     "Sektor": {
-      "codename": "Sektor"
+      "codename": "Sektor",
+      "smashgg_name": "Sektor"
     },
     "Cyrax": {
-      "codename": "Cyrax"
+      "codename": "Cyrax",
+      "smashgg_name": "Cyrax"
     },
     "Noob Saibot": {
-      "codename": "Noob"
+      "codename": "Noob",
+      "smashgg_name": "Noob Saibot"
     },
     "Ghostface": {
-      "codename": "Ghostface"
+      "codename": "Ghostface",
+      "smashgg_name": "Ghostface"
     },
     "Conan the Barbarian": {
       "codename": "Conan",
       "locale": {
         "fr": "Conan le Barbare",
         "it": "Conan il barbaro",
-        "es": "Conan el Bárbaro",
-        "es_LA": "Conan el Bárbaro",
-        "pt": "Conan, o bárbaro"
-      }
+        "es": "Conan el B\u00e1rbaro",
+        "es_LA": "Conan el B\u00e1rbaro",
+        "pt": "Conan, o b\u00e1rbaro"
+      },
+      "smashgg_name": "Conan the Barbarian"
     },
     "T-1000": {
-      "codename": "T-1000"
+      "codename": "T-1000",
+      "smashgg_name": "T-1000"
     }
   },
   "credits": "Ripped from https://www.mortalkombat.com/en-gb/roster",
@@ -126,5 +161,5 @@
   "name": "Mortal Kombat 1",
   "smashgg_game_id": 48599,
   "stage_to_codename": {},
-  "version": "2.01"
+  "version": "2.02"
 }

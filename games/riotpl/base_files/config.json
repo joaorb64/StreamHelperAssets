@@ -18,6 +18,9 @@
     },
     "Braum": {
       "codename": "Braum"
+    },
+    "Jinx": {
+      "codename": "Jinx"
     }
   },
   "credits": "Ripped from https://2xko.riotgames.com/en-us/",
@@ -25,5 +28,5 @@
   "name": "2XKO",
   "smashgg_game_id": 64423,
   "stage_to_codename": {},
-  "version": "0.3"
+  "version": "0.4"
 }

@@ -1,57 +1,68 @@
 {
-    "name": "Portraits",
-    "description": "Character portraits",
-    "prefix": "file_",
-    "postfix": "_",
-    "type": [
-        "full"
-    ],
+    "average_size": {
+        "x": 1560,
+        "y": 2302
+    },
     "credits": "Ripped from https://2xko.riotgames.com/en-us/",
-    "version": "0.3",
-    "uncropped_edge": [
-        "u",
-        "l"
-    ],
+    "description": "Character portraits",
     "eyesights": {
         "Ahri": {
             "0": {
-                "x": 330,
-                "y": 171
-            }
-        },
-        "Darius": {
-            "0": {
-                "x": 451,
-                "y": 137
-            }
-        },
-        "Ekko": {
-            "0": {
-                "x": 397,
-                "y": 197
-            }
-        },
-        "Yasuo": {
-            "0": {
-                "x": 306,
-                "y": 208
-            }
-        },
-        "Illaoi": {
-            "0": {
-                "x": 406,
-                "y": 177
+                "x": 660,
+                "y": 338
             }
         },
         "Braum": {
             "0": {
-                "x": 369,
-                "y": 284
+                "x": 1551,
+                "y": 641
+            }
+        },
+        "Darius": {
+            "0": {
+                "x": 1435,
+                "y": 349
+            }
+        },
+        "Ekko": {
+            "0": {
+                "x": 1024,
+                "y": 431
+            }
+        },
+        "Illaoi": {
+            "0": {
+                "x": 1180,
+                "y": 382
+            }
+        },
+        "Jinx": {
+            "0": {
+                "x": 424,
+                "y": 317
+            }
+        },
+        "Yasuo": {
+            "0": {
+                "x": 1441,
+                "y": 413
             }
         }
     },
-    "average_size": {
-        "x": 840,
-        "y": 1240
+    "name": "Portraits",
+    "postfix": "_",
+    "prefix": "file_",
+    "type": [
+        "full"
+    ],
+    "uncropped_edge": [
+        "u",
+        "l"
+    ],
+    "version": "0.4",
+    "rescaling_factor": {
+        "Jinx": {
+            "0": 2.0
+        }
     }
 }

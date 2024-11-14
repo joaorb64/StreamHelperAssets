@@ -4,89 +4,116 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Hyde": {
-      "codename": "hyde"
+      "codename": "hyde",
+      "smashgg_name": "Hyde"
     },
     "Linne": {
-      "codename": "linne"
+      "codename": "linne",
+      "smashgg_name": "Linne"
     },
     "Waldstein": {
-      "codename": "waldstein"
+      "codename": "waldstein",
+      "smashgg_name": "Waldstein"
     },
     "Carmine": {
-      "codename": "carmine"
+      "codename": "carmine",
+      "smashgg_name": "Carmine"
     },
     "Orie": {
-      "codename": "orie"
+      "codename": "orie",
+      "smashgg_name": "Orie"
     },
     "Gordeau": {
-      "codename": "gordeau"
+      "codename": "gordeau",
+      "smashgg_name": "Gordeau"
     },
     "Merkava": {
-      "codename": "merkava"
+      "codename": "merkava",
+      "smashgg_name": "Merkava"
     },
     "Vatista": {
-      "codename": "vatista"
+      "codename": "vatista",
+      "smashgg_name": "Vatista"
     },
     "Seth": {
-      "codename": "seth"
+      "codename": "seth",
+      "smashgg_name": "Seth"
     },
     "Yuzuriha": {
-      "codename": "yuzuriha"
+      "codename": "yuzuriha",
+      "smashgg_name": "Yuzuriha"
     },
     "Hilda": {
-      "codename": "hilda"
+      "codename": "hilda",
+      "smashgg_name": "Hilda"
     },
     "Chaos": {
-      "codename": "chaos"
+      "codename": "chaos",
+      "smashgg_name": "Chaos"
     },
     "Nanase": {
-      "codename": "nanase"
+      "codename": "nanase",
+      "smashgg_name": "Nanase"
     },
     "Byakuya": {
-      "codename": "byakuya"
+      "codename": "byakuya",
+      "smashgg_name": "Byakuya"
     },
     "Phonon": {
-      "codename": "phonon"
+      "codename": "phonon",
+      "smashgg_name": "Phonon"
     },
     "Mika": {
-      "codename": "mika"
+      "codename": "mika",
+      "smashgg_name": "Mika"
     },
     "Wagner": {
-      "codename": "wagner"
+      "codename": "wagner",
+      "smashgg_name": "Wagner"
     },
     "Enkidu": {
-      "codename": "enkidu"
+      "codename": "enkidu",
+      "smashgg_name": "Enkidu"
     },
     "Londrekia": {
-      "codename": "londrekia"
+      "codename": "londrekia",
+      "smashgg_name": "Londrekia"
     },
     "Eltnum": {
-      "codename": "eltnum"
+      "codename": "eltnum",
+      "smashgg_name": "Sion Eltnum"
     },
     "Akatsuki": {
-      "codename": "akatsuki"
+      "codename": "akatsuki",
+      "smashgg_name": "Akatsuki"
     },
     "Kaguya": {
-      "codename": "kaguya"
+      "codename": "kaguya",
+      "smashgg_name": "Kaguya"
     },
     "Tsurugi": {
-      "codename": "tsurugi"
+      "codename": "tsurugi",
+      "smashgg_name": "Tsurugi"
     },
     "Kuon": {
-      "codename": "kuon"
+      "codename": "kuon",
+      "smashgg_name": "Kuon"
     },
     "Uzuki": {
-      "codename": "uzuki"
+      "codename": "uzuki",
+      "smashgg_name": "Uzuki"
     },
     "Ogre": {
-      "codename": "ogre"
+      "codename": "ogre",
+      "smashgg_name": "Ogre"
     },
     "Izumi": {
-      "codename": "izumi"
+      "codename": "izumi",
+      "smashgg_name": "Izumi"
     }
   },
   "stage_to_codename": {},
-  "version": "1.1",
+  "version": "1.11",
   "description": "Base config to use this game.",
-  "credits": "© FRENCH-BREAD / ARC SYSTEM WORKS\n\nUNDER NIGHT IN-BIRTH II Sys:Celes Official Site: https://www.arcsystemworks.jp/uni2celes/en/\nUNDER NIGHT IN-BIRTH II Sys:Celes Fan Kit: https://www.arcsystemworks.jp/uni2celes/en/fankit/\nThe rights to the data included within are held by Arc System Works."
+  "credits": "\u00a9 FRENCH-BREAD / ARC SYSTEM WORKS\n\nUNDER NIGHT IN-BIRTH II Sys:Celes Official Site: https://www.arcsystemworks.jp/uni2celes/en/\nUNDER NIGHT IN-BIRTH II Sys:Celes Fan Kit: https://www.arcsystemworks.jp/uni2celes/en/fankit/\nThe rights to the data included within are held by Arc System Works."
 }

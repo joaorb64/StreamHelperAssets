@@ -2277,6 +2277,12 @@
                 "x": 247,
                 "y": 202
             }
+        },
+        "Carter": {
+            "0": {
+                "x": 267,
+                "y": 209
+            }
         }
     },
     "postfix": "_",
@@ -2284,7 +2290,7 @@
     "type": [
         "icon"
     ],
-    "version": "2.1",
+    "version": "2.2",
     "rescaling_factor": {
         "Batsu": {
             "0": 0.5

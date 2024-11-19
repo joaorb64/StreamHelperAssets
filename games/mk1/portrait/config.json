@@ -12,7 +12,7 @@
         "portrait"
     ],
     "credits": "",
-    "version": "2.0",
+    "version": "2.1",
     "eyesights": {
         "Ashrah": {
             "0": {
@@ -204,6 +204,12 @@
             "0": {
                 "x": 513,
                 "y": 340
+            }
+        },
+        "Ghostface": {
+            "0": {
+                "x": 519,
+                "y": 257
             }
         }
     },

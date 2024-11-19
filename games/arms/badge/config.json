@@ -1,14 +1,14 @@
 {
-    "name": "Badges",
-    "description": "Character portraits used on the regular badges",
-    "prefix": "",
-    "postfix": "_",
-    "type": [
-        "badge"
-    ],
-    "version": "1.01",
-    "average_size": {
-        "x": 170,
-        "y": 170
-    }
+  "name": "Badges",
+  "description": "Character portraits used on the regular badges",
+  "prefix": "",
+  "postfix": "_",
+  "type": [
+    "badge"
+  ],
+  "version": "24.11.19.69262",
+  "average_size": {
+    "x": 170,
+    "y": 170
+  }
 }

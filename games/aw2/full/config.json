@@ -1,20 +1,20 @@
 {
-    "name": "Portraits",
-    "description": "Character portraits",
-    "prefix": "file_",
-    "postfix": "_",
-    "type": [
-        "full"
-    ],
-    "credits": "",
-    "version": "1.0",
-    "uncropped_edge": [
-        "u",
-        "l",
-        "r"
-    ],
-    "average_size": {
-        "x": 789,
-        "y": 1121
-    }
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "24.11.19.69262",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r"
+  ],
+  "average_size": {
+    "x": 789,
+    "y": 1121
+  }
 }

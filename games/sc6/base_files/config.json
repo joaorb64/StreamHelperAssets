@@ -97,7 +97,7 @@
     "Custom character": {
       "codename": "creation",
       "locale": {
-        "fr": "Personnage personnalisé"
+        "fr": "Personnage personnalis\u00e9"
       }
     }
   },
@@ -106,7 +106,7 @@
   "name": "SoulCalibur VI",
   "smashgg_game_id": 904,
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "24.11.19.69262",
   "locale": {
     "ja": {
       "name": "\u30bd\u30a6\u30eb\u30ad\u30e3\u30ea\u30d0\u30fcVI"

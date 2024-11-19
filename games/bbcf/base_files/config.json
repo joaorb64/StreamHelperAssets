@@ -133,23 +133,23 @@
     },
     "Yuuki Terumi": {
       "codename": "YuukiTerumi",
-      "smashgg_name": "Yūki Terumi"
+      "smashgg_name": "Y\u016bki Terumi"
     },
-    "ᴧ-No.11-": {
+    "\u1d27-No.11-": {
       "codename": "Lambda11",
-      "smashgg_name": "Λ-No.11- [Lambda -No. 11-]"
+      "smashgg_name": "\u039b-No.11- [Lambda -No. 11-]"
     },
-    "μ-No.12-": {
+    "\u03bc-No.12-": {
       "codename": "Mu12",
-      "smashgg_name": "μ-No.12- [Mu -No. 12-]"
+      "smashgg_name": "\u03bc-No.12- [Mu -No. 12-]"
     },
-    "ν-No.13-": {
+    "\u03bd-No.13-": {
       "codename": "Nu13",
-      "smashgg_name": "ν-No.13- [Nu -No. 13-]"
+      "smashgg_name": "\u03bd-No.13- [Nu -No. 13-]"
     }
   },
   "stage_to_codename": {},
-  "version": "1.05",
+  "version": "24.11.19.69262",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
   "locale": {

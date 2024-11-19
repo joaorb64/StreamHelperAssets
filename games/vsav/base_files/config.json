@@ -6,119 +6,119 @@
     "Anakaris": {
       "codename": "03",
       "locale": {
-        "ja": "アナカリス"
+        "ja": "\u30a2\u30ca\u30ab\u30ea\u30b9"
       }
     },
     "Bishamon": {
       "codename": "06",
       "locale": {
-        "ja": "毘沙門"
+        "ja": "\u6bd8\u6c99\u9580"
       }
     },
     "Demitri Maximoff": {
       "codename": "01",
       "locale": {
-        "ja": "デミトリ・マキシモフ"
+        "ja": "\u30c7\u30df\u30c8\u30ea\u30fb\u30de\u30ad\u30b7\u30e2\u30d5"
       }
     },
     "Felicia": {
       "codename": "05",
       "locale": {
-        "ja": "フェリシア"
+        "ja": "\u30d5\u30a7\u30ea\u30b7\u30a2"
       }
     },
     "Hsien-Ko": {
       "codename": "15",
       "locale": {
-        "ja": "レイレイ"
+        "ja": "\u30ec\u30a4\u30ec\u30a4"
       }
     },
     "Jon Talbain": {
       "codename": "07",
       "locale": {
-        "ja": "ガロン"
+        "ja": "\u30ac\u30ed\u30f3"
       }
     },
     "Lord Raptor": {
       "codename": "10",
       "locale": {
-        "ja": "ザベル・ザロック"
+        "ja": "\u30b6\u30d9\u30eb\u30fb\u30b6\u30ed\u30c3\u30af"
       }
     },
     "Morrigan Aensland": {
       "codename": "04",
       "locale": {
-        "ja": "モリガン・アーンスランド"
+        "ja": "\u30e2\u30ea\u30ac\u30f3\u30fb\u30a2\u30fc\u30f3\u30b9\u30e9\u30f3\u30c9"
       }
     },
     "Rikuo": {
       "codename": "14",
       "locale": {
-        "ja": "オルバス"
+        "ja": "\u30aa\u30eb\u30d0\u30b9"
       }
     },
     "Sasquatch": {
       "codename": "08",
       "locale": {
-        "ja": "サスカッチ"
+        "ja": "\u30b5\u30b9\u30ab\u30c3\u30c1"
       }
     },
     "Victor von Gerdenheim": {
       "codename": "02",
       "locale": {
-        "ja": "ヴィクトル・フォン・ゲルデンハイム"
+        "ja": "\u30f4\u30a3\u30af\u30c8\u30eb\u30fb\u30d5\u30a9\u30f3\u30fb\u30b2\u30eb\u30c7\u30f3\u30cf\u30a4\u30e0"
       }
     },
     "Baby Bonnie Hood": {
       "codename": "09",
       "locale": {
-        "ja": "バレッタ"
+        "ja": "\u30d0\u30ec\u30c3\u30bf"
       }
     },
     "Jedah Dohma": {
       "codename": "11",
       "locale": {
-        "ja": "ジェダ・ドーマ"
+        "ja": "\u30b8\u30a7\u30c0\u30fb\u30c9\u30fc\u30de"
       }
     },
     "Lilith": {
       "codename": "12",
       "locale": {
-        "ja": "リリス"
+        "ja": "\u30ea\u30ea\u30b9"
       }
     },
     "Q-Bee": {
       "codename": "13",
       "locale": {
-        "ja": "キュービィ"
+        "ja": "\u30ad\u30e5\u30fc\u30d3\u30a3"
       }
     },
     "Donovan Baine": {
       "codename": "18",
       "locale": {
-        "ja": "ドノヴァン・ベイン"
+        "ja": "\u30c9\u30ce\u30f4\u30a1\u30f3\u30fb\u30d9\u30a4\u30f3"
       }
     },
     "Huitzil": {
       "codename": "17",
       "locale": {
-        "ja": "フォボス"
+        "ja": "\u30d5\u30a9\u30dc\u30b9"
       }
     },
     "Pyron": {
       "codename": "16",
       "locale": {
-        "ja": "パイロン"
+        "ja": "\u30d1\u30a4\u30ed\u30f3"
       }
     }
   },
   "stage_to_codename": {},
-  "version": "1.06",
+  "version": "24.11.19.69262",
   "description": "Base config to use this game.\n\nAlso compatible with Darkstalkers 3, Vampire Savior 2, Vampire Hunter 2 and Vampire Chronicle for Matching Service / Darkstalkers Chronicle: The Chaos Tower",
   "credits": "",
   "locale": {
     "ja": {
-      "name": "ヴァンパイア セイヴァー The Lord of Vampire"
+      "name": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2 \u30bb\u30a4\u30f4\u30a1\u30fc The Lord of Vampire"
     }
   }
 }

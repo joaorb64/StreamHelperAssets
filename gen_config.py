@@ -7,6 +7,38 @@ import subprocess
 import traceback
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+FILE_DIR = os.path.dirname(__file__)
+
+
+def run_linux_command(command: str):
+    """
+        Runs Linux command
+    """
+    try:
+        print(f">> {command}")
+        result = subprocess.run(
+            command,
+            shell=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            universal_newlines=True,  # Ensure output is in text mode
+            check=False
+        )
+
+        # Extract the exit code, stdout, and stderr from the completed process
+        exit_code = result.returncode
+        stdout_output = result.stdout.strip()
+        stderr_output = result.stderr.strip()
+
+        # Return the results as a tuple
+        return exit_code, stdout_output, stderr_output
+    except Exception as e:
+        # If an error occurs during the execution, return an error tuple
+        return -1, '', str(e)
+
+
+_, CURRENT_TAG, _ = run_linux_command("git describe --tags --always")
+
 list_ = {}
 games = [f for f in os.listdir("./games/") if os.path.isdir("./games/" + f)]
 oldAssets = {}
@@ -129,3 +161,6 @@ with open('assets.json', 'w', encoding="utf-8") as outfile:
 
 with open('last_versions.json', 'w', encoding="utf-8") as outfile:
     json.dump(lastVersions, outfile, indent=4, sort_keys=True)
+
+with open(f"{FILE_DIR}/last_tag.txt", "w", encoding="utf-8") as f:
+    f.write(CURRENT_TAG)

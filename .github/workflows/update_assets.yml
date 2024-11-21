@@ -113,7 +113,7 @@ jobs:
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
           find . -name "*~" -type f -delete
-          git add assets.json last_versions.json
+          git add assets.json last_versions.json scripts/last_tag.txt
           git commit -m "Update assets"
           git push origin main
 

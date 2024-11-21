@@ -50,7 +50,7 @@ def process_game(game):
 def process_asset_dir(game, assetDir, path, config):
     try:
         assetPath = "./games/" + game + "/" + assetDir + "/"
-        modified = True if float(config.get("version", 0)) > float(
+        modified = True if str(config.get("version", 0)) != str(
             lastVersions.get(f'{game}.{assetDir}', 0)) else False
         lastVersions[f'{game}.{assetDir}'] = config.get("version", 0)
 
@@ -59,7 +59,7 @@ def process_asset_dir(game, assetDir, path, config):
         #         ["rm " + path + "/" + assetDir + ".7z*"], shell=True)
         #     delete_old_zips.communicate()
 
-        print(">" + assetPath)
+        print("!=" + assetPath)
         print("Was modified", modified)
 
         with open(assetPath + "config.json", 'r', encoding='utf-8') as configFile:

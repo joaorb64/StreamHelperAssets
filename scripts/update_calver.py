@@ -34,11 +34,12 @@ def run_linux_command(command: str):
         # If an error occurs during the execution, return an error tuple
         return -1, '', str(e)
 
+_, CURRENT_TAG, _ = run_linux_command("git describe --tags --always")
 
 LATEST_TAG = None
 with open(f"{FILE_DIR}/last_tag.txt", "r", encoding="utf-8") as f:
     LATEST_TAG = f.read().strip()
-_, LIST_CHANGED_FILES, _ = run_linux_command(f"git diff --name-only {LATEST_TAG} head")
+_, LIST_CHANGED_FILES, _ = run_linux_command(f"git diff --name-only {LATEST_TAG} {CURRENT_TAG}")
 
 list_config_paths = []
 for line in LIST_CHANGED_FILES.splitlines():

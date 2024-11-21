@@ -91,7 +91,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (17/17)
 
 ## Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Eternal Fighter Zero -Memorial- Edition
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -103,7 +115,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -223,7 +247,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Legends of Runeterra
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Million Arthur: Arcana Blood
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -253,8 +289,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (33/34)
 
 ## Mortal Kombat 11
-- Character [Kronika]: Character name [Kronika] doesn't exist in StartGG
-### Coverage: (37/37)
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Mario Kart 64
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -455,7 +502,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (10/10)
 
 ## Rushdown Revolt
-### Coverage: (12/12)
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Rival Schools: United by Fate
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -638,7 +697,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Touhou 12.3: Hisoutensoku
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Terrordrome: Rise of the Boogeymen
 Game has no characters in startgg...? Or do we have a wrong game id?

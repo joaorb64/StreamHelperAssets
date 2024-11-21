@@ -46,6 +46,13 @@ for line in LIST_CHANGED_FILES.splitlines():
         if (config_path not in list_config_paths) and (os.path.isfile(config_path)):
             print(f"Detected change in pack {dir_name}")
             list_config_paths.append(config_path)
+        if "base_files" in dir_name:
+            while not dir_name.endswith("base_files"):
+                config_path = f"{dir_name}/config.json"
+                if (config_path not in list_config_paths) and (os.path.isfile(config_path)):
+                    print(f"Detected change in pack {dir_name}")
+                dir_name = "/".join(dir_name.split("/")[:-1])
+
 
 for config_path in list_config_paths:
     with open(config_path, "rt", encoding="utf-8") as config_file:

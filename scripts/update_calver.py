@@ -39,7 +39,7 @@ _, CURRENT_TAG, _ = run_linux_command("git describe --tags --always")
 LATEST_TAG = None
 with open(f"{FILE_DIR}/last_tag.txt", "r", encoding="utf-8") as f:
     LATEST_TAG = f.read().strip()
-_, LIST_CHANGED_FILES, _ = run_linux_command(f"git diff --name-only {LATEST_TAG} {CURRENT_TAG}")
+_, LIST_CHANGED_FILES, _ = run_linux_command(f"git diff-tree --name-only {LATEST_TAG} {CURRENT_TAG} -r")
 # _, LIST_CHANGED_FILES, _ = run_linux_command(f"git diff --name-only {LATEST_TAG} head")
 print(LIST_CHANGED_FILES)
 

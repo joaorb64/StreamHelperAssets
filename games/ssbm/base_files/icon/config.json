@@ -1,11 +1,12 @@
 {
-    "prefix": "chara_2_",
-    "postfix": "_",
-    "type": [
-        "icon"
-    ],
-    "average_size": {
-        "x": 24,
-        "y": 24
-    }
+  "prefix": "chara_2_",
+  "postfix": "_",
+  "type": [
+    "icon"
+  ],
+  "average_size": {
+    "x": 24,
+    "y": 24
+  },
+  "version": "24.11.21.52773"
 }

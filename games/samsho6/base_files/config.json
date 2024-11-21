@@ -142,6 +142,10 @@
   "name": "Samurai Shodown VI",
   "smashgg_game_id": 14466,
   "stage_to_codename": {},
-  "version": "1.0",
-  "locale": {"ja": {"name": "サムライスピリッツ 天下一剣客伝"}}
+  "version": "24.11.21.52771",
+  "locale": {
+    "ja": {
+      "name": "\u30b5\u30e0\u30e9\u30a4\u30b9\u30d4\u30ea\u30c3\u30c4 \u5929\u4e0b\u4e00\u5263\u5ba2\u4f1d"
+    }
+  }
 }

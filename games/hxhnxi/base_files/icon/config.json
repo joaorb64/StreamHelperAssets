@@ -1,20 +1,20 @@
 {
-    "prefix": "file_",
-    "postfix": "_",
-    "type": [
-        "icon"
-    ],
-    "version": "0.5",
-    "rescaling_factor": {
-        "Kilua": {
-            "0": 0.6666666666666666
-        },
-        "Feitan": {
-            "0": 1.0169491525423728
-        }
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "icon"
+  ],
+  "version": "24.11.21.52773",
+  "rescaling_factor": {
+    "Kilua": {
+      "0": 0.6666666666666666
     },
-    "average_size": {
-        "x": 731,
-        "y": 247
+    "Feitan": {
+      "0": 1.0169491525423728
     }
+  },
+  "average_size": {
+    "x": 731,
+    "y": 247
+  }
 }

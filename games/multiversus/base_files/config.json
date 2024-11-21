@@ -39,7 +39,7 @@
       "codename": "JaketheDog",
       "locale": {
         "fr": "Jake le Chien",
-        "pt_BR": "Jake o Cão"
+        "pt_BR": "Jake o C\u00e3o"
       },
       "smashgg_name": "Jake the Dog"
     },
@@ -123,7 +123,7 @@
     "Black Adam": {
       "codename": "BlackAdam",
       "locale": {
-        "pt_BR": "Adão Negro"
+        "pt_BR": "Ad\u00e3o Negro"
       },
       "smashgg_name": "Black Adam"
     },
@@ -194,7 +194,7 @@
     "Samurai Jack": {
       "codename": "Jack",
       "locale": {
-        "fr": "Samouraï Jack"
+        "fr": "Samoura\u00ef Jack"
       },
       "smashgg_name": "Samurai Jack"
     },
@@ -233,7 +233,7 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "2.6",
+  "version": "24.11.21.52770",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1

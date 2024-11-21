@@ -3,57 +3,57 @@
   "smashgg_game_id": 22404,
   "challonge_game_id": null,
   "character_to_codename": {
-    "Bachō Mōki": {
+    "Bach\u014d M\u014dki": {
       "codename": "Bacho"
     },
-    "Chō'un Shiryū": {
+    "Ch\u014d'un Shiry\u016b": {
       "codename": "Choun"
     },
-    "Chōhi Yokutoku": {
+    "Ch\u014dhi Yokutoku": {
       "codename": "Chochi"
     },
-    "Chōryō Bun'en": {
+    "Ch\u014dry\u014d Bun'en": {
       "codename": "Choryo"
     },
     "Gakushin Bunken": {
       "codename": "Gakushin"
     },
-    "Jokō Kōmei": {
+    "Jok\u014d K\u014dmei": {
       "codename": "Joko"
     },
-    "Kakōton Genjō": {
+    "Kak\u014dton Genj\u014d": {
       "codename": "Kakoton"
     },
-    "Kakōen Myōsai": {
+    "Kak\u014den My\u014dsai": {
       "codename": "Kakoen"
     },
-    "Kan'u Unchō": {
+    "Kan'u Unch\u014d": {
       "codename": "Kanu"
     },
-    "Kannei Kōha": {
+    "Kannei K\u014dha": {
       "codename": "Kannei"
     },
-    "Sonken Kōyū": {
+    "Sonken K\u014dy\u016b": {
       "codename": "Kouyuu"
     },
-    "Ryofu Hōsen": {
+    "Ryofu H\u014dsen": {
       "codename": "Ryofu"
     },
-    "Shūtai Yōhei": {
+    "Sh\u016btai Y\u014dhei": {
       "codename": "Shutai"
     },
-    "Sonken Chūbō": {
+    "Sonken Ch\u016bb\u014d": {
       "codename": "Sonken"
     },
-    "Sonshōkō": {
+    "Sonsh\u014dk\u014d": {
       "codename": "Sonshoko"
     },
-    "Sōsō Mōtoku": {
+    "S\u014ds\u014d M\u014dtoku": {
       "codename": "Soso"
     }
   },
   "stage_to_codename": {},
-  "version": "1.01",
+  "version": "24.11.21.52770",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Koihime_Enbu/RyoRaiRai_V3)"
 }

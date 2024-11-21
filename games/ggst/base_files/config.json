@@ -154,79 +154,79 @@
       "codename": "Sin",
       "smashgg_name": "Sin",
       "locale": {
-        "ja": "シン=キスク"
+        "ja": "\u30b7\u30f3=\u30ad\u30b9\u30af"
       }
     },
     "Bedman?": {
       "codename": "Bed",
       "smashgg_name": "Bedman?",
       "locale": {
-        "ja": "ベッドマン？"
+        "ja": "\u30d9\u30c3\u30c9\u30de\u30f3\uff1f"
       }
     },
     "Asuka R#": {
       "codename": "Asuka",
       "smashgg_name": "Asuka R",
       "locale": {
-        "ja": "飛鳥＝Ｒ#"
+        "ja": "\u98db\u9ce5\uff1d\uff32#"
       }
     },
     "Johnny": {
       "codename": "Johnny",
       "smashgg_name": "Johnny",
       "locale": {
-        "ja": "ジョニー"
+        "ja": "\u30b8\u30e7\u30cb\u30fc"
       }
     },
     "Elphelt Valentine": {
       "codename": "Elphelt",
       "smashgg_name": "Elphelt",
       "locale": {
-        "ja": "エルフェルト=ヴァレンタイン"
+        "ja": "\u30a8\u30eb\u30d5\u30a7\u30eb\u30c8=\u30f4\u30a1\u30ec\u30f3\u30bf\u30a4\u30f3"
       }
     },
     "A.B.A": {
       "smashgg_name": "A.B.A.",
       "codename": "ABA",
       "locale": {
-        "ja": "アバ"
+        "ja": "\u30a2\u30d0"
       }
     },
     "Slayer": {
       "codename": "Slayer",
       "smashgg_name": "Slayer",
       "locale": {
-        "ja": "スレイヤー"
+        "ja": "\u30b9\u30ec\u30a4\u30e4\u30fc"
       }
     },
     "Queen Dizzy": {
       "codename": "Dizzy",
       "smashgg_name": "Queen Dizzy",
       "locale": {
-        "ja": "ディズィー"
+        "ja": "\u30c7\u30a3\u30ba\u30a3\u30fc"
       }
     },
     "Venom": {
       "codename": "Venom",
       "locale": {
-        "ja": "ヴェノム"
+        "ja": "\u30f4\u30a7\u30ce\u30e0"
       }
     },
     "Unika": {
       "codename": "Unika",
       "locale": {
-        "ja": "ユニカ"
+        "ja": "\u30e6\u30cb\u30ab"
       }
     },
     "Lucyna \"Lucy\" Kushinada": {
       "codename": "Lucy",
       "locale": {
-        "ja": "ルーシー"
+        "ja": "\u30eb\u30fc\u30b7\u30fc"
       }
     }
   },
   "stage_to_codename": {},
-  "version": "2.41",
+  "version": "24.11.21.52769",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki\n\n\u00a9 ARC SYSTEM WORKS\n\nGuilty Gear -Strive- Official Site: https://www.guiltygear.com/ggst/en/",
   "locale": {

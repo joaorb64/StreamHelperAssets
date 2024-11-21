@@ -1,164 +1,164 @@
 {
-    "name": "Nickelodeon All-Star Brawl 2",
-    "challonge_game_id": 343182,
-    "smashgg_game_id": 49644,
-    "character_to_codename": {
-        "SpongeBob SquarePants": {
-            "codename": "SpongeBob",
-            "smashgg_name": "SpongeBob SquarePants"
-        },
-        "Patrick Star": {
-            "codename": "Patrick",
-            "smashgg_name": "Patrick Star"
-        },
-        "Squidward Tentacles": {
-            "codename": "Squidward",
-            "smashgg_name": "Squidward Tentacles"
-        },
-        "Mecha Plankton": {
-            "codename": "MechaPlankton",
-            "smashgg_name": "Plankton"
-        },
-        "El Tigre": {
-            "codename": "ElTigre",
-            "smashgg_name": "El Tigre"
-        },
-        "Rocko": {
-            "codename": "Rocko",
-            "smashgg_name": "Rocko"
-        },
-        "Jimmy Neutron": {
-            "codename": "Jimmy",
-            "smashgg_name": "Jimmy Neutron"
-        },
-        "Lucy Loud": {
-            "codename": "Lucy",
-            "smashgg_name": "Lucy Loud"
-        },
-        "Angry Beavers": {
-            "codename": "Dagget",
-            "smashgg_name": "Angry Beavers"
-        },
-        "Garfield": {
-            "codename": "Garfield",
-            "smashgg_name": "Garfield"
-        },
-        "Aang": {
-            "codename": "Aang",
-            "smashgg_name": "Aang"
-        },
-        "Korra": {
-            "codename": "Korra",
-            "smashgg_name": "Korra"
-        },
-        "Azula": {
-            "codename": "Azula",
-            "smashgg_name": "Azula"
-        },
-        "Raphael": {
-            "codename": "Raphael",
-            "smashgg_name": "Raphael"
-        },
-        "Donatello": {
-            "codename": "Donatello",
-            "smashgg_name": "Donatello"
-        },
-        "April O'Neil": {
-            "codename": "April",
-            "smashgg_name": "April O'Neil"
-        },
-        "Danny Phantom": {
-            "codename": "Danny",
-            "smashgg_name": "Danny Phantom"
-        },
-        "Ember McLain": {
-            "codename": "Ember",
-            "smashgg_name": "Ember McLain"
-        },
-        "Grandma Gertie": {
-            "codename": "GrandmaGertie",
-            "smashgg_name": "Grandma Gertie"
-        },
-        "Gerald Johanssen": {
-            "codename": "Gerald",
-            "smashgg_name": "Gerald Johanssen"
-        },
-        "Nigel Thornberry": {
-            "codename": "Nigel",
-            "smashgg_name": "Nigel Thornberry"
-        },
-        "Zim": {
-            "codename": "Zim",
-            "smashgg_name": "Zim"
-        },
-        "Jenny Wakeman": {
-            "codename": "Jenny",
-            "smashgg_name": "Jenny Wakeman"
-        },
-        "Reptar": {
-            "codename": "Reptar",
-            "smashgg_name": "Reptar"
-        },
-        "Ren & Stimpy": {
-            "codename": "RenStimpy",
-            "smashgg_name": "Ren & Stimpy"
-        },
-        "Mr. Krabs": {
-            "codename": "Sushi",
-            "smashgg_name": "Mr. Krabs"
-        },
-        "Zuko": {
-            "codename": "Stevia",
-            "smashgg_name": "Zuko"
-        },
-        "Rocksteady": {
-            "codename": "Headbanger",
-            "smashgg_name": "Rocksteady"
-        }
+  "name": "Nickelodeon All-Star Brawl 2",
+  "challonge_game_id": 343182,
+  "smashgg_game_id": 49644,
+  "character_to_codename": {
+    "SpongeBob SquarePants": {
+      "codename": "SpongeBob",
+      "smashgg_name": "SpongeBob SquarePants"
     },
-    "stage_to_codename": {
-        "Food Dream": {
-            "codename": "Food Dream",
-            "smashgg_id": "575"
-        },
-        "Harmonic Convergence": {
-            "codename": "Harmonic Convergence",
-            "smashgg_id": "582"
-        },
-        "Irken Armada Invasion": {
-            "codename": "Irken Armada Invasion",
-            "smashgg_id": "577"
-        },
-        "Jellyfish Fields": {
-            "codename": "Jellyfish Fields",
-            "smashgg_id": "579"
-        },
-        "Miracle City Volcano": {
-            "codename": "Miracle City Volcano",
-            "smashgg_id": "581"
-        },
-        "Rooftop Rumble": {
-            "codename": "Rooftop Rumble",
-            "smashgg_id": "578"
-        },
-        "Royal Woods Cemetery": {
-            "codename": "Royal Woods Cemetery",
-            "smashgg_id": "580"
-        },
-        "Technodrome Takedown": {
-            "codename": "Technodrome Takedown",
-            "smashgg_id": "576"
-        },
-        "Tremorton Joyride": {
-            "codename": "Tremorton Joyride",
-            "smashgg_id": "583"
-        },
-        "Pariah's Keep": {
-            "codename": "Pariah's Keep",
-            "smashgg_id": "585"
-        }
+    "Patrick Star": {
+      "codename": "Patrick",
+      "smashgg_name": "Patrick Star"
     },
-    "version": "1.5",
-    "description": "NASB Sweep!!!",
-    "credits": "TNTBlowzUp"
+    "Squidward Tentacles": {
+      "codename": "Squidward",
+      "smashgg_name": "Squidward Tentacles"
+    },
+    "Mecha Plankton": {
+      "codename": "MechaPlankton",
+      "smashgg_name": "Plankton"
+    },
+    "El Tigre": {
+      "codename": "ElTigre",
+      "smashgg_name": "El Tigre"
+    },
+    "Rocko": {
+      "codename": "Rocko",
+      "smashgg_name": "Rocko"
+    },
+    "Jimmy Neutron": {
+      "codename": "Jimmy",
+      "smashgg_name": "Jimmy Neutron"
+    },
+    "Lucy Loud": {
+      "codename": "Lucy",
+      "smashgg_name": "Lucy Loud"
+    },
+    "Angry Beavers": {
+      "codename": "Dagget",
+      "smashgg_name": "Angry Beavers"
+    },
+    "Garfield": {
+      "codename": "Garfield",
+      "smashgg_name": "Garfield"
+    },
+    "Aang": {
+      "codename": "Aang",
+      "smashgg_name": "Aang"
+    },
+    "Korra": {
+      "codename": "Korra",
+      "smashgg_name": "Korra"
+    },
+    "Azula": {
+      "codename": "Azula",
+      "smashgg_name": "Azula"
+    },
+    "Raphael": {
+      "codename": "Raphael",
+      "smashgg_name": "Raphael"
+    },
+    "Donatello": {
+      "codename": "Donatello",
+      "smashgg_name": "Donatello"
+    },
+    "April O'Neil": {
+      "codename": "April",
+      "smashgg_name": "April O'Neil"
+    },
+    "Danny Phantom": {
+      "codename": "Danny",
+      "smashgg_name": "Danny Phantom"
+    },
+    "Ember McLain": {
+      "codename": "Ember",
+      "smashgg_name": "Ember McLain"
+    },
+    "Grandma Gertie": {
+      "codename": "GrandmaGertie",
+      "smashgg_name": "Grandma Gertie"
+    },
+    "Gerald Johanssen": {
+      "codename": "Gerald",
+      "smashgg_name": "Gerald Johanssen"
+    },
+    "Nigel Thornberry": {
+      "codename": "Nigel",
+      "smashgg_name": "Nigel Thornberry"
+    },
+    "Zim": {
+      "codename": "Zim",
+      "smashgg_name": "Zim"
+    },
+    "Jenny Wakeman": {
+      "codename": "Jenny",
+      "smashgg_name": "Jenny Wakeman"
+    },
+    "Reptar": {
+      "codename": "Reptar",
+      "smashgg_name": "Reptar"
+    },
+    "Ren & Stimpy": {
+      "codename": "RenStimpy",
+      "smashgg_name": "Ren & Stimpy"
+    },
+    "Mr. Krabs": {
+      "codename": "Sushi",
+      "smashgg_name": "Mr. Krabs"
+    },
+    "Zuko": {
+      "codename": "Stevia",
+      "smashgg_name": "Zuko"
+    },
+    "Rocksteady": {
+      "codename": "Headbanger",
+      "smashgg_name": "Rocksteady"
+    }
+  },
+  "stage_to_codename": {
+    "Food Dream": {
+      "codename": "Food Dream",
+      "smashgg_id": "575"
+    },
+    "Harmonic Convergence": {
+      "codename": "Harmonic Convergence",
+      "smashgg_id": "582"
+    },
+    "Irken Armada Invasion": {
+      "codename": "Irken Armada Invasion",
+      "smashgg_id": "577"
+    },
+    "Jellyfish Fields": {
+      "codename": "Jellyfish Fields",
+      "smashgg_id": "579"
+    },
+    "Miracle City Volcano": {
+      "codename": "Miracle City Volcano",
+      "smashgg_id": "581"
+    },
+    "Rooftop Rumble": {
+      "codename": "Rooftop Rumble",
+      "smashgg_id": "578"
+    },
+    "Royal Woods Cemetery": {
+      "codename": "Royal Woods Cemetery",
+      "smashgg_id": "580"
+    },
+    "Technodrome Takedown": {
+      "codename": "Technodrome Takedown",
+      "smashgg_id": "576"
+    },
+    "Tremorton Joyride": {
+      "codename": "Tremorton Joyride",
+      "smashgg_id": "583"
+    },
+    "Pariah's Keep": {
+      "codename": "Pariah's Keep",
+      "smashgg_id": "585"
+    }
+  },
+  "version": "24.11.21.52770",
+  "description": "NASB Sweep!!!",
+  "credits": "TNTBlowzUp"
 }

@@ -67,5 +67,3 @@ for i, change in enumerate(changes):
     print(f"Optimizing [{i+1}/{len(changes)}]")
     run_linux_command(f"optipng {filename} -strip all")
 
-with open(f"{FILE_DIR}/last_tag.txt", "w", encoding="utf-8") as f:
-    f.write(CURRENT_TAG)

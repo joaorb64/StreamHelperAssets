@@ -32,12 +32,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          fetch-depth: 5
+          fetch-depth: 15
       - name: setup python
         uses: actions/setup-python@v2
         with:
           python-version: "3.9" #install the python needed
-          
+    
       # Optimize images
       - name: Optimize images
         run: |
@@ -68,21 +68,6 @@ jobs:
             echo "No changes to commit"
           fi
 
-      # Update version numbers
-      - name: Update version numbers
-        run: |
-          pip install requests
-          python scripts/update_calver.py
-          git config --global user.name 'Buildbot'
-          git config --global user.email 'buildbot@users.noreply.github.com'
-          git add .
-          if ! git diff --cached --quiet; then
-            git commit -m "Update version number of changed packs"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
-      
       # Generate StartGG config insights
       - name: Generate StartGG config insights
         run: |
@@ -93,6 +78,20 @@ jobs:
           git add .
           if ! git diff --cached --quiet; then
             git commit -m "Update startgg config insights"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+
+      # Update version numbers
+      - name: Update version numbers
+        run: |
+          python scripts/update_calver.py
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Update version number of changed packs"
             git push origin main
           else
             echo "No changes to commit"
@@ -113,7 +112,7 @@ jobs:
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
           find . -name "*~" -type f -delete
-          git add assets.json last_versions.json
+          git add assets.json last_versions.json scripts/last_tag.txt
           git commit -m "Update assets"
           git push origin main
 

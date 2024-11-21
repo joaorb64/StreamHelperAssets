@@ -41,7 +41,7 @@ with open(f"{FILE_DIR}/last_tag.txt", "r", encoding="utf-8") as f:
     LATEST_TAG = f.read().strip()
 # _, LIST_CHANGED_FILES, _ = run_linux_command(f"git diff --name-only {LATEST_TAG} {CURRENT_TAG}")
 _, LIST_CHANGED_FILES, _ = run_linux_command(f"git diff --name-only {LATEST_TAG} head")
-print(LAST_CHANGED_FILES)
+print(LIST_CHANGED_FILES)
 
 list_config_paths = []
 for line in LIST_CHANGED_FILES.splitlines():

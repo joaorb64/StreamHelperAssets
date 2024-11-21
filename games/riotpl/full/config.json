@@ -1,68 +1,68 @@
 {
-  "average_size": {
-    "x": 1560,
-    "y": 2302
-  },
-  "credits": "Ripped from https://2xko.riotgames.com/en-us/",
-  "description": "Character portraits",
-  "eyesights": {
-    "Ahri": {
-      "0": {
-        "x": 660,
-        "y": 338
-      }
+    "average_size": {
+        "x": 1560,
+        "y": 2302
     },
-    "Braum": {
-      "0": {
-        "x": 1551,
-        "y": 641
-      }
+    "credits": "Ripped from https://2xko.riotgames.com/en-us/",
+    "description": "Character portraits",
+    "eyesights": {
+        "Ahri": {
+            "0": {
+                "x": 660,
+                "y": 338
+            }
+        },
+        "Braum": {
+            "0": {
+                "x": 1551,
+                "y": 641
+            }
+        },
+        "Darius": {
+            "0": {
+                "x": 1435,
+                "y": 349
+            }
+        },
+        "Ekko": {
+            "0": {
+                "x": 1024,
+                "y": 431
+            }
+        },
+        "Illaoi": {
+            "0": {
+                "x": 1180,
+                "y": 382
+            }
+        },
+        "Jinx": {
+            "0": {
+                "x": 424,
+                "y": 317
+            }
+        },
+        "Yasuo": {
+            "0": {
+                "x": 1441,
+                "y": 413
+            }
+        }
     },
-    "Darius": {
-      "0": {
-        "x": 1435,
-        "y": 349
-      }
-    },
-    "Ekko": {
-      "0": {
-        "x": 1024,
-        "y": 431
-      }
-    },
-    "Illaoi": {
-      "0": {
-        "x": 1180,
-        "y": 382
-      }
-    },
-    "Jinx": {
-      "0": {
-        "x": 424,
-        "y": 317
-      }
-    },
-    "Yasuo": {
-      "0": {
-        "x": 1441,
-        "y": 413
-      }
+    "name": "Portraits",
+    "postfix": "_",
+    "prefix": "file_",
+    "type": [
+        "full"
+    ],
+    "uncropped_edge": [
+        "u",
+        "l"
+    ],
+    "version": "24.11.21.52771",
+    "rescaling_factor": {
+        "Jinx": {
+            "0": 2.0
+        }
     }
-  },
-  "name": "Portraits",
-  "postfix": "_",
-  "prefix": "file_",
-  "type": [
-    "full"
-  ],
-  "uncropped_edge": [
-    "u",
-    "l"
-  ],
-  "version": "24.11.21.52771",
-  "rescaling_factor": {
-    "Jinx": {
-      "0": 2.0
-    }
-  }
 }

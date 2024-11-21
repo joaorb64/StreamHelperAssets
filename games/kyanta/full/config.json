@@ -1,15 +1,15 @@
 {
-  "name": "Portraits",
-  "description": "Character Select Portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Asset rip by Caroline Sweeper and the team at @DelawareFGC",
-  "version": "24.11.21.52770",
-  "average_size": {
-    "x": 157,
-    "y": 235
-  }
+    "name": "Portraits",
+    "description": "Character Select Portraits",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Asset rip by Caroline Sweeper and the team at @DelawareFGC",
+    "version": "24.11.21.52770",
+    "average_size": {
+        "x": 157,
+        "y": 235
+    }
 }

@@ -50,10 +50,11 @@ for line in LIST_CHANGED_FILES.splitlines():
             list_config_paths.append(config_path)
         if "base_files" in dir_name:
             while not dir_name.endswith("base_files"):
+                dir_name = "/".join(dir_name.split("/")[:-1])
                 config_path = f"{dir_name}/config.json"
                 if (config_path not in list_config_paths) and (os.path.isfile(config_path)):
                     print(f"Detected change in pack {dir_name}")
-                dir_name = "/".join(dir_name.split("/")[:-1])
+                    list_config_paths.append(config_path)
 
 
 for config_path in list_config_paths:

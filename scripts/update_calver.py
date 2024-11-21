@@ -35,7 +35,9 @@ def run_linux_command(command: str):
         return -1, '', str(e)
 
 
-_, LATEST_TAG, _ = run_linux_command("git describe --tags --abbrev=0")
+LATEST_TAG = None
+with open(f"{FILE_DIR}/last_tag.txt", "r", encoding="utf-8") as f:
+    LATEST_TAG = f.read().strip()
 _, LIST_CHANGED_FILES, _ = run_linux_command(f"git diff --name-only {LATEST_TAG} head")
 
 list_config_paths = []

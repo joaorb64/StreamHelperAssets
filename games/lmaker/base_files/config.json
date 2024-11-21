@@ -4,61 +4,61 @@
     "Aifa": {
       "codename": "Aifa",
       "locale": {
-        "ja": "愛華"
+        "ja": "\u611b\u83ef"
       }
     },
     "Gaira": {
       "codename": "Gaira",
       "locale": {
-        "ja": "鎧羅"
+        "ja": "\u93a7\u7f85"
       }
     },
     "Hiryu": {
       "codename": "Hiryu",
       "locale": {
-        "ja": "飛劉"
+        "ja": "\u98db\u5289"
       }
     },
     "Kouko": {
       "codename": "Kouko",
       "locale": {
-        "ja": "候虎"
+        "ja": "\u5019\u864e"
       }
     },
     "Ranju": {
       "codename": "Ranju",
       "locale": {
-        "ja": "蘭嬬"
+        "ja": "\u862d\u5b2c"
       }
     },
     "Renki": {
       "codename": "Renki",
       "locale": {
-        "ja": "錬奇"
+        "ja": "\u932c\u5947"
       }
     },
     "Rinrei": {
       "codename": "Rinrei",
       "locale": {
-        "ja": "櫚鈴"
+        "ja": "\u6ada\u9234"
       }
     },
     "Roushinshi": {
       "codename": "Roushinshi",
       "locale": {
-        "ja": "楼蜃子"
+        "ja": "\u697c\u8703\u5b50"
       }
     },
     "Soumei": {
       "codename": "Soumei",
       "locale": {
-        "ja": "蒼瞑"
+        "ja": "\u84bc\u7791"
       }
     },
     "Youen": {
       "codename": "Youen",
       "locale": {
-        "ja": "踊燕"
+        "ja": "\u8e0a\u71d5"
       }
     }
   },
@@ -67,13 +67,13 @@
   "name": "Landmaker",
   "smashgg_game_id": 16606,
   "stage_to_codename": {},
-  "version": "1.0",
+  "version": "24.11.21.52770",
   "locale": {
     "en_US": {
       "name": "Landmaker / Builder's Block"
     },
     "ja": {
-      "name": "ランドメーカー"
+      "name": "\u30e9\u30f3\u30c9\u30e1\u30fc\u30ab\u30fc"
     }
   }
 }

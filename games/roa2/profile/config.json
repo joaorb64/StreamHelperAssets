@@ -1,15 +1,15 @@
 {
-    "name": "Profiles",
-    "description": "Character profile pictures",
-    "prefix": "file_",
-    "postfix": "_",
-    "type": [
-        "profile"
-    ],
-    "credits": "",
-    "version": "1.0",
-    "average_size": {
-        "x": 512,
-        "y": 512
-    }
+  "name": "Profiles",
+  "description": "Character profile pictures",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "profile"
+  ],
+  "credits": "",
+  "version": "24.11.21.52771",
+  "average_size": {
+    "x": 512,
+    "y": 512
+  }
 }

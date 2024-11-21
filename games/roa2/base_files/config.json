@@ -37,11 +37,11 @@
       "codename": "Reina",
       "smashgg_name": "La Reina"
     },
-    "Orcane":{
+    "Orcane": {
       "codename": "Orcane",
       "smashgg_name": "Orcane"
     },
-    "Forsburn":{
+    "Forsburn": {
       "codename": "Forsburn",
       "smashgg_name": "Forsburn"
     }
@@ -50,7 +50,7 @@
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "1.03",
+  "version": "24.11.21.52771",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest"

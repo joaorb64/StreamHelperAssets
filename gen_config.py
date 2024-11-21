@@ -163,5 +163,5 @@ with open('assets.json', 'w', encoding="utf-8") as outfile:
 with open('last_versions.json', 'w', encoding="utf-8") as outfile:
     json.dump(lastVersions, outfile, indent=4, sort_keys=True)
 
-with open(f"{FILE_DIR}/last_tag.txt", "w", encoding="utf-8") as f:
+with open(f"{FILE_DIR}/scripts/last_tag.txt", "w", encoding="utf-8") as f:
     f.write(CURRENT_COMMIT)

@@ -32,26 +32,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          fetch-depth: 5
+          fetch-depth: 15
       - name: setup python
         uses: actions/setup-python@v2
         with:
           python-version: "3.9" #install the python needed
-          
-      # Update version numbers
-      - name: Update version numbers
-        run: |
-          pip install requests
-          python scripts/update_calver.py
-          git config --global user.name 'Buildbot'
-          git config --global user.email 'buildbot@users.noreply.github.com'
-          git add .
-          if ! git diff --cached --quiet; then
-            git commit -m "Update version number of changed packs"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
     
       # Optimize images
       - name: Optimize images
@@ -93,6 +78,20 @@ jobs:
           git add .
           if ! git diff --cached --quiet; then
             git commit -m "Update startgg config insights"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+
+      # Update version numbers
+      - name: Update version numbers
+        run: |
+          python scripts/update_calver.py
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Update version number of changed packs"
             git push origin main
           else
             echo "No changes to commit"

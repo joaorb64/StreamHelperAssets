@@ -1,0 +1,17 @@
+{
+    "name": "Artwork",
+    "description": "Character artwork",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Super Mario Wiki (https://www.mariowiki.com/Super_Mario_Kart)",
+    "version": "24.11.21.52771",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Artwork",
+    "description": "Character artwork",
+    "prefix": "file_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Assets ripped from Super Mario Wiki (https://www.mariowiki.com/Super_Mario_Kart)",
+    "version": "1.0",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Bowser": {
+            "0": {
+                "x": 119,
+                "y": 279
+            }
+        },
+        "DonkeyKongJr": {
+            "0": {
+                "x": 228,
+                "y": 91
+            }
+        },
+        "KoopaTroopa": {
+            "0": {
+                "x": 155,
+                "y": 52
+            }
+        },
+        "Luigi": {
+            "0": {
+                "x": 150,
+                "y": 80
+            }
+        },
+        "Mario": {
+            "0": {
+                "x": 211,
+                "y": 168
+            }
+        },
+        "Peach": {
+            "0": {
+                "x": 329,
+                "y": 135
+            }
+        },
+        "Toad": {
+            "0": {
+                "x": 183,
+                "y": 82
+            }
+        },
+        "Yoshi": {
+            "0": {
+                "x": 308,
+                "y": 59
+            }
+        }
+    }
+}

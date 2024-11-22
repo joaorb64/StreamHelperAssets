@@ -1,0 +1,87 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bowser": {
+      "codename": "Bowser",
+      "locale": {
+        "ja": "\u30af\u30c3\u30d1",
+        "fr": "Bowser",
+        "fr_CA": "Bowser",
+        "es": "Bowser",
+        "es_LA": "Bowser",
+        "de": "Bowser",
+        "it": "Bowser",
+        "nl": "Bowser",
+        "ru": "\u0411\u043e\u0443\u0437\u0435\u0440",
+        "ko": "\ucfe0\ud30c",
+        "zh_TW": "\u5eab\u5df4",
+        "zh_CN": "\u9177\u9738"
+      }
+    },
+    "Donkey Kong Jr.": {
+      "codename": "DonkeyKongJr",
+      "locale": {
+        "ja": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0Jr.",
+        "ru": "\u0414\u043e\u043d\u043a\u0438 \u041a\u043e\u043d\u0433 \u2014 \u043c\u043b\u0430\u0434\u0448\u0438\u0439",
+        "ko": "\ub3d9\ud0a4\ucf69\uc8fc\ub2c8\uc5b4",
+        "zh_TW": "\u549a\u5947\u525bJr.",
+        "zh_CN": "\u549a\u5947\u521aJr."
+      }
+    },
+    "Koopa Troopa": {
+      "codename": "KoopaTroopa",
+      "locale": {
+        "ja": "\u30ce\u30b3\u30ce\u30b3",
+        "zh_CN": "\u6162\u6162\u9f9f",
+        "zh_TW": "\u6162\u6162\u9f9c",
+        "ko": "\uc5c9\uae08\uc5c9\uae08",
+        "fr": "Koopa",
+        "de": "Koopa",
+        "it": "Koopa",
+        "ru": "\u041a\u0443\u043f\u0430-\u0442\u0440\u0443\u043f\u0430"
+      }
+    },
+    "Luigi": {
+      "codename": "Luigi"
+    },
+    "Mario": {
+      "codename": "Mario"
+    },
+    "Peach": {
+      "codename": "Peach",
+      "locale": {
+        "ja": "\u30d4\u30fc\u30c1",
+        "fr": "Peach",
+        "fr_CA": "Peach",
+        "es": "Peach",
+        "es_LA": "Peach",
+        "de": "Peach",
+        "it": "Peach",
+        "nl": "Peach",
+        "ru": "\u041f\u0438\u0447",
+        "ko": "\ud53c\uce58\uacf5\uc8fc",
+        "zh_TW": "\u78a7\u59ec\u516c\u4e3b",
+        "zh_CN": "\u78a7\u59ec\u516c\u4e3b"
+      }
+    },
+    "Toad": {
+      "codename": "Toad",
+      "locale": {
+        "ja": "\u30ad\u30ce\u30d4\u30aa",
+        "zh_CN": "\u5947\u8bfa\u6bd4\u5965",
+        "zh_TW": "\u5947\u8afe\u6bd4\u5967",
+        "ko": "\ud0a4\ub178\ud53c\uc624",
+        "ru": "\u0422\u043e\u0430\u0434"
+      }
+    },
+    "Yoshi": {
+      "codename": "Yoshi"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Super Mario Kart",
+  "smashgg_game_id": 5711,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

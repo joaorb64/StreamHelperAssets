@@ -46,7 +46,7 @@ def process_directory(directory):
                     
                     # Write the updated data back to config.json
                     config_file.seek(0)
-                    json.dump(config_data, config_file, indent=4)
+                    json.dump(config_data, config_file, indent=2)
                     config_file.truncate()
                     
                 print(f"Updated {config_path} with average size: {average_size}")

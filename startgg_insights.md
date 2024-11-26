@@ -531,6 +531,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Slap City
 ### Coverage: (11/11)
 
+## Super Mario Kart
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Super Mario Strikers
 Game has no characters in startgg...? Or do we have a wrong game id?
 

@@ -1,14 +1,14 @@
 {
-    "name": "Website",
-    "description": "Selection bars from the Street Fighter 6 Website (https://www.streetfighter.com/6/en-us/character/)",
-    "prefix": "file_",
-    "postfix": "_",
-    "type": [
-        "full"
-    ],
-    "version": "24.11.21.52771",
-    "average_size": {
-        "x": 575,
-        "y": 625
-    }
+  "name": "Website",
+  "description": "Selection bars from the Street Fighter 6 Website (https://www.streetfighter.com/6/en-us/character/)",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "24.11.21.52771",
+  "average_size": {
+    "x": 575,
+    "y": 625
+  }
 }

@@ -1,18 +1,18 @@
 {
-    "prefix": "icon_smol_",
-    "postfix": "_",
-    "type": [
-        "icon"
-    ],
-    "version": "24.11.21.52773",
-    "uncropped_edge": [
-        "u",
-        "d",
-        "l",
-        "r"
-    ],
-    "average_size": {
-        "x": 301,
-        "y": 293
-    }
+  "prefix": "icon_smol_",
+  "postfix": "_",
+  "type": [
+    "icon"
+  ],
+  "version": "24.11.21.52773",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "average_size": {
+    "x": 301,
+    "y": 293
+  }
 }

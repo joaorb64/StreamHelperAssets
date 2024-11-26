@@ -1,26 +1,26 @@
 {
-    "prefix": "file_",
-    "postfix": "_",
-    "type": [
-        "icon"
-    ],
-    "version": "24.11.21.52773",
-    "eyesights": {
-        "Player": {
-            "0": {
-                "x": 447,
-                "y": 362
-            }
-        }
-    },
-    "uncropped_edge": [
-        "u",
-        "d",
-        "l",
-        "r"
-    ],
-    "average_size": {
-        "x": 2345,
-        "y": 1570
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "icon"
+  ],
+  "version": "24.11.21.52773",
+  "eyesights": {
+    "Player": {
+      "0": {
+        "x": 447,
+        "y": 362
+      }
     }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "average_size": {
+    "x": 2345,
+    "y": 1570
+  }
 }

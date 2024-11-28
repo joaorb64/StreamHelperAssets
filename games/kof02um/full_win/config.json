@@ -1,15 +1,15 @@
 {
-    "name": "Win Portraits",
-    "description": "Character Portraits as seen on the Results Screen",
-    "prefix": "win_chara_",
-    "postfix": "_",
-    "type": [
-        "full_win"
-    ],
-    "credits": "@ATRyoSakazaki for HD redraws\n@MathiasWolfbrok for cropping",
-    "version": "24.11.21.52770",
-    "average_size": {
-        "x": 960,
-        "y": 1080
-    }
+  "name": "Win Portraits",
+  "description": "Character Portraits as seen on the Results Screen",
+  "prefix": "win_chara_",
+  "postfix": "_",
+  "type": [
+    "full_win"
+  ],
+  "credits": "@ATRyoSakazaki for HD redraws\n@MathiasWolfbrok for cropping",
+  "version": "24.11.26.54004",
+  "average_size": {
+    "x": 960,
+    "y": 1080
+  }
 }

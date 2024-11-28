@@ -56,7 +56,7 @@
     "Galarian Zapdos": {
       "codename": "145-G",
       "locale": {
-        "fr": "\u00c9lecthor",
+        "fr": "\u00c9lecthor (Galar)",
         "de": "Zapdos",
         "ko": "\uc36c\ub354",
         "ja": "\u30b5\u30f3\u30c0\u30fc",
@@ -252,6 +252,19 @@
         "it": "Alirasenti",
         "es": "Reptalada"
       }
+    },
+    "Mega Lopunny": {
+      "codename": "428-M",
+      "locale": {
+        "fr": "Lockpin (Méga)",
+        "de": "Schlapor",
+        "ko": "\uc774\uc5b4\ub86d",
+        "ja": "\u30df\u30df\u30ed\u30c3\u30d7",
+        "zh_CN": "\u957f\u8033\u5154",
+        "zh_TW": "\u9577\u8033\u5154",
+        "it": "Lopunny",
+        "es": "Lopunny"
+      }
     }
   },
   "credits": "Box sprites from the mainline games from Generation 3-8\nEzerart for the Pok\u00e9mon Scarlet & Violet icons",
@@ -259,5 +272,5 @@
   "name": "Pok\u00e9mon: Close Combat",
   "smashgg_game_id": 56300,
   "stage_to_codename": {},
-  "version": "24.11.21.52770"
+  "version": "24.11.26.54004"
 }

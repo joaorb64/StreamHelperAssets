@@ -1,14 +1,14 @@
 {
-    "name": "Portraits",
-    "description": "Character portraits",
-    "prefix": "playericon_",
-    "postfix": "_",
-    "type": [
-        "csp"
-    ],
-    "version": "24.11.21.52771",
-    "average_size": {
-        "x": 1300,
-        "y": 1300
-    }
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "playericon_",
+  "postfix": "_",
+  "type": [
+    "csp"
+  ],
+  "version": "24.11.26.54005",
+  "average_size": {
+    "x": 1300,
+    "y": 1300
+  }
 }

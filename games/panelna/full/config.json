@@ -1,15 +1,15 @@
 {
-    "name": "Portraits",
-    "description": "Character portraits",
-    "prefix": "file_",
-    "postfix": "_",
-    "type": [
-        "full"
-    ],
-    "credits": "@MathiasWolfbrok for cropping",
-    "version": "24.11.21.52770",
-    "average_size": {
-        "x": 960,
-        "y": 1080
-    }
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "@MathiasWolfbrok for cropping",
+  "version": "24.11.26.54004",
+  "average_size": {
+    "x": 960,
+    "y": 1080
+  }
 }

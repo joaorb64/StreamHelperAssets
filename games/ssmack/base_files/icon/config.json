@@ -1,18 +1,18 @@
 {
-    "prefix": "Vicon",
-    "postfix": "_",
-    "type": [
-        "icon"
-    ],
-    "version": "24.11.21.52774",
-    "uncropped_edge": [
-        "u",
-        "l",
-        "r",
-        "d"
-    ],
-    "average_size": {
-        "x": 900,
-        "y": 900
-    }
+  "prefix": "Vicon",
+  "postfix": "_",
+  "type": [
+    "icon"
+  ],
+  "version": "24.11.26.54005",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ],
+  "average_size": {
+    "x": 900,
+    "y": 900
+  }
 }

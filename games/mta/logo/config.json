@@ -1,21 +1,21 @@
 {
-    "name": "Emblems",
-    "description": "Character emblems",
-    "prefix": "logo_",
-    "postfix": "_",
-    "type": [
-        "logo"
-    ],
-    "credits": "",
-    "version": "24.11.21.52770",
-    "uncropped_edge": [
-        "u",
-        "d",
-        "l",
-        "r"
-    ],
-    "average_size": {
-        "x": 788,
-        "y": 788
-    }
+  "name": "Emblems",
+  "description": "Character emblems",
+  "prefix": "logo_",
+  "postfix": "_",
+  "type": [
+    "logo"
+  ],
+  "credits": "",
+  "version": "24.11.26.54004",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "average_size": {
+    "x": 788,
+    "y": 788
+  }
 }

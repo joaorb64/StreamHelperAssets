@@ -1,14 +1,14 @@
 {
-    "name": "Poster art",
-    "description": "Poster art for every character",
-    "prefix": "icon_",
-    "postfix": "_",
-    "type": [
-        "poster"
-    ],
-    "version": "24.11.21.52771",
-    "average_size": {
-        "x": 761,
-        "y": 671
-    }
+  "name": "Poster art",
+  "description": "Poster art for every character",
+  "prefix": "icon_",
+  "postfix": "_",
+  "type": [
+    "poster"
+  ],
+  "version": "24.11.26.54005",
+  "average_size": {
+    "x": 761,
+    "y": 671
+  }
 }

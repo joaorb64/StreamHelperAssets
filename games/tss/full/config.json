@@ -1,13 +1,13 @@
 {
-    "name": "Portraits",
-    "prefix": "tss_",
-    "postfix": "_",
-    "type": [
-        "full"
-    ],
-    "version": "24.11.21.52772",
-    "average_size": {
-        "x": 1119,
-        "y": 1386
-    }
+  "name": "Portraits",
+  "prefix": "tss_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "24.11.26.54005",
+  "average_size": {
+    "x": 1119,
+    "y": 1386
+  }
 }

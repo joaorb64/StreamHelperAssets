@@ -56,7 +56,7 @@
     "Galarian Zapdos": {
       "codename": "145-G",
       "locale": {
-        "fr": "\u00c9lecthor",
+        "fr": "\u00c9lecthor (Galar)",
         "de": "Zapdos",
         "ko": "\uc36c\ub354",
         "ja": "\u30b5\u30f3\u30c0\u30fc",
@@ -248,6 +248,19 @@
         "zh_TW": "\u722c\u5730\u7fc5",
         "it": "Alirasenti",
         "es": "Reptalada"
+      }
+    },
+    "Mega Lopunny": {
+      "codename": "428-M",
+      "locale": {
+        "fr": "Lockpin (Méga)",
+        "de": "Schlapor",
+        "ko": "\uc774\uc5b4\ub86d",
+        "ja": "\u30df\u30df\u30ed\u30c3\u30d7",
+        "zh_CN": "\u957f\u8033\u5154",
+        "zh_TW": "\u9577\u8033\u5154",
+        "it": "Lopunny",
+        "es": "Lopunny"
       }
     }
   },

@@ -4,11 +4,20 @@
     "Aigis": {
       "codename": "Aigis"
     },
+    "Shadow Aigis": {
+      "codename": "SAigis"
+    },
     "Akihiko Sanada": {
       "codename": "AkihikoSanada"
     },
+    "Shadow Akihiko Sanada": {
+      "codename": "SAkihikoSanada"
+    },
     "Chie Satonaka": {
       "codename": "ChieSatonaka"
+    },
+    "Shadow Chie Satonaka": {
+      "codename": "SChieSatonaka"
     },
     "Elizabeth": {
       "codename": "Elizabeth"
@@ -16,14 +25,26 @@
     "Junpei Iori": {
       "codename": "JunpeiIori"
     },
+    "Shadow Junpei Iori": {
+      "codename": "SJunpeiIori"
+    },
     "Kanji Tatsumi": {
       "codename": "KanjiTatsumi"
+    },
+    "Shadow Kanji Tatsumi": {
+      "codename": "SKanjiTatsumi"
     },
     "Ken Amada": {
       "codename": "KenAmada"
     },
+    "Shadow Ken Amada": {
+      "codename": "SKenAmada"
+    },
     "Labrys": {
       "codename": "Labrys"
+    },
+    "Shadow Labrys": {
+      "codename": "ShadowLabrys"
     },
     "Margaret": {
       "codename": "Margaret"
@@ -31,26 +52,36 @@
     "Marie": {
       "codename": "Marie"
     },
-    "Minazuki": {
+    "Sho Minazuki (With Persona)": {
       "codename": "Minazuki"
     },
     "Mitsuru Kirijo": {
       "codename": "MitsuruKirijo"
     },
+    "Shadow Mitsuru Kirijo": {
+      "codename": "SMitsuruKirijo"
+    },
     "Naoto Shirogane": {
       "codename": "NaotoShirogane"
+    },
+    "Shadow Naoto Shirogane": {
+      "codename": "SNaotoShirogane"
     },
     "Rise Kujikawa": {
       "codename": "RiseKujikawa"
     },
-    "Shadow Labrys": {
-      "codename": "ShadowLabrys"
+    "Shadow Rise Kujikawa": {
+      "codename": "SRiseKujikawa"
     },
-    "Sho": {
+    "Sho Minazuki (Without Persona)": {
       "codename": "Sho"
     },
     "Teddie": {
       "codename": "Teddie"
+    }
+    ,
+    "Shadow Teddie": {
+      "codename": "STeddie"
     },
     "Tohru Adachi": {
       "codename": "TohruAdachi"
@@ -58,22 +89,31 @@
     "Yosuke Hanamura": {
       "codename": "YosukeHanamura"
     },
+    "Shadow Yosuke Hanamura": {
+      "codename": "SYosukeHanamura"
+    },
     "Yu Narukami": {
       "codename": "YuNarukami"
+    },
+    "Shadow Yu Narukami": {
+      "codename": "SYuNarukami"
     },
     "Yukari Takeba": {
       "codename": "YukariTakeba"
     },
     "Yukiko Amagi": {
       "codename": "YukikoAmagi"
+    },
+    "Shadow Yukiko Amagi": {
+      "codename": "SYukikoAmagi"
     }
   },
-  "credits": "Files ripped from Dustloop Wiki",
+  "credits": "",
   "description": "Base config to use this game.",
   "name": "Persona 4 Arena Ultimax",
   "smashgg_game_id": 11065,
   "stage_to_codename": {},
-  "version": "24.11.26.54004",
+  "version": "1.13",
   "locale": {
     "ja": {
       "name": "\u30da\u30eb\u30bd\u30ca4 \u30b8\u30fb\u30a2\u30eb\u30c6\u30a3\u30de\u30c3\u30af\u30b9 \u30a6\u30eb\u30c8\u30e9\u30b9\u30fc\u30d7\u30ec\u30c3\u30af\u30b9\u30db\u30fc\u30eb\u30c9"

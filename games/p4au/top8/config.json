@@ -1,0 +1,235 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "top8"
+  ],
+  "credits": "",
+  "version": "1.02",
+  "eyesights": {
+    "Aigis": {
+      "0": {
+        "x": 269,
+        "y": 228
+      }
+    },
+    "SAigis": {
+      "0": {
+        "x": 227,
+        "y": 222
+      }
+    },
+    "SAkihikoSanada": {
+      "0": {
+        "x": 175,
+        "y": 220
+      }
+    },
+    "AkihikoSanada": {
+      "0": {
+        "x": 118,
+        "y": 207
+      }
+    },
+    "SChieSatonaka": {
+      "0": {
+        "x": 215,
+        "y": 207
+      }
+    },
+    "ChieSatonaka": {
+      "0": {
+        "x": 243,
+        "y": 228
+      }
+    },
+    "Elizabeth": {
+      "0": {
+        "x": 259,
+        "y": 210
+      }
+    },
+    "SJunpeiIori": {
+      "0": {
+        "x": 156,
+        "y": 168
+      }
+    },
+    "JunpeiIori": {
+      "0": {
+        "x": 123,
+        "y": 211
+      }
+    },
+    "SKanjiTatsumi": {
+      "0": {
+        "x": 244,
+        "y": 182
+      }
+    },
+    "KanjiTatsumi": {
+      "0": {
+        "x": 167,
+        "y": 224
+      }
+    },
+    "SKenAmada": {
+      "0": {
+        "x": 257,
+        "y": 286
+      }
+    },
+    "KenAmada": {
+      "0": {
+        "x": 242,
+        "y": 279
+      }
+    },
+    "Labrys": {
+      "0": {
+        "x": 191,
+        "y": 221
+      }
+    },
+    "Shadow Labrys": {
+      "0": {
+        "x": 262,
+        "y": 235
+      }
+    },
+    "Margaret": {
+      "0": {
+        "x": 242,
+        "y": 218
+      }
+    },
+    "Marie": {
+      "0": {
+        "x": 236,
+        "y": 274
+      }
+    },
+    "Minazuki": {
+      "0": {
+        "x": 325,
+        "y": 230
+      }
+    },
+    "SMitsuruKirijo": {
+      "0": {
+        "x": 309,
+        "y": 260
+      }
+    },
+    "MitsuruKirijo": {
+      "0": {
+        "x": 248,
+        "y": 202
+      }
+    },
+    "SNaotoShirogane": {
+      "0": {
+        "x": 217,
+        "y": 270
+      }
+    },
+    "NaotoShirogane": {
+      "0": {
+        "x": 315,
+        "y": 260
+      }
+    },
+    "SRiseKujikawa": {
+      "0": {
+        "x": 254,
+        "y": 282
+      }
+    },
+    "RiseKujikawa": {
+      "0": {
+        "x": 308,
+        "y": 257
+      }
+    },
+    "ShadowLabrys": {
+      "0": {
+        "x": 264,
+        "y": 241
+      }
+    },
+    "Sho": {
+      "0": {
+        "x": 175,
+        "y": 256
+      }
+    },
+    "STeddie": {
+      "0": {
+        "x": 192,
+        "y": 309
+      }
+    },
+    "Teddie": {
+      "0": {
+        "x": 178,
+        "y": 235
+      }
+    },
+    "TohruAdachi": {
+      "0": {
+        "x": 200,
+        "y": 205
+      }
+    },
+    "SYosukeHanamura": {
+      "0": {
+        "x": 323,
+        "y": 215
+      }
+    },
+    "YosukeHanamura": {
+      "0": {
+        "x": 311,
+        "y": 207
+      }
+    },
+    "SYuNarukami": {
+      "0": {
+        "x": 274,
+        "y": 205
+      }
+    },
+    "YuNarukami": {
+      "0": {
+        "x": 258,
+        "y": 242
+      }
+    },
+    "YukariTakeba": {
+      "0": {
+        "x": 349,
+        "y": 229
+      }
+    },
+    "SYukariTakeba": {
+      "0": {
+        "x": 210,
+        "y": 248
+      }
+    },
+    "YukikoAmagi": {
+      "0": {
+        "x": 278,
+        "y": 260
+      }
+    },
+    "SYukikoAmagi": {
+      "0": {
+        "x": 249,
+        "y": 250
+      }
+    }
+  }
+}

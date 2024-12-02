@@ -7,7 +7,7 @@
     "top8"
   ],
   "credits": "",
-  "version": "1.02",
+  "version": "24.12.02.67079",
   "eyesights": {
     "Aigis": {
       "0": {
@@ -231,5 +231,9 @@
         "y": 250
       }
     }
+  },
+  "average_size": {
+    "x": 498,
+    "y": 887
   }
 }

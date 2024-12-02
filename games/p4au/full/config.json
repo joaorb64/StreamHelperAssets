@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "",
-  "version": "1.02",
+  "version": "24.12.02.67079",
   "eyesights": {
     "Aigis": {
       "0": {
@@ -235,5 +235,9 @@
   "uncropped_edge": [
     "r",
     "u"
-  ]
+  ],
+  "average_size": {
+    "x": 497,
+    "y": 831
+  }
 }

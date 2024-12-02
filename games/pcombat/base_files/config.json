@@ -256,7 +256,7 @@
     "Mega Lopunny": {
       "codename": "428-M",
       "locale": {
-        "fr": "Lockpin (Méga)",
+        "fr": "Lockpin (M\u00e9ga)",
         "de": "Schlapor",
         "ko": "\uc774\uc5b4\ub86d",
         "ja": "\u30df\u30df\u30ed\u30c3\u30d7",
@@ -272,5 +272,5 @@
   "name": "Pok\u00e9mon: Close Combat",
   "smashgg_game_id": 56300,
   "stage_to_codename": {},
-  "version": "24.11.26.54004"
+  "version": "24.11.28.65874"
 }

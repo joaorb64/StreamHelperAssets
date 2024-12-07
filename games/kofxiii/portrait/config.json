@@ -1,0 +1,11 @@
+{
+  "name": "Dialogue",
+  "description": "Character Portraits from the dialogue in Arcade mode",
+  "prefix": "chara_",
+  "postfix": "_",
+  "type": [
+    "portrait"
+  ],
+  "credits": "Flipped for convenience of use in Tournament Stream Helper",
+  "version": "24.11.26.54004"
+}

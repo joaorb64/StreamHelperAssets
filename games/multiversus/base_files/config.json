@@ -158,7 +158,8 @@
           "locale": {
             "fr": "Le Batman qui Rit",
             "pt_BR": "O Batman que ri"
-          }
+          },
+          "is_different_character": true
         }
       },
       "smashgg_name": "The Joker"
@@ -180,7 +181,8 @@
             "fr": "Garde Lady Banane",
             "pt_BR": "Senhora Guarda Banana"
           }
-        }
+        },
+        "is_different_character": true
       },
       "smashgg_name": "Banana Guard"
     },
@@ -215,7 +217,8 @@
             "fr": "Les Sales Petits Mecs",
             "pt_BR": "Os Meninos Desordeiros"
           }
-        }
+        },
+        "is_different_character": true
       },
       "smashgg_name": "Powerpuff Girls"
     },

@@ -1,0 +1,11 @@
+{
+  "name": "Background",
+  "description": "Character backgrounds used on the official Marvel Rivals website",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "background"
+  ],
+  "credits": "Assets ripped from https://www.marvelrivals.com/heroes/index.html",
+  "version": "24.11.26.54004"
+}

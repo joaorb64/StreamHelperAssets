@@ -783,7 +783,8 @@
             "fr": "Dresseuse de Pok\u00e9mon",
             "de": "Pok\u00e9mon-Trainerin",
             "it": "Allenatrice di Pok\u00e9mon"
-          }
+          },
+          "is_different_character": true
         },
         "3": {
           "locale": {
@@ -791,7 +792,8 @@
             "fr": "Dresseuse de Pok\u00e9mon",
             "de": "Pok\u00e9mon-Trainerin",
             "it": "Allenatrice di Pok\u00e9mon"
-          }
+          },
+          "is_different_character": true
         },
         "5": {
           "locale": {
@@ -799,7 +801,8 @@
             "fr": "Dresseuse de Pok\u00e9mon",
             "de": "Pok\u00e9mon-Trainerin",
             "it": "Allenatrice di Pok\u00e9mon"
-          }
+          },
+          "is_different_character": true
         },
         "7": {
           "locale": {
@@ -807,7 +810,8 @@
             "fr": "Dresseuse de Pok\u00e9mon",
             "de": "Pok\u00e9mon-Trainerin",
             "it": "Allenatrice di Pok\u00e9mon"
-          }
+          },
+          "is_different_character": true
         }
       }
     },
@@ -1018,7 +1022,8 @@
             "fr_CA": "Habitante",
             "de": "Bewohnerin",
             "ru": "\u0416\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430"
-          }
+          },
+          "is_different_character": true
         },
         "3": {
           "locale": {
@@ -1027,7 +1032,8 @@
             "fr_CA": "Habitante",
             "de": "Bewohnerin",
             "ru": "\u0416\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430"
-          }
+          },
+          "is_different_character": true
         },
         "5": {
           "locale": {
@@ -1036,7 +1042,8 @@
             "fr_CA": "Habitante",
             "de": "Bewohnerin",
             "ru": "\u0416\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430"
-          }
+          },
+          "is_different_character": true
         },
         "7": {
           "locale": {
@@ -1045,7 +1052,8 @@
             "fr_CA": "Habitante",
             "de": "Bewohnerin",
             "ru": "\u0416\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430"
-          }
+          },
+          "is_different_character": true
         }
       }
     },
@@ -1094,28 +1102,32 @@
             "es": "Entrenador De Wii Fit",
             "fr": "Entra\u00eeneur Wii Fit",
             "de": "Wii Fit-Trainer"
-          }
+          },
+          "is_different_character": true
         },
         "3": {
           "locale": {
             "es": "Entrenador De Wii Fit",
             "fr": "Entra\u00eeneur Wii Fit",
             "de": "Wii Fit-Trainer"
-          }
+          },
+          "is_different_character": true
         },
         "5": {
           "locale": {
             "es": "Entrenador De Wii Fit",
             "fr": "Entra\u00eeneur Wii Fit",
             "de": "Wii Fit-Trainer"
-          }
+          },
+          "is_different_character": true
         },
         "7": {
           "locale": {
             "es": "Entrenador De Wii Fit",
             "fr": "Entra\u00eeneur Wii Fit",
             "de": "Wii Fit-Trainer"
-          }
+          },
+          "is_different_character": true
         }
       }
     },
@@ -1339,7 +1351,8 @@
             "zh_TW": "\u62c9\u91cc",
             "ko": "\ub798\ub9ac",
             "ru": "\u041b\u0430\u0440\u0440\u0438"
-          }
+          },
+          "is_different_character": true
         },
         "2": {
           "name": "Roy",
@@ -1349,7 +1362,8 @@
             "zh_TW": "\u6d1b\u4f0a",
             "ko": "\ub85c\uc774",
             "ru": "\u0420\u043e\u0439"
-          }
+          },
+          "is_different_character": true
         },
         "3": {
           "name": "Wendy",
@@ -1359,7 +1373,8 @@
             "zh_TW": "\u6eab\u7df9",
             "ko": "\uc6ec\ub514",
             "ru": "\u0412\u0435\u043d\u0434\u0438"
-          }
+          },
+          "is_different_character": true
         },
         "4": {
           "name": "Iggy",
@@ -1369,7 +1384,8 @@
             "zh_CN": "\u4f0a\u5409",
             "ko": "\uc6ec\ub514",
             "ru": "\u0418\u0433\u0433\u0438"
-          }
+          },
+          "is_different_character": true
         },
         "5": {
           "name": "Morton",
@@ -1379,7 +1395,8 @@
             "zh_TW": "\u83ab\u987f",
             "ko": "\ubaa8\ud1a4",
             "ru": "\u041c\u043e\u0440\u0442\u043e\u043d"
-          }
+          },
+          "is_different_character": true
         },
         "6": {
           "name": "Lemmy",
@@ -1389,7 +1406,8 @@
             "zh_TW": "\u96f7\u7c73",
             "ko": "\ub808\ubbf8",
             "ru": "\u041b\u0435\u043c\u043c\u0438"
-          }
+          },
+          "is_different_character": true
         },
         "7": {
           "name": "Ludwig",
@@ -1399,7 +1417,8 @@
             "zh_TW": "\u6d1b\u5fb7\u5a01\u683c",
             "ko": "\ub8e8\ub4dc\uc705",
             "ru": "\u041b\u044e\u0434\u0432\u0438\u0433"
-          }
+          },
+          "is_different_character": true
         }
       }
     },

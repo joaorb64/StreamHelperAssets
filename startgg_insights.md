@@ -268,6 +268,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Mortal Kombat XL
 ### Coverage: (33/33)
 
+## Marvel Rivals
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Mario Superstar Baseball
 Game has no characters in startgg...? Or do we have a wrong game id?
 

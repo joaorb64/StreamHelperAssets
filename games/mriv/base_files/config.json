@@ -1,0 +1,114 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Adam Warlock": {
+      "codename": "AdamWarlock"
+    },
+    "Black Panther": {
+      "codename": "BlackPanther"
+    },
+    "Black Widow": {
+      "codename": "BlackWidow"
+    },
+    "Captain America": {
+      "codename": "CaptainAmerica"
+    },
+    "Cloak & Dagger": {
+      "codename": "CloakDagger"
+    },
+    "Doctor Strange": {
+      "codename": "DoctorStrange"
+    },
+    "Groot": {
+      "codename": "Groot"
+    },
+    "Hawkeye": {
+      "codename": "Hawkeye"
+    },
+    "Hela": {
+      "codename": "Hela"
+    },
+    "Hulk": {
+      "codename": "Hulk"
+    },
+    "Iron Fist": {
+      "codename": "IronFist"
+    },
+    "Iron Man": {
+      "codename": "IronMan"
+    },
+    "Jeff the Land Shark": {
+      "codename": "JefftheLandShark"
+    },
+    "Loki": {
+      "codename": "Loki"
+    },
+    "Luna Snow": {
+      "codename": "LunaSnow"
+    },
+    "Magik": {
+      "codename": "Magik"
+    },
+    "Magneto": {
+      "codename": "Magneto"
+    },
+    "Mantis": {
+      "codename": "Mantis"
+    },
+    "Moon Knight": {
+      "codename": "MoonKnight"
+    },
+    "Namor": {
+      "codename": "Namor"
+    },
+    "Peni Parker": {
+      "codename": "PeniParker"
+    },
+    "Psylocke": {
+      "codename": "Psylocke"
+    },
+    "Punisher": {
+      "codename": "Punisher"
+    },
+    "Rocket Raccoon": {
+      "codename": "RocketRaccoon"
+    },
+    "Scarlet Witch": {
+      "codename": "ScarletWitch"
+    },
+    "Spider-Man": {
+      "codename": "SpiderMan"
+    },
+    "Squirrel Girl": {
+      "codename": "SquirrelGirl"
+    },
+    "Star-Lord": {
+      "codename": "StarLord"
+    },
+    "Storm": {
+      "codename": "Storm"
+    },
+    "Thor": {
+      "codename": "Thor"
+    },
+    "Venom": {
+      "codename": "Venom"
+    },
+    "Winter Soldier": {
+      "codename": "WinterSoldier"
+    },
+    "Wolverine": {
+      "codename": "Wolverine"
+    }
+  },
+  "credits": "Assets ripped from https://www.marvelrivals.com/heroes/index.html",
+  "description": "Base config to use this game.",
+  "name": "Marvel Rivals",
+  "smashgg_game_id": 80355,
+  "stage_to_codename": {},
+  "version": "24.12.09.68671",
+  "defaults": {
+    "players_per_team": 6,
+    "characters_per_player": 1
+  }
+}

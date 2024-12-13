@@ -1,0 +1,221 @@
+{
+  "name": "Artwork",
+  "description": "Character artwork",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Assets ripped from https://www.marvelrivals.com/heroes/index.html",
+  "version": "24.12.09.68671",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ],
+  "eyesights": {
+    "AdamWarlock": {
+      "0": {
+        "x": 769,
+        "y": 236
+      }
+    },
+    "BlackPanther": {
+      "0": {
+        "x": 755,
+        "y": 195
+      }
+    },
+    "BlackWidow": {
+      "0": {
+        "x": 741,
+        "y": 168
+      }
+    },
+    "CaptainAmerica": {
+      "0": {
+        "x": 748,
+        "y": 167
+      }
+    },
+    "CloakDagger": {
+      "0": {
+        "x": 1144,
+        "y": 461
+      }
+    },
+    "DoctorStrange": {
+      "0": {
+        "x": 843,
+        "y": 186
+      }
+    },
+    "Groot": {
+      "0": {
+        "x": 757,
+        "y": 178
+      }
+    },
+    "Hawkeye": {
+      "0": {
+        "x": 773,
+        "y": 185
+      }
+    },
+    "Hela": {
+      "0": {
+        "x": 783,
+        "y": 158
+      }
+    },
+    "Hulk": {
+      "0": {
+        "x": 806,
+        "y": 92
+      }
+    },
+    "IronFist": {
+      "0": {
+        "x": 816,
+        "y": 161
+      }
+    },
+    "IronMan": {
+      "0": {
+        "x": 691,
+        "y": 130
+      }
+    },
+    "JefftheLandShark": {
+      "0": {
+        "x": 1002,
+        "y": 383
+      }
+    },
+    "Loki": {
+      "0": {
+        "x": 742,
+        "y": 179
+      }
+    },
+    "LunaSnow": {
+      "0": {
+        "x": 749,
+        "y": 276
+      }
+    },
+    "Magik": {
+      "0": {
+        "x": 704,
+        "y": 205
+      }
+    },
+    "Magneto": {
+      "0": {
+        "x": 828,
+        "y": 183
+      }
+    },
+    "Mantis": {
+      "0": {
+        "x": 689,
+        "y": 220
+      }
+    },
+    "MoonKnight": {
+      "0": {
+        "x": 700,
+        "y": 204
+      }
+    },
+    "Namor": {
+      "0": {
+        "x": 747,
+        "y": 116
+      }
+    },
+    "PeniParker": {
+      "0": {
+        "x": 944,
+        "y": 185
+      }
+    },
+    "Psylocke": {
+      "0": {
+        "x": 750,
+        "y": 240
+      }
+    },
+    "Punisher": {
+      "0": {
+        "x": 792,
+        "y": 186
+      }
+    },
+    "RocketRaccoon": {
+      "0": {
+        "x": 800,
+        "y": 387
+      }
+    },
+    "ScarletWitch": {
+      "0": {
+        "x": 807,
+        "y": 275
+      }
+    },
+    "SpiderMan": {
+      "0": {
+        "x": 862,
+        "y": 240
+      }
+    },
+    "SquirrelGirl": {
+      "0": {
+        "x": 936,
+        "y": 182
+      }
+    },
+    "StarLord": {
+      "0": {
+        "x": 773,
+        "y": 203
+      }
+    },
+    "Storm": {
+      "0": {
+        "x": 870,
+        "y": 206
+      }
+    },
+    "Thor": {
+      "0": {
+        "x": 794,
+        "y": 174
+      }
+    },
+    "Venom": {
+      "0": {
+        "x": 866,
+        "y": 137
+      }
+    },
+    "WinterSoldier": {
+      "0": {
+        "x": 685,
+        "y": 214
+      }
+    },
+    "Wolverine": {
+      "0": {
+        "x": 781,
+        "y": 161
+      }
+    }
+  },
+  "average_size": {
+    "x": 1339,
+    "y": 1079
+  }
+}

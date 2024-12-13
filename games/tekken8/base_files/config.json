@@ -144,6 +144,10 @@
     "Heihachi Mishima": {
       "codename": "hei",
       "smashgg_name": "Heihachi"
+    },
+    "Clive Rosfield": {
+      "codename": "cli",
+      "smashgg_name": "Clive"
     }
   },
   "credits": "Icons ripped from the game",
@@ -151,5 +155,5 @@
   "name": "Tekken 8",
   "smashgg_game_id": 49783,
   "stage_to_codename": {},
-  "version": "24.11.26.54005"
+  "version": "24.12.13.69805"
 }

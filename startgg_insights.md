@@ -553,7 +553,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Splatoon 3
 Game has no characters in startgg...? Or do we have a wrong game id?
 
-## Super Smash Bros
+## Super Smash Bros.
 - Character [Dark Samus]: Character name [Dark Samus] doesn't exist in StartGG
 - Character [Bowser]: Character name [Bowser] doesn't exist in StartGG
 - Character [Dr. Mario]: Character name [Dr. Mario] doesn't exist in StartGG

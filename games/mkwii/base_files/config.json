@@ -395,5 +395,12 @@
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c8Wii"
     }
-  }
+  },
+  "alternate_versions": [
+    {
+      "name": "CTGP Revolution",
+      "smashgg_game_id": null,
+      "logo_path": "logo_ctgp.png"
+    }
+  ]
 }

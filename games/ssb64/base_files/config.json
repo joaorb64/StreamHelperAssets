@@ -1,5 +1,5 @@
 {
-  "name": "Super Smash Bros",
+  "name": "Super Smash Bros.",
   "locale": {
     "ja": {
       "name": "\u30cb\u30f3\u30c6\u30f3\u30c9\u30a6\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\uff01\u5927\u4e71\u95d8\u30b9\u30de\u30c3\u30b7\u30e5\u30d6\u30e9\u30b6\u30fc\u30ba"
@@ -1004,5 +1004,12 @@
     }
   },
   "version": "24.11.26.54005",
-  "description": "Base config to use this game."
+  "description": "Base config to use this game.",
+  "alternate_versions": [
+    {
+      "name": "Smash Remix",
+      "smashgg_game_id": 34157,
+      "logo_path": "logo_rmx.png"
+    }
+  ]
 }

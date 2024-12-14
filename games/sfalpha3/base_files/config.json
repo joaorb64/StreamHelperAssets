@@ -123,5 +123,22 @@
     "ja": {
       "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcZERO/3"
     }
-  }
+  },
+  "alternate_versions": [
+    {
+      "name": "Street Fighter Alpha 3↑",
+      "smashgg_game_id": 34455,
+      "logo_path": "logo_upper.png"
+    },
+    {
+      "name": "Street Fighter Alpha 3 MAX",
+      "smashgg_game_id": 17035,
+      "logo_path": "logo_max.png"
+    },
+    {
+      "name": "Hyper Street Fighter Alpha",
+      "smashgg_game_id": null,
+      "logo_path": "logo_hyper.png"
+    }
+  ]
 }

@@ -160,5 +160,12 @@
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 3
-  }
+  },
+  "alternate_versions": [
+    {
+      "name": "Capcom VS SNK 2 EO",
+      "smashgg_game_id": 33213,
+      "logo_path": "logo_eo.png"
+    }
+  ]
 }

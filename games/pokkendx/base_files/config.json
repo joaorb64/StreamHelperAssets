@@ -304,5 +304,12 @@
     "ko": {
       "name": "\ud3ff\uad8c: POKK\u00c9N TOURNAMENT DX"
     }
-  }
+  },
+  "alternate_versions": [
+    {
+      "name": "Pokkén Tournament",
+      "smashgg_game_id": 8,
+      "logo_path": "logo_wiiu.png"
+    }
+  ]
 }

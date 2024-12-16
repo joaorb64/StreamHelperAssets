@@ -272,5 +272,12 @@
   "name": "Pok\u00e9mon: Close Combat",
   "smashgg_game_id": 56300,
   "stage_to_codename": {},
-  "version": "24.11.28.65874"
+  "version": "24.12.16.53822",
+  "alternate_versions": [
+    {
+      "name": null,
+      "smashgg_game_id": 79205,
+      "logo_path": null
+    }
+  ]
 }

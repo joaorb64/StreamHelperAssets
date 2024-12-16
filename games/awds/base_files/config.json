@@ -91,5 +91,12 @@
   "name": "Advance Wars: Dual Strike",
   "smashgg_game_id": 5584,
   "stage_to_codename": {},
-  "version": "24.11.26.54004"
+  "version": "24.12.14.75174",
+  "alternate_versions": [
+    {
+      "name": "Advance Wars By Web",
+      "smashgg_game_id": null,
+      "logo_path": "logo_awbw.png"
+    }
+  ]
 }

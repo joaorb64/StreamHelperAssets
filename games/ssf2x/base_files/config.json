@@ -525,12 +525,19 @@
     }
   },
   "stage_to_codename": {},
-  "version": "24.11.26.54005",
+  "version": "24.12.14.75174",
   "description": "Base config to use this game.",
   "credits": "Portraits ripped by @ADHD2I",
   "locale": {
     "ja": {
       "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcII X -Grand Master Challenge-"
     }
-  }
+  },
+  "alternate_versions": [
+    {
+      "name": "Hyper Street Fighter II: The Anniversary Edition",
+      "smashgg_game_id": 18132,
+      "logo_path": "logo_hyper.png"
+    }
+  ]
 }

@@ -69,5 +69,17 @@
   "name": "Street Fighter Alpha 2",
   "smashgg_game_id": 9219,
   "stage_to_codename": {},
-  "version": "24.11.26.54005"
+  "version": "24.12.14.75174",
+  "alternate_versions": [
+    {
+      "name": "Street Fighter Zero 2 Alpha",
+      "smashgg_game_id": null,
+      "logo_path": "logo_z2a.png"
+    },
+    {
+      "name": "Street Fighter Alpha 2 Gold",
+      "smashgg_game_id": null,
+      "logo_path": "logo_gold.png"
+    }
+  ]
 }

@@ -91,10 +91,17 @@
   "name": "SoulCalibur II",
   "smashgg_game_id": 5582,
   "stage_to_codename": {},
-  "version": "24.11.26.54005",
+  "version": "24.12.14.75174",
   "locale": {
     "ja": {
       "name": "\u30bd\u30a6\u30eb\u30ad\u30e3\u30ea\u30d0\u30fcII"
     }
-  }
+  },
+  "alternate_versions": [
+    {
+      "name": "SoulCalibur II HD Online",
+      "smashgg_game_id": 41072,
+      "logo_path": "logo_hd.png"
+    }
+  ]
 }

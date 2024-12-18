@@ -14,7 +14,8 @@
       "codename": "EddyGordo",
       "skin_name": {
         "1": {
-          "name": "Tiger Jackson"
+          "name": "Tiger Jackson",
+          "is_different_character": true
         }
       }
     },
@@ -46,7 +47,8 @@
       "codename": "Kuma",
       "skin_name": {
         "1": {
-          "name": "Panda"
+          "name": "Panda",
+          "is_different_character": true
         }
       }
     },

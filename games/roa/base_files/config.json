@@ -25,7 +25,8 @@
       },
       "skin_name": {
         "16": {
-          "name": "Bradshaw"
+          "name": "Bradshaw",
+          "is_different_character": true
         }
       }
     },
@@ -51,7 +52,8 @@
       },
       "skin_name": {
         "18": {
-          "name": "Ragnir"
+          "name": "Ragnir",
+          "is_different_character": true
         }
       }
     },
@@ -105,7 +107,8 @@
       },
       "skin_name": {
         "15": {
-          "name": "Alaya"
+          "name": "Alaya",
+          "is_different_character": true
         }
       }
     },

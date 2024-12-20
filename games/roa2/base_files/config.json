@@ -3,35 +3,1161 @@
   "character_to_codename": {
     "Kragg": {
       "codename": "Kragg",
-      "smashgg_name": "Kragg"
+      "smashgg_name": "Kragg",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Green"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Retro"
+        },
+        "5": {
+          "name": "Retro - Red"
+        },
+        "6": {
+          "name": "Retro - Green"
+        },
+        "7": {
+          "name": "Retro - Blue"
+        },
+        "8": {
+          "name": "Prehistoric"
+        },
+        "10": {
+          "name": "Prehistoric - Red"
+        },
+        "11": {
+          "name": "Prehistoric - Green"
+        },
+        "12": {
+          "name": "Prehistoric - Blue"
+        },
+        "13": {
+          "name": "Scarab"
+        },
+        "14": {
+          "name": "Scarab - Red"
+        },
+        "15": {
+          "name": "Scarab - Green"
+        },
+        "16": {
+          "name": "Scarab - Blue"
+        },
+        "17": {
+          "name": "Soccer"
+        },
+        "18": {
+          "name": "Soccer - Red"
+        },
+        "19": {
+          "name": "Soccer - Green"
+        },
+        "20": {
+          "name": "Soccer - Blue"
+        },
+        "21": {
+          "name": "Default - Black"
+        },
+        "22": {
+          "name": "Default - Cool Blue"
+        },
+        "23": {
+          "name": "Default - Mint"
+        },
+        "24": {
+          "name": "Default - Spooky"
+        },
+        "25": {
+          "name": "Ladybug"
+        },
+        "26": {
+          "name": "Ladybug - Blue"
+        },
+        "27": {
+          "name": "Ladybug - Green"
+        },
+        "28": {
+          "name": "Ladybug - Red"
+        },
+        "29": {
+          "name": "Goliath"
+        },
+        "30": {
+          "name": "Goliath - Blue"
+        },
+        "31": {
+          "name": "Goliath - Green"
+        },
+        "32": {
+          "name": "Goliath - Red"
+        },
+        "33": {
+          "name": "Abyss"
+        },
+        "34": {
+          "name": "Abyss - Blue"
+        },
+        "35": {
+          "name": "Abyss - Green"
+        },
+        "36": {
+          "name": "Abyss - Red"
+        },
+        "37": {
+          "name": "Default - Purple"
+        },
+        "38": {
+          "name": "Low Poly"
+        },
+        "39": {
+          "name": "Low Poly - Red"
+        },
+        "40": {
+          "name": "Low Poly - Blue"
+        },
+        "41": {
+          "name": "Low Poly - Green"
+        },
+        "9": {
+          "name": "Rockstar"
+        },
+        "42": {
+          "name": "Rockstar - Red"
+        },
+        "43": {
+          "name": "Rockstar - Blue"
+        },
+        "44": {
+          "name": "Rockstar - Green"
+        },
+        "45": {
+          "name": "Default - Abyssal"
+        },
+        "46": {
+          "name": "Bee"
+        },
+        "47": {
+          "name": "Bee - Red"
+        },
+        "48": {
+          "name": "Bee - Blue"
+        },
+        "49": {
+          "name": "Bee - Green"
+        },
+        "50": {
+          "name": "Snowman"
+        },
+        "51": {
+          "name": "Snowman - Red"
+        },
+        "52": {
+          "name": "Snowman - Blue"
+        },
+        "53": {
+          "name": "Snowman - Green"
+        }
+      }
     },
     "Ranno": {
       "codename": "Ranno",
-      "smashgg_name": "Ranno"
+      "smashgg_name": "Ranno",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Green"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Retro"
+        },
+        "5": {
+          "name": "Retro - Red"
+        },
+        "6": {
+          "name": "Retro - Green"
+        },
+        "7": {
+          "name": "Retro - Blue"
+        },
+        "8": {
+          "name": "Tuxedo"
+        },
+        "9": {
+          "name": "Tuxedo - Red"
+        },
+        "10": {
+          "name": "Tuxedo - Green"
+        },
+        "11": {
+          "name": "Tuxedo - Blue"
+        },
+        "12": {
+          "name": "Default - Black"
+        },
+        "13": {
+          "name": "Default - Cool Blue"
+        },
+        "14": {
+          "name": "Default - Mint"
+        },
+        "15": {
+          "name": "Default - Spooky"
+        },
+        "16": {
+          "name": "Solid"
+        },
+        "17": {
+          "name": "Solid - Blue"
+        },
+        "18": {
+          "name": "Solid - Green"
+        },
+        "19": {
+          "name": "Solid - Red"
+        },
+        "20": {
+          "name": "Dart"
+        },
+        "21": {
+          "name": "Dart - Blue"
+        },
+        "22": {
+          "name": "Dart - Green"
+        },
+        "23": {
+          "name": "Dart - Red"
+        },
+        "24": {
+          "name": "Black Widow"
+        },
+        "25": {
+          "name": "Black Widow - Blue"
+        },
+        "26": {
+          "name": "Black Widow - Green"
+        },
+        "27": {
+          "name": "Black Widow - Red"
+        },
+        "28": {
+          "name": "Abyss"
+        },
+        "29": {
+          "name": "Abyss - Blue"
+        },
+        "30": {
+          "name": "Abyss - Green"
+        },
+        "31": {
+          "name": "Abyss - Red"
+        },
+        "32": {
+          "name": "Default - Purple"
+        },
+        "33": {
+          "name": "Slam Dunk"
+        },
+        "34": {
+          "name": "Slam Dunk - Red"
+        },
+        "35": {
+          "name": "Slam Dunk - Blue"
+        },
+        "36": {
+          "name": "Slam Dunk - Green"
+        },
+        "37": {
+          "name": "Slam Dunk - Heat Wave 7"
+        },
+        "38": {
+          "name": "Slam Dunk - SSE Fall Showcase 2024"
+        },
+        "39": {
+          "name": "Slam Dunk - Don't Park on the Grass 2024"
+        },
+        "40": {
+          "name": "Slam Dunk - LACS Rivals"
+        },
+        "41": {
+          "name": "Low Poly"
+        },
+        "42": {
+          "name": "Low Poly - Red"
+        },
+        "43": {
+          "name": "Low Poly - Blue"
+        },
+        "44": {
+          "name": "Low Poly - Green"
+        },
+        "45": {
+          "name": "Default - Abyssal"
+        },
+        "46": {
+          "name": "Slam Dunk - Platfight Gaming Championships"
+        },
+        "47": {
+          "name": "Tree Frog"
+        },
+        "48": {
+          "name": "Tree Frog - Red"
+        },
+        "49": {
+          "name": "Tree Frog - Blue"
+        },
+        "50": {
+          "name": "Tree Frog - Green"
+        },
+        "51": {
+          "name": "Snow Day"
+        },
+        "52": {
+          "name": "Snow Day - Red"
+        },
+        "53": {
+          "name": "Snow Day - Blue"
+        },
+        "54": {
+          "name": "Snow Day - Green"
+        }
+      }
     },
     "Wrastor": {
       "codename": "Wrastor",
-      "smashgg_name": "Wrastor"
+      "smashgg_name": "Wrastor",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Green"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Retro"
+        },
+        "5": {
+          "name": "Retro - Red"
+        },
+        "6": {
+          "name": "Retro - Green"
+        },
+        "7": {
+          "name": "Retro - Blue"
+        },
+        "8": {
+          "name": "Early Bird"
+        },
+        "9": {
+          "name": "Early Bird - Red"
+        },
+        "10": {
+          "name": "Early Bird - Green"
+        },
+        "11": {
+          "name": "Early Bird - Blue"
+        },
+        "12": {
+          "name": "Mecha Wrastor"
+        },
+        "13": {
+          "name": "Mecha Wrastor - Red"
+        },
+        "14": {
+          "name": "Mecha Wrastor - Green"
+        },
+        "15": {
+          "name": "Mecha Wrastor - Blue"
+        },
+        "16": {
+          "name": "Default - Black"
+        },
+        "17": {
+          "name": "Default - Cool Blue"
+        },
+        "18": {
+          "name": "Default - Mint"
+        },
+        "19": {
+          "name": "Default - Spooky"
+        },
+        "20": {
+          "name": "Parrot"
+        },
+        "21": {
+          "name": "Parrot - Blue"
+        },
+        "22": {
+          "name": "Parrot - Green"
+        },
+        "23": {
+          "name": "Parrot - Red"
+        },
+        "24": {
+          "name": "Bluejay"
+        },
+        "25": {
+          "name": "Bluejay - Blue"
+        },
+        "26": {
+          "name": "Bluejay - Green"
+        },
+        "27": {
+          "name": "Bluejay - Red"
+        },
+        "28": {
+          "name": "Abyss"
+        },
+        "29": {
+          "name": "Abyss - Blue"
+        },
+        "30": {
+          "name": "Abyss - Green"
+        },
+        "31": {
+          "name": "Abyss - Red"
+        },
+        "32": {
+          "name": "Default - Purple"
+        },
+        "33": {
+          "name": "Low Poly"
+        },
+        "34": {
+          "name": "Low Poly - Red"
+        },
+        "35": {
+          "name": "Low Poly - Blue"
+        },
+        "36": {
+          "name": "Low Poly - Green"
+        },
+        "37": {
+          "name": "Default - Abyssal"
+        },
+        "38": {
+          "name": "Puffin"
+        },
+        "39": {
+          "name": "Puffin - Red"
+        },
+        "40": {
+          "name": "Puffin - Blue"
+        },
+        "41": {
+          "name": "Puffin - Green"
+        }
+      }
     },
     "Zetterburn": {
       "codename": "Zetterburn",
-      "smashgg_name": "Zetterburn"
+      "smashgg_name": "Zetterburn",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Green"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Retro"
+        },
+        "5": {
+          "name": "Retro - Red"
+        },
+        "6": {
+          "name": "Retro - Green"
+        },
+        "7": {
+          "name": "Retro - Blue"
+        },
+        "8": {
+          "name": "Lovers"
+        },
+        "9": {
+          "name": "Lovers - Red"
+        },
+        "10": {
+          "name": "Lovers - Green"
+        },
+        "11": {
+          "name": "Lovers - Blue"
+        },
+        "12": {
+          "name": "Default - Black"
+        },
+        "13": {
+          "name": "Default - Cool Blue"
+        },
+        "14": {
+          "name": "Default - Mint"
+        },
+        "15": {
+          "name": "Default - Spooky"
+        },
+        "16": {
+          "name": "Vampire"
+        },
+        "17": {
+          "name": "Vampire - Blue"
+        },
+        "18": {
+          "name": "Vampire - Green"
+        },
+        "19": {
+          "name": "Vampire - Red"
+        },
+        "20": {
+          "name": "Tiger"
+        },
+        "21": {
+          "name": "Tiger - Blue"
+        },
+        "22": {
+          "name": "Tiger - Green"
+        },
+        "23": {
+          "name": "Tiger - Red"
+        },
+        "24": {
+          "name": "Panther"
+        },
+        "25": {
+          "name": "Panther - Blue"
+        },
+        "26": {
+          "name": "Panther - Green"
+        },
+        "27": {
+          "name": "Panther - Red"
+        },
+        "28": {
+          "name": "Abyss"
+        },
+        "29": {
+          "name": "Abyss - Blue"
+        },
+        "30": {
+          "name": "Abyss - Green"
+        },
+        "31": {
+          "name": "Abyss - Red"
+        },
+        "32": {
+          "name": "Default - Purple"
+        },
+        "33": {
+          "name": "Default - Abyssal"
+        },
+        "34": {
+          "name": "Cheetah"
+        },
+        "35": {
+          "name": "Cheetah - Red"
+        },
+        "36": {
+          "name": "Cheetah - Blue"
+        },
+        "37": {
+          "name": "Cheetah - Green"
+        }
+      }
     },
     "Fleet": {
       "codename": "Fleet",
-      "smashgg_name": "Fleet"
+      "smashgg_name": "Fleet",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Green"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Retro"
+        },
+        "5": {
+          "name": "Retro - Red"
+        },
+        "6": {
+          "name": "Retro - Green"
+        },
+        "7": {
+          "name": "Retro - Blue"
+        },
+        "8": {
+          "name": "Summer"
+        },
+        "9": {
+          "name": "Summer - Red"
+        },
+        "10": {
+          "name": "Summer - Green"
+        },
+        "11": {
+          "name": "Summer - Blue"
+        },
+        "12": {
+          "name": "Default - Black"
+        },
+        "13": {
+          "name": "Default - Cool Blue"
+        },
+        "14": {
+          "name": "Default - Mint"
+        },
+        "15": {
+          "name": "Default - Spooky"
+        },
+        "16": {
+          "name": "Sunny"
+        },
+        "17": {
+          "name": "Sunny - Blue"
+        },
+        "18": {
+          "name": "Sunny - Green"
+        },
+        "19": {
+          "name": "Sunny - Red"
+        },
+        "20": {
+          "name": "Aussie"
+        },
+        "21": {
+          "name": "Aussie - Blue"
+        },
+        "22": {
+          "name": "Aussie - Green"
+        },
+        "23": {
+          "name": "Aussie - Red"
+        },
+        "24": {
+          "name": "Abyss"
+        },
+        "25": {
+          "name": "Default - Purple"
+        },
+        "26": {
+          "name": "Abyss - Blue"
+        },
+        "27": {
+          "name": "Abyss - Green"
+        },
+        "28": {
+          "name": "Abyss - Red"
+        },
+        "29": {
+          "name": "Fan"
+        },
+        "30": {
+          "name": "Fan - Blue"
+        },
+        "31": {
+          "name": "Fan - Green"
+        },
+        "32": {
+          "name": "Fan - Red"
+        },
+        "33": {
+          "name": "Default - Abyssal"
+        },
+        "34": {
+          "name": "Husky"
+        },
+        "35": {
+          "name": "Husky - Red"
+        },
+        "36": {
+          "name": "Husky - Blue"
+        },
+        "37": {
+          "name": "Husky - Green"
+        },
+        "38": {
+          "name": "Princess"
+        },
+        "39": {
+          "name": "Princess - Red"
+        },
+        "40": {
+          "name": "Princess - Blue"
+        },
+        "41": {
+          "name": "Princess - Green"
+        },
+        "42": {
+          "name": "Princess - Kickstarter"
+        },
+        "43": {
+          "name": "Pajama"
+        },
+        "44": {
+          "name": "Pajama - Red"
+        },
+        "45": {
+          "name": "Pajama - Blue"
+        },
+        "46": {
+          "name": "Pajama - Green"
+        },
+        "47": {
+          "name": "Pajama - Kickstarter"
+        },
+        "48": {
+          "name": "Badger"
+        },
+        "49": {
+          "name": "Badger - Red"
+        },
+        "50": {
+          "name": "Badger - Blue"
+        },
+        "51": {
+          "name": "Badger - Green"
+        },
+        "52": {
+          "name": "Badger - Kickstarter"
+        }
+      }
     },
     "Maypul": {
       "codename": "Maypul",
-      "smashgg_name": "Maypul"
+      "smashgg_name": "Maypul",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Green"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Retro"
+        },
+        "5": {
+          "name": "Retro - Red"
+        },
+        "6": {
+          "name": "Retro - Green"
+        },
+        "7": {
+          "name": "Retro - Blue"
+        },
+        "8": {
+          "name": "Bandit"
+        },
+        "9": {
+          "name": "Bandit - Red"
+        },
+        "10": {
+          "name": "Bandit - Green"
+        },
+        "11": {
+          "name": "Bandit - Blue"
+        },
+        "12": {
+          "name": "Default - Black"
+        },
+        "13": {
+          "name": "Default - Cool Blue"
+        },
+        "14": {
+          "name": "Default - Mint"
+        },
+        "15": {
+          "name": "Default - Spooky"
+        },
+        "16": {
+          "name": "Winter Stoat"
+        },
+        "17": {
+          "name": "Winter Stoat - Blue"
+        },
+        "18": {
+          "name": "Winter Stoat - Green"
+        },
+        "19": {
+          "name": "Winter Stoat - Red"
+        },
+        "20": {
+          "name": "Skunk"
+        },
+        "21": {
+          "name": "Skunk - Blue"
+        },
+        "22": {
+          "name": "Skunk - Green"
+        },
+        "23": {
+          "name": "Skunk - Red"
+        },
+        "24": {
+          "name": "Civet"
+        },
+        "25": {
+          "name": "Civet - Blue"
+        },
+        "26": {
+          "name": "Civet - Green"
+        },
+        "27": {
+          "name": "Civet - Red"
+        },
+        "28": {
+          "name": "Abyss"
+        },
+        "29": {
+          "name": "Abyss - Blue"
+        },
+        "30": {
+          "name": "Abyss - Green"
+        },
+        "31": {
+          "name": "Abyss - Red"
+        },
+        "32": {
+          "name": "Default - Purple"
+        },
+        "33": {
+          "name": "Default - Abyssal"
+        },
+        "34": {
+          "name": "Marten"
+        },
+        "35": {
+          "name": "Marten - Red"
+        },
+        "36": {
+          "name": "Marten - Blue"
+        },
+        "37": {
+          "name": "Marten - Green"
+        }
+      }
     },
     "Clairen": {
       "codename": "Clairen",
-      "smashgg_name": "Clairen"
+      "smashgg_name": "Clairen",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Green"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Retro"
+        },
+        "5": {
+          "name": "Retro - Red"
+        },
+        "6": {
+          "name": "Retro - Green"
+        },
+        "7": {
+          "name": "Retro - Blue"
+        },
+        "8": {
+          "name": "Ranger"
+        },
+        "9": {
+          "name": "Ranger - Red"
+        },
+        "10": {
+          "name": "Ranger - Green"
+        },
+        "11": {
+          "name": "Ranger - Blue"
+        },
+        "12": {
+          "name": "Default - Black"
+        },
+        "13": {
+          "name": "Default - Cool Blue"
+        },
+        "14": {
+          "name": "Default - Mint"
+        },
+        "15": {
+          "name": "Default - Spooky"
+        },
+        "16": {
+          "name": "Retro - Black"
+        },
+        "17": {
+          "name": "Slasher"
+        },
+        "18": {
+          "name": "Slasher - Blue"
+        },
+        "19": {
+          "name": "Slasher - Green"
+        },
+        "20": {
+          "name": "Slasher - Red"
+        },
+        "21": {
+          "name": "Leopard"
+        },
+        "22": {
+          "name": "Leopard - Blue"
+        },
+        "23": {
+          "name": "Leopard - Green"
+        },
+        "24": {
+          "name": "Leopard - Red"
+        },
+        "25": {
+          "name": "Leon"
+        },
+        "26": {
+          "name": "Leon - Blue"
+        },
+        "27": {
+          "name": "Leon - Green"
+        },
+        "28": {
+          "name": "Leon - Red"
+        },
+        "29": {
+          "name": "Abyss"
+        },
+        "30": {
+          "name": "Abyss - Blue"
+        },
+        "31": {
+          "name": "Abyss - Green"
+        },
+        "32": {
+          "name": "Abyss - Red"
+        },
+        "33": {
+          "name": "Default - Purple"
+        },
+        "34": {
+          "name": "Low Poly"
+        },
+        "35": {
+          "name": "Low Poly - Red"
+        },
+        "36": {
+          "name": "Low Poly - Blue"
+        },
+        "37": {
+          "name": "Low Poly - Green"
+        },
+        "38": {
+          "name": "Default - Abyssal"
+        },
+        "39": {
+          "name": "Tiger"
+        },
+        "40": {
+          "name": "Tiger - Red"
+        },
+        "41": {
+          "name": "Tiger - Blue"
+        },
+        "42": {
+          "name": "Tiger - Green"
+        }
+      }
     },
     "Loxodont": {
       "codename": "Loxodont",
-      "smashgg_name": "Loxodont"
+      "smashgg_name": "Loxodont",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Green"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Retro"
+        },
+        "5": {
+          "name": "Retro - Red"
+        },
+        "6": {
+          "name": "Retro - Green"
+        },
+        "7": {
+          "name": "Retro - Blue"
+        },
+        "8": {
+          "name": "Mammoth"
+        },
+        "9": {
+          "name": "Mammoth - Red"
+        },
+        "10": {
+          "name": "Mammoth - Green"
+        },
+        "11": {
+          "name": "Mammoth - Blue"
+        },
+        "12": {
+          "name": "Default - Black"
+        },
+        "13": {
+          "name": "Default - Cool Blue"
+        },
+        "14": {
+          "name": "Default - Mint"
+        },
+        "15": {
+          "name": "Default - Spooky"
+        },
+        "16": {
+          "name": "Retro - Black"
+        },
+        "17": {
+          "name": "Zebra"
+        },
+        "18": {
+          "name": "Zebra - Blue"
+        },
+        "19": {
+          "name": "Zebra - Green"
+        },
+        "20": {
+          "name": "Zebra - Red"
+        },
+        "21": {
+          "name": "Giraffe"
+        },
+        "22": {
+          "name": "Giraffe - Blue"
+        },
+        "23": {
+          "name": "Giraffe - Green"
+        },
+        "24": {
+          "name": "Giraffe - Red"
+        },
+        "25": {
+          "name": "Chef"
+        },
+        "26": {
+          "name": "Chef - Blue"
+        },
+        "27": {
+          "name": "Chef - Green"
+        },
+        "28": {
+          "name": "Chef - Red"
+        },
+        "29": {
+          "name": "Abyss"
+        },
+        "30": {
+          "name": "Abyss - Blue"
+        },
+        "31": {
+          "name": "Abyss - Green"
+        },
+        "32": {
+          "name": "Abyss - Red"
+        },
+        "33": {
+          "name": "Default - Purple"
+        },
+        "34": {
+          "name": "Default - Abyssal"
+        },
+        "35": {
+          "name": "Cow"
+        },
+        "36": {
+          "name": "Cow - Red"
+        },
+        "37": {
+          "name": "Cow - Blue"
+        },
+        "38": {
+          "name": "Cow - Green"
+        },
+        "39": {
+          "name": "White Elephant"
+        },
+        "40": {
+          "name": "White Elephant - Red"
+        },
+        "41": {
+          "name": "White Elephant - Blue"
+        },
+        "42": {
+          "name": "White Elephant - Green"
+        },
+        "43": {
+          "name": "Hockey"
+        },
+        "44": {
+          "name": "Hockey - Red"
+        },
+        "45": {
+          "name": "Hockey - Blue"
+        },
+        "46": {
+          "name": "Hockey - Green"
+        }
+      }
     },
     "La Reina": {
       "codename": "Reina",
@@ -39,11 +1165,231 @@
     },
     "Orcane": {
       "codename": "Orcane",
-      "smashgg_name": "Orcane"
+      "smashgg_name": "Orcane",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Green"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Default - Black"
+        },
+        "5": {
+          "name": "Default - Cool Blue"
+        },
+        "6": {
+          "name": "Default - Mint"
+        },
+        "7": {
+          "name": "Default - Spooky"
+        },
+        "8": {
+          "name": "Axolotl"
+        },
+        "9": {
+          "name": "Axolotl - Blue"
+        },
+        "10": {
+          "name": "Axolotl - Green"
+        },
+        "11": {
+          "name": "Axolotl - Red"
+        },
+        "12": {
+          "name": "Retro"
+        },
+        "13": {
+          "name": "Retro - Blue"
+        },
+        "14": {
+          "name": "Retro - Green"
+        },
+        "15": {
+          "name": "Retro - Red"
+        },
+        "16": {
+          "name": "Leopard Shark"
+        },
+        "17": {
+          "name": "Leopard Shark - Blue"
+        },
+        "18": {
+          "name": "Leopard Shark - Green"
+        },
+        "19": {
+          "name": "Leopard Shark - Red"
+        },
+        "20": {
+          "name": "Clownfish"
+        },
+        "21": {
+          "name": "Clownfish - Blue"
+        },
+        "22": {
+          "name": "Clownfish - Green"
+        },
+        "23": {
+          "name": "Clownfish - Red"
+        },
+        "24": {
+          "name": "Abyss"
+        },
+        "25": {
+          "name": "Abyss - Blue"
+        },
+        "26": {
+          "name": "Abyss - Green"
+        },
+        "27": {
+          "name": "Abyss - Red"
+        },
+        "28": {
+          "name": "Default - Purple"
+        },
+        "29": {
+          "name": "Default - Abyssal"
+        },
+        "30": {
+          "name": "Blue Tang"
+        },
+        "31": {
+          "name": "Blue Tang - Red"
+        },
+        "32": {
+          "name": "Blue Tang - Blue"
+        },
+        "33": {
+          "name": "Blue Tang - Green"
+        }
+      }
     },
     "Forsburn": {
       "codename": "Forsburn",
-      "smashgg_name": "Forsburn"
+      "smashgg_name": "Forsburn",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Black"
+        },
+        "2": {
+          "name": "Default - Blue"
+        },
+        "3": {
+          "name": "Default - Cool Blue"
+        },
+        "4": {
+          "name": "Default - Green"
+        },
+        "5": {
+          "name": "Default - Mint"
+        },
+        "6": {
+          "name": "Default - Spooky"
+        },
+        "7": {
+          "name": "Default - Red"
+        },
+        "8": {
+          "name": "Wasteland"
+        },
+        "9": {
+          "name": "Wasteland - Blue"
+        },
+        "10": {
+          "name": "Wasteland - Green"
+        },
+        "11": {
+          "name": "Wasteland - Red"
+        },
+        "12": {
+          "name": "Retro"
+        },
+        "13": {
+          "name": "Retro - Blue"
+        },
+        "14": {
+          "name": "Retro - Green"
+        },
+        "15": {
+          "name": "Retro - Red"
+        },
+        "16": {
+          "name": "Doberman"
+        },
+        "17": {
+          "name": "Doberman - Blue"
+        },
+        "18": {
+          "name": "Doberman - Green"
+        },
+        "19": {
+          "name": "Doberman - Red"
+        },
+        "20": {
+          "name": "Aardwolf"
+        },
+        "21": {
+          "name": "Aardwolf - Blue"
+        },
+        "22": {
+          "name": "Aardwolf - Green"
+        },
+        "23": {
+          "name": "Aardwolf - Red"
+        },
+        "24": {
+          "name": "Abyss"
+        },
+        "25": {
+          "name": "Abyss - Blue"
+        },
+        "26": {
+          "name": "Abyss - Green"
+        },
+        "27": {
+          "name": "Abyss - Red"
+        },
+        "28": {
+          "name": "Default - Purple"
+        },
+        "29": {
+          "name": "Default - Abyssal"
+        },
+        "30": {
+          "name": "Dalmatian"
+        },
+        "31": {
+          "name": "Dalmatian - Red"
+        },
+        "32": {
+          "name": "Dalmatian - Blue"
+        },
+        "33": {
+          "name": "Dalmatian - Green"
+        },
+        "34": {
+          "name": "Krampus"
+        },
+        "35": {
+          "name": "Krampus - Red"
+        },
+        "36": {
+          "name": "Krampus - Blue"
+        },
+        "37": {
+          "name": "Krampus - Green"
+        }
+      }
     },
     "Etalus": {
       "codename": "Etalus",

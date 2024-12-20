@@ -4,55 +4,524 @@
   "challonge_game_id": 396,
   "character_to_codename": {
     "Balrog": {
-      "codename": "mbison"
+      "codename": "mbison",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Blanka": {
-      "codename": "blanka"
+      "codename": "blanka",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Cammy": {
-      "codename": "cammy"
+      "codename": "cammy",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Chun-Li": {
-      "codename": "chunli"
+      "codename": "chunli",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Dee Jay": {
-      "codename": "deejay"
+      "codename": "deejay",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Dhalsim": {
-      "codename": "dhalsim"
+      "codename": "dhalsim",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "E. Honda": {
-      "codename": "ehonda"
+      "codename": "ehonda",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Fei Long": {
-      "codename": "feilong"
+      "codename": "feilong",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Guile": {
-      "codename": "guile"
+      "codename": "guile",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Ken": {
-      "codename": "ken"
+      "codename": "ken",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "M. Bison": {
-      "codename": "vega"
+      "codename": "vega",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Ryu": {
-      "codename": "ryu"
+      "codename": "ryu",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Sagat": {
-      "codename": "sagat"
+      "codename": "sagat",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "T. Hawk": {
-      "codename": "thawk"
+      "codename": "thawk",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Vega": {
-      "codename": "balrog"
+      "codename": "balrog",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Zangief": {
-      "codename": "zangief"
+      "codename": "zangief",
+      "skin_name": {
+        "0": {
+          "name": "LP"
+        },
+        "1": {
+          "name": "MP"
+        },
+        "2": {
+          "name": "HP"
+        },
+        "3": {
+          "name": "LK"
+        },
+        "4": {
+          "name": "MK"
+        },
+        "5": {
+          "name": "HK"
+        },
+        "6": {
+          "name": "Start"
+        },
+        "7": {
+          "name": "Hold"
+        },
+        "8": {
+          "name": "Old"
+        }
+      }
     },
     "Akuma": {
-      "codename": "gouki"
+      "codename": "gouki",
+      "skin_name": {
+        "0": {
+          "name": "Secret"
+        }
+      }
     }
   },
   "stage_to_codename": {},

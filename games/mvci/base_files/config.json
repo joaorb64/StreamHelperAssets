@@ -1,5 +1,5 @@
 {
-  "name": "Marvel vs. Capcom: Infinite",
+  "name": "Marvel vs. Capcom: Infinite & Beyond",
   "smashgg_game_id": 288,
   "challonge_game_id": null,
   "character_to_codename": {
@@ -159,5 +159,12 @@
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 2
-  }
+  },
+  "alternate_versions": [
+    {
+      "name": "Marvel vs. Capcom: Infinite",
+      "smashgg_game_id": null,
+      "logo_path": "logo_old.png"
+    }
+  ]
 }

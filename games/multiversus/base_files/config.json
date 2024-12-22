@@ -226,6 +226,14 @@
     "Raven": {
       "codename": "Raven",
       "smashgg_name": "Raven"
+    },
+    "Marceline the Vampire Queen": {
+      "codename": "Marceline",
+      "smashgg_name": "Marceline",
+      "locale": {
+        "fr": "Marceline, la reine des vampires",
+        "pt_BR": "Marceline, a Rainha dos Vampiros"
+      }
     }
   },
   "credits": "",

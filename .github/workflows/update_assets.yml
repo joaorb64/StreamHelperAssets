@@ -97,6 +97,21 @@ jobs:
             echo "No changes to commit"
           fi
 
+      # Create small logos
+      - name: Create small logos
+        run: |
+          pip install pillow
+          python scripts/small_logo.py
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Add small logos"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+
       # Run assets build logic
       - name: execute py script
         run: |

@@ -33,6 +33,15 @@
     },
     "Mai Shiranui": {
       "codename": "Mai"
+    },
+    "Ken Masters": {
+      "codename": "Ken"
+    },
+    "Chun-Li": {
+      "codename": "ChunLi"
+    },
+    "Gato": {
+      "codename": "Gato"
     }
   },
   "credits": "Icons ripped from https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/",
@@ -40,5 +49,5 @@
   "name": "Fatal Fury: City of the Wolves",
   "smashgg_game_id": 73221,
   "stage_to_codename": {},
-  "version": "24.11.26.54004"
+  "version": "24.12.21.79569"
 }

@@ -44,13 +44,17 @@
     "Forsburn": {
       "codename": "Forsburn",
       "smashgg_name": "Forsburn"
+    },
+    "Etalus": {
+      "codename": "Etalus",
+      "smashgg_name": "Etalus"
     }
   },
   "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "24.11.26.54005",
+  "version": "24.12.19.85964",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest"

@@ -226,6 +226,14 @@
     "Raven": {
       "codename": "Raven",
       "smashgg_name": "Raven"
+    },
+    "Marceline the Vampire Queen": {
+      "codename": "Marceline",
+      "smashgg_name": "Marceline",
+      "locale": {
+        "fr": "Marceline, la reine des vampires",
+        "pt_BR": "Marceline, a Rainha dos Vampiros"
+      }
     }
   },
   "credits": "",
@@ -233,7 +241,7 @@
   "name": "Multiversus",
   "smashgg_game_id": 40849,
   "stage_to_codename": {},
-  "version": "24.11.26.54004",
+  "version": "24.12.22.59362",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1

@@ -1,12 +1,12 @@
 {
-  "prefix": "icon_",
+  "prefix": "file_new_",
   "postfix": "_",
   "type": [
     "icon"
   ],
-  "version": "24.11.26.54004",
+  "version": "24.12.21.79569",
   "average_size": {
-    "x": 60,
-    "y": 60
+    "x": 256,
+    "y": 256
   }
 }

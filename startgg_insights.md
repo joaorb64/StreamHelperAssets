@@ -289,6 +289,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG
 - Character [Raven]: Character name [Raven] doesn't exist in StartGG
+- Character [Marceline the Vampire Queen]: Character name [Marceline] doesn't exist in StartGG
 ### Coverage: (30/30)
 
 ## Marvel vs. Capcom: Clash of Super Heroes
@@ -297,7 +298,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Marvel VS Capcom 2: New Age of Heroes
 Game has no characters in startgg...? Or do we have a wrong game id?
 
-## Marvel vs. Capcom: Infinite
+## Marvel vs. Capcom: Infinite & Beyond
 - Character [Ultron Sigma]: Character name [Ultron Sigma] doesn't exist in StartGG
 ### Coverage: (36/36)
 
@@ -455,6 +456,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
+- Character [Etalus]: Character name [Etalus] doesn't exist in StartGG
 ### Coverage: (10/10)
 
 ## Rushdown Revolt
@@ -625,8 +627,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Clive Rosfield]: Character name [Clive] doesn't exist in StartGG
-### Coverage: (36/36)
+### Coverage: (37/37)
 
 ## Them's Fightin' Herds
 - Character [Texas]: Character name [Texas] doesn't exist in StartGG

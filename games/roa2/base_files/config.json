@@ -30,16 +30,16 @@
           "name": "Retro - Blue"
         },
         "8": {
-          "name": "Prehistoric"
+          "name": "Primal"
         },
         "10": {
-          "name": "Prehistoric - Red"
+          "name": "Primal - Red"
         },
         "11": {
-          "name": "Prehistoric - Green"
+          "name": "Primal - Green"
         },
         "12": {
-          "name": "Prehistoric - Blue"
+          "name": "Primal - Blue"
         },
         "13": {
           "name": "Scarab"
@@ -337,6 +337,9 @@
         },
         "54": {
           "name": "Snow Day - Green"
+        },
+        "55": {
+          "name": "Slam Dunk - Lumonosity Makes Big Moves 2025"
         }
       }
     },
@@ -754,6 +757,9 @@
         },
         "52": {
           "name": "Badger - Kickstarter"
+        },
+        "53": {
+          "name": "Fan - Kickstarter"
         }
       }
     },
@@ -1041,16 +1047,16 @@
           "name": "Retro - Blue"
         },
         "8": {
-          "name": "Mammoth"
+          "name": "Primal"
         },
         "9": {
-          "name": "Mammoth - Red"
+          "name": "Primal - Red"
         },
         "10": {
-          "name": "Mammoth - Green"
+          "name": "Primal - Green"
         },
         "11": {
-          "name": "Mammoth - Blue"
+          "name": "Primal - Blue"
         },
         "12": {
           "name": "Default - Black"
@@ -1268,6 +1274,18 @@
         },
         "33": {
           "name": "Blue Tang - Green"
+        },
+        "34": {
+          "name": "Primal"
+        },
+        "35": {
+          "name": "Primal - Red"
+        },
+        "36": {
+          "name": "Primal - Blue"
+        },
+        "37": {
+          "name": "Primal - Green"
         }
       }
     },
@@ -1388,6 +1406,18 @@
         },
         "37": {
           "name": "Krampus - Green"
+        },
+        "38": {
+          "name": "Primal"
+        },
+        "39": {
+          "name": "Primal - Red"
+        },
+        "40": {
+          "name": "Primal - Blue"
+        },
+        "41": {
+          "name": "Primal - Green"
         }
       }
     },

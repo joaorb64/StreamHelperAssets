@@ -49,8 +49,9 @@ for image_path in images_path:
     if new_eyesight:
         if int(index) == 0 or new_eyesight != new_eyesights.get(codename, {}).get("0"):
             new_eyesights[codename][index] = new_eyesight
-    if int(index) == 0 or scaling != new_scaling.get(codename, {}).get("0"):
+    if int(index) == 0 or scaling != new_scaling.get(codename, {}).get("0", 1.0):
         new_scaling[codename][index] = scaling
+    print(image.height*scaling)
 
 config["eyesights"] = new_eyesights
 config["rescaling_factor"] = new_scaling

@@ -140,6 +140,10 @@
       "codename": "CellJr",
       "skin_name": {}
     },
+    "Cell Max": {
+      "codename": "CellMax",
+      "skin_name": {}
+    },
     "Chiaotzu": {
       "codename": "Chiaotzu",
       "skin_name": {}
@@ -218,6 +222,14 @@
       "codename": "Frost",
       "skin_name": {}
     },
+    "Gamma 1": {
+      "codename": "Gamma1",
+      "skin_name": {}
+    },
+    "Gamma 2": {
+      "codename": "Gamma2",
+      "skin_name": {}
+    },
     "Garlic Jr.": {
       "codename": "GarlicJr",
       "skin_name": {
@@ -228,6 +240,10 @@
     },
     "Ginyu": {
       "codename": "Ginyu",
+      "skin_name": {}
+    },
+    "Glorio": {
+      "codename": "Glorio",
       "skin_name": {}
     },
     "Gogeta (GT)": {
@@ -257,7 +273,21 @@
         }
       }
     },
-    "Gohan (Adult)": {
+    "Gohan (Super Hero)": {
+      "codename": "GohanSH",
+      "skin_name": {
+        "1": {
+          "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Ultimate Gohan"
+        },
+        "3": {
+          "name": "Gohan Beast"
+        }
+      }
+    },
+    "Gohan (Z-Adult)": {
       "codename": "GohanAdult",
       "skin_name": {
         "1": {
@@ -274,7 +304,7 @@
         }
       }
     },
-    "Gohan (Future)": {
+    "Gohan (Z-Future)": {
       "codename": "GohanFuture",
       "skin_name": {
         "1": {
@@ -282,11 +312,11 @@
         }
       }
     },
-    "Gohan (Kid)": {
+    "Gohan (Z-Kid)": {
       "codename": "GohanKid",
       "skin_name": {}
     },
-    "Gohan (Teen)": {
+    "Gohan (Z-Teen)": {
       "codename": "GohanTeen",
       "skin_name": {
         "1": {
@@ -369,7 +399,7 @@
       "codename": "GokuBlack",
       "skin_name": {
         "1": {
-          "name": "Super Saiyan Ros\u00e9"
+          "name": "Super Saiyan Rosé"
         }
       }
     },
@@ -521,6 +551,20 @@
         }
       }
     },
+    "Piccolo (Super Hero)": {
+      "codename": "PiccoloSH",
+      "skin_name": {
+        "1": {
+          "name": "Power Awakening"
+        },
+        "2": {
+          "name": "Orange Piccolo"
+        },
+        "3": {
+          "name": "Orange Piccolo - Giant Form"
+        }
+      }
+    },
     "Raditz": {
       "codename": "Raditz",
       "skin_name": {}
@@ -618,6 +662,10 @@
     },
     "Uub (GT)": {
       "codename": "UubGT",
+      "skin_name": {}
+    },
+    "Vegeta (Daima-Mini)": {
+      "codename": "VegetaMini",
       "skin_name": {}
     },
     "Vegeta (GT)": {
@@ -721,14 +769,6 @@
           "name": "Super Zarbon"
         }
       }
-    },
-    "Vegeta (Daima-Mini)": {
-      "codename": "VegetaMini",
-      "skin_name": {}
-    },
-    "Glorio": {
-      "codename": "Glorio",
-      "skin_name": {}
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/",

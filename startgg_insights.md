@@ -309,6 +309,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (25/25)
 
 ## Nickelodeon All-Star Brawl 2
+- Character [Iroh]: Character name [Iroh] doesn't exist in StartGG
 ### Coverage: (28/28)
 
 ## Neo Turf Masters

@@ -128,7 +128,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Guilty Gear -STRIVE-
 - Character [Queen Dizzy]: Character name [Queen Dizzy] doesn't exist in StartGG
-### Coverage: (28/28)
+- Character [Dizzy] not assigned in TSH!
+### Coverage: (28/29)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)

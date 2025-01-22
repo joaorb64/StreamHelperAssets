@@ -251,7 +251,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Conan the Barbarian]: Character name [Conan the Barbarian] doesn't exist in StartGG
 - Character [T-1000]: Character name [T-1000] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (33/34)
+- Character [Conan] not assigned in TSH!
+### Coverage: (33/35)
 
 ## Mortal Kombat 11
 - Character [Kronika]: Character name [Kronika] doesn't exist in StartGG

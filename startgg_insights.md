@@ -127,9 +127,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Guilty Gear -STRIVE-
-- Character [Queen Dizzy]: Character name [Queen Dizzy] doesn't exist in StartGG
-- Character [Dizzy] not assigned in TSH!
-### Coverage: (28/29)
+- Character [Venom]: Character name [Venom] doesn't exist in StartGG
+- Character [Unika]: Character name [Unika] doesn't exist in StartGG
+- Character [Lucyna "Lucy" Kushinada]: Character name [Lucy] doesn't exist in StartGG
+### Coverage: (29/29)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)
@@ -248,11 +249,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Mortal Kombat 1
-- Character [Conan the Barbarian]: Character name [Conan the Barbarian] doesn't exist in StartGG
 - Character [T-1000]: Character name [T-1000] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-- Character [Conan] not assigned in TSH!
-### Coverage: (33/35)
+### Coverage: (34/35)
 
 ## Mortal Kombat 11
 - Character [Kronika]: Character name [Kronika] doesn't exist in StartGG

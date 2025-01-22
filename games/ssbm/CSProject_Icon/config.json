@@ -11,5 +11,11 @@
   "average_size": {
     "x": 144,
     "y": 144
-  }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
 }

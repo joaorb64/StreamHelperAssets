@@ -340,6 +340,12 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Panel de Pon
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Pokémon Puzzle League
+Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Panel de Pon (Nintendo Puzzle Collection)
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Tetris Attack
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -458,8 +464,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
-- Character [Etalus]: Character name [Etalus] doesn't exist in StartGG
-### Coverage: (10/10)
+### Coverage: (11/11)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)

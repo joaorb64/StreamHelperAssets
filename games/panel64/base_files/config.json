@@ -1,0 +1,59 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Ash": {
+      "codename": "Ash"
+    },
+    "Blaine": {
+      "codename": "Blaine"
+    },
+    "Brock": {
+      "codename": "Brock"
+    },
+    "Bruno": {
+      "codename": "Bruno"
+    },
+    "Erika": {
+      "codename": "Erika"
+    },
+    "Gary": {
+      "codename": "Gary"
+    },
+    "Giovanni": {
+      "codename": "Giovanni"
+    },
+    "Koga": {
+      "codename": "Koga"
+    },
+    "Lorelei": {
+      "codename": "Lorelei"
+    },
+    "Lt. Surge": {
+      "codename": "LtSurge"
+    },
+    "Mewtwo": {
+      "codename": "Mewtwo"
+    },
+    "Misty": {
+      "codename": "Misty"
+    },
+    "Ritchie": {
+      "codename": "Ritchie"
+    },
+    "Sabrina": {
+      "codename": "Sabrina"
+    },
+    "Team Rocket": {
+      "codename": "TeamRocket"
+    },
+    "Tracey": {
+      "codename": "Tracey"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Pok\u00e9mon Puzzle League",
+  "smashgg_game_id": 6645,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -343,6 +343,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Pokémon Puzzle League
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Panel de Pon (Nintendo Puzzle Collection)
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Tetris Attack
 Game has no characters in startgg...? Or do we have a wrong game id?
 

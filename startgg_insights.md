@@ -435,6 +435,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Ho-Oh]: Character name [Ho-Oh] doesn't exist in StartGG
 - Character [Armarouge]: Character name [Armarouge] doesn't exist in StartGG
 - Character [Darkrai]: Character name [Darkrai] doesn't exist in StartGG
+- Character [Psyduck]: Character name [Psyduck] doesn't exist in StartGG
+- Character [Tinkaton]: Character name [Tinkaton] doesn't exist in StartGG
+- Character [Galarian Rapidash]: Character name [Galarian Rapidash] doesn't exist in StartGG
 ### Coverage: (25/25)
 
 ## Rabbit

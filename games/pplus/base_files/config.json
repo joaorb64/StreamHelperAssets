@@ -20,6 +20,50 @@
         "ko": "\ub9c8\ub9ac\uc624",
         "zh_TW": "\u746a\u5229\u6b50",
         "zh_CN": "\u9a6c\u529b\u6b27"
+      },
+      "skin_name": {
+        "7": {
+          "name": "Builder_0"
+        },
+        "8": {
+          "name": "Builder_1"
+        },
+        "9": {
+          "name": "Builder_2"
+        },
+        "10": {
+          "name": "Doctor_0"
+        },
+        "11": {
+          "name": "Doctor_1"
+        },
+        "12": {
+          "name": "Doctor_2"
+        },
+        "13": {
+          "name": "Doctor_3"
+        },
+        "14": {
+          "name": "Doctor_4"
+        },
+        "15": {
+          "name": "Doctor_5"
+        },
+        "16": {
+          "name": "Sunshine"
+        },
+        "17": {
+          "name": "Sunshine_Eggs"
+        },
+        "18": {
+          "name": "Sunshine_Leaves"
+        },
+        "19": {
+          "name": "Sunshine_Metal"
+        },
+        "20": {
+          "name": "Sunshine_Moons"
+        }
       }
     },
     "Luigi": {
@@ -40,6 +84,59 @@
         "ko": "\ub8e8\uc774\uc9c0",
         "zh_TW": "\u8def\u6613\u5409",
         "zh_CN": "\u8def\u6613\u5409"
+      },
+      "skin_name": {
+        "7": {
+          "name": "Casino_0"
+        },
+        "8": {
+          "name": "Casino_1"
+        },
+        "9": {
+          "name": "Casino_2"
+        },
+        "10": {
+          "name": "Casino_3"
+        },
+        "11": {
+          "name": "MrL_0"
+        },
+        "12": {
+          "name": "MrL_1"
+        },
+        "13": {
+          "name": "MrL_2"
+        },
+        "14": {
+          "name": "MrL_3"
+        },
+        "15": {
+          "name": "Mr_L_0"
+        },
+        "16": {
+          "name": "Mr_L_1"
+        },
+        "17": {
+          "name": "Mr_L_2"
+        },
+        "18": {
+          "name": "Mr_L_3"
+        },
+        "19": {
+          "name": "Space_Land_0"
+        },
+        "20": {
+          "name": "Space_Land_1"
+        },
+        "21": {
+          "name": "Space_Land_2"
+        },
+        "22": {
+          "name": "Space_Land_3"
+        },
+        "23": {
+          "name": "Space_Land_4"
+        }
       }
     },
     "Peach": {
@@ -60,6 +157,44 @@
         "ko": "\ud53c\uce58\uacf5\uc8fc",
         "zh_TW": "\u78a7\u59ec\u516c\u4e3b",
         "zh_CN": "\u6843\u82b1\u516c\u4e3b"
+      },
+      "skin_name": {
+        "9": {
+          "name": "Fire_0"
+        },
+        "10": {
+          "name": "Fire_1"
+        },
+        "11": {
+          "name": "Rosalina"
+        },
+        "12": {
+          "name": "Shadow_0"
+        },
+        "13": {
+          "name": "Shadow_1"
+        },
+        "14": {
+          "name": "Shadow_2"
+        },
+        "15": {
+          "name": "Shadow_3"
+        },
+        "16": {
+          "name": "Sunshine_0"
+        },
+        "17": {
+          "name": "Sunshine_1"
+        },
+        "18": {
+          "name": "Sunshine_2"
+        },
+        "19": {
+          "name": "Sunshine_3"
+        },
+        "20": {
+          "name": "Sunshine_4"
+        }
       }
     },
     "Bowser": {
@@ -80,6 +215,38 @@
         "ko": "\ucfe0\ud30c",
         "zh_TW": "\u5eab\u5df4",
         "zh_CN": "\u9177\u9738\u738b"
+      },
+      "skin_name": {
+        "10": {
+          "name": "cBliss_Pink"
+        },
+        "11": {
+          "name": "cBliss_Yellow"
+        },
+        "12": {
+          "name": "Dry_0"
+        },
+        "13": {
+          "name": "Dry_1"
+        },
+        "14": {
+          "name": "Dry_2"
+        },
+        "15": {
+          "name": "Dry_3"
+        },
+        "16": {
+          "name": "Dry_4"
+        },
+        "17": {
+          "name": "Dry_6"
+        },
+        "18": {
+          "name": "Dry_7"
+        },
+        "19": {
+          "name": "Dry_Dapperman_3"
+        }
       }
     },
     "Yoshi": {
@@ -100,6 +267,32 @@
         "ko": "\uc694\uc2dc",
         "zh_TW": "\u8000\u897f",
         "zh_CN": "\u8000\u897f"
+      },
+      "skin_name": {
+        "12": {
+          "name": "Dorrie_0"
+        },
+        "13": {
+          "name": "Dorrie_1"
+        },
+        "14": {
+          "name": "Dorrie_2"
+        },
+        "15": {
+          "name": "Pirate_0"
+        },
+        "16": {
+          "name": "Pirate_1"
+        },
+        "17": {
+          "name": "Pirate_2"
+        },
+        "18": {
+          "name": "Pirate_3"
+        },
+        "19": {
+          "name": "Pirate_4"
+        }
       }
     },
     "Donkey Kong": {
@@ -120,6 +313,38 @@
         "ko": "\ub3d9\ud0a4\ucf69",
         "zh_TW": "\u68ee\u559c\u525b",
         "zh_CN": "\u68ee\u559c\u521a"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Boxer_0"
+        },
+        "11": {
+          "name": "Boxer_1"
+        },
+        "12": {
+          "name": "Boxer_2"
+        },
+        "13": {
+          "name": "Boxer_3"
+        },
+        "14": {
+          "name": "Boxer_4"
+        },
+        "15": {
+          "name": "Funky_0"
+        },
+        "16": {
+          "name": "Funky_1"
+        },
+        "17": {
+          "name": "Funky_2"
+        },
+        "18": {
+          "name": "Funky_3"
+        },
+        "19": {
+          "name": "Funky_4"
+        }
       }
     },
     "Diddy Kong": {
@@ -140,6 +365,38 @@
         "ko": "\ub514\ub514\ucf69",
         "zh_TW": "\u72c4\u72c4\u525b",
         "zh_CN": "\u8fea\u8fea\u521a"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Dixie_0"
+        },
+        "11": {
+          "name": "Dixie_1"
+        },
+        "12": {
+          "name": "Dixie_2"
+        },
+        "13": {
+          "name": "Dixie_3"
+        },
+        "14": {
+          "name": "Dixie_4"
+        },
+        "15": {
+          "name": "Hooded_0"
+        },
+        "16": {
+          "name": "Hooded_1"
+        },
+        "17": {
+          "name": "Hooded_2"
+        },
+        "18": {
+          "name": "Hooded_3"
+        },
+        "19": {
+          "name": "Hooded_4"
+        }
       }
     },
     "Link": {
@@ -160,6 +417,47 @@
         "ko": "\ub9c1\ud06c",
         "zh_TW": "\u6797\u514b",
         "zh_CN": "\u6797\u514b"
+      },
+      "skin_name": {
+        "9": {
+          "name": "Classic_0"
+        },
+        "10": {
+          "name": "Classic_1"
+        },
+        "11": {
+          "name": "Classic_5"
+        },
+        "12": {
+          "name": "Classic_Cyan"
+        },
+        "13": {
+          "name": "Classic_Orange"
+        },
+        "14": {
+          "name": "Classic_White"
+        },
+        "16": {
+          "name": "Fierce_Deity_0"
+        },
+        "17": {
+          "name": "OoT_0"
+        },
+        "18": {
+          "name": "OoT_1"
+        },
+        "19": {
+          "name": "OoT_2"
+        },
+        "20": {
+          "name": "OoT_3"
+        },
+        "21": {
+          "name": "OoT_4"
+        },
+        "22": {
+          "name": "OoT_5"
+        }
       }
     },
     "Zelda": {
@@ -180,6 +478,38 @@
         "ko": "\uc824\ub2e4",
         "zh_TW": "\u85a9\u723e\u9054",
         "zh_CN": "\u585e\u5c14\u8fbe"
+      },
+      "skin_name": {
+        "9": {
+          "name": "OoT_0"
+        },
+        "10": {
+          "name": "OoT_1"
+        },
+        "11": {
+          "name": "OoT_2"
+        },
+        "12": {
+          "name": "OoT_3"
+        },
+        "13": {
+          "name": "OoT_4"
+        },
+        "14": {
+          "name": "OoT_5"
+        },
+        "15": {
+          "name": "Young_0"
+        },
+        "16": {
+          "name": "Young_1"
+        },
+        "17": {
+          "name": "Young_2"
+        },
+        "18": {
+          "name": "Young_3"
+        }
       }
     },
     "Sheik": {
@@ -200,6 +530,38 @@
         "ko": "\uc2dc\ud06c",
         "zh_TW": "\u5e0c\u514b",
         "zh_CN": "\u5e0c\u514b"
+      },
+      "skin_name": {
+        "9": {
+          "name": "OoT_0"
+        },
+        "10": {
+          "name": "OoT_1"
+        },
+        "11": {
+          "name": "OoT_2"
+        },
+        "12": {
+          "name": "OoT_3"
+        },
+        "13": {
+          "name": "OoT_4"
+        },
+        "14": {
+          "name": "OoT_5"
+        },
+        "15": {
+          "name": "Sheikah_Clan_0"
+        },
+        "16": {
+          "name": "Sheikah_Clan_1"
+        },
+        "17": {
+          "name": "Sheikah_Clan_2"
+        },
+        "18": {
+          "name": "Sheikah_Clan_3"
+        }
       }
     },
     "Ganondorf": {
@@ -220,6 +582,77 @@
         "ko": "\uac00\ub17c\ub3cc\ud504",
         "zh_TW": "\u52a0\u5102\u591a\u592b",
         "zh_CN": "\u76d6\u4fac\u591a\u592b"
+      },
+      "skin_name": {
+        "6": {
+          "name": "Beast_0"
+        },
+        "7": {
+          "name": "Beast_1"
+        },
+        "8": {
+          "name": "Beast_2"
+        },
+        "9": {
+          "name": "Beast_3"
+        },
+        "10": {
+          "name": "Beast_4"
+        },
+        "11": {
+          "name": "Light_Blue"
+        },
+        "12": {
+          "name": "OoT_0"
+        },
+        "13": {
+          "name": "OoT_1"
+        },
+        "14": {
+          "name": "OoT_2"
+        },
+        "15": {
+          "name": "OoT_3"
+        },
+        "16": {
+          "name": "OoT_4"
+        },
+        "17": {
+          "name": "OoT_5"
+        },
+        "18": {
+          "name": "Phantom_0"
+        },
+        "19": {
+          "name": "Phantom_1"
+        },
+        "20": {
+          "name": "Phantom_2"
+        },
+        "21": {
+          "name": "Phantom_3"
+        },
+        "22": {
+          "name": "Phantom_4"
+        },
+        "23": {
+          "name": "Phantom_5"
+        },
+        "24": {
+          "name": "Pig_0"
+        },
+        "25": {
+          "name": "Pig_1"
+        },
+        "26": {
+          "name": "Pig_2"
+        },
+        "27": {
+          "name": "Pig_3"
+        },
+        "28": {
+          "name": "Pig_4"
+        }
       }
     },
     "Toon Link": {
@@ -240,6 +673,62 @@
         "ko": "\ud230\ub9c1\ud06c",
         "zh_TW": "\u5361\u901a\u6797\u514b",
         "zh_CN": "\u5361\u901a\u6797\u514b"
+      },
+      "skin_name": {
+        "6": {
+          "name": "Hylien_0"
+        },
+        "7": {
+          "name": "Hylien_1"
+        },
+        "8": {
+          "name": "Hylien_2"
+        },
+        "9": {
+          "name": "Hylien_3"
+        },
+        "10": {
+          "name": "Hylien_4"
+        },
+        "11": {
+          "name": "Hylien_5"
+        },
+        "12": {
+          "name": "Hylien_6"
+        },
+        "13": {
+          "name": "Hylien_8"
+        },
+        "14": {
+          "name": "Hylien_9"
+        },
+        "15": {
+          "name": "Linebeck_0"
+        },
+        "16": {
+          "name": "Linebeck_1"
+        },
+        "17": {
+          "name": "Linebeck_2"
+        },
+        "18": {
+          "name": "Linebeck_3"
+        },
+        "19": {
+          "name": "Outset_0"
+        },
+        "20": {
+          "name": "Outset_1"
+        },
+        "21": {
+          "name": "Outset_2"
+        },
+        "22": {
+          "name": "Outset_3"
+        },
+        "23": {
+          "name": "Outset_4"
+        }
       }
     },
     "Samus": {
@@ -260,6 +749,80 @@
         "ko": "\uc0ac\ubb34\uc2a4",
         "zh_TW": "\u85a9\u59c6\u65af",
         "zh_CN": "\u8428\u59c6\u65af"
+      },
+      "skin_name": {
+        "6": {
+          "name": "Dark_0"
+        },
+        "7": {
+          "name": "Dark_Suit_0"
+        },
+        "8": {
+          "name": "Federation_0"
+        },
+        "9": {
+          "name": "Federation_1"
+        },
+        "10": {
+          "name": "Federation_2"
+        },
+        "11": {
+          "name": "Federation_3"
+        },
+        "12": {
+          "name": "Federation_4"
+        },
+        "13": {
+          "name": "Fusion_0"
+        },
+        "14": {
+          "name": "Fusion_1"
+        },
+        "15": {
+          "name": "Fusion_2"
+        },
+        "16": {
+          "name": "Fusion_3"
+        },
+        "17": {
+          "name": "Fusion_Suit_0"
+        },
+        "18": {
+          "name": "Fusion_Suit_1"
+        },
+        "19": {
+          "name": "Fusion_Suit_2"
+        },
+        "20": {
+          "name": "Light_0"
+        },
+        "21": {
+          "name": "Light_Suit_0"
+        },
+        "22": {
+          "name": "PED_0"
+        },
+        "23": {
+          "name": "PED_Suit_0"
+        },
+        "24": {
+          "name": "Power_0"
+        },
+        "25": {
+          "name": "Power_1"
+        },
+        "26": {
+          "name": "Power_2"
+        },
+        "27": {
+          "name": "Power_Suit_0"
+        },
+        "28": {
+          "name": "Power_Suit_1"
+        },
+        "29": {
+          "name": "Power_Suit_2"
+        }
       }
     },
     "Zero Suit Samus": {
@@ -280,6 +843,68 @@
         "ko": "\uc81c\ub85c \uc288\ud2b8 \uc0ac\ubb34\uc2a4",
         "zh_TW": "\u96f6\u88dd\u7532\u85a9\u59c6\u65af",
         "zh_CN": "\u96f6\u88c5\u7532\u8428\u59c6\u65af"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Cadet_0"
+        },
+        "2": {
+          "name": "Cadet_1"
+        },
+        "3": {
+          "name": "Cadet_2"
+        },
+        "4": {
+          "name": "Cadet_3"
+        },
+        "5": {
+          "name": "Cadet_4"
+        },
+        "6": {
+          "name": "Fusion_2"
+        },
+        "7": {
+          "name": "SJS_1"
+        },
+        "8": {
+          "name": "SJS_2"
+        },
+        "9": {
+          "name": "SJS_3"
+        },
+        "10": {
+          "name": "SJS_4"
+        },
+        "11": {
+          "name": "SJS_5"
+        },
+        "12": {
+          "name": "SJS_Bailey_0"
+        },
+        "13": {
+          "name": "SJS_Bailey_1"
+        },
+        "14": {
+          "name": "SJS_Bailey_2"
+        },
+        "15": {
+          "name": "SJS_Fusion_0"
+        },
+        "16": {
+          "name": "SJS_Fusion_1"
+        },
+        "17": {
+          "name": "SJS_Fusion_2"
+        },
+        "18": {
+          "name": "SJS_Hotpants_0"
+        },
+        "19": {
+          "name": "SJS_Light_0"
+        },
+        "20": {
+          "name": "SJS_Super_0"
+        }
       }
     },
     "Kirby": {
@@ -300,6 +925,53 @@
         "ko": "\ucee4\ube44",
         "zh_TW": "\u5361\u6bd4",
         "zh_CN": "\u5361\u6bd4"
+      },
+      "skin_name": {
+        "12": {
+          "name": "Cowboy_0"
+        },
+        "13": {
+          "name": "Cowboy_1"
+        },
+        "14": {
+          "name": "Cowboy_2"
+        },
+        "15": {
+          "name": "Cowboy_3"
+        },
+        "16": {
+          "name": "Cowboy_4"
+        },
+        "17": {
+          "name": "Fighter_0"
+        },
+        "18": {
+          "name": "Fighter_1"
+        },
+        "19": {
+          "name": "Fighter_2"
+        },
+        "20": {
+          "name": "Fighter_3"
+        },
+        "21": {
+          "name": "Fighter_4"
+        },
+        "22": {
+          "name": "Swimmer_0"
+        },
+        "23": {
+          "name": "Swimmer_1"
+        },
+        "24": {
+          "name": "Swimmer_2"
+        },
+        "25": {
+          "name": "Swimmer_3"
+        },
+        "26": {
+          "name": "Swimmer_4"
+        }
       }
     },
     "Meta Knight": {
@@ -320,6 +992,59 @@
         "ko": "\uba54\ud0c0 \ub098\uc774\ud2b8",
         "zh_TW": "\u9b45\u5854\u9a0e\u58eb",
         "zh_CN": "\u9b45\u5854\u9a91\u58eb"
+      },
+      "skin_name": {
+        "8": {
+          "name": "Butterfly_0"
+        },
+        "9": {
+          "name": "Butterfly_1"
+        },
+        "10": {
+          "name": "Butterfly_2"
+        },
+        "11": {
+          "name": "Butterfly_3"
+        },
+        "12": {
+          "name": "Butterfly_4"
+        },
+        "13": {
+          "name": "Dark_0"
+        },
+        "14": {
+          "name": "Dark_1"
+        },
+        "15": {
+          "name": "Dark_2"
+        },
+        "16": {
+          "name": "Dark_3"
+        },
+        "17": {
+          "name": "Dark_4"
+        },
+        "18": {
+          "name": "Dark_5"
+        },
+        "19": {
+          "name": "Galacta_0"
+        },
+        "20": {
+          "name": "Galactish_0"
+        },
+        "21": {
+          "name": "Samurai_0"
+        },
+        "22": {
+          "name": "Samurai_1"
+        },
+        "23": {
+          "name": "Samurai_2"
+        },
+        "24": {
+          "name": "Samurai_3"
+        }
       }
     },
     "King Dedede": {
@@ -340,6 +1065,38 @@
         "ko": "\ub514\ub514\ub514 \ub300\uc655",
         "zh_TW": "\u5e1d\u5e1d\u5e1d\u5927\u738b",
         "zh_CN": "\u5e1d\u5e1d\u5e1d\u5927\u738b"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Quickdraw_0"
+        },
+        "11": {
+          "name": "Quickdraw_1"
+        },
+        "12": {
+          "name": "Quickdraw_2"
+        },
+        "13": {
+          "name": "Quickdraw_3"
+        },
+        "14": {
+          "name": "Quickdraw_4"
+        },
+        "15": {
+          "name": "Shogun_0"
+        },
+        "16": {
+          "name": "Shogun_1"
+        },
+        "17": {
+          "name": "Shogun_2"
+        },
+        "18": {
+          "name": "Shogun_3"
+        },
+        "19": {
+          "name": "Shogun_4"
+        }
       }
     },
     "Fox": {
@@ -360,6 +1117,44 @@
         "ko": "\ud3ed\uc2a4",
         "zh_TW": "\u706b\u72d0",
         "zh_CN": "\u706b\u72d0"
+      },
+      "skin_name": {
+        "9": {
+          "name": "Melee_0"
+        },
+        "10": {
+          "name": "Melee_1"
+        },
+        "11": {
+          "name": "Melee_2"
+        },
+        "12": {
+          "name": "Melee_3"
+        },
+        "13": {
+          "name": "Melee_4"
+        },
+        "14": {
+          "name": "Melee_5"
+        },
+        "15": {
+          "name": "Shades"
+        },
+        "16": {
+          "name": "Shades_Black"
+        },
+        "17": {
+          "name": "Shades_Blue"
+        },
+        "18": {
+          "name": "Shades_Green"
+        },
+        "19": {
+          "name": "Shades_Purple"
+        },
+        "20": {
+          "name": "Shades_Red"
+        }
       }
     },
     "Falco": {
@@ -380,6 +1175,41 @@
         "ko": "\ud314\ucf54",
         "zh_TW": "\u6cd5\u723e\u79d1",
         "zh_CN": "\u4f5b\u514b"
+      },
+      "skin_name": {
+        "4": {
+          "name": "3a"
+        },
+        "5": {
+          "name": "3_Alt"
+        },
+        "11": {
+          "name": "cBliss_Minty"
+        },
+        "12": {
+          "name": "Melee_0"
+        },
+        "13": {
+          "name": "Melee_1"
+        },
+        "14": {
+          "name": "Melee_2"
+        },
+        "15": {
+          "name": "Melee_3"
+        },
+        "16": {
+          "name": "Melee_4"
+        },
+        "17": {
+          "name": "Melee_5"
+        },
+        "18": {
+          "name": "Melee_6"
+        },
+        "19": {
+          "name": "Melee_7"
+        }
       }
     },
     "Wolf": {
@@ -400,6 +1230,50 @@
         "ko": "\uc6b8\ud504",
         "zh_TW": "\u6c83\u723e\u592b",
         "zh_CN": "\u6c83\u9c81\u592b"
+      },
+      "skin_name": {
+        "6": {
+          "name": "Pilot_0"
+        },
+        "7": {
+          "name": "Pilot_1"
+        },
+        "8": {
+          "name": "Pilot_2"
+        },
+        "9": {
+          "name": "Pilot_3"
+        },
+        "10": {
+          "name": "Retro_0"
+        },
+        "11": {
+          "name": "Retro_1"
+        },
+        "12": {
+          "name": "Retro_2"
+        },
+        "13": {
+          "name": "Retro_3"
+        },
+        "14": {
+          "name": "Retro_4"
+        },
+        "15": {
+          "name": "Smash1Eye_1"
+        },
+        "16": {
+          "name": "Smash1Eye_2"
+        },
+        "17": {
+          "name": "Smash1Eye_3"
+        },
+        "18": {
+          "name": "Smash1Eye_4"
+        },
+        "19": {
+          "name": "Smash1Eye_5"
+        }
       }
     },
     "Pikachu": {
@@ -420,6 +1294,107 @@
         "ko": "\ud53c\uce74\uce04",
         "zh_TW": "\u76ae\u5361\u4e18",
         "zh_CN": "\u76ae\u5361\u4e18"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Ash_Hat"
+        },
+        "2": {
+          "name": "Backpack"
+        },
+        "3": {
+          "name": "Backwards_Cap"
+        },
+        "4": {
+          "name": "Band_0"
+        },
+        "5": {
+          "name": "Bow"
+        },
+        "6": {
+          "name": "Bulb"
+        },
+        "7": {
+          "name": "Choice_Scart"
+        },
+        "8": {
+          "name": "Cowboy"
+        },
+        "9": {
+          "name": "Default"
+        },
+        "10": {
+          "name": "Detective"
+        },
+        "11": {
+          "name": "Detective_0"
+        },
+        "12": {
+          "name": "Fedora_0"
+        },
+        "13": {
+          "name": "Goggles"
+        },
+        "14": {
+          "name": "Goggles_0"
+        },
+        "15": {
+          "name": "Headband"
+        },
+        "16": {
+          "name": "Headphones"
+        },
+        "17": {
+          "name": "Headphones_0"
+        },
+        "18": {
+          "name": "Jukebox_0"
+        },
+        "19": {
+          "name": "Let's_Go_0"
+        },
+        "20": {
+          "name": "Libre"
+        },
+        "21": {
+          "name": "Lightbulb_0"
+        },
+        "22": {
+          "name": "May_0"
+        },
+        "23": {
+          "name": "Party_Hat"
+        },
+        "24": {
+          "name": "Party_Hat_0"
+        },
+        "25": {
+          "name": "Pirate"
+        },
+        "26": {
+          "name": "Pirate_Hat_0"
+        },
+        "27": {
+          "name": "PokeCowboy"
+        },
+        "28": {
+          "name": "Pokemon_Hat"
+        },
+        "29": {
+          "name": "Scarf"
+        },
+        "30": {
+          "name": "Scarf_0"
+        },
+        "31": {
+          "name": "Top_Hat"
+        },
+        "32": {
+          "name": "Trainer_Hat"
+        },
+        "33": {
+          "name": "Trainer_Hat_0"
+        }
       }
     },
     "Jigglypuff": {
@@ -440,6 +1415,110 @@
         "ko": "\ud478\ub9b0",
         "zh_TW": "\u80d6\u4e01",
         "zh_CN": "\u80d6\u4e01"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Beret"
+        },
+        "2": {
+          "name": "Beret_0"
+        },
+        "3": {
+          "name": "Bow"
+        },
+        "4": {
+          "name": "Bow_0"
+        },
+        "5": {
+          "name": "Bug_Catcher_Hat_0"
+        },
+        "6": {
+          "name": "Crown"
+        },
+        "7": {
+          "name": "Crown_0"
+        },
+        "8": {
+          "name": "Dawn_0"
+        },
+        "9": {
+          "name": "Dawn_Hat"
+        },
+        "10": {
+          "name": "Default"
+        },
+        "11": {
+          "name": "Dripped_Out"
+        },
+        "12": {
+          "name": "Evil_Vibes"
+        },
+        "13": {
+          "name": "Fairy"
+        },
+        "14": {
+          "name": "Fairy_0"
+        },
+        "15": {
+          "name": "Flower"
+        },
+        "16": {
+          "name": "Flower_0"
+        },
+        "17": {
+          "name": "Green_Cap"
+        },
+        "18": {
+          "name": "Green_Hat"
+        },
+        "19": {
+          "name": "Green_Hat_Glasses"
+        },
+        "20": {
+          "name": "Hbox"
+        },
+        "21": {
+          "name": "Headband_0"
+        },
+        "22": {
+          "name": "Jenny_0"
+        },
+        "23": {
+          "name": "Let's_Go_0"
+        },
+        "24": {
+          "name": "May_Hat"
+        },
+        "25": {
+          "name": "Nurse_Joy"
+        },
+        "26": {
+          "name": "Picnicker_0"
+        },
+        "27": {
+          "name": "Sleeping_Hat_0"
+        },
+        "28": {
+          "name": "Sleepy"
+        },
+        "29": {
+          "name": "Sunhat"
+        },
+        "30": {
+          "name": "Sunnies"
+        },
+        "31": {
+          "name": "Trainer_Hat"
+        },
+        "32": {
+          "name": "Trainer_Hat_0"
+        },
+        "33": {
+          "name": "Youngster_0"
+        },
+        "34": {
+          "name": "Youngster_Cap"
+        }
       }
     },
     "Mewtwo": {
@@ -460,6 +1539,38 @@
         "ko": "\ubba4\uce20",
         "zh_TW": "\u8d85\u5922",
         "zh_CN": "\u8d85\u68a6"
+      },
+      "skin_name": {
+        "13": {
+          "name": "Armored_0"
+        },
+        "14": {
+          "name": "Armored_1"
+        },
+        "15": {
+          "name": "Armored_2"
+        },
+        "16": {
+          "name": "Armored_3"
+        },
+        "17": {
+          "name": "Armored_4"
+        },
+        "18": {
+          "name": "Shadow_0"
+        },
+        "19": {
+          "name": "Shadow_1"
+        },
+        "20": {
+          "name": "Shadow_2"
+        },
+        "21": {
+          "name": "Shadow_3"
+        },
+        "22": {
+          "name": "Shadow_4"
+        }
       }
     },
     "Squirtle": {
@@ -472,6 +1583,41 @@
         "ko": "\uaf2c\ubd80\uae30",
         "zh_CN": "\u6770\u5c3c\u9f9f",
         "zh_TW": "\u5091\u5c3c\u9f9c"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Ninja_0"
+        },
+        "11": {
+          "name": "Ninja_1"
+        },
+        "12": {
+          "name": "Ninja_2"
+        },
+        "13": {
+          "name": "Ninja_3"
+        },
+        "14": {
+          "name": "Ninja_4"
+        },
+        "15": {
+          "name": "Ninja_5"
+        },
+        "16": {
+          "name": "Shinobi_0"
+        },
+        "17": {
+          "name": "Shinobi_1"
+        },
+        "18": {
+          "name": "Shinobi_2"
+        },
+        "19": {
+          "name": "Shinobi_3"
+        },
+        "20": {
+          "name": "Shinobi_4"
+        }
       }
     },
     "Ivysaur": {
@@ -484,6 +1630,38 @@
         "ko": "\uc774\uc0c1\ud574\ud480",
         "zh_CN": "\u5999\u86d9\u8349",
         "zh_TW": "\u5999\u86d9\u8349"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Sorceress_0"
+        },
+        "11": {
+          "name": "Sorceress_1"
+        },
+        "12": {
+          "name": "Sorceress_2"
+        },
+        "13": {
+          "name": "Sorceress_3"
+        },
+        "14": {
+          "name": "Sorceress_4"
+        },
+        "15": {
+          "name": "Substitute_0"
+        },
+        "16": {
+          "name": "Substitute_1"
+        },
+        "17": {
+          "name": "Substitute_2"
+        },
+        "18": {
+          "name": "Substitute_3"
+        },
+        "19": {
+          "name": "Substitute_4"
+        }
       }
     },
     "Charizard": {
@@ -496,6 +1674,35 @@
         "ko": "\ub9ac\uc790\ubabd",
         "zh_CN": "\u55b7\u706b\u9f99",
         "zh_TW": "\u5674\u706b\u9f8d"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Armored_0"
+        },
+        "11": {
+          "name": "Armored_1"
+        },
+        "12": {
+          "name": "Armored_2"
+        },
+        "13": {
+          "name": "Armored_3"
+        },
+        "14": {
+          "name": "Armored_4"
+        },
+        "15": {
+          "name": "Mega_X_0"
+        },
+        "16": {
+          "name": "Mega_X_1"
+        },
+        "17": {
+          "name": "Mega_X_2"
+        },
+        "18": {
+          "name": "Mega_X_3"
+        }
       }
     },
     "Lucario": {
@@ -516,6 +1723,38 @@
         "ko": "\ub8e8\uce74\ub9ac\uc624",
         "zh_TW": "\u8def\u5361\u5229\u6b50",
         "zh_CN": "\u8def\u5361\u5229\u6b27"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Gi_0"
+        },
+        "11": {
+          "name": "Gi_1"
+        },
+        "12": {
+          "name": "Gi_2"
+        },
+        "13": {
+          "name": "Gi_3"
+        },
+        "14": {
+          "name": "Gi_4"
+        },
+        "15": {
+          "name": "Mega_0"
+        },
+        "16": {
+          "name": "Mega_2"
+        },
+        "17": {
+          "name": "Mega_3"
+        },
+        "18": {
+          "name": "Mega_4"
+        },
+        "19": {
+          "name": "Mega_5"
+        }
       }
     },
     "Captain Falcon": {
@@ -536,6 +1775,38 @@
         "ko": "\ucea1\ud2f4 \ud314\ucf58",
         "zh_TW": "\u98db\u96bc\u968a\u9577",
         "zh_CN": "\u98de\u96bc\u961f\u957f"
+      },
+      "skin_name": {
+        "10": {
+          "name": "No_Helmet_0"
+        },
+        "11": {
+          "name": "No_Helmet_1"
+        },
+        "12": {
+          "name": "No_Helmet_2"
+        },
+        "13": {
+          "name": "No_Helmet_3"
+        },
+        "14": {
+          "name": "No_Helmet_4"
+        },
+        "15": {
+          "name": "Retro_0"
+        },
+        "16": {
+          "name": "Retro_1"
+        },
+        "17": {
+          "name": "Retro_2"
+        },
+        "18": {
+          "name": "Retro_3"
+        },
+        "19": {
+          "name": "Retro_4"
+        }
       }
     },
     "Ness": {
@@ -556,6 +1827,41 @@
         "ko": "\ub124\uc2a4",
         "zh_TW": "\u5948\u65af",
         "zh_CN": "\u5948\u65af"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Ninten_0"
+        },
+        "11": {
+          "name": "Ninten_1"
+        },
+        "12": {
+          "name": "Ninten_2"
+        },
+        "13": {
+          "name": "Ninten_3"
+        },
+        "14": {
+          "name": "Ninten_4"
+        },
+        "15": {
+          "name": "Ninten_5"
+        },
+        "16": {
+          "name": "Pajamas_0"
+        },
+        "17": {
+          "name": "Pajamas_1"
+        },
+        "18": {
+          "name": "Pajamas_2"
+        },
+        "19": {
+          "name": "Pajamas_3"
+        },
+        "20": {
+          "name": "Pajamas_4"
+        }
       }
     },
     "Lucas": {
@@ -576,6 +1882,56 @@
         "ko": "\ub958\uce74",
         "zh_TW": "\u7409\u52a0",
         "zh_CN": "\u7409\u52a0"
+      },
+      "skin_name": {
+        "6": {
+          "name": "Chimera_Minus_0"
+        },
+        "7": {
+          "name": "Chimera_Minus_1"
+        },
+        "8": {
+          "name": "Chimera_Minus_2"
+        },
+        "9": {
+          "name": "Chimera_Minus_3"
+        },
+        "10": {
+          "name": "Commander_0"
+        },
+        "11": {
+          "name": "Commander_1"
+        },
+        "12": {
+          "name": "Commander_2"
+        },
+        "13": {
+          "name": "Commander_3"
+        },
+        "14": {
+          "name": "Commander_4"
+        },
+        "15": {
+          "name": "Commander_5"
+        },
+        "16": {
+          "name": "EB63_1"
+        },
+        "17": {
+          "name": "EB63_2"
+        },
+        "18": {
+          "name": "EB63_3"
+        },
+        "19": {
+          "name": "EB63_4"
+        },
+        "20": {
+          "name": "EB63_5"
+        },
+        "21": {
+          "name": "EB63_6"
+        }
       }
     },
     "Ice Climbers": {
@@ -596,6 +1952,47 @@
         "ko": "\uc5bc\uc74c \ud0c0\uae30",
         "zh_TW": "\u7ffb\u8d8a\u51b0\u5c71\u8005",
         "zh_CN": "\u7ffb\u8d8a\u51b0\u5c71\u8005"
+      },
+      "skin_name": {
+        "3": {
+          "name": "1_alt"
+        },
+        "7": {
+          "name": "4_alt"
+        },
+        "9": {
+          "name": "5_alt"
+        },
+        "14": {
+          "name": "Polar_0"
+        },
+        "15": {
+          "name": "Polar_1"
+        },
+        "16": {
+          "name": "Polar_2"
+        },
+        "17": {
+          "name": "Polar_3"
+        },
+        "18": {
+          "name": "Polar_4"
+        },
+        "19": {
+          "name": "Tundra_0"
+        },
+        "20": {
+          "name": "Tundra_1"
+        },
+        "21": {
+          "name": "Tundra_2"
+        },
+        "22": {
+          "name": "Tundra_3"
+        },
+        "23": {
+          "name": "Ushanka_4"
+        }
       }
     },
     "Marth": {
@@ -616,6 +2013,50 @@
         "ko": "\ub9c8\ub974\uc2a4",
         "zh_TW": "\u99ac\u723e\u65af",
         "zh_CN": "\u9a6c\u5c14\u65af"
+      },
+      "skin_name": {
+        "7": {
+          "name": "Armor_0"
+        },
+        "8": {
+          "name": "Armor_1"
+        },
+        "9": {
+          "name": "Caeda_Dark"
+        },
+        "10": {
+          "name": "Holy_War_0"
+        },
+        "11": {
+          "name": "Holy_War_1"
+        },
+        "12": {
+          "name": "Holy_War_2"
+        },
+        "13": {
+          "name": "Holy_War_3"
+        },
+        "14": {
+          "name": "Hooded_0"
+        },
+        "15": {
+          "name": "Hooded_1"
+        },
+        "16": {
+          "name": "Hooded_2"
+        },
+        "17": {
+          "name": "Hooded_3"
+        },
+        "18": {
+          "name": "Hooded_4"
+        },
+        "19": {
+          "name": "Hood_White"
+        },
+        "20": {
+          "name": "Lime"
+        }
       }
     },
     "Roy": {
@@ -636,6 +2077,47 @@
         "ko": "\ub85c\uc774",
         "zh_TW": "\u7f85\u4f0a",
         "zh_CN": "\u7f57\u4f0a"
+      },
+      "skin_name": {
+        "9": {
+          "name": "Awakening_0"
+        },
+        "10": {
+          "name": "Awakening_1"
+        },
+        "11": {
+          "name": "Awakening_2"
+        },
+        "12": {
+          "name": "Awakening_3"
+        },
+        "13": {
+          "name": "Awakening_4"
+        },
+        "14": {
+          "name": "Awakening_5"
+        },
+        "15": {
+          "name": "Beta_0"
+        },
+        "16": {
+          "name": "Beta_1"
+        },
+        "17": {
+          "name": "Beta_2"
+        },
+        "18": {
+          "name": "Beta_3"
+        },
+        "19": {
+          "name": "Beta_4"
+        },
+        "20": {
+          "name": "Beta_5"
+        },
+        "21": {
+          "name": "Beta_Purple"
+        }
       }
     },
     "Ike": {
@@ -656,6 +2138,50 @@
         "ko": "\uc544\uc774\ud06c",
         "zh_TW": "\u827e\u514b",
         "zh_CN": "\u827e\u514b"
+      },
+      "skin_name": {
+        "7": {
+          "name": "Armored_0"
+        },
+        "8": {
+          "name": "Armored_1"
+        },
+        "9": {
+          "name": "Armored_2"
+        },
+        "10": {
+          "name": "Armored_3"
+        },
+        "11": {
+          "name": "Armored_Custom_4"
+        },
+        "12": {
+          "name": "Armored_Titania"
+        },
+        "13": {
+          "name": "Greil_0"
+        },
+        "14": {
+          "name": "Greil_1"
+        },
+        "15": {
+          "name": "Greil_2"
+        },
+        "16": {
+          "name": "Greil_3"
+        },
+        "17": {
+          "name": "Greil_4"
+        },
+        "18": {
+          "name": "Greil_5"
+        },
+        "19": {
+          "name": "Lord"
+        },
+        "20": {
+          "name": "Shun_One_s_Chrom"
+        }
       }
     },
     "Mr. Game & Watch": {
@@ -676,7 +2202,8 @@
         "ko": "Mr. \uac8c\uc784&\uc6cc\uce58",
         "zh_TW": "Mr. Game & Watch",
         "zh_CN": "Mr. Game & Watch"
-      }
+      },
+      "skin_name": {}
     },
     "Pit": {
       "smashgg_name": "Pit",
@@ -696,6 +2223,53 @@
         "ko": "\ud53c\ud2b8",
         "zh_TW": "\u5f7c\u7279",
         "zh_CN": "\u5f7c\u7279"
+      },
+      "skin_name": {
+        "3": {
+          "name": "2ST_0"
+        },
+        "4": {
+          "name": "2ST_Black_3"
+        },
+        "5": {
+          "name": "2ST_Blue_3"
+        },
+        "6": {
+          "name": "2ST_Green_3"
+        },
+        "7": {
+          "name": "2ST_Red_3"
+        },
+        "15": {
+          "name": "Dark_0"
+        },
+        "16": {
+          "name": "Dark_1"
+        },
+        "17": {
+          "name": "Dark_2"
+        },
+        "18": {
+          "name": "Dark_3"
+        },
+        "19": {
+          "name": "Dark_4"
+        },
+        "20": {
+          "name": "Retro_0"
+        },
+        "21": {
+          "name": "Retro_1"
+        },
+        "22": {
+          "name": "Retro_2"
+        },
+        "23": {
+          "name": "Retro_3"
+        },
+        "24": {
+          "name": "Retro_4"
+        }
       }
     },
     "Wario": {
@@ -716,6 +2290,77 @@
         "ko": "\uc640\ub9ac\uc624",
         "zh_TW": "\u74e6\u5229\u6b50",
         "zh_CN": "\u74e6\u529b\u6b27"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Biker_0"
+        },
+        "2": {
+          "name": "Biker_1"
+        },
+        "3": {
+          "name": "Biker_2"
+        },
+        "4": {
+          "name": "Biker_3"
+        },
+        "5": {
+          "name": "Biker_4"
+        },
+        "6": {
+          "name": "Biker_5"
+        },
+        "7": {
+          "name": "Biker_Morshu"
+        },
+        "8": {
+          "name": "Biker_MR_Blue"
+        },
+        "9": {
+          "name": "Biker_MR_Yellow"
+        },
+        "10": {
+          "name": "Classic_1"
+        },
+        "11": {
+          "name": "Classic_2"
+        },
+        "12": {
+          "name": "Classic_3"
+        },
+        "13": {
+          "name": "Classic_4"
+        },
+        "14": {
+          "name": "Classic_5"
+        },
+        "15": {
+          "name": "Classic_Spamite_12"
+        },
+        "16": {
+          "name": "Classic_Spamite_13"
+        },
+        "17": {
+          "name": "Classic_Zard_13"
+        },
+        "18": {
+          "name": "Tycoon_0"
+        },
+        "19": {
+          "name": "Tycoon_1"
+        },
+        "20": {
+          "name": "Tycoon_2"
+        },
+        "21": {
+          "name": "Tycoon_3"
+        },
+        "22": {
+          "name": "Tycoon_4"
+        },
+        "23": {
+          "name": "Tycoon_5"
+        }
       }
     },
     "Olimar": {
@@ -736,6 +2381,38 @@
         "ko": "\ud53c\ud06c\ubbfc&\uc62c\ub9ac\ub9c8",
         "zh_TW": "\u76ae\u514b\u654f\uff06\u6b50\u5229\u746a",
         "zh_CN": "\u76ae\u514b\u654f\uff06\u6b27\u529b\u9a6c"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Astromar_0"
+        },
+        "11": {
+          "name": "Astromar_1"
+        },
+        "12": {
+          "name": "Astromar_2"
+        },
+        "13": {
+          "name": "Astromar_3"
+        },
+        "14": {
+          "name": "Astromar_4"
+        },
+        "15": {
+          "name": "Bad_Ending_0"
+        },
+        "16": {
+          "name": "Bad_Ending_1"
+        },
+        "17": {
+          "name": "Bad_Ending_2"
+        },
+        "18": {
+          "name": "Bad_Ending_3"
+        },
+        "19": {
+          "name": "Pikmar_0"
+        }
       }
     },
     "R.O.B.": {
@@ -756,6 +2433,50 @@
         "ko": "R.O.B.",
         "zh_TW": "\u6a5f\u5668\u4eba",
         "zh_CN": "\u673a\u5668\u4eba"
+      },
+      "skin_name": {
+        "6": {
+          "name": "Kart_0"
+        },
+        "7": {
+          "name": "Kart_1"
+        },
+        "8": {
+          "name": "Kart_2"
+        },
+        "9": {
+          "name": "Kart_3"
+        },
+        "10": {
+          "name": "Virtual_Boy_0"
+        },
+        "11": {
+          "name": "Virtual_Boy_1"
+        },
+        "12": {
+          "name": "Virtual_Boy_2"
+        },
+        "13": {
+          "name": "Virtual_Boy_3"
+        },
+        "14": {
+          "name": "Virtual_Boy_4"
+        },
+        "15": {
+          "name": "Virtual_Boy_5"
+        },
+        "16": {
+          "name": "Wii_0"
+        },
+        "17": {
+          "name": "Wii_1"
+        },
+        "18": {
+          "name": "Wii_2"
+        },
+        "19": {
+          "name": "Wii_3"
+        }
       }
     },
     "Snake": {
@@ -776,6 +2497,44 @@
         "ko": "\uc2a4\ub124\uc774\ud06c",
         "zh_TW": "Snake",
         "zh_CN": "Snake"
+      },
+      "skin_name": {
+        "10": {
+          "name": "Big_Boss_0"
+        },
+        "11": {
+          "name": "Big_Boss_1"
+        },
+        "12": {
+          "name": "Big_Boss_2"
+        },
+        "13": {
+          "name": "Big_Boss_3"
+        },
+        "14": {
+          "name": "Big_Boss_4"
+        },
+        "15": {
+          "name": "Big_Boss_5"
+        },
+        "16": {
+          "name": "Fancy"
+        },
+        "17": {
+          "name": "MGS0_1"
+        },
+        "18": {
+          "name": "MGS0_2"
+        },
+        "19": {
+          "name": "MGS0_3"
+        },
+        "20": {
+          "name": "MGS0_4"
+        },
+        "21": {
+          "name": "Tuxedo_0"
+        }
       }
     },
     "Sonic": {
@@ -796,6 +2555,68 @@
         "ko": "\uc18c\ub2c9",
         "zh_TW": "\u7d22\u5c3c\u514b",
         "zh_CN": "\u7d22\u5c3c\u514b"
+      },
+      "skin_name": {
+        "4": {
+          "name": "JetSet_0"
+        },
+        "5": {
+          "name": "JetSet_1"
+        },
+        "6": {
+          "name": "JetSet_2"
+        },
+        "7": {
+          "name": "JetSet_3"
+        },
+        "8": {
+          "name": "JetSet_4"
+        },
+        "9": {
+          "name": "Jet_Set_0"
+        },
+        "10": {
+          "name": "Jet_Set_1"
+        },
+        "11": {
+          "name": "Jet_Set_2"
+        },
+        "12": {
+          "name": "Jet_Set_3"
+        },
+        "13": {
+          "name": "Racing_Suit_0"
+        },
+        "14": {
+          "name": "Racing_Suit_1"
+        },
+        "15": {
+          "name": "Racing_Suit_2"
+        },
+        "16": {
+          "name": "Racing_Suit_3"
+        },
+        "17": {
+          "name": "Shadow_0"
+        },
+        "18": {
+          "name": "Silver_0"
+        },
+        "19": {
+          "name": "Smash_1_Light_Speed_0"
+        },
+        "20": {
+          "name": "Smash_1_Light_Speed_1"
+        },
+        "21": {
+          "name": "Smash_1_Light_Speed_2"
+        },
+        "22": {
+          "name": "Smash_1_Pink"
+        },
+        "23": {
+          "name": "Tails_0"
+        }
       }
     },
     "Knuckles": {
@@ -807,6 +2628,59 @@
         "zh_TW": "\u7d0d\u514b\u9b6f\u65af",
         "ko": "\ub108\ud074\uc988",
         "ru": "\u041d\u0430\u043a\u043b\u0437"
+      },
+      "skin_name": {
+        "8": {
+          "name": "Charmy"
+        },
+        "9": {
+          "name": "Espio"
+        },
+        "10": {
+          "name": "JetSet_0"
+        },
+        "11": {
+          "name": "JetSet_1"
+        },
+        "12": {
+          "name": "JetSet_2"
+        },
+        "13": {
+          "name": "JetSet_3"
+        },
+        "14": {
+          "name": "Treasure_Hunter_0"
+        },
+        "15": {
+          "name": "Treasure_Hunter_1"
+        },
+        "16": {
+          "name": "Treasure_Hunter_2"
+        },
+        "17": {
+          "name": "Treasure_Hunter_3"
+        },
+        "18": {
+          "name": "Treasure_Hunter_4"
+        },
+        "19": {
+          "name": "Treasure_Hunter_5"
+        },
+        "20": {
+          "name": "Treasure_Hunter_6"
+        },
+        "21": {
+          "name": "Treasure_Hunter_7"
+        },
+        "22": {
+          "name": "Treasure_Hunter_8"
+        },
+        "23": {
+          "name": "Tribal"
+        },
+        "24": {
+          "name": "Vector"
+        }
       }
     },
     "Random": {

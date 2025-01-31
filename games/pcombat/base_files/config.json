@@ -207,7 +207,8 @@
             "zh_TW": "\u98db\u817f\u90ce",
             "it": "Hitmonlee",
             "es": "Hitmonlee"
-          }
+          },
+          "is_different_character": true
         },
         "2": {
           "name": "Hitmonchan",
@@ -220,7 +221,8 @@
             "zh_TW": "\u5feb\u62f3\u90ce",
             "it": "Hitmonchan",
             "es": "Hitmonchan"
-          }
+          },
+          "is_different_character": true
         },
         "3": {
           "name": "Hitmontop",
@@ -233,7 +235,8 @@
             "zh_TW": "\u6230\u821e\u90ce",
             "it": "Hitmontop",
             "es": "Hitmontop"
-          }
+          },
+          "is_different_character": true
         }
       }
     },

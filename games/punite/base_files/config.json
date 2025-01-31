@@ -76,7 +76,7 @@
     "Alolan Ninetales": {
       "codename": "038-A",
       "locale": {
-        "fr": "Feunard",
+        "fr": "Feunard (Alola)",
         "de": "Vulnona",
         "ko": "\ub098\uc778\ud14c\uc77c",
         "ja": "\u30ad\u30e5\u30a6\u30b3\u30f3",
@@ -940,10 +940,52 @@
         "es": "Darkrai"
       },
       "smashgg_name": "Darkrai"
+    },
+    "Psyduck": {
+      "codename": "054",
+      "locale": {
+        "fr": "Psykokwak",
+        "de": "Enton",
+        "ko": "\uace0\ub77c\ud30c\ub355",
+        "ja": "\u30b3\u30c0\u30c3\u30af",
+        "zh_CN": "\u53ef\u8fbe\u9e2d",
+        "zh_TW": "\u53ef\u9054\u9d28",
+        "it": "Psyduck",
+        "es": "Psyduck"
+      },
+      "smashgg_name": "Psyduck"
+    },
+    "Tinkaton": {
+      "codename": "959",
+      "locale": {
+        "fr": "Forgelina",
+        "de": "Granforgita",
+        "ko": "\ub450\ub4dc\ub9ac\uc9f1",
+        "ja": "\u30c7\u30ab\u30cc\u30c1\u30e3\u30f3",
+        "zh_CN": "\u5de8\u953b\u5320",
+        "zh_TW": "\u5de8\u935b\u5320",
+        "it": "Tinkaton",
+        "es": "Tinkaton"
+      },
+      "smashgg_name": "Tinkaton"
+    },
+    "Galarian Rapidash": {
+      "codename": "078-G",
+      "locale": {
+        "fr": "Galopa (Galar)",
+        "de": "Gallopa",
+        "ko": "\ub0a0\uc329\ub9c8",
+        "ja": "\u30ae\u30e3\u30ed\u30c3\u30d7",
+        "zh_CN": "\u70c8\u7130\u9a6c",
+        "zh_TW": "\u70c8\u7130\u99ac",
+        "it": "Rapidash",
+        "es": "Rapidash"
+      },
+      "smashgg_name": "Galarian Rapidash"
     }
   },
   "stage_to_codename": {},
-  "version": "24.11.26.54004",
+  "version": "25.01.30.64901",
   "description": "Base config to use this game",
   "credits": "Box sprites from the mainline games from Generation 3-8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pok\u00e9mon Scarlet & Violet icons",
   "defaults": {

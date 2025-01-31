@@ -1,0 +1,62 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Cecil": {
+      "codename": "Cecil"
+    },
+    "Cordelia": {
+      "codename": "Cordelia"
+    },
+    "Dark Furil": {
+      "codename": "DarkFuril"
+    },
+    "Furil": {
+      "codename": "Furil"
+    },
+    "Joker": {
+      "codename": "Joker"
+    },
+    "Kain": {
+      "codename": "Kain"
+    },
+    "Kickchop": {
+      "codename": "Kickchop"
+    },
+    "Lion": {
+      "codename": "Lion"
+    },
+    "Nathia": {
+      "codename": "Nathia"
+    },
+    "Pure": {
+      "codename": "Pure"
+    },
+    "Rayea": {
+      "codename": "Rayea"
+    },
+    "Rinze": {
+      "codename": "Rinze"
+    },
+    "Sala": {
+      "codename": "Sala"
+    },
+    "Sophia": {
+      "codename": "Sophia"
+    },
+    "Thanatos": {
+      "codename": "Thanatos"
+    },
+    "Think": {
+      "codename": "Think"
+    },
+    "Three Witch Sisters": {
+      "codename": "ThreeWitchSisters"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Panel de Pon (Nintendo Puzzle Collection)",
+  "smashgg_game_id": 38036,
+  "stage_to_codename": {},
+  "version": "25.01.27.67716"
+}

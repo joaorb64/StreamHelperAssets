@@ -127,8 +127,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Guilty Gear -STRIVE-
-- Character [Queen Dizzy]: Character name [Queen Dizzy] doesn't exist in StartGG
-### Coverage: (28/28)
+- Character [Venom]: Character name [Venom] doesn't exist in StartGG
+- Character [Unika]: Character name [Unika] doesn't exist in StartGG
+- Character [Lucyna "Lucy" Kushinada]: Character name [Lucy] doesn't exist in StartGG
+### Coverage: (29/29)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)
@@ -247,10 +249,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Mortal Kombat 1
-- Character [Conan the Barbarian]: Character name [Conan the Barbarian] doesn't exist in StartGG
 - Character [T-1000]: Character name [T-1000] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (33/34)
+### Coverage: (34/35)
 
 ## Mortal Kombat 11
 - Character [Kronika]: Character name [Kronika] doesn't exist in StartGG
@@ -309,6 +310,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (25/25)
 
 ## Nickelodeon All-Star Brawl 2
+- Character [Iroh]: Character name [Iroh] doesn't exist in StartGG
 ### Coverage: (28/28)
 
 ## Neo Turf Masters
@@ -336,6 +338,12 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Panel de Pon
+Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Pokémon Puzzle League
+Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Panel de Pon (Nintendo Puzzle Collection)
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Tetris Attack
@@ -427,6 +435,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Ho-Oh]: Character name [Ho-Oh] doesn't exist in StartGG
 - Character [Armarouge]: Character name [Armarouge] doesn't exist in StartGG
 - Character [Darkrai]: Character name [Darkrai] doesn't exist in StartGG
+- Character [Psyduck]: Character name [Psyduck] doesn't exist in StartGG
+- Character [Tinkaton]: Character name [Tinkaton] doesn't exist in StartGG
+- Character [Galarian Rapidash]: Character name [Galarian Rapidash] doesn't exist in StartGG
 ### Coverage: (25/25)
 
 ## Rabbit
@@ -456,8 +467,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
-- Character [Etalus]: Character name [Etalus] doesn't exist in StartGG
-### Coverage: (10/10)
+### Coverage: (11/11)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)

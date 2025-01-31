@@ -201,32 +201,35 @@
     },
     "Queen Dizzy": {
       "codename": "Dizzy",
-      "smashgg_name": "Queen Dizzy",
+      "smashgg_name": "Dizzy",
       "locale": {
         "ja": "\u30c7\u30a3\u30ba\u30a3\u30fc"
       }
     },
     "Venom": {
       "codename": "Venom",
+      "smashgg_name": "Venom",
       "locale": {
         "ja": "\u30f4\u30a7\u30ce\u30e0"
       }
     },
     "Unika": {
       "codename": "Unika",
+      "smashgg_name": "Unika",
       "locale": {
         "ja": "\u30e6\u30cb\u30ab"
       }
     },
     "Lucyna \"Lucy\" Kushinada": {
       "codename": "Lucy",
+      "smashgg_name": "Lucy",
       "locale": {
         "ja": "\u30eb\u30fc\u30b7\u30fc"
       }
     }
   },
   "stage_to_codename": {},
-  "version": "24.11.26.54004",
+  "version": "25.01.22.83617",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki\n\n\u00a9 ARC SYSTEM WORKS\n\nGuilty Gear -Strive- Official Site: https://www.guiltygear.com/ggst/en/",
   "locale": {

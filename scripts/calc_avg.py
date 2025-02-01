@@ -1,6 +1,7 @@
 import os
 import json
 from PIL import Image
+import re
 Image.MAX_IMAGE_PIXELS = None
 
 # Define the base directory
@@ -16,27 +17,43 @@ def process_directory(directory):
                 continue
             
             # Initialize variables to calculate average dimensions
-            total_width = 0
-            total_height = 0
+            total_width = 0.0
+            total_height = 0.0
             image_count = 0
             
             # Loop through files to find image files (including .webp)
+            with open(config_path, "rt", encoding="utf-8") as config_file:
+                config = json.loads(config_file.read())
+                scaling = config.get("rescaling_factor", {})
+                regex_str = config.get("prefix", "") + "(.*)" + config.get("postfix", "") + "(.*)\\.([A-Za-z0-9]*)"
+                regex = re.compile(regex_str)
             for file in files:
                 if file.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.gif', '.tiff', '.webp')):
                     image_path = os.path.join(root, file)
-                    try:
-                        with Image.open(image_path) as img:
-                            width, height = img.size
-                            total_width += width
-                            total_height += height
-                            image_count += 1
-                    except Exception as e:
-                        print(f"Error processing image {image_path}: {e}")
+                    image_name = os.path.basename(image_path)
+                    regex_search = regex.search(image_name)
+                    if not regex_search:
+                        print(f"Error processing image {image_path}: Image name did not match config")
+                    else:
+                        codename, index = regex_search.group(1), regex_search.group(2)
+                        if index:
+                            index = str(int(index))
+                            scaling_factor = scaling.get(codename, {}).get(index, scaling.get(codename, {}).get("0", 1.0))
+                        else:
+                            scaling_factor = 1.0
+                        try:
+                            with Image.open(image_path) as img:
+                                width, height = img.size
+                                total_width += width * scaling_factor
+                                total_height += height * scaling_factor
+                                image_count += 1
+                        except Exception as e:
+                            print(f"Error processing image {image_path}: {e}")
             
             # Calculate the average size if images were found
             if image_count > 0:
-                average_width = total_width // image_count
-                average_height = total_height // image_count
+                average_width = total_width / image_count
+                average_height = total_height / image_count
                 average_size = {"x": average_width, "y": average_height}
                 
                 # Read and update the config.json file

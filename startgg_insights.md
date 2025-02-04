@@ -291,6 +291,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG
 - Character [Raven]: Character name [Raven] doesn't exist in StartGG
 - Character [Marceline the Vampire Queen]: Character name [Marceline] doesn't exist in StartGG
+- Character [Lola Bunny]: Character name [Lola Bunny] doesn't exist in StartGG
+- Character [Aquaman]: Character name [Aquaman] doesn't exist in StartGG
 ### Coverage: (30/30)
 
 ## Marvel vs. Capcom: Clash of Super Heroes

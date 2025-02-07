@@ -116,5 +116,25 @@
     "ja": {
       "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc6"
     }
+  },
+  "variant_to_codename": {
+    "Classic": {
+      "codename": "variant_c",
+      "locale": {
+        "fr": "Classique"
+      }
+    },
+    "Modern": {
+      "codename": "variant_m",
+      "locale": {
+        "fr": "Moderne"
+      }
+    },
+    "Dynamic": {
+      "codename": "variant_d",
+      "locale": {
+        "fr": "Dynamique"
+      }
+    }
   }
 }

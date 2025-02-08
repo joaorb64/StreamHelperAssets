@@ -1,0 +1,15 @@
+{
+  "name": "Collab Icons",
+  "version": "25.02.01.1720",
+  "description": "Collab icons",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Idol_Showdown)",
+  "prefix": "IS_",
+  "postfix": "_Icon",
+  "type": [
+    "variant_icon"
+  ],
+  "average_size": {
+    "x": 512.0,
+    "y": 256.0
+  }
+}

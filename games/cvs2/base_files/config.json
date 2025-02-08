@@ -167,5 +167,25 @@
       "smashgg_game_id": 33213,
       "logo_path": "logo_eo.png"
     }
-  ]
+  ],
+  "variant_to_codename": {
+    "C-Groove": {
+      "codename": "C-Groove"
+    },
+    "A-Groove": {
+      "codename": "A-Groove"
+    },
+    "P-Groove": {
+      "codename": "P-Groove"
+    },
+    "S-Groove": {
+      "codename": "S-Groove"
+    },
+    "N-Groove": {
+      "codename": "N-Groove"
+    },
+    "K-Groove": {
+      "codename": "K-Groove"
+    }
+  }
 }

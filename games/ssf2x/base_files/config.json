@@ -539,5 +539,37 @@
       "smashgg_game_id": 18132,
       "logo_path": "logo_hyper.png"
     }
-  ]
+  ],
+  "variant_to_codename": {
+    "Normal": {
+      "codename": "ww",
+      "locale": {
+        "ja": "NORMAL"
+      }
+    },
+    "Champ": {
+      "codename": "champ",
+      "locale": {
+        "ja": "DASH"
+      }
+    },
+    "Turbo": {
+      "codename": "turbo",
+      "locale": {
+        "ja": "TURBO"
+      }
+    },
+    "Super": {
+      "codename": "super",
+      "locale": {
+        "ja": "SUPER"
+      }
+    },
+    "Super Turbo": {
+      "codename": "2x",
+      "locale": {
+        "ja": "SUPER X"
+      }
+    }
+  }
 }

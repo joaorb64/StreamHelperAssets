@@ -338,7 +338,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "25.02.01.1720",
+  "version": "25.02.21.35824",
   "description": "Base config to use this game.\nIncludes modded characters and costumes from the HAVENGERS Clone Engine mod pack (https://www.nexusmods.com/ultimatemarvelvscapcom3/mods/286)",
   "credits": "",
   "defaults": {
@@ -346,13 +346,13 @@
     "characters_per_player": 3
   },
   "variant_to_codename": {
-    "α": {
+    "\u03b1": {
       "codename": "Alpha"
     },
-    "β": {
+    "\u03b2": {
       "codename": "Beta"
     },
-    "γ": {
+    "\u03b3": {
       "codename": "Gamma"
     }
   }

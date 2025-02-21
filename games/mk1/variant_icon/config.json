@@ -1,0 +1,15 @@
+{
+  "name": "Kameos",
+  "version": "25.02.01.1720",
+  "description": "Kameo icons",
+  "credits": "Ripped from https://www.mortalkombatwarehouse.com/mk12/characters",
+  "prefix": "",
+  "postfix": "_webp",
+  "type": [
+    "variant_icon"
+  ],
+  "average_size": {
+    "x": 512.0,
+    "y": 256.0
+  }
+}

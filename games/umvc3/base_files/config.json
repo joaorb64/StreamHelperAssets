@@ -344,5 +344,16 @@
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 3
+  },
+  "variant_to_codename": {
+    "α": {
+      "codename": "Alpha"
+    },
+    "β": {
+      "codename": "Beta"
+    },
+    "γ": {
+      "codename": "Gamma"
+    }
   }
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Zords",
+  "version": "25.02.01.1720",
+  "description": "Zord icons",
+  "credits": "",
+  "prefix": "BFTG_icon_",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "average_size": {
+    "x": 512.0,
+    "y": 256.0
+  }
+}

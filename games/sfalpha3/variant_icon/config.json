@@ -1,0 +1,15 @@
+{
+  "name": "ISM Selection",
+  "version": "25.02.01.1720",
+  "description": "ISM selection icons",
+  "credits": "Assets ripped from the Game Boy Advance version of Street Fighter Alpha 3",
+  "prefix": "",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "average_size": {
+    "x": 512.0,
+    "y": 256.0
+  }
+}

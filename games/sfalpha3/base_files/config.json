@@ -140,5 +140,19 @@
       "smashgg_game_id": null,
       "logo_path": "logo_hyper.png"
     }
-  ]
+  ],
+  "variant_to_codename": {
+    "A-ism": {
+      "codename": "aism",
+      "locale": {
+        "ja": "Z-ism"
+      }
+    },
+    "X-ism": {
+      "codename": "xism"
+    },
+    "V-ism": {
+      "codename": "vism"
+    }
+  }
 }

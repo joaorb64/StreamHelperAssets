@@ -1,0 +1,15 @@
+{
+  "name": "Assist Selection",
+  "version": "25.02.01.1720",
+  "description": "Assist selection icons",
+  "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Marvel_vs_Capcom_3/Game_Elements/Assist_Types)",
+  "prefix": "",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "average_size": {
+    "x": 512.0,
+    "y": 256.0
+  }
+}

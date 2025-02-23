@@ -72,5 +72,52 @@
       "smashgg_game_id": 39242,
       "logo_path": "logo_alt1.png"
     }
-  ]
+  ],
+  "variant_to_codename": {
+    "Aggro": {
+      "codename": "Aggro"
+    },
+    "Babel": {
+      "codename": "Babel"
+    },
+    "Berserker": {
+      "codename": "Berserker"
+    },
+    "Double Face": {
+      "codename": "Double"
+    },
+    "Fantasista": {
+      "codename": "Fantasista"
+    },
+    "Grab Master": {
+      "codename": "Grab"
+    },
+    "Infinity": {
+      "codename": "Infinity"
+    },
+    "Juggernaut": {
+      "codename": "Juggernaut"
+    },
+    "Miracle": {
+      "codename": "Miracle"
+    },
+    "Nightmare": {
+      "codename": "Nightmare"
+    },
+    "Shinobi": {
+      "codename": "Shinobi"
+    },
+    "Sky Dancer": {
+      "codename": "Sky"
+    },
+    "Stealth Raptor": {
+      "codename": "Stealth"
+    },
+    "Supernova": {
+      "codename": "Supernova"
+    },
+    "Thunderbolt": {
+      "codename": "Thunderbolt"
+    }
+  }
 }

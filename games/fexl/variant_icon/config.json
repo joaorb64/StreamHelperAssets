@@ -2,7 +2,7 @@
   "name": "Gougi Loadouts",
   "version": "25.02.21.43007",
   "description": "Gougi Loadout icons\nRipped from https://fexlguide.wixsite.com/geki\nRequires TSH 5.92 or higher to be used",
-  "prefix": "icon_",
+  "prefix": "file_",
   "postfix": "",
   "type": [
     "variant_icon"

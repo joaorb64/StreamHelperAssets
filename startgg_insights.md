@@ -88,7 +88,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Duelists of Eden
-### Coverage: (17/17)
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -100,13 +112,49 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fighting EX Layer
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Fatal Fury: City of the Wolves
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Fight of Animals: Legend of the Strongest Creature
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Footsies: Rollback Edition
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -133,17 +181,53 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (29/29)
 
 ## Guilty Gear Xrd REV 2
-### Coverage: (25/25)
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Guilty Gear XX Accent Core Plus R
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## God of Rock
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 
 ## Hyper Dragon Ball Z
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Fist of the North Star
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -155,7 +239,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Jackie Chan in Fists of Fire
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Joy Mech Fight
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -189,7 +285,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Kill la Kill the Game: IF
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## The King of Fighters 2002: Unlimited Match
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -201,7 +309,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## The King of Fighters: Maximum Impact Regulation "A"
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## The King of Fighters XI
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -282,7 +402,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Marvel Super Heroes
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Mario Tennis Aces
 ### Coverage: (30/30)
@@ -383,64 +515,55 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Power Rangers: Battle for the Grid
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Primal Rage
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Plasma Sword: Nightmare of Bilstein
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Puchi Carat
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Pokémon Unite
-- Character [Clefable]: Character name [Clefable] doesn't exist in StartGG
-- Character [Dodrio]: Character name [Dodrio] doesn't exist in StartGG
-- Character [Lapras]: Character name [Lapras] doesn't exist in StartGG
-- Character [Dragonite]: Character name [Dragonite] doesn't exist in StartGG
-- Character [Mew]: Character name [Mew] doesn't exist in StartGG
-- Character [Azumarill]: Character name [Azumarill] doesn't exist in StartGG
-- Character [Espeon]: Character name [Espeon] doesn't exist in StartGG
-- Character [Umbreon]: Character name [Umbreon] doesn't exist in StartGG
-- Character [Scizor]: Character name [Scizor] doesn't exist in StartGG
-- Character [Tyranitar]: Character name [Tyranitar] doesn't exist in StartGG
-- Character [Sableye]: Character name [Sableye] doesn't exist in StartGG
-- Character [Glaceon]: Character name [Glaceon] doesn't exist in StartGG
-- Character [Chandelure]: Character name [Chandelure] doesn't exist in StartGG
-- Character [Zoroark]: Character name [Zoroark] doesn't exist in StartGG
-- Character [Delphox]: Character name [Delphox] doesn't exist in StartGG
-- Character [Aegislash]: Character name [Aegislash] doesn't exist in StartGG
-- Character [Goodra]: Character name [Goodra] doesn't exist in StartGG
-- Character [Trevenant]: Character name [Trevenant] doesn't exist in StartGG
-- Character [Hoopa]: Character name [Hoopa] doesn't exist in StartGG
-- Character [Decidueye]: Character name [Decidueye] doesn't exist in StartGG
-- Character [Tsareena]: Character name [Tsareena] doesn't exist in StartGG
-- Character [Comfey]: Character name [Comfey] doesn't exist in StartGG
-- Character [Buzzwole]: Character name [Buzzwole] doesn't exist in StartGG
-- Character [Greedent]: Character name [Greedent] doesn't exist in StartGG
-- Character [Duraludon]: Character name [Duraludon] doesn't exist in StartGG
-- Character [Dragapult]: Character name [Dragapult] doesn't exist in StartGG
-- Character [Zacian]: Character name [Zacian] doesn't exist in StartGG
-- Character [Urshifu]: Character name [Urshifu] doesn't exist in StartGG
-- Character [Leafeon]: Character name [Leafeon] doesn't exist in StartGG
-- Character [Inteleon]: Character name [Inteleon] doesn't exist in StartGG
-- Character [Mewtwo]: Character name [Mewtwo] doesn't exist in StartGG
-- Character [Blaziken]: Character name [Blaziken] doesn't exist in StartGG
-- Character [Mimikyu]: Character name [Mimikyu] doesn't exist in StartGG
-- Character [Meowscarada]: Character name [Meowscarada] doesn't exist in StartGG
-- Character [Gyarados]: Character name [Gyarados] doesn't exist in StartGG
-- Character [Metagross]: Character name [Metagross] doesn't exist in StartGG
-- Character [Miraidon]: Character name [Miraidon] doesn't exist in StartGG
-- Character [Falinks]: Character name [Falinks] doesn't exist in StartGG
-- Character [Ceruledge]: Character name [Ceruledge] doesn't exist in StartGG
-- Character [Ho-Oh]: Character name [Ho-Oh] doesn't exist in StartGG
-- Character [Armarouge]: Character name [Armarouge] doesn't exist in StartGG
-- Character [Darkrai]: Character name [Darkrai] doesn't exist in StartGG
-- Character [Psyduck]: Character name [Psyduck] doesn't exist in StartGG
-- Character [Tinkaton]: Character name [Tinkaton] doesn't exist in StartGG
-- Character [Galarian Rapidash]: Character name [Galarian Rapidash] doesn't exist in StartGG
-### Coverage: (25/25)
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Rabbit
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -449,7 +572,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Real Bout Fatal Fury 2: The Newcomers
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Real Bout Fatal Fury Special
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -464,8 +599,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether
-- Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG
-### Coverage: (18/18)
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
@@ -639,6 +785,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
+- Character [Anna Williams]: Character name [Anna] doesn't exist in StartGG
 ### Coverage: (37/37)
 
 ## Them's Fightin' Herds

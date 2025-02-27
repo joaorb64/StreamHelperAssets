@@ -982,6 +982,45 @@
         "es": "Rapidash"
       },
       "smashgg_name": "Galarian Rapidash"
+    },
+    "Suicune": {
+      "codename": "245",
+      "locale": {
+        "fr": "Suicune",
+        "de": "Suicune",
+        "ko": "\uc2a4\uc774\ucfe4",
+        "ja": "\u30b9\u30a4\u30af\u30f3",
+        "zh_CN": "\u6c34\u541b",
+        "zh_TW": "\u6c34\u541b",
+        "it": "Suicune",
+        "es": "Suicune"
+      }
+    },
+    "Alolan Raichu": {
+      "codename": "026-A",
+      "locale": {
+        "fr": "Raichu (Alola)",
+        "de": "Raichu",
+        "ko": "\ub77c\uc774\uce04",
+        "ja": "\u30e9\u30a4\u30c1\u30e5\u30a6",
+        "zh_CN": "\u96f7\u4e18",
+        "zh_TW": "\u96f7\u4e18",
+        "it": "Raichu",
+        "es": "Raichu"
+      }
+    },
+    "Alcremie": {
+      "codename": "869",
+      "locale": {
+        "fr": "Charmilly",
+        "de": "Pokusan",
+        "ko": "\ub9c8\ud718\ud551",
+        "ja": "\u30de\u30db\u30a4\u30c3\u30d7",
+        "zh_CN": "\u971c\u5976\u4ed9",
+        "zh_TW": "\u971c\u5976\u4ed9",
+        "it": "Alcremie",
+        "es": "Alcremie"
+      }
     }
   },
   "stage_to_codename": {},

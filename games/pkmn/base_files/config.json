@@ -13342,5 +13342,26 @@
     "zh_TW": {
       "name": "\u5bf6\u53ef\u5922"
     }
-  }
+  },
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 6
+  },
+  "alternate_versions": [
+    {
+      "name": "Pokémon Scarlet & Violet",
+      "smashgg_game_id": null,
+      "logo_path": "logo_sv.png"
+    },
+    {
+      "name": "Pokémon Showdown",
+      "smashgg_game_id": 120,
+      "logo_path": "logo_showdown.png"
+    },
+    {
+      "name": "Pokémon Battle Revolution",
+      "smashgg_game_id": 5798,
+      "logo_path": "logo_br.png"
+    }
+  ]
 }

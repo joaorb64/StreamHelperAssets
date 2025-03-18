@@ -1,0 +1,21 @@
+{
+  "name": "CSS",
+  "description": "Character CSS icons",
+  "prefix": "RoA2_",
+  "postfix": "_",
+  "type": [
+    "portrait"
+  ],
+  "version": "25.02.22.41163",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "average_size": {
+    "x": 523.6124401913876,
+    "y": 414.5693779904306
+  },
+  "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II"
+}

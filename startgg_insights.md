@@ -13,6 +13,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## ARMS
 ### Coverage: (15/15)
 
+## Astro Bears
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Asuka 120% LimitOver BURNING Fest.
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -249,9 +252,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Mortal Kombat 1
-- Character [T-1000]: Character name [T-1000] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (34/35)
+### Coverage: (35/36)
 
 ## Mortal Kombat 11
 - Character [Kronika]: Character name [Kronika] doesn't exist in StartGG

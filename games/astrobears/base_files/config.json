@@ -1,0 +1,92 @@
+{
+  "character_to_codename": {
+    "Aki": {
+      "codename": "Aki",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Bishnu": {
+      "codename": "Bishnu",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Cybear": {
+      "codename": "Cybear",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Diego": {
+      "codename": "Diego",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Igor": {
+      "codename": "Igor",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Lyptus": {
+      "codename": "Lyptus",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Neil": {
+      "codename": "Neil",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Randy": {
+      "codename": "Randy",
+      "smashgg_name": "Randy",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Wojtek": {
+      "codename": "Wojtek",
+      "smashgg_name": "Wojtek",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Xiaoli": {
+      "codename": "Xiaoli",
+      "smashgg_name": "Xiaoli",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    }
+  },
+  "credits": "Icons ripped from https://leoful.com/astro-bears-en/",
+  "description": "Base config to use this game.",
+  "name": "Astro Bears",
+  "smashgg_game_id": 37619,
+  "version": "25.03.18.00001"
+}

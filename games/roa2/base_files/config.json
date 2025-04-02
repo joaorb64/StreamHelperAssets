@@ -349,6 +349,18 @@
         },
         "58": {
           "name": "Dart - Foil"
+        },
+        "59": {
+          "name": "Champion"
+        },
+        "60": {
+          "name": "Champion - Red"
+        },
+        "61": {
+          "name": "Champion - Blue"
+        },
+        "62": {
+          "name": "Champion - Green"
         }
       }
     },
@@ -505,6 +517,18 @@
         },
         "49": {
           "name": "Tony Tailslide - Green"
+        },
+        "50": {
+          "name": "Lovers"
+        },
+        "51": {
+          "name": "Lovers - Red"
+        },
+        "52": {
+          "name": "Lovers - Blue"
+        },
+        "53": {
+          "name": "Lovers - Green"
         }
       }
     },
@@ -640,6 +664,18 @@
         },
         "42": {
           "name": "Tiger - White"
+        },
+        "43": {
+          "name": "Champion"
+        },
+        "44": {
+          "name": "Champion - Red"
+        },
+        "45": {
+          "name": "Champion - Blue"
+        },
+        "46": {
+          "name": "Champion - Green"
         }
       }
     },
@@ -832,6 +868,18 @@
         },
         "61": {
           "name": "Ranger - Green"
+        },
+        "62": {
+          "name": "Lovers"
+        },
+        "63": {
+          "name": "Lovers - Red"
+        },
+        "64": {
+          "name": "Lovers - Blue"
+        },
+        "65": {
+          "name": "Lovers - Green"
         }
       }
     },
@@ -1105,6 +1153,18 @@
         },
         "44": {
           "name": "Abyss - Midnight"
+        },
+        "45": {
+          "name": "Lovers"
+        },
+        "46": {
+          "name": "Lovers - Red"
+        },
+        "47": {
+          "name": "Lovers - Blue"
+        },
+        "48": {
+          "name": "Lovers - Green"
         }
       }
     },
@@ -1270,6 +1330,12 @@
         },
         "52": {
           "name": "Dark Future - Green"
+        },
+        "53": {
+          "name": "Hockey - Battle of BC"
+        },
+        "54": {
+          "name": "Dark Future - Royal"
         }
       }
     },
@@ -1702,7 +1768,81 @@
     },
     "Olympia": {
       "codename": "Olympia",
-      "smashgg_name": "Olympia"
+      "smashgg_name": "Olympia",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Blue"
+        },
+        "3": {
+          "name": "Default - Green"
+        },
+        "4": {
+          "name": "Default - Mint"
+        },
+        "5": {
+          "name": "Default - Yellow"
+        },
+        "6": {
+          "name": "Default - Abyssal"
+        },
+        "7": {
+          "name": "Spotted"
+        },
+        "8": {
+          "name": "Spotted - Red"
+        },
+        "9": {
+          "name": "Spotted - Blue"
+        },
+        "10": {
+          "name": "Spotted - Green"
+        },
+        "11": {
+          "name": "Abyss"
+        },
+        "12": {
+          "name": "Abyss - Red"
+        },
+        "13": {
+          "name": "Abyss - Blue"
+        },
+        "14": {
+          "name": "Abyss - Green"
+        },
+        "15": {
+          "name": "Opossum"
+        },
+        "16": {
+          "name": "Opossum - Red"
+        },
+        "17": {
+          "name": "Opossum - Blue"
+        },
+        "18": {
+          "name": "Opossum - Green"
+        },
+        "19": {
+          "name": "Lovers"
+        },
+        "20": {
+          "name": "Lovers - Red"
+        },
+        "21": {
+          "name": "Lovers - Blue"
+        },
+        "22": {
+          "name": "Lovers - Green"
+        },
+        "23": {
+          "name": "Lovers - Yellow"
+        }
+      }
     }
   },
   "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II",

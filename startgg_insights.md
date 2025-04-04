@@ -470,8 +470,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
-- Character [Olympia]: Character name [Olympia] doesn't exist in StartGG
-### Coverage: (11/11)
+### Coverage: (12/12)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)

@@ -53,6 +53,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Bloody Roar Extreme
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+
 ## Capcom VS SNK 2: Mark of the Millenium 2001
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -130,10 +131,12 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Guilty Gear -STRIVE-
-- Character [Venom]: Character name [Venom] doesn't exist in StartGG
+- Character [Asuka R#]: Character name [Asuka R] doesn't exist in StartGG
 - Character [Unika]: Character name [Unika] doesn't exist in StartGG
 - Character [Lucyna "Lucy" Kushinada]: Character name [Lucy] doesn't exist in StartGG
-### Coverage: (29/29)
+- Character [Asuka R♯] not assigned in TSH!
+- Character [Random] not assigned in TSH!
+### Coverage: (29/31)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)
@@ -639,8 +642,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Anna Williams]: Character name [Anna] doesn't exist in StartGG
-### Coverage: (37/37)
+### Coverage: (38/38)
 
 ## Them's Fightin' Herds
 - Character [Texas]: Character name [Texas] doesn't exist in StartGG

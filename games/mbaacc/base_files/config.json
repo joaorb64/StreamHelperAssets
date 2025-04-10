@@ -105,5 +105,16 @@
     "ja": {
       "name": "MELTY BLOOD Actress Again Current Code"
     }
+  },
+  "variant_to_codename": {
+    "Crescent Moon": {
+      "codename": "crescent"
+    },
+    "Half Moon": {
+      "codename": "half"
+    },
+    "Full Moon": {
+      "codename": "full"
+    }
   }
 }

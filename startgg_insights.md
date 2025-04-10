@@ -131,12 +131,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Guilty Gear -STRIVE-
-- Character [Asuka R#]: Character name [Asuka R] doesn't exist in StartGG
 - Character [Unika]: Character name [Unika] doesn't exist in StartGG
 - Character [Lucyna "Lucy" Kushinada]: Character name [Lucy] doesn't exist in StartGG
-- Character [Asuka R♯] not assigned in TSH!
 - Character [Random] not assigned in TSH!
-### Coverage: (29/31)
+### Coverage: (30/31)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)

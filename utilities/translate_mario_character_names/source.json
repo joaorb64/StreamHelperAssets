@@ -678,6 +678,101 @@
                 "pt_PT": "Lagartola",
                 "it": "Torcibruco"
             }
+        },
+        {
+            "displayName": {
+                "ja_JP": "マリオ",
+                "en_US": "Mario",
+                "en_GB": "Mario",
+                "en_AU": "Mario",
+                "fr_FR": "Mario",
+                "fr_CA": "Mario",
+                "es_ES": "Mario",
+                "es_LA": "Mario",
+                "de_DE": "Mario",
+                "it_IT": "Mario",
+                "nl_NL": "Mario",
+                "ru_RU": "Марио",
+                "ko_KR": "마리오",
+                "TC": "瑪利歐",
+                "SC": "马力欧"
+            }
+        },
+        {
+            "displayName": {
+                "ja_JP": "ルイージ",
+                "en_US": "Luigi",
+                "en_GB": "Luigi",
+                "en_AU": "Luigi",
+                "fr_FR": "Luigi",
+                "fr_CA": "Luigi",
+                "es_ES": "Luigi",
+                "es_LA": "Luigi",
+                "de_DE": "Luigi",
+                "it_IT": "Luigi",
+                "nl_NL": "Luigi",
+                "ru_RU": "Луиджи",
+                "ko_KR": "루이지",
+                "TC": "路易吉",
+                "SC": "路易吉"
+            }
+        },
+        {
+            "displayName": {
+                "ja_JP": "ワリオ",
+                "en_US": "Wario",
+                "en_GB": "Wario",
+                "en_AU": "Wario",
+                "fr_FR": "Wario",
+                "fr_CA": "Wario",
+                "es_ES": "Wario",
+                "es_LA": "Wario",
+                "de_DE": "Wario",
+                "it_IT": "Wario",
+                "nl_NL": "Wario",
+                "ru_RU": "Варио",
+                "ko_KR": "와리오",
+                "TC": "瓦利歐",
+                "SC": "瓦力欧"
+            }
+        },
+        {
+            "displayName": {
+                "ja_JP": "ヨッシー",
+                "en_US": "Yoshi",
+                "en_GB": "Yoshi",
+                "en_AU": "Yoshi",
+                "fr_FR": "Yoshi",
+                "fr_CA": "Yoshi",
+                "es_ES": "Yoshi",
+                "es_LA": "Yoshi",
+                "de_DE": "Yoshi",
+                "it_IT": "Yoshi",
+                "nl_NL": "Yoshi",
+                "ru_RU": "Йоши",
+                "ko_KR": "요시",
+                "TC": "耀西",
+                "SC": "耀西"
+            }
+        },
+        {
+            "displayName": {
+                "ja_JP": "クッパ Jr.",
+                "en_US": "Bowser Jr.",
+                "en_GB": "Bowser Jr.",
+                "en_AU": "Bowser Jr.",
+                "fr_FR": "Bowser Jr.",
+                "fr_CA": "Bowser Jr.",
+                "es_ES": "Bowsy",
+                "es_LA": "Bowser Jr.",
+                "de_DE": "Bowser Jr.",
+                "it_IT": "Bowser Junior",
+                "nl_NL": "Bowser Jr.",
+                "ru_RU": "Боузер-младший",
+                "ko_KR": "쿠파주니어",
+                "TC": "庫巴Jr.",
+                "SC": "酷霸王Jr."
+            }
         }
     ]
 }

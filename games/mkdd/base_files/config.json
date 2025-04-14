@@ -375,5 +375,70 @@
       "codename": "TiltaKart"
     }
   },
-  "version": "25.04.14.74513"
+  "version": "25.04.14.74513",
+  "variant_to_codename": {
+    "Red Fire": {
+      "codename": "RedFire"
+    },
+    "Green Fire": {
+      "codename": "GreenFire"
+    },
+    "Heart Coach": {
+      "codename": "HeartCoach"
+    },
+    "Bloom Coach": {
+      "codename": "BloomCoach"
+    },
+    "Turbo Yoshi": {
+      "codename": "TurboYoshi"
+    },
+    "Turbo Birdo": {
+      "codename": "TurboBirdo"
+    },
+    "Goo-Goo Buggy": {
+      "codename": "GooGooBuggy"
+    },
+    "Rattle Buggy": {
+      "codename": "RattleBuggy"
+    },
+    "Toad Kart": {
+      "codename": "ToadKart"
+    },
+    "Toadette Kart": {
+      "codename": "ToadetteKart"
+    },
+    "Koopa Dasher": {
+      "codename": "KoopaDasher"
+    },
+    "Para-Wing": {
+      "codename": "ParaWing"
+    },
+    "DK Jumbo": {
+      "codename": "DKJumbo"
+    },
+    "Barrel Train": {
+      "codename": "BarrelTrain"
+    },
+    "Koopa King": {
+      "codename": "KoopaKing"
+    },
+    "Bullet Blaster": {
+      "codename": "BulletBlaster"
+    },
+    "Wario Car": {
+      "codename": "WarioCar"
+    },
+    "Waluigi Racer": {
+      "codename": "WaluigiRacer"
+    },
+    "Piranha Pipes": {
+      "codename": "PiranhaPipes"
+    },
+    "Boo Pipes": {
+      "codename": "BooPipes"
+    },
+    "Parade Kart": {
+      "codename": "ParadeKart"
+    }
+  }
 }

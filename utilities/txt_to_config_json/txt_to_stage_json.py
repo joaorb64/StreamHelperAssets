@@ -23,6 +23,9 @@ with open(f"stage.json", 'wt') as config_file:
                 config_dict["stage_to_codename"][stage_name] = {
                     "codename": codename
                 }
+                Path("stage_icon").mkdir(parents=True, exist_ok=True)
+                with open(f"stage_icon/file_{codename}.png", "wb") as blank_stage_file:
+                    blank_stage_file.write(bytearray())
 
     config_file_content = json.dumps(config_dict, indent=2, sort_keys=False)
     config_file.write(config_file_content)

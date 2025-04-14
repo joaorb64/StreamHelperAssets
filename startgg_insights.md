@@ -2,7 +2,19 @@
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Arcus Chroma
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.21/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Among Us Arena
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -265,6 +277,49 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Mario Kart 8 Deluxe
 Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Mario Kart: Double Dash!!
+- Character [Baby Luigi] not assigned in TSH!
+- Character [Baby Mario] not assigned in TSH!
+- Character [Barrel Train] not assigned in TSH!
+- Character [Birdo] not assigned in TSH!
+- Character [Bloom Coach] not assigned in TSH!
+- Character [Boo Pipes] not assigned in TSH!
+- Character [Bowser] not assigned in TSH!
+- Character [Bowser Jr.] not assigned in TSH!
+- Character [Bullet Blaster] not assigned in TSH!
+- Character [Daisy] not assigned in TSH!
+- Character [Diddy Kong] not assigned in TSH!
+- Character [DK Jumbo] not assigned in TSH!
+- Character [Donkey Kong] not assigned in TSH!
+- Character [Goo Goo Buggy] not assigned in TSH!
+- Character [Green Fire] not assigned in TSH!
+- Character [Heart Coach] not assigned in TSH!
+- Character [King Boo] not assigned in TSH!
+- Character [Koopa] not assigned in TSH!
+- Character [Koopa Dasher] not assigned in TSH!
+- Character [Koopa King] not assigned in TSH!
+- Character [Luigi] not assigned in TSH!
+- Character [Mario] not assigned in TSH!
+- Character [Parade Kart] not assigned in TSH!
+- Character [Paratroopa] not assigned in TSH!
+- Character [Peach] not assigned in TSH!
+- Character [Petey Piranha] not assigned in TSH!
+- Character [Piranha Pipes] not assigned in TSH!
+- Character [Rattle Buggy] not assigned in TSH!
+- Character [Red Fire] not assigned in TSH!
+- Character [Toad] not assigned in TSH!
+- Character [Toad Kart] not assigned in TSH!
+- Character [Toadette] not assigned in TSH!
+- Character [Toadette Kart] not assigned in TSH!
+- Character [Turbo Birdo] not assigned in TSH!
+- Character [Turbo Yoshi] not assigned in TSH!
+- Character [Waluigi] not assigned in TSH!
+- Character [Waluigi Racer] not assigned in TSH!
+- Character [Wario] not assigned in TSH!
+- Character [Wario Car] not assigned in TSH!
+- Character [Yoshi] not assigned in TSH!
+### Coverage: (0/40)
 
 ## Mario Kart Wii
 Game has no characters in startgg...? Or do we have a wrong game id?

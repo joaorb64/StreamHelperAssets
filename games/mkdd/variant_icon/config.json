@@ -1,6 +1,6 @@
 {
   "name": "Karts",
-  "version": "25.04.10.63111",
+  "version": "25.04.14.74513",
   "description": "Kart icons from Time Trial records\nRequires TSH 5.92 or higher to be used",
   "credits": "",
   "prefix": "file_",
@@ -9,7 +9,7 @@
     "variant_icon"
   ],
   "average_size": {
-    "x": 13.0,
-    "y": 13.0
+    "x": 64.0,
+    "y": 64.0
   }
 }

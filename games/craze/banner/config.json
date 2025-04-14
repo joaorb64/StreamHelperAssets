@@ -1,7 +1,7 @@
 {
   "name": "Banners",
   "description": "Character banners",
-  "prefix": "banner_",
+  "prefix": "file_",
   "postfix": "_",
   "type": [
     "banner"

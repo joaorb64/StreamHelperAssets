@@ -382,14 +382,19 @@
       }
     },
     "Mii": {
-      "codename": "Mii"
+      "codename": "Mii",
+      "skin_name": {
+        "3": {
+          "name": "Matt",
+          "is_different_character": true
+        }
+      }
     }
   },
   "credits": "",
   "description": "Base config to use this game.",
   "name": "Mario Kart Wii",
   "smashgg_game_id": 5757,
-  "stage_to_codename": {},
   "version": "25.02.01.1720",
   "locale": {
     "ja": {
@@ -402,5 +407,246 @@
       "smashgg_game_id": null,
       "logo_path": "logo_ctgp.png"
     }
-  ]
+  ],
+  "stage_to_codename": {
+    "Luigi Circuit": {
+      "codename": "LuigiCircuit"
+    },
+    "Moo Moo Meadows": {
+      "codename": "MooMooMeadows"
+    },
+    "Mushroom Gorge": {
+      "codename": "MushroomGorge"
+    },
+    "Toad's Factory": {
+      "codename": "ToadsFactory"
+    },
+    "Mario Circuit": {
+      "codename": "MarioCircuit"
+    },
+    "Coconut Mall": {
+      "codename": "CoconutMall"
+    },
+    "DK Summit": {
+      "codename": "DKSummit"
+    },
+    "Wario's Gold Mine": {
+      "codename": "WariosGoldMine"
+    },
+    "Daisy Circuit": {
+      "codename": "DaisyCircuit"
+    },
+    "Koopa Cape": {
+      "codename": "KoopaCape"
+    },
+    "Maple Treeway": {
+      "codename": "MapleTreeway"
+    },
+    "Grumble Volcano": {
+      "codename": "GrumbleVolcano"
+    },
+    "Dry Dry Ruins": {
+      "codename": "DryDryRuins"
+    },
+    "Moonview Highway": {
+      "codename": "MoonviewHighway"
+    },
+    "Bowser's Castle": {
+      "codename": "BowsersCastle"
+    },
+    "Rainbow Road": {
+      "codename": "RainbowRoad"
+    },
+    "GCN | Peach Beach": {
+      "codename": "GCNPeachBeach"
+    },
+    "DS | Yoshi Falls": {
+      "codename": "DSYoshiFalls"
+    },
+    "SNES | Ghost Valley 2": {
+      "codename": "SNESGhostValley2"
+    },
+    "N64 | Mario Raceway": {
+      "codename": "N64MarioRaceway"
+    },
+    "N64 | Sherbet Land": {
+      "codename": "N64SherbetLand"
+    },
+    "GBA | Shy Guy Beach": {
+      "codename": "GBAShyGuyBeach"
+    },
+    "DS | Delfino Square": {
+      "codename": "DSDelfinoSquare"
+    },
+    "GCN | Waluigi Stadium": {
+      "codename": "GCNWaluigiStadium"
+    },
+    "DS | Desert Hills": {
+      "codename": "DSDesertHills"
+    },
+    "GBA | Bowser Castle 3": {
+      "codename": "GBABowserCastle3"
+    },
+    "N64 | DK's Jungle Parkway": {
+      "codename": "N64DKsJungleParkway"
+    },
+    "GCN | Mario Circuit": {
+      "codename": "GCNMarioCircuit"
+    },
+    "SNES | Mario Circuit 3": {
+      "codename": "SNESMarioCircuit3"
+    },
+    "DS | Peach Gardens": {
+      "codename": "DSPeachGardens"
+    },
+    "GCN | DK Mountain": {
+      "codename": "GCNDKMountain"
+    },
+    "N64 | Bowser's Castle": {
+      "codename": "N64BowsersCastle"
+    },
+    "Block Plaza": {
+      "codename": "BlockPlaza"
+    },
+    "Delfino Pier": {
+      "codename": "DelfinoPier"
+    },
+    "Funky Stadium": {
+      "codename": "FunkyStadium"
+    },
+    "Chain Chomp Wheel": {
+      "codename": "ChainChompWheel"
+    },
+    "Thwomp Desert": {
+      "codename": "ThwompDesert"
+    },
+    "SNES | Battle Course 4": {
+      "codename": "SNESBattleCourse4"
+    },
+    "GBA | Battle Course 3": {
+      "codename": "GBABattleCourse3"
+    },
+    "N64 | Skyscraper": {
+      "codename": "N64Skyscraper"
+    },
+    "GCN | Cookie Land": {
+      "codename": "GCNCookieLand"
+    },
+    "DS | Twilight House": {
+      "codename": "DSTwilightHouse"
+    },
+    "Galaxy Colosseum": {
+      "codename": "GalaxyColosseum"
+    }
+  },
+  "variant_to_codename": {
+    "Standard Kart S": {
+      "codename": "StandardKartS"
+    },
+    "Standard Bike S": {
+      "codename": "StandardBikeS"
+    },
+    "Booster Seat": {
+      "codename": "BoosterSeat"
+    },
+    "Bullet Bike": {
+      "codename": "BulletBike"
+    },
+    "Mini Beast": {
+      "codename": "MiniBeast"
+    },
+    "Bit Bike": {
+      "codename": "BitBike"
+    },
+    "Standard Kart M": {
+      "codename": "StandardKartM"
+    },
+    "Standard Bike M": {
+      "codename": "StandardBikeM"
+    },
+    "Classic Dragster": {
+      "codename": "ClassicDragster"
+    },
+    "Mach Bike": {
+      "codename": "MachBike"
+    },
+    "Wild Wing": {
+      "codename": "WildWing"
+    },
+    "Sugarscoot": {
+      "codename": "Sugarscoot"
+    },
+    "Standard Kart L": {
+      "codename": "StandardKartL"
+    },
+    "Standard Bike L": {
+      "codename": "StandardBikeL"
+    },
+    "Offroader": {
+      "codename": "Offroader"
+    },
+    "Flame Runner": {
+      "codename": "FlameRunner"
+    },
+    "Flame Flyer": {
+      "codename": "FlameFlyer"
+    },
+    "Wario Bike": {
+      "codename": "WarioBike"
+    },
+    "Cheep Charger": {
+      "codename": "CheepCharger"
+    },
+    "Quacker": {
+      "codename": "Quacker"
+    },
+    "Tiny Titan": {
+      "codename": "TinyTitan"
+    },
+    "Magikruiser": {
+      "codename": "Magikruiser"
+    },
+    "Blue Falcon": {
+      "codename": "BlueFalcon"
+    },
+    "Jet Bubble": {
+      "codename": "JetBubble"
+    },
+    "Super Blooper": {
+      "codename": "SuperBlooper"
+    },
+    "Zip Zip": {
+      "codename": "ZipZip"
+    },
+    "Daytripper": {
+      "codename": "Daytripper"
+    },
+    "Sneakster": {
+      "codename": "Sneakster"
+    },
+    "Sprinter": {
+      "codename": "Sprinter"
+    },
+    "Dolphin Dasher": {
+      "codename": "DolphinDasher"
+    },
+    "Piranha Prowler": {
+      "codename": "PiranhaProwler"
+    },
+    "Shooting Star": {
+      "codename": "ShootingStar"
+    },
+    "Jetsetter": {
+      "codename": "Jetsetter"
+    },
+    "Spear": {
+      "codename": "Spear"
+    },
+    "Honeycoupe": {
+      "codename": "Honeycoupe"
+    },
+    "Phantom": {
+      "codename": "Phantom"
+    }
+  }
 }

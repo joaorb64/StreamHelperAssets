@@ -107,7 +107,14 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Ken Masters]: Character name [Ken Masters] doesn't exist in StartGG
+- Character [Chun-Li]: Character name [Chun-Li] doesn't exist in StartGG
+- Character [Andy Bogard]: Character name [Andy Bogard] doesn't exist in StartGG
+- Character [Joe Highashi]: Character name [Joe Highashi] doesn't exist in StartGG
+- Character [Mr. Big]: Character name [Mr. Big] doesn't exist in StartGG
+- Character [Cristiano Ronaldo]: Character name [Cristiano Ronaldo] doesn't exist in StartGG
+- Character [Christiano Ronaldo] not assigned in TSH!
+### Coverage: (16/17)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -267,47 +274,27 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Mario Kart: Double Dash!!
-- Character [Baby Luigi] not assigned in TSH!
-- Character [Baby Mario] not assigned in TSH!
 - Character [Barrel Train] not assigned in TSH!
-- Character [Birdo] not assigned in TSH!
 - Character [Bloom Coach] not assigned in TSH!
 - Character [Boo Pipes] not assigned in TSH!
-- Character [Bowser] not assigned in TSH!
-- Character [Bowser Jr.] not assigned in TSH!
 - Character [Bullet Blaster] not assigned in TSH!
-- Character [Daisy] not assigned in TSH!
-- Character [Diddy Kong] not assigned in TSH!
 - Character [DK Jumbo] not assigned in TSH!
-- Character [Donkey Kong] not assigned in TSH!
 - Character [Goo Goo Buggy] not assigned in TSH!
 - Character [Green Fire] not assigned in TSH!
 - Character [Heart Coach] not assigned in TSH!
-- Character [King Boo] not assigned in TSH!
-- Character [Koopa] not assigned in TSH!
 - Character [Koopa Dasher] not assigned in TSH!
 - Character [Koopa King] not assigned in TSH!
-- Character [Luigi] not assigned in TSH!
-- Character [Mario] not assigned in TSH!
 - Character [Parade Kart] not assigned in TSH!
-- Character [Paratroopa] not assigned in TSH!
-- Character [Peach] not assigned in TSH!
-- Character [Petey Piranha] not assigned in TSH!
 - Character [Piranha Pipes] not assigned in TSH!
 - Character [Rattle Buggy] not assigned in TSH!
 - Character [Red Fire] not assigned in TSH!
-- Character [Toad] not assigned in TSH!
 - Character [Toad Kart] not assigned in TSH!
-- Character [Toadette] not assigned in TSH!
 - Character [Toadette Kart] not assigned in TSH!
 - Character [Turbo Birdo] not assigned in TSH!
 - Character [Turbo Yoshi] not assigned in TSH!
-- Character [Waluigi] not assigned in TSH!
 - Character [Waluigi Racer] not assigned in TSH!
-- Character [Wario] not assigned in TSH!
 - Character [Wario Car] not assigned in TSH!
-- Character [Yoshi] not assigned in TSH!
-### Coverage: (0/40)
+### Coverage: (20/40)
 
 ## Mario Kart Wii
 Game has no characters in startgg...? Or do we have a wrong game id?

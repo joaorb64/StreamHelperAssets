@@ -112,9 +112,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Andy Bogard]: Character name [Andy Bogard] doesn't exist in StartGG
 - Character [Joe Highashi]: Character name [Joe Highashi] doesn't exist in StartGG
 - Character [Mr. Big]: Character name [Mr. Big] doesn't exist in StartGG
-- Character [Cristiano Ronaldo]: Character name [Cristiano Ronaldo] doesn't exist in StartGG
-- Character [Christiano Ronaldo] not assigned in TSH!
-### Coverage: (16/17)
+### Coverage: (17/17)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?

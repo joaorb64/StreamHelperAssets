@@ -163,6 +163,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Idol Showdown: Next Fes
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Iron Saga VS
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Jackie Chan in Fists of Fire
 Game has no characters in startgg...? Or do we have a wrong game id?
 

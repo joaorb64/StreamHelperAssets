@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "mkdd"
+game_codename = "isvs"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

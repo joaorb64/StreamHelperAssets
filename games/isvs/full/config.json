@@ -1,0 +1,93 @@
+{
+  "name": "Artwork",
+  "description": "Character artwork",
+  "credits": "",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "25.02.01.1720",
+  "uncropped_edge": [
+    "l",
+    "r"
+  ],
+  "average_size": {
+    "x": 1320.0,
+    "y": 2060.0
+  },
+  "eyesights": {
+    "BossBorot": {
+      "0": {
+        "x": 400,
+        "y": 126
+      }
+    },
+    "Dancouga": {
+      "0": {
+        "x": 1412,
+        "y": 515
+      }
+    },
+    "GetterRobo": {
+      "0": {
+        "x": 1392,
+        "y": 424
+      }
+    },
+    "GreatMazinger": {
+      "0": {
+        "x": 493,
+        "y": 380
+      }
+    },
+    "Kaguya": {
+      "0": {
+        "x": 562,
+        "y": 416
+      }
+    },
+    "MazingerZ": {
+      "0": {
+        "x": 828,
+        "y": 349
+      }
+    },
+    "Mephisto": {
+      "0": {
+        "x": 1595,
+        "y": 523
+      }
+    },
+    "Nero": {
+      "0": {
+        "x": 790,
+        "y": 643
+      }
+    },
+    "QingLong": {
+      "0": {
+        "x": 568,
+        "y": 556
+      }
+    },
+    "Susanoo": {
+      "0": {
+        "x": 1152,
+        "y": 554
+      }
+    },
+    "Vassago": {
+      "0": {
+        "x": 489,
+        "y": 227
+      }
+    },
+    "WuShuang": {
+      "0": {
+        "x": 1033,
+        "y": 474
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Boss Borot": {
+      "codename": "BossBorot",
+      "skin_name": {
+        "0": {
+          "name": "Rolling Tactics"
+        },
+        "1": {
+          "name": "Boss\u2019s Treasure"
+        }
+      }
+    },
+    "Dancouga": {
+      "codename": "Dancouga",
+      "skin_name": {
+        "0": {
+          "name": "DancouKogaKen"
+        },
+        "1": {
+          "name": "DancouHo Formation"
+        }
+      }
+    },
+    "Getter Robo": {
+      "codename": "GetterRobo",
+      "skin_name": {
+        "0": {
+          "name": "Getter-1"
+        },
+        "1": {
+          "name": "Getter-2"
+        },
+        "2": {
+          "name": "Getter-3"
+        }
+      }
+    },
+    "Great Mazinger": {
+      "codename": "GreatMazinger",
+      "skin_name": {
+        "0": {
+          "name": "Deathbringer\u2019s Power"
+        },
+        "1": {
+          "name": "Combat Pro"
+        }
+      }
+    },
+    "Kaguya": {
+      "codename": "Kaguya",
+      "skin_name": {
+        "0": {
+          "name": "Crimson Moon"
+        },
+        "1": {
+          "name": "Darkwing"
+        }
+      }
+    },
+    "Mazinger Z": {
+      "codename": "MazingerZ",
+      "skin_name": {
+        "0": {
+          "name": "Bat A Thousand"
+        },
+        "1": {
+          "name": "Photon Power Commands"
+        }
+      }
+    },
+    "Mephisto": {
+      "codename": "Mephisto",
+      "skin_name": {
+        "0": {
+          "name": "Soul Forge"
+        },
+        "1": {
+          "name": "Fafnir Talon"
+        }
+      }
+    },
+    "Nero": {
+      "codename": "Nero",
+      "skin_name": {
+        "0": {
+          "name": "Simulacrum"
+        },
+        "1": {
+          "name": "GTW Fighters"
+        }
+      }
+    },
+    "Qing Long": {
+      "codename": "QingLong",
+      "skin_name": {
+        "0": {
+          "name": "Shadow Fists"
+        },
+        "1": {
+          "name": "Dust Annihilation"
+        }
+      }
+    },
+    "Susanoo": {
+      "codename": "Susanoo",
+      "skin_name": {
+        "0": {
+          "name": "Sun and Moon Incarnate"
+        },
+        "1": {
+          "name": "Avatar of Raging Storms"
+        }
+      }
+    },
+    "Vassago": {
+      "codename": "Vassago",
+      "skin_name": {
+        "0": {
+          "name": "Armed to the Teeth"
+        },
+        "1": {
+          "name": "Limiter Removed"
+        }
+      }
+    },
+    "Wu Shuang": {
+      "codename": "WuShuang",
+      "skin_name": {
+        "0": {
+          "name": "Autocracy of Gunfire"
+        },
+        "1": {
+          "name": "Lightning Overlord"
+        }
+      }
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Iron Saga VS",
+  "smashgg_game_id": 60123,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

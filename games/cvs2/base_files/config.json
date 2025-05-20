@@ -4,148 +4,532 @@
   "challonge_game_id": 175,
   "character_to_codename": {
     "Akuma": {
-      "codename": "05"
+      "codename": "05",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Balrog": {
-      "codename": "24"
+      "codename": "24",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Blanka": {
-      "codename": "04"
+      "codename": "04",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Cammy": {
-      "codename": "09"
+      "codename": "09",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Chun-Li": {
-      "codename": "11"
+      "codename": "11",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Dan": {
-      "codename": "12"
+      "codename": "12",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Dhalsim": {
-      "codename": "17"
+      "codename": "17",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Eagle": {
-      "codename": "19"
+      "codename": "19",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "E.Honda": {
-      "codename": "18"
+      "codename": "18",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Guile": {
-      "codename": "06"
+      "codename": "06",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Ken": {
-      "codename": "15"
+      "codename": "15",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Kyosuke": {
-      "codename": "23"
+      "codename": "23",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Maki": {
-      "codename": "26"
+      "codename": "26",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "M. Bison": {
-      "codename": "31"
+      "codename": "31",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Morrigan": {
-      "codename": "27"
+      "codename": "27",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Rolento": {
-      "codename": "35"
+      "codename": "35",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Ryu": {
-      "codename": "42"
+      "codename": "42",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Sagat": {
-      "codename": "43"
+      "codename": "43",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Sakura": {
-      "codename": "44"
+      "codename": "44",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Vega": {
-      "codename": "02"
+      "codename": "02",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Yun": {
-      "codename": "38"
+      "codename": "38",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Zangief": {
-      "codename": "40"
+      "codename": "40",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Athena": {
-      "codename": "01"
+      "codename": "01",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Benimaru": {
-      "codename": "03"
+      "codename": "03",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Chang": {
-      "codename": "10"
+      "codename": "10",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Geese": {
-      "codename": "20"
+      "codename": "20",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Haohmaru": {
-      "codename": "07"
+      "codename": "07",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Hibiki": {
-      "codename": "08"
+      "codename": "08",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Iori": {
-      "codename": "13"
+      "codename": "13",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Joe": {
-      "codename": "14"
+      "codename": "14",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Kim": {
-      "codename": "16"
+      "codename": "16",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "King": {
-      "codename": "21"
+      "codename": "21",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Kyo": {
-      "codename": "22"
+      "codename": "22",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Mai": {
-      "codename": "25"
+      "codename": "25",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Nakoruru": {
-      "codename": "28"
+      "codename": "28",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Raiden": {
-      "codename": "33"
+      "codename": "33",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Rock": {
-      "codename": "34"
+      "codename": "34",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Rugal": {
-      "codename": "36"
+      "codename": "36",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Ryo": {
-      "codename": "41"
+      "codename": "41",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Terry": {
-      "codename": "29"
+      "codename": "29",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Todo": {
-      "codename": "30"
+      "codename": "30",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Vice": {
-      "codename": "32"
+      "codename": "32",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Yamazaki": {
-      "codename": "37"
+      "codename": "37",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Yuri": {
-      "codename": "39"
+      "codename": "39",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Shin Akuma": {
-      "codename": "48"
+      "codename": "48",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Ultimate Rugal": {
-      "codename": "47"
+      "codename": "47",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Evil Ryu": {
-      "codename": "46"
+      "codename": "46",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     },
     "Orochi Iori": {
-      "codename": "45"
+      "codename": "45",
+      "skin_name": {
+        "0": {
+          "name": "C, A & P Grooves"
+        },
+        "1": {
+          "name": "S, N & K Grooves"
+        }
+      }
     }
   },
   "stage_to_codename": {},

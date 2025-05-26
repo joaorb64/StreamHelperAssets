@@ -17,8 +17,8 @@ with open(f"variant.json", 'wt') as config_file:
         for variant_name in variant_list:
             variant_name = variant_name.strip()
             if variant_name:
-                codename = variant_name
-                for str_character in " &.(?!;/:%\\|-_\"'~@[{}]":
+                codename = variant_name + "V"
+                for str_character in " &.()?!;/:%\\|-_\"'~@[{}]":
                     codename = codename.replace(str_character, "")
                 config_dict["variant_to_codename"][variant_name] = {
                     "codename": codename

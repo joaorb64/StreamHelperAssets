@@ -502,6 +502,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
+- Character [Absa]: Character name [Absa] doesn't exist in StartGG
 ### Coverage: (12/12)
 
 ## Rushdown Revolt
@@ -671,6 +672,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
+- Character [Fahkumram]: Character name [Fahkumram] doesn't exist in StartGG
+- Character [Armor King]: Character name [Armor King] doesn't exist in StartGG
 ### Coverage: (38/38)
 
 ## Them's Fightin' Herds

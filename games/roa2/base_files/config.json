@@ -166,6 +166,9 @@
         },
         "53": {
           "name": "Snowman - Green"
+        },
+        "54": {
+          "name": "Goliath - Purple"
         }
       }
     },
@@ -367,6 +370,9 @@
         },
         "64": {
           "name": "Slam Dunk - Gamers on the Edge"
+        },
+        "65": {
+          "name": "Tree Frog - Purple"
         }
       }
     },
@@ -700,6 +706,18 @@
         },
         "48": {
           "name": "Lovers - Combo Breaker"
+        },
+        "49": {
+          "name": "Dandelion"
+        },
+        "50": {
+          "name": "Dandelion - Red"
+        },
+        "51": {
+          "name": "Dandelion - Blue"
+        },
+        "52": {
+          "name": "Dandelion - Green"
         }
       }
     },
@@ -1404,7 +1422,12 @@
     },
     "La Reina": {
       "codename": "Reina",
-      "smashgg_name": "La Reina"
+      "smashgg_name": "La Reina",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
     },
     "Orcane": {
       "codename": "Orcane",
@@ -1562,6 +1585,9 @@
         },
         "50": {
           "name": "Demigod - Green"
+        },
+        "51": {
+          "name": "Blue Tang - Yellow"
         }
       }
     },
@@ -1826,6 +1852,9 @@
         },
         "33": {
           "name": "Striped - White"
+        },
+        "34": {
+          "name": "Honey - Mint"
         }
       }
     },
@@ -1931,6 +1960,15 @@
         },
         "32": {
           "name": "Default - Black"
+        }
+      }
+    },
+    "Absa": {
+      "codename": "Absa",
+      "smashgg_name": "Absa",
+      "skin_name": {
+        "0": {
+          "name": "Default"
         }
       }
     }

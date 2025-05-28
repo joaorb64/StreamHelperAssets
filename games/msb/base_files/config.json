@@ -223,5 +223,169 @@
     "ja": {
       "name": "\u30b9\u30fc\u30d1\u30fc\u30de\u30ea\u30aa\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30e9\u30af\u30eb\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb"
     }
+  },
+  "variant_to_codename": {
+    "Mario": {
+      "codename": "MarioV"
+    },
+    "Luigi": {
+      "codename": "LuigiV"
+    },
+    "Peach": {
+      "codename": "PeachV"
+    },
+    "Daisy": {
+      "codename": "DaisyV"
+    },
+    "Yoshi": {
+      "codename": "YoshiV"
+    },
+    "Birdo": {
+      "codename": "BirdoV"
+    },
+    "Wario": {
+      "codename": "WarioV"
+    },
+    "Waluigi": {
+      "codename": "WaluigiV"
+    },
+    "Donkey Kong": {
+      "codename": "DonkeyKongV"
+    },
+    "Diddy Kong": {
+      "codename": "DiddyKongV"
+    },
+    "Bowser": {
+      "codename": "BowserV"
+    },
+    "Bowser Jr.": {
+      "codename": "BowserJrV"
+    },
+    "Baby Mario": {
+      "codename": "BabyMarioV"
+    },
+    "Toad (Red)": {
+      "codename": "ToadRedV"
+    },
+    "Toad (Blue)": {
+      "codename": "ToadBlueV"
+    },
+    "Toad (Yellow)": {
+      "codename": "ToadYellowV"
+    },
+    "Toad (Green)": {
+      "codename": "ToadGreenV"
+    },
+    "Toad (Purple)": {
+      "codename": "ToadPurpleV"
+    },
+    "Toadsworth": {
+      "codename": "ToadsworthV"
+    },
+    "Goomba": {
+      "codename": "GoombaV"
+    },
+    "Paragoomba": {
+      "codename": "ParagoombaV"
+    },
+    "Koopa (Green)": {
+      "codename": "KoopaGreenV"
+    },
+    "Koopa (Red)": {
+      "codename": "KoopaRedV"
+    },
+    "Koopa Paratroopa (Red)": {
+      "codename": "KoopaParatroopaRedV"
+    },
+    "Koopa Paratroopa (Green)": {
+      "codename": "KoopaParatroopaGreenV"
+    },
+    "Dry Bones (Default)": {
+      "codename": "DryBonesDefaultV"
+    },
+    "Dry Bones (Green)": {
+      "codename": "DryBonesGreenV"
+    },
+    "Dry Bones (Red)": {
+      "codename": "DryBonesRedV"
+    },
+    "Dry Bones (Blue)": {
+      "codename": "DryBonesBlueV"
+    },
+    "Shy Guy (Red)": {
+      "codename": "ShyGuyRedV"
+    },
+    "Shy Guy (Blue)": {
+      "codename": "ShyGuyBlueV"
+    },
+    "Shy Guy (Yellow)": {
+      "codename": "ShyGuyYellowV"
+    },
+    "Shy Guy (Green)": {
+      "codename": "ShyGuyGreenV"
+    },
+    "Shy Guy (Black)": {
+      "codename": "ShyGuyBlackV"
+    },
+    "Boo": {
+      "codename": "BooV"
+    },
+    "King Boo": {
+      "codename": "KingBooV"
+    },
+    "Magikoopa (Blue)": {
+      "codename": "MagikoopaBlueV"
+    },
+    "Magikoopa (Red)": {
+      "codename": "MagikoopaRedV"
+    },
+    "Magikoopa (Green)": {
+      "codename": "MagikoopaGreenV"
+    },
+    "Magikoopa (Yellow)": {
+      "codename": "MagikoopaYellowV"
+    },
+    "Pianta (Blue)": {
+      "codename": "PiantaBlueV"
+    },
+    "Pianta (Red)": {
+      "codename": "PiantaRedV"
+    },
+    "Pianta (Yellow)": {
+      "codename": "PiantaYellowV"
+    },
+    "Noki (Blue)": {
+      "codename": "NokiBlueV"
+    },
+    "Noki (Red)": {
+      "codename": "NokiRedV"
+    },
+    "Noki (Green)": {
+      "codename": "NokiGreenV"
+    },
+    "Baby Luigi": {
+      "codename": "BabyLuigiV"
+    },
+    "Toadette": {
+      "codename": "ToadetteV"
+    },
+    "Hammer Bro": {
+      "codename": "HammerBroV"
+    },
+    "Fire Bro": {
+      "codename": "FireBroV"
+    },
+    "Boomerang Bro": {
+      "codename": "BoomerangBroV"
+    },
+    "Monty Mole": {
+      "codename": "MontyMoleV"
+    },
+    "Dixie Kong": {
+      "codename": "DixieKongV"
+    },
+    "Petey Piranha": {
+      "codename": "PeteyPiranhaV"
+    }
   }
 }

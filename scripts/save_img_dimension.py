@@ -59,7 +59,7 @@ def process_directory(directory):
                 # Read and update the config.json file
                 with open(config_path, 'r+', encoding='utf-8') as config_file:
                     config_data = json.load(config_file)
-                    config_data['image_sizes'] = dict(sorted(sizes_dict))
+                    config_data['image_sizes'] = dict(sorted(sizes_dict.items()))
                     
                     # Write the updated data back to config.json
                     config_file.seek(0)

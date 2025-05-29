@@ -38,7 +38,7 @@ def process_directory(directory):
                         if index:
                             index = str(int(index))
                         else:
-                            index = "N/A"
+                            index = "null"
                         try:
                             with Image.open(image_path) as img:
                                 width, height = img.size

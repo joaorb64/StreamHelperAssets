@@ -10,5 +10,139 @@
   "average_size": {
     "x": 238.54545454545453,
     "y": 170.9090909090909
+  },
+  "image_sizes": {
+    "BabyPark": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "BlockCity": {
+      "null": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "BowsersCastle": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "CookieLand": {
+      "null": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "DKMountain": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "DaisyCruiser": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "DinoDinoJungle": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "DryDryDesert": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "LuigiCircuit": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "LuigisMansion": {
+      "null": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "MarioCircuit": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "MushroomBridge": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "MushroomCity": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "NintendoGameCube": {
+      "null": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "PeachBeach": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "PipePlaza": {
+      "null": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "RainbowRoad": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "SherbetLand": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "TiltaKart": {
+      "null": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "WaluigiStadium": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "WarioColosseum": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "YoshiCircuit": {
+      "null": {
+        "x": 256,
+        "y": 184
+      }
+    }
   }
 }

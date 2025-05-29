@@ -11,5 +11,43 @@
   "average_size": {
     "x": 171.5,
     "y": 23.5
+  },
+  "image_sizes": {
+    "A-Groove": {
+      "null": {
+        "x": 171,
+        "y": 24
+      }
+    },
+    "C-Groove": {
+      "null": {
+        "x": 170,
+        "y": 23
+      }
+    },
+    "K-Groove": {
+      "null": {
+        "x": 172,
+        "y": 23
+      }
+    },
+    "N-Groove": {
+      "null": {
+        "x": 174,
+        "y": 24
+      }
+    },
+    "P-Groove": {
+      "null": {
+        "x": 171,
+        "y": 23
+      }
+    },
+    "S-Groove": {
+      "null": {
+        "x": 171,
+        "y": 24
+      }
+    }
   }
 }

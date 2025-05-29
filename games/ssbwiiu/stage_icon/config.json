@@ -10,5 +10,463 @@
   "average_size": {
     "x": 1028.4868421052631,
     "y": 514.25
+  },
+  "image_sizes": {
+    "64jungle": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "angeland": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "assault": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "battlefield_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "battlefield_k": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "battlefield_l": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "battlefielddreamland": {
+      "null": {
+        "x": 1365,
+        "y": 683
+      }
+    },
+    "bomb_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "cave": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "colloseum_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "dkreturns": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "duckhunt": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "dxonett": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "dxyorster": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "end_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "figurerush": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "galaxy": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "gamer": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "gw3": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "gw3_jp_uk": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "homerun_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "hyrule64_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "kalos": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "mariokart": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "mariomaker_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "mariou": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "menumusic": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "metroid": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "midgar_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "miiverse": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "miiverse_old": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "omakase": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "pacland": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "page": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "peachcastle64_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "pikminu": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "pilotwings": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "punchout": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "punchout_jp": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "pupupuland_64_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "skyward": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "stagemake": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "streetfighter_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "temple": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "umbra_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "village2": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "village2_fr": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "village2_ger": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "village2_it": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "village2_jp": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "village2_sp": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "wiifit": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "wily": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "windyhill": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "wrecking": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "wufu": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xdolpic": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xdonkey": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xemblem": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xenoblade": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xfzero": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xhalberd": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xkart": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xkart_fr": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xkart_ger": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xkart_it": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xkart_sp": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xmansion": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xnorfair": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xoldin": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xpalutena": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xpirates_f": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xstadium": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xstarfox": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "xvillage": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    },
+    "yoshiu": {
+      "null": {
+        "x": 1024,
+        "y": 512
+      }
+    }
   }
 }

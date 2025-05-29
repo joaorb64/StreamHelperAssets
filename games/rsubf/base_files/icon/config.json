@@ -139,5 +139,125 @@
   "average_size": {
     "x": 635.025,
     "y": 804.425
+  },
+  "image_sizes": {
+    "AkiraKazama": {
+      "0": {
+        "x": 600,
+        "y": 800
+      },
+      "1": {
+        "x": 544,
+        "y": 800
+      }
+    },
+    "BatsuIchimonji": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    },
+    "BomanDelgado": {
+      "0": {
+        "x": 750,
+        "y": 800
+      }
+    },
+    "DaigoKazama": {
+      "0": {
+        "x": 485,
+        "y": 605
+      }
+    },
+    "EijiEdgeYamada": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    },
+    "GanIsurugi": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    },
+    "HayatoNekketsu": {
+      "0": {
+        "x": 409,
+        "y": 550
+      }
+    },
+    "HideoShimazu": {
+      "0": {
+        "x": 700,
+        "y": 800
+      }
+    },
+    "HinataWakaba": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    },
+    "HyoImawano": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    },
+    "KyokoMinazuki": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    },
+    "KyosukeKagami": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    },
+    "NatsuAyuhara": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    },
+    "RaizoImawano": {
+      "0": {
+        "x": 580,
+        "y": 759
+      }
+    },
+    "RobertoMiura": {
+      "0": {
+        "x": 511,
+        "y": 530
+      }
+    },
+    "RoyBromwell": {
+      "0": {
+        "x": 600,
+        "y": 693
+      }
+    },
+    "SakuraKasugano": {
+      "0": {
+        "x": 720,
+        "y": 739
+      }
+    },
+    "ShomaSawamura": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    },
+    "TiffanyLords": {
+      "0": {
+        "x": 600,
+        "y": 800
+      }
+    }
   }
 }

@@ -8,5 +8,61 @@
   "average_size": {
     "x": 63.77777777777778,
     "y": 68.22222222222223
+  },
+  "image_sizes": {
+    "SailorChibiMoon": {
+      "0": {
+        "x": 72,
+        "y": 72
+      }
+    },
+    "SailorJupiter": {
+      "0": {
+        "x": 64,
+        "y": 72
+      }
+    },
+    "SailorMars": {
+      "0": {
+        "x": 64,
+        "y": 61
+      }
+    },
+    "SailorMercury": {
+      "0": {
+        "x": 60,
+        "y": 63
+      }
+    },
+    "SailorMoon": {
+      "0": {
+        "x": 63,
+        "y": 64
+      }
+    },
+    "SailorNeptune": {
+      "0": {
+        "x": 63,
+        "y": 72
+      }
+    },
+    "SailorPluto": {
+      "0": {
+        "x": 64,
+        "y": 72
+      }
+    },
+    "SailorUranus": {
+      "0": {
+        "x": 64,
+        "y": 72
+      }
+    },
+    "SailorVenus": {
+      "0": {
+        "x": 60,
+        "y": 66
+      }
+    }
   }
 }

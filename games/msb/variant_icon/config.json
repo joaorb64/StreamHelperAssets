@@ -11,5 +11,331 @@
   "average_size": {
     "x": 50.0,
     "y": 50.0
+  },
+  "image_sizes": {
+    "BabyLuigiV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "BabyMarioV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "BirdoV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "BooV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "BoomerangBroV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "BowserJrV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "BowserV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "DaisyV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "DiddyKongV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "DixieKongV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "DonkeyKongV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "DryBonesBlueV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "DryBonesDefaultV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "DryBonesGreenV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "DryBonesRedV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "FireBroV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "GoombaV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "HammerBroV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "KingBooV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "KoopaGreenV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "KoopaParatroopaGreenV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "KoopaParatroopaRedV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "KoopaRedV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "LuigiV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "MagikoopaBlueV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "MagikoopaGreenV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "MagikoopaRedV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "MagikoopaYellowV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "MarioV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "MontyMoleV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "NokiBlueV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "NokiGreenV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "NokiRedV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ParagoombaV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "PeachV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "PeteyPiranhaV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "PiantaBlueV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "PiantaRedV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "PiantaYellowV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ShyGuyBlackV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ShyGuyBlueV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ShyGuyGreenV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ShyGuyRedV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ShyGuyYellowV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ToadBlueV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ToadGreenV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ToadPurpleV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ToadRedV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ToadYellowV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ToadetteV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "ToadsworthV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "WaluigiV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "WarioV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    "YoshiV": {
+      "null": {
+        "x": 50,
+        "y": 50
+      }
+    }
   }
 }

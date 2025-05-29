@@ -10,5 +10,97 @@
   "average_size": {
     "x": 322.06666666666666,
     "y": 322.0
+  },
+  "image_sizes": {
+    "Aggro": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Babel": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Berserker": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Double": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Fantasista": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Grab": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Infinity": {
+      "null": {
+        "x": 231,
+        "y": 230
+      }
+    },
+    "Juggernaut": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Miracle": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Nightmare": {
+      "null": {
+        "x": 230,
+        "y": 230
+      }
+    },
+    "Shinobi": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Sky": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Stealth": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    },
+    "Supernova": {
+      "null": {
+        "x": 230,
+        "y": 230
+      }
+    },
+    "Thunderbolt": {
+      "null": {
+        "x": 345,
+        "y": 345
+      }
+    }
   }
 }

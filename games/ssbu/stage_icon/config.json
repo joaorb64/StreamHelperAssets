@@ -10,5 +10,763 @@
   "average_size": {
     "x": 512.0,
     "y": 256.0
+  },
+  "image_sizes": {
+    "75m": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Animal_City": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Animal_Island": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Animal_Village": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "BalloonFight": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "BattleField": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "BattleFieldL": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "BattleFieldS": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "BattleField_pre-v8.1": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Bayo_Clock": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Brave_Altar": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Buddy_Spiral": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "DK_Jungle": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "DK_Lodge": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "DK_WaterFall": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Demon_Dojo": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Dolly_Stadium": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Dracula_Castle": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "DuckHunt": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "End": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "FE_Arena": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "FE_Colloseum": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "FE_Shrine": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "FE_Siege": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "FF_Cave": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "FF_Midgar": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "FlatZoneX": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Fox_Corneria": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Fox_LylatCruise": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Fox_Venom": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Fzero_Bigblue": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Fzero_Mutecity3DS": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Fzero_Porttown": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "HomerunContest": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Icarus_Angeland": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Icarus_SkyWorld": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Icarus_Uprising": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Ice_Top": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Jack_Mementoes": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Kart_CircuitFor": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Kart_CircuitX": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Kirby_Cave": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Kirby_Fountain": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Kirby_Gameboy": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Kirby_Greens": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Kirby_Halberd": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Kirby_Pupupu64": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "LuigiMansion": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "MG_Shadowmoses": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "MarioBros": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_3DLand": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_Castle64": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_CastleDx": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_Dolpic": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_Galaxy": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_Maker": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_NewBros2": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_Odyssey": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_Paper": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_Past64": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_PastUsa": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_PastX": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_Rainbow": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mario_Uworld": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "MenuMusic": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Metroid_Kraid": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Metroid_Norfair": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Metroid_Orpheon": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Metroid_ZebesDx": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mother_Fourside": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mother_Magicant": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mother_Newpork": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Mother_Onett": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "NintenDogs": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Pac_Land": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Pickel_World": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Pictochat2": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Pikmin_Garden": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Pikmin_Planet": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Pilotwings": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Plankton": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Poke_Kalos": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Poke_Stadium": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Poke_Stadium2": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Poke_Tengam": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Poke_Tower": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Poke_Unova": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Poke_Yamabuki": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "PunchOutSB": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "PunchOutW": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Random": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "RandomNormal": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Random_pre-v8.1": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Rock_Wily": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "SF_Suzaku": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "SP_Edit": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "SP_Edit_pre-v8.1": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Sonic_Greenhill": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Sonic_Windyhill": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Spla_Parking": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "StreetPass": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Tantan_Spring": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Tantan_Spring_pre-v8.1": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Tomodachi": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Trail_Castle": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Training": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Wario_Gamer": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Wario_Madein": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "WiiFit": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "WreckingCrew": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "WufuIsland": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Xeno_Alst": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Xeno_Gaur": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Yoshi_CartBoard": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Yoshi_Island": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Yoshi_Story": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Yoshi_Yoster": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Zelda_Gerudo": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Zelda_Greatbay": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Zelda_Hyrule": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Zelda_Oldin": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Zelda_Pirates": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Zelda_Skyward": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Zelda_Temple": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Zelda_Tower": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    },
+    "Zelda_Train": {
+      "null": {
+        "x": 512,
+        "y": 256
+      }
+    }
   }
 }

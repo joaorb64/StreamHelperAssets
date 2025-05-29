@@ -11,5 +11,25 @@
   "average_size": {
     "x": 42.0,
     "y": 42.0
+  },
+  "image_sizes": {
+    "crescent": {
+      "null": {
+        "x": 42,
+        "y": 42
+      }
+    },
+    "full": {
+      "null": {
+        "x": 42,
+        "y": 42
+      }
+    },
+    "half": {
+      "null": {
+        "x": 42,
+        "y": 42
+      }
+    }
   }
 }

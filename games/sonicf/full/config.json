@@ -89,5 +89,73 @@
   "average_size": {
     "x": 1775.7490396927017,
     "y": 2378.181818181818
+  },
+  "image_sizes": {
+    "AmyRose": {
+      "0": {
+        "x": 1640,
+        "y": 2350
+      }
+    },
+    "BarkthePolarBear": {
+      "0": {
+        "x": 1670,
+        "y": 2370
+      }
+    },
+    "BeantheDynamite": {
+      "0": {
+        "x": 1640,
+        "y": 2400
+      }
+    },
+    "DrEggman": {
+      "0": {
+        "x": 1640,
+        "y": 2540
+      }
+    },
+    "EspiotheChameleon": {
+      "0": {
+        "x": 1910,
+        "y": 2110
+      }
+    },
+    "FangtheSniper": {
+      "0": {
+        "x": 2230,
+        "y": 2000
+      }
+    },
+    "HoneytheCat": {
+      "0": {
+        "x": 2250,
+        "y": 3550
+      }
+    },
+    "KnucklestheEchidna": {
+      "0": {
+        "x": 1980,
+        "y": 2220
+      }
+    },
+    "MetalSonic": {
+      "0": {
+        "x": 1540,
+        "y": 2640
+      }
+    },
+    "MilesTailsPrower": {
+      "0": {
+        "x": 1990,
+        "y": 2400
+      }
+    },
+    "SonictheHedgehog": {
+      "0": {
+        "x": 1620,
+        "y": 2490
+      }
+    }
   }
 }

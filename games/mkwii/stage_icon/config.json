@@ -10,5 +10,265 @@
   "average_size": {
     "x": 273.4418604651163,
     "y": 57.16279069767442
+  },
+  "image_sizes": {
+    "BlockPlaza": {
+      "null": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "BowsersCastle": {
+      "null": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "ChainChompWheel": {
+      "null": {
+        "x": 276,
+        "y": 60
+      }
+    },
+    "CoconutMall": {
+      "null": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "DKSummit": {
+      "null": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "DSDelfinoSquare": {
+      "null": {
+        "x": 274,
+        "y": 58
+      }
+    },
+    "DSDesertHills": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "DSPeachGardens": {
+      "null": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "DSTwilightHouse": {
+      "null": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "DSYoshiFalls": {
+      "null": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "DaisyCircuit": {
+      "null": {
+        "x": 273,
+        "y": 56
+      }
+    },
+    "DelfinoPier": {
+      "null": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "DryDryRuins": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "FunkyStadium": {
+      "null": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "GBABattleCourse3": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "GBABowserCastle3": {
+      "null": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "GBAShyGuyBeach": {
+      "null": {
+        "x": 275,
+        "y": 59
+      }
+    },
+    "GCNCookieLand": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "GCNDKMountain": {
+      "null": {
+        "x": 272,
+        "y": 56
+      }
+    },
+    "GCNMarioCircuit": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "GCNPeachBeach": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "GCNWaluigiStadium": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "GalaxyColosseum": {
+      "null": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "GrumbleVolcano": {
+      "null": {
+        "x": 272,
+        "y": 55
+      }
+    },
+    "KoopaCape": {
+      "null": {
+        "x": 272,
+        "y": 55
+      }
+    },
+    "LuigiCircuit": {
+      "null": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "MapleTreeway": {
+      "null": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "MarioCircuit": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "MooMooMeadows": {
+      "null": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "MoonviewHighway": {
+      "null": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "MushroomGorge": {
+      "null": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "N64BowsersCastle": {
+      "null": {
+        "x": 272,
+        "y": 56
+      }
+    },
+    "N64DKsJungleParkway": {
+      "null": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "N64MarioRaceway": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "N64SherbetLand": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "N64Skyscraper": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "RainbowRoad": {
+      "null": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "SNESBattleCourse4": {
+      "null": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "SNESGhostValley2": {
+      "null": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "SNESMarioCircuit3": {
+      "null": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "ThwompDesert": {
+      "null": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "ToadsFactory": {
+      "null": {
+        "x": 272,
+        "y": 56
+      }
+    },
+    "WariosGoldMine": {
+      "null": {
+        "x": 272,
+        "y": 56
+      }
+    }
   }
 }

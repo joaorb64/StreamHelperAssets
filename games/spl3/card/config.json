@@ -249,5 +249,793 @@
   "average_size": {
     "x": 368.1814111874164,
     "y": 512.0
+  },
+  "image_sizes": {
+    "52Gal": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "52GalDeco": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "96Gal": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "96GalDeco": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "AerosprayMG": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "AerosprayRG": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "AnnakiSplattershotNova": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "BallpointSplatling": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "BallpointSplatlingNouveau": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "Bamboozler14MkI": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "Bamboozler14MkII": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "BigSwigRoller": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "BigSwigRollerExpress": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "Blaster": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "Bloblobber": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "BloblobberDeco": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "CarbonRoller": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "CarbonRollerDeco": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "CharcoalDecavitator": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "ClashBlaster": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "ClashBlasterNeo": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "ClassicSquiffer": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "CustomBlaster": {
+      "0": {
+        "x": 512,
+        "y": 712
+      }
+    },
+    "CustomDouserDualiesFF": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "CustomDualieSquelchers": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "CustomEliter4K": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "CustomEliter4KScope": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "CustomExplosher": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "CustomGooTuber": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "CustomHydraSplatling": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "CustomJetSquelcher": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "CustomRangeBlaster": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "CustomSplattershotJr": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "CustomWellstringV": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "DappleDualies": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "DappleDualiesNouveau": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "DarkTetraDualies": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "DouserDualiesFF": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "DreadWringer": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "DreadWringerD": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "DualieSquelchers": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "DynamoRoller": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "Eliter4K": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "Eliter4KScope": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "EnperrySplatDualies": {
+      "0": {
+        "x": 512,
+        "y": 712
+      }
+    },
+    "Explosher": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "FlingzaRoller": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "FoilFlingzaRoller": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "FoilSqueezer": {
+      "0": {
+        "x": 512,
+        "y": 712
+      }
+    },
+    "ForgeSplattershotPro": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "GloogaDualies": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "GloogaDualiesDeco": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "GoldDynamoRoller": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "GooTuber": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "H3Nozzlenose": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "H3NozzlenoseD": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "HeavyEditSplatling": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "HeavyEditSplatlingNouveau": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "HeavySplatling": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "HeavySplatlingDeco": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "HeroShotReplica": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "HydraSplatling": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "Inkbrush": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "InkbrushNouveau": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "InklineTriStringer": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "JetSquelcher": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "KrakOnSplatRoller": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "L3Nozzlenose": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "L3NozzlenoseD": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "LightTetraDualies": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "LunaBlaster": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "LunaBlasterNeo": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "MiniSplatling": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "MintDecavitator": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "NZAP'85": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "NZAP'89": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "Nautilus47": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "Nautilus79": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "NeoSplashomatic": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "NeoSplooshomatic": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "NewSquiffer": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "Octobrush": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "OctobrushNouveau": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "Painbrush": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "PainbrushNouveau": {
+      "0": {
+        "x": 512,
+        "y": 712
+      }
+    },
+    "REEFLUX450": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "REEFLUX450Deco": {
+      "0": {
+        "x": 512,
+        "y": 712
+      }
+    },
+    "RangeBlaster": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "RapidBlaster": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "RapidBlasterDeco": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "RapidBlasterPro": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "RapidBlasterProDeco": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "RecycledBrella24MkI": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "RecycledBrella24MkII": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "SBLAST'91": {
+      "0": {
+        "x": 512,
+        "y": 712
+      }
+    },
+    "SBLAST'92": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "Slosher": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SlosherDeco": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "SloshingMachine": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SloshingMachineNeo": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "Snipewriter5B": {
+      "0": {
+        "x": 512,
+        "y": 712
+      }
+    },
+    "Snipewriter5H": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "SorellaBrella": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "Splashomatic": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SplatBrella": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SplatCharger": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SplatDualies": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SplatRoller": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SplatanaStamper": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SplatanaStamperNouveau": {
+      "0": {
+        "x": 512,
+        "y": 712
+      }
+    },
+    "SplatanaWiper": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SplatanaWiperDeco": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "Splatterscope": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "Splattershot": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SplattershotJr": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "SplattershotNova": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "SplattershotPro": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "Splooshomatic": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "Squeezer": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "TentaBrella": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "TentaSorellaBrella": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "TentatekSplattershot": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "TriSlosher": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "TriSlosherNouveau": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "TriStringer": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "UndercoverBrella": {
+      "0": {
+        "x": 366,
+        "y": 512
+      }
+    },
+    "UndercoverSorellaBrella": {
+      "0": {
+        "x": 512,
+        "y": 712
+      }
+    },
+    "WellstringV": {
+      "0": {
+        "x": 512,
+        "y": 697
+      }
+    },
+    "Z+FSplatCharger": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "Z+FSplatterscope": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    },
+    "ZinkMiniSplatling": {
+      "0": {
+        "x": 512,
+        "y": 714
+      }
+    }
   }
 }

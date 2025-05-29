@@ -11,5 +11,223 @@
   "average_size": {
     "x": 78.94444444444444,
     "y": 44.361111111111114
+  },
+  "image_sizes": {
+    "BitBike": {
+      "null": {
+        "x": 79,
+        "y": 45
+      }
+    },
+    "BlueFalcon": {
+      "null": {
+        "x": 92,
+        "y": 36
+      }
+    },
+    "BoosterSeat": {
+      "null": {
+        "x": 77,
+        "y": 50
+      }
+    },
+    "BulletBike": {
+      "null": {
+        "x": 83,
+        "y": 45
+      }
+    },
+    "CheepCharger": {
+      "null": {
+        "x": 66,
+        "y": 44
+      }
+    },
+    "ClassicDragster": {
+      "null": {
+        "x": 91,
+        "y": 44
+      }
+    },
+    "Daytripper": {
+      "null": {
+        "x": 78,
+        "y": 45
+      }
+    },
+    "DolphinDasher": {
+      "null": {
+        "x": 80,
+        "y": 45
+      }
+    },
+    "FlameFlyer": {
+      "null": {
+        "x": 90,
+        "y": 42
+      }
+    },
+    "FlameRunner": {
+      "null": {
+        "x": 77,
+        "y": 48
+      }
+    },
+    "Honeycoupe": {
+      "null": {
+        "x": 92,
+        "y": 38
+      }
+    },
+    "JetBubble": {
+      "null": {
+        "x": 78,
+        "y": 48
+      }
+    },
+    "Jetsetter": {
+      "null": {
+        "x": 92,
+        "y": 34
+      }
+    },
+    "MachBike": {
+      "null": {
+        "x": 73,
+        "y": 48
+      }
+    },
+    "Magikruiser": {
+      "null": {
+        "x": 76,
+        "y": 47
+      }
+    },
+    "MiniBeast": {
+      "null": {
+        "x": 83,
+        "y": 46
+      }
+    },
+    "Offroader": {
+      "null": {
+        "x": 71,
+        "y": 48
+      }
+    },
+    "Phantom": {
+      "null": {
+        "x": 87,
+        "y": 45
+      }
+    },
+    "PiranhaProwler": {
+      "null": {
+        "x": 76,
+        "y": 46
+      }
+    },
+    "Quacker": {
+      "null": {
+        "x": 57,
+        "y": 47
+      }
+    },
+    "ShootingStar": {
+      "null": {
+        "x": 71,
+        "y": 48
+      }
+    },
+    "Sneakster": {
+      "null": {
+        "x": 83,
+        "y": 47
+      }
+    },
+    "Spear": {
+      "null": {
+        "x": 86,
+        "y": 45
+      }
+    },
+    "Sprinter": {
+      "null": {
+        "x": 83,
+        "y": 46
+      }
+    },
+    "StandardBikeL": {
+      "null": {
+        "x": 66,
+        "y": 46
+      }
+    },
+    "StandardBikeM": {
+      "null": {
+        "x": 66,
+        "y": 46
+      }
+    },
+    "StandardBikeS": {
+      "null": {
+        "x": 82,
+        "y": 45
+      }
+    },
+    "StandardKartL": {
+      "null": {
+        "x": 90,
+        "y": 37
+      }
+    },
+    "StandardKartM": {
+      "null": {
+        "x": 90,
+        "y": 39
+      }
+    },
+    "StandardKartS": {
+      "null": {
+        "x": 91,
+        "y": 36
+      }
+    },
+    "Sugarscoot": {
+      "null": {
+        "x": 65,
+        "y": 47
+      }
+    },
+    "SuperBlooper": {
+      "null": {
+        "x": 85,
+        "y": 39
+      }
+    },
+    "TinyTitan": {
+      "null": {
+        "x": 67,
+        "y": 48
+      }
+    },
+    "WarioBike": {
+      "null": {
+        "x": 66,
+        "y": 50
+      }
+    },
+    "WildWing": {
+      "null": {
+        "x": 89,
+        "y": 42
+      }
+    },
+    "ZipZip": {
+      "null": {
+        "x": 64,
+        "y": 45
+      }
+    }
   }
 }

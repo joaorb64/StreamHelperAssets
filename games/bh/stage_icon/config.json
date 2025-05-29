@@ -11,5 +11,55 @@
   "average_size": {
     "x": 2048.0,
     "y": 1151.0
+  },
+  "image_sizes": {
+    "Avatar": {
+      "null": {
+        "x": 2048,
+        "y": 1151
+      }
+    },
+    "BloodMoon": {
+      "null": {
+        "x": 2048,
+        "y": 1151
+      }
+    },
+    "Brawlhaven": {
+      "null": {
+        "x": 2048,
+        "y": 1151
+      }
+    },
+    "DemonIsland": {
+      "null": {
+        "x": 2048,
+        "y": 1151
+      }
+    },
+    "Fangwild2": {
+      "null": {
+        "x": 2048,
+        "y": 1151
+      }
+    },
+    "HBCross": {
+      "null": {
+        "x": 2048,
+        "y": 1151
+      }
+    },
+    "MiamiDome": {
+      "null": {
+        "x": 2048,
+        "y": 1151
+      }
+    },
+    "Steam": {
+      "null": {
+        "x": 2048,
+        "y": 1151
+      }
+    }
   }
 }

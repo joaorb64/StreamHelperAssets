@@ -2267,5 +2267,865 @@
   "average_size": {
     "x": 100.0,
     "y": 100.0
+  },
+  "image_sizes": {
+    "52Gal": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "52GalDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "96Gal": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "96GalDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "AerosprayMG": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "AerosprayRG": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "AnnakiSplattershotNova": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "BallpointSplatling": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "BallpointSplatlingNouveau": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Bamboozler14MkI": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Bamboozler14MkII": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "BigSwigRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "BigSwigRollerExpress": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Blaster": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Bloblobber": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "BloblobberDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CarbonRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CarbonRollerDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CharcoalDecavitator": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "ClashBlaster": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "ClashBlasterNeo": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "ClassicSquiffer": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomBlaster": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomDouserDualiesFF": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomDualieSquelchers": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomEliter4K": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomEliter4KScope": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomExplosher": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomGooTuber": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomHydraSplatling": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomJetSquelcher": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomRangeBlaster": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomSplattershotJr": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "CustomWellstringV": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "DappleDualies": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "DappleDualiesNouveau": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "DarkTetraDualies": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "DouserDualiesFF": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "DreadWringer": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "DreadWringerD": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "DualieSquelchers": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "DynamoRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Eliter4K": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Eliter4KScope": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "EnperrySplatDualies": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Explosher": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "FlingzaRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "FoilFlingzaRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "FoilSqueezer": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "ForgeSplattershotPro": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "GloogaDualies": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "GloogaDualiesDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "GoldDynamoRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "GooTuber": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "H3Nozzlenose": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "H3NozzlenoseD": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "HeavyEditSplatling": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "HeavyEditSplatlingNouveau": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "HeavySplatling": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "HeavySplatlingDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "HeroShotReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "HydraSplatling": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Inkbrush": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "InkbrushNouveau": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "InklineTriStringer": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "JetSquelcher": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "KrakOnSplatRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "L3Nozzlenose": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "L3NozzlenoseD": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "LightTetraDualies": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "LunaBlaster": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "LunaBlasterNeo": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "MiniSplatling": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "MintDecavitator": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "NZAP'85": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "NZAP'89": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Nautilus47": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Nautilus79": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "NeoSplashomatic": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "NeoSplooshomatic": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "NewSquiffer": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OctoShotReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Octobrush": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OctobrushNouveau": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderBlasterReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderBrellaReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderChargerReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderDualieReplicas": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderRollerReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderShotReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderSlosherReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderSplatanaReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderSplatlingReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderStringerReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "OrderbrushReplica": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Painbrush": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "PainbrushNouveau": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "REEFLUX450": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "REEFLUX450Deco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "RangeBlaster": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "RapidBlaster": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "RapidBlasterDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "RapidBlasterPro": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "RapidBlasterProDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "RecycledBrella24MkI": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "RecycledBrella24MkII": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SBLAST'91": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SBLAST'92": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Slosher": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SlosherDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SloshingMachine": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SloshingMachineNeo": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Snipewriter5B": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Snipewriter5H": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SorellaBrella": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Splashomatic": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplatBrella": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplatCharger": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplatDualies": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplatRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplatanaStamper": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplatanaStamperNouveau": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplatanaWiper": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplatanaWiperDeco": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Splatterscope": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Splattershot": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplattershotJr": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplattershotNova": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "SplattershotPro": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Splooshomatic": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Squeezer": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "TentaBrella": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "TentaSorellaBrella": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "TentatekSplattershot": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "TriSlosher": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "TriSlosherNouveau": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "TriStringer": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "UndercoverBrella": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "UndercoverSorellaBrella": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "WellstringV": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Z+FSplatCharger": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "Z+FSplatterscope": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "ZinkMiniSplatling": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    }
   }
 }

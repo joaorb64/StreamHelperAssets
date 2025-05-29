@@ -11,5 +11,157 @@
   "average_size": {
     "x": 3051.52,
     "y": 1716.48
+  },
+  "image_sizes": {
+    "AirTemple": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "Armada": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "CatDogHouse": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "Cemetery": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "Dumpster": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "FlyingDutchman": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "FoodDream": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "GhostZone": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "GloveWorld": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "JellyFishFields": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "Kitchen": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "LifeShow": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "LoudHouse": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "Omashu": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "Playground": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "Portals": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "Rooftop": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "SchoolBus": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "Sewers": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "SpaceMadness": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "Technodome": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "WildJungle": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "neo_transformer": {
+      "null": {
+        "x": 2048,
+        "y": 1152
+      }
+    },
+    "pie_abstract": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "squirrel_space": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    }
   }
 }

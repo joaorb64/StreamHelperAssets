@@ -8,5 +8,79 @@
   "average_size": {
     "x": 64.0,
     "y": 64.0
+  },
+  "image_sizes": {
+    "BadDog": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "Crowrilla": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "EggDog": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "FluffySheep": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "KungfuDachshund": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "MagicSquirrel": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "MightyFox": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "MuscleBeluga": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "PowerHookDog": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "SlenderCat": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "TrickyFox": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "WalkingCat": {
+      "0": {
+        "x": 64,
+        "y": 64
+      }
+    }
   }
 }

@@ -51,6 +51,7 @@ def process_directory(directory):
                                         index: {"x": width, "y": height}
                                     }
                                 image_count += 1
+                            sizes_dict[codename] = dict(sorted(sizes_dict[codename].items()))
                         except Exception as e:
                             print(f"Error processing image {image_path}: {e}")
             

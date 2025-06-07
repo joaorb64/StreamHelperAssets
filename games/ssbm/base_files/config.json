@@ -537,6 +537,122 @@
       "locale": {
         "fr": "Al\u00e9atoire"
       }
+    },
+    "Wolf": {
+      "smashgg_name": "Wolf",
+      "codename": "wolf",
+      "locale": {
+        "ja": "\u30a6\u30eb\u30d5",
+        "en_GB": "Wolf",
+        "en_AU": "Wolf",
+        "fr": "Wolf",
+        "fr_CA": "Wolf",
+        "es": "Wolf",
+        "es_LA": "Wolf",
+        "de": "Wolf",
+        "it": "Wolf",
+        "nl": "Wolf",
+        "ru": "\u0412\u0443\u043b\u044c\u0444",
+        "ko": "\uc6b8\ud504",
+        "zh_TW": "\u6c83\u723e\u592b",
+        "zh_CN": "\u6c83\u9c81\u592b"
+      }
+    },
+    "Lucas": {
+      "smashgg_name": "Lucas",
+      "codename": "lucas",
+      "locale": {
+        "ja": "\u30ea\u30e5\u30ab",
+        "en_GB": "Lucas",
+        "en_AU": "Lucas",
+        "fr": "Lucas",
+        "fr_CA": "Lucas",
+        "es": "Lucas",
+        "es_LA": "Lucas",
+        "de": "Lucas",
+        "it": "Lucas",
+        "nl": "Lucas",
+        "ru": "\u041b\u0443\u043a\u0430\u0441",
+        "ko": "\ub958\uce74",
+        "zh_TW": "\u7409\u52a0",
+        "zh_CN": "\u7409\u52a0"
+      }
+    },
+    "Sonic": {
+      "smashgg_name": "Sonic",
+      "codename": "sonic",
+      "locale": {
+        "ja": "\u30bd\u30cb\u30c3\u30af",
+        "en_GB": "Sonic",
+        "en_AU": "Sonic",
+        "fr": "Sonic",
+        "fr_CA": "Sonic",
+        "es": "Sonic",
+        "es_LA": "Sonic",
+        "de": "Sonic",
+        "it": "Sonic",
+        "nl": "Sonic",
+        "ru": "\u0421\u043e\u043d\u0438\u043a",
+        "ko": "\uc18c\ub2c9",
+        "zh_TW": "\u7d22\u5c3c\u514b",
+        "zh_CN": "\u7d22\u5c3c\u514b"
+      }
+    },
+    "Charizard": {
+      "smashgg_name": "Charizard",
+      "codename": "lizardon",
+      "locale": {
+        "fr": "Dracaufeu",
+        "ja": "\u30ea\u30b6\u30fc\u30c9\u30f3",
+        "de": "Glurak",
+        "ko": "\ub9ac\uc790\ubabd",
+        "zh_CN": "\u55b7\u706b\u9f99",
+        "zh_TW": "\u5674\u706b\u9f8d"
+      }
+    },
+    "Diddy Kong": {
+      "smashgg_name": "Diddy Kong",
+      "codename": "diddy",
+      "locale": {
+        "ja": "\u30c7\u30a3\u30c7\u30a3\u30fc\u30b3\u30f3\u30b0",
+        "en_GB": "Diddy Kong",
+        "en_AU": "Diddy Kong",
+        "fr": "Diddy Kong",
+        "fr_CA": "Diddy Kong",
+        "es": "Diddy Kong",
+        "es_LA": "Diddy Kong",
+        "de": "Diddy Kong",
+        "it": "Diddy Kong",
+        "nl": "Diddy Kong",
+        "ru": "\u0414\u0438\u0434\u0434\u0438 \u041a\u043e\u043d\u0433",
+        "ko": "\ub514\ub514\ucf69",
+        "zh_TW": "\u72c4\u72c4\u525b",
+        "zh_CN": "\u8fea\u8fea\u521a"
+      }
+    },
+    "King Dedede": {
+      "smashgg_name": "King Dedede",
+      "codename": "dedede",
+      "locale": {
+        "fr": "Roi DaDiDou",
+        "ja": "\u30c7\u30c7\u30c7",
+        "en_GB": "King Dedede",
+        "en_AU": "King Dedede",
+        "fr_CA": "Roi Dadidou",
+        "es": "Rey Dedede",
+        "es_LA": "Rey Dedede",
+        "de": "K\u00f6nig Dedede",
+        "it": "King Dedede",
+        "nl": "King Dedede",
+        "ru": "\u041a\u043e\u0440\u043e\u043b\u044c \u0414\u0438\u0434\u0438\u0434\u0438",
+        "ko": "\ub514\ub514\ub514 \ub300\uc655",
+        "zh_TW": "\u5e1d\u5e1d\u5e1d\u5927\u738b",
+        "zh_CN": "\u5e1d\u5e1d\u5e1d\u5927\u738b"
+      }
+    },
+    "Tails": {
+      "smashgg_name": "Tails",
+      "codename": "tails"
     }
   },
   "stage_to_codename": {

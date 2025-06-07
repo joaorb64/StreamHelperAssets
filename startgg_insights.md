@@ -636,6 +636,13 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (38/38)
 
 ## Super Smash Bros Melee
+- Character [Wolf]: Character name [Wolf] doesn't exist in StartGG
+- Character [Lucas]: Character name [Lucas] doesn't exist in StartGG
+- Character [Sonic]: Character name [Sonic] doesn't exist in StartGG
+- Character [Charizard]: Character name [Charizard] doesn't exist in StartGG
+- Character [Diddy Kong]: Character name [Diddy Kong] doesn't exist in StartGG
+- Character [King Dedede]: Character name [King Dedede] doesn't exist in StartGG
+- Character [Tails]: Character name [Tails] doesn't exist in StartGG
 - Character [Sheik / Zelda] not assigned in TSH!
 ### Coverage: (27/28)
 

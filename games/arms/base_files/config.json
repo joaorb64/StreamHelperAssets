@@ -157,5 +157,133 @@
     }
   },
   "version": "25.05.29.53856",
-  "description": "Base config to use this game."
+  "description": "Base config to use this game.",
+    "variant_to_codename": {
+    "Toaster": {
+      "codename": "ToasterV"
+    },
+    "Boomerang": {
+      "codename": "BoomerangV"
+    },
+    "Tribolt": {
+      "codename": "TriboltV"
+    },
+    "Sparky": {
+      "codename": "SparkyV"
+    },
+    "Popper": {
+      "codename": "PopperV"
+    },
+    "Slapamander": {
+      "codename": "SlapamanderV"
+    },
+    "Chakram": {
+      "codename": "ChakramV"
+    },
+    "Buff": {
+      "codename": "BuffV"
+    },
+    "Triblast": {
+      "codename": "TriblastV"
+    },
+    "Megaton": {
+      "codename": "MegatonV"
+    },
+    "Retorcher": {
+      "codename": "RetorcherV"
+    },
+    "Phoenix": {
+      "codename": "PhoenixV"
+    },
+    "Dragon": {
+      "codename": "DragonV"
+    },
+    "Megawatt": {
+      "codename": "MegawattV"
+    },
+    "Ramram": {
+      "codename": "RamramV"
+    },
+    "Revolver": {
+      "codename": "RevolverV"
+    },
+    "Whammer": {
+      "codename": "WhammerV"
+    },
+    "Homie": {
+      "codename": "HomieV"
+    },
+    "Chilla": {
+      "codename": "ChillaV"
+    },
+    "Parasol": {
+      "codename": "ParasolV"
+    },
+    "Thunderbird": {
+      "codename": "ThunderbirdV"
+    },
+    "Seekie": {
+      "codename": "SeekieV"
+    },
+    "Cracker": {
+      "codename": "CrackerV"
+    },
+    "Bubb": {
+      "codename": "BubbV"
+    },
+    "Slamamander": {
+      "codename": "SlamamanderV"
+    },
+    "Hydra": {
+      "codename": "HydraV"
+    },
+    "Coolerang": {
+      "codename": "CoolerangV"
+    },
+    "Blorb": {
+      "codename": "BlorbV"
+    },
+    "Ice Dragon": {
+      "codename": "IceDragonV"
+    },
+    "Guardian": {
+      "codename": "GuardianV"
+    },
+    "Nade": {
+      "codename": "NadeV"
+    },
+    "Roaster": {
+      "codename": "RoasterV"
+    },
+    "Kablammer": {
+      "codename": "KablammerV"
+    },
+    "Funchuk": {
+      "codename": "FunchukV"
+    },
+    "Biffler": {
+      "codename": "BifflerV"
+    },
+    "Clapback": {
+      "codename": "ClapbackV"
+    },
+    "Scorpio": {
+      "codename": "ScorpioV"
+    },
+    "Glusher": {
+      "codename": "GlusherV"
+    },
+    "Skully": {
+      "codename": "SkullyV"
+    },
+    "Lokjaw": {
+      "codename": "LokjawV"
+    },
+    "Parabola": {
+      "codename": "ParabolaV"
+    },
+    "Brrchuk": {
+      "codename": "BrrchukV"
+    }
+  }
 }

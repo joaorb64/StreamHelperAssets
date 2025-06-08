@@ -2,7 +2,7 @@ import requests
 import json
 from copy import deepcopy
 
-list_games_to_translate = ["ssbu", "ssb64", "ssbm", "ssbwiiu", "pplus", "sms", "msc", "msbl", "mkwii", "mk64", "msb", "mta"]
+list_games_to_translate = ["ssbu", "ssb64", "ssbm", "ssbwiiu", "pplus", "sms", "msc", "msbl", "mkwii", "mk64", "msb", "mta", "mkwld"]
 exclude_locale = ["en_US"]
 convert_locale = {"SC": "zh_CN", "TC": "zh_TW", "fr_FR": "fr",
                   "de_DE": "de", "it_IT": "it", "nl_NL": "nl", "ru_RU": "ru", "ko_KR": "ko", "ja_JP": "ja", "es_ES": "es"}

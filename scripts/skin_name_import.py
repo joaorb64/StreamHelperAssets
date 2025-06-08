@@ -3,7 +3,7 @@ from copy import deepcopy
 
 # Define the base directory
 base_dir = './games/'
-game = "roa2"
+game = "mkwld"
 config_path = f"{base_dir}{game}/base_files/config.json"
 csv_path = f"./scripts/csv/{game}.csv"
 

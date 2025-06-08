@@ -1,0 +1,1068 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Baby Daisy": {
+      "codename": "BabyDaisy",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Touring"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Sailor"
+        },
+        "4": {
+          "name": "Explorer"
+        }
+      },
+      "locale": {
+        "ja": "\u30d9\u30d3\u30a3\u30c7\u30a4\u30b8\u30fc",
+        "zh_CN": "\u83ca\u82b1\u516c\u4e3b\u5b9d\u8d1d",
+        "zh_TW": "\u9edb\u897f\u516c\u4e3b\u5bf6\u5bf6",
+        "ko": "\ubca0\uc774\ube44\ub370\uc774\uc9c0",
+        "fr": "B\u00e9b\u00e9 Daisy",
+        "es": "Beb\u00e9 Daisy",
+        "es_LA": "Beb\u00e9 Daisy",
+        "pt_PT": "Daisy Beb\u00e9",
+        "ru": "\u041c\u0430\u043b\u044b\u0448\u043a\u0430 \u0414\u0435\u0439\u0437\u0438",
+        "pt_BR": "Beb\u00ea Daisy"
+      }
+    },
+    "Baby Luigi": {
+      "codename": "BabyLuigi",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Work Crew"
+        }
+      },
+      "locale": {
+        "ja": "\u30d9\u30d3\u30a3\u30eb\u30a4\u30fc\u30b8",
+        "zh_CN": "\u8def\u6613\u5409\u5b9d\u5b9d",
+        "zh_TW": "\u8def\u6613\u5409\u5bf6\u5bf6",
+        "ko": "\ubca0\uc774\ube44\ub8e8\uc774\uc9c0",
+        "fr": "B\u00e9b\u00e9 Luigi",
+        "es": "Beb\u00e9 Luigi",
+        "es_LA": "Beb\u00e9 Luigi",
+        "pt_PT": "Luigi Beb\u00e9",
+        "ru": "\u041c\u0430\u043b\u044b\u0448 \u041b\u0443\u0438\u0434\u0436\u0438",
+        "pt_BR": "Beb\u00ea Luigi"
+      }
+    },
+    "Baby Mario": {
+      "codename": "BabyMario",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Swimwear"
+        },
+        "3": {
+          "name": "Work Crew"
+        }
+      },
+      "locale": {
+        "ja": "\u30d9\u30d3\u30a3\u30de\u30ea\u30aa",
+        "zh_CN": "\u9a6c\u529b\u6b27\u5b9d\u5b9d",
+        "zh_TW": "\u746a\u5229\u6b50\u5bf6\u5bf6",
+        "ko": "\ubca0\uc774\ube44 \ub9c8\ub9ac\uc624",
+        "fr": "B\u00e9b\u00e9 Mario",
+        "es": "Beb\u00e9 Mario",
+        "es_LA": "Beb\u00e9 Mario",
+        "pt_PT": "Mario Beb\u00e9",
+        "ru": "\u041c\u0430\u043b\u044b\u0448 \u041c\u0430\u0440\u0438\u043e",
+        "pt_BR": "Beb\u00ea Mario"
+      }
+    },
+    "Baby Peach": {
+      "codename": "BabyPeach",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Touring"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Sailor"
+        },
+        "4": {
+          "name": "Explorer"
+        }
+      },
+      "locale": {
+        "ja": "\u30d9\u30d3\u30a3\u30d4\u30fc\u30c1",
+        "zh_CN": "\u6843\u82b1\u516c\u4e3b\u5b9d\u8d1d",
+        "zh_TW": "\u78a7\u59ec\u516c\u4e3b\u5bf6\u5bf6",
+        "ko": "\ubca0\uc774\ube44\ud53c\uce58",
+        "fr": "B\u00e9b\u00e9 Peach",
+        "es": "Beb\u00e9 Peach",
+        "es_LA": "Beb\u00e9 Peach",
+        "pt_PT": "Peach Beb\u00e9",
+        "ru": "\u041c\u0430\u043b\u044b\u0448\u043a\u0430 \u041f\u0438\u0447",
+        "pt_BR": "Beb\u00ea Peach"
+      }
+    },
+    "Baby Rosalina": {
+      "codename": "BabyRosalina",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Touring"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Sailor"
+        },
+        "4": {
+          "name": "Explorer"
+        }
+      },
+      "locale": {
+        "ja": "\u30d9\u30d3\u30a3\u30ed\u30bc\u30c3\u30bf",
+        "zh_CN": "\u7f57\u838e\u5854\u5b9d\u8d1d",
+        "zh_TW": "\u7f85\u6f54\u5854\u5bf6\u5bf6",
+        "ko": "\ubca0\uc774\ube44\ub85c\uc824\ub9ac\ub098",
+        "fr": "B\u00e9b\u00e9 Harmonie",
+        "es": "Beb\u00e9 Estela",
+        "es_LA": "Beb\u00e9 Rosalina",
+        "pt_PT": "Rosalina Beb\u00e9",
+        "ru": "\u041c\u0430\u043b\u044b\u0448\u043a\u0430 \u0420\u043e\u0437\u0430\u043b\u0438\u043d\u0430",
+        "pt_BR": "Beb\u00ea Rosalina",
+        "it": "Baby Rosalinda"
+      }
+    },
+    "Birdo": {
+      "codename": "Birdo",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Vacation"
+        }
+      },
+      "locale": {
+        "ja": "\u30ad\u30e3\u30b5\u30ea\u30f3",
+        "zh_CN": "\u51ef\u745f\u7433",
+        "zh_TW": "\u51f1\u745f\u7433",
+        "ko": "\uce90\uc11c\ub9b0",
+        "it": "Strutzi",
+        "ru": "\u0411\u0438\u0440\u0434\u043e"
+      }
+    },
+    "Bowser": {
+      "codename": "Bowser",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Supercharged"
+        },
+        "3": {
+          "name": "Biker"
+        },
+        "4": {
+          "name": "All-Terrain"
+        }
+      },
+      "locale": {
+        "ja": "\u30af\u30c3\u30d1",
+        "en_GB": "Bowser",
+        "en_AU": "Bowser",
+        "fr": "Bowser",
+        "fr_CA": "Bowser",
+        "es": "Bowser",
+        "es_LA": "Bowser",
+        "de": "Bowser",
+        "it": "Bowser",
+        "nl": "Bowser",
+        "ru": "\u0411\u043e\u0443\u0437\u0435\u0440",
+        "ko": "\ucfe0\ud30c",
+        "zh_TW": "\u5eab\u5df4",
+        "zh_CN": "\u9177\u9738\u738b"
+      }
+    },
+    "Bowser Jr.": {
+      "codename": "BowserJr",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Biker Jr."
+        },
+        "3": {
+          "name": "Explorer"
+        }
+      },
+      "locale": {
+        "ja": "\u30af\u30c3\u30d1 Jr.",
+        "en_GB": "Bowser Jr.",
+        "en_AU": "Bowser Jr.",
+        "fr": "Bowser Jr.",
+        "fr_CA": "Bowser Jr.",
+        "es": "Bowsy",
+        "es_LA": "Bowser Jr.",
+        "de": "Bowser Jr.",
+        "it": "Bowser Junior",
+        "nl": "Bowser Jr.",
+        "ru": "\u0411\u043e\u0443\u0437\u0435\u0440-\u041c\u043b\u0430\u0434\u0448\u0438\u0439",
+        "ko": "\ucfe0\ud30c\uc8fc\ub2c8\uc5b4",
+        "zh_TW": "\u5eab\u5df4Jr.",
+        "zh_CN": "\u9177\u9738\u738bJr."
+      }
+    },
+    "Cataquack": {
+      "codename": "Cataquack",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Chargin' Chuck": {
+      "codename": "CharginChuck",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Cheep Cheep": {
+      "codename": "CheepCheep",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Coin Coffer": {
+      "codename": "CoinCoffer",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Conkdor": {
+      "codename": "Conkdor",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Cow": {
+      "codename": "Cow",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Daisy": {
+      "codename": "Daisy",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Touring"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Oasis"
+        },
+        "4": {
+          "name": "Swimwear"
+        },
+        "5": {
+          "name": "Aero"
+        },
+        "6": {
+          "name": "Vacation"
+        }
+      },
+      "locale": {
+        "ja": "\u30c7\u30a4\u30b8\u30fc",
+        "en_GB": "Daisy",
+        "en_AU": "Daisy",
+        "fr": "Daisy",
+        "fr_CA": "Daisy",
+        "es": "Daisy",
+        "es_LA": "Daisy",
+        "de": "Daisy",
+        "it": "Daisy",
+        "nl": "Daisy",
+        "ru": "\u0414\u0435\u0439\u0437\u0438",
+        "ko": "\ub370\uc774\uc9c0",
+        "zh_TW": "\u9edb\u897f\u516c\u4e3b",
+        "zh_CN": "\u83ca\u82b1\u516c\u4e3b"
+      }
+    },
+    "Dolphin": {
+      "codename": "Dolphin",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Donkey Kong": {
+      "codename": "DonkeyKong",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "All-Terrain"
+        }
+      },
+      "locale": {
+        "ja": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
+        "en_GB": "Donkey Kong",
+        "en_AU": "Donkey Kong",
+        "fr": "Donkey Kong",
+        "fr_CA": "Donkey Kong",
+        "es": "Donkey Kong",
+        "es_LA": "Donkey Kong",
+        "de": "Donkey Kong",
+        "it": "Donkey Kong",
+        "nl": "Donkey Kong",
+        "ru": "\u0414\u043e\u043d\u043a\u0438 \u041a\u043e\u043d\u0433",
+        "ko": "\ub3d9\ud0a4\ucf69",
+        "zh_TW": "\u68ee\u559c\u525b",
+        "zh_CN": "\u68ee\u559c\u521a"
+      }
+    },
+    "Dry Bones": {
+      "codename": "DryBones",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      },
+      "locale": {
+        "ja": "\u30ab\u30ed\u30f3",
+        "zh_CN": "\u788e\u788e\u9f9f",
+        "zh_TW": "\u788e\u788e\u9f9c",
+        "ko": "\uc640\ub974\ub974",
+        "fr": "Skelerex",
+        "fr_CA": "Skelex",
+        "de": "Knochentrocken",
+        "it": "Tartosso",
+        "es": "Huesitos",
+        "es_LA": "Huesitos",
+        "pt_PT": "Quebra-ossos",
+        "ru": "\u041a\u0443\u043f\u0430-\u0441\u043a\u0435\u043b\u0435\u0442",
+        "pt_BR": "Caveirinha"
+      }
+    },
+    "Fish Bone": {
+      "codename": "FishBone",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Goomba": {
+      "codename": "Goomba",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Hammer Bro": {
+      "codename": "HammerBro",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "King Boo": {
+      "codename": "KingBoo",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Aristocrat"
+        },
+        "3": {
+          "name": "Pirate"
+        }
+      },
+      "locale": {
+        "ja": "\u30ad\u30f3\u30b0\u30c6\u30ec\u30b5",
+        "zh_CN": "\u5bb3\u7f9e\u5e7d\u7075\u738b",
+        "zh_TW": "\u5bb3\u7f9e\u5e7d\u9748\u738b",
+        "ko": "\ud0b9\ubd80\ub044",
+        "fr": "Roi Boo",
+        "de": "K\u00f6nig Buu Huu",
+        "it": "Re Boo",
+        "es": "Rey Boo",
+        "es_LA": "Rey Boo",
+        "pt_PT": "Rei Bu",
+        "ru": "\u0411\u0443-\u043a\u043e\u0440\u043e\u043b\u044c"
+      }
+    },
+    "Koopa Troopa": {
+      "codename": "KoopaTroopa",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Runner"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Sailor"
+        },
+        "4": {
+          "name": "All-Terrain"
+        },
+        "5": {
+          "name": "Work Crew"
+        }
+      },
+      "locale": {
+        "ja": "\u30ce\u30b3\u30ce\u30b3",
+        "zh_CN": "\u6162\u6162\u9f9f",
+        "zh_TW": "\u6162\u6162\u9f9c",
+        "ko": "\uc5c9\uae08\uc5c9\uae08",
+        "fr": "Koopa",
+        "de": "Koopa",
+        "it": "Koopa",
+        "ru": "\u041a\u0443\u043f\u0430-\u0442\u0440\u0443\u043f\u0430"
+      }
+    },
+    "Lakitu": {
+      "codename": "Lakitu",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pit Crew"
+        },
+        "2": {
+          "name": "Fisherman"
+        }
+      },
+      "locale": {
+        "ja": "\u30b8\u30e5\u30b2\u30e0",
+        "zh_CN": "\u7403\u76d6\u59c6",
+        "zh_TW": "\u7403\u84cb\u59c6",
+        "ko": "\uae40\uc218\ud55c\ubb34",
+        "fr_CA": "Lakitou",
+        "es_LA": "El Koopa de la Nube",
+        "ru": "\u041b\u0430\u043a\u0438\u0442\u0443"
+      }
+    },
+    "Luigi": {
+      "codename": "Luigi",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Touring"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Mechanic"
+        },
+        "4": {
+          "name": "Oasis"
+        },
+        "5": {
+          "name": "Farmer"
+        },
+        "6": {
+          "name": "Happi"
+        },
+        "7": {
+          "name": "All-Terrain"
+        },
+        "8": {
+          "name": "Gondolier"
+        }
+      },
+      "locale": {
+        "ja": "\u30eb\u30a4\u30fc\u30b8",
+        "en_GB": "Luigi",
+        "en_AU": "Luigi",
+        "fr": "Luigi",
+        "fr_CA": "Luigi",
+        "es": "Luigi",
+        "es_LA": "Luigi",
+        "de": "Luigi",
+        "it": "Luigi",
+        "nl": "Luigi",
+        "ru": "\u041b\u0443\u0438\u0434\u0436\u0438",
+        "ko": "\ub8e8\uc774\uc9c0",
+        "zh_TW": "\u8def\u6613\u5409",
+        "zh_CN": "\u8def\u6613\u5409"
+      }
+    },
+    "Mario": {
+      "codename": "Mario",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Touring"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Mechanic"
+        },
+        "4": {
+          "name": "Dune Rider"
+        },
+        "5": {
+          "name": "Cowboy"
+        },
+        "6": {
+          "name": "Sightseeing"
+        },
+        "7": {
+          "name": "Aviator"
+        },
+        "8": {
+          "name": "Happi"
+        },
+        "9": {
+          "name": "All-Terrain"
+        }
+      },
+      "locale": {
+        "ja": "\u30de\u30ea\u30aa",
+        "en_GB": "Mario",
+        "en_AU": "Mario",
+        "fr": "Mario",
+        "fr_CA": "Mario",
+        "es": "Mario",
+        "es_LA": "Mario",
+        "de": "Mario",
+        "it": "Mario",
+        "nl": "Mario",
+        "ru": "\u041c\u0430\u0440\u0438\u043e",
+        "ko": "\ub9c8\ub9ac\uc624",
+        "zh_TW": "\u746a\u5229\u6b50",
+        "zh_CN": "\u9a6c\u529b\u6b27"
+      }
+    },
+    "Monty Mole": {
+      "codename": "MontyMole",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Nabbit": {
+      "codename": "Nabbit",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Para-Biddybud": {
+      "codename": "ParaBiddybud",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Pauline": {
+      "codename": "Pauline",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Aero"
+        }
+      },
+      "locale": {
+        "ja": "\u30dd\u30ea\u30fc\u30f3",
+        "zh_CN": "\u5b9d\u7433",
+        "zh_TW": "\u6ce2\u7433",
+        "ko": "\ud3f4\ub9b0",
+        "ru": "\u041f\u043e\u043b\u0438\u043d\u0430"
+      }
+    },
+    "Peach": {
+      "codename": "Peach",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Touring"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Farmer"
+        },
+        "4": {
+          "name": "Sightseeing"
+        },
+        "5": {
+          "name": "Aviator"
+        },
+        "6": {
+          "name": "Yukata"
+        },
+        "7": {
+          "name": "Aero"
+        },
+        "8": {
+          "name": "Vacation"
+        }
+      },
+      "locale": {
+        "ja": "\u30d4\u30fc\u30c1",
+        "en_GB": "Peach",
+        "en_AU": "Peach",
+        "fr": "Peach",
+        "fr_CA": "Peach",
+        "es": "Peach",
+        "es_LA": "Peach",
+        "de": "Peach",
+        "it": "Peach",
+        "nl": "Peach",
+        "ru": "\u041f\u0438\u0447",
+        "ko": "\ud53c\uce58\uacf5\uc8fc",
+        "zh_TW": "\u78a7\u59ec\u516c\u4e3b",
+        "zh_CN": "\u6843\u82b1\u516c\u4e3b"
+      }
+    },
+    "Peepa": {
+      "codename": "Peepa",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Penguin": {
+      "codename": "Penguin",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Pianta": {
+      "codename": "Pianta",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Piranha Plant": {
+      "codename": "PiranhaPlant",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      },
+      "locale": {
+        "ja": "\u30d1\u30c3\u30af\u30f3\u30d5\u30e9\u30ef\u30fc",
+        "en_GB": "Piranha Plant",
+        "en_AU": "Piranha Plant",
+        "fr": "Plante Piranha",
+        "fr_CA": "Fleur Piranha",
+        "es": "Planta Pira\u00f1a",
+        "es_LA": "Planta Pira\u00f1a",
+        "de": "Piranha-Pflanze",
+        "it": "Pianta Piranha",
+        "nl": "Piranha Plant",
+        "ru": "\u0420\u0430\u0441\u0442\u0435\u043d\u0438\u0435-\u041f\u0438\u0440\u0430\u043d\u044c\u044f",
+        "ko": "\ubed0\ub054\ud50c\ub77c\uc6cc",
+        "zh_TW": "\u541e\u98df\u82b1",
+        "zh_CN": "\u541e\u98df\u82b1"
+      }
+    },
+    "Pokey": {
+      "codename": "Pokey",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Rocky Wrench": {
+      "codename": "RockyWrench",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Rosalina": {
+      "codename": "Rosalina",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Touring"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Aurora"
+        },
+        "4": {
+          "name": "Aero"
+        }
+      },
+      "locale": {
+        "fr": "Harmonie",
+        "fr_CA": "Rosalina",
+        "it": "Rosalinda",
+        "ja": "\u30ed\u30bc\u30c3\u30bf",
+        "zh_CN": "\u7f57\u838e\u5854",
+        "zh_TW": "\u7f85\u6f54\u5854",
+        "ko": "\ub85c\uc824\ub9ac\ub098",
+        "es": "Estela",
+        "es_LA": "Rosalina",
+        "ru": "\u0420\u043e\u0437\u0430\u043b\u0438\u043d\u0430"
+      }
+    },
+    "Shy Guy": {
+      "codename": "ShyGuy",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Racer"
+        },
+        "2": {
+          "name": "Slope Styler"
+        }
+      },
+      "locale": {
+        "ja": "\u30d8\u30a4\u30db\u30fc",
+        "zh_CN": "\u563f\u5475",
+        "zh_TW": "\u563f\u5475",
+        "ko": "\ud5e4\uc774\ud638",
+        "fr": "Maskass",
+        "fr_CA": "Maskache",
+        "it": "Tipo Timido",
+        "pt_PT": "Masquito",
+        "ru": "\u0421\u043a\u0440\u043e\u043c\u043d\u044f\u0433\u0430"
+      }
+    },
+    "Sidestepper": {
+      "codename": "Sidestepper",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Snowman": {
+      "codename": "Snowman",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Spike": {
+      "codename": "Spike",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      },
+      "locale": {
+        "ja": "\u30ac\u30dc\u30f3",
+        "zh_CN": "\u52a0\u90a6",
+        "zh_TW": "\u52a0\u90a6",
+        "ko": "\uac00\ubd09",
+        "it": "Spunzo",
+        "pt_PT": "Espig\u00e3o",
+        "es_LA": "Escupicos",
+        "ru": "\u0421\u043f\u0430\u0439\u043a"
+      }
+    },
+    "Stingby": {
+      "codename": "Stingby",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Swoop": {
+      "codename": "Swoop",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Toad": {
+      "codename": "Toad",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Engineer"
+        },
+        "3": {
+          "name": "Burger Bud"
+        },
+        "4": {
+          "name": "Explorer"
+        }
+      },
+      "locale": {
+        "ja": "\u30ad\u30ce\u30d4\u30aa",
+        "zh_CN": "\u5947\u8bfa\u6bd4\u5965",
+        "zh_TW": "\u5947\u8afe\u6bd4\u5967",
+        "ko": "\ud0a4\ub178\ud53c\uc624",
+        "ru": "\u0422\u043e\u0430\u0434"
+      }
+    },
+    "Toadette": {
+      "codename": "Toadette",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Conductor"
+        },
+        "3": {
+          "name": "Soft Server"
+        },
+        "4": {
+          "name": "Explorer"
+        }
+      },
+      "locale": {
+        "ja": "\u30ad\u30ce\u30d4\u30b3",
+        "zh_CN": "\u5947\u8bfa\u6bd4\u73c2",
+        "zh_TW": "\u5947\u8afe\u6bd4\u73c2",
+        "ko": "\ud0a4\ub178\ud53c\ucf54",
+        "ru": "\u0422\u043e\u0430\u0434\u0435\u0442\u0442\u0430"
+      }
+    },
+    "Waluigi": {
+      "codename": "Waluigi",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Wampire"
+        },
+        "3": {
+          "name": "Mariachi"
+        },
+        "4": {
+          "name": "Biker"
+        },
+        "5": {
+          "name": "Road Ruffian"
+        }
+      },
+      "locale": {
+        "ja": "\u30ef\u30eb\u30a4\u30fc\u30b8",
+        "zh_CN": "\u74e6\u8def\u6613\u5409",
+        "zh_TW": "\u74e6\u8def\u6613\u5409",
+        "ko": "\uc640\ub8e8\uc774\uc9c0",
+        "ru": "\u0412\u0430\u043b\u0443\u0438\u0434\u0436\u0438"
+      }
+    },
+    "Wario": {
+      "codename": "Wario",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Pro Racer"
+        },
+        "2": {
+          "name": "Oasis"
+        },
+        "3": {
+          "name": "Wicked Wasp"
+        },
+        "4": {
+          "name": "Biker"
+        },
+        "5": {
+          "name": "Pirate"
+        },
+        "6": {
+          "name": "Road Ruffian"
+        },
+        "7": {
+          "name": "Work Crew"
+        }
+      },
+      "locale": {
+        "ja": "\u30ef\u30ea\u30aa",
+        "en_GB": "Wario",
+        "en_AU": "Wario",
+        "fr": "Wario",
+        "fr_CA": "Wario",
+        "es": "Wario",
+        "es_LA": "Wario",
+        "de": "Wario",
+        "it": "Wario",
+        "nl": "Wario",
+        "ru": "\u0412\u0430\u0440\u0438\u043e",
+        "ko": "\uc640\ub9ac\uc624",
+        "zh_TW": "\u74e6\u5229\u6b50",
+        "zh_CN": "\u74e6\u529b\u6b27"
+      }
+    },
+    "Wiggler": {
+      "codename": "Wiggler",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      },
+      "locale": {
+        "ja": "\u30cf\u30ca\u30c1\u30e3\u30f3",
+        "zh_CN": "\u82b1\u6bdb\u6bdb",
+        "zh_TW": "\u82b1\u6bdb\u6bdb",
+        "ko": "\uaf43\ucda9\uc774",
+        "ru": "\u0415\u0433\u043e\u0437\u0430",
+        "es": "Floruga",
+        "pt_BR": "Wiggler",
+        "pt_PT": "Lagartola",
+        "it": "Torcibruco"
+      }
+    },
+    "Yoshi": {
+      "codename": "Yoshi",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Touring"
+        },
+        "2": {
+          "name": "Pro Racer"
+        },
+        "3": {
+          "name": "Aristocrat"
+        },
+        "4": {
+          "name": "Soft Server"
+        },
+        "5": {
+          "name": "Biker"
+        },
+        "6": {
+          "name": "Swimwear"
+        },
+        "7": {
+          "name": "Matsuri"
+        },
+        "8": {
+          "name": "Food Slinger"
+        }
+      },
+      "locale": {
+        "ja": "\u30e8\u30c3\u30b7\u30fc",
+        "en_GB": "Yoshi",
+        "en_AU": "Yoshi",
+        "fr": "Yoshi",
+        "fr_CA": "Yoshi",
+        "es": "Yoshi",
+        "es_LA": "Yoshi",
+        "de": "Yoshi",
+        "it": "Yoshi",
+        "nl": "Yoshi",
+        "ru": "\u0419\u043e\u0448\u0438",
+        "ko": "\uc694\uc2dc",
+        "zh_TW": "\u8000\u897f",
+        "zh_CN": "\u8000\u897f"
+      }
+    }
+  },
+  "credits": "Placeholder portraits ripped from https://www.mariowiki.com/Mario_Kart_World",
+  "description": "Base config to use this game.",
+  "name": "Mario Kart World",
+  "smashgg_game_id": 102537,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

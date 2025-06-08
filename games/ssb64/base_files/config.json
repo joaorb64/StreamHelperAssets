@@ -610,7 +610,23 @@
     },
     "Banjo & Kazooie": {
       "smashgg_name": "Banjo & Kazooie",
-      "codename": "banjo"
+      "codename": "banjo",
+      "locale": {
+        "ja": "\u30d0\u30f3\u30b8\u30e7\u30fc&\u30ab\u30ba\u30fc\u30a4",
+        "en_GB": "Banjo & Kazooie",
+        "en_AU": "Banjo & Kazooie",
+        "fr": "Banjo & Kazooie",
+        "fr_CA": "Banjo & Kazooie",
+        "es": "Banjo Y Kazooie",
+        "es_LA": "Banjo Y Kazooie",
+        "de": "Banjo Und Kazooie",
+        "it": "Banjo E Kazooie",
+        "nl": "Banjo En Kazooie",
+        "ru": "\u0411\u0430\u043d\u0434\u0436\u043e \u0418 \u041a\u0430\u0437\u0443\u0438",
+        "ko": "\ubc18\uc870 & \uce74\uc8fc\uc774",
+        "zh_TW": "\u963f\u90a6\uff06\u963f\u5361",
+        "zh_CN": "\u963f\u90a6\uff06\u963f\u5361"
+      }
     },
     "Ebisumaru": {
       "smashgg_name": "Ebisumaru",

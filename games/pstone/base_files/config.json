@@ -1,0 +1,56 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Accel": {
+      "codename": "Accel"
+    },
+    "Ayame": {
+      "codename": "Ayame"
+    },
+    "Edward Falcon": {
+      "codename": "EdwardFalcon"
+    },
+    "Final Valgas": {
+      "codename": "FinalValgas"
+    },
+    "Galuda": {
+      "codename": "Galuda"
+    },
+    "Gourmand": {
+      "codename": "Gourmand"
+    },
+    "Gunrock": {
+      "codename": "Gunrock"
+    },
+    "Jack": {
+      "codename": "Jack"
+    },
+    "Julia": {
+      "codename": "Julia"
+    },
+    "Klaken": {
+      "codename": "Kraken"
+    },
+    "Pete": {
+      "codename": "Pete"
+    },
+    "Rouge": {
+      "codename": "Rouge"
+    },
+    "Ryoma": {
+      "codename": "Ryoma"
+    },
+    "Valgas": {
+      "codename": "Valgas"
+    },
+    "Wang-Tang": {
+      "codename": "WangTang"
+    }
+  },
+  "credits": "Icons ripped from the Power Stone Collection",
+  "description": "Base config to use this game.",
+  "name": "Power Stone",
+  "smashgg_game_id": 7029,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -300,6 +300,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Mario Kart Wii
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Mario Kart World
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Mortal Kombat XL
 ### Coverage: (33/33)
 

@@ -1,0 +1,32 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Atom Eve": {
+      "codename": "AtomEve"
+    },
+    "Bulletproof": {
+      "codename": "Bulletproof"
+    },
+    "Invincible": {
+      "codename": "Invincible"
+    },
+    "Lucan": {
+      "codename": "Lucan"
+    },
+    "Omni-Man": {
+      "codename": "OmniMan"
+    },
+    "Rex Splode": {
+      "codename": "RexSplode"
+    },
+    "Thula": {
+      "codename": "Thula"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Invincible VS",
+  "smashgg_game_id": null,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -163,6 +163,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Idol Showdown: Next Fes
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+
 ## Iron Saga VS
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -422,6 +423,12 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Primal Rage
+Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Power Stone
+Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Power Stone 2
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Plasma Sword: Nightmare of Bilstein

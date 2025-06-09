@@ -1,0 +1,43 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Ripped from https://invinciblevs.com/",
+  "version": "25.06.06.78545",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "eyesights": {
+    "AtomEve": {
+      "0": {
+        "x": 530,
+        "y": 115
+      }
+    },
+    "Bulletproof": {
+      "0": {
+        "x": 438,
+        "y": 116
+      }
+    },
+    "Invincible": {
+      "0": {
+        "x": 500,
+        "y": 123
+      }
+    },
+    "Thula": {
+      "0": {
+        "x": 385,
+        "y": 144
+      }
+    }
+  }
+}

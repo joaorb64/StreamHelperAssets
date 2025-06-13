@@ -552,9 +552,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (20/20)
 
 ## Street Fighter 6
-- Character [Elena]: Character name [Elena] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (25/26)
+### Coverage: (26/27)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -689,9 +688,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Fahkumram]: Character name [Fahkumram] doesn't exist in StartGG
 - Character [Armor King]: Character name [Armor King] doesn't exist in StartGG
-### Coverage: (38/38)
+### Coverage: (39/39)
 
 ## Them's Fightin' Herds
 - Character [Texas]: Character name [Texas] doesn't exist in StartGG

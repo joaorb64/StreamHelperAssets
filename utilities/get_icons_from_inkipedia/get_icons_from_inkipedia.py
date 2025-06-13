@@ -45,7 +45,7 @@ def robust_request(link, timeout=30, recursion=30):
 def generate_main_config_skeleton():
     description = "Base config to use this game."
     credits = ""
-    version = "8.0"
+    version = "10.0"
 
     game_id = 36202
 
@@ -141,6 +141,9 @@ def generate_main_config_skeleton():
             },
             "Lemuria Hub": {
                 "codename": "hub"
+            },
+            "Urchin Underpass": {
+                "codename": "underpass"
             }
         },
         "version": version,

@@ -364,6 +364,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Ninza
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## New Super Mario Bros.
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## One Piece: Great Pirate Colosseum / Dragon Ball Z: Extreme Butoden
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -756,6 +759,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Waku Waku 7
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+
+## World Heroes Perfect
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Windjammers
 ### Coverage: (6/6)

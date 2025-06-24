@@ -1,0 +1,31 @@
+{
+  "name": "Renders",
+  "description": "Character renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "25.05.29.53856",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ],
+  "eyesights": {
+    "Luigi": {
+      "0": {
+        "x": 714,
+        "y": 615
+      }
+    },
+    "Mario": {
+      "0": {
+        "x": 749,
+        "y": 635
+      }
+    }
+  }
+}

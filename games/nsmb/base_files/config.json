@@ -1,0 +1,17 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Luigi": {
+      "codename": "Luigi"
+    },
+    "Mario": {
+      "codename": "Mario"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.\nDesigned for use with the 2 player Mario VS Luigi mode",
+  "name": "New Super Mario Bros.",
+  "smashgg_game_id": 4896,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -641,6 +641,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Ebisumaru]: Character name [Ebisumaru] doesn't exist in StartGG
 - Character [Metal Luigi]: Character name [Metal Luigi] doesn't exist in StartGG
 - Character [Dragon King]: Character name [Dragon King] doesn't exist in StartGG
+- Character [Crash]: Character name [Crash] doesn't exist in StartGG
+- Character [Dr. Luigi]: Character name [Dr. Luigi] doesn't exist in StartGG
+- Character [Peach]: Character name [Peach] doesn't exist in StartGG
+- Character [Roy]: Character name [Roy] doesn't exist in StartGG
+- Character [Lanky Kong]: Character name [Lanky Kong] doesn't exist in StartGG
 - Character [Random]: Character name [Random Character] doesn't exist in StartGG
 ### Coverage: (12/12)
 
@@ -691,85 +696,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 787, in urlopen
-    response = self._make_request(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 488, in _make_request
-    raise new_e
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 464, in _make_request
-    self._validate_conn(conn)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
-    conn.connect()
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connection.py", line 790, in connect
-    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connection.py", line 969, in _ssl_wrap_socket_and_match_hostname
-    ssl_sock = ssl_wrap_socket(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 480, in ssl_wrap_socket
-    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 524, in _ssl_wrap_socket_impl
-    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/ssl.py", line 501, in wrap_socket
-    return self.sslsocket_class._create(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/ssl.py", line 1074, in _create
-    self.do_handshake()
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/ssl.py", line 1343, in do_handshake
-    self._sslobj.do_handshake()
-ConnectionResetError: [Errno 104] Connection reset by peer
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/adapters.py", line 667, in send
-    resp = conn.urlopen(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 841, in urlopen
-    retries = retries.increment(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/util/retry.py", line 474, in increment
-    raise reraise(type(error), error, _stacktrace)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/util/util.py", line 38, in reraise
-    raise value.with_traceback(tb)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 787, in urlopen
-    response = self._make_request(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 488, in _make_request
-    raise new_e
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 464, in _make_request
-    self._validate_conn(conn)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
-    conn.connect()
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connection.py", line 790, in connect
-    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connection.py", line 969, in _ssl_wrap_socket_and_match_hostname
-    ssl_sock = ssl_wrap_socket(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 480, in ssl_wrap_socket
-    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 524, in _ssl_wrap_socket_impl
-    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/ssl.py", line 501, in wrap_socket
-    return self.sslsocket_class._create(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/ssl.py", line 1074, in _create
-    self.do_handshake()
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/ssl.py", line 1343, in do_handshake
-    self._sslobj.do_handshake()
-urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
-    game_data = get_game_data(
-  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 18, in get_game_data
-    data = requests.post(
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/api.py", line 115, in post
-    return request("post", url, data=data, json=json, **kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/api.py", line 59, in request
-    return session.request(method=method, url=url, **kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
-    resp = self.send(prep, **send_kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
-    r = adapter.send(request, **kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/adapters.py", line 682, in send
-    raise ConnectionError(err, request=request)
-requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-
+- Character [Armor King]: Character name [Armor King] doesn't exist in StartGG
+### Coverage: (39/39)
 
 ## Them's Fightin' Herds
 - Character [Texas]: Character name [Texas] doesn't exist in StartGG

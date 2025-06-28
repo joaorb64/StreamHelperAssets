@@ -1,0 +1,49 @@
+{
+  "name": "Renders",
+  "description": "Character renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "25.06.24.79477",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ],
+  "eyesights": {
+    "Luigi": {
+      "0": {
+        "x": 714,
+        "y": 615
+      }
+    },
+    "Mario": {
+      "0": {
+        "x": 749,
+        "y": 635
+      }
+    }
+  },
+  "image_sizes": {
+    "Luigi": {
+      "0": {
+        "x": 1825,
+        "y": 2554
+      }
+    },
+    "Mario": {
+      "0": {
+        "x": 1624,
+        "y": 2299
+      }
+    }
+  },
+  "average_size": {
+    "x": 1724.5,
+    "y": 2426.5
+  }
+}

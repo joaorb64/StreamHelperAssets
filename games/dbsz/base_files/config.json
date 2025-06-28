@@ -329,7 +329,11 @@
     },
     "Goku (Daima-Mini)": {
       "codename": "GokuMini",
-      "skin_name": {}
+      "skin_name": {
+        "1": {
+          "name": "Super Saiyan"
+        }
+      }
     },
     "Goku (DB-Teen)": {
       "codename": "GokuTeen",
@@ -666,7 +670,17 @@
     },
     "Vegeta (Daima-Mini)": {
       "codename": "VegetaMini",
-      "skin_name": {}
+      "skin_name": {
+        "1": {
+          "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Super Saiyan 2"
+        },
+        "3": {
+          "name": "Super Saiyan 3"
+        }
+      }
     },
     "Vegeta (GT)": {
       "codename": "VegetaGT-4",
@@ -769,6 +783,15 @@
           "name": "Super Zarbon"
         }
       }
+    },
+    "Panzy": {
+      "codename": "Panzy"
+    },
+    "Majin Kuu": {
+      "codename": "Kuu"
+    },
+    "Shallot": {
+      "codename": "Shallot"
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/",
@@ -776,5 +799,5 @@
   "name": "Dragon Ball: Sparking! Zero",
   "smashgg_game_id": 73208,
   "stage_to_codename": {},
-  "version": "25.05.29.53856"
+  "version": "25.06.27.72726"
 }

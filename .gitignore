@@ -40,3 +40,5 @@ utilities/download_mk_costumes/mk1/*
 scripts/csv/*.csv
 utilities/fix_alpha/*/*.png
 .vscode/*
+utilities/rename_mvci_portraits/source/*
+utilities/rename_mvci_portraits/out/*

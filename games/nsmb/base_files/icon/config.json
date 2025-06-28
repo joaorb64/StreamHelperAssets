@@ -1,0 +1,26 @@
+{
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "icon"
+  ],
+  "version": "25.06.24.79477",
+  "image_sizes": {
+    "Luigi": {
+      "0": {
+        "x": 20,
+        "y": 20
+      }
+    },
+    "Mario": {
+      "0": {
+        "x": 20,
+        "y": 20
+      }
+    }
+  },
+  "average_size": {
+    "x": 20.0,
+    "y": 20.0
+  }
+}

@@ -364,6 +364,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Ninza
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## New Super Mario Bros.
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## One Piece: Great Pirate Colosseum / Dragon Ball Z: Extreme Butoden
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -638,6 +641,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Ebisumaru]: Character name [Ebisumaru] doesn't exist in StartGG
 - Character [Metal Luigi]: Character name [Metal Luigi] doesn't exist in StartGG
 - Character [Dragon King]: Character name [Dragon King] doesn't exist in StartGG
+- Character [Crash]: Character name [Crash] doesn't exist in StartGG
+- Character [Dr. Luigi]: Character name [Dr. Luigi] doesn't exist in StartGG
+- Character [Peach]: Character name [Peach] doesn't exist in StartGG
+- Character [Roy]: Character name [Roy] doesn't exist in StartGG
+- Character [Lanky Kong]: Character name [Lanky Kong] doesn't exist in StartGG
 - Character [Random]: Character name [Random Character] doesn't exist in StartGG
 ### Coverage: (12/12)
 
@@ -756,6 +764,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Waku Waku 7
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+
+## World Heroes Perfect
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Windjammers
 ### Coverage: (6/6)

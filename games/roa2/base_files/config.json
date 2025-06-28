@@ -2127,7 +2127,7 @@
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "25.06.18.64821",
+  "version": "25.06.27.72726",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest"
@@ -2158,6 +2158,9 @@
     },
     "Hyperborean Harbor": {
       "codename": "HyperboreanHarbor"
+    },
+    "Crystal Oasis": {
+      "codename": "CrystalOasis"
     }
   }
 }

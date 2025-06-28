@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Tough_Love_Arena)\n@MathiasWolfbrok for cropping",
-  "version": "25.05.29.53857",
+  "version": "25.06.24.50344",
   "uncropped_edge": [
     "u",
     "d",
@@ -17,6 +17,44 @@
   "average_size": {
     "x": 960.0,
     "y": 1080.0
+  },
+  "eyesights": {
+    "Beef": {
+      "0": {
+        "x": 487,
+        "y": 332
+      }
+    },
+    "Garlic": {
+      "0": {
+        "x": 628,
+        "y": 202
+      }
+    },
+    "Noodle": {
+      "0": {
+        "x": 431,
+        "y": 250
+      }
+    },
+    "Onion": {
+      "0": {
+        "x": 610,
+        "y": 280
+      }
+    },
+    "Pork": {
+      "0": {
+        "x": 394,
+        "y": 292
+      }
+    },
+    "Rice": {
+      "0": {
+        "x": 582,
+        "y": 220
+      }
+    }
   },
   "image_sizes": {
     "Beef": {

@@ -640,6 +640,26 @@
       "smashgg_name": "Dragon King",
       "codename": "dragon_king"
     },
+    "Crash": {
+      "smashgg_name": "Crash",
+      "codename": "crash"
+    },
+    "Dr. Luigi": {
+      "smashgg_name": "Dr. Luigi",
+      "codename": "dr_luigi"
+    },
+    "Peach": {
+      "smashgg_name": "Peach",
+      "codename": "peach"
+    },
+    "Roy": {
+      "smashgg_name": "Roy",
+      "codename": "roy"
+    },
+    "Lanky Kong": {
+      "smashgg_name": "Lanky Kong",
+      "codename": "lanky"
+    },
     "Random": {
       "smashgg_name": "Random Character",
       "codename": "random",
@@ -1019,7 +1039,7 @@
       "codename": "gym_leader_castle"
     }
   },
-  "version": "25.06.09.1154",
+  "version": "25.06.26.42876",
   "description": "Base config to use this game.",
   "alternate_versions": [
     {

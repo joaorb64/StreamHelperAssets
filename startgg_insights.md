@@ -515,8 +515,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
-- Character [Absa]: Character name [Absa] doesn't exist in StartGG
-### Coverage: (12/12)
+### Coverage: (13/13)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)

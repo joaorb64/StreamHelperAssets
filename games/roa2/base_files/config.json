@@ -199,6 +199,9 @@
         },
         "64": {
           "name": "Champion - Green"
+        },
+        "65": {
+          "name": "Default - Summer"
         }
       }
     },
@@ -406,6 +409,21 @@
         },
         "66": {
           "name": "Abyss - Midnight"
+        },
+        "67": {
+          "name": "Default - Summer"
+        },
+        "68": {
+          "name": "Pool Party"
+        },
+        "69": {
+          "name": "Pool Party - Red"
+        },
+        "70": {
+          "name": "Pool Party - Blue"
+        },
+        "71": {
+          "name": "Pool Party - Green"
         }
       }
     },
@@ -601,6 +619,9 @@
         },
         "62": {
           "name": "Parrot - Yellow"
+        },
+        "63": {
+          "name": "Default - Summer"
         }
       }
     },
@@ -778,6 +799,9 @@
         },
         "56": {
           "name": "Flavorburn - Green"
+        },
+        "57": {
+          "name": "Default - Summer"
         }
       }
     },
@@ -810,16 +834,16 @@
           "name": "Retro - Blue"
         },
         "8": {
-          "name": "Summer"
+          "name": "Pool Party"
         },
         "9": {
-          "name": "Summer - Red"
+          "name": "Pool Party - Red"
         },
         "10": {
-          "name": "Summer - Green"
+          "name": "Pool Party - Green"
         },
         "11": {
-          "name": "Summer - Blue"
+          "name": "Pool Party - Blue"
         },
         "12": {
           "name": "Default - Black"
@@ -988,6 +1012,12 @@
         },
         "67": {
           "name": "Cupid - Yellow"
+        },
+        "68": {
+          "name": "Default - Summer"
+        },
+        "69": {
+          "name": "Pool Party - Pink"
         }
       }
     },
@@ -1144,6 +1174,21 @@
         },
         "49": {
           "name": "Diner - Green"
+        },
+        "50": {
+          "name": "Default - Summer"
+        },
+        "51": {
+          "name": "Champion"
+        },
+        "52": {
+          "name": "Champion - Red"
+        },
+        "53": {
+          "name": "Champion - Blue"
+        },
+        "54": {
+          "name": "Champion - Green"
         }
       }
     },
@@ -1330,6 +1375,21 @@
         },
         "59": {
           "name": "Baseball - Get On My Level"
+        },
+        "60": {
+          "name": "Default - Summer"
+        },
+        "61": {
+          "name": "Pool Party"
+        },
+        "62": {
+          "name": "Pool Party - Red"
+        },
+        "63": {
+          "name": "Pool Party - Blue"
+        },
+        "64": {
+          "name": "Pool Party - Green"
         }
       }
     },
@@ -1519,6 +1579,21 @@
         },
         "60": {
           "name": "Chef - Black"
+        },
+        "61": {
+          "name": "Default - Summer"
+        },
+        "62": {
+          "name": "Pool Party"
+        },
+        "63": {
+          "name": "Pool Party - Red"
+        },
+        "64": {
+          "name": "Pool Party - Blue"
+        },
+        "65": {
+          "name": "Pool Party - Green"
         }
       }
     },
@@ -1717,6 +1792,9 @@
         },
         "60": {
           "name": "Root Beer Float - Diet"
+        },
+        "61": {
+          "name": "Default - Summer"
         }
       }
     },
@@ -1873,6 +1951,9 @@
         },
         "49": {
           "name": "Smoke Clan - Green"
+        },
+        "50": {
+          "name": "Default - Summer"
         }
       }
     },
@@ -1990,6 +2071,9 @@
         },
         "36": {
           "name": "Sunbear - Purple"
+        },
+        "37": {
+          "name": "Default - Summer"
         }
       }
     },
@@ -2110,6 +2194,9 @@
         },
         "37": {
           "name": "Baker - Green"
+        },
+        "38": {
+          "name": "Default - Summer"
         }
       }
     },
@@ -2119,6 +2206,81 @@
       "skin_name": {
         "0": {
           "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Blue"
+        },
+        "3": {
+          "name": "Default - Green"
+        },
+        "4": {
+          "name": "Default - Mint"
+        },
+        "5": {
+          "name": "Default - Purple"
+        },
+        "6": {
+          "name": "Default - Yellow"
+        },
+        "7": {
+          "name": "Default - Black"
+        },
+        "8": {
+          "name": "Default - Summer"
+        },
+        "9": {
+          "name": "Default - Abyssal"
+        },
+        "10": {
+          "name": "Gazelle"
+        },
+        "11": {
+          "name": "Gazelle - Red"
+        },
+        "12": {
+          "name": "Gazelle - Blue"
+        },
+        "13": {
+          "name": "Gazelle - Green"
+        },
+        "14": {
+          "name": "Abyss"
+        },
+        "15": {
+          "name": "Abyss - Red"
+        },
+        "16": {
+          "name": "Abyss - Blue"
+        },
+        "17": {
+          "name": "Abyss - Green"
+        },
+        "18": {
+          "name": "Boer"
+        },
+        "19": {
+          "name": "Boer - Red"
+        },
+        "20": {
+          "name": "Boer - Blue"
+        },
+        "21": {
+          "name": "Boer - Green"
+        },
+        "22": {
+          "name": "Pool Party"
+        },
+        "23": {
+          "name": "Pool Party - Red"
+        },
+        "24": {
+          "name": "Pool Party - Blue"
+        },
+        "25": {
+          "name": "Pool Party - Green"
         }
       }
     }

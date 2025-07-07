@@ -1,0 +1,361 @@
+.override .flagcountry .text,
+.override .flagstate .text {
+  flex-direction: column;
+  gap: 0;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+.override .name_twitter {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.override .p2 .name_twitter {
+  flex-direction: row-reverse;
+}
+
+
+.override .p1 .name_twitter .name .text {
+  justify-content: flex-start;
+}
+
+.override .p2 .name_twitter .name .text {
+  justify-content: flex-end;
+}
+
+.override .name_twitter .extra {
+  flex-direction: column;
+}
+
+.override .p1 .name_twitter .twitter .text {
+  justify-content: flex-end;
+}
+
+.override .p2 .name_twitter .twitter .text {
+  justify-content: flex-start;
+}
+
+.override .p1 .name_twitter .pronoun .text {
+  justify-content: flex-end;
+}
+
+.override .p2 .name_twitter .pronoun .text {
+  justify-content: flex-start;
+}
+
+
+.override .flag {
+  width: 28px;
+  height: 18px;
+}
+
+.override .sponsor_icon {
+  position: absolute;
+  right: 200px;
+  z-index: -999;
+  opacity: 0.6;
+}
+
+.override .p2 .sponsor_icon {
+  right: unset;
+  left: 200px;
+}
+
+.override .sponsor_icon > div > div {
+  width: 80px;
+  height: 80px;
+}
+
+.override .p1.container {
+  left: 154px;
+}
+
+
+
+
+
+.override .player.container {
+  top: 10px;
+  height: 48px;
+  width: 480px;
+  transform: skewX(35deg);
+  border-radius: calc(var(--border-radius) / 2);
+  padding: 0px 16px;
+}
+
+.override .p2.player.container > div:not(.score) {
+  transform: skewX(35deg);
+}
+
+.override .p1.player.container > div:not(.score) {
+  transform: skewX(-35deg);
+}
+
+.override .p1.container {
+  left: 248px;
+}
+
+.override .p2.container {
+  transform: skewX(-35deg);
+  right: 248px;
+}
+
+.override .chips {
+  top: 106px;
+  height: 32px;
+}
+
+.override.offline .chips {
+  width: 450px;
+}
+
+.override.online .chips {
+  width: 270px;
+  background: var(--bg-color);
+  border-radius: calc(var(--border-radius) / 4);
+}
+
+.override.online .p1.chips {
+  transform: skewX(35deg);
+}
+
+.override.online .p2.chips {
+  transform: skewX(-35deg);
+}
+
+.override .chip {
+  height: 32px;
+}
+
+.override.online .p1.chips {
+  left: 200px;
+  justify-content: left;
+}
+
+.override.offline .p1.chips {
+  left: 8px;
+  justify-content: left;
+}
+
+.override.online .p2.chips {
+  left: unset;
+  right: 200px;
+  justify-content: right;
+}
+
+.override.offline .p2.chips {
+  left: unset;
+  right: 8px;
+  justify-content: right;
+}
+
+.override.online .seed {
+  position: absolute;
+  top: 106px;
+}
+
+.override.online .p1 .seed {
+  left: -16px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.override.online .p2 .seed {
+  left: unset;
+  right: -16px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.override .chip .text:not(.text_empty) {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.override .chip .text {
+  background: none;
+  position: relative;
+}
+
+.override.offline .chip .text:not(.text_empty)::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(100% + 4px);
+  height: 100%;
+  background: var(--bg-color);
+  border-radius: calc(var(--border-radius) / 4);
+  transform: skewX(35deg);
+  content: " ";
+  z-index: -999;
+}
+
+.override.offline .p2 .chip .text:not(.text_empty)::before {
+  transform: skewX(-35deg);
+}
+
+.override .chip .text:not(.text_empty) {
+  font-size: 20px;
+  height: 100%;
+}
+
+.override.online .seed.chip .text:not(.text_empty) {
+  margin: 0;
+  border-radius: 0;
+  width: 140px;
+}
+
+.override.online .p1 .chip {
+  transform: skewX(-35deg);
+}
+
+.override.online .p2 .chip {
+  transform: skewX(35deg);
+}
+
+.override.online .p1 .seed.chip {
+  background: var(--bg-color);
+  border-radius: calc(var(--border-radius) / 4);
+  transform: skewX(35deg);
+}
+
+.override.online .p2 .seed.chip {
+  background: var(--bg-color);
+  border-radius: calc(var(--border-radius) / 4);
+  transform: skewX(-35deg);
+}
+
+.override.online .p1 .seed.chip .text {
+  transform: skewX(-35deg);
+}
+
+.override.online .p2 .seed.chip .text {
+  transform: skewX(35deg);
+}
+
+.override .name_twitter .name {
+  width: 100%;
+  font-size: 30px;
+}
+
+.override .p1 .name_twitter, .override .p1 .score > .text {
+  transform: skewX(-35deg);
+}
+
+.override .p2 .name_twitter, .override .p2 .score > .text {
+  transform: skewX(35deg);
+}
+
+.override .logo {
+  width: 80px;
+  height: 80px;
+  top: 924px;
+}
+
+.override .tournament_name {
+  height: unset;
+  font-size: 24px;
+}
+
+.override .info.container.top {
+  top: 8px;
+  height: 34px;
+  width: 290px;
+  font-size: 16px;
+  padding: 8px 16px;
+  border-radius: calc(var(--border-radius) / 2);
+  justify-content: center;
+  background: unset;
+  overflow: visible;
+  justify-content: center;
+  padding: 0 42px;
+  width: 470px;
+  top: 0;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  height: 28px;
+}
+
+.override .phase {
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.override .match {
+  font-size: 26px;
+  letter-spacing: 2px;
+}
+
+.override .info.container.bottom {
+  top: unset;
+  bottom: 0;
+  padding: 16px 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-radius: calc(var(--border-radius) / 2);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  top: unset;
+  bottom: 0;
+  width: 400px;
+  height: 64px;
+  background: unset;
+  overflow: visible;
+  padding: 0 42px;
+  justify-content: center;
+}
+
+.override .icon div:not(.text) {
+  height: 34px;
+  width: 34px;
+}
+
+.override .sponsor_icon {
+  position: absolute;
+  right: 90px;
+  z-index: -999;
+  opacity: 0.6;
+}
+
+.override .p2 .sponsor_icon {
+  right: unset;
+  left: 90px;
+}
+
+.override .sponsor_icon > div > div {
+  width: 100px;
+  height: 100px;
+}
+
+.override .score {
+  font-size: 34px;
+}
+
+.override .p1 .score {
+  margin-right: -16px;
+  margin-left: 16px;
+}
+
+.override .p2 .score {
+  margin-left: -16px;
+  margin-right: 16px;
+}
+
+.override .top_bg_1 {
+  transform: skewX(35deg);
+}
+
+.override .top_bg_2 {
+  transform: skewX(-35deg);
+}
+
+.override .bottom_bg_1 {
+  transform: skewX(35deg);
+}
+
+.override .bottom_bg_2 {
+  transform: skewX(-35deg);
+}

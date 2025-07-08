@@ -2292,37 +2292,88 @@
   "version": "25.06.27.72726",
   "stage_to_codename": {
     "Aetherian Forest": {
-      "codename": "AetherianForest"
+      "codename": "AetherianForest",
+      "locale": {
+        "fr": "Forêt Aethérienne"
+      }
+    },
+    "Forest Understory": {
+      "codename": "AetherianForest",
+      "locale": {
+        "fr": "Sous-Bois"
+      }
     },
     "Air Armada": {
-      "codename": "AirArmada"
+      "codename": "AirArmada",
+      "locale": {
+        "fr": "Armada Aérienne"
+      }
     },
     "Fire Capital": {
-      "codename": "FireCapital"
+      "codename": "FireCapital",
+      "locale": {
+        "fr": "Capitale du Feu"
+      }
     },
     "Hodojo": {
-      "codename": "Hodojo"
+      "codename": "Hodojo",
+      "locale": {
+        "fr": "Hodojo"
+      }
     },
     "Julesvale": {
-      "codename": "Julesvale"
+      "codename": "Julesvale",
+      "locale": {
+        "fr": "Julesvale"
+      }
     },
     "Rock Wall": {
-      "codename": "RockWall"
+      "codename": "RockWall",
+      "locale": {
+        "fr": "Mur Rocheux"
+      }
     },
     "Tempest Peak": {
-      "codename": "TempestPeak"
+      "codename": "TempestPeak",
+      "locale": {
+        "fr": "Pic de la Tempête"
+      }
+    },
+    "Stormswept Pillar": {
+      "codename": "TempestPeak",
+      "locale": {
+        "fr": "Pilier de la Tempête"
+      }
     },
     "Merchant Port": {
-      "codename": "MerchantPort"
+      "codename": "MerchantPort",
+      "locale": {
+        "fr": "Port Marchand"
+      }
     },
     "Godai Delta": {
-      "codename": "GodaiDelta"
+      "codename": "GodaiDelta",
+      "locale": {
+        "fr": "Delta de Godai"
+      }
     },
     "Hyperborean Harbor": {
-      "codename": "HyperboreanHarbor"
+      "codename": "HyperboreanHarbor",
+      "locale": {
+        "fr": "Port Hyperboréen"
+      }
     },
     "Crystal Oasis": {
-      "codename": "CrystalOasis"
+      "codename": "CrystalOasis",
+      "locale": {
+        "fr": "Oasis de Cristal"
+      }
+    },
+    "Training Room": {
+      "codename": "Training",
+      "locale": {
+        "fr": "Salle d'Entraînement"
+      }
     }
   }
 }

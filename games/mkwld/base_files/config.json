@@ -1063,7 +1063,7 @@
   "description": "Base config to use this game.",
   "name": "Mario Kart World",
   "smashgg_game_id": 102537,
-    "stage_to_codename": {
+  "stage_to_codename": {
     "Mario Bros. Circuit": {
       "codename": "MarioBrosCircuit"
     },
@@ -1155,5 +1155,5 @@
       "codename": "RainbowRoad"
     }
   },
-  "version": "25.06.13.67948"
+  "version": "25.07.08.66799"
 }

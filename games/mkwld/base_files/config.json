@@ -1063,6 +1063,97 @@
   "description": "Base config to use this game.",
   "name": "Mario Kart World",
   "smashgg_game_id": 102537,
-  "stage_to_codename": {},
+    "stage_to_codename": {
+    "Mario Bros. Circuit": {
+      "codename": "MarioBrosCircuit"
+    },
+    "Crown City": {
+      "codename": "CrownCity"
+    },
+    "Whistlestop Summit": {
+      "codename": "WhistlestopSummit"
+    },
+    "DK Spaceport": {
+      "codename": "DKSpaceport"
+    },
+    "Desert Hills": {
+      "codename": "DesertHills"
+    },
+    "Shy Guy Bazaar": {
+      "codename": "ShyGuyBazaar"
+    },
+    "Wario Stadium": {
+      "codename": "WarioStadium"
+    },
+    "Airship Fortress": {
+      "codename": "AirshipFortress"
+    },
+    "DK Pass": {
+      "codename": "DKPass"
+    },
+    "Starview Peak": {
+      "codename": "StarviewPeak"
+    },
+    "Sky-High Sundae": {
+      "codename": "SkyHighSundae"
+    },
+    "Wario Shipyard": {
+      "codename": "WarioShipyard"
+    },
+    "Koopa Troopa Beach": {
+      "codename": "KoopaTroopaBeach"
+    },
+    "Faraway Oasis": {
+      "codename": "FarawayOasis"
+    },
+    "Peach Stadium": {
+      "codename": "PeachStadium"
+    },
+    "Peach Beach": {
+      "codename": "PeachBeach"
+    },
+    "Salty Salty Speedway": {
+      "codename": "SaltySaltySpeedway"
+    },
+    "Dino Dino Jungle": {
+      "codename": "DinoDinoJungle"
+    },
+    "Great ? Block Ruins": {
+      "codename": "GreatBlockRuins"
+    },
+    "Cheep Cheep Falls": {
+      "codename": "CheepCheepFalls"
+    },
+    "Dandelion Depths": {
+      "codename": "DandelionDepths"
+    },
+    "Boo Cinema": {
+      "codename": "BooCinema"
+    },
+    "Dry Bones Burnout": {
+      "codename": "DryBonesBurnout"
+    },
+    "Moo Moo Meadows": {
+      "codename": "MooMooMeadows"
+    },
+    "Choco Mountain": {
+      "codename": "ChocoMountain"
+    },
+    "Toad's Factory": {
+      "codename": "ToadsFactory"
+    },
+    "Bowser's Castle": {
+      "codename": "BowsersCastle"
+    },
+    "Acorn Heights": {
+      "codename": "AcornHeights"
+    },
+    "Mario Circuit": {
+      "codename": "MarioCircuit"
+    },
+    "Rainbow Road": {
+      "codename": "RainbowRoad"
+    }
+  },
   "version": "25.06.13.67948"
 }

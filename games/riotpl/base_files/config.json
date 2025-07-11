@@ -2,25 +2,32 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Ahri": {
-      "codename": "Ahri"
+      "codename": "Ahri",
+      "smashgg_name": "Ahri"
     },
     "Darius": {
-      "codename": "Darius"
+      "codename": "Darius",
+      "smashgg_name": "Darius"
     },
     "Ekko": {
-      "codename": "Ekko"
+      "codename": "Ekko",
+      "smashgg_name": "Ekko"
     },
     "Yasuo": {
-      "codename": "Yasuo"
+      "codename": "Yasuo",
+      "smashgg_name": "Yasuo"
     },
     "Illaoi": {
-      "codename": "Illaoi"
+      "codename": "Illaoi",
+      "smashgg_name": "Illaoi"
     },
     "Braum": {
-      "codename": "Braum"
+      "codename": "Braum",
+      "smashgg_name": "Braum"
     },
     "Jinx": {
-      "codename": "Jinx"
+      "codename": "Jinx",
+      "smashgg_name": "Jinx"
     }
   },
   "credits": "Ripped from https://2xko.riotgames.com/en-us/",

@@ -2289,12 +2289,12 @@
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "25.07.03.71919",
+  "version": "25.07.08.64368",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest",
       "locale": {
-        "fr": "Forêt Aethérienne"
+        "fr": "For\u00eat Aeth\u00e9rienne"
       }
     },
     "Forest Understory": {
@@ -2306,7 +2306,7 @@
     "Air Armada": {
       "codename": "AirArmada",
       "locale": {
-        "fr": "Armada Aérienne"
+        "fr": "Armada A\u00e9rienne"
       }
     },
     "Fire Capital": {
@@ -2336,13 +2336,13 @@
     "Tempest Peak": {
       "codename": "TempestPeak",
       "locale": {
-        "fr": "Pic de la Tempête"
+        "fr": "Pic de la Temp\u00eate"
       }
     },
     "Stormswept Pillar": {
       "codename": "TempestPeak",
       "locale": {
-        "fr": "Pilier de la Tempête"
+        "fr": "Pilier de la Temp\u00eate"
       }
     },
     "Merchant Port": {
@@ -2360,7 +2360,7 @@
     "Hyperborean Harbor": {
       "codename": "HyperboreanHarbor",
       "locale": {
-        "fr": "Port Hyperboréen"
+        "fr": "Port Hyperbor\u00e9en"
       }
     },
     "Crystal Oasis": {
@@ -2372,7 +2372,7 @@
     "Training Room": {
       "codename": "Training",
       "locale": {
-        "fr": "Salle d'Entraînement"
+        "fr": "Salle d'Entra\u00eenement"
       }
     }
   }

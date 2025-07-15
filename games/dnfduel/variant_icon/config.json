@@ -7,5 +7,19 @@
   "postfix": "",
   "type": [
     "variant_icon"
-  ]
+  ],
+  "image_sizes": {
+    "clear": {
+      "null": {
+        "x": 97,
+        "y": 112
+      }
+    },
+    "gold": {
+      "null": {
+        "x": 98,
+        "y": 112
+      }
+    }
+  }
 }

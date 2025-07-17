@@ -135,10 +135,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Guilty Gear -STRIVE-
-- Character [Unika]: Character name [Unika] doesn't exist in StartGG
 - Character [Lucyna "Lucy" Kushinada]: Character name [Lucy] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (30/31)
+### Coverage: (31/32)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)
@@ -553,6 +552,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (20/20)
 
 ## Street Fighter 6
+- Character [Sagat]: Character name [Sagat] doesn't exist in StartGG
+- Character [Ingrid]: Character name [Ingrid] doesn't exist in StartGG
+- Character [Alex]: Character name [Alex] doesn't exist in StartGG
+- Character [C. Viper]: Character name [C. Viper] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (26/27)
 
@@ -735,7 +738,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Under Night In-Birth II [Sys:Celes]
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Eltnum]: Character name [Sion Eltnum] doesn't exist in StartGG
+- Character [Izumi]: Character name [Izumi] doesn't exist in StartGG
+- Character [Eltnum] not assigned in TSH!
+### Coverage: (25/26)
 
 ## Under Night In-Birth Exe:Late[cl-r]
 ### Coverage: (21/21)

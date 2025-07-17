@@ -1,11 +1,29 @@
 {
   "name": "Cube Selection",
-  "version": "25.05.29.53856",
+  "version": "25.07.15.81118",
   "description": "Cube selection icons\nRequires TSH 5.92 or higher to be used",
   "credits": "",
   "prefix": "",
   "postfix": "",
   "type": [
     "variant_icon"
-  ]
+  ],
+  "image_sizes": {
+    "clear": {
+      "null": {
+        "x": 97,
+        "y": 112
+      }
+    },
+    "gold": {
+      "null": {
+        "x": 98,
+        "y": 112
+      }
+    }
+  },
+  "average_size": {
+    "x": 97.5,
+    "y": 112.0
+  }
 }

@@ -738,10 +738,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Under Night In-Birth II [Sys:Celes]
-- Character [Eltnum]: Character name [Sion Eltnum] doesn't exist in StartGG
 - Character [Izumi]: Character name [Izumi] doesn't exist in StartGG
-- Character [Eltnum] not assigned in TSH!
-### Coverage: (25/26)
+### Coverage: (26/26)
 
 ## Under Night In-Birth Exe:Late[cl-r]
 ### Coverage: (21/21)

@@ -505,6 +505,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
+- Character [Vi]: Character name [Vi] doesn't exist in StartGG
 ### Coverage: (7/7)
 
 ## Rivals of Aether

@@ -1,0 +1,159 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akaza": {
+      "codename": "Akaza"
+    },
+    "Daki": {
+      "codename": "Daki"
+    },
+    "Enmu": {
+      "codename": "Enmu"
+    },
+    "Giyu Tomioka": {
+      "codename": "GiyuTomioka",
+      "skin_name": {
+        "1": {
+          "name": "Kimetsu Academy"
+        }
+      }
+    },
+    "Gyutaro": {
+      "codename": "Gyutaro"
+    },
+    "Inosuke Hashibira": {
+      "codename": "InosukeHashibira",
+      "skin_name": {
+        "1": {
+          "name": "Entertainment District"
+        },
+        "2": {
+          "name": "Kimetsu Academy"
+        }
+      }
+    },
+    "Kyojuro Rengoku": {
+      "codename": "KyojuroRengoku",
+      "skin_name": {
+        "1": {
+          "name": "Kimetsu Academy"
+        }
+      }
+    },
+    "Makomo": {
+      "codename": "Makomo"
+    },
+    "Murata": {
+      "codename": "Murata"
+    },
+    "Nezuko Kamado": {
+      "codename": "NezukoKamado",
+      "skin_name": {
+        "1": {
+          "name": "Advanced Demon Form"
+        },
+        "2": {
+          "name": "Kimetsu Academy"
+        }
+      }
+    },
+    "Rui": {
+      "codename": "Rui"
+    },
+    "Sabito": {
+      "codename": "Sabito"
+    },
+    "Sakonji Urokodaki": {
+      "codename": "SakonjiUrokodaki"
+    },
+    "Shinobu Kocho": {
+      "codename": "ShinobuKocho",
+      "skin_name": {
+        "1": {
+          "name": "Kimetsu Academy"
+        }
+      }
+    },
+    "Susamaru": {
+      "codename": "Susamaru"
+    },
+    "Tanjiro Kamado": {
+      "codename": "TanjiroKamado",
+      "skin_name": {
+        "1": {
+          "name": "Entertainment District"
+        },
+        "2": {
+          "name": "Hinokami Kagura"
+        },
+        "3": {
+          "name": "Kimetsu Academy"
+        },
+        "4": {
+          "name": "Swordsmith Village"
+        }
+      }
+    },
+    "Tengen Uzui": {
+      "codename": "TengenUzui",
+      "skin_name": {
+        "1": {
+          "name": "Kimetsu Academy"
+        }
+      }
+    },
+    "Yahaba": {
+      "codename": "Yahaba"
+    },
+    "Yushiro & Tamayo": {
+      "codename": "YushiroTamayo"
+    },
+    "Zenitsu Agatsuma": {
+      "codename": "ZenitsuAgatsuma",
+      "skin_name": {
+        "1": {
+          "name": "Entertainment District"
+        },
+        "2": {
+          "name": "Kimetsu Academy"
+        }
+      }
+    },
+    "Yoriichi Type Zero": {
+      "codename": "Yoriichi"
+    },
+    "Hinatsuru, Makio & Suma": {
+      "codename": "Hinatsuru"
+    },
+    "Zohakuten": {
+      "codename": "Zohakuten"
+    },
+    "Gyokko": {
+      "codename": "Gyokko"
+    },
+    "Genya Shinazugawa": {
+      "codename": "Genya"
+    },
+    "Gyomei Himejima": {
+      "codename": "Gyomei"
+    },
+    "Sanemi Shinazugawa": {
+      "codename": "Sanemi"
+    },
+    "Obanai Iguro": {
+      "codename": "Obanai"
+    },
+    "Muichiro Tokito": {
+      "codename": "Muichiro"
+    },
+    "Mitsuri Kanroji": {
+      "codename": "Mitsuri"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+  "smashgg_game_id": 106671,
+  "stage_to_codename": {},
+  "version": "25.05.29.53856"
+}

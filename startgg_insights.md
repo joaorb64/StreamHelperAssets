@@ -97,6 +97,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Eternal Fighter Zero -Memorial- Edition
 Game has no characters in startgg...? Or do we have a wrong game id?
 

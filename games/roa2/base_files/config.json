@@ -202,6 +202,18 @@
         },
         "65": {
           "name": "Default - Summer"
+        },
+        "66": {
+          "name": "Mecha"
+        },
+        "67": {
+          "name": "Mecha - Red"
+        },
+        "68": {
+          "name": "Mecha - Blue"
+        },
+        "69": {
+          "name": "Mecha - Green"
         }
       }
     },
@@ -427,6 +439,9 @@
         },
         "72": {
           "name": "Slam Dunk - Supernova 2025"
+        },
+        "73": {
+          "name": "Solid - Black"
         }
       }
     },
@@ -471,16 +486,16 @@
           "name": "Early Bird - Blue"
         },
         "12": {
-          "name": "Mecha Wrastor"
+          "name": "Mecha"
         },
         "13": {
-          "name": "Mecha Wrastor - Red"
+          "name": "Mecha - Red"
         },
         "14": {
-          "name": "Mecha Wrastor - Green"
+          "name": "Mecha - Green"
         },
         "15": {
-          "name": "Mecha Wrastor - Blue"
+          "name": "Mecha - Blue"
         },
         "16": {
           "name": "Default - Black"
@@ -625,6 +640,12 @@
         },
         "63": {
           "name": "Default - Summer"
+        },
+        "64": {
+          "name": "Bluejay - Yellowjay"
+        },
+        "65": {
+          "name": "Mecha - Black"
         }
       }
     },
@@ -808,6 +829,24 @@
         },
         "58": {
           "name": "Lovers - Citilab Smashfest"
+        },
+        "59": {
+          "name": "Panther - Pink"
+        },
+        "60": {
+          "name": "Lovers - Collision"
+        },
+        "61": {
+          "name": "Cyber"
+        },
+        "62": {
+          "name": "Cyber - Red"
+        },
+        "63": {
+          "name": "Cyber - Blue"
+        },
+        "64": {
+          "name": "Cyber - Green"
         }
       }
     },
@@ -1027,6 +1066,18 @@
         },
         "70": {
           "name": "Sunny - Black"
+        },
+        "71": {
+          "name": "Champion"
+        },
+        "72": {
+          "name": "Champion - Red"
+        },
+        "73": {
+          "name": "Champion - Blue"
+        },
+        "74": {
+          "name": "Champion - Green"
         }
       }
     },
@@ -1399,6 +1450,21 @@
         },
         "64": {
           "name": "Pool Party - Green"
+        },
+        "65": {
+          "name": "Mecha"
+        },
+        "66": {
+          "name": "Mecha - Red"
+        },
+        "67": {
+          "name": "Mecha - Blue"
+        },
+        "68": {
+          "name": "Mecha - Green"
+        },
+        "69": {
+          "name": "Baseball - Hbox"
         }
       }
     },
@@ -1609,6 +1675,9 @@
         },
         "67": {
           "name": "Cow - Mint"
+        },
+        "68": {
+          "name": "Dark Future - Mecha"
         }
       }
     },
@@ -2101,6 +2170,18 @@
         },
         "37": {
           "name": "Default - Summer"
+        },
+        "38": {
+          "name": "Mecha"
+        },
+        "39": {
+          "name": "Mecha - Red"
+        },
+        "40": {
+          "name": "Mecha - Blue"
+        },
+        "41": {
+          "name": "Mecha - Green"
         }
       }
     },
@@ -2313,6 +2394,10 @@
           "name": "Default - Cool Blue"
         }
       }
+    },
+    "Galvan": {
+      "codename": "Galvan",
+      "smashgg_name": "Galvan"
     }
   },
   "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II",

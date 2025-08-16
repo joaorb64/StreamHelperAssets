@@ -1021,6 +1021,32 @@
         "it": "Alcremie",
         "es": "Alcremie"
       }
+    },
+    "Latias": {
+      "codename": "380",
+      "locale": {
+        "fr": "Latias",
+        "de": "Latias",
+        "ko": "\ub77c\ud2f0\uc544\uc2a4",
+        "ja": "\u30e9\u30c6\u30a3\u30a2\u30b9",
+        "zh_CN": "\u62c9\u5e1d\u4e9a\u65af",
+        "zh_TW": "\u62c9\u5e1d\u4e9e\u65af",
+        "it": "Latias",
+        "es": "Latias"
+      }
+    },
+    "Latios": {
+      "codename": "381",
+      "locale": {
+        "fr": "Latios",
+        "de": "Latios",
+        "ko": "\ub77c\ud2f0\uc624\uc2a4",
+        "ja": "\u30e9\u30c6\u30a3\u30aa\u30b9",
+        "zh_CN": "\u62c9\u5e1d\u6b27\u65af",
+        "zh_TW": "\u62c9\u5e1d\u6b50\u65af",
+        "it": "Latios",
+        "es": "Latios"
+      }
     }
   },
   "stage_to_codename": {},

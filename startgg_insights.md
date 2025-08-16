@@ -517,6 +517,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
+- Character [Galvan]: Character name [Galvan] doesn't exist in StartGG
 ### Coverage: (13/13)
 
 ## Rushdown Revolt
@@ -556,12 +557,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (20/20)
 
 ## Street Fighter 6
-- Character [Sagat]: Character name [Sagat] doesn't exist in StartGG
 - Character [Ingrid]: Character name [Ingrid] doesn't exist in StartGG
 - Character [Alex]: Character name [Alex] doesn't exist in StartGG
 - Character [C. Viper]: Character name [C. Viper] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (26/27)
+### Coverage: (27/28)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -702,6 +702,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Tekken 8
 - Character [Armor King]: Character name [Armor King] doesn't exist in StartGG
+- Character [Miary Zo]: Character name [Miary Zo] doesn't exist in StartGG
 ### Coverage: (39/39)
 
 ## Them's Fightin' Herds

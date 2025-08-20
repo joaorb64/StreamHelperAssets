@@ -214,6 +214,9 @@
         },
         "69": {
           "name": "Mecha - Green"
+        },
+        "70": {
+          "name": "Mecha - Purple"
         }
       }
     },
@@ -442,6 +445,9 @@
         },
         "73": {
           "name": "Solid - Black"
+        },
+        "74": {
+          "name": "Pool Party - Riptide"
         }
       }
     },
@@ -646,6 +652,9 @@
         },
         "65": {
           "name": "Mecha - Black"
+        },
+        "66": {
+          "name": "Mecha - Midnight"
         }
       }
     },
@@ -1465,6 +1474,9 @@
         },
         "69": {
           "name": "Baseball - Hbox"
+        },
+        "70": {
+          "name": "Mecha - Yellow"
         }
       }
     },
@@ -2182,6 +2194,9 @@
         },
         "41": {
           "name": "Mecha - Green"
+        },
+        "42": {
+          "name": "Mecha - Black"
         }
       }
     },
@@ -2392,12 +2407,29 @@
         },
         "26": {
           "name": "Default - Cool Blue"
+        },
+        "27": {
+          "name": "Mecha"
+        },
+        "28": {
+          "name": "Mecha - Red"
+        },
+        "29": {
+          "name": "Mecha - Blue"
+        },
+        "30": {
+          "name": "Mecha - Green"
         }
       }
     },
     "Galvan": {
       "codename": "Galvan",
-      "smashgg_name": "Galvan"
+      "smashgg_name": "Galvan",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
     }
   },
   "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II",

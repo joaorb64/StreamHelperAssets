@@ -7,5 +7,101 @@
     "variant_icon"
   ],
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html",
-  "version": "1.0"
+  "version": "25.08.20.39713",
+  "image_sizes": {
+    "machine01": {
+      "null": {
+        "x": 1828,
+        "y": 1385
+      }
+    },
+    "machine02": {
+      "null": {
+        "x": 2020,
+        "y": 1313
+      }
+    },
+    "machine03": {
+      "null": {
+        "x": 2039,
+        "y": 1388
+      }
+    },
+    "machine04": {
+      "null": {
+        "x": 1569,
+        "y": 1621
+      }
+    },
+    "machine05": {
+      "null": {
+        "x": 1855,
+        "y": 1864
+      }
+    },
+    "machine06": {
+      "null": {
+        "x": 1874,
+        "y": 1948
+      }
+    },
+    "machine07": {
+      "null": {
+        "x": 1695,
+        "y": 1652
+      }
+    },
+    "machine08": {
+      "null": {
+        "x": 2329,
+        "y": 1955
+      }
+    },
+    "machine09": {
+      "null": {
+        "x": 2074,
+        "y": 1704
+      }
+    },
+    "machine10": {
+      "null": {
+        "x": 1919,
+        "y": 1817
+      }
+    },
+    "machine11": {
+      "null": {
+        "x": 1864,
+        "y": 1734
+      }
+    },
+    "machine12": {
+      "null": {
+        "x": 1947,
+        "y": 1581
+      }
+    },
+    "machine13": {
+      "null": {
+        "x": 2023,
+        "y": 1889
+      }
+    },
+    "machine14": {
+      "null": {
+        "x": 1976,
+        "y": 1542
+      }
+    },
+    "machine15": {
+      "null": {
+        "x": 2236,
+        "y": 1690
+      }
+    }
+  },
+  "average_size": {
+    "x": 1949.8666666666666,
+    "y": 1672.2
+  }
 }

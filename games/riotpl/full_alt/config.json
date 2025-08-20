@@ -4,58 +4,58 @@
     "y": 2480
   },
   "credits": "From the asset kit (https://2xko.riotgames.com/en-us/news/announcements/2xko-community-competition-guidelines/#Q9)",
-  "description": "Character renders",
+  "description": "Alternate poses for the character renders",
   "eyesights": {
     "Ahri": {
       "0": {
-        "x": 1708,
-        "y": 566
+        "x": 1519,
+        "y": 541
       }
     },
     "Braum": {
       "0": {
-        "x": 2784,
-        "y": 840
+        "x": 1436,
+        "y": 540
       }
     },
     "Darius": {
       "0": {
-        "x": 2985,
-        "y": 757
+        "x": 1561,
+        "y": 1108
       }
     },
     "Ekko": {
       "0": {
-        "x": 1830,
-        "y": 757
+        "x": 1953,
+        "y": 524
       }
     },
     "Illaoi": {
       "0": {
-        "x": 1543,
-        "y": 730
+        "x": 1425,
+        "y": 560
       }
     },
     "Jinx": {
       "0": {
-        "x": 1367,
-        "y": 964
+        "x": 1218,
+        "y": 674
       }
     },
     "Vi": {
       "0": {
-        "x": 1478,
-        "y": 428
+        "x": 1077,
+        "y": 444
       }
     },
     "Yasuo": {
       "0": {
-        "x": 2130,
-        "y": 778
+        "x": 1127,
+        "y": 934
       }
     }
   },
-  "name": "Renders",
+  "name": "Renders (Alternate)",
   "postfix": "_",
   "prefix": "file_",
   "type": [

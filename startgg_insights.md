@@ -106,6 +106,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## EN-Eins Perfektewelt: Anastasis
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## E's Laf++
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Fighting EX Layer
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -186,6 +189,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Kirby Air Ride
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Kirby Air Riders
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Karnov's Revenge
 Game has no characters in startgg...? Or do we have a wrong game id?

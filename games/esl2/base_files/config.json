@@ -1,0 +1,41 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Akamine Tae": {
+      "codename": "AkamineTae"
+    },
+    "Alcott": {
+      "codename": "Alcott"
+    },
+    "Cecil": {
+      "codename": "Cecil"
+    },
+    "Main": {
+      "codename": "Main"
+    },
+    "Qdora": {
+      "codename": "Qdora"
+    },
+    "Saving Tina": {
+      "codename": "SavingTina"
+    },
+    "Serena": {
+      "codename": "Serena"
+    },
+    "Sisca": {
+      "codename": "Sisca"
+    },
+    "Tina": {
+      "codename": "Tina"
+    },
+    "Yagabi": {
+      "codename": "Yagabi"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "E's Laf++",
+  "smashgg_game_id": 86421,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

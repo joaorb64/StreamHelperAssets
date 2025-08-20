@@ -1,0 +1,111 @@
+{
+  "name": "Artwork",
+  "description": "Character artwork",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/EN-Eins_Perfektewelt_Anastasis)",
+  "version": "25.05.29.53856",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "rescaling_factor": {
+    "AkamineTae": {
+      "0": 0.7183908045977011
+    },
+    "Alcott": {
+      "0": 2.0
+    },
+    "Cecil": {
+      "0": 0.561955605507165
+    },
+    "Main": {
+      "0": 2.7777777777777777
+    },
+    "Qdora": {
+      "0": 1.6194331983805668
+    },
+    "SavingTina": {
+      "0": 2.7777777777777777
+    },
+    "Serena": {
+      "0": 0.9337068160597572
+    },
+    "Sisca": {
+      "0": 2.0833333333333335
+    },
+    "Tina": {
+      "0": 0.5333333333333333
+    },
+    "Yagabi": {
+      "0": 2.0
+    }
+  },
+  "eyesights": {
+    "AkamineTae": {
+      "0": {
+        "x": 1524,
+        "y": 568
+      }
+    },
+    "Alcott": {
+      "0": {
+        "x": 709,
+        "y": 226
+      }
+    },
+    "Cecil": {
+      "0": {
+        "x": 1341,
+        "y": 491
+      }
+    },
+    "Main": {
+      "0": {
+        "x": 292,
+        "y": 111
+      }
+    },
+    "Qdora": {
+      "0": {
+        "x": 611,
+        "y": 407
+      }
+    },
+    "SavingTina": {
+      "0": {
+        "x": 180,
+        "y": 314
+      }
+    },
+    "Serena": {
+      "0": {
+        "x": 605,
+        "y": 544
+      }
+    },
+    "Sisca": {
+      "0": {
+        "x": 756,
+        "y": 104
+      }
+    },
+    "Tina": {
+      "0": {
+        "x": 1626,
+        "y": 807
+      }
+    },
+    "Yagabi": {
+      "0": {
+        "x": 526,
+        "y": 365
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Kirby Air Riders",
+  "smashgg_game_id": null,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Kirby": {
+      "codename": "rider01"
+    },
+    "King Dedede": {
+      "codename": "rider02"
+    },
+    "Meta Knight": {
+      "codename": "rider03"
+    },
+    "Bandana Waddle Dee": {
+      "codename": "rider04"
+    },
+    "Waddle Doo": {
+      "codename": "rider05"
+    },
+    "Chef Kawasaki": {
+      "codename": "rider06"
+    },
+    "Knuckle Joe": {
+      "codename": "rider07"
+    },
+    "Gooey": {
+      "codename": "rider08"
+    },
+    "Cappy": {
+      "codename": "rider09"
+    },
+    "Starman": {
+      "codename": "rider10"
+    },
+    "Magolor": {
+      "codename": "rider11"
+    },
+    "Susie": {
+      "codename": "rider12"
+    }
+  },
+  "stage_to_codename": {},
+  "variant_to_codename": {
+    "Warp Star": {
+      "codename": "machine01"
+    },
+    "Winged Star": {
+      "codename": "machine02"
+    },
+    "Shadow Star": {
+      "codename": "machine03"
+    },
+    "Wagon Star": {
+      "codename": "machine04"
+    },
+    "Slick Star": {
+      "codename": "machine05"
+    },
+    "Bulk Star": {
+      "codename": "machine06"
+    },
+    "Rocket Star": {
+      "codename": "machine07"
+    },
+    "Swerve Star": {
+      "codename": "machine08"
+    },
+    "Turbo Star": {
+      "codename": "machine09"
+    },
+    "Wheelie Bike": {
+      "codename": "machine10"
+    },
+    "Rex Wheelie": {
+      "codename": "machine11"
+    },
+    "Paper Star": {
+      "codename": "machine12"
+    },
+    "Chariot": {
+      "codename": "machine13"
+    },
+    "Battle Chariot": {
+      "codename": "machine14"
+    },
+    "Tank Star": {
+      "codename": "machine15"
+    }
+  },
+  "version": "1.0",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html"
+}

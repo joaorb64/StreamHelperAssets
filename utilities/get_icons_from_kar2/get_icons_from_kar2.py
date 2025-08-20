@@ -13,7 +13,7 @@ section_tags = soup.findAll("section")
 
 
 
-game_id = None
+game_id = 102561
 
 download_folder_name = "../download_smashgg/download"
 base_files_folder_name = f"{download_folder_name}/base_files"

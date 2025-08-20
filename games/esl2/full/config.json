@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/EN-Eins_Perfektewelt_Anastasis)",
-  "version": "25.05.29.53856",
+  "version": "25.08.20.46742",
   "uncropped_edge": [
     "u",
     "d",
@@ -107,5 +107,71 @@
         "y": 365
       }
     }
+  },
+  "image_sizes": {
+    "AkamineTae": {
+      "0": {
+        "x": 2626,
+        "y": 2784
+      }
+    },
+    "Alcott": {
+      "0": {
+        "x": 1200,
+        "y": 1000
+      }
+    },
+    "Cecil": {
+      "0": {
+        "x": 2946,
+        "y": 3559
+      }
+    },
+    "Main": {
+      "0": {
+        "x": 495,
+        "y": 720
+      }
+    },
+    "Qdora": {
+      "0": {
+        "x": 1280,
+        "y": 1235
+      }
+    },
+    "SavingTina": {
+      "0": {
+        "x": 592,
+        "y": 720
+      }
+    },
+    "Serena": {
+      "0": {
+        "x": 2059,
+        "y": 2142
+      }
+    },
+    "Sisca": {
+      "0": {
+        "x": 1063,
+        "y": 960
+      }
+    },
+    "Tina": {
+      "0": {
+        "x": 2749,
+        "y": 3750
+      }
+    },
+    "Yagabi": {
+      "0": {
+        "x": 1200,
+        "y": 1000
+      }
+    }
+  },
+  "average_size": {
+    "x": 1903.7553406002949,
+    "y": 2000.0
   }
 }

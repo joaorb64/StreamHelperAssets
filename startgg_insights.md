@@ -4,6 +4,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Arcus Chroma
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## A Few Quick Matches
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Among Us Arena
 Game has no characters in startgg...? Or do we have a wrong game id?
 

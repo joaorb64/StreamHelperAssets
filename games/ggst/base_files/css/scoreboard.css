@@ -1,0 +1,183 @@
+.override .player.container {
+  top: 2px;
+  height: 48px;
+  width: 580px;
+  top: 60px;
+}
+
+.override .p1.container {
+  left: 164px;
+}
+
+.override .p2.container {
+  right: 164px;
+}
+
+.override .player.container {
+  padding: 0 8px;
+}
+
+.override .flagcountry .text,
+.override .flagstate .text {
+  flex-direction: column;
+  gap: 0;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+.override .name_twitter {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.override .p2 .name_twitter {
+  flex-direction: row-reverse;
+}
+
+.override .name_twitter .name {
+  width: 60%;
+}
+
+.override .p1 .name_twitter .name .text {
+  justify-content: flex-start;
+}
+
+.override .p2 .name_twitter .name .text {
+  justify-content: flex-end;
+}
+
+.override .name_twitter .extra {
+  flex-direction: column;
+}
+
+.override .p1 .name_twitter .twitter .text {
+  justify-content: flex-end;
+}
+
+.override .p2 .name_twitter .twitter .text {
+  justify-content: flex-start;
+}
+
+.override .p1 .name_twitter .pronoun .text {
+  justify-content: flex-end;
+}
+
+.override .p2 .name_twitter .pronoun .text {
+  justify-content: flex-start;
+}
+
+.override .logo {
+  width: 100px;
+  height: 100px;
+  top: 210px;
+}
+
+.override .info.container.top {
+  top: 8px;
+  height: 34px;
+  width: 290px;
+  font-size: 16px;
+  padding: 8px 16px;
+  border-radius: calc(var(--border-radius) / 2);
+  justify-content: center;
+}
+
+.override .info.container.top {
+  top: 2px;
+  height: 48px;
+}
+
+.override .info.container.bottom {
+  top: unset;
+  bottom: 0;
+  padding: 16px 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.override .icon {
+  border-radius: 8px;
+}
+
+.override .icon div:not(.text) {
+  height: 38px;
+  width: 38px;
+  background-size: cover;
+}
+
+.override .flag {
+  width: 28px;
+  height: 18px;
+}
+
+.override .sponsor_icon {
+  position: absolute;
+  right: 200px;
+  z-index: -999;
+  opacity: 0.6;
+}
+
+.override .p2 .sponsor_icon {
+  right: unset;
+  left: 200px;
+}
+
+.override .sponsor_icon > div > div {
+  width: 80px;
+  height: 80px;
+}
+
+.override .sponsor_icon {
+  position: absolute;
+  right: 200px;
+  z-index: -999;
+  opacity: 0.6;
+}
+
+.override .p2 .sponsor_icon {
+  right: unset;
+  left: 200px;
+}
+
+.override .sponsor_icon > div > div {
+  width: 100px;
+  height: 100px;
+}
+
+.override .character_container > div {
+  height: 100%;
+}
+
+.override .character_container > div > div {
+  height: 100%;
+}
+
+.override .score {
+  font-size: 32px;
+  width: 48px;
+}
+
+.override .p1 .score {
+  margin-right: -8px;
+  margin-left: 8px;
+}
+
+.override .p2 .score {
+  margin-left: -8px;
+  margin-right: 8px;
+}
+
+.override .chips {
+  top: 30px;
+}
+
+.override .p1.chips {
+  left: 249px;
+}
+
+.override .p2.chips {
+  left: unset;
+  right: 249px;
+}

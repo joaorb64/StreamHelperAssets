@@ -6,5 +6,37 @@
   "postfix": "_png",
   "type": [
     "stage_icon"
-  ]
+  ],
+  "image_sizes": {
+    "Arena": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "Castle": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "Tower": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "Woods": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "Yomi": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    }
+  }
 }

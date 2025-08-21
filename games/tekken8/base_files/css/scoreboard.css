@@ -1,0 +1,211 @@
+
+.override .player.container {
+  top: 32px;
+  width: 540px;
+  height: 38px;
+  transform: skewX(45deg);
+  border-radius: calc(var(--border-radius) / 2);
+  padding: 0px 16px;
+}
+
+.override .p2.player.container > div:not(.score) {
+  transform: skewX(45deg);
+}
+
+.override .p1.player.container > div:not(.score) {
+  transform: skewX(-45deg);
+}
+
+.override .p1.container {
+  left: 160px;
+}
+
+.override .p2.container {
+  transform: skewX(-45deg);
+  right: 160px;
+}
+
+.override .chips {
+  top: 4px;
+  width: 530px;
+}
+
+.override .p1.chips {
+  left: 142px;
+  justify-content: left;
+  flex-direction: row-reverse;
+}
+
+.override .p2.chips {
+  left: unset;
+  right: 142px;
+  justify-content: right;
+  flex-direction: row;
+}
+
+.override .flagcountry .text,
+.override .flagstate .text {
+  flex-direction: column;
+  gap: 0;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+.override .chip .text:not(.text_empty) {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.override .p1 .flagstate .text,
+.override .p1 .flagcountry .text {
+  flex-direction: row;
+  padding-left: 0;
+  gap: 8px;
+}
+
+.override .p2 .flagstate .text,
+.override .p2 .flagcountry .text {
+  flex-direction: row-reverse;
+  padding-right: 0;
+  gap: 8px;
+}
+
+.override .name_twitter {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.override .p2 .name_twitter {
+  flex-direction: row-reverse;
+}
+
+.override .name_twitter .name {
+  font-size: 28px;
+  width: 100%;
+}
+
+.override .name_twitter .extra {
+  flex-direction: column;
+}
+
+.override .p1 .name_twitter .name .text {
+  justify-content: flex-start;
+}
+
+.override .p2 .name_twitter .name .text {
+  justify-content: flex-end;
+}
+
+
+.override .p1 .name_twitter .twitter .text {
+  justify-content: flex-end;
+}
+
+.override .p2 .name_twitter .twitter .text {
+  justify-content: flex-start;
+}
+
+.override .p1 .name_twitter .pronoun .text {
+  justify-content: flex-end;
+}
+
+.override .p2 .name_twitter .pronoun .text {
+  justify-content: flex-start;
+}
+
+
+.override .p1 .name_twitter, .override .p1 .score > .text {
+  transform: skewX(-45deg);
+}
+
+.override .p2 .name_twitter, .override .p2 .score > .text {
+  transform: skewX(45deg);
+}
+
+.override .logo {
+  width: 80px;
+  height: 80px;
+  bottom: 72px;
+  top: unset;
+}
+
+.override .tournament_name {
+  height: unset;
+  font-size: 24px;
+}
+
+.override .info.container.top {
+  top: 8px;
+  height: 34px;
+  width: 290px;
+  font-size: 16px;
+  padding: 8px 16px;
+  border-radius: calc(var(--border-radius) / 2);
+  justify-content: center;
+  height: 32px;
+  top: 0px;
+  width: 560px;
+  border-radius: calc(var(--border-radius) / 2);
+  background: unset;
+  overflow: visible;
+  padding: 0 42px;
+  justify-content: center;
+}
+
+.override .phase {
+  font-size: 20px;
+}
+
+.override .info.container.bottom {
+  top: unset;
+  bottom: 0;
+  padding: 16px 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-radius: calc(var(--border-radius) / 2);
+  background: unset;
+  overflow: visible;
+  padding: 0 70px;
+  justify-content: center;
+  bottom: 0;
+  width: 500px;
+}
+
+.override .flag {
+  width: 36px !important;
+  height: 24px !important;
+}
+
+.override .sponsor_icon {
+  position: absolute;
+  right: 100px;
+  z-index: -999;
+  opacity: 0.6;
+}
+
+.override .p2 .sponsor_icon {
+  right: unset;
+  left: 100px;
+}
+
+.override .sponsor_icon > div > div {
+  width: 80px;
+  height: 80px;
+}
+
+.override .score {
+  font-size: 38px;
+  width: 80px;
+}
+
+.override .p1 .score {
+  margin-right: -16px;
+  margin-left: 16px;
+}
+
+.override .p2 .score {
+  margin-left: -16px;
+  margin-right: 16px;
+}

@@ -1,0 +1,39 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Eureka": {
+      "codename": "Eureka"
+    },
+    "Knockt": {
+      "codename": "Knockt"
+    },
+    "Ninja": {
+      "codename": "Ninja"
+    },
+    "Rend": {
+      "codename": "Rend"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "A Few Quick Matches",
+  "smashgg_game_id": 110603,
+  "stage_to_codename": {
+    "Tower": {
+      "codename": "Tower"
+    },
+    "Woods": {
+      "codename": "Woods"
+    },
+    "Arena": {
+      "codename": "Arena"
+    },
+    "Castle": {
+      "codename": "Castle"
+    },
+    "Yomi": {
+      "codename": "Yomi"
+    }
+  },
+  "version": "1.0"
+}

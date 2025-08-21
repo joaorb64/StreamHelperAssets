@@ -1,0 +1,34 @@
+{
+  "name": "Portrait",
+  "description": "Character portraits",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "25.05.29.53857",
+  "uncropped_edge": [
+    "l",
+    "r"
+  ],
+  "eyesights": {
+    "Eureka": {
+      "0": {
+        "x": 244,
+        "y": 120
+      }
+    },
+    "Knockt": {
+      "0": {
+        "x": 264,
+        "y": 84
+      }
+    },
+    "Rend": {
+      "0": {
+        "x": 229,
+        "y": 353
+      }
+    }
+  }
+}

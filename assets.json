@@ -7,7 +7,7 @@
                 "files": {
                     "abaa.base_files.7z.001": {
                         "name": "abaa.base_files.7z.001",
-                        "size": 171269
+                        "size": 171272
                     }
                 },
                 "has_eyesight_data": false,
@@ -21,7 +21,7 @@
                 "files": {
                     "abaa.full.7z.001": {
                         "name": "abaa.full.7z.001",
-                        "size": 2495941
+                        "size": 2495935
                     }
                 },
                 "has_eyesight_data": true,
@@ -40,7 +40,7 @@
                 "files": {
                     "achroma.base_files.7z.001": {
                         "name": "achroma.base_files.7z.001",
-                        "size": 257715
+                        "size": 257712
                     }
                 },
                 "has_eyesight_data": false,
@@ -54,7 +54,7 @@
                 "files": {
                     "achroma.full.7z.001": {
                         "name": "achroma.full.7z.001",
-                        "size": 1016972
+                        "size": 1016971
                     }
                 },
                 "has_eyesight_data": true,
@@ -65,6 +65,53 @@
         },
         "name": "Arcus Chroma"
     },
+    "afqm": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "afqm.base_files.7z.001": {
+                        "name": "afqm.base_files.7z.001",
+                        "size": 130988
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": true,
+                "name": "A Few Quick Matches",
+                "version": "25.08.21.57852"
+            },
+            "full": {
+                "credits": null,
+                "description": "Character portraits",
+                "files": {
+                    "afqm.full.7z.001": {
+                        "name": "afqm.full.7z.001",
+                        "size": 11381
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Portrait",
+                "version": "25.08.21.57852"
+            },
+            "stage_icon": {
+                "credits": null,
+                "description": "Stage icons",
+                "files": {
+                    "afqm.stage_icon.7z.001": {
+                        "name": "afqm.stage_icon.7z.001",
+                        "size": 262285
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Stage Icons",
+                "version": "25.08.21.57852"
+            }
+        },
+        "name": "A Few Quick Matches"
+    },
     "amongus": {
         "assets": {
             "base_files": {
@@ -73,7 +120,7 @@
                 "files": {
                     "amongus.base_files.7z.001": {
                         "name": "amongus.base_files.7z.001",
-                        "size": 517039
+                        "size": 517036
                     }
                 },
                 "has_eyesight_data": true,
@@ -92,7 +139,7 @@
                 "files": {
                     "aof3.base_files.7z.001": {
                         "name": "aof3.base_files.7z.001",
-                        "size": 24007
+                        "size": 24001
                     }
                 },
                 "has_eyesight_data": false,
@@ -125,7 +172,7 @@
                 "files": {
                     "arms.badge.7z.001": {
                         "name": "arms.badge.7z.001",
-                        "size": 228114
+                        "size": 228115
                     }
                 },
                 "has_eyesight_data": false,
@@ -153,7 +200,7 @@
                 "files": {
                     "arms.base_files.7z.001": {
                         "name": "arms.base_files.7z.001",
-                        "size": 1640482
+                        "size": 1640477
                     }
                 },
                 "has_eyesight_data": false,
@@ -167,7 +214,7 @@
                 "files": {
                     "arms.full.7z.001": {
                         "name": "arms.full.7z.001",
-                        "size": 341604907
+                        "size": 341604902
                     }
                 },
                 "has_eyesight_data": true,
@@ -195,7 +242,7 @@
                 "files": {
                     "arms.stage_icon.7z.001": {
                         "name": "arms.stage_icon.7z.001",
-                        "size": 7375259
+                        "size": 7375256
                     }
                 },
                 "has_eyesight_data": false,
@@ -209,7 +256,7 @@
                 "files": {
                     "arms.variant_icon.7z.001": {
                         "name": "arms.variant_icon.7z.001",
-                        "size": 1278791
+                        "size": 1278789
                     }
                 },
                 "has_eyesight_data": false,
@@ -228,7 +275,7 @@
                 "files": {
                     "astrobears.base_files.7z.001": {
                         "name": "astrobears.base_files.7z.001",
-                        "size": 3309684
+                        "size": 3309688
                     }
                 },
                 "has_eyesight_data": true,
@@ -261,7 +308,7 @@
                 "files": {
                     "asuka.full.7z.001": {
                         "name": "asuka.full.7z.001",
-                        "size": 288976
+                        "size": 288967
                     }
                 },
                 "has_eyesight_data": true,
@@ -280,7 +327,7 @@
                 "files": {
                     "avg2.base_files.7z.001": {
                         "name": "avg2.base_files.7z.001",
-                        "size": 375492
+                        "size": 375494
                     }
                 },
                 "has_eyesight_data": false,
@@ -294,7 +341,7 @@
                 "files": {
                     "avg2.full.7z.001": {
                         "name": "avg2.full.7z.001",
-                        "size": 1215207
+                        "size": 1215208
                     }
                 },
                 "has_eyesight_data": true,
@@ -313,7 +360,7 @@
                 "files": {
                     "aw2.base_files.7z.001": {
                         "name": "aw2.base_files.7z.001",
-                        "size": 395168
+                        "size": 395175
                     }
                 },
                 "has_eyesight_data": false,
@@ -327,7 +374,7 @@
                 "files": {
                     "aw2.full.7z.001": {
                         "name": "aw2.full.7z.001",
-                        "size": 101376
+                        "size": 101374
                     }
                 },
                 "has_eyesight_data": false,
@@ -346,7 +393,7 @@
                 "files": {
                     "awds.base_files.7z.001": {
                         "name": "awds.base_files.7z.001",
-                        "size": 352162
+                        "size": 352160
                     }
                 },
                 "has_eyesight_data": false,
@@ -360,7 +407,7 @@
                 "files": {
                     "awds.full.7z.001": {
                         "name": "awds.full.7z.001",
-                        "size": 9649904
+                        "size": 9649895
                     }
                 },
                 "has_eyesight_data": true,
@@ -374,7 +421,7 @@
                 "files": {
                     "awds.portrait.7z.001": {
                         "name": "awds.portrait.7z.001",
-                        "size": 402402
+                        "size": 402400
                     }
                 },
                 "has_eyesight_data": false,
@@ -393,7 +440,7 @@
                 "files": {
                     "batfan.base_files.7z.001": {
                         "name": "batfan.base_files.7z.001",
-                        "size": 816754
+                        "size": 816755
                     }
                 },
                 "has_eyesight_data": false,
@@ -426,7 +473,7 @@
                 "files": {
                     "bbcf.base_files.7z.001": {
                         "name": "bbcf.base_files.7z.001",
-                        "size": 798054
+                        "size": 798048
                     }
                 },
                 "has_eyesight_data": false,
@@ -440,7 +487,7 @@
                 "files": {
                     "bbcf.full.7z.001": {
                         "name": "bbcf.full.7z.001",
-                        "size": 23584895
+                        "size": 23584888
                     }
                 },
                 "has_eyesight_data": true,
@@ -459,7 +506,7 @@
                 "files": {
                     "bbtag.base_files.7z.001": {
                         "name": "bbtag.base_files.7z.001",
-                        "size": 712706
+                        "size": 712697
                     }
                 },
                 "has_eyesight_data": false,
@@ -473,7 +520,7 @@
                 "files": {
                     "bbtag.full.7z.001": {
                         "name": "bbtag.full.7z.001",
-                        "size": 77967444
+                        "size": 77967432
                     }
                 },
                 "has_eyesight_data": true,
@@ -492,7 +539,7 @@
                 "files": {
                     "bh.base_files.7z.001": {
                         "name": "bh.base_files.7z.001",
-                        "size": 6121893
+                        "size": 6121874
                     }
                 },
                 "has_eyesight_data": false,
@@ -506,7 +553,7 @@
                 "files": {
                     "bh.full.7z.001": {
                         "name": "bh.full.7z.001",
-                        "size": 53432193
+                        "size": 53432191
                     }
                 },
                 "has_eyesight_data": true,
@@ -520,7 +567,7 @@
                 "files": {
                     "bh.stage_icon.7z.001": {
                         "name": "bh.stage_icon.7z.001",
-                        "size": 17346652
+                        "size": 17346649
                     }
                 },
                 "has_eyesight_data": false,
@@ -539,7 +586,7 @@
                 "files": {
                     "blastr.base_files.7z.001": {
                         "name": "blastr.base_files.7z.001",
-                        "size": 11614781
+                        "size": 11614779
                     }
                 },
                 "has_eyesight_data": true,
@@ -558,7 +605,7 @@
                 "files": {
                     "blazing.base_files.7z.001": {
                         "name": "blazing.base_files.7z.001",
-                        "size": 2043589
+                        "size": 2043586
                     }
                 },
                 "has_eyesight_data": false,
@@ -577,7 +624,7 @@
                 "files": {
                     "breakers.base_files.7z.001": {
                         "name": "breakers.base_files.7z.001",
-                        "size": 287452
+                        "size": 287449
                     }
                 },
                 "has_eyesight_data": false,
@@ -605,7 +652,7 @@
                 "files": {
                     "breakers.full.7z.001": {
                         "name": "breakers.full.7z.001",
-                        "size": 1353914
+                        "size": 1353910
                     }
                 },
                 "has_eyesight_data": true,
@@ -624,7 +671,7 @@
                 "files": {
                     "brextreme.base_files.7z.001": {
                         "name": "brextreme.base_files.7z.001",
-                        "size": 277377
+                        "size": 277376
                     }
                 },
                 "has_eyesight_data": false,
@@ -638,7 +685,7 @@
                 "files": {
                     "brextreme.full.7z.001": {
                         "name": "brextreme.full.7z.001",
-                        "size": 4175126
+                        "size": 4175122
                     }
                 },
                 "has_eyesight_data": true,
@@ -657,7 +704,7 @@
                 "files": {
                     "craze.banner.7z.001": {
                         "name": "craze.banner.7z.001",
-                        "size": 809422
+                        "size": 809420
                     }
                 },
                 "has_eyesight_data": false,
@@ -671,7 +718,7 @@
                 "files": {
                     "craze.base_files.7z.001": {
                         "name": "craze.base_files.7z.001",
-                        "size": 291722
+                        "size": 291719
                     }
                 },
                 "has_eyesight_data": false,
@@ -685,7 +732,7 @@
                 "files": {
                     "craze.variant_icon.7z.001": {
                         "name": "craze.variant_icon.7z.001",
-                        "size": 1832
+                        "size": 1831
                     }
                 },
                 "has_eyesight_data": false,
@@ -704,7 +751,7 @@
                 "files": {
                     "cvs2.base_files.7z.001": {
                         "name": "cvs2.base_files.7z.001",
-                        "size": 7015335
+                        "size": 7015326
                     }
                 },
                 "has_eyesight_data": true,
@@ -737,7 +784,7 @@
                 "files": {
                     "cybot.base_files.7z.001": {
                         "name": "cybot.base_files.7z.001",
-                        "size": 283052
+                        "size": 283054
                     }
                 },
                 "has_eyesight_data": false,
@@ -751,7 +798,7 @@
                 "files": {
                     "cybot.full.7z.001": {
                         "name": "cybot.full.7z.001",
-                        "size": 9342539
+                        "size": 9342540
                     }
                 },
                 "has_eyesight_data": true,
@@ -770,7 +817,7 @@
                 "files": {
                     "dawake.base_files.7z.001": {
                         "name": "dawake.base_files.7z.001",
-                        "size": 1143818
+                        "size": 1143812
                     }
                 },
                 "has_eyesight_data": true,
@@ -789,7 +836,7 @@
                 "files": {
                     "dbfz.base_files.7z.001": {
                         "name": "dbfz.base_files.7z.001",
-                        "size": 760414
+                        "size": 760412
                     }
                 },
                 "has_eyesight_data": false,
@@ -803,7 +850,7 @@
                 "files": {
                     "dbfz.full.7z.001": {
                         "name": "dbfz.full.7z.001",
-                        "size": 6635636
+                        "size": 6635637
                     }
                 },
                 "has_eyesight_data": true,
@@ -822,7 +869,7 @@
                 "files": {
                     "dbsz.base_files.7z.001": {
                         "name": "dbsz.base_files.7z.001",
-                        "size": 50808940
+                        "size": 50808944
                     }
                 },
                 "has_eyesight_data": true,
@@ -841,7 +888,7 @@
                 "files": {
                     "dbz3.base_files.7z.001": {
                         "name": "dbz3.base_files.7z.001",
-                        "size": 525091
+                        "size": 525092
                     }
                 },
                 "has_eyesight_data": false,
@@ -860,7 +907,7 @@
                 "files": {
                     "ddnd.base_files.7z.001": {
                         "name": "ddnd.base_files.7z.001",
-                        "size": 3428031
+                        "size": 3428021
                     }
                 },
                 "has_eyesight_data": true,
@@ -879,7 +926,7 @@
                 "files": {
                     "dfci.base_files.7z.001": {
                         "name": "dfci.base_files.7z.001",
-                        "size": 14767282
+                        "size": 14767280
                     }
                 },
                 "has_eyesight_data": true,
@@ -912,7 +959,7 @@
                 "files": {
                     "dive.full.7z.001": {
                         "name": "dive.full.7z.001",
-                        "size": 4168485
+                        "size": 4168479
                     }
                 },
                 "has_eyesight_data": true,
@@ -931,7 +978,7 @@
                 "files": {
                     "dkg.base_files.7z.001": {
                         "name": "dkg.base_files.7z.001",
-                        "size": 223239
+                        "size": 223244
                     }
                 },
                 "has_eyesight_data": false,
@@ -945,7 +992,7 @@
                 "files": {
                     "dkg.full.7z.001": {
                         "name": "dkg.full.7z.001",
-                        "size": 159791
+                        "size": 159787
                     }
                 },
                 "has_eyesight_data": true,
@@ -978,7 +1025,7 @@
                 "files": {
                     "dnfduel.base_files.7z.001": {
                         "name": "dnfduel.base_files.7z.001",
-                        "size": 1097995
+                        "size": 1097997
                     }
                 },
                 "has_eyesight_data": false,
@@ -992,7 +1039,7 @@
                 "files": {
                     "dnfduel.full.7z.001": {
                         "name": "dnfduel.full.7z.001",
-                        "size": 14241437
+                        "size": 14241431
                     }
                 },
                 "has_eyesight_data": true,
@@ -1006,7 +1053,7 @@
                 "files": {
                     "dnfduel.mobile.7z.001": {
                         "name": "dnfduel.mobile.7z.001",
-                        "size": 3729369
+                        "size": 3729368
                     }
                 },
                 "has_eyesight_data": true,
@@ -1020,7 +1067,7 @@
                 "files": {
                     "dnfduel.variant_icon.7z.001": {
                         "name": "dnfduel.variant_icon.7z.001",
-                        "size": 30117
+                        "size": 30116
                     }
                 },
                 "has_eyesight_data": false,
@@ -1039,7 +1086,7 @@
                 "files": {
                     "doa5lr.base_files.7z.001": {
                         "name": "doa5lr.base_files.7z.001",
-                        "size": 293638
+                        "size": 293642
                     }
                 },
                 "has_eyesight_data": false,
@@ -1053,7 +1100,7 @@
                 "files": {
                     "doa5lr.full.7z.001": {
                         "name": "doa5lr.full.7z.001",
-                        "size": 43361678
+                        "size": 43361671
                     }
                 },
                 "has_eyesight_data": true,
@@ -1072,7 +1119,7 @@
                 "files": {
                     "doe.base_files.7z.001": {
                         "name": "doe.base_files.7z.001",
-                        "size": 11169543
+                        "size": 11169545
                     }
                 },
                 "has_eyesight_data": false,
@@ -1086,7 +1133,7 @@
                 "files": {
                     "doe.full.7z.001": {
                         "name": "doe.full.7z.001",
-                        "size": 70498234
+                        "size": 70498238
                     }
                 },
                 "has_eyesight_data": true,
@@ -1105,7 +1152,7 @@
                 "files": {
                     "dshc.base_files.7z.001": {
                         "name": "dshc.base_files.7z.001",
-                        "size": 5578345
+                        "size": 5578336
                     }
                 },
                 "has_eyesight_data": false,
@@ -1119,7 +1166,7 @@
                 "files": {
                     "dshc.full.7z.001": {
                         "name": "dshc.full.7z.001",
-                        "size": 48125694
+                        "size": 48125698
                     }
                 },
                 "has_eyesight_data": true,
@@ -1138,7 +1185,7 @@
                 "files": {
                     "dshc2.base_files.7z.001": {
                         "name": "dshc2.base_files.7z.001",
-                        "size": 3160287
+                        "size": 3160289
                     }
                 },
                 "has_eyesight_data": false,
@@ -1152,7 +1199,7 @@
                 "files": {
                     "dshc2.full.7z.001": {
                         "name": "dshc2.full.7z.001",
-                        "size": 53163047
+                        "size": 53163048
                     }
                 },
                 "has_eyesight_data": true,
@@ -1171,7 +1218,7 @@
                 "files": {
                     "efz.base_files.7z.001": {
                         "name": "efz.base_files.7z.001",
-                        "size": 1703011
+                        "size": 1703012
                     }
                 },
                 "has_eyesight_data": true,
@@ -1190,7 +1237,7 @@
                 "files": {
                     "en1a.base_files.7z.001": {
                         "name": "en1a.base_files.7z.001",
-                        "size": 96051
+                        "size": 96056
                     }
                 },
                 "has_eyesight_data": false,
@@ -1204,7 +1251,7 @@
                 "files": {
                     "en1a.full.7z.001": {
                         "name": "en1a.full.7z.001",
-                        "size": 2076799
+                        "size": 2076792
                     }
                 },
                 "has_eyesight_data": true,
@@ -1223,7 +1270,7 @@
                 "files": {
                     "esl2.base_files.7z.001": {
                         "name": "esl2.base_files.7z.001",
-                        "size": 950480
+                        "size": 950476
                     }
                 },
                 "has_eyesight_data": false,
@@ -1237,7 +1284,7 @@
                 "files": {
                     "esl2.full.7z.001": {
                         "name": "esl2.full.7z.001",
-                        "size": 16416319
+                        "size": 16416316
                     }
                 },
                 "has_eyesight_data": true,
@@ -1270,7 +1317,7 @@
                 "files": {
                     "fexl.full.7z.001": {
                         "name": "fexl.full.7z.001",
-                        "size": 4618490
+                        "size": 4618492
                     }
                 },
                 "has_eyesight_data": true,
@@ -1284,7 +1331,7 @@
                 "files": {
                     "fexl.variant_icon.7z.001": {
                         "name": "fexl.variant_icon.7z.001",
-                        "size": 1728882
+                        "size": 1728879
                     }
                 },
                 "has_eyesight_data": false,
@@ -1303,7 +1350,7 @@
                 "files": {
                     "ffcotw.base_files.7z.001": {
                         "name": "ffcotw.base_files.7z.001",
-                        "size": 4799777
+                        "size": 4799772
                     }
                 },
                 "has_eyesight_data": false,
@@ -1317,7 +1364,7 @@
                 "files": {
                     "ffcotw.full.7z.001": {
                         "name": "ffcotw.full.7z.001",
-                        "size": 17740958
+                        "size": 17740963
                     }
                 },
                 "has_eyesight_data": true,
@@ -1350,7 +1397,7 @@
                 "files": {
                     "foa.full.7z.001": {
                         "name": "foa.full.7z.001",
-                        "size": 1805320
+                        "size": 1805321
                     }
                 },
                 "has_eyesight_data": true,
@@ -1369,7 +1416,7 @@
                 "files": {
                     "footsies.base_files.7z.001": {
                         "name": "footsies.base_files.7z.001",
-                        "size": 2396
+                        "size": 2393
                     }
                 },
                 "has_eyesight_data": true,
@@ -1388,7 +1435,7 @@
                 "files": {
                     "fray.base_files.7z.001": {
                         "name": "fray.base_files.7z.001",
-                        "size": 400555
+                        "size": 400557
                     }
                 },
                 "has_eyesight_data": false,
@@ -1402,7 +1449,7 @@
                 "files": {
                     "fray.full.7z.001": {
                         "name": "fray.full.7z.001",
-                        "size": 413440
+                        "size": 413439
                     }
                 },
                 "has_eyesight_data": true,
@@ -1421,7 +1468,7 @@
                 "files": {
                     "fuc.base_files.7z.001": {
                         "name": "fuc.base_files.7z.001",
-                        "size": 745958
+                        "size": 745960
                     }
                 },
                 "has_eyesight_data": false,
@@ -1435,7 +1482,7 @@
                 "files": {
                     "fuc.full.7z.001": {
                         "name": "fuc.full.7z.001",
-                        "size": 37139807
+                        "size": 37139809
                     }
                 },
                 "has_eyesight_data": true,
@@ -1454,7 +1501,7 @@
                 "files": {
                     "garoumotw.base_files.7z.001": {
                         "name": "garoumotw.base_files.7z.001",
-                        "size": 279298
+                        "size": 279296
                     }
                 },
                 "has_eyesight_data": false,
@@ -1468,7 +1515,7 @@
                 "files": {
                     "garoumotw.full.7z.001": {
                         "name": "garoumotw.full.7z.001",
-                        "size": 23405221
+                        "size": 23405220
                     }
                 },
                 "has_eyesight_data": true,
@@ -1482,7 +1529,7 @@
                 "files": {
                     "garoumotw.portrait.7z.001": {
                         "name": "garoumotw.portrait.7z.001",
-                        "size": 262347
+                        "size": 262344
                     }
                 },
                 "has_eyesight_data": true,
@@ -1515,7 +1562,7 @@
                 "files": {
                     "gbvs.full.7z.001": {
                         "name": "gbvs.full.7z.001",
-                        "size": 28589292
+                        "size": 28589289
                     }
                 },
                 "has_eyesight_data": true,
@@ -1534,7 +1581,7 @@
                 "files": {
                     "gbvsr.base_files.7z.001": {
                         "name": "gbvsr.base_files.7z.001",
-                        "size": 18294936
+                        "size": 18294931
                     }
                 },
                 "has_eyesight_data": false,
@@ -1548,7 +1595,7 @@
                 "files": {
                     "gbvsr.full.7z.001": {
                         "name": "gbvsr.full.7z.001",
-                        "size": 107520058
+                        "size": 107520057
                     }
                 },
                 "has_eyesight_data": true,
@@ -1567,7 +1614,7 @@
                 "files": {
                     "ggst.base_files.7z.001": {
                         "name": "ggst.base_files.7z.001",
-                        "size": 1700931
+                        "size": 1700928
                     }
                 },
                 "has_eyesight_data": false,
@@ -1581,7 +1628,7 @@
                 "files": {
                     "ggst.chibi.7z.001": {
                         "name": "ggst.chibi.7z.001",
-                        "size": 14991225
+                        "size": 14991211
                     }
                 },
                 "has_eyesight_data": true,
@@ -1595,7 +1642,7 @@
                 "files": {
                     "ggst.full.7z.001": {
                         "name": "ggst.full.7z.001",
-                        "size": 27804520
+                        "size": 27804512
                     }
                 },
                 "has_eyesight_data": true,
@@ -1614,7 +1661,7 @@
                 "files": {
                     "ggxrd2.base_files.7z.001": {
                         "name": "ggxrd2.base_files.7z.001",
-                        "size": 1180294
+                        "size": 1180292
                     }
                 },
                 "has_eyesight_data": false,
@@ -1628,7 +1675,7 @@
                 "files": {
                     "ggxrd2.full.7z.001": {
                         "name": "ggxrd2.full.7z.001",
-                        "size": 11486543
+                        "size": 11486538
                     }
                 },
                 "has_eyesight_data": true,
@@ -1647,7 +1694,7 @@
                 "files": {
                     "ggxxacpr.base_files.7z.001": {
                         "name": "ggxxacpr.base_files.7z.001",
-                        "size": 602414
+                        "size": 602415
                     }
                 },
                 "has_eyesight_data": false,
@@ -1661,7 +1708,7 @@
                 "files": {
                     "ggxxacpr.full.7z.001": {
                         "name": "ggxxacpr.full.7z.001",
-                        "size": 38616473
+                        "size": 38616469
                     }
                 },
                 "has_eyesight_data": true,
@@ -1680,7 +1727,7 @@
                 "files": {
                     "gor.base_files.7z.001": {
                         "name": "gor.base_files.7z.001",
-                        "size": 1415415
+                        "size": 1415411
                     }
                 },
                 "has_eyesight_data": false,
@@ -1694,7 +1741,7 @@
                 "files": {
                     "gor.full.7z.001": {
                         "name": "gor.full.7z.001",
-                        "size": 3160469
+                        "size": 3160465
                     }
                 },
                 "has_eyesight_data": true,
@@ -1713,7 +1760,7 @@
                 "files": {
                     "hce.base_files.7z.001": {
                         "name": "hce.base_files.7z.001",
-                        "size": 405252
+                        "size": 405260
                     }
                 },
                 "has_eyesight_data": false,
@@ -1727,7 +1774,7 @@
                 "files": {
                     "hce.full.7z.001": {
                         "name": "hce.full.7z.001",
-                        "size": 2486098
+                        "size": 2486097
                     }
                 },
                 "has_eyesight_data": true,
@@ -1746,7 +1793,7 @@
                 "files": {
                     "hdbz.base_files.7z.001": {
                         "name": "hdbz.base_files.7z.001",
-                        "size": 22341
+                        "size": 22340
                     }
                 },
                 "has_eyesight_data": false,
@@ -1760,7 +1807,7 @@
                 "files": {
                     "hdbz.full.7z.001": {
                         "name": "hdbz.full.7z.001",
-                        "size": 219695
+                        "size": 219698
                     }
                 },
                 "has_eyesight_data": true,
@@ -1779,7 +1826,7 @@
                 "files": {
                     "hnk.base_files.7z.001": {
                         "name": "hnk.base_files.7z.001",
-                        "size": 383983
+                        "size": 383985
                     }
                 },
                 "has_eyesight_data": true,
@@ -1793,7 +1840,7 @@
                 "files": {
                     "hnk.full.7z.001": {
                         "name": "hnk.full.7z.001",
-                        "size": 1160387
+                        "size": 1160389
                     }
                 },
                 "has_eyesight_data": true,
@@ -1812,7 +1859,7 @@
                 "files": {
                     "hxhnxi.base_files.7z.001": {
                         "name": "hxhnxi.base_files.7z.001",
-                        "size": 3033380
+                        "size": 3033378
                     }
                 },
                 "has_eyesight_data": false,
@@ -1826,7 +1873,7 @@
                 "files": {
                     "hxhnxi.full.7z.001": {
                         "name": "hxhnxi.full.7z.001",
-                        "size": 11371067
+                        "size": 11371068
                     }
                 },
                 "has_eyesight_data": true,
@@ -1845,7 +1892,7 @@
                 "files": {
                     "idols.art.7z.001": {
                         "name": "idols.art.7z.001",
-                        "size": 82537378
+                        "size": 82537376
                     }
                 },
                 "has_eyesight_data": true,
@@ -1887,7 +1934,7 @@
                 "files": {
                     "idols.variant_icon.7z.001": {
                         "name": "idols.variant_icon.7z.001",
-                        "size": 86570
+                        "size": 86575
                     }
                 },
                 "has_eyesight_data": false,
@@ -1906,7 +1953,7 @@
                 "files": {
                     "invs.base_files.7z.001": {
                         "name": "invs.base_files.7z.001",
-                        "size": 1065784
+                        "size": 1065786
                     }
                 },
                 "has_eyesight_data": false,
@@ -1939,7 +1986,7 @@
                 "files": {
                     "isvs.arsenal.7z.001": {
                         "name": "isvs.arsenal.7z.001",
-                        "size": 2721101
+                        "size": 2721097
                     }
                 },
                 "has_eyesight_data": false,
@@ -1953,7 +2000,7 @@
                 "files": {
                     "isvs.base_files.7z.001": {
                         "name": "isvs.base_files.7z.001",
-                        "size": 14197259
+                        "size": 14197255
                     }
                 },
                 "has_eyesight_data": false,
@@ -1967,7 +2014,7 @@
                 "files": {
                     "isvs.full.7z.001": {
                         "name": "isvs.full.7z.001",
-                        "size": 17896421
+                        "size": 17896422
                     }
                 },
                 "has_eyesight_data": true,
@@ -1981,7 +2028,7 @@
                 "files": {
                     "isvs.pilot.7z.001": {
                         "name": "isvs.pilot.7z.001",
-                        "size": 16591759
+                        "size": 16591757
                     }
                 },
                 "has_eyesight_data": false,
@@ -2000,7 +2047,7 @@
                 "files": {
                     "jackie.base_files.7z.001": {
                         "name": "jackie.base_files.7z.001",
-                        "size": 269241
+                        "size": 269240
                     }
                 },
                 "has_eyesight_data": false,
@@ -2014,7 +2061,7 @@
                 "files": {
                     "jackie.full.7z.001": {
                         "name": "jackie.full.7z.001",
-                        "size": 1739895
+                        "size": 1739891
                     }
                 },
                 "has_eyesight_data": true,
@@ -2033,7 +2080,7 @@
                 "files": {
                     "jmf.base_files.7z.001": {
                         "name": "jmf.base_files.7z.001",
-                        "size": 15537
+                        "size": 15535
                     }
                 },
                 "has_eyesight_data": false,
@@ -2066,7 +2113,7 @@
                 "files": {
                     "jojoasbr.base_files.7z.001": {
                         "name": "jojoasbr.base_files.7z.001",
-                        "size": 2148624
+                        "size": 2148615
                     }
                 },
                 "has_eyesight_data": false,
@@ -2080,7 +2127,7 @@
                 "files": {
                     "jojoasbr.full.7z.001": {
                         "name": "jojoasbr.full.7z.001",
-                        "size": 15770748
+                        "size": 15770727
                     }
                 },
                 "has_eyesight_data": true,
@@ -2099,7 +2146,7 @@
                 "files": {
                     "jojohftf.base_files.7z.001": {
                         "name": "jojohftf.base_files.7z.001",
-                        "size": 857007
+                        "size": 857002
                     }
                 },
                 "has_eyesight_data": false,
@@ -2113,7 +2160,7 @@
                 "files": {
                     "jojohftf.full.7z.001": {
                         "name": "jojohftf.full.7z.001",
-                        "size": 370566
+                        "size": 370570
                     }
                 },
                 "has_eyesight_data": true,
@@ -2132,7 +2179,7 @@
                 "files": {
                     "kabuki.base_files.7z.001": {
                         "name": "kabuki.base_files.7z.001",
-                        "size": 341961
+                        "size": 341964
                     }
                 },
                 "has_eyesight_data": false,
@@ -2151,7 +2198,7 @@
                 "files": {
                     "kar.base_files.7z.001": {
                         "name": "kar.base_files.7z.001",
-                        "size": 1648070
+                        "size": 1648067
                     }
                 },
                 "has_eyesight_data": false,
@@ -2184,7 +2231,7 @@
                 "files": {
                     "kar2.full.7z.001": {
                         "name": "kar2.full.7z.001",
-                        "size": 37403855
+                        "size": 37403854
                     }
                 },
                 "has_eyesight_data": false,
@@ -2198,7 +2245,7 @@
                 "files": {
                     "kar2.variant_icon.7z.001": {
                         "name": "kar2.variant_icon.7z.001",
-                        "size": 26477768
+                        "size": 26477769
                     }
                 },
                 "has_eyesight_data": false,
@@ -2217,7 +2264,7 @@
                 "files": {
                     "karnov.base_files.7z.001": {
                         "name": "karnov.base_files.7z.001",
-                        "size": 169371
+                        "size": 169372
                     }
                 },
                 "has_eyesight_data": false,
@@ -2264,7 +2311,7 @@
                 "files": {
                     "kerrr3.base_files.7z.001": {
                         "name": "kerrr3.base_files.7z.001",
-                        "size": 1685655
+                        "size": 1685649
                     }
                 },
                 "has_eyesight_data": false,
@@ -2278,7 +2325,7 @@
                 "files": {
                     "kerrr3.full.7z.001": {
                         "name": "kerrr3.full.7z.001",
-                        "size": 9822464
+                        "size": 9822461
                     }
                 },
                 "has_eyesight_data": true,
@@ -2297,7 +2344,7 @@
                 "files": {
                     "kf2.base_files.7z.001": {
                         "name": "kf2.base_files.7z.001",
-                        "size": 1171178
+                        "size": 1171177
                     }
                 },
                 "has_eyesight_data": false,
@@ -2311,7 +2358,7 @@
                 "files": {
                     "kf2.full.7z.001": {
                         "name": "kf2.full.7z.001",
-                        "size": 1951174
+                        "size": 1951170
                     }
                 },
                 "has_eyesight_data": true,
@@ -2330,7 +2377,7 @@
                 "files": {
                     "killerinstinct.base_files.7z.001": {
                         "name": "killerinstinct.base_files.7z.001",
-                        "size": 2218988
+                        "size": 2218984
                     }
                 },
                 "has_eyesight_data": false,
@@ -2344,7 +2391,7 @@
                 "files": {
                     "killerinstinct.full.7z.001": {
                         "name": "killerinstinct.full.7z.001",
-                        "size": 18378333
+                        "size": 18378337
                     }
                 },
                 "has_eyesight_data": true,
@@ -2377,7 +2424,7 @@
                 "files": {
                     "kizuna.full.7z.001": {
                         "name": "kizuna.full.7z.001",
-                        "size": 390535
+                        "size": 390530
                     }
                 },
                 "has_eyesight_data": true,
@@ -2410,7 +2457,7 @@
                 "files": {
                     "klkif.full.7z.001": {
                         "name": "klkif.full.7z.001",
-                        "size": 6608056
+                        "size": 6608050
                     }
                 },
                 "has_eyesight_data": true,
@@ -2429,7 +2476,7 @@
                 "files": {
                     "kof02um.base_files.7z.001": {
                         "name": "kof02um.base_files.7z.001",
-                        "size": 7149441
+                        "size": 7149432
                     }
                 },
                 "has_eyesight_data": false,
@@ -2443,7 +2490,7 @@
                 "files": {
                     "kof02um.full.7z.001": {
                         "name": "kof02um.full.7z.001",
-                        "size": 43166687
+                        "size": 43166678
                     }
                 },
                 "has_eyesight_data": true,
@@ -2457,7 +2504,7 @@
                 "files": {
                     "kof02um.full_win.7z.001": {
                         "name": "kof02um.full_win.7z.001",
-                        "size": 59012020
+                        "size": 59012016
                     }
                 },
                 "has_eyesight_data": false,
@@ -2490,7 +2537,7 @@
                 "files": {
                     "kof03.full.7z.001": {
                         "name": "kof03.full.7z.001",
-                        "size": 3309311
+                        "size": 3309336
                     }
                 },
                 "has_eyesight_data": true,
@@ -2509,7 +2556,7 @@
                 "files": {
                     "kof98umfe.base_files.7z.001": {
                         "name": "kof98umfe.base_files.7z.001",
-                        "size": 699425
+                        "size": 699421
                     }
                 },
                 "has_eyesight_data": false,
@@ -2523,7 +2570,7 @@
                 "files": {
                     "kof98umfe.mobile.7z.001": {
                         "name": "kof98umfe.mobile.7z.001",
-                        "size": 48533094
+                        "size": 48533113
                     }
                 },
                 "has_eyesight_data": true,
@@ -2542,7 +2589,7 @@
                 "files": {
                     "kofmira.base_files.7z.001": {
                         "name": "kofmira.base_files.7z.001",
-                        "size": 921235
+                        "size": 921232
                     }
                 },
                 "has_eyesight_data": false,
@@ -2556,7 +2603,7 @@
                 "files": {
                     "kofmira.full.7z.001": {
                         "name": "kofmira.full.7z.001",
-                        "size": 5112235
+                        "size": 5112234
                     }
                 },
                 "has_eyesight_data": true,
@@ -2575,7 +2622,7 @@
                 "files": {
                     "kofxi.base_files.7z.001": {
                         "name": "kofxi.base_files.7z.001",
-                        "size": 997695
+                        "size": 997698
                     }
                 },
                 "has_eyesight_data": false,
@@ -2589,7 +2636,7 @@
                 "files": {
                     "kofxi.full.7z.001": {
                         "name": "kofxi.full.7z.001",
-                        "size": 7117754
+                        "size": 7117751
                     }
                 },
                 "has_eyesight_data": true,
@@ -2603,7 +2650,7 @@
                 "files": {
                     "kofxi.portrait.7z.001": {
                         "name": "kofxi.portrait.7z.001",
-                        "size": 3511771
+                        "size": 3511760
                     }
                 },
                 "has_eyesight_data": true,
@@ -2622,7 +2669,7 @@
                 "files": {
                     "kofxiii.base_files.7z.001": {
                         "name": "kofxiii.base_files.7z.001",
-                        "size": 585798
+                        "size": 585795
                     }
                 },
                 "has_eyesight_data": false,
@@ -2636,7 +2683,7 @@
                 "files": {
                     "kofxiii.full.7z.001": {
                         "name": "kofxiii.full.7z.001",
-                        "size": 5421762
+                        "size": 5421755
                     }
                 },
                 "has_eyesight_data": true,
@@ -2650,7 +2697,7 @@
                 "files": {
                     "kofxiii.portrait.7z.001": {
                         "name": "kofxiii.portrait.7z.001",
-                        "size": 2739863
+                        "size": 2739858
                     }
                 },
                 "has_eyesight_data": false,
@@ -2669,7 +2716,7 @@
                 "files": {
                     "kofxv.base_files.7z.001": {
                         "name": "kofxv.base_files.7z.001",
-                        "size": 8584327
+                        "size": 8584304
                     }
                 },
                 "has_eyesight_data": false,
@@ -2683,7 +2730,7 @@
                 "files": {
                     "kofxv.full.7z.001": {
                         "name": "kofxv.full.7z.001",
-                        "size": 47183268
+                        "size": 47183257
                     }
                 },
                 "has_eyesight_data": true,
@@ -2702,7 +2749,7 @@
                 "files": {
                     "kyanta.base_files.7z.001": {
                         "name": "kyanta.base_files.7z.001",
-                        "size": 88306
+                        "size": 88305
                     }
                 },
                 "has_eyesight_data": false,
@@ -2716,7 +2763,7 @@
                 "files": {
                     "kyanta.full.7z.001": {
                         "name": "kyanta.full.7z.001",
-                        "size": 1174538
+                        "size": 1174537
                     }
                 },
                 "has_eyesight_data": false,
@@ -2730,7 +2777,7 @@
                 "files": {
                     "kyanta.full_win.7z.001": {
                         "name": "kyanta.full_win.7z.001",
-                        "size": 2081395
+                        "size": 2081394
                     }
                 },
                 "has_eyesight_data": true,
@@ -2749,7 +2796,7 @@
                 "files": {
                     "lb2.base_files.7z.001": {
                         "name": "lb2.base_files.7z.001",
-                        "size": 811813
+                        "size": 811816
                     }
                 },
                 "has_eyesight_data": true,
@@ -2768,7 +2815,7 @@
                 "files": {
                     "llb.base_files.7z.001": {
                         "name": "llb.base_files.7z.001",
-                        "size": 261561
+                        "size": 261557
                     }
                 },
                 "has_eyesight_data": false,
@@ -2796,7 +2843,7 @@
                 "files": {
                     "llb.stage_icon.7z.001": {
                         "name": "llb.stage_icon.7z.001",
-                        "size": 2913482
+                        "size": 2913476
                     }
                 },
                 "has_eyesight_data": false,
@@ -2829,7 +2876,7 @@
                 "files": {
                     "lmaker.ending.7z.001": {
                         "name": "lmaker.ending.7z.001",
-                        "size": 263086
+                        "size": 263087
                     }
                 },
                 "has_eyesight_data": true,
@@ -2843,7 +2890,7 @@
                 "files": {
                     "lmaker.full.7z.001": {
                         "name": "lmaker.full.7z.001",
-                        "size": 257121
+                        "size": 257120
                     }
                 },
                 "has_eyesight_data": true,
@@ -2857,7 +2904,7 @@
                 "files": {
                     "lmaker.full_alt.7z.001": {
                         "name": "lmaker.full_alt.7z.001",
-                        "size": 221230
+                        "size": 221224
                     }
                 },
                 "has_eyesight_data": true,
@@ -2876,7 +2923,7 @@
                 "files": {
                     "lor.base_files.7z.001": {
                         "name": "lor.base_files.7z.001",
-                        "size": 357647
+                        "size": 357640
                     }
                 },
                 "has_eyesight_data": false,
@@ -2895,7 +2942,7 @@
                 "files": {
                     "maab.base_files.7z.001": {
                         "name": "maab.base_files.7z.001",
-                        "size": 947552
+                        "size": 947551
                     }
                 },
                 "has_eyesight_data": false,
@@ -2909,7 +2956,7 @@
                 "files": {
                     "maab.full.7z.001": {
                         "name": "maab.full.7z.001",
-                        "size": 904674
+                        "size": 904671
                     }
                 },
                 "has_eyesight_data": true,
@@ -2928,7 +2975,7 @@
                 "files": {
                     "martial.base_files.7z.001": {
                         "name": "martial.base_files.7z.001",
-                        "size": 215044
+                        "size": 215043
                     }
                 },
                 "has_eyesight_data": false,
@@ -2942,7 +2989,7 @@
                 "files": {
                     "martial.full.7z.001": {
                         "name": "martial.full.7z.001",
-                        "size": 475446
+                        "size": 475448
                     }
                 },
                 "has_eyesight_data": true,
@@ -3022,7 +3069,7 @@
                 "files": {
                     "mbtl.base_files.7z.001": {
                         "name": "mbtl.base_files.7z.001",
-                        "size": 213530
+                        "size": 213532
                     }
                 },
                 "has_eyesight_data": false,
@@ -3036,7 +3083,7 @@
                 "files": {
                     "mbtl.full.7z.001": {
                         "name": "mbtl.full.7z.001",
-                        "size": 8163132
+                        "size": 8163124
                     }
                 },
                 "has_eyesight_data": true,
@@ -3050,7 +3097,7 @@
                 "files": {
                     "mbtl.full_website.7z.001": {
                         "name": "mbtl.full_website.7z.001",
-                        "size": 5537356
+                        "size": 5537350
                     }
                 },
                 "has_eyesight_data": true,
@@ -3064,7 +3111,7 @@
                 "files": {
                     "mbtl.tsukihime.7z.001": {
                         "name": "mbtl.tsukihime.7z.001",
-                        "size": 19892193
+                        "size": 19892195
                     }
                 },
                 "has_eyesight_data": true,
@@ -3083,7 +3130,7 @@
                 "files": {
                     "mchamp.base_files.7z.001": {
                         "name": "mchamp.base_files.7z.001",
-                        "size": 379485
+                        "size": 379491
                     }
                 },
                 "has_eyesight_data": true,
@@ -3102,7 +3149,7 @@
                 "files": {
                     "merfight.base_files.7z.001": {
                         "name": "merfight.base_files.7z.001",
-                        "size": 459116
+                        "size": 459109
                     }
                 },
                 "has_eyesight_data": false,
@@ -3116,7 +3163,7 @@
                 "files": {
                     "merfight.full.7z.001": {
                         "name": "merfight.full.7z.001",
-                        "size": 3641750
+                        "size": 3641748
                     }
                 },
                 "has_eyesight_data": true,
@@ -3135,7 +3182,7 @@
                 "files": {
                     "mhoj2.base_files.7z.001": {
                         "name": "mhoj2.base_files.7z.001",
-                        "size": 26189779
+                        "size": 26189766
                     }
                 },
                 "has_eyesight_data": true,
@@ -3154,7 +3201,7 @@
                 "files": {
                     "mk1.base_files.7z.001": {
                         "name": "mk1.base_files.7z.001",
-                        "size": 10687821
+                        "size": 10687815
                     }
                 },
                 "has_eyesight_data": false,
@@ -3168,7 +3215,7 @@
                 "files": {
                     "mk1.costume.7z.001": {
                         "name": "mk1.costume.7z.001",
-                        "size": 1536586487
+                        "size": 1536586413
                     }
                 },
                 "has_eyesight_data": true,
@@ -3182,7 +3229,7 @@
                 "files": {
                     "mk1.full.7z.001": {
                         "name": "mk1.full.7z.001",
-                        "size": 29237365
+                        "size": 29237360
                     }
                 },
                 "has_eyesight_data": true,
@@ -3196,7 +3243,7 @@
                 "files": {
                     "mk1.portrait.7z.001": {
                         "name": "mk1.portrait.7z.001",
-                        "size": 18161435
+                        "size": 18161427
                     }
                 },
                 "has_eyesight_data": true,
@@ -3210,7 +3257,7 @@
                 "files": {
                     "mk1.variant_icon.7z.001": {
                         "name": "mk1.variant_icon.7z.001",
-                        "size": 2019497
+                        "size": 2019495
                     }
                 },
                 "has_eyesight_data": false,
@@ -3229,7 +3276,7 @@
                 "files": {
                     "mk11.base_files.7z.001": {
                         "name": "mk11.base_files.7z.001",
-                        "size": 946865
+                        "size": 946864
                     }
                 },
                 "has_eyesight_data": false,
@@ -3248,7 +3295,7 @@
                 "files": {
                     "mk64.base_files.7z.001": {
                         "name": "mk64.base_files.7z.001",
-                        "size": 5264216
+                        "size": 5264213
                     }
                 },
                 "has_eyesight_data": true,
@@ -3281,7 +3328,7 @@
                 "files": {
                     "mk8dx.stage_icon.7z.001": {
                         "name": "mk8dx.stage_icon.7z.001",
-                        "size": 64197156
+                        "size": 64197146
                     }
                 },
                 "has_eyesight_data": false,
@@ -3300,7 +3347,7 @@
                 "files": {
                     "mkdd.base_files.7z.001": {
                         "name": "mkdd.base_files.7z.001",
-                        "size": 391165
+                        "size": 391160
                     }
                 },
                 "has_eyesight_data": false,
@@ -3314,7 +3361,7 @@
                 "files": {
                     "mkdd.full.7z.001": {
                         "name": "mkdd.full.7z.001",
-                        "size": 658330
+                        "size": 658333
                     }
                 },
                 "has_eyesight_data": true,
@@ -3342,7 +3389,7 @@
                 "files": {
                     "mkdd.variant_icon.7z.001": {
                         "name": "mkdd.variant_icon.7z.001",
-                        "size": 66433
+                        "size": 66428
                     }
                 },
                 "has_eyesight_data": false,
@@ -3361,7 +3408,7 @@
                 "files": {
                     "mkwii.base_files.7z.001": {
                         "name": "mkwii.base_files.7z.001",
-                        "size": 3430111
+                        "size": 3430109
                     }
                 },
                 "has_eyesight_data": false,
@@ -3375,7 +3422,7 @@
                 "files": {
                     "mkwii.full.7z.001": {
                         "name": "mkwii.full.7z.001",
-                        "size": 65332609
+                        "size": 65332605
                     }
                 },
                 "has_eyesight_data": true,
@@ -3403,7 +3450,7 @@
                 "files": {
                     "mkwii.variant_icon.7z.001": {
                         "name": "mkwii.variant_icon.7z.001",
-                        "size": 143681
+                        "size": 143682
                     }
                 },
                 "has_eyesight_data": false,
@@ -3422,7 +3469,7 @@
                 "files": {
                     "mkwld.base_files.7z.001": {
                         "name": "mkwld.base_files.7z.001",
-                        "size": 13370556
+                        "size": 13370546
                     }
                 },
                 "has_eyesight_data": false,
@@ -3436,7 +3483,7 @@
                 "files": {
                     "mkwld.stage_icon.7z.001": {
                         "name": "mkwld.stage_icon.7z.001",
-                        "size": 2091514
+                        "size": 2091507
                     }
                 },
                 "has_eyesight_data": false,
@@ -3455,7 +3502,7 @@
                 "files": {
                     "mkxl.base_files.7z.001": {
                         "name": "mkxl.base_files.7z.001",
-                        "size": 37572150
+                        "size": 37572138
                     }
                 },
                 "has_eyesight_data": true,
@@ -3474,7 +3521,7 @@
                 "files": {
                     "mriv.background.7z.001": {
                         "name": "mriv.background.7z.001",
-                        "size": 15397366
+                        "size": 15397367
                     }
                 },
                 "has_eyesight_data": false,
@@ -3488,7 +3535,7 @@
                 "files": {
                     "mriv.base_files.7z.001": {
                         "name": "mriv.base_files.7z.001",
-                        "size": 29018805
+                        "size": 29018802
                     }
                 },
                 "has_eyesight_data": false,
@@ -3502,7 +3549,7 @@
                 "files": {
                     "mriv.full.7z.001": {
                         "name": "mriv.full.7z.001",
-                        "size": 23969812
+                        "size": 23969809
                     }
                 },
                 "has_eyesight_data": true,
@@ -3521,7 +3568,7 @@
                 "files": {
                     "msb.base_files.7z.001": {
                         "name": "msb.base_files.7z.001",
-                        "size": 259751
+                        "size": 259748
                     }
                 },
                 "has_eyesight_data": false,
@@ -3535,7 +3582,7 @@
                 "files": {
                     "msb.full.7z.001": {
                         "name": "msb.full.7z.001",
-                        "size": 20065729
+                        "size": 20065726
                     }
                 },
                 "has_eyesight_data": true,
@@ -3549,7 +3596,7 @@
                 "files": {
                     "msb.variant_icon.7z.001": {
                         "name": "msb.variant_icon.7z.001",
-                        "size": 98579
+                        "size": 98578
                     }
                 },
                 "has_eyesight_data": false,
@@ -3582,7 +3629,7 @@
                 "files": {
                     "msbl.full.7z.001": {
                         "name": "msbl.full.7z.001",
-                        "size": 11910104
+                        "size": 11910103
                     }
                 },
                 "has_eyesight_data": true,
@@ -3615,7 +3662,7 @@
                 "files": {
                     "msc.card.7z.001": {
                         "name": "msc.card.7z.001",
-                        "size": 1692061
+                        "size": 1692058
                     }
                 },
                 "has_eyesight_data": false,
@@ -3648,7 +3695,7 @@
                 "files": {
                     "msh.base_files.7z.001": {
                         "name": "msh.base_files.7z.001",
-                        "size": 698473
+                        "size": 698472
                     }
                 },
                 "has_eyesight_data": true,
@@ -3667,7 +3714,7 @@
                 "files": {
                     "mta.base_files.7z.001": {
                         "name": "mta.base_files.7z.001",
-                        "size": 1092825
+                        "size": 1092819
                     }
                 },
                 "has_eyesight_data": false,
@@ -3681,7 +3728,7 @@
                 "files": {
                     "mta.full.7z.001": {
                         "name": "mta.full.7z.001",
-                        "size": 22276149
+                        "size": 22276140
                     }
                 },
                 "has_eyesight_data": false,
@@ -3709,7 +3756,7 @@
                 "files": {
                     "mta.logo.7z.001": {
                         "name": "mta.logo.7z.001",
-                        "size": 1305892
+                        "size": 1305885
                     }
                 },
                 "has_eyesight_data": false,
@@ -3728,7 +3775,7 @@
                 "files": {
                     "multiversus.base_files.7z.001": {
                         "name": "multiversus.base_files.7z.001",
-                        "size": 7678329
+                        "size": 7678319
                     }
                 },
                 "has_eyesight_data": false,
@@ -3742,7 +3789,7 @@
                 "files": {
                     "multiversus.full.7z.001": {
                         "name": "multiversus.full.7z.001",
-                        "size": 158634163
+                        "size": 158634123
                     }
                 },
                 "has_eyesight_data": true,
@@ -3761,7 +3808,7 @@
                 "files": {
                     "mvc.base_files.7z.001": {
                         "name": "mvc.base_files.7z.001",
-                        "size": 833553
+                        "size": 833552
                     }
                 },
                 "has_eyesight_data": true,
@@ -3780,7 +3827,7 @@
                 "files": {
                     "mvc2.base_files.7z.001": {
                         "name": "mvc2.base_files.7z.001",
-                        "size": 1141105
+                        "size": 1141106
                     }
                 },
                 "has_eyesight_data": false,
@@ -3794,7 +3841,7 @@
                 "files": {
                     "mvc2.full.7z.001": {
                         "name": "mvc2.full.7z.001",
-                        "size": 52439333
+                        "size": 52439331
                     }
                 },
                 "has_eyesight_data": true,
@@ -3813,7 +3860,7 @@
                 "files": {
                     "mvci.base_files.7z.001": {
                         "name": "mvci.base_files.7z.001",
-                        "size": 7934105
+                        "size": 7934108
                     }
                 },
                 "has_eyesight_data": false,
@@ -3827,7 +3874,7 @@
                 "files": {
                     "mvci.full.7z.001": {
                         "name": "mvci.full.7z.001",
-                        "size": 435854599
+                        "size": 435854552
                     }
                 },
                 "has_eyesight_data": true,
@@ -3841,7 +3888,7 @@
                 "files": {
                     "mvci.full_old.7z.001": {
                         "name": "mvci.full_old.7z.001",
-                        "size": 7220758
+                        "size": 7220749
                     }
                 },
                 "has_eyesight_data": true,
@@ -3855,7 +3902,7 @@
                 "files": {
                     "mvci.icon_old.7z.001": {
                         "name": "mvci.icon_old.7z.001",
-                        "size": 74507
+                        "size": 74508
                     }
                 },
                 "has_eyesight_data": true,
@@ -3874,7 +3921,7 @@
                 "files": {
                     "mvsf.base_files.7z.001": {
                         "name": "mvsf.base_files.7z.001",
-                        "size": 948190
+                        "size": 948192
                     }
                 },
                 "has_eyesight_data": false,
@@ -3888,7 +3935,7 @@
                 "files": {
                     "mvsf.full.7z.001": {
                         "name": "mvsf.full.7z.001",
-                        "size": 589782
+                        "size": 589780
                     }
                 },
                 "has_eyesight_data": true,
@@ -3907,7 +3954,7 @@
                 "files": {
                     "nasb.ani.7z.001": {
                         "name": "nasb.ani.7z.001",
-                        "size": 8973085
+                        "size": 8973090
                     }
                 },
                 "has_eyesight_data": false,
@@ -3921,7 +3968,7 @@
                 "files": {
                     "nasb.base_files.7z.001": {
                         "name": "nasb.base_files.7z.001",
-                        "size": 7689418
+                        "size": 7689402
                     }
                 },
                 "has_eyesight_data": false,
@@ -3935,7 +3982,7 @@
                 "files": {
                     "nasb.full.7z.001": {
                         "name": "nasb.full.7z.001",
-                        "size": 50286818
+                        "size": 50286812
                     }
                 },
                 "has_eyesight_data": true,
@@ -3949,7 +3996,7 @@
                 "files": {
                     "nasb.stage_icon.7z.001": {
                         "name": "nasb.stage_icon.7z.001",
-                        "size": 64946935
+                        "size": 64946933
                     }
                 },
                 "has_eyesight_data": false,
@@ -3968,7 +4015,7 @@
                 "files": {
                     "nasb2.base_files.7z.001": {
                         "name": "nasb2.base_files.7z.001",
-                        "size": 824266
+                        "size": 824263
                     }
                 },
                 "has_eyesight_data": false,
@@ -3982,7 +4029,7 @@
                 "files": {
                     "nasb2.render.7z.001": {
                         "name": "nasb2.render.7z.001",
-                        "size": 248146907
+                        "size": 248146898
                     }
                 },
                 "has_eyesight_data": true,
@@ -3996,7 +4043,7 @@
                 "files": {
                     "nasb2.stage_icon.7z.001": {
                         "name": "nasb2.stage_icon.7z.001",
-                        "size": 24359304
+                        "size": 24359306
                     }
                 },
                 "has_eyesight_data": false,
@@ -4015,7 +4062,7 @@
                 "files": {
                     "neoturf.base_files.7z.001": {
                         "name": "neoturf.base_files.7z.001",
-                        "size": 77417
+                        "size": 77410
                     }
                 },
                 "has_eyesight_data": false,
@@ -4048,7 +4095,7 @@
                 "files": {
                     "ngnt4.base_files.7z.001": {
                         "name": "ngnt4.base_files.7z.001",
-                        "size": 940321
+                        "size": 940317
                     }
                 },
                 "has_eyesight_data": true,
@@ -4062,7 +4109,7 @@
                 "files": {
                     "ngnt4.full.7z.001": {
                         "name": "ngnt4.full.7z.001",
-                        "size": 81776470
+                        "size": 81776453
                     }
                 },
                 "has_eyesight_data": true,
@@ -4081,7 +4128,7 @@
                 "files": {
                     "ninmasters.base_files.7z.001": {
                         "name": "ninmasters.base_files.7z.001",
-                        "size": 414687
+                        "size": 414679
                     }
                 },
                 "has_eyesight_data": false,
@@ -4100,7 +4147,7 @@
                 "files": {
                     "ninza.base_files.7z.001": {
                         "name": "ninza.base_files.7z.001",
-                        "size": 1578922
+                        "size": 1578905
                     }
                 },
                 "has_eyesight_data": true,
@@ -4114,7 +4161,7 @@
                 "files": {
                     "ninza.full.7z.001": {
                         "name": "ninza.full.7z.001",
-                        "size": 2591632
+                        "size": 2591628
                     }
                 },
                 "has_eyesight_data": true,
@@ -4133,7 +4180,7 @@
                 "files": {
                     "nsmb.base_files.7z.001": {
                         "name": "nsmb.base_files.7z.001",
-                        "size": 199095
+                        "size": 199093
                     }
                 },
                 "has_eyesight_data": false,
@@ -4147,7 +4194,7 @@
                 "files": {
                     "nsmb.full.7z.001": {
                         "name": "nsmb.full.7z.001",
-                        "size": 3161672
+                        "size": 3161671
                     }
                 },
                 "has_eyesight_data": true,
@@ -4166,7 +4213,7 @@
                 "files": {
                     "opxdbz.base_files.7z.001": {
                         "name": "opxdbz.base_files.7z.001",
-                        "size": 1648908
+                        "size": 1648891
                     }
                 },
                 "has_eyesight_data": false,
@@ -4180,7 +4227,7 @@
                 "files": {
                     "opxdbz.full.7z.001": {
                         "name": "opxdbz.full.7z.001",
-                        "size": 593960
+                        "size": 593950
                     }
                 },
                 "has_eyesight_data": true,
@@ -4199,7 +4246,7 @@
                 "files": {
                     "ostrikers.art.7z.001": {
                         "name": "ostrikers.art.7z.001",
-                        "size": 173204259
+                        "size": 173204255
                     }
                 },
                 "has_eyesight_data": true,
@@ -4213,7 +4260,7 @@
                 "files": {
                     "ostrikers.base_files.7z.001": {
                         "name": "ostrikers.base_files.7z.001",
-                        "size": 2197079
+                        "size": 2197077
                     }
                 },
                 "has_eyesight_data": false,
@@ -4227,7 +4274,7 @@
                 "files": {
                     "ostrikers.full.7z.001": {
                         "name": "ostrikers.full.7z.001",
-                        "size": 9928124
+                        "size": 9928125
                     }
                 },
                 "has_eyesight_data": true,
@@ -4246,7 +4293,7 @@
                 "files": {
                     "outfoxies.base_files.7z.001": {
                         "name": "outfoxies.base_files.7z.001",
-                        "size": 135865
+                        "size": 135864
                     }
                 },
                 "has_eyesight_data": true,
@@ -4265,7 +4312,7 @@
                 "files": {
                     "p4au.base_files.7z.001": {
                         "name": "p4au.base_files.7z.001",
-                        "size": 1058603
+                        "size": 1058602
                     }
                 },
                 "has_eyesight_data": false,
@@ -4279,7 +4326,7 @@
                 "files": {
                     "p4au.full.7z.001": {
                         "name": "p4au.full.7z.001",
-                        "size": 8893575
+                        "size": 8893573
                     }
                 },
                 "has_eyesight_data": true,
@@ -4293,7 +4340,7 @@
                 "files": {
                     "p4au.top8.7z.001": {
                         "name": "p4au.top8.7z.001",
-                        "size": 16357454
+                        "size": 16357447
                     }
                 },
                 "has_eyesight_data": true,
@@ -4312,7 +4359,7 @@
                 "files": {
                     "panel.base_files.7z.001": {
                         "name": "panel.base_files.7z.001",
-                        "size": 600761
+                        "size": 600759
                     }
                 },
                 "has_eyesight_data": false,
@@ -4326,7 +4373,7 @@
                 "files": {
                     "panel.full.7z.001": {
                         "name": "panel.full.7z.001",
-                        "size": 60456
+                        "size": 60451
                     }
                 },
                 "has_eyesight_data": false,
@@ -4345,7 +4392,7 @@
                 "files": {
                     "panel64.base_files.7z.001": {
                         "name": "panel64.base_files.7z.001",
-                        "size": 805590
+                        "size": 805588
                     }
                 },
                 "has_eyesight_data": false,
@@ -4364,7 +4411,7 @@
                 "files": {
                     "panelgcn.base_files.7z.001": {
                         "name": "panelgcn.base_files.7z.001",
-                        "size": 513730
+                        "size": 513727
                     }
                 },
                 "has_eyesight_data": true,
@@ -4383,7 +4430,7 @@
                 "files": {
                     "panelna.base_files.7z.001": {
                         "name": "panelna.base_files.7z.001",
-                        "size": 469836
+                        "size": 469829
                     }
                 },
                 "has_eyesight_data": false,
@@ -4416,7 +4463,7 @@
                 "files": {
                     "pbo.base_files.7z.001": {
                         "name": "pbo.base_files.7z.001",
-                        "size": 1956799
+                        "size": 1956787
                     }
                 },
                 "has_eyesight_data": false,
@@ -4430,7 +4477,7 @@
                 "files": {
                     "pbo.full.7z.001": {
                         "name": "pbo.full.7z.001",
-                        "size": 10075251
+                        "size": 10075250
                     }
                 },
                 "has_eyesight_data": true,
@@ -4449,7 +4496,7 @@
                 "files": {
                     "pbrave.base_files.7z.001": {
                         "name": "pbrave.base_files.7z.001",
-                        "size": 28738200
+                        "size": 28738201
                     }
                 },
                 "has_eyesight_data": true,
@@ -4463,7 +4510,7 @@
                 "files": {
                     "pbrave.full.7z.001": {
                         "name": "pbrave.full.7z.001",
-                        "size": 95129740
+                        "size": 95129742
                     }
                 },
                 "has_eyesight_data": true,
@@ -4482,7 +4529,7 @@
                 "files": {
                     "pcombat.base_files.7z.001": {
                         "name": "pcombat.base_files.7z.001",
-                        "size": 223712
+                        "size": 223710
                     }
                 },
                 "has_eyesight_data": false,
@@ -4496,7 +4543,7 @@
                 "files": {
                     "pcombat.full.7z.001": {
                         "name": "pcombat.full.7z.001",
-                        "size": 293459
+                        "size": 293457
                     }
                 },
                 "has_eyesight_data": true,
@@ -4529,7 +4576,7 @@
                 "files": {
                     "pjustice.full.7z.001": {
                         "name": "pjustice.full.7z.001",
-                        "size": 1031956
+                        "size": 1031954
                     }
                 },
                 "has_eyesight_data": true,
@@ -4548,7 +4595,7 @@
                 "files": {
                     "pkmn.base_files.7z.001": {
                         "name": "pkmn.base_files.7z.001",
-                        "size": 18744767
+                        "size": 18744772
                     }
                 },
                 "has_eyesight_data": false,
@@ -4562,7 +4609,7 @@
                 "files": {
                     "pkmn.full.7z.001": {
                         "name": "pkmn.full.7z.001",
-                        "size": 129923868
+                        "size": 129923803
                     }
                 },
                 "has_eyesight_data": false,
@@ -4576,7 +4623,7 @@
                 "files": {
                     "pkmn.pixel_box.7z.001": {
                         "name": "pkmn.pixel_box.7z.001",
-                        "size": 765220
+                        "size": 765238
                     }
                 },
                 "has_eyesight_data": false,
@@ -4595,7 +4642,7 @@
                 "files": {
                     "pocket.base_files.7z.001": {
                         "name": "pocket.base_files.7z.001",
-                        "size": 40762
+                        "size": 40764
                     }
                 },
                 "has_eyesight_data": false,
@@ -4609,7 +4656,7 @@
                 "files": {
                     "pocket.full.7z.001": {
                         "name": "pocket.full.7z.001",
-                        "size": 80075
+                        "size": 80069
                     }
                 },
                 "has_eyesight_data": false,
@@ -4628,7 +4675,7 @@
                 "files": {
                     "pokkendx.base_files.7z.001": {
                         "name": "pokkendx.base_files.7z.001",
-                        "size": 4460465
+                        "size": 4460456
                     }
                 },
                 "has_eyesight_data": false,
@@ -4642,7 +4689,7 @@
                 "files": {
                     "pokkendx.full.7z.001": {
                         "name": "pokkendx.full.7z.001",
-                        "size": 21618221
+                        "size": 21618218
                     }
                 },
                 "has_eyesight_data": true,
@@ -4661,7 +4708,7 @@
                 "files": {
                     "pplanet.base_files.7z.001": {
                         "name": "pplanet.base_files.7z.001",
-                        "size": 56736
+                        "size": 56737
                     }
                 },
                 "has_eyesight_data": false,
@@ -4675,7 +4722,7 @@
                 "files": {
                     "pplanet.full.7z.001": {
                         "name": "pplanet.full.7z.001",
-                        "size": 3951662
+                        "size": 3951661
                     }
                 },
                 "has_eyesight_data": false,
@@ -4708,7 +4755,7 @@
                 "files": {
                     "pplus.full.7z.001": {
                         "name": "pplus.full.7z.001",
-                        "size": 18139132
+                        "size": 18139127
                     }
                 },
                 "has_eyesight_data": true,
@@ -4722,7 +4769,7 @@
                 "files": {
                     "pplus.portrait.7z.001": {
                         "name": "pplus.portrait.7z.001",
-                        "size": 168665273
+                        "size": 168665236
                     }
                 },
                 "has_eyesight_data": true,
@@ -4741,7 +4788,7 @@
                 "files": {
                     "ppt2.base_files.7z.001": {
                         "name": "ppt2.base_files.7z.001",
-                        "size": 5860108
+                        "size": 5860106
                     }
                 },
                 "has_eyesight_data": true,
@@ -4760,7 +4807,7 @@
                 "files": {
                     "prbftg.base_files.7z.001": {
                         "name": "prbftg.base_files.7z.001",
-                        "size": 1414450
+                        "size": 1414446
                     }
                 },
                 "has_eyesight_data": false,
@@ -4774,7 +4821,7 @@
                 "files": {
                     "prbftg.full.7z.001": {
                         "name": "prbftg.full.7z.001",
-                        "size": 24711451
+                        "size": 24711449
                     }
                 },
                 "has_eyesight_data": true,
@@ -4788,7 +4835,7 @@
                 "files": {
                     "prbftg.variant_icon.7z.001": {
                         "name": "prbftg.variant_icon.7z.001",
-                        "size": 326978
+                        "size": 326975
                     }
                 },
                 "has_eyesight_data": false,
@@ -4807,7 +4854,7 @@
                 "files": {
                     "primal.anim.7z.001": {
                         "name": "primal.anim.7z.001",
-                        "size": 830751
+                        "size": 830750
                     }
                 },
                 "has_eyesight_data": false,
@@ -4821,7 +4868,7 @@
                 "files": {
                     "primal.base_files.7z.001": {
                         "name": "primal.base_files.7z.001",
-                        "size": 202897
+                        "size": 202891
                     }
                 },
                 "has_eyesight_data": false,
@@ -4840,7 +4887,7 @@
                 "files": {
                     "pstone.base_files.7z.001": {
                         "name": "pstone.base_files.7z.001",
-                        "size": 697678
+                        "size": 697675
                     }
                 },
                 "has_eyesight_data": false,
@@ -4878,7 +4925,7 @@
                 "files": {
                     "psword.base_files.7z.001": {
                         "name": "psword.base_files.7z.001",
-                        "size": 1250727
+                        "size": 1250724
                     }
                 },
                 "has_eyesight_data": false,
@@ -4897,7 +4944,7 @@
                 "files": {
                     "puchi.base_files.7z.001": {
                         "name": "puchi.base_files.7z.001",
-                        "size": 150777
+                        "size": 150775
                     }
                 },
                 "has_eyesight_data": false,
@@ -4911,7 +4958,7 @@
                 "files": {
                     "puchi.full.7z.001": {
                         "name": "puchi.full.7z.001",
-                        "size": 145677
+                        "size": 145676
                     }
                 },
                 "has_eyesight_data": true,
@@ -4930,7 +4977,7 @@
                 "files": {
                     "punite.base_files.7z.001": {
                         "name": "punite.base_files.7z.001",
-                        "size": 91573
+                        "size": 91565
                     }
                 },
                 "has_eyesight_data": false,
@@ -4944,7 +4991,7 @@
                 "files": {
                     "punite.full.7z.001": {
                         "name": "punite.full.7z.001",
-                        "size": 8102674
+                        "size": 8102698
                     }
                 },
                 "has_eyesight_data": true,
@@ -4963,7 +5010,7 @@
                 "files": {
                     "rabbit.base_files.7z.001": {
                         "name": "rabbit.base_files.7z.001",
-                        "size": 178344
+                        "size": 178341
                     }
                 },
                 "has_eyesight_data": false,
@@ -4977,7 +5024,7 @@
                 "files": {
                     "rabbit.full.7z.001": {
                         "name": "rabbit.full.7z.001",
-                        "size": 111119
+                        "size": 111117
                     }
                 },
                 "has_eyesight_data": true,
@@ -4996,7 +5043,7 @@
                 "files": {
                     "ranmacrh.base_files.7z.001": {
                         "name": "ranmacrh.base_files.7z.001",
-                        "size": 50751
+                        "size": 50750
                     }
                 },
                 "has_eyesight_data": false,
@@ -5015,7 +5062,7 @@
                 "files": {
                     "rbff2.base_files.7z.001": {
                         "name": "rbff2.base_files.7z.001",
-                        "size": 178310
+                        "size": 178305
                     }
                 },
                 "has_eyesight_data": false,
@@ -5029,7 +5076,7 @@
                 "files": {
                     "rbff2.full.7z.001": {
                         "name": "rbff2.full.7z.001",
-                        "size": 71696
+                        "size": 71695
                     }
                 },
                 "has_eyesight_data": true,
@@ -5048,7 +5095,7 @@
                 "files": {
                     "rbffs.base_files.7z.001": {
                         "name": "rbffs.base_files.7z.001",
-                        "size": 547351
+                        "size": 547344
                     }
                 },
                 "has_eyesight_data": true,
@@ -5067,7 +5114,7 @@
                 "files": {
                     "reddearth.art.7z.001": {
                         "name": "reddearth.art.7z.001",
-                        "size": 2463703
+                        "size": 2463701
                     }
                 },
                 "has_eyesight_data": true,
@@ -5081,7 +5128,7 @@
                 "files": {
                     "reddearth.base_files.7z.001": {
                         "name": "reddearth.base_files.7z.001",
-                        "size": 391484
+                        "size": 391483
                     }
                 },
                 "has_eyesight_data": false,
@@ -5095,7 +5142,7 @@
                 "files": {
                     "reddearth.full.7z.001": {
                         "name": "reddearth.full.7z.001",
-                        "size": 34498
+                        "size": 34493
                     }
                 },
                 "has_eyesight_data": true,
@@ -5128,7 +5175,7 @@
                 "files": {
                     "rf2.full.7z.001": {
                         "name": "rf2.full.7z.001",
-                        "size": 5347921
+                        "size": 5347918
                     }
                 },
                 "has_eyesight_data": true,
@@ -5161,7 +5208,7 @@
                 "files": {
                     "riotpl.full.7z.001": {
                         "name": "riotpl.full.7z.001",
-                        "size": 22206426
+                        "size": 22206424
                     }
                 },
                 "has_eyesight_data": true,
@@ -5175,7 +5222,7 @@
                 "files": {
                     "riotpl.full_alt.7z.001": {
                         "name": "riotpl.full_alt.7z.001",
-                        "size": 24323471
+                        "size": 24323470
                     }
                 },
                 "has_eyesight_data": true,
@@ -5189,7 +5236,7 @@
                 "files": {
                     "riotpl.website.7z.001": {
                         "name": "riotpl.website.7z.001",
-                        "size": 7936754
+                        "size": 7936752
                     }
                 },
                 "has_eyesight_data": true,
@@ -5208,7 +5255,7 @@
                 "files": {
                     "roa.base_files.7z.001": {
                         "name": "roa.base_files.7z.001",
-                        "size": 85580
+                        "size": 85576
                     }
                 },
                 "has_eyesight_data": false,
@@ -5222,7 +5269,7 @@
                 "files": {
                     "roa.costume.7z.001": {
                         "name": "roa.costume.7z.001",
-                        "size": 2305706
+                        "size": 2305703
                     }
                 },
                 "has_eyesight_data": true,
@@ -5236,7 +5283,7 @@
                 "files": {
                     "roa.full.7z.001": {
                         "name": "roa.full.7z.001",
-                        "size": 47981262
+                        "size": 47981261
                     }
                 },
                 "has_eyesight_data": true,
@@ -5250,7 +5297,7 @@
                 "files": {
                     "roa.stage_bg.7z.001": {
                         "name": "roa.stage_bg.7z.001",
-                        "size": 220300983
+                        "size": 220300980
                     }
                 },
                 "has_eyesight_data": false,
@@ -5264,7 +5311,7 @@
                 "files": {
                     "roa.stage_icon.7z.001": {
                         "name": "roa.stage_icon.7z.001",
-                        "size": 1164651
+                        "size": 1164648
                     }
                 },
                 "has_eyesight_data": false,
@@ -5283,7 +5330,7 @@
                 "files": {
                     "roa2.art.7z.001": {
                         "name": "roa2.art.7z.001",
-                        "size": 67165457
+                        "size": 67165456
                     }
                 },
                 "has_eyesight_data": true,
@@ -5297,7 +5344,7 @@
                 "files": {
                     "roa2.base_files.7z.001": {
                         "name": "roa2.base_files.7z.001",
-                        "size": 1060330
+                        "size": 1060323
                     }
                 },
                 "has_eyesight_data": false,
@@ -5311,7 +5358,7 @@
                 "files": {
                     "roa2.costume.7z.001": {
                         "name": "roa2.costume.7z.001",
-                        "size": 236798690
+                        "size": 236798790
                     }
                 },
                 "has_eyesight_data": true,
@@ -5325,7 +5372,7 @@
                 "files": {
                     "roa2.css.7z.001": {
                         "name": "roa2.css.7z.001",
-                        "size": 2722132
+                        "size": 2722133
                     }
                 },
                 "has_eyesight_data": false,
@@ -5339,7 +5386,7 @@
                 "files": {
                     "roa2.full.7z.001": {
                         "name": "roa2.full.7z.001",
-                        "size": 19993117
+                        "size": 19993116
                     }
                 },
                 "has_eyesight_data": true,
@@ -5353,7 +5400,7 @@
                 "files": {
                     "roa2.profile.7z.001": {
                         "name": "roa2.profile.7z.001",
-                        "size": 482567
+                        "size": 482568
                     }
                 },
                 "has_eyesight_data": false,
@@ -5367,7 +5414,7 @@
                 "files": {
                     "roa2.stage_bg.7z.001": {
                         "name": "roa2.stage_bg.7z.001",
-                        "size": 136419836
+                        "size": 136419838
                     }
                 },
                 "has_eyesight_data": false,
@@ -5381,7 +5428,7 @@
                 "files": {
                     "roa2.stage_icon.7z.001": {
                         "name": "roa2.stage_icon.7z.001",
-                        "size": 123806005
+                        "size": 123806009
                     }
                 },
                 "has_eyesight_data": false,
@@ -5400,7 +5447,7 @@
                 "files": {
                     "rrev.base_files.7z.001": {
                         "name": "rrev.base_files.7z.001",
-                        "size": 10855254
+                        "size": 10855241
                     }
                 },
                 "has_eyesight_data": false,
@@ -5414,7 +5461,7 @@
                 "files": {
                     "rrev.csp.7z.001": {
                         "name": "rrev.csp.7z.001",
-                        "size": 18238745
+                        "size": 18238746
                     }
                 },
                 "has_eyesight_data": false,
@@ -5428,7 +5475,7 @@
                 "files": {
                     "rrev.full.7z.001": {
                         "name": "rrev.full.7z.001",
-                        "size": 31796773
+                        "size": 31796770
                     }
                 },
                 "has_eyesight_data": true,
@@ -5442,7 +5489,7 @@
                 "files": {
                     "rrev.poster.7z.001": {
                         "name": "rrev.poster.7z.001",
-                        "size": 5905676
+                        "size": 5905675
                     }
                 },
                 "has_eyesight_data": false,
@@ -5461,7 +5508,7 @@
                 "files": {
                     "rsubf.base_files.7z.001": {
                         "name": "rsubf.base_files.7z.001",
-                        "size": 12102452
+                        "size": 12102451
                     }
                 },
                 "has_eyesight_data": true,
@@ -5480,7 +5527,7 @@
                 "files": {
                     "sa2b.base_files.7z.001": {
                         "name": "sa2b.base_files.7z.001",
-                        "size": 25359212
+                        "size": 25359213
                     }
                 },
                 "has_eyesight_data": true,
@@ -5499,7 +5546,7 @@
                 "files": {
                     "samsho2019.base_files.7z.001": {
                         "name": "samsho2019.base_files.7z.001",
-                        "size": 1418409
+                        "size": 1418407
                     }
                 },
                 "has_eyesight_data": false,
@@ -5513,7 +5560,7 @@
                 "files": {
                     "samsho2019.full.7z.001": {
                         "name": "samsho2019.full.7z.001",
-                        "size": 22447591
+                        "size": 22447590
                     }
                 },
                 "has_eyesight_data": true,
@@ -5532,7 +5579,7 @@
                 "files": {
                     "samsho3.base_files.7z.001": {
                         "name": "samsho3.base_files.7z.001",
-                        "size": 375608
+                        "size": 375603
                     }
                 },
                 "has_eyesight_data": true,
@@ -5551,7 +5598,7 @@
                 "files": {
                     "samsho5sp.base_files.7z.001": {
                         "name": "samsho5sp.base_files.7z.001",
-                        "size": 1026094
+                        "size": 1026090
                     }
                 },
                 "has_eyesight_data": true,
@@ -5570,7 +5617,7 @@
                 "files": {
                     "samsho6.base_files.7z.001": {
                         "name": "samsho6.base_files.7z.001",
-                        "size": 1422747
+                        "size": 1422748
                     }
                 },
                 "has_eyesight_data": false,
@@ -5584,7 +5631,7 @@
                 "files": {
                     "samsho6.full.7z.001": {
                         "name": "samsho6.full.7z.001",
-                        "size": 30833969
+                        "size": 30833961
                     }
                 },
                 "has_eyesight_data": true,
@@ -5603,7 +5650,7 @@
                 "files": {
                     "sc2.base_files.7z.001": {
                         "name": "sc2.base_files.7z.001",
-                        "size": 621566
+                        "size": 621564
                     }
                 },
                 "has_eyesight_data": false,
@@ -5617,7 +5664,7 @@
                 "files": {
                     "sc2.full.7z.001": {
                         "name": "sc2.full.7z.001",
-                        "size": 17030783
+                        "size": 17030781
                     }
                 },
                 "has_eyesight_data": true,
@@ -5636,7 +5683,7 @@
                 "files": {
                     "sc6.base_files.7z.001": {
                         "name": "sc6.base_files.7z.001",
-                        "size": 23892550
+                        "size": 23892544
                     }
                 },
                 "has_eyesight_data": false,
@@ -5650,7 +5697,7 @@
                 "files": {
                     "sc6.full.7z.001": {
                         "name": "sc6.full.7z.001",
-                        "size": 9469168
+                        "size": 9469160
                     }
                 },
                 "has_eyesight_data": true,
@@ -5669,7 +5716,7 @@
                 "files": {
                     "sdb.base_files.7z.001": {
                         "name": "sdb.base_files.7z.001",
-                        "size": 183213
+                        "size": 183206
                     }
                 },
                 "has_eyesight_data": false,
@@ -5683,7 +5730,7 @@
                 "files": {
                     "sdb.full.7z.001": {
                         "name": "sdb.full.7z.001",
-                        "size": 984455
+                        "size": 984451
                     }
                 },
                 "has_eyesight_data": true,
@@ -5702,7 +5749,7 @@
                 "files": {
                     "sdbz.base_files.7z.001": {
                         "name": "sdbz.base_files.7z.001",
-                        "size": 29076165
+                        "size": 29076162
                     }
                 },
                 "has_eyesight_data": true,
@@ -5716,7 +5763,7 @@
                 "files": {
                     "sdbz.full.7z.001": {
                         "name": "sdbz.full.7z.001",
-                        "size": 8974035
+                        "size": 8974033
                     }
                 },
                 "has_eyesight_data": true,
@@ -5730,7 +5777,7 @@
                 "files": {
                     "sdbz.full_upscale.7z.001": {
                         "name": "sdbz.full_upscale.7z.001",
-                        "size": 85612729
+                        "size": 85612734
                     }
                 },
                 "has_eyesight_data": true,
@@ -5744,7 +5791,7 @@
                 "files": {
                     "sdbz.stage_icon.7z.001": {
                         "name": "sdbz.stage_icon.7z.001",
-                        "size": 594996
+                        "size": 594992
                     }
                 },
                 "has_eyesight_data": false,
@@ -5763,7 +5810,7 @@
                 "files": {
                     "sf3ts.base_files.7z.001": {
                         "name": "sf3ts.base_files.7z.001",
-                        "size": 97564
+                        "size": 97562
                     }
                 },
                 "has_eyesight_data": false,
@@ -5777,7 +5824,7 @@
                 "files": {
                     "sf3ts.full.7z.001": {
                         "name": "sf3ts.full.7z.001",
-                        "size": 99754975
+                        "size": 99754974
                     }
                 },
                 "has_eyesight_data": true,
@@ -5805,7 +5852,7 @@
                 "files": {
                     "sf3ts.portrait.7z.001": {
                         "name": "sf3ts.portrait.7z.001",
-                        "size": 10650498
+                        "size": 10650497
                     }
                 },
                 "has_eyesight_data": true,
@@ -5819,7 +5866,7 @@
                 "files": {
                     "sf3ts.variant_icon.7z.001": {
                         "name": "sf3ts.variant_icon.7z.001",
-                        "size": 956
+                        "size": 955
                     }
                 },
                 "has_eyesight_data": false,
@@ -5852,7 +5899,7 @@
                 "files": {
                     "sf6.art_contest.7z.001": {
                         "name": "sf6.art_contest.7z.001",
-                        "size": 35078167
+                        "size": 35078165
                     }
                 },
                 "has_eyesight_data": true,
@@ -5866,7 +5913,7 @@
                 "files": {
                     "sf6.base_files.7z.001": {
                         "name": "sf6.base_files.7z.001",
-                        "size": 127793034
+                        "size": 127793031
                     }
                 },
                 "has_eyesight_data": true,
@@ -5880,7 +5927,7 @@
                 "files": {
                     "sf6.cartoon.7z.001": {
                         "name": "sf6.cartoon.7z.001",
-                        "size": 10242279
+                        "size": 10242277
                     }
                 },
                 "has_eyesight_data": true,
@@ -5894,7 +5941,7 @@
                 "files": {
                     "sf6.chibi.7z.001": {
                         "name": "sf6.chibi.7z.001",
-                        "size": 6562695
+                        "size": 6562687
                     }
                 },
                 "has_eyesight_data": true,
@@ -5922,7 +5969,7 @@
                 "files": {
                     "sf6.full.7z.001": {
                         "name": "sf6.full.7z.001",
-                        "size": 43954337
+                        "size": 43954332
                     }
                 },
                 "has_eyesight_data": true,
@@ -5936,7 +5983,7 @@
                 "files": {
                     "sf6.kangyaku.7z.001": {
                         "name": "sf6.kangyaku.7z.001",
-                        "size": 39728340
+                        "size": 39728338
                     }
                 },
                 "has_eyesight_data": true,
@@ -5950,7 +5997,7 @@
                 "files": {
                     "sf6.pixel_art.7z.001": {
                         "name": "sf6.pixel_art.7z.001",
-                        "size": 9744549
+                        "size": 9744541
                     }
                 },
                 "has_eyesight_data": true,
@@ -5964,7 +6011,7 @@
                 "files": {
                     "sf6.stat.7z.001": {
                         "name": "sf6.stat.7z.001",
-                        "size": 936524
+                        "size": 936525
                     }
                 },
                 "has_eyesight_data": true,
@@ -5978,7 +6025,7 @@
                 "files": {
                     "sf6.variant_icon.7z.001": {
                         "name": "sf6.variant_icon.7z.001",
-                        "size": 11306
+                        "size": 11304
                     }
                 },
                 "has_eyesight_data": false,
@@ -5992,7 +6039,7 @@
                 "files": {
                     "sf6.versus_screen.7z.001": {
                         "name": "sf6.versus_screen.7z.001",
-                        "size": 146709896
+                        "size": 146709882
                     }
                 },
                 "has_eyesight_data": true,
@@ -6006,7 +6053,7 @@
                 "files": {
                     "sf6.versus_screen_back.7z.001": {
                         "name": "sf6.versus_screen_back.7z.001",
-                        "size": 140034005
+                        "size": 140033996
                     }
                 },
                 "has_eyesight_data": true,
@@ -6020,7 +6067,7 @@
                 "files": {
                     "sf6.versus_screen_down.7z.001": {
                         "name": "sf6.versus_screen_down.7z.001",
-                        "size": 148685666
+                        "size": 148685658
                     }
                 },
                 "has_eyesight_data": true,
@@ -6034,7 +6081,7 @@
                 "files": {
                     "sf6.versus_screen_forward.7z.001": {
                         "name": "sf6.versus_screen_forward.7z.001",
-                        "size": 146067225
+                        "size": 146067217
                     }
                 },
                 "has_eyesight_data": true,
@@ -6048,7 +6095,7 @@
                 "files": {
                     "sf6.versus_screen_up.7z.001": {
                         "name": "sf6.versus_screen_up.7z.001",
-                        "size": 139628591
+                        "size": 139628573
                     }
                 },
                 "has_eyesight_data": true,
@@ -6062,7 +6109,7 @@
                 "files": {
                     "sf6.website.7z.001": {
                         "name": "sf6.website.7z.001",
-                        "size": 6213358
+                        "size": 6213353
                     }
                 },
                 "has_eyesight_data": false,
@@ -6081,7 +6128,7 @@
                 "files": {
                     "sfalpha2.base_files.7z.001": {
                         "name": "sfalpha2.base_files.7z.001",
-                        "size": 1963849
+                        "size": 1963846
                     }
                 },
                 "has_eyesight_data": true,
@@ -6100,7 +6147,7 @@
                 "files": {
                     "sfalpha3.base_files.7z.001": {
                         "name": "sfalpha3.base_files.7z.001",
-                        "size": 1512113
+                        "size": 1512112
                     }
                 },
                 "has_eyesight_data": true,
@@ -6114,7 +6161,7 @@
                 "files": {
                     "sfalpha3.full.7z.001": {
                         "name": "sfalpha3.full.7z.001",
-                        "size": 21122451
+                        "size": 21122448
                     }
                 },
                 "has_eyesight_data": true,
@@ -6128,7 +6175,7 @@
                 "files": {
                     "sfalpha3.variant_icon.7z.001": {
                         "name": "sfalpha3.variant_icon.7z.001",
-                        "size": 3959
+                        "size": 3958
                     }
                 },
                 "has_eyesight_data": false,
@@ -6147,7 +6194,7 @@
                 "files": {
                     "sfex2p.base_files.7z.001": {
                         "name": "sfex2p.base_files.7z.001",
-                        "size": 13720836
+                        "size": 13720835
                     }
                 },
                 "has_eyesight_data": true,
@@ -6180,7 +6227,7 @@
                 "files": {
                     "sfex3.full_upscale.7z.001": {
                         "name": "sfex3.full_upscale.7z.001",
-                        "size": 94019798
+                        "size": 94019797
                     }
                 },
                 "has_eyesight_data": true,
@@ -6199,7 +6246,7 @@
                 "files": {
                     "sfone.base_files.7z.001": {
                         "name": "sfone.base_files.7z.001",
-                        "size": 261943
+                        "size": 261945
                     }
                 },
                 "has_eyesight_data": false,
@@ -6237,7 +6284,7 @@
                 "files": {
                     "sfv.base_files.7z.001": {
                         "name": "sfv.base_files.7z.001",
-                        "size": 15966062
+                        "size": 15966046
                     }
                 },
                 "has_eyesight_data": false,
@@ -6251,7 +6298,7 @@
                 "files": {
                     "sfv.full.7z.001": {
                         "name": "sfv.full.7z.001",
-                        "size": 23182074
+                        "size": 23182066
                     }
                 },
                 "has_eyesight_data": true,
@@ -6270,7 +6317,7 @@
                 "files": {
                     "sfxt.base_files.7z.001": {
                         "name": "sfxt.base_files.7z.001",
-                        "size": 2139772
+                        "size": 2139778
                     }
                 },
                 "has_eyesight_data": false,
@@ -6289,7 +6336,7 @@
                 "files": {
                     "sg.base_files.7z.001": {
                         "name": "sg.base_files.7z.001",
-                        "size": 303262
+                        "size": 303261
                     }
                 },
                 "has_eyesight_data": false,
@@ -6303,7 +6350,7 @@
                 "files": {
                     "sg.full.7z.001": {
                         "name": "sg.full.7z.001",
-                        "size": 59273066
+                        "size": 59273064
                     }
                 },
                 "has_eyesight_data": true,
@@ -6355,7 +6402,7 @@
                 "files": {
                     "smk.full.7z.001": {
                         "name": "smk.full.7z.001",
-                        "size": 2260662
+                        "size": 2260661
                     }
                 },
                 "has_eyesight_data": true,
@@ -6388,7 +6435,7 @@
                 "files": {
                     "sms.full.7z.001": {
                         "name": "sms.full.7z.001",
-                        "size": 44682056
+                        "size": 44682054
                     }
                 },
                 "has_eyesight_data": true,
@@ -6407,7 +6454,7 @@
                 "files": {
                     "snesmoon.base_files.7z.001": {
                         "name": "snesmoon.base_files.7z.001",
-                        "size": 16311
+                        "size": 16310
                     }
                 },
                 "has_eyesight_data": false,
@@ -6421,7 +6468,7 @@
                 "files": {
                     "snesmoon.full.7z.001": {
                         "name": "snesmoon.full.7z.001",
-                        "size": 42513
+                        "size": 42512
                     }
                 },
                 "has_eyesight_data": true,
@@ -6440,7 +6487,7 @@
                 "files": {
                     "sonicf.base_files.7z.001": {
                         "name": "sonicf.base_files.7z.001",
-                        "size": 196909
+                        "size": 196910
                     }
                 },
                 "has_eyesight_data": false,
@@ -6454,7 +6501,7 @@
                 "files": {
                     "sonicf.full.7z.001": {
                         "name": "sonicf.full.7z.001",
-                        "size": 156715
+                        "size": 156717
                     }
                 },
                 "has_eyesight_data": true,
@@ -6473,7 +6520,7 @@
                 "files": {
                     "spf2x.base_files.7z.001": {
                         "name": "spf2x.base_files.7z.001",
-                        "size": 17238
+                        "size": 17230
                     }
                 },
                 "has_eyesight_data": false,
@@ -6487,7 +6534,7 @@
                 "files": {
                     "spf2x.full.7z.001": {
                         "name": "spf2x.full.7z.001",
-                        "size": 60735
+                        "size": 60734
                     }
                 },
                 "has_eyesight_data": false,
@@ -6506,7 +6553,7 @@
                 "files": {
                     "spl3.base_files.7z.001": {
                         "name": "spl3.base_files.7z.001",
-                        "size": 5452101
+                        "size": 5452099
                     }
                 },
                 "has_eyesight_data": false,
@@ -6520,7 +6567,7 @@
                 "files": {
                     "spl3.card.7z.001": {
                         "name": "spl3.card.7z.001",
-                        "size": 15917769
+                        "size": 15917763
                     }
                 },
                 "has_eyesight_data": false,
@@ -6534,7 +6581,7 @@
                 "files": {
                     "spl3.special.7z.001": {
                         "name": "spl3.special.7z.001",
-                        "size": 108111
+                        "size": 108109
                     }
                 },
                 "has_eyesight_data": false,
@@ -6548,7 +6595,7 @@
                 "files": {
                     "spl3.stage_icon.7z.001": {
                         "name": "spl3.stage_icon.7z.001",
-                        "size": 52125130
+                        "size": 52125125
                     }
                 },
                 "has_eyesight_data": false,
@@ -6562,7 +6609,7 @@
                 "files": {
                     "spl3.sub.7z.001": {
                         "name": "spl3.sub.7z.001",
-                        "size": 84486
+                        "size": 84487
                     }
                 },
                 "has_eyesight_data": false,
@@ -6581,7 +6628,7 @@
                 "files": {
                     "ssb64.artwork.7z.001": {
                         "name": "ssb64.artwork.7z.001",
-                        "size": 492950060
+                        "size": 492950004
                     }
                 },
                 "has_eyesight_data": true,
@@ -6595,7 +6642,7 @@
                 "files": {
                     "ssb64.base_files.7z.001": {
                         "name": "ssb64.base_files.7z.001",
-                        "size": 198067
+                        "size": 198068
                     }
                 },
                 "has_eyesight_data": false,
@@ -6609,7 +6656,7 @@
                 "files": {
                     "ssb64.full.7z.001": {
                         "name": "ssb64.full.7z.001",
-                        "size": 30478210
+                        "size": 30477918
                     }
                 },
                 "has_eyesight_data": true,
@@ -6637,7 +6684,7 @@
                 "files": {
                     "ssb64.stage_icon.7z.001": {
                         "name": "ssb64.stage_icon.7z.001",
-                        "size": 21706288
+                        "size": 21706286
                     }
                 },
                 "has_eyesight_data": false,
@@ -6656,7 +6703,7 @@
                 "files": {
                     "ssbb.base_files.7z.001": {
                         "name": "ssbb.base_files.7z.001",
-                        "size": 3410213
+                        "size": 3410220
                     }
                 },
                 "has_eyesight_data": false,
@@ -6670,7 +6717,7 @@
                 "files": {
                     "ssbb.classic_renders.7z.001": {
                         "name": "ssbb.classic_renders.7z.001",
-                        "size": 4183190
+                        "size": 4183183
                     }
                 },
                 "has_eyesight_data": true,
@@ -6684,7 +6731,7 @@
                 "files": {
                     "ssbb.classic_renders_upscaled.7z.001": {
                         "name": "ssbb.classic_renders_upscaled.7z.001",
-                        "size": 129907578
+                        "size": 129907577
                     }
                 },
                 "has_eyesight_data": true,
@@ -6698,7 +6745,7 @@
                 "files": {
                     "ssbb.full.7z.001": {
                         "name": "ssbb.full.7z.001",
-                        "size": 4191521
+                        "size": 4191513
                     }
                 },
                 "has_eyesight_data": true,
@@ -6712,7 +6759,7 @@
                 "files": {
                     "ssbb.full_upscaled.7z.001": {
                         "name": "ssbb.full_upscaled.7z.001",
-                        "size": 107665293
+                        "size": 107665289
                     }
                 },
                 "has_eyesight_data": true,
@@ -6726,7 +6773,7 @@
                 "files": {
                     "ssbb.stage_icon.7z.001": {
                         "name": "ssbb.stage_icon.7z.001",
-                        "size": 1054230
+                        "size": 1054228
                     }
                 },
                 "has_eyesight_data": false,
@@ -6745,7 +6792,7 @@
                 "files": {
                     "ssbm.CSProject_AltFull.7z.001": {
                         "name": "ssbm.CSProject_AltFull.7z.001",
-                        "size": 122268010
+                        "size": 122267998
                     }
                 },
                 "has_eyesight_data": true,
@@ -6759,7 +6806,7 @@
                 "files": {
                     "ssbm.CSProject_Icon.7z.001": {
                         "name": "ssbm.CSProject_Icon.7z.001",
-                        "size": 4115730
+                        "size": 4115731
                     }
                 },
                 "has_eyesight_data": false,
@@ -6773,7 +6820,7 @@
                 "files": {
                     "ssbm.CSProject_MeleeFull.7z.001": {
                         "name": "ssbm.CSProject_MeleeFull.7z.001",
-                        "size": 119567789
+                        "size": 119567778
                     }
                 },
                 "has_eyesight_data": true,
@@ -6787,7 +6834,7 @@
                 "files": {
                     "ssbm.base_files.7z.001": {
                         "name": "ssbm.base_files.7z.001",
-                        "size": 833490
+                        "size": 833491
                     }
                 },
                 "has_eyesight_data": false,
@@ -6801,7 +6848,7 @@
                 "files": {
                     "ssbm.full.7z.001": {
                         "name": "ssbm.full.7z.001",
-                        "size": 23614852
+                        "size": 23614850
                     }
                 },
                 "has_eyesight_data": true,
@@ -6815,7 +6862,7 @@
                 "files": {
                     "ssbm.portrait.7z.001": {
                         "name": "ssbm.portrait.7z.001",
-                        "size": 3422536
+                        "size": 3422525
                     }
                 },
                 "has_eyesight_data": true,
@@ -6829,7 +6876,7 @@
                 "files": {
                     "ssbm.stage_icon.7z.001": {
                         "name": "ssbm.stage_icon.7z.001",
-                        "size": 23981238
+                        "size": 23981231
                     }
                 },
                 "has_eyesight_data": false,
@@ -6848,7 +6895,7 @@
                 "files": {
                     "ssbu.base_files.7z.001": {
                         "name": "ssbu.base_files.7z.001",
-                        "size": 4297472
+                        "size": 4297464
                     }
                 },
                 "has_eyesight_data": false,
@@ -6862,7 +6909,7 @@
                 "files": {
                     "ssbu.full.7z.001": {
                         "name": "ssbu.full.7z.001",
-                        "size": 252587314
+                        "size": 252587292
                     }
                 },
                 "has_eyesight_data": true,
@@ -6876,7 +6923,7 @@
                 "files": {
                     "ssbu.mural_art.7z.001": {
                         "name": "ssbu.mural_art.7z.001",
-                        "size": 956933261
+                        "size": 956933165
                     }
                 },
                 "has_eyesight_data": true,
@@ -6890,7 +6937,7 @@
                 "files": {
                     "ssbu.portrait.7z.001": {
                         "name": "ssbu.portrait.7z.001",
-                        "size": 23735029
+                        "size": 23735000
                     }
                 },
                 "has_eyesight_data": true,
@@ -6922,7 +6969,7 @@
                     },
                     "ssbu.vs_renders.7z.002": {
                         "name": "ssbu.vs_renders.7z.002",
-                        "size": 772672604
+                        "size": 772672590
                     }
                 },
                 "has_eyesight_data": true,
@@ -6936,7 +6983,7 @@
                 "files": {
                     "ssbu.webm.7z.001": {
                         "name": "ssbu.webm.7z.001",
-                        "size": 423071295
+                        "size": 423071283
                     }
                 },
                 "has_eyesight_data": false,
@@ -6950,7 +6997,7 @@
                 "files": {
                     "ssbu.website.7z.001": {
                         "name": "ssbu.website.7z.001",
-                        "size": 1280571735
+                        "size": 1280571666
                     }
                 },
                 "has_eyesight_data": true,
@@ -6969,7 +7016,7 @@
                 "files": {
                     "ssbwiiu.base_files.7z.001": {
                         "name": "ssbwiiu.base_files.7z.001",
-                        "size": 6571200
+                        "size": 6571186
                     }
                 },
                 "has_eyesight_data": false,
@@ -6983,7 +7030,7 @@
                 "files": {
                     "ssbwiiu.full.7z.001": {
                         "name": "ssbwiiu.full.7z.001",
-                        "size": 70022318
+                        "size": 70022257
                     }
                 },
                 "has_eyesight_data": true,
@@ -6997,7 +7044,7 @@
                 "files": {
                     "ssbwiiu.stage_icon.7z.001": {
                         "name": "ssbwiiu.stage_icon.7z.001",
-                        "size": 32285245
+                        "size": 32285237
                     }
                 },
                 "has_eyesight_data": false,
@@ -7030,7 +7077,7 @@
                 "files": {
                     "ssf2x.full.7z.001": {
                         "name": "ssf2x.full.7z.001",
-                        "size": 16457080
+                        "size": 16457081
                     }
                 },
                 "has_eyesight_data": true,
@@ -7058,7 +7105,7 @@
                 "files": {
                     "ssf2x.hyper_full.7z.001": {
                         "name": "ssf2x.hyper_full.7z.001",
-                        "size": 7910653
+                        "size": 7910647
                     }
                 },
                 "has_eyesight_data": true,
@@ -7072,7 +7119,7 @@
                 "files": {
                     "ssf2x.remix_sprite.7z.001": {
                         "name": "ssf2x.remix_sprite.7z.001",
-                        "size": 2609046
+                        "size": 2609050
                     }
                 },
                 "has_eyesight_data": true,
@@ -7086,7 +7133,7 @@
                 "files": {
                     "ssf2x.ultra_icon.7z.001": {
                         "name": "ssf2x.ultra_icon.7z.001",
-                        "size": 52924945
+                        "size": 52924894
                     }
                 },
                 "has_eyesight_data": true,
@@ -7100,7 +7147,7 @@
                 "files": {
                     "ssf2x.variant_icon.7z.001": {
                         "name": "ssf2x.variant_icon.7z.001",
-                        "size": 4061
+                        "size": 4060
                     }
                 },
                 "has_eyesight_data": false,
@@ -7119,7 +7166,7 @@
                 "files": {
                     "ssmack.base_files.7z.001": {
                         "name": "ssmack.base_files.7z.001",
-                        "size": 1225877
+                        "size": 1225878
                     }
                 },
                 "has_eyesight_data": false,
@@ -7133,7 +7180,7 @@
                 "files": {
                     "ssmack.full.7z.001": {
                         "name": "ssmack.full.7z.001",
-                        "size": 23709251
+                        "size": 23709253
                     }
                 },
                 "has_eyesight_data": true,
@@ -7147,7 +7194,7 @@
                 "files": {
                     "ssmack.nibroc.7z.001": {
                         "name": "ssmack.nibroc.7z.001",
-                        "size": 82139288
+                        "size": 82139284
                     }
                 },
                 "has_eyesight_data": false,
@@ -7185,7 +7232,7 @@
                 "files": {
                     "svcpocket.base_files.7z.001": {
                         "name": "svcpocket.base_files.7z.001",
-                        "size": 12061
+                        "size": 12066
                     }
                 },
                 "has_eyesight_data": false,
@@ -7199,7 +7246,7 @@
                 "files": {
                     "svcpocket.full.7z.001": {
                         "name": "svcpocket.full.7z.001",
-                        "size": 49299
+                        "size": 49296
                     }
                 },
                 "has_eyesight_data": true,
@@ -7218,7 +7265,7 @@
                 "files": {
                     "svg.base_files.7z.001": {
                         "name": "svg.base_files.7z.001",
-                        "size": 119368
+                        "size": 119367
                     }
                 },
                 "has_eyesight_data": false,
@@ -7232,7 +7279,7 @@
                 "files": {
                     "svg.full.7z.001": {
                         "name": "svg.full.7z.001",
-                        "size": 306122
+                        "size": 306130
                     }
                 },
                 "has_eyesight_data": true,
@@ -7251,7 +7298,7 @@
                 "files": {
                     "tekken3.base_files.7z.001": {
                         "name": "tekken3.base_files.7z.001",
-                        "size": 5733012
+                        "size": 5733038
                     }
                 },
                 "has_eyesight_data": false,
@@ -7270,7 +7317,7 @@
                 "files": {
                     "tekken5dr.base_files.7z.001": {
                         "name": "tekken5dr.base_files.7z.001",
-                        "size": 1538029
+                        "size": 1538052
                     }
                 },
                 "has_eyesight_data": false,
@@ -7303,7 +7350,7 @@
                 "files": {
                     "tekken7.base_files.7z.001": {
                         "name": "tekken7.base_files.7z.001",
-                        "size": 2596656
+                        "size": 2596653
                     }
                 },
                 "has_eyesight_data": false,
@@ -7317,7 +7364,7 @@
                 "files": {
                     "tekken7.full.7z.001": {
                         "name": "tekken7.full.7z.001",
-                        "size": 827111987
+                        "size": 827111984
                     }
                 },
                 "has_eyesight_data": true,
@@ -7336,7 +7383,7 @@
                 "files": {
                     "tekken8.base_files.7z.001": {
                         "name": "tekken8.base_files.7z.001",
-                        "size": 5179322
+                        "size": 5179325
                     }
                 },
                 "has_eyesight_data": false,
@@ -7350,7 +7397,7 @@
                 "files": {
                     "tekken8.costume_select.7z.001": {
                         "name": "tekken8.costume_select.7z.001",
-                        "size": 71681488
+                        "size": 71681417
                     }
                 },
                 "has_eyesight_data": true,
@@ -7364,7 +7411,7 @@
                 "files": {
                     "tekken8.full.7z.001": {
                         "name": "tekken8.full.7z.001",
-                        "size": 60281198
+                        "size": 60281199
                     }
                 },
                 "has_eyesight_data": true,
@@ -7378,7 +7425,7 @@
                 "files": {
                     "tekken8.vs_renders.7z.001": {
                         "name": "tekken8.vs_renders.7z.001",
-                        "size": 147538878
+                        "size": 147538874
                     }
                 },
                 "has_eyesight_data": true,
@@ -7397,7 +7444,7 @@
                 "files": {
                     "tfh.base_files.7z.001": {
                         "name": "tfh.base_files.7z.001",
-                        "size": 162016
+                        "size": 162015
                     }
                 },
                 "has_eyesight_data": false,
@@ -7411,7 +7458,7 @@
                 "files": {
                     "tfh.full.7z.001": {
                         "name": "tfh.full.7z.001",
-                        "size": 26064149
+                        "size": 26064148
                     }
                 },
                 "has_eyesight_data": true,
@@ -7430,7 +7477,7 @@
                 "files": {
                     "tla.base_files.7z.001": {
                         "name": "tla.base_files.7z.001",
-                        "size": 260042
+                        "size": 260035
                     }
                 },
                 "has_eyesight_data": false,
@@ -7444,7 +7491,7 @@
                 "files": {
                     "tla.full.7z.001": {
                         "name": "tla.full.7z.001",
-                        "size": 2285106
+                        "size": 2285109
                     }
                 },
                 "has_eyesight_data": true,
@@ -7463,7 +7510,7 @@
                 "files": {
                     "tmnttfsnes.base_files.7z.001": {
                         "name": "tmnttfsnes.base_files.7z.001",
-                        "size": 11378
+                        "size": 11380
                     }
                 },
                 "has_eyesight_data": false,
@@ -7477,7 +7524,7 @@
                 "files": {
                     "tmnttfsnes.full.7z.001": {
                         "name": "tmnttfsnes.full.7z.001",
-                        "size": 40228
+                        "size": 40222
                     }
                 },
                 "has_eyesight_data": false,
@@ -7496,7 +7543,7 @@
                 "files": {
                     "tmntxjlt.base_files.7z.001": {
                         "name": "tmntxjlt.base_files.7z.001",
-                        "size": 9577047
+                        "size": 9577046
                     }
                 },
                 "has_eyesight_data": false,
@@ -7510,7 +7557,7 @@
                 "files": {
                     "tmntxjlt.full.7z.001": {
                         "name": "tmntxjlt.full.7z.001",
-                        "size": 156895309
+                        "size": 156895313
                     }
                 },
                 "has_eyesight_data": true,
@@ -7529,7 +7576,7 @@
                 "files": {
                     "touhou123hts.base_files.7z.001": {
                         "name": "touhou123hts.base_files.7z.001",
-                        "size": 2137075
+                        "size": 2137081
                     }
                 },
                 "has_eyesight_data": false,
@@ -7543,7 +7590,7 @@
                 "files": {
                     "touhou123hts.full.7z.001": {
                         "name": "touhou123hts.full.7z.001",
-                        "size": 5462933
+                        "size": 5462929
                     }
                 },
                 "has_eyesight_data": false,
@@ -7562,7 +7609,7 @@
                 "files": {
                     "trotb.base_files.7z.001": {
                         "name": "trotb.base_files.7z.001",
-                        "size": 1044059
+                        "size": 1044058
                     }
                 },
                 "has_eyesight_data": true,
@@ -7581,7 +7628,7 @@
                 "files": {
                     "tss.base_files.7z.001": {
                         "name": "tss.base_files.7z.001",
-                        "size": 146288
+                        "size": 146289
                     }
                 },
                 "has_eyesight_data": false,
@@ -7614,7 +7661,7 @@
                 "files": {
                     "ttt.base_files.7z.001": {
                         "name": "ttt.base_files.7z.001",
-                        "size": 2848328
+                        "size": 2848324
                     }
                 },
                 "has_eyesight_data": true,
@@ -7647,7 +7694,7 @@
                 "files": {
                     "ttt2.full.7z.001": {
                         "name": "ttt2.full.7z.001",
-                        "size": 27223744
+                        "size": 27223749
                     }
                 },
                 "has_eyesight_data": true,
@@ -7666,7 +7713,7 @@
                 "files": {
                     "tvc.base_files.7z.001": {
                         "name": "tvc.base_files.7z.001",
-                        "size": 1915183
+                        "size": 1915180
                     }
                 },
                 "has_eyesight_data": true,
@@ -7680,7 +7727,7 @@
                 "files": {
                     "tvc.full.7z.001": {
                         "name": "tvc.full.7z.001",
-                        "size": 12438803
+                        "size": 12438804
                     }
                 },
                 "has_eyesight_data": true,
@@ -7699,7 +7746,7 @@
                 "files": {
                     "umvc3.base_files.7z.001": {
                         "name": "umvc3.base_files.7z.001",
-                        "size": 493197033
+                        "size": 493197022
                     }
                 },
                 "has_eyesight_data": true,
@@ -7713,7 +7760,7 @@
                 "files": {
                     "umvc3.full.7z.001": {
                         "name": "umvc3.full.7z.001",
-                        "size": 261583466
+                        "size": 261583465
                     }
                 },
                 "has_eyesight_data": true,
@@ -7727,7 +7774,7 @@
                 "files": {
                     "umvc3.variant_icon.7z.001": {
                         "name": "umvc3.variant_icon.7z.001",
-                        "size": 5951
+                        "size": 5950
                     }
                 },
                 "has_eyesight_data": false,
@@ -7746,7 +7793,7 @@
                 "files": {
                     "uni2.base_files.7z.001": {
                         "name": "uni2.base_files.7z.001",
-                        "size": 6629587
+                        "size": 6629582
                     }
                 },
                 "has_eyesight_data": false,
@@ -7774,7 +7821,7 @@
                 "files": {
                     "uni2.full.7z.001": {
                         "name": "uni2.full.7z.001",
-                        "size": 63419691
+                        "size": 63419693
                     }
                 },
                 "has_eyesight_data": true,
@@ -7793,7 +7840,7 @@
                 "files": {
                     "uniclr.base_files.7z.001": {
                         "name": "uniclr.base_files.7z.001",
-                        "size": 1807656
+                        "size": 1807646
                     }
                 },
                 "has_eyesight_data": false,
@@ -7807,7 +7854,7 @@
                 "files": {
                     "uniclr.full.7z.001": {
                         "name": "uniclr.full.7z.001",
-                        "size": 27103806
+                        "size": 27103802
                     }
                 },
                 "has_eyesight_data": true,
@@ -7826,7 +7873,7 @@
                 "files": {
                     "usf2.base_files.7z.001": {
                         "name": "usf2.base_files.7z.001",
-                        "size": 64946941
+                        "size": 64946918
                     }
                 },
                 "has_eyesight_data": true,
@@ -7845,7 +7892,7 @@
                 "files": {
                     "usfiv.base_files.7z.001": {
                         "name": "usfiv.base_files.7z.001",
-                        "size": 19063486
+                        "size": 19063470
                     }
                 },
                 "has_eyesight_data": false,
@@ -7859,7 +7906,7 @@
                 "files": {
                     "usfiv.full.7z.001": {
                         "name": "usfiv.full.7z.001",
-                        "size": 44488304
+                        "size": 44488295
                     }
                 },
                 "has_eyesight_data": true,
@@ -7878,7 +7925,7 @@
                 "files": {
                     "vf3tb.base_files.7z.001": {
                         "name": "vf3tb.base_files.7z.001",
-                        "size": 2210518
+                        "size": 2210516
                     }
                 },
                 "has_eyesight_data": true,
@@ -7892,7 +7939,7 @@
                 "files": {
                     "vf3tb.full_upscale.7z.001": {
                         "name": "vf3tb.full_upscale.7z.001",
-                        "size": 15690486
+                        "size": 15690484
                     }
                 },
                 "has_eyesight_data": true,
@@ -7911,7 +7958,7 @@
                 "files": {
                     "vf4ft.base_files.7z.001": {
                         "name": "vf4ft.base_files.7z.001",
-                        "size": 892698
+                        "size": 892696
                     }
                 },
                 "has_eyesight_data": true,
@@ -7930,7 +7977,7 @@
                 "files": {
                     "vf5us.base_files.7z.001": {
                         "name": "vf5us.base_files.7z.001",
-                        "size": 23914642
+                        "size": 23914637
                     }
                 },
                 "has_eyesight_data": true,
@@ -7949,7 +7996,7 @@
                 "files": {
                     "vhun.base_files.7z.001": {
                         "name": "vhun.base_files.7z.001",
-                        "size": 2216226
+                        "size": 2216222
                     }
                 },
                 "has_eyesight_data": false,
@@ -7963,7 +8010,7 @@
                 "files": {
                     "vhun.full.7z.001": {
                         "name": "vhun.full.7z.001",
-                        "size": 10223190
+                        "size": 10223189
                     }
                 },
                 "has_eyesight_data": true,
@@ -7982,7 +8029,7 @@
                 "files": {
                     "vsav.base_files.7z.001": {
                         "name": "vsav.base_files.7z.001",
-                        "size": 7874035
+                        "size": 7874033
                     }
                 },
                 "has_eyesight_data": false,
@@ -7996,7 +8043,7 @@
                 "files": {
                     "vsav.full.7z.001": {
                         "name": "vsav.full.7z.001",
-                        "size": 19121631
+                        "size": 19121626
                     }
                 },
                 "has_eyesight_data": true,
@@ -8010,7 +8057,7 @@
                 "files": {
                     "vsav.full_new.7z.001": {
                         "name": "vsav.full_new.7z.001",
-                        "size": 17112422
+                        "size": 17112424
                     }
                 },
                 "has_eyesight_data": true,
@@ -8024,7 +8071,7 @@
                 "files": {
                     "vsav.portrait.7z.001": {
                         "name": "vsav.portrait.7z.001",
-                        "size": 65921
+                        "size": 65920
                     }
                 },
                 "has_eyesight_data": false,
@@ -8043,7 +8090,7 @@
                 "files": {
                     "waku7.base_files.7z.001": {
                         "name": "waku7.base_files.7z.001",
-                        "size": 317188
+                        "size": 317186
                     }
                 },
                 "has_eyesight_data": false,
@@ -8057,7 +8104,7 @@
                 "files": {
                     "waku7.full.7z.001": {
                         "name": "waku7.full.7z.001",
-                        "size": 45814
+                        "size": 45813
                     }
                 },
                 "has_eyesight_data": true,
@@ -8076,7 +8123,7 @@
                 "files": {
                     "wc3.base_files.7z.001": {
                         "name": "wc3.base_files.7z.001",
-                        "size": 152785
+                        "size": 152789
                     }
                 },
                 "has_eyesight_data": false,
@@ -8090,7 +8137,7 @@
                 "files": {
                     "wc3.full.7z.001": {
                         "name": "wc3.full.7z.001",
-                        "size": 1073933
+                        "size": 1073931
                     }
                 },
                 "has_eyesight_data": true,
@@ -8104,7 +8151,7 @@
                 "files": {
                     "wc3.stage_icon.7z.001": {
                         "name": "wc3.stage_icon.7z.001",
-                        "size": 4248481
+                        "size": 4248472
                     }
                 },
                 "has_eyesight_data": false,
@@ -8118,7 +8165,7 @@
                 "files": {
                     "wc3.webp.7z.001": {
                         "name": "wc3.webp.7z.001",
-                        "size": 319835384
+                        "size": 319835380
                     }
                 },
                 "has_eyesight_data": false,
@@ -8137,7 +8184,7 @@
                 "files": {
                     "whp.base_files.7z.001": {
                         "name": "whp.base_files.7z.001",
-                        "size": 1028471
+                        "size": 1028464
                     }
                 },
                 "has_eyesight_data": true,
@@ -8156,7 +8203,7 @@
                 "files": {
                     "windjammers.base_files.7z.001": {
                         "name": "windjammers.base_files.7z.001",
-                        "size": 275542
+                        "size": 275538
                     }
                 },
                 "has_eyesight_data": false,
@@ -8170,7 +8217,7 @@
                 "files": {
                     "windjammers.full.7z.001": {
                         "name": "windjammers.full.7z.001",
-                        "size": 23598
+                        "size": 23597
                     }
                 },
                 "has_eyesight_data": false,
@@ -8184,7 +8231,7 @@
                 "files": {
                     "windjammers.stage_icon.7z.001": {
                         "name": "windjammers.stage_icon.7z.001",
-                        "size": 197236
+                        "size": 197229
                     }
                 },
                 "has_eyesight_data": false,
@@ -8203,7 +8250,7 @@
                 "files": {
                     "windjammers2.base_files.7z.001": {
                         "name": "windjammers2.base_files.7z.001",
-                        "size": 14764492
+                        "size": 14764488
                     }
                 },
                 "has_eyesight_data": false,
@@ -8217,7 +8264,7 @@
                 "files": {
                     "windjammers2.full.7z.001": {
                         "name": "windjammers2.full.7z.001",
-                        "size": 4264920
+                        "size": 4264912
                     }
                 },
                 "has_eyesight_data": true,
@@ -8231,7 +8278,7 @@
                 "files": {
                     "windjammers2.portrait.7z.001": {
                         "name": "windjammers2.portrait.7z.001",
-                        "size": 14346194
+                        "size": 14346191
                     }
                 },
                 "has_eyesight_data": true,
@@ -8245,7 +8292,7 @@
                 "files": {
                     "windjammers2.stage_icon.7z.001": {
                         "name": "windjammers2.stage_icon.7z.001",
-                        "size": 10083211
+                        "size": 10083209
                     }
                 },
                 "has_eyesight_data": false,
@@ -8264,7 +8311,7 @@
                 "files": {
                     "xcota.base_files.7z.001": {
                         "name": "xcota.base_files.7z.001",
-                        "size": 253803
+                        "size": 253798
                     }
                 },
                 "has_eyesight_data": false,
@@ -8283,7 +8330,7 @@
                 "files": {
                     "xvsf.base_files.7z.001": {
                         "name": "xvsf.base_files.7z.001",
-                        "size": 615181
+                        "size": 615179
                     }
                 },
                 "has_eyesight_data": false,
@@ -8297,7 +8344,7 @@
                 "files": {
                     "xvsf.full.7z.001": {
                         "name": "xvsf.full.7z.001",
-                        "size": 13432077
+                        "size": 13432073
                     }
                 },
                 "has_eyesight_data": true,
@@ -8316,7 +8363,7 @@
                 "files": {
                     "yyh120.base_files.7z.001": {
                         "name": "yyh120.base_files.7z.001",
-                        "size": 704201
+                        "size": 704198
                     }
                 },
                 "has_eyesight_data": false,
@@ -8330,7 +8377,7 @@
                 "files": {
                     "yyh120.full.7z.001": {
                         "name": "yyh120.full.7z.001",
-                        "size": 6759756
+                        "size": 6759774
                     }
                 },
                 "has_eyesight_data": true,
@@ -8344,7 +8391,7 @@
                 "files": {
                     "yyh120.full_upscale.7z.001": {
                         "name": "yyh120.full_upscale.7z.001",
-                        "size": 88972011
+                        "size": 88972000
                     }
                 },
                 "has_eyesight_data": true,

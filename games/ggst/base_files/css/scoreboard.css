@@ -1,29 +1,12 @@
 .override .player.container {
-  top: 8px;
-  width: 652px;
-}
-
-.override .player.container {
   top: 2px;
   height: 48px;
-  width: 640px;
-}
-
-.override .player.container {
   width: 580px;
   top: 60px;
 }
 
 .override .p1.container {
-  left: 154px;
-}
-
-.override .p1.container {
   left: 164px;
-}
-
-.override .p2.container {
-  right: 154px;
 }
 
 .override .p2.container {
@@ -84,19 +67,9 @@
 }
 
 .override .logo {
-  top: 150px;
-  width: 120px;
-  height: 120px;
-}
-
-.override .logo {
-  top: 140px;
   width: 100px;
   height: 100px;
-}
-
-.override .logo {
-  top: 200px;
+  top: 210px;
 }
 
 .override .info.container.top {
@@ -197,14 +170,14 @@
 }
 
 .override .chips {
-  top: 200px;
+  top: 30px;
 }
 
 .override .p1.chips {
-  left: 375px;
+  left: 249px;
 }
 
 .override .p2.chips {
   left: unset;
-  right: 375px;
+  right: 249px;
 }

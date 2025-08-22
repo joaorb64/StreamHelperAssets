@@ -2,16 +2,20 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Eureka": {
-      "codename": "Eureka"
+      "codename": "Eureka",
+      "smashgg_name": "Eureka"
     },
     "Knockt": {
-      "codename": "Knockt"
+      "codename": "Knockt",
+      "smashgg_name": "Knockt"
     },
     "Ninja": {
-      "codename": "Ninja"
+      "codename": "Ninja",
+      "smashgg_name": "Ninja"
     },
     "Rend": {
-      "codename": "Rend"
+      "codename": "Rend",
+      "smashgg_name": "Rend"
     }
   },
   "credits": "",

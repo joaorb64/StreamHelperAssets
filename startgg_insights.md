@@ -142,12 +142,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Granblue Fantasy Versus: Rising
-- Character [Sandalphon]: Character name [Sandalphon] doesn't exist in StartGG
 - Character [Meg]: Character name [Meg] doesn't exist in StartGG
 - Character [Ilsa]: Character name [Ilsa] doesn't exist in StartGG
 - Character [Lunalu] not assigned in TSH!
-- Character [Saldalphon] not assigned in TSH!
-### Coverage: (36/38)
+### Coverage: (37/38)
 
 ## Guilty Gear -STRIVE-
 - Character [Lucyna "Lucy" Kushinada]: Character name [Lucy] doesn't exist in StartGG

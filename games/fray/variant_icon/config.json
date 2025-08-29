@@ -1,0 +1,11 @@
+{
+  "name": "Assists",
+  "version": "25.05.29.53856",
+  "description": "Assist icons\nRequires TSH 5.92 or higher to be used",
+  "credits": "Ripped from https://mcleodgaming.fandom.com/wiki/Assist",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ]
+}

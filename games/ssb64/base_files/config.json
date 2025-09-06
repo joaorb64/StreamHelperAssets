@@ -650,11 +650,43 @@
     },
     "Peach": {
       "smashgg_name": "Peach",
-      "codename": "peach"
+      "codename": "peach",
+      "locale": {
+        "ja": "\u30d4\u30fc\u30c1",
+        "fr": "Peach",
+        "fr_CA": "Peach",
+        "es": "Peach",
+        "es_LA": "Peach",
+        "de": "Peach",
+        "it": "Peach",
+        "nl": "Peach",
+        "ru": "\u041f\u0438\u0447",
+        "ko": "\ud53c\uce58\uacf5\uc8fc",
+        "zh_TW": "\u78a7\u59ec\u516c\u4e3b",
+        "zh_CN": "\u78a7\u59ec\u516c\u4e3b",
+        "en_GB": "Peach",
+        "en_AU": "Peach"
+      }
     },
     "Roy": {
       "smashgg_name": "Roy",
-      "codename": "roy"
+      "codename": "roy",
+      "locale": {
+        "ja": "\u30ed\u30a4",
+        "en_GB": "Roy",
+        "en_AU": "Roy",
+        "fr": "Roy",
+        "fr_CA": "Roy",
+        "es": "Roy",
+        "es_LA": "Roy",
+        "de": "Roy",
+        "it": "Roy",
+        "nl": "Roy",
+        "ru": "\u0420\u043e\u0439",
+        "ko": "\ub85c\uc774",
+        "zh_TW": "\u7f85\u4f0a",
+        "zh_CN": "\u7f57\u4f0a"
+      }
     },
     "Lanky Kong": {
       "smashgg_name": "Lanky Kong",

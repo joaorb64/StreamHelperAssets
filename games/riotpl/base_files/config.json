@@ -32,6 +32,10 @@
     "Vi": {
       "codename": "Vi",
       "smashgg_name": "Vi"
+    },
+    "Blitzcrank": {
+      "codename": "Blitzcrank",
+      "smashgg_name": "Blitzcrank"
     }
   },
   "credits": "Ripped from https://2xko.riotgames.com/en-us/",
@@ -39,9 +43,26 @@
   "name": "2XKO",
   "smashgg_game_id": 64423,
   "stage_to_codename": {},
-  "version": "25.08.20.56601",
+  "version": "25.09.15.75063",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1
+  },
+  "variant_to_codename": {
+    "2X Assist": {
+      "codename": "2XAssistV"
+    },
+    "Double Down": {
+      "codename": "DoubleDownV"
+    },
+    "Freestyle": {
+      "codename": "FreestyleV"
+    },
+    "Juggernaut": {
+      "codename": "JuggernautV"
+    },
+    "Sidekick": {
+      "codename": "SidekickV"
+    }
   }
 }

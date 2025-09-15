@@ -1,6 +1,6 @@
 {
   "average_size": {
-    "x": 2815.125,
+    "x": 2838.777777777778,
     "y": 4000.0
   },
   "credits": "From the asset kit (https://2xko.riotgames.com/en-us/news/announcements/2xko-community-competition-guidelines/#Q9)",
@@ -53,6 +53,12 @@
         "x": 1127,
         "y": 934
       }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 1218,
+        "y": 1067
+      }
     }
   },
   "name": "Renders (Alternate)",
@@ -67,11 +73,17 @@
     "d",
     "r"
   ],
-  "version": "25.08.20.56601",
+  "version": "25.09.15.75063",
   "image_sizes": {
     "Ahri": {
       "0": {
         "x": 2778,
+        "y": 4000
+      }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 3028,
         "y": 4000
       }
     },

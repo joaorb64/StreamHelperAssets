@@ -773,6 +773,444 @@
                 "TC": "庫巴Jr.",
                 "SC": "酷霸王Jr."
             }
+        },
+        {
+            "displayName": {
+                "en_US": "Cataquack",
+                "en_GB": "Cataquack",
+                "ja_JP": "ポイハナ",
+                "SC": "抛抛花仔",
+                "TC": "抛抛花仔",
+                "nl_NL": "Cataquack",
+                "fr_FR": "Catacouac",
+                "fr_CA": "Catacouac",
+                "de_DE": "Kataquax",
+                "it_IT": "Catapapero",
+                "ko_KR": "날꽃",
+                "pt_BR": "Cataquack",
+                "pt_PT": "Cataquack",
+                "ru_RU": "Катаквак",
+                "es_ES": "Picocuac",
+                "es_LA": "Picocuac"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Chargin' Chuck",
+                "en_GB": "Chargin' Chuck",
+                "ja_JP": "ブル",
+                "SC": "布鲁",
+                "TC": "布魯",
+                "nl_NL": "Chargin' Chuck",
+                "fr_FR": "Bill Dozer",
+                "fr_CA": "Fred Lafonce",
+                "de_DE": "Football-Chuck",
+                "it_IT": "Plakkoopa",
+                "ko_KR": "불",
+                "pt_BR": "Toni Trombada",
+                "pt_PT": "Demolikoopa",
+                "ru_RU": "Нападающий Чак",
+                "es_ES": "Placapum",
+                "es_LA": "Placapum"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Cheep Cheep",
+                "en_GB": "Cheep Cheep",
+                "ja_JP": "プクプク",
+                "SC": "泡泡鱼",
+                "TC": "泡泡魚",
+                "nl_NL": "Cheep Cheep",
+                "fr_FR": "Cheep Cheep",
+                "fr_CA": "Aquazo",
+                "de_DE": "Cheep Cheep",
+                "it_IT": "Pesce Smack",
+                "ko_KR": "뽀꾸뽀꾸",
+                "pt_BR": "Cheep Cheep",
+                "pt_PT": "Cheep Cheep",
+                "ru_RU": "Чип-чип",
+                "es_ES": "Cheep Cheep",
+                "es_LA": "Cheep Cheep"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Coin Coffer",
+                "en_GB": "Coin Coffer",
+                "ja_JP": "ガマネー",
+                "SC": "钱包蛙",
+                "TC": "錢包蛙",
+                "nl_NL": "Coin Coffer",
+                "fr_FR": "Crapognon",
+                "fr_CA": "Crapognon",
+                "de_DE": "Krötsus",
+                "it_IT": "Rospicciolo",
+                "ko_KR": "돈꺼비",
+                "pt_BR": "Jorramoeda",
+                "pt_PT": "Cospe Moedas",
+                "ru_RU": "Кошелек",
+                "es_ES": "Monerrana",
+                "es_LA": "Monerrana"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Conkdor",
+                "en_GB": "Conkdor",
+                "ja_JP": "ツッコンドル",
+                "SC": "啄啄鹫",
+                "TC": "啄啄鷲",
+                "nl_NL": "Conkdor",
+                "fr_FR": "Pico Condor",
+                "fr_CA": "Picondor",
+                "de_DE": "Pickondor",
+                "it_IT": "Kondorotto",
+                "ko_KR": "콕콘도르",
+                "pt_BR": "Atacondor",
+                "pt_PT": "Picondor",
+                "ru_RU": "Кондортюк",
+                "es_ES": "Picacóndor",
+                "es_LA": "Picacóndor"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Dolphin",
+                "en_GB": "Dolphin",
+                "ja_JP": "リフトン",
+                "SC": "蓝海豚",
+                "TC": "便車海豚",
+                "nl_NL": "Dolfijn",
+                "fr_FR": "Dauphin",
+                "fr_CA": "Dauphin",
+                "de_DE": "Delfin",
+                "it_IT": "Delfì",
+                "ko_KR": "리프튼",
+                "pt_BR": "Golfinho",
+                "pt_PT": "Golfinho",
+                "es_ES": "Delfín",
+                "es_LA": "Delfín"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Fish Bone",
+                "en_GB": "Fish Bone",
+                "ja_JP": "フィッシュボーン",
+                "SC": "鱼骨头",
+                "TC": "魚骨頭",
+                "nl_NL": "Fish Bone",
+                "fr_FR": "Ossec",
+                "fr_CA": "Poissonos",
+                "de_DE": "Skelettfisch",
+                "it_IT": "Pesce Lisca",
+                "ko_KR": "피시본",
+                "pt_BR": "Espinhosso",
+                "pt_PT": "Espinhas",
+                "ru_RU": "Рыба-скелет",
+                "es_ES": "Pezueso",
+                "es_LA": "Pezueso"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Goomba",
+                "en_GB": "Goomba",
+                "ja_JP": "クリボー",
+                "SC": "栗宝宝",
+                "TC": "栗寶寶",
+                "nl_NL": "Goomba",
+                "fr_FR": "Goomba",
+                "fr_CA": "Goomba",
+                "de_DE": "Gumba",
+                "it_IT": "Goomba",
+                "ko_KR": "굼바",
+                "pt_BR": "Goomba",
+                "pt_PT": "Goomba",
+                "ru_RU": "Гумба",
+                "es_ES": "Goomba",
+                "es_LA": "Goomba"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Hammer Bro",
+                "en_GB": "Hammer Bro",
+                "ja_JP": "ハンマーブロス",
+                "SC": "铁锤兄弟",
+                "TC": "鐵鎚兄弟",
+                "nl_NL": "Hammer Bro",
+                "fr_FR": "Frère Marto",
+                "fr_CA": "Frère Marto",
+                "de_DE": "Hammer-Bruder",
+                "it_IT": "Martelkoopa",
+                "ko_KR": "해머브러스",
+                "pt_BR": "Irmão Martelo",
+                "pt_PT": "Mano Martelo",
+                "ru_RU": "Братец-молоток",
+                "es_ES": "Hermano Martillo",
+                "es_LA": "Hermano Martillo"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Monty Mole",
+                "en_GB": "Monty Mole",
+                "ja_JP": "チョロプー",
+                "SC": "黄鼹鼠",
+                "TC": "黃鼴鼠",
+                "nl_NL": "Monty Mole",
+                "fr_FR": "Topi Taupe",
+                "fr_CA": "Topi Taupe",
+                "de_DE": "Monty Maulwurf",
+                "it_IT": "Tantatalpa",
+                "ko_KR": "쪼르뚜",
+                "pt_BR": "Monty Toupeira",
+                "pt_PT": "Toupeira Monty",
+                "ru_RU": "Крот Монти",
+                "es_ES": "Topo Monty",
+                "es_LA": "Topo Monty"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Nabbit",
+                "en_GB": "Nabbit",
+                "ja_JP": "トッテン",
+                "SC": "偷天兔",
+                "TC": "偷天兔",
+                "nl_NL": "Nabbit",
+                "fr_CA": "Chipin",
+                "fr_FR": "Carottin",
+                "de_DE": "Mopsie",
+                "it_IT": "Ruboniglio",
+                "ko_KR": "톳텐",
+                "pt_BR": "Ledrão",
+                "pt_PT": "Coelharápio",
+                "ru_RU": "Кралик",
+                "es_LA": "Caco Gazapo",
+                "es_ES": "Caco Gazapo"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Para-Biddybud",
+                "en_GB": "Para-Biddybud",
+                "ja_JP": "パタテンテン",
+                "SC": "啪嗒瓢瓢",
+                "TC": "飛行瓢瓢",
+                "nl_NL": "Para-Biddybud",
+                "fr_CA": "Paracoccinelly",
+                "fr_FR": "Paracoccinelly",
+                "de_DE": "Parapünktchen",
+                "it_IT": "Coccinello Volante",
+                "ko_KR": "펄럭무당무당",
+                "pt_BR": "Parajoaninha",
+                "pt_PT": "Parajoaninha",
+                "ru_RU": "Летучая крапинка",
+                "es_LA": "Catina Alada",
+                "es_ES": "Marchimotas Alado"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Peepa",
+                "en_GB": "Peepa",
+                "ja_JP": "テレン",
+                "SC": "不害羞幽灵",
+                "TC": "不害羞幽靈",
+                "nl_NL": "Peepa",
+                "fr_CA": "Paltrak",
+                "fr_FR": "Vache",
+                "de_DE": "Spukmatz",
+                "it_IT": "Ectobaldo",
+                "ko_KR": "안부끄",
+                "pt_BR": "Esbugalhado",
+                "pt_PT": "Fantasma",
+                "ru_RU": "Пучеглазый призрак",
+                "es_LA": "Fantasmirón",
+                "es_ES": "Fantasmirón"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Penguin",
+                "en_GB": "Penguin",
+                "ja_JP": "ペンギン",
+                "SC": "企鹅",
+                "TC": "企鵝",
+                "nl_NL": "Pinguïn",
+                "fr_CA": "Pingouin",
+                "fr_FR": "Pingouin",
+                "de_DE": "Pinguin",
+                "it_IT": "Pinguotto",
+                "ko_KR": "펭귄",
+                "pt_BR": "Pinguim",
+                "pt_PT": "Pinguim",
+                "ru_RU": "Пингвин",
+                "es_LA": "Pingüino",
+                "es_ES": "Pingüino"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Pianta",
+                "en_GB": "Pianta",
+                "ja_JP": "モンテ",
+                "SC": "蒙特",
+                "TC": "蒙特",
+                "nl_NL": "Pianta",
+                "fr_CA": "Pianta",
+                "fr_FR": "Pianta",
+                "de_DE": "Palma",
+                "it_IT": "Palmense",
+                "ko_KR": "몬테",
+                "pt_BR": "Pianta",
+                "pt_PT": "Pianta",
+                "ru_RU": "Пальма",
+                "es_LA": "Pianta",
+                "es_ES": "Forestano"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Pokey",
+                "en_GB": "Pokey",
+                "ja_JP": "サンボ",
+                "SC": "仙人刺球",
+                "TC": "刺球丸子",
+                "nl_NL": "Pokey",
+                "fr_CA": "Pokey",
+                "fr_FR": "Pokey",
+                "de_DE": "Pokey",
+                "it_IT": "Marghibruco",
+                "ko_KR": "선인",
+                "pt_BR": "Cactubola",
+                "pt_PT": "Catubola",
+                "ru_RU": "Поки",
+                "es_LA": "Pokey",
+                "es_ES": "Pokey"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Rocky Wrench",
+                "en_GB": "Rocky Wrench",
+                "ja_JP": "プー",
+                "SC": "扳手仔",
+                "TC": "扳手仔",
+                "nl_NL": "Rocky Wrench",
+                "fr_CA": "Mogu",
+                "fr_FR": "Torti Taupe",
+                "de_DE": "Rocky Schraubschlüssel",
+                "it_IT": "Tartatalpa",
+                "ko_KR": "뚜",
+                "pt_BR": "Rocky Toupeira",
+                "pt_PT": "Toupeira Rocky",
+                "ru_RU": "Роки-ключ",
+                "es_LA": "Topo Rocky",
+                "es_ES": "Tortopo"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Sidestepper",
+                "en_GB": "Sidestepper",
+                "ja_JP": "カニ",
+                "SC": "螃蟹",
+                "TC": "螃蟹",
+                "nl_NL": "Sidestepper",
+                "fr_CA": "Zarbipas",
+                "fr_FR": "Zarbipas",
+                "de_DE": "Krabbe",
+                "it_IT": "Granchio",
+                "ko_KR": "게님",
+                "pt_BR": "Caranguejo",
+                "pt_PT": "Caranguejo",
+                "ru_RU": "Бокоход",
+                "es_LA": "Flancogrejo",
+                "es_ES": "Cangrejo"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Snowman",
+                "en_GB": "Snowman",
+                "ja_JP": "ゆきだるま",
+                "SC": "雪人",
+                "TC": "雪人",
+                "nl_NL": "Sneeuwpop",
+                "fr_CA": "Bonhomme de neige",
+                "fr_FR": "Bonhomme de neige",
+                "de_DE": "Schneemann",
+                "it_IT": "Pupazzo di neve",
+                "ko_KR": "눈사람",
+                "pt_BR": "Boneco de neve",
+                "pt_PT": "Boneco de neve",
+                "es_LA": "Muñeco de nieve",
+                "es_ES": "Muñeco de nieve"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Stingby",
+                "en_GB": "Stingby",
+                "ja_JP": "ハッチン",
+                "SC": "叮叮蜂",
+                "TC": "叮叮蜂",
+                "nl_NL": "Stingby",
+                "fr_CA": "Butitine",
+                "fr_FR": "Butitine",
+                "de_DE": "Summser",
+                "it_IT": "Apiciccia",
+                "ko_KR": "딱끔",
+                "pt_BR": "Zangão",
+                "pt_PT": "Zumbida",
+                "ru_RU": "Жужжало",
+                "es_LA": "Abejorro",
+                "es_ES": "Abejorro"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Swoop",
+                "en_GB": "Swoop",
+                "ja_JP": "バサバサ",
+                "SC": "啪沙啪沙蝙蝠",
+                "TC": "啪沙啪沙蝙蝠",
+                "nl_NL": "Swoop",
+                "fr_CA": "Swoopa",
+                "fr_FR": "Swooper",
+                "de_DE": "Flappflapp",
+                "it_IT": "Swooper",
+                "ko_KR": "스우푸",
+                "pt_BR": "Súbito",
+                "pt_PT": "Morcego",
+                "ru_RU": "Пикировщик",
+                "es_LA": "Vampílago",
+                "es_ES": "Swooper"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Cow",
+                "en_GB": "Cow",
+                "ja_JP": "牛",
+                "SC": "牛",
+                "TC": "牛",
+                "nl_NL": "Koe",
+                "fr_CA": "Vache",
+                "fr_FR": "Vache",
+                "de_DE": "Kuh",
+                "it_IT": "Mucca",
+                "ko_KR": "젖소",
+                "pt_BR": "Vaca",
+                "pt_PT": "Vaca",
+                "ru_RU": "Корова",
+                "es_LA": "Vaca",
+                "es_ES": "Vaca"
+            }
         }
     ]
 }

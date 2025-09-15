@@ -1,7 +1,7 @@
 {
   "average_size": {
-    "x": 3527.0,
-    "y": 4000.0
+    "x": 3579.5555555555557,
+    "y": 3987.4444444444443
   },
   "credits": "From the asset kit (https://2xko.riotgames.com/en-us/news/announcements/2xko-community-competition-guidelines/#Q9)",
   "description": "Character renders",
@@ -53,6 +53,12 @@
         "x": 2130,
         "y": 778
       }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 2198,
+        "y": 270
+      }
     }
   },
   "name": "Renders",
@@ -67,12 +73,18 @@
     "d",
     "r"
   ],
-  "version": "25.08.20.56601",
+  "version": "25.09.15.75063",
   "image_sizes": {
     "Ahri": {
       "0": {
         "x": 3817,
         "y": 4000
+      }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 4000,
+        "y": 3887
       }
     },
     "Braum": {

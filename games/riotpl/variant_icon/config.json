@@ -1,0 +1,47 @@
+{
+  "name": "Fuses",
+  "version": "25.09.15.75063",
+  "description": "Fuse icons\nRequires TSH 5.92 or higher to be used",
+  "credits": "Ripped from https://wiki.play2xko.com/en-us/Fuses",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "image_sizes": {
+    "2XAssistV": {
+      "null": {
+        "x": 1024,
+        "y": 1024
+      }
+    },
+    "DoubleDownV": {
+      "null": {
+        "x": 1024,
+        "y": 1024
+      }
+    },
+    "FreestyleV": {
+      "null": {
+        "x": 1024,
+        "y": 1024
+      }
+    },
+    "JuggernautV": {
+      "null": {
+        "x": 1024,
+        "y": 1024
+      }
+    },
+    "SidekickV": {
+      "null": {
+        "x": 1024,
+        "y": 1024
+      }
+    }
+  },
+  "average_size": {
+    "x": 1024.0,
+    "y": 1024.0
+  }
+}

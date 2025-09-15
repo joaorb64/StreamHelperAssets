@@ -559,7 +559,8 @@
         "ko": "\uc6b8\ud504",
         "zh_TW": "\u6c83\u723e\u592b",
         "zh_CN": "\u6c83\u9c81\u592b"
-      }
+      },
+      "modded": true
     },
     "Lucas": {
       "smashgg_name": "Lucas",
@@ -579,7 +580,8 @@
         "ko": "\ub958\uce74",
         "zh_TW": "\u7409\u52a0",
         "zh_CN": "\u7409\u52a0"
-      }
+      },
+      "modded": true
     },
     "Sonic": {
       "smashgg_name": "Sonic",
@@ -599,7 +601,8 @@
         "ko": "\uc18c\ub2c9",
         "zh_TW": "\u7d22\u5c3c\u514b",
         "zh_CN": "\u7d22\u5c3c\u514b"
-      }
+      },
+      "modded": true
     },
     "Charizard": {
       "smashgg_name": "Charizard",
@@ -612,7 +615,8 @@
         "zh_CN": "\u55b7\u706b\u9f99",
         "zh_TW": "\u5674\u706b\u9f8d",
         "br": "Tanaer"
-      }
+      },
+      "modded": true
     },
     "Diddy Kong": {
       "smashgg_name": "Diddy Kong",
@@ -632,7 +636,8 @@
         "ko": "\ub514\ub514\ucf69",
         "zh_TW": "\u72c4\u72c4\u525b",
         "zh_CN": "\u8fea\u8fea\u521a"
-      }
+      },
+      "modded": true
     },
     "King Dedede": {
       "smashgg_name": "King Dedede",
@@ -652,11 +657,13 @@
         "ko": "\ub514\ub514\ub514 \ub300\uc655",
         "zh_TW": "\u5e1d\u5e1d\u5e1d\u5927\u738b",
         "zh_CN": "\u5e1d\u5e1d\u5e1d\u5927\u738b"
-      }
+      },
+      "modded": true
     },
     "Tails": {
       "smashgg_name": "Tails",
-      "codename": "tails"
+      "codename": "tails",
+      "modded": true
     }
   },
   "stage_to_codename": {
@@ -808,7 +815,7 @@
       }
     }
   },
-  "version": "25.06.07.41034",
+  "version": "25.09.15.75063",
   "description": "Base config to use this game.",
   "preset_colors": [
     {

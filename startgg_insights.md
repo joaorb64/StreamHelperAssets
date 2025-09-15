@@ -339,6 +339,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Mario Tennis Aces
 ### Coverage: (30/30)
 
+## Marvel Tōkon: Fighting Souls
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG
 - Character [Raven]: Character name [Raven] doesn't exist in StartGG
@@ -522,6 +525,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
 - Character [Vi]: Character name [Vi] doesn't exist in StartGG
+- Character [Blitzcrank]: Character name [Blitzcrank] doesn't exist in StartGG
 ### Coverage: (7/7)
 
 ## Rivals of Aether

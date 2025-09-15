@@ -1,7 +1,7 @@
 {
   "average_size": {
-    "x": 1680.0,
-    "y": 2480.0
+    "x": 1586.6666666666667,
+    "y": 2342.222222222222
   },
   "credits": "Ripped from https://2xko.riotgames.com/en-us/",
   "description": "Character portraits (Website version)",
@@ -47,6 +47,18 @@
         "x": 1441,
         "y": 413
       }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 470,
+        "y": 300
+      }
+    },
+    "Vi": {
+      "0": {
+        "x": 358,
+        "y": 174
+      }
     }
   },
   "name": "Portraits (Website)",
@@ -59,7 +71,7 @@
     "u",
     "l"
   ],
-  "version": "25.08.20.56601",
+  "version": "25.09.15.75063",
   "rescaling_factor": {
     "Jinx": {
       "0": 2.0
@@ -73,6 +85,12 @@
       "0": {
         "x": 1680,
         "y": 2480
+      }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 840,
+        "y": 1240
       }
     },
     "Braum": {

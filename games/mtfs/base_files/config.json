@@ -1,0 +1,35 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Captain America": {
+      "codename": "CaptainAmerica"
+    },
+    "Doctor Doom": {
+      "codename": "DoctorDoom"
+    },
+    "Ghost Rider": {
+      "codename": "GhostRider"
+    },
+    "Iron Man": {
+      "codename": "IronMan"
+    },
+    "Ms. Marvel": {
+      "codename": "MsMarvel"
+    },
+    "Spider-Man": {
+      "codename": "SpiderMan"
+    },
+    "Star-Lord": {
+      "codename": "StarLord"
+    },
+    "Storm": {
+      "codename": "Storm"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.\nPlaceholder screenshots are used for now",
+  "name": "Marvel T\u014dkon: Fighting Souls",
+  "smashgg_game_id": 107706,
+  "stage_to_codename": {},
+  "version": "25.09.02.77879"
+}

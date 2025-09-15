@@ -47,5 +47,22 @@
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1
+  },
+  "variant_to_codename": {
+    "2X Assist": {
+      "codename": "2XAssistV"
+    },
+    "Double Down": {
+      "codename": "DoubleDownV"
+    },
+    "Freestyle": {
+      "codename": "FreestyleV"
+    },
+    "Juggernaut": {
+      "codename": "JuggernautV"
+    },
+    "Sidekick": {
+      "codename": "SidekickV"
+    }
   }
 }

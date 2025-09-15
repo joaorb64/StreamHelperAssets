@@ -1,0 +1,11 @@
+{
+  "name": "Fuses",
+  "version": "25.05.29.53856",
+  "description": "Fuse icons\nRequires TSH 5.92 or higher to be used",
+  "credits": "Ripped from https://wiki.play2xko.com/en-us/Fuses",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ]
+}

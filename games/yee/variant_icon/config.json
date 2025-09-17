@@ -7,5 +7,19 @@
   "postfix": "",
   "type": [
     "variant_icon"
-  ]
+  ],
+  "image_sizes": {
+    "Super1V": {
+      "null": {
+        "x": 15,
+        "y": 20
+      }
+    },
+    "Super2V": {
+      "null": {
+        "x": 25,
+        "y": 20
+      }
+    }
+  }
 }

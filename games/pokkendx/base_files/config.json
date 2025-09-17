@@ -48,7 +48,8 @@
         "ko": "\ub9ac\uc790\ubabd",
         "ja": "\u30ea\u30b6\u30fc\u30c9\u30f3",
         "zh_CN": "\u55b7\u706b\u9f99",
-        "zh_TW": "\u5674\u706b\u9f8d"
+        "zh_TW": "\u5674\u706b\u9f8d",
+        "br": "Tanaer"
       }
     },
     "Croagunk": {
@@ -132,7 +133,8 @@
         "ko": "\ud32c\ud140",
         "ja": "\u30b2\u30f3\u30ac\u30fc",
         "zh_CN": "\u803f\u9b3c",
-        "zh_TW": "\u803f\u9b3c"
+        "zh_TW": "\u803f\u9b3c",
+        "br": "Diaoulteus"
       }
     },
     "Lucario": {
@@ -156,7 +158,8 @@
         "ko": "\uad34\ub825\ubaac",
         "ja": "\u30ab\u30a4\u30ea\u30ad\u30fc",
         "zh_CN": "\u602a\u529b",
-        "zh_TW": "\u602a\u529b"
+        "zh_TW": "\u602a\u529b",
+        "br": "Gouregrog"
       }
     },
     "Mewtwo": {
@@ -168,7 +171,8 @@
         "ko": "\ubba4\uce20",
         "ja": "\u30df\u30e5\u30a6\u30c4\u30fc",
         "zh_CN": "\u8d85\u68a6",
-        "zh_TW": "\u8d85\u5922"
+        "zh_TW": "\u8d85\u5922",
+        "br": "Diogemm"
       }
     },
     "Pikachu": {
@@ -180,7 +184,8 @@
         "ko": "\ud53c\uce74\uce04",
         "ja": "\u30d4\u30ab\u30c1\u30e5\u30a6",
         "zh_CN": "\u76ae\u5361\u4e18",
-        "zh_TW": "\u76ae\u5361\u4e18"
+        "zh_TW": "\u76ae\u5361\u4e18",
+        "br": "Luc\u2019hodenn"
       }
     },
     "Pikachu Libre": {
@@ -268,7 +273,8 @@
         "ko": "\uac70\ubd81\uc655",
         "ja": "\u30ab\u30e1\u30c3\u30af\u30b9",
         "zh_CN": "\u6c34\u7bad\u9f9f",
-        "zh_TW": "\u6c34\u7bad\u9f9c"
+        "zh_TW": "\u6c34\u7bad\u9f9c",
+        "br": "Baodreist"
       }
     },
     "Aegislash": {
@@ -285,9 +291,9 @@
     }
   },
   "stage_to_codename": {},
-  "version": "25.05.29.53856",
+  "version": "25.09.16.68545",
   "description": "Base config to use this game.",
-  "credits": "Icons ripped from Pok\u00e9mon Sun & Moon and Pok\u00e9mon Omega Ruby & Alpha Sapphire\nCustom Shadow Mewtwo icon by @MathiasWolfbrok",
+  "credits": "Icons ripped from Pok\u00e9mon Sun & Moon and Pok\u00e9mon Omega Ruby & Alpha Sapphire\nCustom Shadow Mewtwo icon by @MathiasWolfbrok\nBreton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
   "locale": {
     "ja": {
       "name": "\u30dd\u30c3\u62f3 POKK\u00c9N TOURNAMENT DX"

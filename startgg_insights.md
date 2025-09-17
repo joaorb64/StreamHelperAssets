@@ -804,6 +804,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## X-Men vs. Street Fighter
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Yatagarasu: Enter the Eastward
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## The Battle of Yū Yū Hakusho: Shitō! Ankoku Bujutsu Kai 120% Full Power
 Game has no characters in startgg...? Or do we have a wrong game id?
 

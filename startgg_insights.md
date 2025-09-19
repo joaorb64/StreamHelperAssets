@@ -148,9 +148,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (37/38)
 
 ## Guilty Gear -STRIVE-
-- Character [Lucyna "Lucy" Kushinada]: Character name [Lucy] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (31/32)
+### Coverage: (32/33)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)

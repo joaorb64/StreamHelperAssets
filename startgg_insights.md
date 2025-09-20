@@ -64,6 +64,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Cyberbots: Fullmetal Madness
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Dissidia 012 Final Fantasy
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Dark Awake: The King Has No Name
 Game has no characters in startgg...? Or do we have a wrong game id?
 

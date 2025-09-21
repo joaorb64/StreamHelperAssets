@@ -1,0 +1,19 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "25.05.29.53857",
+  "rescaling_factor": {
+    "EXAaron": {
+      "0": 0.633333333
+    },
+    "Uchuu": {
+      "0": 0.633333333
+    }
+  }
+}

@@ -77,5 +77,73 @@
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 2
+  },
+  "variant_to_codename": {
+    "Unknown Soldier": {
+      "codename": "UnknownSoldierV"
+    },
+    "Lou": {
+      "codename": "LouV"
+    },
+    "Arthur": {
+      "codename": "ArthurV"
+    },
+    "Saki": {
+      "codename": "SakiV"
+    },
+    "Ton Pooh": {
+      "codename": "TonPoohV"
+    },
+    "Devilot": {
+      "codename": "DevilotV"
+    },
+    "Anita": {
+      "codename": "AnitaV"
+    },
+    "Pure & Fur": {
+      "codename": "PureFurV"
+    },
+    "Michelle Heart": {
+      "codename": "MichelleHeartV"
+    },
+    "Thor": {
+      "codename": "ThorV"
+    },
+    "Cyclops": {
+      "codename": "CyclopsV"
+    },
+    "Magneto": {
+      "codename": "MagnetoV"
+    },
+    "Storm": {
+      "codename": "StormV"
+    },
+    "Jubilee": {
+      "codename": "JubileeV"
+    },
+    "Rogue": {
+      "codename": "RogueV"
+    },
+    "Psylocke": {
+      "codename": "PsylockeV"
+    },
+    "Juggernaut": {
+      "codename": "JuggernautV"
+    },
+    "Iceman": {
+      "codename": "IcemanV"
+    },
+    "Colossus": {
+      "codename": "ColossusV"
+    },
+    "U.S. Agent": {
+      "codename": "USAgentV"
+    },
+    "Shadow": {
+      "codename": "ShadowV"
+    },
+    "Sentinel": {
+      "codename": "SentinelV"
+    }
   }
 }

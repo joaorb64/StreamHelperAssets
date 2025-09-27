@@ -1,0 +1,96 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Lantors",
+  "version": "25.06.24.50344",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "average_size": {
+    "x": 279.0,
+    "y": 388.0
+  },
+  "eyesights": {
+    "Grave": {
+      "0": {
+        "x": 140,
+        "y": 60
+      }
+    },
+    "Geiger": {
+      "0": {
+        "x": 140,
+        "y": 60
+      }
+    },
+    "Setsuki": {
+      "0": {
+        "x": 140,
+        "y": 90
+      }
+    },
+    "Rook": {
+      "0": {
+        "x": 140,
+        "y": 55
+      }
+    },
+    "Lum": {
+      "0": {
+        "x": 140,
+        "y": 60
+      }
+    },
+    "Quince": {
+      "0": {
+        "x": 140,
+        "y": 50
+      }
+    },
+    "Jaina": {
+      "0": {
+        "x": 140,
+        "y": 60
+      }
+    },
+    "Argagarg": {
+      "0": {
+        "x": 110,
+        "y": 70
+      }
+    },
+    "Valerie": {
+      "0": {
+        "x": 140,
+        "y": 80
+      }
+    },
+    "Midori": {
+      "0": {
+        "x": 140,
+        "y": 50
+      }
+    },
+    "DeGrey": {
+      "0": {
+        "x": 120,
+        "y": 90
+      }
+    },
+    "Onimaru": {
+      "0": {
+        "x": 170,
+        "y": 60
+      }
+    }
+  },
+  "image_sizes": {}
+}

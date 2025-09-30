@@ -1,0 +1,47 @@
+{
+  "name": "Fantasy Strike",
+  "smashgg_game_id": 18035,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Grave": {
+      "codename": "Grave"
+    },
+    "Jaina": {
+      "codename": "Jaina"
+    },
+    "Geiger": {
+      "codename": "Geiger"
+    },
+    "Argagarg": {
+      "codename": "Argagarg"
+    },
+    "Setsuki": {
+      "codename": "Setsuki"
+    },
+    "Rook": {
+      "codename": "Rook"
+    },
+    "Lum": {
+      "codename": "Lum"
+    },
+    "Quince": {
+      "codename": "Quince"
+    },
+    "Valerie": {
+      "codename": "Valerie"
+    },
+    "Midori": {
+      "codename": "Midori"
+    },
+    "DeGrey": {
+      "codename": "DeGrey"
+    },
+    "Onimaru": {
+      "codename": "Onimaru"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "25.09.28.64141",
+  "description": "Base config to use this game.",
+  "credits": "Lantors"
+}

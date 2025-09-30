@@ -135,6 +135,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Fraymakers
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Fantasy Strike
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Fate/Unlimited Codes
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -526,9 +529,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-- Character [Vi]: Character name [Vi] doesn't exist in StartGG
-- Character [Blitzcrank]: Character name [Blitzcrank] doesn't exist in StartGG
-### Coverage: (7/7)
+### Coverage: (9/9)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG

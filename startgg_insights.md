@@ -734,6 +734,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Baihe]: Character name [Baihe] doesn't exist in StartGG
 ### Coverage: (7/7)
 
+## Thrill Kill
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Tough Love Arena
 Game has no characters in startgg...? Or do we have a wrong game id?
 

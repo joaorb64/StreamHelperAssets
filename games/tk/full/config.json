@@ -1,0 +1,85 @@
+{
+    "name": "Portraits",
+    "description": "Character Renders",
+    "prefix": "Full_",
+    "postfix": "_",
+    "type": [
+        "full"
+    ],
+    "credits": "Last Uppercut",
+    "version": "25.05.29.53856",
+    "uncropped_edge": [
+        "u",
+        "d",
+        "l",
+        "r"
+    ],
+    "eyesights": {
+        "Oddball": {
+            "0": {
+                "x": 164,
+                "y": 112
+            }
+        },
+        "Cain": {
+            "0": {
+                "x": 300,
+                "y": 112
+            }
+        },
+        "DrFaustus": {
+            "0": {
+                "x": 203,
+                "y": 112
+            }
+        },
+        "Judas": {
+            "0": {
+                "x": 160,
+                "y": 112
+            }
+        },
+        "TheImp": {
+            "0": {
+                "x": 168,
+                "y": 112
+            }
+        },
+        "Mammoth": {
+            "0": {
+                "x": 280,
+                "y": 112
+            }
+        },
+        "Marukka": {
+            "0": {
+                "x": 300,
+                "y": 112
+            }
+        },
+        "Tormentor": {
+            "0": {
+                "x": 202,
+                "y": 112
+            }
+        },
+        "Violet": {
+            "0": {
+                "x": 166,
+                "y": 123
+            }
+        },
+        "Belladonna": {
+            "0": {
+                "x": 166,
+                "y": 112
+            }
+        },
+        "Cleetus": {
+            "0": {
+                "x": 187,
+                "y": 112
+            }
+        }
+    }
+}

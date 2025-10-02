@@ -277,6 +277,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## MerFight: Curse of the Arctic Prince
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+
 ## My Hero One’s Justice 2
 Game has no characters in startgg...? Or do we have a wrong game id?
 

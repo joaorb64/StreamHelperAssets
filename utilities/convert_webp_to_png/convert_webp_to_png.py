@@ -2,7 +2,7 @@ from PIL import Image
 import os
 from pathlib import Path
 
-source_dir_list = ["../../games/fray/base_files/icon"]
+source_dir_list = ["../../games/mhaaj/base_files/icon", "../../games/mhaaj/full"]
 out_dir = "out"
 
 Path(out_dir).mkdir(parents=True, exist_ok=True)

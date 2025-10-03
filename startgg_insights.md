@@ -676,10 +676,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Random]: Character name [Random Character] doesn't exist in StartGG
 ### Coverage: (12/12)
 
-## Super Smash Bros Brawl
+## Super Smash Bros. Brawl
 ### Coverage: (38/38)
 
-## Super Smash Bros Melee
+## Super Smash Bros. Melee
 - Character [Wolf]: Character name [Wolf] doesn't exist in StartGG
 - Character [Lucas]: Character name [Lucas] doesn't exist in StartGG
 - Character [Sonic]: Character name [Sonic] doesn't exist in StartGG
@@ -690,7 +690,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Sheik / Zelda] not assigned in TSH!
 ### Coverage: (27/28)
 
-## Super Smash Bros Ultimate
+## Super Smash Bros. Ultimate
 ### Coverage: (87/87)
 
 ## Super Smash Bros. for Wii U

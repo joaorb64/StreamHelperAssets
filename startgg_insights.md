@@ -729,11 +729,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (39/39)
 
 ## Them's Fightin' Herds
-- Character [Texas]: Character name [Texas] doesn't exist in StartGG
-- Character [Stronghoof]: Character name [Stronghoof] doesn't exist in StartGG
-- Character [Nidra]: Character name [Nidra] doesn't exist in StartGG
-- Character [Baihe]: Character name [Baihe] doesn't exist in StartGG
-### Coverage: (7/7)
+### Coverage: (11/11)
 
 ## Thrill Kill
 Game has no characters in startgg...? Or do we have a wrong game id?

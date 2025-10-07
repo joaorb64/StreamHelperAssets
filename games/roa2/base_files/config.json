@@ -2625,7 +2625,10 @@
       }
     },
     "Metal Graveyard": {
-      "codename": "Graveyard"
+      "codename": "Graveyard",
+      "locale": {
+        "fr": "Cimetière de Métal"
+      }
     }
   }
 }

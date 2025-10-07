@@ -895,6 +895,12 @@
         },
         "65": {
           "name": "Abyss - Midnight"
+        },
+        "66": {
+          "name": "Panther - Yellow"
+        },
+        "67": {
+          "name": "Lovers - Portland Retro Gaming Expo"
         }
       }
     },
@@ -1315,6 +1321,21 @@
         },
         "60": {
           "name": "Bandit - Purple"
+        },
+        "61": {
+          "name": "Otter - Pink"
+        },
+        "62": {
+          "name": "Mummy"
+        },
+        "63": {
+          "name": "Mummy - Red"
+        },
+        "64": {
+          "name": "Mummy - Blue"
+        },
+        "65": {
+          "name": "Mummy - Green"
         }
       }
     },
@@ -1558,6 +1579,9 @@
         },
         "78": {
           "name": "Champion - Green"
+        },
+        "79": {
+          "name": "Slasher - Purple"
         }
       }
     },
@@ -1771,6 +1795,18 @@
         },
         "68": {
           "name": "Dark Future - Mecha"
+        },
+        "69": {
+          "name": "Champion"
+        },
+        "70": {
+          "name": "Champion - Red"
+        },
+        "71": {
+          "name": "Champion - Blue"
+        },
+        "72": {
+          "name": "Champion - Green"
         }
       }
     },
@@ -2149,6 +2185,18 @@
         },
         "55": {
           "name": "Doberman - Yellow"
+        },
+        "56": {
+          "name": "Undead"
+        },
+        "57": {
+          "name": "Undead - Red"
+        },
+        "58": {
+          "name": "Undead - Blue"
+        },
+        "59": {
+          "name": "Undead - Green"
         }
       }
     },
@@ -2284,6 +2332,9 @@
         },
         "42": {
           "name": "Mecha - Black"
+        },
+        "43": {
+          "name": "Default - Spooky"
         }
       }
     },
@@ -2410,6 +2461,12 @@
         },
         "39": {
           "name": "Default - Cool Blue"
+        },
+        "40": {
+          "name": "Default - Spooky"
+        },
+        "41": {
+          "name": "Abyss - Midnight"
         }
       }
     },
@@ -2521,6 +2578,21 @@
         },
         "34": {
           "name": "Pirate - Green"
+        },
+        "35": {
+          "name": "Default - Spooky"
+        },
+        "36": {
+          "name": "Witch"
+        },
+        "37": {
+          "name": "Witch - Red"
+        },
+        "38": {
+          "name": "Witch - Blue"
+        },
+        "39": {
+          "name": "Witch - Green"
         }
       }
     },
@@ -2530,6 +2602,78 @@
       "skin_name": {
         "0": {
           "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Blue"
+        },
+        "3": {
+          "name": "Default - Green"
+        },
+        "4": {
+          "name": "Default - Mint"
+        },
+        "5": {
+          "name": "Default - Purple"
+        },
+        "6": {
+          "name": "Default - Black"
+        },
+        "7": {
+          "name": "Default - Spooky"
+        },
+        "8": {
+          "name": "Default - Abyssal"
+        },
+        "9": {
+          "name": "Dozer"
+        },
+        "10": {
+          "name": "Dozer - Red"
+        },
+        "11": {
+          "name": "Dozer - Blue"
+        },
+        "12": {
+          "name": "Dozer - Green"
+        },
+        "13": {
+          "name": "Abyss"
+        },
+        "14": {
+          "name": "Abyss - Red"
+        },
+        "15": {
+          "name": "Abyss - Blue"
+        },
+        "16": {
+          "name": "Abyss - Green"
+        },
+        "17": {
+          "name": "Skink"
+        },
+        "18": {
+          "name": "Skink - Red"
+        },
+        "19": {
+          "name": "Skink - Blue"
+        },
+        "20": {
+          "name": "Skink - Green"
+        },
+        "21": {
+          "name": "Blowup"
+        },
+        "22": {
+          "name": "Blowup - Red"
+        },
+        "23": {
+          "name": "Blowup - Blue"
+        },
+        "24": {
+          "name": "Blowup - Green"
         }
       }
     }
@@ -2625,7 +2769,10 @@
       }
     },
     "Metal Graveyard": {
-      "codename": "Graveyard"
+      "codename": "Graveyard",
+      "locale": {
+        "fr": "Cimeti\u00e8re de M\u00e9tal"
+      }
     }
   }
 }

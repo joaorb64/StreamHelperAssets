@@ -18,7 +18,7 @@ with open(f"stage.json", 'wt') as config_file:
             stage_name = stage_name.strip()
             if stage_name:
                 codename = stage_name
-                for str_character in " &.(?!;/:%\\|-_\"'~@[{}]":
+                for str_character in " &.()?!;/:%\\|-_\"'~@[{}]":
                     codename = codename.replace(str_character, "")
                 config_dict["stage_to_codename"][stage_name] = {
                     "codename": codename

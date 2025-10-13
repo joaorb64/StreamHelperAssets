@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://invinciblevs.com/",
-  "version": "25.08.16.56351",
+  "version": "25.10.13.57148",
   "uncropped_edge": [
     "u",
     "d",
@@ -83,6 +83,12 @@
         "y": 4596
       }
     },
+    "Cecil": {
+      "0": {
+        "x": 1397,
+        "y": 2809
+      }
+    },
     "Invincible": {
       "0": {
         "x": 1920,
@@ -109,8 +115,8 @@
     }
   },
   "average_size": {
-    "x": 2530.8571428571427,
-    "y": 4023.4285714285716
+    "x": 2563.75,
+    "y": 4222.75
   },
   "rescaling_factor": {
     "Cecil": {

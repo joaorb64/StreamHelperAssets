@@ -540,8 +540,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
-- Character [Galvan]: Character name [Galvan] doesn't exist in StartGG
-### Coverage: (13/13)
+### Coverage: (14/14)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)

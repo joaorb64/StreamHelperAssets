@@ -530,9 +530,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-- Character [Teemo]: Character name [Teemo] doesn't exist in StartGG
-- Character [Warwick]: Character name [Warwick] doesn't exist in StartGG
-### Coverage: (9/9)
+### Coverage: (11/11)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG

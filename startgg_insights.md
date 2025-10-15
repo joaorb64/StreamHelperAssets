@@ -148,10 +148,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Granblue Fantasy Versus: Rising
-- Character [Meg]: Character name [Meg] doesn't exist in StartGG
 - Character [Ilsa]: Character name [Ilsa] doesn't exist in StartGG
 - Character [Lunalu] not assigned in TSH!
-### Coverage: (37/38)
+### Coverage: (38/39)
 
 ## Guilty Gear -STRIVE-
 - Character [Random] not assigned in TSH!
@@ -242,6 +241,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## The King of Fighters XV
+Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Kamen Rider: Super Climax Heroes
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Ultra Fight Da! Kyanta 2

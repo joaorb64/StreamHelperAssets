@@ -1,5 +1,6 @@
 # Used this for cropping all original images. So a 1920x1080 crop at 128,473
-mkdir -p test && for img in *.png; do convert "$img" -crop 1920x1080+128+473 "test/cropped_$img"; done
+
+mkdir -p test && for img in *.png; do convert "$img" -crop 1920x1080+128+473 "test/$img"; done
 
 Elena: 1920x1080 at 128x500
 

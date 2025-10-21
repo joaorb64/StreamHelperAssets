@@ -581,9 +581,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Street Fighter 6
 - Character [Ingrid]: Character name [Ingrid] doesn't exist in StartGG
 - Character [Alex]: Character name [Alex] doesn't exist in StartGG
-- Character [C. Viper]: Character name [C. Viper] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (27/28)
+### Coverage: (28/29)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?

@@ -42,6 +42,14 @@
         "it": "Venusaur",
         "es": "Venusaur",
         "br": "Bleu\u00f1viskis"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        },
+        "2": {
+          "name": "Mega"
+        }
       }
     },
     "Charmander": {
@@ -84,6 +92,17 @@
         "it": "Charizard",
         "es": "Charizard",
         "br": "Tanaer"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        },
+        "2": {
+          "name": "Mega-X"
+        },
+        "3": {
+          "name": "Mega-Y"
+        }
       }
     },
     "Squirtle": {
@@ -126,6 +145,14 @@
         "it": "Blastoise",
         "es": "Blastoise",
         "br": "Baodreist"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        },
+        "2": {
+          "name": "Mega"
+        }
       }
     },
     "Caterpie": {
@@ -168,6 +195,11 @@
         "it": "Butterfree",
         "es": "Butterfree",
         "br": "Balafrank"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Weedle": {
@@ -210,6 +242,11 @@
         "it": "Beedrill",
         "es": "Beedrill",
         "br": "Gwestok"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Pidgey": {
@@ -252,6 +289,11 @@
         "it": "Pidgeot",
         "es": "Pidgeot",
         "br": "Rougounij"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Rattata": {
@@ -266,6 +308,14 @@
         "it": "Rattata",
         "es": "Rattata",
         "br": "Razhihan"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Raticate": {
@@ -280,6 +330,14 @@
         "it": "Raticate",
         "es": "Raticate",
         "br": "Ravras"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Spearow": {
@@ -350,6 +408,53 @@
         "it": "Pikachu",
         "es": "Pikachu",
         "br": "Luc\u2019hodenn"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        },
+        "2": {
+          "name": "Original Cap"
+        },
+        "3": {
+          "name": "Hoenn Cap"
+        },
+        "4": {
+          "name": "Sinnoh Cap"
+        },
+        "5": {
+          "name": "Unova Cap"
+        },
+        "6": {
+          "name": "Kalos Cap"
+        },
+        "7": {
+          "name": "Alola Cap"
+        },
+        "8": {
+          "name": "Partner Cap"
+        },
+        "9": {
+          "name": "Cosplay"
+        },
+        "10": {
+          "name": "Belle"
+        },
+        "11": {
+          "name": "Libre"
+        },
+        "12": {
+          "name": "Ph.D."
+        },
+        "13": {
+          "name": "Pop Star"
+        },
+        "14": {
+          "name": "Rock Star"
+        },
+        "15": {
+          "name": "World Cap"
+        }
       }
     },
     "Raichu": {
@@ -364,6 +469,14 @@
         "it": "Raichu",
         "es": "Raichu",
         "br": "Logurun"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Sandshrew": {
@@ -378,6 +491,14 @@
         "it": "Sandshrew",
         "es": "Sandshrew",
         "br": "Traerell"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Sandslash": {
@@ -392,6 +513,14 @@
         "it": "Sandslash",
         "es": "Sandslash",
         "br": "Traevroc\u2019h"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Nidoran\u2640": {
@@ -504,6 +633,11 @@
         "it": "Clefable",
         "es": "Clefable",
         "br": "Gwarc\u2019hwerz"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Vulpix": {
@@ -518,6 +652,14 @@
         "it": "Vulpix",
         "es": "Vulpix",
         "br": "C\u2019hwalan"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Ninetales": {
@@ -532,6 +674,14 @@
         "it": "Ninetales",
         "es": "Ninetales",
         "br": "Nawlan"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Jigglypuff": {
@@ -700,6 +850,14 @@
         "it": "Diglett",
         "es": "Diglett",
         "br": "Toulgleuzer"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Dugtrio": {
@@ -714,6 +872,14 @@
         "it": "Dugtrio",
         "es": "Dugtrio",
         "br": "Trigleuzer"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Meowth": {
@@ -728,6 +894,20 @@
         "it": "Meowth",
         "es": "Meowth",
         "br": "Miaouzh"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        },
+        "2": {
+          "name": "Alola"
+        },
+        "3": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Persian": {
@@ -742,6 +922,14 @@
         "it": "Persian",
         "es": "Persian",
         "br": "Persian"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Psyduck": {
@@ -812,6 +1000,14 @@
         "it": "Growlithe",
         "es": "Growlithe",
         "br": "Kiward"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Arcanine": {
@@ -826,6 +1022,14 @@
         "it": "Arcanine",
         "es": "Arcanine",
         "br": "Kiwel"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Poliwag": {
@@ -910,6 +1114,11 @@
         "it": "Alakazam",
         "es": "Alakazam",
         "br": "Alakazam"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Machop": {
@@ -952,6 +1161,11 @@
         "it": "Machamp",
         "es": "Machamp",
         "br": "Gouregrog"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Bellsprout": {
@@ -994,6 +1208,11 @@
         "it": "Victreebel",
         "es": "Victreebel",
         "br": "Distambleu\u00f1v"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Tentacool": {
@@ -1036,6 +1255,14 @@
         "it": "Geodude",
         "es": "Geodude",
         "br": "Bilivaenn"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Graveler": {
@@ -1050,6 +1277,14 @@
         "it": "Graveler",
         "es": "Graveler",
         "br": "Ruilhavaenn"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Golem": {
@@ -1064,6 +1299,14 @@
         "it": "Golem",
         "es": "Golem",
         "br": "Golvaenn"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Ponyta": {
@@ -1078,6 +1321,14 @@
         "it": "Ponyta",
         "es": "Ponyta",
         "br": "Ponetan"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Rapidash": {
@@ -1092,6 +1343,14 @@
         "it": "Rapidash",
         "es": "Rapidash",
         "br": "Galoutan"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Slowpoke": {
@@ -1106,6 +1365,14 @@
         "it": "Slowpoke",
         "es": "Slowpoke",
         "br": "Koukousked"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Slowbro": {
@@ -1120,6 +1387,17 @@
         "it": "Slowbro",
         "es": "Slowbro",
         "br": "Kouskoukoug"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        },
+        "2": {
+          "name": "Mega"
+        }
       }
     },
     "Magnemite": {
@@ -1160,6 +1438,14 @@
         "zh_CN": "\u5927\u8471\u9e2d",
         "zh_TW": "\u5927\u8525\u9d28",
         "br": "Sivolouad"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Doduo": {
@@ -1230,6 +1516,14 @@
         "it": "Grimer",
         "es": "Grimer",
         "br": "Bouilhibous"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Muk": {
@@ -1244,6 +1538,14 @@
         "it": "Muk",
         "es": "Muk",
         "br": "Bouilhglud"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Shellder": {
@@ -1314,6 +1616,14 @@
         "it": "Gengar",
         "es": "Gengar",
         "br": "Diaoulteus"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        },
+        "2": {
+          "name": "Mega"
+        }
       }
     },
     "Onix": {
@@ -1384,6 +1694,11 @@
         "it": "Kingler",
         "es": "Kingler",
         "br": "Dugrank"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Voltorb": {
@@ -1398,6 +1713,14 @@
         "it": "Voltorb",
         "es": "Voltorb",
         "br": "Eleksfer"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Electrode": {
@@ -1412,6 +1735,14 @@
         "it": "Electrode",
         "es": "Electrode",
         "br": "Elekbomb"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Exeggcute": {
@@ -1440,6 +1771,14 @@
         "it": "Exeggutor",
         "es": "Exeggutor",
         "br": "Kokrao\u00f1"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Cubone": {
@@ -1468,6 +1807,14 @@
         "it": "Marowak",
         "es": "Marowak",
         "br": "Streskern"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Alola"
+        }
       }
     },
     "Hitmonlee": {
@@ -1538,6 +1885,14 @@
         "it": "Weezing",
         "es": "Weezing",
         "br": "Aerrebistri"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Rhyhorn": {
@@ -1608,6 +1963,11 @@
         "it": "Kangaskhan",
         "es": "Kangaskhan",
         "br": "Kangouroue"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Horsea": {
@@ -1692,6 +2052,11 @@
         "it": "Starmie",
         "es": "Starmie",
         "br": "Steredon"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Mr. Mime": {
@@ -1706,6 +2071,14 @@
         "it": "Mr. Mime",
         "es": "Mr. Mime",
         "br": "Aermured"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Scyther": {
@@ -1776,6 +2149,11 @@
         "it": "Pinsir",
         "es": "Pinsir",
         "br": "Gwrac\u2019hre\u00f1v"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Tauros": {
@@ -1790,6 +2168,17 @@
         "it": "Tauros",
         "es": "Tauros",
         "br": "Taroc\u2019h"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Paldea - Combat Breed"
+        },
+        "2": {
+          "name": "Paldea - Aqua Breed"
+        },
+        "3": {
+          "name": "Paldea - Blaze Breed"
+        }
       }
     },
     "Magikarp": {
@@ -1818,6 +2207,11 @@
         "it": "Gyarados",
         "es": "Gyarados",
         "br": "Lazeresk"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Lapras": {
@@ -1832,6 +2226,11 @@
         "it": "Lapras",
         "es": "Lapras",
         "br": "Arplaz"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Ditto": {
@@ -1860,6 +2259,11 @@
         "it": "Eevee",
         "es": "Eevee",
         "br": "Emdrogi"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Vaporeon": {
@@ -1986,6 +2390,11 @@
         "it": "Aerodactyl",
         "es": "Aerodactyl",
         "br": "Aerskel"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Snorlax": {
@@ -2000,6 +2409,11 @@
         "it": "Snorlax",
         "es": "Snorlax",
         "br": "Moredebr"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Articuno": {
@@ -2014,6 +2428,14 @@
         "it": "Articuno",
         "es": "Articuno",
         "br": "Skornaer"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Zapdos": {
@@ -2028,6 +2450,14 @@
         "it": "Zapdos",
         "es": "Zapdos",
         "br": "Tredanaer"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Moltres": {
@@ -2042,6 +2472,14 @@
         "it": "Moltres",
         "es": "Moltres",
         "br": "Flammaer"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kanto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Dratini": {
@@ -2084,6 +2522,11 @@
         "it": "Dragonite",
         "es": "Dragonite",
         "br": "Morouant"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Mewtwo": {
@@ -2098,6 +2541,14 @@
         "it": "Mewtwo",
         "es": "Mewtwo",
         "br": "Diogemm"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega-X"
+        },
+        "2": {
+          "name": "Mega-Y"
+        }
       }
     },
     "Mew": {
@@ -2151,6 +2602,11 @@
         "zh_TW": "\u5927\u7afa\u8475",
         "it": "Meganium",
         "es": "Meganium"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Cyndaquil": {
@@ -2190,6 +2646,14 @@
         "zh_TW": "\u706b\u7206\u7378",
         "it": "Typhlosion",
         "es": "Typhlosion"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Johto"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Totodile": {
@@ -2229,6 +2693,11 @@
         "zh_TW": "\u5927\u529b\u9c77",
         "it": "Feraligatr",
         "es": "Feraligatr"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Sentret": {
@@ -2385,6 +2854,11 @@
         "zh_TW": "\u76ae\u4e18",
         "it": "Pichu",
         "es": "Pichu"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Spiky-Eared"
+        }
       }
     },
     "Cleffa": {
@@ -2502,6 +2976,11 @@
         "zh_TW": "\u96fb\u9f8d",
         "it": "Ampharos",
         "es": "Ampharos"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Bellossom": {
@@ -2671,6 +3150,14 @@
         "zh_TW": "\u70cf\u6ce2",
         "it": "Wooper",
         "es": "Wooper"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Johto"
+        },
+        "1": {
+          "name": "Paldea"
+        }
       }
     },
     "Quagsire": {
@@ -2736,6 +3223,14 @@
         "zh_TW": "\u5446\u5446\u738b",
         "it": "Slowking",
         "es": "Slowking"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Johto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Misdreavus": {
@@ -2853,6 +3348,11 @@
         "zh_TW": "\u5927\u92fc\u86c7",
         "it": "Steelix",
         "es": "Steelix"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Snubbull": {
@@ -2892,6 +3392,14 @@
         "zh_TW": "\u5343\u91dd\u9b5a",
         "it": "Qwilfish",
         "es": "Qwilfish"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Johto"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Scizor": {
@@ -2905,6 +3413,11 @@
         "zh_TW": "\u5de8\u9257\u87b3\u8782",
         "it": "Scizor",
         "es": "Scizor"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Shuckle": {
@@ -2931,6 +3444,11 @@
         "zh_TW": "\u8d6b\u62c9\u514b\u7f85\u65af",
         "it": "Heracross",
         "es": "Heracross"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Sneasel": {
@@ -2944,6 +3462,14 @@
         "zh_TW": "\u72c3\u62c9",
         "it": "Sneasel",
         "es": "Sneasel"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Johto"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Teddiursa": {
@@ -3035,6 +3561,14 @@
         "zh_TW": "\u592a\u967d\u73ca\u745a",
         "it": "Corsola",
         "es": "Corsola"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Johto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Remoraid": {
@@ -3100,6 +3634,11 @@
         "zh_TW": "\u76d4\u7532\u9ce5",
         "it": "Skarmory",
         "es": "Skarmory"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Houndour": {
@@ -3126,6 +3665,11 @@
         "zh_TW": "\u9ed1\u9b6f\u52a0",
         "it": "Houndoom",
         "es": "Houndoom"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Kingdra": {
@@ -3373,6 +3917,11 @@
         "zh_TW": "\u73ed\u57fa\u62c9\u65af",
         "it": "Tyranitar",
         "es": "Tyranitar"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Lugia": {
@@ -3451,6 +4000,11 @@
         "zh_TW": "\u8725\u8734\u738b",
         "it": "Sceptile",
         "es": "Sceptile"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Torchic": {
@@ -3490,6 +4044,11 @@
         "zh_TW": "\u706b\u7130\u96de",
         "it": "Blaziken",
         "es": "Blaziken"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Mudkip": {
@@ -3529,6 +4088,11 @@
         "zh_TW": "\u5de8\u6cbc\u602a",
         "it": "Swampert",
         "es": "Swampert"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Poochyena": {
@@ -3568,6 +4132,14 @@
         "zh_TW": "\u86c7\u7d0b\u718a",
         "it": "Zigzagoon",
         "es": "Zigzagoon"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Johto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Linoone": {
@@ -3581,6 +4153,14 @@
         "zh_TW": "\u76f4\u885d\u718a",
         "it": "Linoone",
         "es": "Linoone"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Johto"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Wurmple": {
@@ -3815,6 +4395,11 @@
         "zh_TW": "\u6c99\u5948\u6735",
         "it": "Gardevoir",
         "es": "Gardevoir"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Surskit": {
@@ -4075,6 +4660,11 @@
         "zh_TW": "\u52fe\u9b42\u773c",
         "it": "Sableye",
         "es": "Sableye"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Mawile": {
@@ -4088,6 +4678,11 @@
         "zh_TW": "\u5927\u5634\u5a03",
         "it": "Mawile",
         "es": "Mawile"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Aron": {
@@ -4127,6 +4722,11 @@
         "zh_TW": "\u6ce2\u58eb\u53ef\u591a\u62c9",
         "it": "Aggron",
         "es": "Aggron"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Meditite": {
@@ -4153,6 +4753,11 @@
         "zh_TW": "\u6070\u96f7\u59c6",
         "it": "Medicham",
         "es": "Medicham"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Electrike": {
@@ -4179,6 +4784,11 @@
         "zh_TW": "\u96f7\u96fb\u7378",
         "it": "Manectric",
         "es": "Manectric"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Plusle": {
@@ -4296,6 +4906,11 @@
         "zh_TW": "\u5de8\u7259\u9bca",
         "it": "Sharpedo",
         "es": "Sharpedo"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Wailmer": {
@@ -4348,6 +4963,11 @@
         "zh_TW": "\u5674\u706b\u99dd",
         "it": "Camerupt",
         "es": "Camerupt"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Torkoal": {
@@ -4491,6 +5111,11 @@
         "zh_TW": "\u4e03\u5915\u9752\u9ce5",
         "it": "Altaria",
         "es": "Altaria"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Zangoose": {
@@ -4712,6 +5337,17 @@
         "zh_TW": "\u98c4\u6d6e\u6ce1\u6ce1",
         "it": "Castform",
         "es": "Castform"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Sunny"
+        },
+        "2": {
+          "name": "Rainy"
+        },
+        "3": {
+          "name": "Snowy"
+        }
       }
     },
     "Kecleon": {
@@ -4751,6 +5387,11 @@
         "zh_TW": "\u8a5b\u5492\u5a03\u5a03",
         "it": "Banette",
         "es": "Banette"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Duskull": {
@@ -4816,6 +5457,11 @@
         "zh_TW": "\u963f\u52c3\u68ad\u9b6f",
         "it": "Absol",
         "es": "Absol"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Wynaut": {
@@ -4855,6 +5501,11 @@
         "zh_TW": "\u51b0\u9b3c\u8b77",
         "it": "Glalie",
         "es": "Glalie"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Spheal": {
@@ -4998,6 +5649,11 @@
         "zh_TW": "\u66b4\u98db\u9f8d",
         "it": "Salamence",
         "es": "Salamence"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Beldum": {
@@ -5037,6 +5693,11 @@
         "zh_TW": "\u5de8\u91d1\u602a",
         "it": "Metagross",
         "es": "Metagross"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Regirock": {
@@ -5089,6 +5750,11 @@
         "zh_TW": "\u62c9\u5e1d\u4e9e\u65af",
         "it": "Latias",
         "es": "Latias"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Latios": {
@@ -5102,6 +5768,11 @@
         "zh_TW": "\u62c9\u5e1d\u6b50\u65af",
         "it": "Latios",
         "es": "Latios"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Kyogre": {
@@ -5115,6 +5786,11 @@
         "zh_TW": "\u84cb\u6b50\u5361",
         "it": "Kyogre",
         "es": "Kyogre"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Primal"
+        }
       }
     },
     "Groudon": {
@@ -5128,6 +5804,11 @@
         "zh_TW": "\u56fa\u62c9\u591a",
         "it": "Groudon",
         "es": "Groudon"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Primal"
+        }
       }
     },
     "Rayquaza": {
@@ -5141,6 +5822,11 @@
         "zh_TW": "\u70c8\u7a7a\u5750",
         "it": "Rayquaza",
         "es": "Rayquaza"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Jirachi": {
@@ -5505,6 +6191,17 @@
         "zh_TW": "\u7d50\u8349\u5152",
         "it": "Burmy",
         "es": "Burmy"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Plant Cloak"
+        },
+        "1": {
+          "name": "Sandy Cloak"
+        },
+        "2": {
+          "name": "Trash Cloak"
+        }
       }
     },
     "Wormadam": {
@@ -5518,6 +6215,17 @@
         "zh_TW": "\u7d50\u8349\u8cb4\u5a66",
         "it": "Wormadam",
         "es": "Wormadam"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Plant Cloak"
+        },
+        "1": {
+          "name": "Sandy Cloak"
+        },
+        "2": {
+          "name": "Trash Cloak"
+        }
       }
     },
     "Mothim": {
@@ -5622,6 +6330,14 @@
         "zh_TW": "\u6afb\u82b1\u5152",
         "it": "Cherrim",
         "es": "Cherrim"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Overcast"
+        },
+        "1": {
+          "name": "Sunshine"
+        }
       }
     },
     "Shellos": {
@@ -5635,6 +6351,14 @@
         "zh_TW": "\u7121\u6bbc\u6d77\u5154",
         "it": "Shellos",
         "es": "Shellos"
+      },
+      "skin_name": {
+        "0": {
+          "name": "West Sea"
+        },
+        "1": {
+          "name": "East Sea"
+        }
       }
     },
     "Gastrodon": {
@@ -5648,6 +6372,14 @@
         "zh_TW": "\u6d77\u5154\u7378",
         "it": "Gastrodon",
         "es": "Gastrodon"
+      },
+      "skin_name": {
+        "0": {
+          "name": "West Sea"
+        },
+        "1": {
+          "name": "East Sea"
+        }
       }
     },
     "Ambipom": {
@@ -5713,6 +6445,11 @@
         "zh_TW": "\u9577\u8033\u5154",
         "it": "Lopunny",
         "es": "Lopunny"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Mismagius": {
@@ -5934,6 +6671,11 @@
         "zh_TW": "\u70c8\u54ac\u9678\u9bca",
         "it": "Garchomp",
         "es": "Garchomp"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Munchlax": {
@@ -5973,6 +6715,11 @@
         "zh_TW": "\u8def\u5361\u5229\u6b50",
         "it": "Lucario",
         "es": "Lucario"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Hippopotas": {
@@ -6129,6 +6876,11 @@
         "zh_TW": "\u66b4\u96ea\u738b",
         "it": "Abomasnow",
         "es": "Abomasnow"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Weavile": {
@@ -6324,6 +7076,11 @@
         "zh_TW": "\u827e\u8def\u96f7\u6735",
         "it": "Gallade",
         "es": "Gallade"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Probopass": {
@@ -6363,6 +7120,11 @@
         "zh_TW": "\u96ea\u5996\u5973",
         "it": "Froslass",
         "es": "Froslass"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Rotom": {
@@ -6376,6 +7138,23 @@
         "zh_TW": "\u6d1b\u6258\u59c6",
         "it": "Rotom",
         "es": "Rotom"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Heat"
+        },
+        "2": {
+          "name": "Wash"
+        },
+        "3": {
+          "name": "Frost"
+        },
+        "4": {
+          "name": "Fan"
+        },
+        "5": {
+          "name": "Mow"
+        }
       }
     },
     "Uxie": {
@@ -6428,6 +7207,11 @@
         "zh_TW": "\u5e1d\u7259\u76e7\u5361",
         "it": "Dialga",
         "es": "Dialga"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Origin"
+        }
       }
     },
     "Palkia": {
@@ -6441,6 +7225,11 @@
         "zh_TW": "\u5e15\u8def\u5947\u4e9e",
         "it": "Palkia",
         "es": "Palkia"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Origin"
+        }
       }
     },
     "Heatran": {
@@ -6480,6 +7269,14 @@
         "zh_TW": "\u9a0e\u62c9\u5e1d\u7d0d",
         "it": "Giratina",
         "es": "Giratina"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Altered"
+        },
+        "1": {
+          "name": "Origin"
+        }
       }
     },
     "Cresselia": {
@@ -6545,6 +7342,14 @@
         "zh_TW": "\u8b1d\u7c73",
         "it": "Shaymin",
         "es": "Shaymin"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Land"
+        },
+        "1": {
+          "name": "Sky"
+        }
       }
     },
     "Arceus": {
@@ -6558,6 +7363,62 @@
         "zh_TW": "\u963f\u723e\u5b99\u65af",
         "it": "Arceus",
         "es": "Arceus"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Normal"
+        },
+        "1": {
+          "name": "Water"
+        },
+        "2": {
+          "name": "Steel"
+        },
+        "3": {
+          "name": "Rock"
+        },
+        "4": {
+          "name": "Psychic"
+        },
+        "5": {
+          "name": "Poison"
+        },
+        "6": {
+          "name": "Ice"
+        },
+        "7": {
+          "name": "Ground"
+        },
+        "8": {
+          "name": "Grass"
+        },
+        "9": {
+          "name": "Ghost"
+        },
+        "10": {
+          "name": "Flying"
+        },
+        "11": {
+          "name": "Fire"
+        },
+        "12": {
+          "name": "Fighting"
+        },
+        "13": {
+          "name": "Fairy"
+        },
+        "14": {
+          "name": "Electric"
+        },
+        "15": {
+          "name": "Dragon"
+        },
+        "16": {
+          "name": "Dark"
+        },
+        "17": {
+          "name": "Bug"
+        }
       }
     },
     "Victini": {
@@ -6649,6 +7510,11 @@
         "zh_TW": "\u708e\u6b66\u738b",
         "it": "Emboar",
         "es": "Emboar"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Oshawott": {
@@ -6688,6 +7554,14 @@
         "zh_TW": "\u5927\u528d\u9b3c",
         "it": "Samurott",
         "es": "Samurott"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Unova"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Patrat": {
@@ -7039,6 +7913,11 @@
         "zh_TW": "\u9f8d\u982d\u5730\u9f20",
         "it": "Excadrill",
         "es": "Excadrill"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Audino": {
@@ -7052,6 +7931,11 @@
         "zh_TW": "\u5dee\u4e0d\u591a\u5a03\u5a03",
         "it": "Audino",
         "es": "Audino"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Timburr": {
@@ -7234,6 +8118,11 @@
         "zh_TW": "\u8708\u86a3\u738b",
         "it": "Scolipede",
         "es": "Scolipede"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Cottonee": {
@@ -7286,6 +8175,14 @@
         "zh_TW": "\u88d9\u5152\u5c0f\u59d0",
         "it": "Lilligant",
         "es": "Lilligant"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Unova"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Basculin": {
@@ -7299,6 +8196,17 @@
         "zh_TW": "\u91ce\u883b\u9c78\u9b5a",
         "it": "Basculin",
         "es": "Basculin"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Red-Striped"
+        },
+        "1": {
+          "name": "Blue-Striped"
+        },
+        "2": {
+          "name": "White-Striped"
+        }
       }
     },
     "Sandile": {
@@ -7351,6 +8259,14 @@
         "zh_TW": "\u706b\u7d05\u4e0d\u5012\u7fc1",
         "it": "Darumaka",
         "es": "Darumaka"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Unova"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Darmanitan": {
@@ -7364,6 +8280,20 @@
         "zh_TW": "\u9054\u6469\u72d2\u72d2",
         "it": "Darmanitan",
         "es": "Darmanitan"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Unova - Standard Mode"
+        },
+        "1": {
+          "name": "Galar - Standard Mode"
+        },
+        "2": {
+          "name": "Unova - Zen Mode"
+        },
+        "3": {
+          "name": "Galar - Zen Mode"
+        }
       }
     },
     "Maractus": {
@@ -7429,6 +8359,11 @@
         "zh_TW": "\u982d\u5dfe\u6df7\u6df7",
         "it": "Scrafty",
         "es": "Scrafty"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Sigilyph": {
@@ -7455,6 +8390,14 @@
         "zh_TW": "\u54ed\u54ed\u9762\u5177",
         "it": "Yamask",
         "es": "Yamask"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Unova"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Cofagrigus": {
@@ -7546,6 +8489,11 @@
         "zh_TW": "\u7070\u5875\u5c71",
         "it": "Garbodor",
         "es": "Garbodor"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Zorua": {
@@ -7559,6 +8507,14 @@
         "zh_TW": "\u7d22\u7f85\u4e9e",
         "it": "Zorua",
         "es": "Zorua"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Unova"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Zoroark": {
@@ -7572,6 +8528,14 @@
         "zh_TW": "\u7d22\u7f85\u4e9e\u514b",
         "it": "Zoroark",
         "es": "Zoroark"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Unova"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Minccino": {
@@ -7754,6 +8718,20 @@
         "zh_TW": "\u56db\u5b63\u9e7f",
         "it": "Deerling",
         "es": "Deerling"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Spring"
+        },
+        "1": {
+          "name": "Summer"
+        },
+        "2": {
+          "name": "Autumn"
+        },
+        "3": {
+          "name": "Winter"
+        }
       }
     },
     "Sawsbuck": {
@@ -7767,6 +8745,20 @@
         "zh_TW": "\u840c\u82bd\u9e7f",
         "it": "Sawsbuck",
         "es": "Sawsbuck"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Spring"
+        },
+        "1": {
+          "name": "Summer"
+        },
+        "2": {
+          "name": "Autumn"
+        },
+        "3": {
+          "name": "Winter"
+        }
       }
     },
     "Emolga": {
@@ -8001,6 +8993,11 @@
         "zh_TW": "\u9ebb\u9ebb\u9c3b\u9b5a\u738b",
         "it": "Eelektross",
         "es": "Eelektross"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Elgyem": {
@@ -8066,6 +9063,11 @@
         "zh_TW": "\u6c34\u6676\u71c8\u706b\u9748",
         "it": "Chandelure",
         "es": "Chandelure"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Axew": {
@@ -8183,6 +9185,14 @@
         "zh_TW": "\u6ce5\u5df4\u9b5a",
         "it": "Stunfisk",
         "es": "Stunfisk"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Unova"
+        },
+        "1": {
+          "name": "Galar"
+        }
       }
     },
     "Mienfoo": {
@@ -8313,6 +9323,14 @@
         "zh_TW": "\u52c7\u58eb\u96c4\u9df9",
         "it": "Braviary",
         "es": "Braviary"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Unova"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Vullaby": {
@@ -8482,6 +9500,14 @@
         "zh_TW": "\u9f8d\u6372\u96f2",
         "it": "Tornadus",
         "es": "Tornadus"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Incarnate"
+        },
+        "1": {
+          "name": "Therian"
+        }
       }
     },
     "Thundurus": {
@@ -8495,6 +9521,14 @@
         "zh_TW": "\u96f7\u96fb\u96f2",
         "it": "Thundurus",
         "es": "Thundurus"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Incarnate"
+        },
+        "1": {
+          "name": "Therian"
+        }
       }
     },
     "Reshiram": {
@@ -8508,6 +9542,14 @@
         "zh_TW": "\u840a\u5e0c\u62c9\u59c6",
         "it": "Reshiram",
         "es": "Reshiram"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Incarnate"
+        },
+        "1": {
+          "name": "Therian"
+        }
       }
     },
     "Zekrom": {
@@ -8547,6 +9589,14 @@
         "zh_TW": "\u914b\u96f7\u59c6",
         "it": "Kyurem",
         "es": "Kyurem"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Black"
+        },
+        "2": {
+          "name": "White"
+        }
       }
     },
     "Keldeo": {
@@ -8560,6 +9610,14 @@
         "zh_TW": "\u51f1\u8def\u8fea\u6b50",
         "it": "Keldeo",
         "es": "Keldeo"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Ordinary"
+        },
+        "1": {
+          "name": "Resolute"
+        }
       }
     },
     "Meloetta": {
@@ -8573,6 +9631,14 @@
         "zh_TW": "\u7f8e\u6d1b\u8036\u5854",
         "it": "Meloetta",
         "es": "Meloetta"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Aria"
+        },
+        "1": {
+          "name": "Pirouette"
+        }
       }
     },
     "Genesect": {
@@ -8625,6 +9691,11 @@
         "zh_TW": "\u5e03\u91cc\u5361\u9686",
         "it": "Chesnaught",
         "es": "Chesnaught"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Fennekin": {
@@ -8664,6 +9735,11 @@
         "zh_TW": "\u5996\u706b\u7d05\u72d0",
         "it": "Delphox",
         "es": "Delphox"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Froakie": {
@@ -8703,6 +9779,14 @@
         "zh_TW": "\u7532\u8cc0\u5fcd\u86d9",
         "it": "Greninja",
         "es": "Greninja"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Ash-Greninja"
+        },
+        "2": {
+          "name": "Mega"
+        }
       }
     },
     "Bunnelby": {
@@ -8807,6 +9891,68 @@
         "zh_TW": "\u5f69\u7c89\u8776",
         "it": "Vivillon",
         "es": "Vivillon"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Meadow"
+        },
+        "1": {
+          "name": "Tundra"
+        },
+        "2": {
+          "name": "Sun"
+        },
+        "3": {
+          "name": "Savanna"
+        },
+        "4": {
+          "name": "Sandstorm"
+        },
+        "5": {
+          "name": "River"
+        },
+        "6": {
+          "name": "Polar"
+        },
+        "7": {
+          "name": "Pok\u00e9 Ball"
+        },
+        "8": {
+          "name": "Ocean"
+        },
+        "9": {
+          "name": "Monsoon"
+        },
+        "10": {
+          "name": "Modern"
+        },
+        "11": {
+          "name": "Marine"
+        },
+        "12": {
+          "name": "Jungle"
+        },
+        "13": {
+          "name": "Icy Snow"
+        },
+        "14": {
+          "name": "High Plains"
+        },
+        "15": {
+          "name": "Garden"
+        },
+        "16": {
+          "name": "Fancy"
+        },
+        "17": {
+          "name": "Elegant"
+        },
+        "18": {
+          "name": "Continental"
+        },
+        "19": {
+          "name": "Archipelago"
+        }
       }
     },
     "Litleo": {
@@ -8833,6 +9979,11 @@
         "zh_TW": "\u706b\u708e\u7345",
         "it": "Pyroar",
         "es": "Pyroar"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Flab\u00e9b\u00e9": {
@@ -8846,6 +9997,23 @@
         "zh_TW": "\u82b1\u84d3\u84d3",
         "it": "Flab\u00e9b\u00e9",
         "es": "Flab\u00e9b\u00e9"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Red Flower"
+        },
+        "1": {
+          "name": "Yellow Flower"
+        },
+        "2": {
+          "name": "Orange Flower"
+        },
+        "3": {
+          "name": "Blue Flower"
+        },
+        "4": {
+          "name": "White Flower"
+        }
       }
     },
     "Floette": {
@@ -8859,6 +10027,29 @@
         "zh_TW": "\u82b1\u8449\u8482",
         "it": "Floette",
         "es": "Floette"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Red Flower"
+        },
+        "1": {
+          "name": "Yellow Flower"
+        },
+        "2": {
+          "name": "Orange Flower"
+        },
+        "3": {
+          "name": "Blue Flower"
+        },
+        "4": {
+          "name": "White Flower"
+        },
+        "5": {
+          "name": "Eternal Flower"
+        },
+        "6": {
+          "name": "Eternal Flower - Mega"
+        }
       }
     },
     "Florges": {
@@ -8872,6 +10063,23 @@
         "zh_TW": "\u82b1\u6f54\u592b\u4eba",
         "it": "Florges",
         "es": "Florges"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Red Flower"
+        },
+        "1": {
+          "name": "Yellow Flower"
+        },
+        "2": {
+          "name": "Orange Flower"
+        },
+        "3": {
+          "name": "Blue Flower"
+        },
+        "4": {
+          "name": "White Flower"
+        }
       }
     },
     "Skiddo": {
@@ -8963,6 +10171,14 @@
         "zh_TW": "\u8d85\u80fd\u5999\u55b5",
         "it": "Meowstic",
         "es": "Meowstic"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Male"
+        },
+        "1": {
+          "name": "Female"
+        }
       }
     },
     "Honedge": {
@@ -9002,6 +10218,14 @@
         "zh_TW": "\u5805\u76fe\u528d\u602a",
         "it": "Aegislash",
         "es": "Aegislash"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Shield"
+        },
+        "1": {
+          "name": "Blade"
+        }
       }
     },
     "Spritzee": {
@@ -9080,6 +10304,11 @@
         "zh_TW": "\u70cf\u8cca\u738b",
         "it": "Malamar",
         "es": "Malamar"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Binacle": {
@@ -9106,6 +10335,11 @@
         "zh_TW": "\u9f9c\u8db3\u5de8\u93a7",
         "it": "Barbaracle",
         "es": "Barbaracle"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Skrelp": {
@@ -9132,6 +10366,11 @@
         "zh_TW": "\u6bd2\u85fb\u9f8d",
         "it": "Dragalge",
         "es": "Dragalge"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Clauncher": {
@@ -9262,6 +10501,11 @@
         "zh_TW": "\u6454\u89d2\u9df9\u4eba",
         "it": "Hawlucha",
         "es": "Hawlucha"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Dedenne": {
@@ -9314,6 +10558,14 @@
         "zh_TW": "\u9ecf\u7f8e\u5152",
         "it": "Sliggoo",
         "es": "Sliggoo"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kalos"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Goodra": {
@@ -9327,6 +10579,14 @@
         "zh_TW": "\u9ecf\u7f8e\u9f8d",
         "it": "Goodra",
         "es": "Goodra"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kalos"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Klefki": {
@@ -9418,6 +10678,14 @@
         "zh_TW": "\u51b0\u5ca9\u602a",
         "it": "Avalugg",
         "es": "Avalugg"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Kalos"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Noibat": {
@@ -9457,6 +10725,14 @@
         "zh_TW": "\u54f2\u723e\u5c3c\u4e9e\u65af",
         "it": "Xerneas",
         "es": "Xerneas"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Active"
+        },
+        "1": {
+          "name": "Neutral"
+        }
       }
     },
     "Yveltal": {
@@ -9483,6 +10759,20 @@
         "zh_TW": "\u57fa\u683c\u723e\u5fb7",
         "it": "Zygarde",
         "es": "Zygarde"
+      },
+      "skin_name": {
+        "0": {
+          "name": "50%"
+        },
+        "1": {
+          "name": "10%"
+        },
+        "2": {
+          "name": "Complete"
+        },
+        "3": {
+          "name": "Mega"
+        }
       }
     },
     "Diancie": {
@@ -9496,6 +10786,11 @@
         "zh_TW": "\u8482\u5b89\u5e0c",
         "it": "Diancie",
         "es": "Diancie"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Hoopa": {
@@ -9509,6 +10804,14 @@
         "zh_TW": "\u80e1\u5e15",
         "it": "Hoopa",
         "es": "Hoopa"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Confined"
+        },
+        "1": {
+          "name": "Unbound"
+        }
       }
     },
     "Volcanion": {
@@ -9561,6 +10864,14 @@
         "zh_TW": "\u72d9\u5c04\u6a39\u689f",
         "it": "Decidueye",
         "es": "Decidueye"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Alola"
+        },
+        "1": {
+          "name": "Hisui"
+        }
       }
     },
     "Litten": {
@@ -9782,6 +11093,20 @@
         "zh_TW": "\u82b1\u821e\u9ce5",
         "it": "Oricorio",
         "es": "Oricorio"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Baile"
+        },
+        "1": {
+          "name": "Pom-Pom"
+        },
+        "2": {
+          "name": "Pa'u"
+        },
+        "3": {
+          "name": "Sensu"
+        }
       }
     },
     "Cutiefly": {
@@ -9834,6 +11159,17 @@
         "zh_TW": "\u9b03\u5ca9\u72fc\u4eba",
         "it": "Lycanroc",
         "es": "Lycanroc"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Dawn"
+        },
+        "1": {
+          "name": "Midnight"
+        },
+        "2": {
+          "name": "Dusk"
+        }
       }
     },
     "Wishiwashi": {
@@ -9847,6 +11183,14 @@
         "zh_TW": "\u5f31\u4e01\u9b5a",
         "it": "Wishiwashi",
         "es": "Wishiwashi"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Solo"
+        },
+        "1": {
+          "name": "School"
+        }
       }
     },
     "Mareanie": {
@@ -10198,6 +11542,62 @@
         "zh_TW": "\u9280\u4f34\u6230\u7378",
         "it": "Silvally",
         "es": "Silvally"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Normal"
+        },
+        "1": {
+          "name": "Water"
+        },
+        "2": {
+          "name": "Steel"
+        },
+        "3": {
+          "name": "Rock"
+        },
+        "4": {
+          "name": "Psychic"
+        },
+        "5": {
+          "name": "Poison"
+        },
+        "6": {
+          "name": "Ice"
+        },
+        "7": {
+          "name": "Ground"
+        },
+        "8": {
+          "name": "Grass"
+        },
+        "9": {
+          "name": "Ghost"
+        },
+        "10": {
+          "name": "Flying"
+        },
+        "11": {
+          "name": "Fire"
+        },
+        "12": {
+          "name": "Fighting"
+        },
+        "13": {
+          "name": "Fairy"
+        },
+        "14": {
+          "name": "Electric"
+        },
+        "15": {
+          "name": "Dragon"
+        },
+        "16": {
+          "name": "Dark"
+        },
+        "17": {
+          "name": "Bug"
+        }
       }
     },
     "Minior": {
@@ -10211,6 +11611,29 @@
         "zh_TW": "\u5c0f\u9695\u661f",
         "it": "Minior",
         "es": "Minior"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Red Core"
+        },
+        "2": {
+          "name": "Orange Core"
+        },
+        "3": {
+          "name": "Yellow Core"
+        },
+        "4": {
+          "name": "Green Core"
+        },
+        "5": {
+          "name": "Blue Core"
+        },
+        "6": {
+          "name": "Indigo Core"
+        },
+        "7": {
+          "name": "Violet Core"
+        }
       }
     },
     "Komala": {
@@ -10289,6 +11712,11 @@
         "zh_TW": "\u8001\u7fc1\u9f8d",
         "it": "Drampa",
         "es": "Drampa"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Dhelmise": {
@@ -10549,6 +11977,17 @@
         "zh_TW": "\u5948\u514b\u6d1b\u8332\u746a",
         "it": "Necrozma",
         "es": "Necrozma"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Dusk Mane"
+        },
+        "2": {
+          "name": "Dawn Wings"
+        },
+        "3": {
+          "name": "Ultra"
+        }
       }
     },
     "Magearna": {
@@ -10562,6 +12001,11 @@
         "zh_TW": "\u746a\u6a5f\u96c5\u5a1c",
         "it": "Magearna",
         "es": "Magearna"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Original Color"
+        }
       }
     },
     "Marshadow": {
@@ -10666,6 +12110,11 @@
         "zh_TW": "\u7f8e\u9304\u6885\u5854",
         "it": "Melmetal",
         "es": "Melmetal"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Grookey": {
@@ -10705,6 +12154,11 @@
         "zh_TW": "\u8f5f\u64c2\u91d1\u525b\u7329",
         "it": "Rillaboom",
         "es": "Rillaboom"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Scorbunny": {
@@ -10744,6 +12198,11 @@
         "zh_TW": "\u9583\u7130\u738b\u724c",
         "it": "Cinderace",
         "es": "Cinderace"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Sobble": {
@@ -10783,6 +12242,11 @@
         "zh_TW": "\u5343\u9762\u907f\u5f79",
         "it": "Inteleon",
         "es": "Inteleon"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Skwovet": {
@@ -10848,6 +12312,11 @@
         "zh_TW": "\u92fc\u93a7\u9d09",
         "it": "Corviknight",
         "es": "Corviknight"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Blipbug": {
@@ -10887,6 +12356,11 @@
         "zh_TW": "\u4ee5\u6b50\u8def\u666e",
         "it": "Orbeetle",
         "es": "Orbeetle"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Nickit": {
@@ -10991,6 +12465,11 @@
         "zh_TW": "\u66b4\u566c\u9f9c",
         "it": "Drednaw",
         "es": "Drednaw"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Yamper": {
@@ -11056,6 +12535,11 @@
         "zh_TW": "\u5de8\u70ad\u5c71",
         "it": "Coalossal",
         "es": "Coalossal"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Applin": {
@@ -11082,6 +12566,11 @@
         "zh_TW": "\u860b\u88f9\u9f8d",
         "it": "Flapple",
         "es": "Flapple"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Appletun": {
@@ -11095,6 +12584,11 @@
         "zh_TW": "\u8c50\u871c\u9f8d",
         "it": "Appletun",
         "es": "Appletun"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Silicobra": {
@@ -11121,6 +12615,11 @@
         "zh_TW": "\u6c99\u87ba\u87d2",
         "it": "Sandaconda",
         "es": "Sandaconda"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Cramorant": {
@@ -11134,6 +12633,14 @@
         "zh_TW": "\u53e4\u6708\u9ce5",
         "it": "Cramorant",
         "es": "Cramorant"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gorging"
+        },
+        "2": {
+          "name": "Gulping"
+        }
       }
     },
     "Arrokuda": {
@@ -11186,6 +12693,17 @@
         "zh_TW": "\u986b\u5f26\u8811\u8788",
         "it": "Toxtricity",
         "es": "Toxtricity"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Amped"
+        },
+        "1": {
+          "name": "Low Key"
+        },
+        "2": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Sizzlipede": {
@@ -11212,6 +12730,11 @@
         "zh_TW": "\u711a\u7130\u86a3",
         "it": "Centiskorch",
         "es": "Centiskorch"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Clobbopus": {
@@ -11303,6 +12826,11 @@
         "zh_TW": "\u5e03\u8389\u59c6\u6eab",
         "it": "Hatterene",
         "es": "Hatterene"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Impidimp": {
@@ -11342,6 +12870,11 @@
         "zh_TW": "\u9577\u6bdb\u5de8\u9b54",
         "it": "Grimmsnarl",
         "es": "Grimmsnarl"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Obstagoon": {
@@ -11444,6 +12977,11 @@
         "zh_TW": "\u971c\u5976\u4ed9",
         "it": "Alcremie",
         "es": "Alcremie"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Falinks": {
@@ -11457,6 +12995,11 @@
         "zh_TW": "\u5217\u9663\u5175",
         "it": "Falinks",
         "es": "Falinks"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Pincurchin": {
@@ -11522,6 +13065,14 @@
         "zh_TW": "\u51b0\u780c\u9d5d",
         "it": "Eiscue",
         "es": "Eiscue"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Ice"
+        },
+        "1": {
+          "name": "Noice"
+        }
       }
     },
     "Indeedee": {
@@ -11548,6 +13099,14 @@
         "zh_TW": "\u83ab\u9b6f\u8c9d\u53ef",
         "it": "Morpeko",
         "es": "Morpeko"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Full Belly"
+        },
+        "1": {
+          "name": "Hangry"
+        }
       }
     },
     "Cufant": {
@@ -11574,6 +13133,11 @@
         "zh_TW": "\u5927\u738b\u9285\u8c61",
         "it": "Copperajah",
         "es": "Copperajah"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Dracozolt": {
@@ -11639,6 +13203,11 @@
         "zh_TW": "\u92c1\u92fc\u9f8d",
         "it": "Duraludon",
         "es": "Duraludon"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Gigantamax"
+        }
       }
     },
     "Dreepy": {
@@ -11691,6 +13260,14 @@
         "zh_TW": "\u84bc\u97ff",
         "it": "Zacian",
         "es": "Zacian"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Hero of Many Battles"
+        },
+        "1": {
+          "name": "Crowned Sword"
+        }
       }
     },
     "Zamazenta": {
@@ -11704,6 +13281,14 @@
         "zh_TW": "\u85cf\u746a\u7136\u7279",
         "it": "Zamazenta",
         "es": "Zamazenta"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Hero of Many Battles"
+        },
+        "1": {
+          "name": "Crowned Shield"
+        }
       }
     },
     "Eternatus": {
@@ -11717,6 +13302,11 @@
         "zh_TW": "\u7121\u6975\u6c70\u90a3",
         "it": "Eternatus",
         "es": "Eternatus"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Eternamax"
+        }
       }
     },
     "Kubfu": {
@@ -11743,6 +13333,20 @@
         "zh_TW": "\u6b66\u9053\u718a\u5e2b",
         "it": "Urshifu",
         "es": "Urshifu"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Single Strike"
+        },
+        "1": {
+          "name": "Rapid Strike"
+        },
+        "2": {
+          "name": "Single Strike - Gigantamax"
+        },
+        "3": {
+          "name": "Rapid Strike - Gigantamax"
+        }
       }
     },
     "Zarude": {
@@ -11756,6 +13360,11 @@
         "zh_TW": "\u85a9\u622e\u5fb7",
         "it": "Zarude",
         "es": "Zarude"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Dada"
+        }
       }
     },
     "Regieleki": {
@@ -11821,6 +13430,14 @@
         "zh_TW": "\u857e\u51a0\u738b",
         "it": "Calyrex",
         "es": "Calyrex"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Ice Rider"
+        },
+        "2": {
+          "name": "Shadow Rider"
+        }
       }
     },
     "Wyrdeer": {
@@ -11860,6 +13477,11 @@
         "zh_TW": "\u6708\u6708\u718a",
         "it": "Ursaluna",
         "es": "Ursaluna"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Bloodmoon"
+        }
       }
     },
     "Basculegion": {
@@ -11873,6 +13495,14 @@
         "zh_TW": "\u5e7d\u5c3e\u7384\u9b5a",
         "it": "Basculegion",
         "es": "Basculegion"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Male"
+        },
+        "1": {
+          "name": "Female"
+        }
       }
     },
     "Sneasler": {
@@ -11912,6 +13542,14 @@
         "zh_TW": "\u7737\u6200\u96f2",
         "it": "Enamorus",
         "es": "Enamorus"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Incarnate"
+        },
+        "1": {
+          "name": "Therian"
+        }
       }
     },
     "Sprigatito": {
@@ -12055,6 +13693,14 @@
         "zh_TW": "\u98c4\u9999\u8c5a",
         "it": "Oinkologne",
         "es": "Oinkologne"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Male"
+        },
+        "1": {
+          "name": "Female"
+        }
       }
     },
     "Tarountula": {
@@ -12172,6 +13818,14 @@
         "zh_TW": "\u4e00\u5bb6\u9f20",
         "it": "Maushold",
         "es": "Maushold"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Family of Three"
+        },
+        "1": {
+          "name": "Family of Four"
+        }
       }
     },
     "Fidough": {
@@ -12250,6 +13904,20 @@
         "zh_TW": "\u6012\u9e1a\u54e5",
         "it": "Squawkabilly",
         "es": "Squawkabilly"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Green Plumage"
+        },
+        "1": {
+          "name": "Yellow Plumage"
+        },
+        "2": {
+          "name": "White Plumage"
+        },
+        "3": {
+          "name": "Blue Plumage"
+        }
       }
     },
     "Nacli": {
@@ -12679,6 +14347,14 @@
         "zh_TW": "\u6d77\u8c5a\u4fe0",
         "it": "Palafin",
         "es": "Palafin"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Zero"
+        },
+        "1": {
+          "name": "Hero"
+        }
       }
     },
     "Varoom": {
@@ -12861,6 +14537,17 @@
         "zh_TW": "\u7c73\u7acb\u9f8d",
         "it": "Tatsugiri",
         "es": "Tatsugiri"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Curly"
+        },
+        "1": {
+          "name": "Droopy"
+        },
+        "2": {
+          "name": "Stretchy"
+        }
       }
     },
     "Annihilape": {
@@ -12913,6 +14600,14 @@
         "zh_TW": "\u571f\u9f8d\u7bc0\u7bc0",
         "it": "Dudunsparce",
         "es": "Dudunsparce"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Two-Segment"
+        },
+        "1": {
+          "name": "Three-Segment"
+        }
       }
     },
     "Kingambit": {
@@ -13134,6 +14829,14 @@
         "zh_TW": "\u7d22\u8ca1\u9748",
         "it": "Gimmighoul",
         "es": "Gimmighoul"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Chest"
+        },
+        "1": {
+          "name": "Roaming"
+        }
       }
     },
     "Gholdengo": {
@@ -13238,6 +14941,14 @@
         "zh_TW": "\u6545\u52d2\u9813",
         "it": "Koraidon",
         "es": "Koraidon"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Apex Build"
+        },
+        "1": {
+          "name": "Sprinting Build"
+        }
       }
     },
     "Miraidon": {
@@ -13251,6 +14962,14 @@
         "zh_TW": "\u5bc6\u52d2\u9813",
         "it": "Miraidon",
         "es": "Miraidon"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Ultimate Mode"
+        },
+        "1": {
+          "name": "Drive Mode"
+        }
       }
     },
     "Walking Wake": {
@@ -13368,6 +15087,20 @@
         "ko": "\uc624\uac70\ud3f0",
         "zh_TW": "\u5384\u9b3c\u692a",
         "zh_CN": "\u5384\u8be1\u692a"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Teal Mask"
+        },
+        "1": {
+          "name": "Wellspring Mask"
+        },
+        "2": {
+          "name": "Hearthflame Mask"
+        },
+        "3": {
+          "name": "Cornerstone Mask"
+        }
       }
     },
     "Archaludon": {
@@ -13459,6 +15192,14 @@
         "ko": "\ud14c\ub77c\ud30c\uace0\uc2a4",
         "zh_TW": "\u592a\u6a02\u5df4\u6208\u65af",
         "zh_CN": "\u592a\u4e50\u5df4\u6208\u65af"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Terastral"
+        },
+        "2": {
+          "name": "Stellar"
+        }
       }
     },
     "Pecharunt": {

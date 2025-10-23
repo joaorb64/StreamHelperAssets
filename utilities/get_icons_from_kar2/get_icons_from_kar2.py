@@ -64,7 +64,13 @@ def generate_configs():
         "prefix": "icon_",
         "postfix": "_",
         "type": ["icon"],
-        "version": version
+        "version": version,
+        "uncropped_edge": [
+            "u",
+            "d",
+            "l",
+            "r"
+        ]
     }
 
     portrait_config_dict = {
@@ -74,7 +80,13 @@ def generate_configs():
         "postfix": "_",
         "type": ["full"],
         "credits": str(credits),
-        "version": version
+        "version": version,
+        "uncropped_edge": [
+            "u",
+            "d",
+            "l",
+            "r"
+        ]
     }
     
     variant_config_dict = {

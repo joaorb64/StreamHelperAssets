@@ -124,7 +124,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Chun-Li]: Character name [Chun-Li] doesn't exist in StartGG
 - Character [Joe Highashi]: Character name [Joe Highashi] doesn't exist in StartGG
 - Character [Mr. Big]: Character name [Mr. Big] doesn't exist in StartGG
-### Coverage: (18/18)
+- Character [Random] not assigned in TSH!
+- Character [Joe Higashi] not assigned in TSH!
+- Character [Ken] not assigned in TSH!
+### Coverage: (18/21)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -532,7 +535,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-### Coverage: (11/11)
+- Character [Random] not assigned in TSH!
+### Coverage: (11/12)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG
@@ -540,7 +544,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
-### Coverage: (14/14)
+- Character [Random] not assigned in TSH!
+### Coverage: (14/15)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)
@@ -723,9 +728,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Armor King]: Character name [Armor King] doesn't exist in StartGG
 - Character [Miary Zo]: Character name [Miary Zo] doesn't exist in StartGG
-### Coverage: (39/39)
+- Character [Miary] not assigned in TSH!
+### Coverage: (40/41)
 
 ## Them's Fightin' Herds
 ### Coverage: (11/11)

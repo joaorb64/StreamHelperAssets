@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://invinciblevs.com/",
-  "version": "25.10.13.57148",
+  "version": "25.10.29.77641",
   "uncropped_edge": [
     "u",
     "d",
@@ -77,6 +77,12 @@
     }
   },
   "image_sizes": {
+    "Amanda": {
+      "0": {
+        "x": 2600,
+        "y": 2560
+      }
+    },
     "AtomEve": {
       "0": {
         "x": 2700,
@@ -119,6 +125,12 @@
         "y": 3518
       }
     },
+    "Robot": {
+      "0": {
+        "x": 1069,
+        "y": 2560
+      }
+    },
     "Thula": {
       "0": {
         "x": 2700,
@@ -127,8 +139,8 @@
     }
   },
   "average_size": {
-    "x": 2563.75,
-    "y": 4222.75
+    "x": 2784.8,
+    "y": 4402.2
   },
   "rescaling_factor": {
     "Cecil": {

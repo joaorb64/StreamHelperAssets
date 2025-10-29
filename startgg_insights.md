@@ -701,6 +701,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Mii Fighters] not assigned in TSH!
 ### Coverage: (59/60)
 
+## Super Smash Flash 2
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Super Street Fighter II Turbo
 Game has no characters in startgg...? Or do we have a wrong game id?
 

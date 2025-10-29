@@ -150,7 +150,7 @@
   "description": "Base config to use this game.",
   "name": "Super Smash Flash 2",
   "smashgg_game_id": 3536,
-    "stage_to_codename": {
+  "stage_to_codename": {
     "Battlefield": {
       "codename": "Battlefield"
     },
@@ -371,5 +371,5 @@
       "codename": "FinalValley"
     }
   },
-  "version": "1.0"
+  "version": "25.10.29.81670"
 }

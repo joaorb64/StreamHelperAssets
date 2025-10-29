@@ -1,0 +1,16 @@
+{
+  "name": "Full",
+  "description": "Character portraits used on the character select screen player slots",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "25.05.29.53857",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
+}

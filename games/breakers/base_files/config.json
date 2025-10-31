@@ -54,5 +54,16 @@
       "smashgg_game_id": null,
       "logo_path": null
     }
-  ]
+  ],
+  "variant_to_codename": {
+    "Revenge": {
+      "codename": "Revenge"
+    },
+    "Chicago": {
+      "codename": "Chicago"
+    },
+    "Extra": {
+      "codename": "Extra"
+    }
+  }
 }

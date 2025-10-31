@@ -2,7 +2,12 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Akaza": {
-      "codename": "Akaza"
+      "codename": "Akaza",
+      "skin_name": {
+        "1": {
+          "name": "Infinity Castle"
+        }
+      }
     },
     "Daki": {
       "codename": "Daki"
@@ -116,6 +121,9 @@
         },
         "2": {
           "name": "Kimetsu Academy"
+        },
+        "3": {
+          "name": "Infinity Castle"
         }
       }
     },
@@ -148,6 +156,15 @@
     },
     "Mitsuri Kanroji": {
       "codename": "Mitsuri"
+    },
+    "Muzan Kibutsuji": {
+      "codename": "Muzan"
+    },
+    "Kaigaku": {
+      "codename": "Kaigaku"
+    },
+    "Doma": {
+      "codename": "Doma"
     }
   },
   "credits": "",

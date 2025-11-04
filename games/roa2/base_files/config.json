@@ -697,6 +697,9 @@
         },
         "71": {
           "name": "Pirate - Green"
+        },
+        "72": {
+          "name": "Low Poly - Orange"
         }
       }
     },
@@ -913,6 +916,21 @@
         },
         "69": {
           "name": "Vampire - White"
+        },
+        "70": {
+          "name": "Lovers - Port Priority"
+        },
+        "71": {
+          "name": "Low Poly"
+        },
+        "72": {
+          "name": "Low Poly - Blue"
+        },
+        "73": {
+          "name": "Low Poly - Green"
+        },
+        "74": {
+          "name": "Low Poly - Red"
         }
       }
     },
@@ -1597,6 +1615,9 @@
         },
         "80": {
           "name": "Default - Yellow"
+        },
+        "81": {
+          "name": "Baseball - Heat Wave"
         }
       }
     },
@@ -1822,6 +1843,9 @@
         },
         "72": {
           "name": "Champion - Green"
+        },
+        "73": {
+          "name": "Abyss - Midnight"
         }
       }
     },
@@ -2026,6 +2050,33 @@
         },
         "62": {
           "name": "Leopard Shark - Pink"
+        },
+        "63": {
+          "name": "Low Poly"
+        },
+        "64": {
+          "name": "Low Poly - Blue"
+        },
+        "65": {
+          "name": "Low Poly - Green"
+        },
+        "66": {
+          "name": "Low Poly - Red"
+        },
+        "67": {
+          "name": "Axolotl - Orange"
+        },
+        "68": {
+          "name": "Champion"
+        },
+        "69": {
+          "name": "Champion - Blue"
+        },
+        "70": {
+          "name": "Champion - Green"
+        },
+        "71": {
+          "name": "Champion - Red"
         }
       }
     },
@@ -2215,6 +2266,9 @@
         },
         "60": {
           "name": "Undead - Purple"
+        },
+        "61": {
+          "name": "Smoke Clan - Yellow"
         }
       }
     },
@@ -2365,6 +2419,18 @@
         },
         "47": {
           "name": "Franken - Red"
+        },
+        "48": {
+          "name": "Low Poly"
+        },
+        "49": {
+          "name": "Low Poly - Blue"
+        },
+        "50": {
+          "name": "Low Poly - Green"
+        },
+        "51": {
+          "name": "Low Poly - Red"
         }
       }
     },
@@ -2509,6 +2575,21 @@
         },
         "45": {
           "name": "Retro - Red"
+        },
+        "46": {
+          "name": "Low Poly"
+        },
+        "47": {
+          "name": "Low Poly - Blue"
+        },
+        "48": {
+          "name": "Low Poly - Green"
+        },
+        "49": {
+          "name": "Low Poly - Red"
+        },
+        "50": {
+          "name": "Spotted - Black"
         }
       }
     },
@@ -2844,6 +2925,12 @@
       "codename": "Graveyard",
       "locale": {
         "fr": "Cimeti\u00e8re de M\u00e9tal"
+      }
+    },
+    "Low Poly Fire Capital": {
+      "codename": "LowPoly",
+      "locale": {
+        "fr": "Capitale du Feu Polygonale"
       }
     }
   }

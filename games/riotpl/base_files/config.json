@@ -58,19 +58,34 @@
   },
   "variant_to_codename": {
     "2X Assist": {
-      "codename": "2XAssistV"
+      "codename": "2XAssistV",
+      "locale": {
+        "fr": "2X Assistances"
+      }
     },
     "Double Down": {
-      "codename": "DoubleDownV"
+      "codename": "DoubleDownV",
+      "locale": {
+        "fr": "Quitte ou Double"
+      }
     },
     "Freestyle": {
-      "codename": "FreestyleV"
+      "codename": "FreestyleV",
+      "locale": {
+        "fr": "Freestyle"
+      }
     },
     "Juggernaut": {
-      "codename": "JuggernautV"
+      "codename": "JuggernautV",
+      "locale": {
+        "fr": "Colosse"
+      }
     },
     "Sidekick": {
-      "codename": "SidekickV"
+      "codename": "SidekickV",
+      "locale": {
+        "fr": "Acolyte"
+      }
     }
   }
 }

@@ -7,7 +7,11 @@
       "codename": "rider01"
     },
     "King Dedede": {
-      "codename": "rider02"
+      "codename": "rider02",
+      "locale": {
+        "fr": "Roi DaDiDou"
+      }
+    
     },
     "Meta Knight": {
       "codename": "rider03"
@@ -28,7 +32,10 @@
       "codename": "rider08"
     },
     "Cappy": {
-      "codename": "rider09"
+      "codename": "rider09",
+      "locale": {
+        "fr": "Cappenois"
+      }
     },
     "Starman": {
       "codename": "rider10"
@@ -46,7 +53,10 @@
       "codename": "rider14"
     },
     "Rocky": {
-      "codename": "rider15"
+      "codename": "rider15",
+      "locale": {
+        "fr": "Choiroc"
+      }
     },
     "Scarfy": {
       "codename": "rider16"
@@ -55,10 +65,16 @@
       "codename": "rider17"
     },
     "Marx": {
-      "codename": "rider18"
+      "codename": "rider18",
+      "locale": {
+        "fr": "Max"
+      }
     },
     "Daroach": {
-      "codename": "rider19"
+      "codename": "rider19",
+      "locale": {
+        "fr": "Desroches"
+      }
     },
     "Taranza": {
       "codename": "rider20"
@@ -67,73 +83,142 @@
   "stage_to_codename": {},
   "variant_to_codename": {
     "Warp Star": {
-      "codename": "machine01"
+      "codename": "machine01",
+      "locale": {
+        "fr": "Étoile Warp"
+      }
     },
     "Winged Star": {
-      "codename": "machine02"
+      "codename": "machine02",
+      "locale": {
+        "fr": "Étoile ailée"
+      }
     },
     "Shadow Star": {
-      "codename": "machine03"
+      "codename": "machine03",
+      "locale": {
+        "fr": "Étoile obscure"
+      }
     },
     "Wagon Star": {
-      "codename": "machine04"
+      "codename": "machine04",
+      "locale": {
+        "fr": "Étoile wagon"
+      }
     },
     "Slick Star": {
-      "codename": "machine05"
+      "codename": "machine05",
+      "locale": {
+        "fr": "Étoile aéro"
+      }
     },
     "Bulk Star": {
-      "codename": "machine06"
+      "codename": "machine06",
+      "locale": {
+        "fr": "Étoile massive"
+      }
     },
     "Rocket Star": {
-      "codename": "machine07"
+      "codename": "machine07",
+      "locale": {
+        "fr": "Étoile fusée"
+      }
     },
     "Swerve Star": {
-      "codename": "machine08"
+      "codename": "machine08",
+      "locale": {
+        "fr": "Étoile archéo"
+      }
     },
     "Turbo Star": {
-      "codename": "machine09"
+      "codename": "machine09",
+      "locale": {
+        "fr": "Étoile turbo"
+      }
     },
     "Wheelie Bike": {
-      "codename": "machine10"
+      "codename": "machine10",
+      "locale": {
+        "fr": "Roulli Moto"
+      }
     },
     "Rex Wheelie": {
-      "codename": "machine11"
+      "codename": "machine11",
+      "locale": {
+        "fr": "Rex Roulli"
+      }
     },
     "Paper Star": {
-      "codename": "machine12"
+      "codename": "machine12",
+      "locale": {
+        "fr": "Étoile papier"
+      }
     },
     "Chariot": {
-      "codename": "machine13"
+      "codename": "machine13",
+      "locale": {
+        "fr": "Néochar"
+      }
     },
     "Battle Chariot": {
-      "codename": "machine14"
+      "codename": "machine14",
+      "locale": {
+        "fr": "Néochar de combat"
+      }
     },
     "Tank Star": {
-      "codename": "machine15"
+      "codename": "machine15",
+      "locale": {
+        "fr": "Étoile tank"
+      }
     },
     "Formula Star": {
-      "codename": "machine16"
+      "codename": "machine16",
+      "locale": {
+        "fr": "Étoile formula"
+      }
     },
     "Jet Star": {
-      "codename": "machine17"
+      "codename": "machine17",
+      "locale": {
+        "fr": "Étoile Jet"
+      }
     },
     "Hop Star": {
-      "codename": "machine18"
+      "codename": "machine18",
+      "locale": {
+        "fr": "Étoile hop"
+      }
     },
     "Wheelie Scooter": {
-      "codename": "machine19"
+      "codename": "machine19",
+      "locale": {
+        "fr": "Roulli Scooter"
+      }
     },
     "Transform Star": {
-      "codename": "machine20"
+      "codename": "machine20",
+      "locale": {
+        "fr": "Étoile métamorphe"
+      }
     },
     "Bull Tank": {
-      "codename": "machine21"
+      "codename": "machine21",
+      "locale": {
+        "fr": "Tank taureau"
+      }
     },
     "Compact Star": {
-      "codename": "base"
+      "codename": "base",
+      "locale": {
+        "fr": "Étoile compacte"
+      }
     },
     "Flight Warp Star": {
-      "codename": "freerun"
+      "codename": "freerun",
+      "locale": {
+        "fr": "Étoile Warp volante"
+      }
     },
     "Dragoon": {
       "codename": "dragoon"

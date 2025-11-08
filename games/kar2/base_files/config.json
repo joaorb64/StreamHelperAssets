@@ -11,7 +11,6 @@
       "locale": {
         "fr": "Roi DaDiDou"
       }
-    
     },
     "Meta Knight": {
       "codename": "rider03"
@@ -85,55 +84,55 @@
     "Warp Star": {
       "codename": "machine01",
       "locale": {
-        "fr": "Étoile Warp"
+        "fr": "\u00c9toile Warp"
       }
     },
     "Winged Star": {
       "codename": "machine02",
       "locale": {
-        "fr": "Étoile ailée"
+        "fr": "\u00c9toile ail\u00e9e"
       }
     },
     "Shadow Star": {
       "codename": "machine03",
       "locale": {
-        "fr": "Étoile obscure"
+        "fr": "\u00c9toile obscure"
       }
     },
     "Wagon Star": {
       "codename": "machine04",
       "locale": {
-        "fr": "Étoile wagon"
+        "fr": "\u00c9toile wagon"
       }
     },
     "Slick Star": {
       "codename": "machine05",
       "locale": {
-        "fr": "Étoile aéro"
+        "fr": "\u00c9toile a\u00e9ro"
       }
     },
     "Bulk Star": {
       "codename": "machine06",
       "locale": {
-        "fr": "Étoile massive"
+        "fr": "\u00c9toile massive"
       }
     },
     "Rocket Star": {
       "codename": "machine07",
       "locale": {
-        "fr": "Étoile fusée"
+        "fr": "\u00c9toile fus\u00e9e"
       }
     },
     "Swerve Star": {
       "codename": "machine08",
       "locale": {
-        "fr": "Étoile archéo"
+        "fr": "\u00c9toile arch\u00e9o"
       }
     },
     "Turbo Star": {
       "codename": "machine09",
       "locale": {
-        "fr": "Étoile turbo"
+        "fr": "\u00c9toile turbo"
       }
     },
     "Wheelie Bike": {
@@ -151,43 +150,43 @@
     "Paper Star": {
       "codename": "machine12",
       "locale": {
-        "fr": "Étoile papier"
+        "fr": "\u00c9toile papier"
       }
     },
     "Chariot": {
       "codename": "machine13",
       "locale": {
-        "fr": "Néochar"
+        "fr": "N\u00e9ochar"
       }
     },
     "Battle Chariot": {
       "codename": "machine14",
       "locale": {
-        "fr": "Néochar de combat"
+        "fr": "N\u00e9ochar de combat"
       }
     },
     "Tank Star": {
       "codename": "machine15",
       "locale": {
-        "fr": "Étoile tank"
+        "fr": "\u00c9toile tank"
       }
     },
     "Formula Star": {
       "codename": "machine16",
       "locale": {
-        "fr": "Étoile formula"
+        "fr": "\u00c9toile formula"
       }
     },
     "Jet Star": {
       "codename": "machine17",
       "locale": {
-        "fr": "Étoile Jet"
+        "fr": "\u00c9toile Jet"
       }
     },
     "Hop Star": {
       "codename": "machine18",
       "locale": {
-        "fr": "Étoile hop"
+        "fr": "\u00c9toile hop"
       }
     },
     "Wheelie Scooter": {
@@ -199,7 +198,7 @@
     "Transform Star": {
       "codename": "machine20",
       "locale": {
-        "fr": "Étoile métamorphe"
+        "fr": "\u00c9toile m\u00e9tamorphe"
       }
     },
     "Bull Tank": {
@@ -211,13 +210,13 @@
     "Compact Star": {
       "codename": "base",
       "locale": {
-        "fr": "Étoile compacte"
+        "fr": "\u00c9toile compacte"
       }
     },
     "Flight Warp Star": {
       "codename": "freerun",
       "locale": {
-        "fr": "Étoile Warp volante"
+        "fr": "\u00c9toile Warp volante"
       }
     },
     "Dragoon": {
@@ -227,7 +226,7 @@
       "codename": "hydra"
     }
   },
-  "version": "25.10.23.58888",
+  "version": "25.11.08.64603",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html"
 }

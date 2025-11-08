@@ -9,6 +9,30 @@
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html\nIcons for Dragoon, Hydra and Compact Star from Kirby Air Ride",
   "version": "25.08.20.39713",
   "image_sizes": {
+    "base": {
+      "null": {
+        "x": 217,
+        "y": 217
+      }
+    },
+    "dragoon": {
+      "null": {
+        "x": 576,
+        "y": 464
+      }
+    },
+    "freerun": {
+      "null": {
+        "x": 197,
+        "y": 164
+      }
+    },
+    "hydra": {
+      "null": {
+        "x": 303,
+        "y": 242
+      }
+    },
     "machine01": {
       "null": {
         "x": 1828,

@@ -38,6 +38,30 @@
     },
     "Susie": {
       "codename": "rider12"
+    },
+    "Waddle Dee": {
+      "codename": "rider13"
+    },
+    "Rick": {
+      "codename": "rider14"
+    },
+    "Rocky": {
+      "codename": "rider15"
+    },
+    "Scarfy": {
+      "codename": "rider16"
+    },
+    "Lololo & Lalala": {
+      "codename": "rider17"
+    },
+    "Marx": {
+      "codename": "rider18"
+    },
+    "Daroach": {
+      "codename": "rider19"
+    },
+    "Taranza": {
+      "codename": "rider20"
     }
   },
   "stage_to_codename": {},
@@ -87,6 +111,24 @@
     "Tank Star": {
       "codename": "machine15"
     },
+    "Formula Star": {
+      "codename": "machine16"
+    },
+    "Jet Star": {
+      "codename": "machine17"
+    },
+    "Hop Star": {
+      "codename": "machine18"
+    },
+    "Wheelie Scooter": {
+      "codename": "machine19"
+    },
+    "Transform Star": {
+      "codename": "machine20"
+    },
+    "Bull Tank": {
+      "codename": "machine21"
+    },
     "Compact Star": {
       "codename": "base"
     },
@@ -100,7 +142,7 @@
       "codename": "hydra"
     }
   },
-  "version": "25.08.20.46742",
+  "version": "25.10.23.58888",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html"
 }

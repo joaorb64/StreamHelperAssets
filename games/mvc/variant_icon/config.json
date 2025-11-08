@@ -1,0 +1,149 @@
+{
+  "name": "Partner Icons",
+  "version": "25.09.21.45316",
+  "description": "Partner icons\nRequires TSH 5.92 or higher to be used",
+  "credits": "Ripped from https://rq87.flyingomelette.com/RQ/Marvel/MvC/ac.html",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "image_sizes": {
+    "AnitaV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "ArthurV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "ColossusV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "CyclopsV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "DevilotV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "IcemanV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "JubileeV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "JuggernautV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "LouV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "MagnetoV": {
+      "null": {
+        "x": 40,
+        "y": 32
+      }
+    },
+    "MichelleHeartV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "PsylockeV": {
+      "null": {
+        "x": 40,
+        "y": 32
+      }
+    },
+    "PureFurV": {
+      "null": {
+        "x": 40,
+        "y": 32
+      }
+    },
+    "RogueV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "SakiV": {
+      "null": {
+        "x": 40,
+        "y": 32
+      }
+    },
+    "SentinelV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "ShadowV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "StormV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "ThorV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "TonPoohV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    },
+    "USAgentV": {
+      "null": {
+        "x": 40,
+        "y": 32
+      }
+    },
+    "UnknownSoldierV": {
+      "null": {
+        "x": 42,
+        "y": 32
+      }
+    }
+  },
+  "average_size": {
+    "x": 41.54545454545455,
+    "y": 32.0
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bartz Klauser": {
+      "codename": "BartzKlauser"
+    },
+    "Cecil Harvey": {
+      "codename": "CecilHarvey"
+    },
+    "Cloud Strife": {
+      "codename": "CloudStrife"
+    },
+    "Cloud of Darkness": {
+      "codename": "CloudofDarkness"
+    },
+    "Exdeath": {
+      "codename": "Exdeath"
+    },
+    "Feral Chaos": {
+      "codename": "FeralChaos"
+    },
+    "Firion": {
+      "codename": "Firion"
+    },
+    "Gabranth": {
+      "codename": "Gabranth"
+    },
+    "Garland": {
+      "codename": "Garland"
+    },
+    "Gilgamesh": {
+      "codename": "Gilgamesh"
+    },
+    "Golbez": {
+      "codename": "Golbez"
+    },
+    "Jecht": {
+      "codename": "Jecht"
+    },
+    "Kain Highwind": {
+      "codename": "KainHighwind"
+    },
+    "Kefka Palazzo": {
+      "codename": "KefkaPalazzo"
+    },
+    "Kuja": {
+      "codename": "Kujo"
+    },
+    "Laguna Loire": {
+      "codename": "LaguanaLoire"
+    },
+    "Lightning": {
+      "codename": "Lightning"
+    },
+    "Onion Knight": {
+      "codename": "OnionKnight"
+    },
+    "Prishe": {
+      "codename": "Prishe"
+    },
+    "Sephiroth": {
+      "codename": "Sephiroth"
+    },
+    "Shantotto": {
+      "codename": "Shantotto"
+    },
+    "Squall Leonhart": {
+      "codename": "SquallLeonhart"
+    },
+    "Terra Branford": {
+      "codename": "TerraBranford"
+    },
+    "Emperor Mateus": {
+      "codename": "TheEmperor"
+    },
+    "Tidus": {
+      "codename": "Tidus"
+    },
+    "Tifa Lockheart": {
+      "codename": "TifaLockheart"
+    },
+    "Ultimecia": {
+      "codename": "Ultimecia"
+    },
+    "Vaan": {
+      "codename": "Vaan"
+    },
+    "Warrior of Light": {
+      "codename": "WarriorofLight"
+    },
+    "Yuna": {
+      "codename": "Yuna"
+    },
+    "Zidane Tribal": {
+      "codename": "ZidaneTribal"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Dissidia 012 Final Fantasy",
+  "smashgg_game_id": 14198,
+  "stage_to_codename": {},
+  "version": "25.09.20.35247"
+}

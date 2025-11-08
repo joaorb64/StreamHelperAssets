@@ -1,7 +1,7 @@
 {
   "average_size": {
-    "x": 2815.125,
-    "y": 4000.0
+    "x": 2937.909090909091,
+    "y": 3971.0
   },
   "credits": "From the asset kit (https://2xko.riotgames.com/en-us/news/announcements/2xko-community-competition-guidelines/#Q9)",
   "description": "Alternate poses for the character renders",
@@ -53,6 +53,24 @@
         "x": 1127,
         "y": 934
       }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 1218,
+        "y": 1067
+      }
+    },
+    "Teemo": {
+      "0": {
+        "x": 1744,
+        "y": 2714
+      }
+    },
+    "Warwick": {
+      "0": {
+        "x": 2103,
+        "y": 1734
+      }
     }
   },
   "name": "Renders (Alternate)",
@@ -62,16 +80,21 @@
     "full"
   ],
   "uncropped_edge": [
-    "u",
     "l",
     "d",
     "r"
   ],
-  "version": "25.08.20.56601",
+  "version": "25.11.01.60014",
   "image_sizes": {
     "Ahri": {
       "0": {
         "x": 2778,
+        "y": 4000
+      }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 3028,
         "y": 4000
       }
     },
@@ -105,10 +128,22 @@
         "y": 4000
       }
     },
+    "Teemo": {
+      "0": {
+        "x": 2768,
+        "y": 4000
+      }
+    },
     "Vi": {
       "0": {
         "x": 2375,
         "y": 4000
+      }
+    },
+    "Warwick": {
+      "0": {
+        "x": 4000,
+        "y": 3681
       }
     },
     "Yasuo": {

@@ -1,0 +1,174 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "All For One": {
+      "codename": "AllForOne",
+      "skin_name": {
+        "1": {
+          "name": "Rewind"
+        }
+      }
+    },
+    "All Might": {
+      "codename": "AllMight",
+      "skin_name": {
+        "1": {
+          "name": "Armored All-Might"
+        }
+      }
+    },
+    "Best Jeanist": {
+      "codename": "BestJeanist"
+    },
+    "Dabi": {
+      "codename": "Dabi",
+      "skin_name": {
+        "1": {
+          "name": "Death Flame"
+        }
+      }
+    },
+    "Denki Kaminari": {
+      "codename": "DenkiKaminari"
+    },
+    "Edgeshot": {
+      "codename": "Edgeshot"
+    },
+    "Eijiro Kirishima": {
+      "codename": "EijiroKirishima"
+    },
+    "Endeavor": {
+      "codename": "Endeavor"
+    },
+    "Eraser Head": {
+      "codename": "EraserHead"
+    },
+    "Fumikage Tokoyami": {
+      "codename": "FumikageTokoyami"
+    },
+    "Hanta Sero": {
+      "codename": "HantaSero"
+    },
+    "Hawks": {
+      "codename": "Hawks"
+    },
+    "Himiko Toga": {
+      "codename": "HimikoToga"
+    },
+    "Hitoshi Shinso": {
+      "codename": "HitoshiShinso"
+    },
+    "Hood": {
+      "codename": "Hood"
+    },
+    "Izuku Midoriya": {
+      "codename": "IzukuMidoriya",
+      "skin_name": {
+        "1": {
+          "name": "One for All"
+        },
+        "2": {
+          "name": "Full Cowl - 100%"
+        },
+        "3": {
+          "name": "Shoot Style"
+        }
+      }
+    },
+    "Katsuki Bakugo": {
+      "codename": "KatsukiBakugo"
+    },
+    "Koji Koda": {
+      "codename": "KojiKoda"
+    },
+    "Kurogiri": {
+      "codename": "Kurogiri"
+    },
+    "Kyoka Jiro": {
+      "codename": "KyokaJiro"
+    },
+    "Lady Nagant": {
+      "codename": "LadyNagant"
+    },
+    "Mashirao Ojiro": {
+      "codename": "MashiraoOjiro"
+    },
+    "Mezo Shoji": {
+      "codename": "MezoShoji"
+    },
+    "Midnight": {
+      "codename": "Midnight"
+    },
+    "Mina Ashido": {
+      "codename": "MinaAshido"
+    },
+    "Minoru Mineta": {
+      "codename": "MinoruMineta"
+    },
+    "Mirio Togata": {
+      "codename": "MirioTogata"
+    },
+    "Mirko": {
+      "codename": "Mirko"
+    },
+    "Momo Yaoyorozu": {
+      "codename": "MomoYaoyorozu"
+    },
+    "Mr. Compress": {
+      "codename": "MrCompress"
+    },
+    "Neito Monoma": {
+      "codename": "NeitoMonoma"
+    },
+    "Nejire Hado": {
+      "codename": "NejireHado"
+    },
+    "Ochaco Uraraka": {
+      "codename": "OchacoUraraka"
+    },
+    "Present Mic": {
+      "codename": "PresentMic"
+    },
+    "Rikido Sato": {
+      "codename": "RikidoSato"
+    },
+    "Shoto Todoroki": {
+      "codename": "ShotoTodoroki"
+    },
+    "Stain": {
+      "codename": "Stain"
+    },
+    "Tamaki Amajiki": {
+      "codename": "TamakiAmajiki"
+    },
+    "Tenya Ida": {
+      "codename": "TenyaIda"
+    },
+    "Tomura Shigaraki": {
+      "codename": "TomuraShigaraki",
+      "skin_name": {
+        "1": {
+          "name": "All For One"
+        }
+      }
+    },
+    "Toru Hagakure": {
+      "codename": "ToruHagakure"
+    },
+    "Tsuyu Asui": {
+      "codename": "TsuyuAsui"
+    },
+    "Twice": {
+      "codename": "Twice"
+    },
+    "Yuga Aoyama": {
+      "codename": "YugaAoyama"
+    }
+  },
+  "credits": "Assets ripped from https://mhaaj.bn-ent.net/character/all.php",
+  "description": "Base config to use this game.",
+  "name": "My Hero Academia: All's Justice",
+  "smashgg_game_id": null,
+  "stage_to_codename": {},
+  "version": "25.10.02.37988"
+}

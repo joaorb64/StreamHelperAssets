@@ -6,7 +6,7 @@
   "type": [
     "portrait"
   ],
-  "version": "25.05.29.53857",
+  "version": "25.10.16.69777",
   "uncropped_edge": [
     "u",
     "d",
@@ -17,7 +17,7 @@
     "x": 509.0,
     "y": 403.0
   },
-  "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
+  "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II\nCustom CSS images by hok0ri",
   "image_sizes": {
     "Clairen": {
       "0": {
@@ -38,6 +38,12 @@
       }
     },
     "Forsburn": {
+      "0": {
+        "x": 509,
+        "y": 403
+      }
+    },
+    "Galvan": {
       "0": {
         "x": 509,
         "y": 403

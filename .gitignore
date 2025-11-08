@@ -42,3 +42,5 @@ utilities/fix_alpha/*/*.png
 .vscode/*
 utilities/rename_mvci_portraits/source/*
 utilities/rename_mvci_portraits/out/*
+Pipfile.lock
+utilities/get_icons_from_bulbapedia/forms/*

@@ -1,0 +1,29 @@
+{
+  "name": "Super Selection",
+  "version": "25.09.17.66302",
+  "description": "Super selection icons\nRequires TSH 5.92 or higher to be used",
+  "credits": "",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "image_sizes": {
+    "Super1V": {
+      "null": {
+        "x": 15,
+        "y": 20
+      }
+    },
+    "Super2V": {
+      "null": {
+        "x": 25,
+        "y": 20
+      }
+    }
+  },
+  "average_size": {
+    "x": 20.0,
+    "y": 20.0
+  }
+}

@@ -434,7 +434,8 @@
         "ru": "\u041f\u0438\u043a\u0430\u0447\u0443",
         "ko": "\ud53c\uce74\uce04",
         "zh_TW": "\u76ae\u5361\u4e18",
-        "zh_CN": "\u76ae\u5361\u4e18"
+        "zh_CN": "\u76ae\u5361\u4e18",
+        "br": "Luc\u2019hodenn"
       }
     },
     "Jigglypuff": {
@@ -454,7 +455,8 @@
         "ru": "\u0414\u0436\u0438\u0433\u043b\u0438\u043f\u0430\u0444\u0444",
         "ko": "\ud478\ub9b0",
         "zh_TW": "\u80d6\u4e01",
-        "zh_CN": "\u80d6\u4e01"
+        "zh_CN": "\u80d6\u4e01",
+        "br": "Wasteljen"
       }
     },
     "Mewtwo": {
@@ -474,7 +476,8 @@
         "ru": "\u041c\u044c\u044e\u0442\u0443",
         "ko": "\ubba4\uce20",
         "zh_TW": "\u8d85\u5922",
-        "zh_CN": "\u8d85\u68a6"
+        "zh_CN": "\u8d85\u68a6",
+        "br": "Diogemm"
       }
     },
     "Charizard": {
@@ -486,7 +489,8 @@
         "de": "Glurak",
         "ko": "\ub9ac\uc790\ubabd",
         "zh_CN": "\u55b7\u706b\u9f99",
-        "zh_TW": "\u5674\u706b\u9f8d"
+        "zh_TW": "\u5674\u706b\u9f8d",
+        "br": "Tanaer"
       }
     },
     "Lucario": {
@@ -1379,7 +1383,7 @@
       "codename": "battlefielddreamland"
     }
   },
-  "version": "25.05.29.53857",
+  "version": "25.09.16.68545",
   "description": "Base config to use this game.",
-  "credits": ""
+  "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)"
 }

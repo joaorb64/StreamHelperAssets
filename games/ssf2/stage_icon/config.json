@@ -1,0 +1,448 @@
+{
+  "name": "Stage Icons",
+  "version": "25.10.29.81670",
+  "description": "Stage icons",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "stage_icon"
+  ],
+  "image_sizes": {
+    "Battlefield": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "BombFactory": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "BowsersCastle": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "ButterBuilding": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "CasinoNightZone": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "CastleSiege": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "CentralHighway": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "ChaosShrine": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "ClockTown": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "Crateria": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "DededesArena": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "Desk": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "DevilsMachine": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "DraculasCastle": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "DreamLand": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "FairyGlade": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "FinalDestination": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "FinalValley": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "FlatZone+": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "Fourside": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "GalaxyTours": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "GangplankGalleon": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "GreenHillZone": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "HiddenLeafVillage": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "HuecoMundo": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "HyruleCastle": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "JungleHijinx": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "JungleIsland": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "KrazoaPalace": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "LakeofRage": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "LunarCore": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "MetaCrystal": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "MeteoCampaigns": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "MultiManBattlefield": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "MushroomKingdom": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "MushroomKingdomII": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "MushroomKingdomIII": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "Nintendo3DS": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "PacMaze": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "PalaceofTwilight": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "PalmTreeParadise": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "PalutenasShrine": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "PlanetNamek": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "PlanetSR388": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "Pok\u00e9monColosseum": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "PolygonZone": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "PrincessPeachsCastle": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "RainbowRoute": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SaffronCity": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SandOcean": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SaturnValley": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SectorZ": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SkullFortress": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SkyPillar": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SkySanctuaryZone": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "Smashville": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SnowpointTemple": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SteelDiver": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SuperHappyTree": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "SuzakuCastle": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "Temple": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "TheWorldThatNeverWas": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "ThousandSunny": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "TowerofSalvation": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "TwilightTown": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "UrbanChampion": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "VenusLighthouse": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "WaitingRoom": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "WarioWare,Inc": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "WorldTournament": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "YoshisIsland": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    },
+    "YoshisStory": {
+      "null": {
+        "x": 640,
+        "y": 360
+      }
+    }
+  },
+  "average_size": {
+    "x": 640.0,
+    "y": 360.0
+  }
+}

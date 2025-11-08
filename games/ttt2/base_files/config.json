@@ -183,7 +183,7 @@
   "description": "Base config to use this game.",
   "name": "Tekken Tag Tournament 2",
   "smashgg_game_id": 4985,
-  "version": "25.07.17.65352",
+  "version": "25.10.13.60988",
   "locale": {
     "ja": {
       "name": "\u9244\u62f3\u30bf\u30c3\u30b0\u30c8\u30fc\u30ca\u30e1\u30f3\u30c82"
@@ -192,5 +192,94 @@
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 2
+  },
+  "stage_to_codename": {
+    "Arctic Dream (Finland)": {
+      "codename": "ArcticDreamFinland"
+    },
+    "Arena (Tokyo, Japan)": {
+      "codename": "ArenaTokyoJapan"
+    },
+    "Bountiful Sea (South Pacific)": {
+      "codename": "BountifulSeaSouthPacific"
+    },
+    "Coastline Sunset (Philippines)": {
+      "codename": "CoastlineSunsetPhilippines"
+    },
+    "Condor Canyon (Colombia)": {
+      "codename": "CondorCanyonColombia"
+    },
+    "Dusk after the Rain (China)": {
+      "codename": "DuskaftertheRainChina"
+    },
+    "Eternal Paradise (Fiji)": {
+      "codename": "EternalParadiseFiji"
+    },
+    "Extravagant Underground (Russia)": {
+      "codename": "ExtravagantUndergroundRussia"
+    },
+    "Fallen Garden (Unknown)": {
+      "codename": "FallenGardenUnknown"
+    },
+    "Festive Parade (United States)": {
+      "codename": "FestiveParadeUnitedStates"
+    },
+    "Fireworks Over Barcelona (Spain)": {
+      "codename": "FireworksOverBarcelonaSpain"
+    },
+    "Fontana di Trevi (Italy)": {
+      "codename": "FontanadiTreviItaly"
+    },
+    "Hall of Judgement (Nara, Japan)": {
+      "codename": "HallofJudgementNaraJapan"
+    },
+    "Heavenly Garden (Unknown)": {
+      "codename": "HeavenlyGardenUnknown"
+    },
+    "Historic Town Square (Germany)": {
+      "codename": "HistoricTownSquareGermany"
+    },
+    "Moai Excavation (Chile)": {
+      "codename": "MoaiExcavationChile"
+    },
+    "Modern Oasis (Saudi Arabia)": {
+      "codename": "ModernOasisSaudiArabia"
+    },
+    "Moonlit Wilderness (United Kingdom)": {
+      "codename": "MoonlitWildernessUnitedKingdom"
+    },
+    "Naraku (Japan)": {
+      "codename": "NarakuJapan"
+    },
+    "Odeum of Illusions (Poland)": {
+      "codename": "OdeumofIllusionsPoland"
+    },
+    "Riverside Promenade (France)": {
+      "codename": "RiversidePromenadeFrance"
+    },
+    "Sakura Schoolyard (Yokosuka, Japan)": {
+      "codename": "SakuraSchoolyardYokosukaJapan"
+    },
+    "Snoop Dogg (United States)": {
+      "codename": "SnoopDoggUnitedStates"
+    },
+    "Strategic Space (Dubai)": {
+      "codename": "StrategicSpaceDubai"
+    },
+    "Tempest (Norway)": {
+      "codename": "TempestNorway"
+    },
+    "Tropical Rainforest (Brazil)": {
+      "codename": "TropicalRainforestBrazil"
+    },
+    "Tulip Festival (Netherlands)": {
+      "codename": "TulipFestivalNetherlands"
+    },
+    "Wayang Kulit (Indonesia)": {
+      "codename": "WayangKulitIndonesia"
+    },
+    "Winter Palace (Canada)": {
+      "codename": "WinterPalaceCanada"
+    }
   }
 }

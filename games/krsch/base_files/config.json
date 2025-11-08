@@ -1,0 +1,208 @@
+{
+  "name": "Kamen Rider: Super Climax Heroes",
+  "smashgg_game_id": 44288,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Rider 1": {
+      "codename": "Rider1"
+    },
+    "Rider 2": {
+      "codename": "Rider2"
+    },
+    "V3": {
+      "codename": "V3"
+    },
+    "Amazon": {
+      "codename": "Amazon"
+    },
+    "BLACK": {
+      "codename": "BLACK"
+    },
+    "Shadow Moon": {
+      "codename": "ShadowMoon"
+    },
+    "BLACK RX": {
+      "codename": "BLACKRX"
+    },
+    "Kuuga": {
+      "codename": "Kuuga"
+    },
+    "Agito": {
+      "codename": "Agito"
+    },
+    "G3-X": {
+      "codename": "G3X"
+    },
+    "Gills": {
+      "codename": "Gills"
+    },
+    "Ryuki": {
+      "codename": "Ryuki"
+    },
+    "Knight": {
+      "codename": "Knight"
+    },
+    "Scissors": {
+      "codename": "Scissors"
+    },
+    "Zolda": {
+      "codename": "Zolda"
+    },
+    "Raia": {
+      "codename": "Raia"
+    },
+    "Gai": {
+      "codename": "Gai"
+    },
+    "Ouja": {
+      "codename": "Ouja"
+    },
+    "Tiger": {
+      "codename": "Tiger"
+    },
+    "Imperer": {
+      "codename": "Imperer"
+    },
+    "Odin": {
+      "codename": "Odin"
+    },
+    "Verde": {
+      "codename": "Verde"
+    },
+    "Femme": {
+      "codename": "Femme"
+    },
+    "Ryuga": {
+      "codename": "Ryuga"
+    },
+    "Faiz": {
+      "codename": "Faiz"
+    },
+    "Kaixa": {
+      "codename": "Kaixa"
+    },
+    "Delta": {
+      "codename": "Delta"
+    },
+    "Blade": {
+      "codename": "Blade"
+    },
+    "Garren": {
+      "codename": "Garren"
+    },
+    "Chalice": {
+      "codename": "Chalice"
+    },
+    "Leangle": {
+      "codename": "Leangle"
+    },
+    "Hibiki": {
+      "codename": "Hibiki"
+    },
+    "Ibuki": {
+      "codename": "Ibuki"
+    },
+    "Zanki": {
+      "codename": "Zanki"
+    },
+    "Todoroki": {
+      "codename": "Todoroki"
+    },
+    "Kabuto": {
+      "codename": "Kabuto"
+    },
+    "Gatack": {
+      "codename": "Gatack"
+    },
+    "TheBee": {
+      "codename": "TheBee"
+    },
+    "Drake": {
+      "codename": "Drake"
+    },
+    "Sasword": {
+      "codename": "Sasword"
+    },
+    "KickHopper": {
+      "codename": "KickHopper"
+    },
+    "PunchHopper": {
+      "codename": "PunchHopper"
+    },
+    "Dark Kabuto": {
+      "codename": "DarkKabuto"
+    },
+    "Den-O": {
+      "codename": "DenO"
+    },
+    "Zeronos": {
+      "codename": "Zeronos"
+    },
+    "Nega Den-O": {
+      "codename": "NegaDenO"
+    },
+    "New Den-O": {
+      "codename": "NewDenO"
+    },
+    "Kiva": {
+      "codename": "Kiva"
+    },
+    "Ixa": {
+      "codename": "Ixa"
+    },
+    "Saga": {
+      "codename": "Saga"
+    },
+    "Decade": {
+      "codename": "Decade"
+    },
+    "Diend": {
+      "codename": "Diend"
+    },
+    "W": {
+      "codename": "W"
+    },
+    "Accel": {
+      "codename": "Accel"
+    },
+    "Skull": {
+      "codename": "Skull"
+    },
+    "Eternal": {
+      "codename": "Eternal"
+    },
+    "Joker": {
+      "codename": "Joker"
+    },
+    "OOO": {
+      "codename": "OOO"
+    },
+    "Birth": {
+      "codename": "Birth"
+    },
+    "Proto Type": {
+      "codename": "ProtoType"
+    },
+    "Fourze": {
+      "codename": "Fourze"
+    },
+    "Meteor": {
+      "codename": "Meteor"
+    },
+    "Fourze MFS": {
+      "codename": "FourzeMFS"
+    },
+    "Wizard": {
+      "codename": "Wizard"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "25.10.15.66798",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Kamen_Rider:_Super_Climax_Heroes)",
+  "locale": {
+    "ja": {
+      "name": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc \u8d85\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30d2\u30fc\u30ed\u30fc\u30ba"
+    }
+  }
+}

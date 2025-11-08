@@ -63,7 +63,8 @@
         "zh_CN": "\u95ea\u7535\u9e1f",
         "zh_TW": "\u9583\u96fb\u9ce5",
         "it": "Zapdos",
-        "es": "Zapdos"
+        "es": "Zapdos",
+        "br": "Tredanaer"
       }
     },
     "Great Tusk": {
@@ -115,7 +116,8 @@
         "zh_CN": "\u868a\u9999\u6cf3\u58eb",
         "zh_TW": "\u868a\u9999\u6cf3\u58eb",
         "it": "Poliwrath",
-        "es": "Poliwrath"
+        "es": "Poliwrath",
+        "br": "Loavagenta\u00f1"
       }
     },
     "Primeape": {
@@ -128,7 +130,8 @@
         "zh_CN": "\u706b\u66b4\u7334",
         "zh_TW": "\u706b\u7206\u7334",
         "it": "Primeape",
-        "es": "Primeape"
+        "es": "Primeape",
+        "br": "Fulormouz"
       }
     },
     "Toxicroak": {
@@ -206,7 +209,8 @@
             "zh_CN": "\u98de\u817f\u90ce",
             "zh_TW": "\u98db\u817f\u90ce",
             "it": "Hitmonlee",
-            "es": "Hitmonlee"
+            "es": "Hitmonlee",
+            "br": "Taolzhin"
           },
           "is_different_character": true
         },
@@ -220,7 +224,8 @@
             "zh_CN": "\u5feb\u62f3\u90ce",
             "zh_TW": "\u5feb\u62f3\u90ce",
             "it": "Hitmonchan",
-            "es": "Hitmonchan"
+            "es": "Hitmonchan",
+            "br": "Taolverrou"
           },
           "is_different_character": true
         },
@@ -306,12 +311,12 @@
       }
     }
   },
-  "credits": "Box sprites from the mainline games from Generation 3-8\nEzerart for the Pok\u00e9mon Scarlet & Violet icons",
+  "credits": "Box sprites from the mainline games from Generation 3-8\nEzerart for the Pok\u00e9mon Scarlet & Violet icons\nBreton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
   "description": "Base config to use this game.",
   "name": "Pok\u00e9mon: Close Combat",
   "smashgg_game_id": 56300,
   "stage_to_codename": {},
-  "version": "25.08.19.37945",
+  "version": "25.09.16.68545",
   "alternate_versions": [
     {
       "name": null,

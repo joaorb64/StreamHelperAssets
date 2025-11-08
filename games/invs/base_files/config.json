@@ -10,9 +10,6 @@
     "Invincible": {
       "codename": "Invincible"
     },
-    "Lucan": {
-      "codename": "Lucan"
-    },
     "Omni-Man": {
       "codename": "OmniMan"
     },
@@ -24,6 +21,15 @@
     },
     "Battle Beast": {
       "codename": "BattleBeast"
+    },
+    "Cecil Steadman": {
+      "codename": "Cecil"
+    },
+    "Robot": {
+      "codename": "Robot"
+    },
+    "Monster Girl": {
+      "codename": "Amanda"
     }
   },
   "credits": "",
@@ -31,5 +37,9 @@
   "name": "Invincible VS",
   "smashgg_game_id": null,
   "stage_to_codename": {},
-  "version": "25.08.16.56351"
+  "version": "25.10.29.77641",
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 3
+  }
 }

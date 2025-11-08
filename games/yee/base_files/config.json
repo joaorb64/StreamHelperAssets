@@ -1,0 +1,66 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aja": {
+      "codename": "Aja"
+    },
+    "Azure": {
+      "codename": "Azure"
+    },
+    "Chadha": {
+      "codename": "Chadha"
+    },
+    "Crow": {
+      "codename": "Crow"
+    },
+    "Hanzo": {
+      "codename": "Hanzo"
+    },
+    "Hina": {
+      "codename": "Hina"
+    },
+    "Jet": {
+      "codename": "Jet"
+    },
+    "Juzu": {
+      "codename": "Juzu"
+    },
+    "Kotaro": {
+      "codename": "Kotaro"
+    },
+    "Kou": {
+      "codename": "Kou"
+    },
+    "Shimo": {
+      "codename": "Shimo"
+    },
+    "Wugui": {
+      "codename": "Wugui"
+    },
+    "Tienyi": {
+      "codename": "Tienyi"
+    },
+    "Sistan": {
+      "codename": "Sistan"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Yatagarasu: Enter the Eastward",
+  "smashgg_game_id": 62577,
+  "stage_to_codename": {},
+  "version": "25.09.17.66302",
+  "locale": {
+    "ja": {
+      "name": "\u30e4\u30bf\u30ac\u30e9\u30b9 Enter the Eastward"
+    }
+  },
+  "variant_to_codename": {
+    "Super 1": {
+      "codename": "Super1V"
+    },
+    "Super 2": {
+      "codename": "Super2V"
+    }
+  }
+}

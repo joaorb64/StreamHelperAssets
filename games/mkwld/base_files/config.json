@@ -250,6 +250,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Cataquack",
+        "ja": "\u30dd\u30a4\u30cf\u30ca",
+        "zh_CN": "\u629b\u629b\u82b1\u4ed4",
+        "zh_TW": "\u629b\u629b\u82b1\u4ed4",
+        "nl": "Cataquack",
+        "fr": "Catacouac",
+        "fr_CA": "Catacouac",
+        "de": "Kataquax",
+        "it": "Catapapero",
+        "ko": "\ub0a0\uaf43",
+        "pt_BR": "Cataquack",
+        "pt_PT": "Cataquack",
+        "ru": "\u041a\u0430\u0442\u0430\u043a\u0432\u0430\u043a",
+        "es": "Picocuac",
+        "es_LA": "Picocuac"
       }
     },
     "Chargin' Chuck": {
@@ -258,6 +275,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Chargin' Chuck",
+        "ja": "\u30d6\u30eb",
+        "zh_CN": "\u5e03\u9c81",
+        "zh_TW": "\u5e03\u9b6f",
+        "nl": "Chargin' Chuck",
+        "fr": "Bill Dozer",
+        "fr_CA": "Fred Lafonce",
+        "de": "Football-Chuck",
+        "it": "Plakkoopa",
+        "ko": "\ubd88",
+        "pt_BR": "Toni Trombada",
+        "pt_PT": "Demolikoopa",
+        "ru": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439 \u0427\u0430\u043a",
+        "es": "Placapum",
+        "es_LA": "Placapum"
       }
     },
     "Cheep Cheep": {
@@ -266,6 +300,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Cheep Cheep",
+        "ja": "\u30d7\u30af\u30d7\u30af",
+        "zh_CN": "\u6ce1\u6ce1\u9c7c",
+        "zh_TW": "\u6ce1\u6ce1\u9b5a",
+        "nl": "Cheep Cheep",
+        "fr": "Cheep Cheep",
+        "fr_CA": "Aquazo",
+        "de": "Cheep Cheep",
+        "it": "Pesce Smack",
+        "ko": "\ubf40\uafb8\ubf40\uafb8",
+        "pt_BR": "Cheep Cheep",
+        "pt_PT": "Cheep Cheep",
+        "ru": "\u0427\u0438\u043f-\u0447\u0438\u043f",
+        "es": "Cheep Cheep",
+        "es_LA": "Cheep Cheep"
       }
     },
     "Coin Coffer": {
@@ -274,6 +325,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Coin Coffer",
+        "ja": "\u30ac\u30de\u30cd\u30fc",
+        "zh_CN": "\u94b1\u5305\u86d9",
+        "zh_TW": "\u9322\u5305\u86d9",
+        "nl": "Coin Coffer",
+        "fr": "Crapognon",
+        "fr_CA": "Crapognon",
+        "de": "Kr\u00f6tsus",
+        "it": "Rospicciolo",
+        "ko": "\ub3c8\uaebc\ube44",
+        "pt_BR": "Jorramoeda",
+        "pt_PT": "Cospe Moedas",
+        "ru": "\u041a\u043e\u0448\u0435\u043b\u0435\u043a",
+        "es": "Monerrana",
+        "es_LA": "Monerrana"
       }
     },
     "Conkdor": {
@@ -282,6 +350,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Conkdor",
+        "ja": "\u30c4\u30c3\u30b3\u30f3\u30c9\u30eb",
+        "zh_CN": "\u5544\u5544\u9e6b",
+        "zh_TW": "\u5544\u5544\u9df2",
+        "nl": "Conkdor",
+        "fr": "Pico Condor",
+        "fr_CA": "Picondor",
+        "de": "Pickondor",
+        "it": "Kondorotto",
+        "ko": "\ucf55\ucf58\ub3c4\ub974",
+        "pt_BR": "Atacondor",
+        "pt_PT": "Picondor",
+        "ru": "\u041a\u043e\u043d\u0434\u043e\u0440\u0442\u044e\u043a",
+        "es": "Picac\u00f3ndor",
+        "es_LA": "Picac\u00f3ndor"
       }
     },
     "Cow": {
@@ -290,6 +375,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Cow",
+        "ja": "\u725b",
+        "zh_CN": "\u725b",
+        "zh_TW": "\u725b",
+        "nl": "Koe",
+        "fr_CA": "Vache",
+        "fr": "Vache",
+        "de": "Kuh",
+        "it": "Mucca",
+        "ko": "\uc816\uc18c",
+        "pt_BR": "Vaca",
+        "pt_PT": "Vaca",
+        "ru": "\u041a\u043e\u0440\u043e\u0432\u0430",
+        "es_LA": "Vaca",
+        "es": "Vaca"
       }
     },
     "Daisy": {
@@ -340,6 +442,22 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Dolphin",
+        "ja": "\u30ea\u30d5\u30c8\u30f3",
+        "zh_CN": "\u84dd\u6d77\u8c5a",
+        "zh_TW": "\u4fbf\u8eca\u6d77\u8c5a",
+        "nl": "Dolfijn",
+        "fr": "Dauphin",
+        "fr_CA": "Dauphin",
+        "de": "Delfin",
+        "it": "Delf\u00ec",
+        "ko": "\ub9ac\ud504\ud2bc",
+        "pt_BR": "Golfinho",
+        "pt_PT": "Golfinho",
+        "es": "Delf\u00edn",
+        "es_LA": "Delf\u00edn"
       }
     },
     "Donkey Kong": {
@@ -398,6 +516,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Fish Bone",
+        "ja": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30dc\u30fc\u30f3",
+        "zh_CN": "\u9c7c\u9aa8\u5934",
+        "zh_TW": "\u9b5a\u9aa8\u982d",
+        "nl": "Fish Bone",
+        "fr": "Ossec",
+        "fr_CA": "Poissonos",
+        "de": "Skelettfisch",
+        "it": "Pesce Lisca",
+        "ko": "\ud53c\uc2dc\ubcf8",
+        "pt_BR": "Espinhosso",
+        "pt_PT": "Espinhas",
+        "ru": "\u0420\u044b\u0431\u0430-\u0441\u043a\u0435\u043b\u0435\u0442",
+        "es": "Pezueso",
+        "es_LA": "Pezueso"
       }
     },
     "Goomba": {
@@ -406,6 +541,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Goomba",
+        "ja": "\u30af\u30ea\u30dc\u30fc",
+        "zh_CN": "\u6817\u5b9d\u5b9d",
+        "zh_TW": "\u6817\u5bf6\u5bf6",
+        "nl": "Goomba",
+        "fr": "Goomba",
+        "fr_CA": "Goomba",
+        "de": "Gumba",
+        "it": "Goomba",
+        "ko": "\uad7c\ubc14",
+        "pt_BR": "Goomba",
+        "pt_PT": "Goomba",
+        "ru": "\u0413\u0443\u043c\u0431\u0430",
+        "es": "Goomba",
+        "es_LA": "Goomba"
       }
     },
     "Hammer Bro": {
@@ -414,6 +566,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Hammer Bro",
+        "ja": "\u30cf\u30f3\u30de\u30fc\u30d6\u30ed\u30b9",
+        "zh_CN": "\u94c1\u9524\u5144\u5f1f",
+        "zh_TW": "\u9435\u939a\u5144\u5f1f",
+        "nl": "Hammer Bro",
+        "fr": "Fr\u00e8re Marto",
+        "fr_CA": "Fr\u00e8re Marto",
+        "de": "Hammer-Bruder",
+        "it": "Martelkoopa",
+        "ko": "\ud574\uba38\ube0c\ub7ec\uc2a4",
+        "pt_BR": "Irm\u00e3o Martelo",
+        "pt_PT": "Mano Martelo",
+        "ru": "\u0411\u0440\u0430\u0442\u0435\u0446-\u043c\u043e\u043b\u043e\u0442\u043e\u043a",
+        "es": "Hermano Martillo",
+        "es_LA": "Hermano Martillo"
       }
     },
     "King Boo": {
@@ -607,6 +776,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Monty Mole",
+        "ja": "\u30c1\u30e7\u30ed\u30d7\u30fc",
+        "zh_CN": "\u9ec4\u9f39\u9f20",
+        "zh_TW": "\u9ec3\u9f34\u9f20",
+        "nl": "Monty Mole",
+        "fr": "Topi Taupe",
+        "fr_CA": "Topi Taupe",
+        "de": "Monty Maulwurf",
+        "it": "Tantatalpa",
+        "ko": "\ucabc\ub974\ub69c",
+        "pt_BR": "Monty Toupeira",
+        "pt_PT": "Toupeira Monty",
+        "ru": "\u041a\u0440\u043e\u0442 \u041c\u043e\u043d\u0442\u0438",
+        "es": "Topo Monty",
+        "es_LA": "Topo Monty"
       }
     },
     "Nabbit": {
@@ -615,6 +801,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Nabbit",
+        "ja": "\u30c8\u30c3\u30c6\u30f3",
+        "zh_CN": "\u5077\u5929\u5154",
+        "zh_TW": "\u5077\u5929\u5154",
+        "nl": "Nabbit",
+        "fr_CA": "Chipin",
+        "fr": "Carottin",
+        "de": "Mopsie",
+        "it": "Ruboniglio",
+        "ko": "\ud1b3\ud150",
+        "pt_BR": "Ledr\u00e3o",
+        "pt_PT": "Coelhar\u00e1pio",
+        "ru": "\u041a\u0440\u0430\u043b\u0438\u043a",
+        "es_LA": "Caco Gazapo",
+        "es": "Caco Gazapo"
       }
     },
     "Para-Biddybud": {
@@ -623,6 +826,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Para-Biddybud",
+        "ja": "\u30d1\u30bf\u30c6\u30f3\u30c6\u30f3",
+        "zh_CN": "\u556a\u55d2\u74e2\u74e2",
+        "zh_TW": "\u98db\u884c\u74e2\u74e2",
+        "nl": "Para-Biddybud",
+        "fr_CA": "Paracoccinelly",
+        "fr": "Paracoccinelly",
+        "de": "Parap\u00fcnktchen",
+        "it": "Coccinello Volante",
+        "ko": "\ud384\ub7ed\ubb34\ub2f9\ubb34\ub2f9",
+        "pt_BR": "Parajoaninha",
+        "pt_PT": "Parajoaninha",
+        "ru": "\u041b\u0435\u0442\u0443\u0447\u0430\u044f \u043a\u0440\u0430\u043f\u0438\u043d\u043a\u0430",
+        "es_LA": "Catina Alada",
+        "es": "Marchimotas Alado"
       }
     },
     "Pauline": {
@@ -697,6 +917,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Peepa",
+        "ja": "\u30c6\u30ec\u30f3",
+        "zh_CN": "\u4e0d\u5bb3\u7f9e\u5e7d\u7075",
+        "zh_TW": "\u4e0d\u5bb3\u7f9e\u5e7d\u9748",
+        "nl": "Peepa",
+        "fr_CA": "Paltrak",
+        "fr": "Vache",
+        "de": "Spukmatz",
+        "it": "Ectobaldo",
+        "ko": "\uc548\ubd80\ub044",
+        "pt_BR": "Esbugalhado",
+        "pt_PT": "Fantasma",
+        "ru": "\u041f\u0443\u0447\u0435\u0433\u043b\u0430\u0437\u044b\u0439 \u043f\u0440\u0438\u0437\u0440\u0430\u043a",
+        "es_LA": "Fantasmir\u00f3n",
+        "es": "Fantasmir\u00f3n"
       }
     },
     "Penguin": {
@@ -705,6 +942,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Penguin",
+        "ja": "\u30da\u30f3\u30ae\u30f3",
+        "zh_CN": "\u4f01\u9e45",
+        "zh_TW": "\u4f01\u9d5d",
+        "nl": "Pingu\u00efn",
+        "fr_CA": "Pingouin",
+        "fr": "Pingouin",
+        "de": "Pinguin",
+        "it": "Pinguotto",
+        "ko": "\ud3ad\uadc4",
+        "pt_BR": "Pinguim",
+        "pt_PT": "Pinguim",
+        "ru": "\u041f\u0438\u043d\u0433\u0432\u0438\u043d",
+        "es_LA": "Ping\u00fcino",
+        "es": "Ping\u00fcino"
       }
     },
     "Pianta": {
@@ -713,6 +967,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Pianta",
+        "ja": "\u30e2\u30f3\u30c6",
+        "zh_CN": "\u8499\u7279",
+        "zh_TW": "\u8499\u7279",
+        "nl": "Pianta",
+        "fr_CA": "Pianta",
+        "fr": "Pianta",
+        "de": "Palma",
+        "it": "Palmense",
+        "ko": "\ubaac\ud14c",
+        "pt_BR": "Pianta",
+        "pt_PT": "Pianta",
+        "ru": "\u041f\u0430\u043b\u044c\u043c\u0430",
+        "es_LA": "Pianta",
+        "es": "Forestano"
       }
     },
     "Piranha Plant": {
@@ -745,6 +1016,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Pokey",
+        "ja": "\u30b5\u30f3\u30dc",
+        "zh_CN": "\u4ed9\u4eba\u523a\u7403",
+        "zh_TW": "\u523a\u7403\u4e38\u5b50",
+        "nl": "Pokey",
+        "fr_CA": "Pokey",
+        "fr": "Pokey",
+        "de": "Pokey",
+        "it": "Marghibruco",
+        "ko": "\uc120\uc778",
+        "pt_BR": "Cactubola",
+        "pt_PT": "Catubola",
+        "ru": "\u041f\u043e\u043a\u0438",
+        "es_LA": "Pokey",
+        "es": "Pokey"
       }
     },
     "Rocky Wrench": {
@@ -753,6 +1041,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Rocky Wrench",
+        "ja": "\u30d7\u30fc",
+        "zh_CN": "\u6273\u624b\u4ed4",
+        "zh_TW": "\u6273\u624b\u4ed4",
+        "nl": "Rocky Wrench",
+        "fr_CA": "Mogu",
+        "fr": "Torti Taupe",
+        "de": "Rocky Schraubschl\u00fcssel",
+        "it": "Tartatalpa",
+        "ko": "\ub69c",
+        "pt_BR": "Rocky Toupeira",
+        "pt_PT": "Toupeira Rocky",
+        "ru": "\u0420\u043e\u043a\u0438-\u043a\u043b\u044e\u0447",
+        "es_LA": "Topo Rocky",
+        "es": "Tortopo"
       }
     },
     "Rosalina": {
@@ -818,6 +1123,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Sidestepper",
+        "ja": "\u30ab\u30cb",
+        "zh_CN": "\u8783\u87f9",
+        "zh_TW": "\u8783\u87f9",
+        "nl": "Sidestepper",
+        "fr_CA": "Zarbipas",
+        "fr": "Zarbipas",
+        "de": "Krabbe",
+        "it": "Granchio",
+        "ko": "\uac8c\ub2d8",
+        "pt_BR": "Caranguejo",
+        "pt_PT": "Caranguejo",
+        "ru": "\u0411\u043e\u043a\u043e\u0445\u043e\u0434",
+        "es_LA": "Flancogrejo",
+        "es": "Cangrejo"
       }
     },
     "Snowman": {
@@ -826,6 +1148,22 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Snowman",
+        "ja": "\u3086\u304d\u3060\u308b\u307e",
+        "zh_CN": "\u96ea\u4eba",
+        "zh_TW": "\u96ea\u4eba",
+        "nl": "Sneeuwpop",
+        "fr_CA": "Bonhomme de neige",
+        "fr": "Bonhomme de neige",
+        "de": "Schneemann",
+        "it": "Pupazzo di neve",
+        "ko": "\ub208\uc0ac\ub78c",
+        "pt_BR": "Boneco de neve",
+        "pt_PT": "Boneco de neve",
+        "es_LA": "Mu\u00f1eco de nieve",
+        "es": "Mu\u00f1eco de nieve"
       }
     },
     "Spike": {
@@ -852,6 +1190,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Stingby",
+        "ja": "\u30cf\u30c3\u30c1\u30f3",
+        "zh_CN": "\u53ee\u53ee\u8702",
+        "zh_TW": "\u53ee\u53ee\u8702",
+        "nl": "Stingby",
+        "fr_CA": "Butitine",
+        "fr": "Butitine",
+        "de": "Summser",
+        "it": "Apiciccia",
+        "ko": "\ub531\ub054",
+        "pt_BR": "Zang\u00e3o",
+        "pt_PT": "Zumbida",
+        "ru": "\u0416\u0443\u0436\u0436\u0430\u043b\u043e",
+        "es_LA": "Abejorro",
+        "es": "Abejorro"
       }
     },
     "Swoop": {
@@ -860,6 +1215,23 @@
         "0": {
           "name": "Default"
         }
+      },
+      "locale": {
+        "en_GB": "Swoop",
+        "ja": "\u30d0\u30b5\u30d0\u30b5",
+        "zh_CN": "\u556a\u6c99\u556a\u6c99\u8759\u8760",
+        "zh_TW": "\u556a\u6c99\u556a\u6c99\u8759\u8760",
+        "nl": "Swoop",
+        "fr_CA": "Swoopa",
+        "fr": "Swooper",
+        "de": "Flappflapp",
+        "it": "Swooper",
+        "ko": "\uc2a4\uc6b0\ud478",
+        "pt_BR": "S\u00fabito",
+        "pt_PT": "Morcego",
+        "ru": "\u041f\u0438\u043a\u0438\u0440\u043e\u0432\u0449\u0438\u043a",
+        "es_LA": "Vamp\u00edlago",
+        "es": "Swooper"
       }
     },
     "Toad": {
@@ -1155,5 +1527,5 @@
       "codename": "RainbowRoad"
     }
   },
-  "version": "25.08.09.53258"
+  "version": "25.09.28.64141"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Super Smash Bros Ultimate",
+  "name": "Super Smash Bros. Ultimate",
   "locale": {
     "ja": {
       "name": "\u5927\u4e71\u95d8\u30b9\u30de\u30c3\u30b7\u30e5\u30d6\u30e9\u30b6\u30fc\u30ba SPECIAL"
@@ -194,7 +194,8 @@
         "ru": "\u041f\u0438\u043a\u0430\u0447\u0443",
         "ko": "\ud53c\uce74\uce04",
         "zh_TW": "\u76ae\u5361\u4e18",
-        "zh_CN": "\u76ae\u5361\u4e18"
+        "zh_CN": "\u76ae\u5361\u4e18",
+        "br": "Luc\u2019hodenn"
       }
     },
     "Luigi": {
@@ -274,7 +275,8 @@
         "ru": "\u0414\u0436\u0438\u0433\u043b\u0438\u043f\u0430\u0444\u0444",
         "ko": "\ud478\ub9b0",
         "zh_TW": "\u80d6\u4e01",
-        "zh_CN": "\u80d6\u4e01"
+        "zh_CN": "\u80d6\u4e01",
+        "br": "Wasteljen"
       }
     },
     "Peach": {
@@ -554,7 +556,8 @@
         "ru": "\u041c\u044c\u044e\u0442\u0443",
         "ko": "\ubba4\uce20",
         "zh_TW": "\u8d85\u5922",
-        "zh_CN": "\u8d85\u68a6"
+        "zh_CN": "\u8d85\u68a6",
+        "br": "Diogemm"
       }
     },
     "Roy": {
@@ -3899,7 +3902,7 @@
       }
     }
   },
-  "version": "25.05.29.53857",
+  "version": "25.10.02.62358",
   "description": "Base config to use this game.",
   "preset_colors": [
     {
@@ -3976,5 +3979,6 @@
       "smashgg_game_id": 34157,
       "logo_path": "logo_hdr.png"
     }
-  ]
+  ],
+  "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)"
 }

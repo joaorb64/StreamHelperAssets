@@ -170,6 +170,73 @@
   "description": "Base config to use this game.",
   "name": "Tekken 8",
   "smashgg_game_id": 49783,
-  "stage_to_codename": {},
-  "version": "25.08.21.51901"
+  "stage_to_codename": {
+    "Arena": {
+      "codename": "Arena"
+    },
+    "Arena (Underground)": {
+      "codename": "ArenaUnderground"
+    },
+    "Urban Square (Evening)": {
+      "codename": "UrbanSquareEvening"
+    },
+    "Urban Square": {
+      "codename": "UrbanSquare"
+    },
+    "Yakushima": {
+      "codename": "Yakushima"
+    },
+    "Coliseum of Fate": {
+      "codename": "ColiseumofFate"
+    },
+    "Rebel Hangar": {
+      "codename": "RebelHangar"
+    },
+    "Fallen Destiny": {
+      "codename": "FallenDestiny"
+    },
+    "Descent into Subconscious": {
+      "codename": "DescentintoSubconscious"
+    },
+    "Sanctum": {
+      "codename": "Sanctum"
+    },
+    "Into the Stratosphere": {
+      "codename": "IntotheStratosphere"
+    },
+    "Ortiz Farm": {
+      "codename": "OrtizFarm"
+    },
+    "Celebration on the Seine": {
+      "codename": "CelebrationontheSeine"
+    },
+    "Secluded Training Ground": {
+      "codename": "SecludedTrainingGround"
+    },
+    "Elegant Palace": {
+      "codename": "ElegantPalace"
+    },
+    "Midnight Siege": {
+      "codename": "MidnightSiege"
+    },
+    "Beach Side (Tekken Ball)": {
+      "codename": "BeachSide"
+    },
+    "Seaside Resort": {
+      "codename": "SeasideResort"
+    },
+    "Genmaji Temple": {
+      "codename": "GenmajiTemple"
+    },
+    "Genmaji Temple (Daytime)": {
+      "codename": "GenmajiTempledaytime"
+    },
+    "Phoenix Gate": {
+      "codename": "PhoenixGate"
+    },
+    "Pac-Pixels": {
+      "codename": "PacPixels"
+    }
+  },
+  "version": "25.10.13.60988"
 }

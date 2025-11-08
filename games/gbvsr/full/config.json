@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
-  "version": "25.08.16.56351",
+  "version": "25.10.14.69165",
   "uncropped_edge": [
     "l",
     "r"
@@ -254,6 +254,12 @@
         "x": 1653,
         "y": 511
       }
+    },
+    "Meg": {
+      "0": {
+        "x": 1954,
+        "y": 559
+      }
     }
   },
   "rescaling_factor": {
@@ -262,8 +268,8 @@
     }
   },
   "average_size": {
-    "x": 2301.1809523809525,
-    "y": 2239.595238095238
+    "x": 2327.2000000000003,
+    "y": 2239.8837209302324
   },
   "image_sizes": {
     "2B": {
@@ -391,6 +397,12 @@
     "Lucilius": {
       "0": {
         "x": 3454,
+        "y": 2252
+      }
+    },
+    "Meg": {
+      "0": {
+        "x": 3420,
         "y": 2252
       }
     },

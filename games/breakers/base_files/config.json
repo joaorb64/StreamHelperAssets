@@ -37,7 +37,7 @@
   "name": "Breakers Revenge",
   "smashgg_game_id": 33669,
   "stage_to_codename": {},
-  "version": "25.05.29.53856",
+  "version": "25.10.31.80607",
   "locale": {
     "ja": {
       "name": "\u30d6\u30ec\u30a4\u30ab\u30fc\u30ba\u30ea\u30d9\u30f3\u30b8"
@@ -54,5 +54,16 @@
       "smashgg_game_id": null,
       "logo_path": null
     }
-  ]
+  ],
+  "variant_to_codename": {
+    "Revenge": {
+      "codename": "Revenge"
+    },
+    "Chicago": {
+      "codename": "Chicago"
+    },
+    "Extra": {
+      "codename": "Extra"
+    }
+  }
 }

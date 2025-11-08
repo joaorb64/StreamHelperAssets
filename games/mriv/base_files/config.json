@@ -4,11 +4,17 @@
     "Adam Warlock": {
       "codename": "AdamWarlock"
     },
+    "Angela": {
+      "codename": "Angela"
+    },
     "Black Panther": {
       "codename": "BlackPanther"
     },
     "Black Widow": {
       "codename": "BlackWidow"
+    },
+    "Blade": {
+      "codename": "Blade"
     },
     "Captain America": {
       "codename": "CaptainAmerica"
@@ -18,6 +24,9 @@
     },
     "Doctor Strange": {
       "codename": "DoctorStrange"
+    },
+    "Emma Frost": {
+      "codename": "Emma"
     },
     "Groot": {
       "codename": "Groot"
@@ -31,11 +40,20 @@
     "Hulk": {
       "codename": "Hulk"
     },
+    "Human Torch": {
+      "codename": "Johnny"
+    },
+    "Invisible Woman": {
+      "codename": "InvWoman"
+    },
     "Iron Fist": {
       "codename": "IronFist"
     },
     "Iron Man": {
       "codename": "IronMan"
+    },
+    "Jean Grey": {
+      "codename": "Phoenix"
     },
     "Jeff the Land Shark": {
       "codename": "JefftheLandShark"
@@ -55,6 +73,9 @@
     "Mantis": {
       "codename": "Mantis"
     },
+    "Mister Fantastic": {
+      "codename": "MFantastic"
+    },
     "Moon Knight": {
       "codename": "MoonKnight"
     },
@@ -66,9 +87,6 @@
     },
     "Psylocke": {
       "codename": "Psylocke"
-    },
-    "Punisher": {
-      "codename": "Punisher"
     },
     "Rocket Raccoon": {
       "codename": "RocketRaccoon"
@@ -88,8 +106,17 @@
     "Storm": {
       "codename": "Storm"
     },
+    "The Punisher": {
+      "codename": "Punisher"
+    },
+    "The Thing": {
+      "codename": "Thing"
+    },
     "Thor": {
       "codename": "Thor"
+    },
+    "Ultron": {
+      "codename": "Ultron"
     },
     "Venom": {
       "codename": "Venom"
@@ -99,28 +126,16 @@
     },
     "Wolverine": {
       "codename": "Wolverine"
-    },
-    "Mister Fantastic": {
-      "codename": "MFantastic"
-    },
-    "Invisible Woman": {
-      "codename": "InvWoman"
-    },
-    "The Thing": {
-      "codename": "Thing"
-    },
-    "Human Torch": {
-      "codename": "Johnny"
     }
   },
   "credits": "Assets ripped from https://www.marvelrivals.com/heroes/index.html",
+  "defaults": {
+    "characters_per_player": 1,
+    "players_per_team": 6
+  },
   "description": "Base config to use this game.",
   "name": "Marvel Rivals",
   "smashgg_game_id": 80355,
   "stage_to_codename": {},
-  "version": "25.05.29.53856",
-  "defaults": {
-    "players_per_team": 6,
-    "characters_per_player": 1
-  }
+  "version": "25.10.01.68377"
 }

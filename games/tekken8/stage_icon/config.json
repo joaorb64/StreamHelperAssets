@@ -1,0 +1,148 @@
+{
+  "name": "Stage Icons",
+  "version": "25.10.13.60988",
+  "description": "Stage icons",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "stage_icon"
+  ],
+  "image_sizes": {
+    "Arena": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "ArenaUnderground": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "BeachSide": {
+      "null": {
+        "x": 340,
+        "y": 180
+      }
+    },
+    "CelebrationontheSeine": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "ColiseumofFate": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "DescentintoSubconscious": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "ElegantPalace": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "FallenDestiny": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "GenmajiTemple": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "GenmajiTempledaytime": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "IntotheStratosphere": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "MidnightSiege": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "OrtizFarm": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "PacPixels": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "PhoenixGate": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "RebelHangar": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "Sanctum": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "SeasideResort": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "SecludedTrainingGround": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "UrbanSquare": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "UrbanSquareEvening": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "Yakushima": {
+      "null": {
+        "x": 2560,
+        "y": 1440
+      }
+    }
+  },
+  "average_size": {
+    "x": 2459.090909090909,
+    "y": 1382.7272727272727
+  }
+}

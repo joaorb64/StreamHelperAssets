@@ -32,6 +32,18 @@
     "Vi": {
       "codename": "Vi",
       "smashgg_name": "Vi"
+    },
+    "Blitzcrank": {
+      "codename": "Blitzcrank",
+      "smashgg_name": "Blitzcrank"
+    },
+    "Teemo": {
+      "codename": "Teemo",
+      "smashgg_name": "Teemo"
+    },
+    "Warwick": {
+      "codename": "Warwick",
+      "smashgg_name": "Warwick"
     }
   },
   "credits": "Ripped from https://2xko.riotgames.com/en-us/",
@@ -39,9 +51,41 @@
   "name": "2XKO",
   "smashgg_game_id": 64423,
   "stage_to_codename": {},
-  "version": "25.08.20.56601",
+  "version": "25.11.07.2808",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1
+  },
+  "variant_to_codename": {
+    "2X Assist": {
+      "codename": "2XAssistV",
+      "locale": {
+        "fr": "2X Assistances"
+      }
+    },
+    "Double Down": {
+      "codename": "DoubleDownV",
+      "locale": {
+        "fr": "Quitte ou Double"
+      }
+    },
+    "Freestyle": {
+      "codename": "FreestyleV",
+      "locale": {
+        "fr": "Freestyle"
+      }
+    },
+    "Juggernaut": {
+      "codename": "JuggernautV",
+      "locale": {
+        "fr": "Colosse"
+      }
+    },
+    "Sidekick": {
+      "codename": "SidekickV",
+      "locale": {
+        "fr": "Acolyte"
+      }
+    }
   }
 }

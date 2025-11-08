@@ -1,0 +1,375 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Bandana Dee": {
+      "codename": "BandanaDee"
+    },
+    "Black Mage": {
+      "codename": "BlackMage"
+    },
+    "Bomberman": {
+      "codename": "Bomberman"
+    },
+    "Bowser": {
+      "codename": "Bowser"
+    },
+    "Captain Falcon": {
+      "codename": "CaptainFalcon"
+    },
+    "Chibi-Robo": {
+      "codename": "ChibiRobo"
+    },
+    "Donkey Kong": {
+      "codename": "DonkeyKong"
+    },
+    "Falco": {
+      "codename": "Falco"
+    },
+    "Fox": {
+      "codename": "Fox"
+    },
+    "Ganondorf": {
+      "codename": "Ganondorf"
+    },
+    "Goku": {
+      "codename": "Goku"
+    },
+    "Ichigo": {
+      "codename": "Ichigo"
+    },
+    "Isaac": {
+      "codename": "Isaac"
+    },
+    "Jigglypuff": {
+      "codename": "Jigglypuff"
+    },
+    "King Dedede": {
+      "codename": "KingDedede"
+    },
+    "Kirby": {
+      "codename": "Kirby"
+    },
+    "Krystal": {
+      "codename": "Krystal"
+    },
+    "Link": {
+      "codename": "Link"
+    },
+    "Lloyd": {
+      "codename": "Lloyd"
+    },
+    "Lucario": {
+      "codename": "Lucario"
+    },
+    "Luffy": {
+      "codename": "Luffy"
+    },
+    "Luigi": {
+      "codename": "Luigi"
+    },
+    "Mario": {
+      "codename": "Mario"
+    },
+    "Marth": {
+      "codename": "Marth"
+    },
+    "Mega Man": {
+      "codename": "MegaMan"
+    },
+    "Meta Knight": {
+      "codename": "MetaKnight"
+    },
+    "Mr. Game & Watch": {
+      "codename": "MrGameWatch"
+    },
+    "Naruto": {
+      "codename": "Naruto"
+    },
+    "Ness": {
+      "codename": "Ness"
+    },
+    "Pac-Man": {
+      "codename": "PacMan"
+    },
+    "Peach": {
+      "codename": "Peach"
+    },
+    "Pichu": {
+      "codename": "Pichu"
+    },
+    "Pikachu": {
+      "codename": "Pikachu"
+    },
+    "Pit": {
+      "codename": "Pit"
+    },
+    "Rayman": {
+      "codename": "Rayman"
+    },
+    "Ryu": {
+      "codename": "Ryu"
+    },
+    "Samus": {
+      "codename": "Samus"
+    },
+    "Sandbag": {
+      "codename": "Sandbag"
+    },
+    "Sheik": {
+      "codename": "Sheik"
+    },
+    "Simon": {
+      "codename": "Simon"
+    },
+    "Sonic": {
+      "codename": "Sonic"
+    },
+    "Sora": {
+      "codename": "Sora"
+    },
+    "Tails": {
+      "codename": "Tails"
+    },
+    "Waluigi": {
+      "codename": "Waluigi"
+    },
+    "Wario": {
+      "codename": "Wario"
+    },
+    "Yoshi": {
+      "codename": "Yoshi"
+    },
+    "Zelda": {
+      "codename": "Zelda"
+    },
+    "Zero Suit Samus": {
+      "codename": "ZeroSuitSamus"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Super Smash Flash 2",
+  "smashgg_game_id": 3536,
+  "stage_to_codename": {
+    "Battlefield": {
+      "codename": "Battlefield"
+    },
+    "Final Destination": {
+      "codename": "FinalDestination"
+    },
+    "Multi-Man Battlefield": {
+      "codename": "MultiManBattlefield"
+    },
+    "Polygon Zone": {
+      "codename": "PolygonZone"
+    },
+    "Galaxy Tours": {
+      "codename": "GalaxyTours"
+    },
+    "Bowser's Castle": {
+      "codename": "BowsersCastle"
+    },
+    "Mushroom Kingdom III": {
+      "codename": "MushroomKingdomIII"
+    },
+    "Mushroom Kingdom II": {
+      "codename": "MushroomKingdomII"
+    },
+    "Princess Peach's Castle": {
+      "codename": "PrincessPeachsCastle"
+    },
+    "Jungle Hijinx": {
+      "codename": "JungleHijinx"
+    },
+    "Gangplank Galleon": {
+      "codename": "GangplankGalleon"
+    },
+    "Yoshi's Island": {
+      "codename": "YoshisIsland"
+    },
+    "Super Happy Tree": {
+      "codename": "SuperHappyTree"
+    },
+    "Yoshi's Story": {
+      "codename": "YoshisStory"
+    },
+    "Palm Tree Paradise": {
+      "codename": "PalmTreeParadise"
+    },
+    "WarioWare, Inc.": {
+      "codename": "WarioWare,Inc"
+    },
+    "Hylian Skies": {
+      "codename": "HylianSkies"
+    },
+    "Clock Town": {
+      "codename": "ClockTown"
+    },
+    "Temple": {
+      "codename": "Temple"
+    },
+    "Palace of Twilight": {
+      "codename": "PalaceofTwilight"
+    },
+    "Crateria": {
+      "codename": "Crateria"
+    },
+    "Planet SR388": {
+      "codename": "PlanetSR388"
+    },
+    "Rainbow Route": {
+      "codename": "RainbowRoute"
+    },
+    "Dream Land": {
+      "codename": "DreamLand"
+    },
+    "Butter Building": {
+      "codename": "ButterBuilding"
+    },
+    "Dedede's Arena": {
+      "codename": "DededesArena"
+    },
+    "Meteo Campaigns": {
+      "codename": "MeteoCampaigns"
+    },
+    "Sector Z": {
+      "codename": "SectorZ"
+    },
+    "Pok\u00e9mon Colosseum": {
+      "codename": "Pok\u00e9monColosseum"
+    },
+    "Lake of Rage": {
+      "codename": "LakeofRage"
+    },
+    "Snowpoint Temple": {
+      "codename": "SnowpointTemple"
+    },
+    "Saturn Valley": {
+      "codename": "SaturnValley"
+    },
+    "Fourside": {
+      "codename": "Fourside"
+    },
+    "Sand Ocean": {
+      "codename": "SandOcean"
+    },
+    "Castle Siege": {
+      "codename": "CastleSiege"
+    },
+    "Flat Zone +": {
+      "codename": "FlatZone+"
+    },
+    "Palutena's Shrine": {
+      "codename": "PalutenasShrine"
+    },
+    "Venus Lighthouse": {
+      "codename": "VenusLighthouse"
+    },
+    "Desk": {
+      "codename": "Desk"
+    },
+    "Smashville": {
+      "codename": "Smashville"
+    },
+    "Nintendo 3DS": {
+      "codename": "Nintendo3DS"
+    },
+    "Dracula's Castle": {
+      "codename": "DraculasCastle"
+    },
+    "Bomb Factory": {
+      "codename": "BombFactory"
+    },
+    "Casino Night Zone": {
+      "codename": "CasinoNightZone"
+    },
+    "Sky Sanctuary Zone": {
+      "codename": "SkySanctuaryZone"
+    },
+    "Green Hill Zone": {
+      "codename": "GreenHillZone"
+    },
+    "Jungle Island": {
+      "codename": "JungleIsland"
+    },
+    "Skull Fortress": {
+      "codename": "SkullFortress"
+    },
+    "Central Highway": {
+      "codename": "CentralHighway"
+    },
+    "Suzaku Castle": {
+      "codename": "SuzakuCastle"
+    },
+    "Pac-Maze": {
+      "codename": "PacMaze"
+    },
+    "Tower of Salvation": {
+      "codename": "TowerofSalvation"
+    },
+    "Chaos Shrine": {
+      "codename": "ChaosShrine"
+    },
+    "Lunar Core": {
+      "codename": "LunarCore"
+    },
+    "Twilight Town": {
+      "codename": "TwilightTown"
+    },
+    "Fairy Glade": {
+      "codename": "FairyGlade"
+    },
+    "Planet Namek": {
+      "codename": "PlanetNamek"
+    },
+    "Thousand Sunny": {
+      "codename": "ThousandSunny"
+    },
+    "Hidden Leaf Village": {
+      "codename": "HiddenLeafVillage"
+    },
+    "Hueco Mundo": {
+      "codename": "HuecoMundo"
+    },
+    "Meta Crystal": {
+      "codename": "MetaCrystal"
+    },
+    "Waiting Room": {
+      "codename": "WaitingRoom"
+    },
+    "Mushroom Kingdom": {
+      "codename": "MushroomKingdom"
+    },
+    "Hyrule Castle": {
+      "codename": "HyruleCastle"
+    },
+    "Krazoa Palace": {
+      "codename": "KrazoaPalace"
+    },
+    "Saffron City": {
+      "codename": "SaffronCity"
+    },
+    "Sky Pillar": {
+      "codename": "SkyPillar"
+    },
+    "Devil's Machine": {
+      "codename": "DevilsMachine"
+    },
+    "Urban Champion": {
+      "codename": "UrbanChampion"
+    },
+    "Steel Diver": {
+      "codename": "SteelDiver"
+    },
+    "The World That Never Was": {
+      "codename": "TheWorldThatNeverWas"
+    },
+    "World Tournament": {
+      "codename": "WorldTournament"
+    },
+    "Final Valley": {
+      "codename": "FinalValley"
+    }
+  },
+  "version": "25.10.29.81670"
+}

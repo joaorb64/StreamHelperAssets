@@ -1,0 +1,49 @@
+{
+  "name": "Thrill Kill",
+  "smashgg_game_id": 5653,
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Tormentor": {
+      "codename": "Tormentor"
+    },
+    "Oddball": {
+      "codename": "Oddball"
+    },
+    "Belladonna": {
+      "codename": "Belladonna"
+    },
+    "DrFaustus": {
+      "codename": "DrFaustus"
+    },
+    "TheImp": {
+      "codename": "TheImp"
+    },
+    "Violet": {
+      "codename": "Violet"
+    },
+    "Cleetus": {
+      "codename": "Cleetus"
+    },
+    "Cain": {
+      "codename": "Cain"
+    },
+    "Judas": {
+      "codename": "Judas"
+    },
+    "Marukka": {
+      "codename": "Marukka"
+    },
+    "Mammoth": {
+      "codename": "Mammoth"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "25.10.01.65049",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Thrill Kill (1998) by Paradox Development",
+  "locale": {
+    "ja": {
+      "name": "\u30b9\u30ea\u30eb\u30ad\u30eb"
+    }
+  }
+}

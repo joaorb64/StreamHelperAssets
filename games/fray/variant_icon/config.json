@@ -1,0 +1,245 @@
+{
+  "name": "Assists",
+  "version": "25.09.19.51369",
+  "description": "Assist icons\nRequires TSH 5.92 or higher to be used",
+  "credits": "Ripped from https://mcleodgaming.fandom.com/wiki/Assist",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "image_sizes": {
+    "AineV": {
+      "null": {
+        "x": 201,
+        "y": 53
+      }
+    },
+    "BirthdayV": {
+      "null": {
+        "x": 147,
+        "y": 53
+      }
+    },
+    "CadenceV": {
+      "null": {
+        "x": 185,
+        "y": 53
+      }
+    },
+    "CaptainViridianV": {
+      "null": {
+        "x": 68,
+        "y": 53
+      }
+    },
+    "CommanderVideoV": {
+      "null": {
+        "x": 182,
+        "y": 53
+      }
+    },
+    "DiogenesV": {
+      "null": {
+        "x": 117,
+        "y": 53
+      }
+    },
+    "FancyPantsManV": {
+      "null": {
+        "x": 169,
+        "y": 53
+      }
+    },
+    "GunmanCliveV": {
+      "null": {
+        "x": 190,
+        "y": 53
+      }
+    },
+    "HatKidV": {
+      "null": {
+        "x": 203,
+        "y": 53
+      }
+    },
+    "JosefV": {
+      "null": {
+        "x": 185,
+        "y": 53
+      }
+    },
+    "KabbuV": {
+      "null": {
+        "x": 166,
+        "y": 53
+      }
+    },
+    "KraggV": {
+      "null": {
+        "x": 281,
+        "y": 53
+      }
+    },
+    "LadyLuckV": {
+      "null": {
+        "x": 151,
+        "y": 53
+      }
+    },
+    "LeaV": {
+      "null": {
+        "x": 241,
+        "y": 53
+      }
+    },
+    "LeifV": {
+      "null": {
+        "x": 129,
+        "y": 53
+      }
+    },
+    "MustacheGirlV": {
+      "null": {
+        "x": 272,
+        "y": 53
+      }
+    },
+    "NikandreosV": {
+      "null": {
+        "x": 139,
+        "y": 53
+      }
+    },
+    "NikoV": {
+      "null": {
+        "x": 272,
+        "y": 53
+      }
+    },
+    "OctodadV": {
+      "null": {
+        "x": 154,
+        "y": 53
+      }
+    },
+    "OrcaneV": {
+      "null": {
+        "x": 150,
+        "y": 53
+      }
+    },
+    "PeppinoV": {
+      "null": {
+        "x": 181,
+        "y": 53
+      }
+    },
+    "PizzaV": {
+      "null": {
+        "x": 204,
+        "y": 53
+      }
+    },
+    "RhythmDoctorV": {
+      "null": {
+        "x": 199,
+        "y": 53
+      }
+    },
+    "RockmanV": {
+      "null": {
+        "x": 213,
+        "y": 53
+      }
+    },
+    "SnatcherV": {
+      "null": {
+        "x": 272,
+        "y": 53
+      }
+    },
+    "StardropV": {
+      "null": {
+        "x": 175,
+        "y": 53
+      }
+    },
+    "SuperHexagonV": {
+      "null": {
+        "x": 188,
+        "y": 53
+      }
+    },
+    "TankmanV": {
+      "null": {
+        "x": 183,
+        "y": 53
+      }
+    },
+    "TheApeV": {
+      "null": {
+        "x": 133,
+        "y": 53
+      }
+    },
+    "TheBardV": {
+      "null": {
+        "x": 196,
+        "y": 53
+      }
+    },
+    "TheCrewmateV": {
+      "null": {
+        "x": 166,
+        "y": 53
+      }
+    },
+    "TheKidV": {
+      "null": {
+        "x": 207,
+        "y": 53
+      }
+    },
+    "TheShopkeeperV": {
+      "null": {
+        "x": 138,
+        "y": 52
+      }
+    },
+    "TheSilentV": {
+      "null": {
+        "x": 195,
+        "y": 53
+      }
+    },
+    "TheWatcherV": {
+      "null": {
+        "x": 272,
+        "y": 53
+      }
+    },
+    "UltraFishbunjin3000V": {
+      "null": {
+        "x": 250,
+        "y": 53
+      }
+    },
+    "ViV": {
+      "null": {
+        "x": 216,
+        "y": 53
+      }
+    },
+    "WelltaroV": {
+      "null": {
+        "x": 147,
+        "y": 53
+      }
+    }
+  },
+  "average_size": {
+    "x": 187.81578947368422,
+    "y": 52.973684210526315
+  }
+}

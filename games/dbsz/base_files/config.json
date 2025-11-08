@@ -332,6 +332,9 @@
       "skin_name": {
         "1": {
           "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Super Saiyan 4"
         }
       }
     },
@@ -792,6 +795,36 @@
     },
     "Shallot": {
       "codename": "Shallot"
+    },
+    "Majin Duu": {
+      "codename": "Duu"
+    },
+    "Gomah": {
+      "codename": "Gomah",
+      "skin_name": {
+        "0": {
+          "name": "Third Eye Gomah"
+        },
+        "1": {
+          "name": "Giant Gomah"
+        }
+      }
+    },
+    "Goku (Daima)": {
+      "codename": "GokuDaima",
+      "skin_name": {
+        "0": {
+          "name": "Super Saiyan 4"
+        }
+      }
+    },
+    "Vegeta (Daima)": {
+      "codename": "VegetaDaima",
+      "skin_name": {
+        "0": {
+          "name": "Super Saiyan 3"
+        }
+      }
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/",
@@ -799,5 +832,5 @@
   "name": "Dragon Ball: Sparking! Zero",
   "smashgg_game_id": 73208,
   "stage_to_codename": {},
-  "version": "25.06.29.52772"
+  "version": "25.09.19.54197"
 }

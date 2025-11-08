@@ -20,7 +20,14 @@ for path in list_csv:
         for i in range(1, len(header_line)):
             print(header_line[i])
             for data_line in data:
-                character_data = config_json["character_to_codename"][header_line[i]]
+                if "pkmn.csv" not in path:
+                    character_data = config_json["character_to_codename"][header_line[i]]
+                    character_name = header_line[i]
+                else:
+                    for character_name in config_json["character_to_codename"].keys():
+                        if int(config_json["character_to_codename"][character_name].get("codename")) == int(header_line[i]):
+                            character_data = config_json["character_to_codename"][character_name]
+                            break
                 skin_data = character_data.get("skin_name")
                 skin_names = data_line.strip().split(",")
                 skin_name = skin_names[i]
@@ -32,7 +39,7 @@ for path in list_csv:
                         character_data["skin_name"][skin_names[0]]["name"] = skin_name
                     else:
                         character_data["skin_name"][skin_names[0]] = {"name": skin_name}
-                config_json["character_to_codename"][header_line[i]] = character_data
+                config_json["character_to_codename"][character_name] = character_data
 
     with open(config_path, "wt", encoding="utf-8") as config_file:
         config_file.write(json.dumps(config_json, indent=2))

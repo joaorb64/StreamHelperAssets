@@ -5142,7 +5142,7 @@
       "codename": "bonerattle"
     }
   },
-  "version": "25.06.13.70363",
+  "version": "25.10.28.85051",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
@@ -5266,9 +5266,19 @@
       "value": "caba21"
     },
     {
-      "name": "Color Lock - Blue",
+      "name": "Color Lock - Blue 1",
       "value": "502eba",
       "force_opponent": "caba21"
+    },
+    {
+      "name": "Color Lock - Orange",
+      "force_opponent": "1655be",
+      "value": "d99116"
+    },
+    {
+      "name": "Color Lock - Blue 2",
+      "value": "1655be",
+      "force_opponent": "d99116"
     }
   ],
   "defaults": {

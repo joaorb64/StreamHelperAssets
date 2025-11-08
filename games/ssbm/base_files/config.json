@@ -1,5 +1,5 @@
 {
-  "name": "Super Smash Bros Melee",
+  "name": "Super Smash Bros. Melee",
   "locale": {
     "ja": {
       "name": "\u5927\u4e71\u95d8\u30b9\u30de\u30c3\u30b7\u30e5\u30d6\u30e9\u30b6\u30fc\u30ba\uff24\uff38"
@@ -168,7 +168,8 @@
         "ru": "\u041f\u0438\u043a\u0430\u0447\u0443",
         "ko": "\ud53c\uce74\uce04",
         "zh_TW": "\u76ae\u5361\u4e18",
-        "zh_CN": "\u76ae\u5361\u4e18"
+        "zh_CN": "\u76ae\u5361\u4e18",
+        "br": "Luc\u2019hodenn"
       }
     },
     "Luigi": {
@@ -248,7 +249,8 @@
         "ru": "\u0414\u0436\u0438\u0433\u043b\u0438\u043f\u0430\u0444\u0444",
         "ko": "\ud478\ub9b0",
         "zh_TW": "\u80d6\u4e01",
-        "zh_CN": "\u80d6\u4e01"
+        "zh_CN": "\u80d6\u4e01",
+        "br": "Wasteljen"
       }
     },
     "Peach": {
@@ -488,7 +490,8 @@
         "ru": "\u041c\u044c\u044e\u0442\u0443",
         "ko": "\ubba4\uce20",
         "zh_TW": "\u8d85\u5922",
-        "zh_CN": "\u8d85\u68a6"
+        "zh_CN": "\u8d85\u68a6",
+        "br": "Diogemm"
       }
     },
     "Roy": {
@@ -556,7 +559,8 @@
         "ko": "\uc6b8\ud504",
         "zh_TW": "\u6c83\u723e\u592b",
         "zh_CN": "\u6c83\u9c81\u592b"
-      }
+      },
+      "modded": true
     },
     "Lucas": {
       "smashgg_name": "Lucas",
@@ -576,7 +580,8 @@
         "ko": "\ub958\uce74",
         "zh_TW": "\u7409\u52a0",
         "zh_CN": "\u7409\u52a0"
-      }
+      },
+      "modded": true
     },
     "Sonic": {
       "smashgg_name": "Sonic",
@@ -596,19 +601,22 @@
         "ko": "\uc18c\ub2c9",
         "zh_TW": "\u7d22\u5c3c\u514b",
         "zh_CN": "\u7d22\u5c3c\u514b"
-      }
+      },
+      "modded": true
     },
     "Charizard": {
       "smashgg_name": "Charizard",
-      "codename": "lizardon",
+      "codename": "charizard",
       "locale": {
         "fr": "Dracaufeu",
         "ja": "\u30ea\u30b6\u30fc\u30c9\u30f3",
         "de": "Glurak",
         "ko": "\ub9ac\uc790\ubabd",
         "zh_CN": "\u55b7\u706b\u9f99",
-        "zh_TW": "\u5674\u706b\u9f8d"
-      }
+        "zh_TW": "\u5674\u706b\u9f8d",
+        "br": "Tanaer"
+      },
+      "modded": true
     },
     "Diddy Kong": {
       "smashgg_name": "Diddy Kong",
@@ -628,7 +636,8 @@
         "ko": "\ub514\ub514\ucf69",
         "zh_TW": "\u72c4\u72c4\u525b",
         "zh_CN": "\u8fea\u8fea\u521a"
-      }
+      },
+      "modded": true
     },
     "King Dedede": {
       "smashgg_name": "King Dedede",
@@ -648,11 +657,13 @@
         "ko": "\ub514\ub514\ub514 \ub300\uc655",
         "zh_TW": "\u5e1d\u5e1d\u5e1d\u5927\u738b",
         "zh_CN": "\u5e1d\u5e1d\u5e1d\u5927\u738b"
-      }
+      },
+      "modded": true
     },
     "Tails": {
       "smashgg_name": "Tails",
-      "codename": "tails"
+      "codename": "tails",
+      "modded": true
     }
   },
   "stage_to_codename": {
@@ -804,7 +815,7 @@
       }
     }
   },
-  "version": "25.06.07.41034",
+  "version": "25.10.02.62358",
   "description": "Base config to use this game.",
   "preset_colors": [
     {
@@ -842,5 +853,6 @@
         "fr": "Ordinateur"
       }
     }
-  ]
+  ],
+  "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)"
 }

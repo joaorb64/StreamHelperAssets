@@ -1,7 +1,7 @@
 {
   "average_size": {
-    "x": 3527.0,
-    "y": 4000.0
+    "x": 3656.0,
+    "y": 3951.5454545454545
   },
   "credits": "From the asset kit (https://2xko.riotgames.com/en-us/news/announcements/2xko-community-competition-guidelines/#Q9)",
   "description": "Character renders",
@@ -53,6 +53,24 @@
         "x": 2130,
         "y": 778
       }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 2198,
+        "y": 270
+      }
+    },
+    "Teemo": {
+      "0": {
+        "x": 3226,
+        "y": 2205
+      }
+    },
+    "Warwick": {
+      "0": {
+        "x": 3379,
+        "y": 1316
+      }
     }
   },
   "name": "Renders",
@@ -67,12 +85,18 @@
     "d",
     "r"
   ],
-  "version": "25.08.20.56601",
+  "version": "25.11.01.60014",
   "image_sizes": {
     "Ahri": {
       "0": {
         "x": 3817,
         "y": 4000
+      }
+    },
+    "Blitzcrank": {
+      "0": {
+        "x": 4000,
+        "y": 3887
       }
     },
     "Braum": {
@@ -105,10 +129,22 @@
         "y": 4000
       }
     },
+    "Teemo": {
+      "0": {
+        "x": 4000,
+        "y": 3869
+      }
+    },
     "Vi": {
       "0": {
         "x": 2984,
         "y": 4000
+      }
+    },
+    "Warwick": {
+      "0": {
+        "x": 4000,
+        "y": 3711
       }
     },
     "Yasuo": {

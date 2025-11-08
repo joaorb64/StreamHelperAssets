@@ -18,6 +18,9 @@
     },
     "Welltaro": {
       "codename": "Welltaro"
+    },
+    "Hat Kid": {
+      "codename": "HatKid"
     }
   },
   "credits": "",
@@ -25,5 +28,121 @@
   "name": "Fraymakers",
   "smashgg_game_id": 37022,
   "stage_to_codename": {},
-  "version": "25.05.29.53856"
+  "version": "25.09.19.51369",
+  "variant_to_codename": {
+    "Aine": {
+      "codename": "AineV"
+    },
+    "The Ape": {
+      "codename": "TheApeV"
+    },
+    "The Bard": {
+      "codename": "TheBardV"
+    },
+    "Birthday": {
+      "codename": "BirthdayV"
+    },
+    "Cadence": {
+      "codename": "CadenceV"
+    },
+    "Captain Viridian": {
+      "codename": "CaptainViridianV"
+    },
+    "CommanderVideo": {
+      "codename": "CommanderVideoV"
+    },
+    "The Crewmate": {
+      "codename": "TheCrewmateV"
+    },
+    "Diogenes": {
+      "codename": "DiogenesV"
+    },
+    "Fancy Pants Man": {
+      "codename": "FancyPantsManV"
+    },
+    "Gunman Clive": {
+      "codename": "GunmanCliveV"
+    },
+    "Hat Kid": {
+      "codename": "HatKidV"
+    },
+    "Josef": {
+      "codename": "JosefV"
+    },
+    "Kabbu": {
+      "codename": "KabbuV"
+    },
+    "The Kid": {
+      "codename": "TheKidV"
+    },
+    "Kragg": {
+      "codename": "KraggV"
+    },
+    "Lady Luck": {
+      "codename": "LadyLuckV"
+    },
+    "Lea": {
+      "codename": "LeaV"
+    },
+    "Leif": {
+      "codename": "LeifV"
+    },
+    "Mustache Girl": {
+      "codename": "MustacheGirlV"
+    },
+    "Nikandreos": {
+      "codename": "NikandreosV"
+    },
+    "Niko": {
+      "codename": "NikoV"
+    },
+    "Octodad": {
+      "codename": "OctodadV"
+    },
+    "Orcane": {
+      "codename": "OrcaneV"
+    },
+    "Peppino": {
+      "codename": "PeppinoV"
+    },
+    "Pizza": {
+      "codename": "PizzaV"
+    },
+    "Rhythm Doctor": {
+      "codename": "RhythmDoctorV"
+    },
+    "Rockman": {
+      "codename": "RockmanV"
+    },
+    "The Shopkeeper": {
+      "codename": "TheShopkeeperV"
+    },
+    "The Silent": {
+      "codename": "TheSilentV"
+    },
+    "Stardrop": {
+      "codename": "StardropV"
+    },
+    "Super Hexagon": {
+      "codename": "SuperHexagonV"
+    },
+    "Tankman": {
+      "codename": "TankmanV"
+    },
+    "Ultra Fishbunjin 3000": {
+      "codename": "UltraFishbunjin3000V"
+    },
+    "Vi": {
+      "codename": "ViV"
+    },
+    "The Watcher": {
+      "codename": "TheWatcherV"
+    },
+    "Welltaro": {
+      "codename": "WelltaroV"
+    },
+    "The Snatcher": {
+      "codename": "SnatcherV"
+    }
+  }
 }

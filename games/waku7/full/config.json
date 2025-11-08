@@ -1,127 +1,133 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
+  "name": "Artwork",
+  "description": "Character artwork",
   "prefix": "file_",
   "postfix": "_",
   "type": [
     "full"
   ],
-  "credits": "Assets ripped from Supercombo.gg (https://wiki.supercombo.gg/w/Waku_Waku_7)\n@MathiasWolfbrok for cropping",
-  "version": "25.05.29.53857",
+  "credits": "Ripped from snk.fandom.com, extracted by Ember",
+  "version": "25.10.06.67104",
   "eyesights": {
     "Arina": {
       "0": {
-        "x": 573,
-        "y": 393
+        "x": 495,
+        "y": 559
       }
     },
     "BonusKun": {
       "0": {
-        "x": 615,
-        "y": 433
+        "x": 381,
+        "y": 505
       }
     },
     "DandyJ": {
       "0": {
-        "x": 132,
-        "y": 436
+        "x": 468,
+        "y": 346
       }
     },
     "Fernandez": {
       "0": {
-        "x": 0,
-        "y": 193
+        "x": 471,
+        "y": 332
       }
     },
     "Mauru": {
       "0": {
-        "x": 417,
-        "y": 676
+        "x": 299,
+        "y": 725
       }
     },
     "PolitankZ": {
       "0": {
-        "x": 209,
-        "y": 193
+        "x": 355,
+        "y": 523
       }
     },
     "Rai": {
       "0": {
-        "x": 472,
-        "y": 438
+        "x": 409,
+        "y": 661
       }
     },
     "Slash": {
       "0": {
-        "x": 360,
-        "y": 346
+        "x": 486,
+        "y": 383
       }
     },
     "Tesse": {
       "0": {
-        "x": 559,
-        "y": 552
+        "x": 416,
+        "y": 457
+      }
+    }
+  },
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "image_sizes": {
+    "Arina": {
+      "0": {
+        "x": 864,
+        "y": 1184
+      }
+    },
+    "BonusKun": {
+      "0": {
+        "x": 896,
+        "y": 1152
+      }
+    },
+    "DandyJ": {
+      "0": {
+        "x": 864,
+        "y": 1184
+      }
+    },
+    "Fernandez": {
+      "0": {
+        "x": 864,
+        "y": 1184
+      }
+    },
+    "Mauru": {
+      "0": {
+        "x": 864,
+        "y": 1184
+      }
+    },
+    "PolitankZ": {
+      "0": {
+        "x": 896,
+        "y": 1152
+      }
+    },
+    "Rai": {
+      "0": {
+        "x": 864,
+        "y": 1184
+      }
+    },
+    "Slash": {
+      "0": {
+        "x": 864,
+        "y": 1184
+      }
+    },
+    "Tesse": {
+      "0": {
+        "x": 864,
+        "y": 1184
       }
     }
   },
   "average_size": {
-    "x": 960.0,
-    "y": 1080.0
-  },
-  "image_sizes": {
-    "Arina": {
-      "0": {
-        "x": 960,
-        "y": 1080
-      }
-    },
-    "BonusKun": {
-      "0": {
-        "x": 960,
-        "y": 1080
-      }
-    },
-    "DandyJ": {
-      "0": {
-        "x": 960,
-        "y": 1080
-      }
-    },
-    "Fernandez": {
-      "0": {
-        "x": 960,
-        "y": 1080
-      }
-    },
-    "Mauru": {
-      "0": {
-        "x": 960,
-        "y": 1080
-      }
-    },
-    "PolitankZ": {
-      "0": {
-        "x": 960,
-        "y": 1080
-      }
-    },
-    "Rai": {
-      "0": {
-        "x": 960,
-        "y": 1080
-      }
-    },
-    "Slash": {
-      "0": {
-        "x": 960,
-        "y": 1080
-      }
-    },
-    "Tesse": {
-      "0": {
-        "x": 960,
-        "y": 1080
-      }
-    }
+    "x": 871.1111111111111,
+    "y": 1176.888888888889
   }
 }

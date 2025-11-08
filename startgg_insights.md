@@ -64,6 +64,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Cyberbots: Fullmetal Madness
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Dissidia 012 Final Fantasy
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Dark Awake: The King Has No Name
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -121,7 +124,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Chun-Li]: Character name [Chun-Li] doesn't exist in StartGG
 - Character [Joe Highashi]: Character name [Joe Highashi] doesn't exist in StartGG
 - Character [Mr. Big]: Character name [Mr. Big] doesn't exist in StartGG
-### Coverage: (18/18)
+- Character [Random] not assigned in TSH!
+- Character [Joe Higashi] not assigned in TSH!
+- Character [Ken] not assigned in TSH!
+### Coverage: (18/21)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -130,6 +136,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fraymakers
+Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Fantasy Strike
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fate/Unlimited Codes
@@ -142,17 +151,13 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Granblue Fantasy Versus: Rising
-- Character [Sandalphon]: Character name [Sandalphon] doesn't exist in StartGG
-- Character [Meg]: Character name [Meg] doesn't exist in StartGG
 - Character [Ilsa]: Character name [Ilsa] doesn't exist in StartGG
 - Character [Lunalu] not assigned in TSH!
-- Character [Saldalphon] not assigned in TSH!
-### Coverage: (36/38)
+### Coverage: (38/39)
 
 ## Guilty Gear -STRIVE-
-- Character [Lucyna "Lucy" Kushinada]: Character name [Lucy] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (31/32)
+### Coverage: (32/33)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)
@@ -241,6 +246,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## The King of Fighters XV
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Kamen Rider: Super Climax Heroes
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Ultra Fight Da! Kyanta 2
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -273,6 +281,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## MerFight: Curse of the Arctic Prince
 Game has no characters in startgg...? Or do we have a wrong game id?
+
 
 ## My Hero One’s Justice 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -340,6 +349,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Mario Tennis Aces
 ### Coverage: (30/30)
+
+## Marvel Tōkon: Fighting Souls
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG
@@ -523,8 +535,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-- Character [Vi]: Character name [Vi] doesn't exist in StartGG
-### Coverage: (7/7)
+- Character [Random] not assigned in TSH!
+### Coverage: (11/12)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG
@@ -532,8 +544,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
-- Character [Galvan]: Character name [Galvan] doesn't exist in StartGG
-### Coverage: (13/13)
+- Character [Random] not assigned in TSH!
+### Coverage: (14/15)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)
@@ -574,9 +586,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Street Fighter 6
 - Character [Ingrid]: Character name [Ingrid] doesn't exist in StartGG
 - Character [Alex]: Character name [Alex] doesn't exist in StartGG
-- Character [C. Viper]: Character name [C. Viper] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (27/28)
+### Coverage: (28/29)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -669,10 +680,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Random]: Character name [Random Character] doesn't exist in StartGG
 ### Coverage: (12/12)
 
-## Super Smash Bros Brawl
+## Super Smash Bros. Brawl
 ### Coverage: (38/38)
 
-## Super Smash Bros Melee
+## Super Smash Bros. Melee
 - Character [Wolf]: Character name [Wolf] doesn't exist in StartGG
 - Character [Lucas]: Character name [Lucas] doesn't exist in StartGG
 - Character [Sonic]: Character name [Sonic] doesn't exist in StartGG
@@ -683,12 +694,15 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Sheik / Zelda] not assigned in TSH!
 ### Coverage: (27/28)
 
-## Super Smash Bros Ultimate
+## Super Smash Bros. Ultimate
 ### Coverage: (87/87)
 
 ## Super Smash Bros. for Wii U
 - Character [Mii Fighters] not assigned in TSH!
 ### Coverage: (59/60)
+
+## Super Smash Flash 2
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Super Street Fighter II Turbo
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -705,6 +719,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## S.V.G.: Spectral vs Generation
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+
 ## Tekken 3
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -716,16 +731,15 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Armor King]: Character name [Armor King] doesn't exist in StartGG
 - Character [Miary Zo]: Character name [Miary Zo] doesn't exist in StartGG
-### Coverage: (39/39)
+- Character [Miary] not assigned in TSH!
+### Coverage: (40/41)
 
 ## Them's Fightin' Herds
-- Character [Texas]: Character name [Texas] doesn't exist in StartGG
-- Character [Stronghoof]: Character name [Stronghoof] doesn't exist in StartGG
-- Character [Nidra]: Character name [Nidra] doesn't exist in StartGG
-- Character [Baihe]: Character name [Baihe] doesn't exist in StartGG
-### Coverage: (7/7)
+### Coverage: (11/11)
+
+## Thrill Kill
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Tough Love Arena
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -800,6 +814,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## X-Men vs. Street Fighter
+Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Yatagarasu: Enter the Eastward
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## The Battle of Yū Yū Hakusho: Shitō! Ankoku Bujutsu Kai 120% Full Power

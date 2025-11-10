@@ -1068,6 +1068,45 @@
         "it": "Latios",
         "es": "Latios"
       }
+    },
+    "Pawmot": {
+      "codename": "923",
+      "locale": {
+        "fr": "Pohmarmotte",
+        "de": "Pamomamo",
+        "ko": "\ube60\ub974\ubaa8\ud2b8",
+        "ja": "\u30d1\u30fc\u30e2\u30c3\u30c8",
+        "zh_CN": "\u5df4\u5e03\u571f\u62e8",
+        "zh_TW": "\u5df4\u5e03\u571f\u64a5",
+        "it": "Pawmot",
+        "es": "Pawmot"
+      }
+    },
+    "Empoleon": {
+      "codename": "395",
+      "locale": {
+        "fr": "Pingol\u00e9on",
+        "de": "Impoleon",
+        "ko": "\uc5e0\ud398\ub974\ud2b8",
+        "ja": "\u30a8\u30f3\u30da\u30eb\u30c8",
+        "zh_CN": "\u5e1d\u738b\u62ff\u6ce2",
+        "zh_TW": "\u5e1d\u738b\u62ff\u6ce2",
+        "it": "Empoleon",
+        "es": "Empoleon"
+      }
+    },
+    "Dhelmise": {
+      "codename": "781",
+      "locale": {
+        "fr": "Sinistrail",
+        "de": "Moruda",
+        "ko": "\ud0c0\ud0c0\ub95c",
+        "ja": "\u30c0\u30c0\u30ea\u30f3",
+        "zh_CN": "\u7834\u7834\u8235\u8f6e",
+        "zh_TW": "\u7834\u7834\u8235\u8f2a",
+        "it": "Dhelmise",
+        "es": "Dhelmise"
+      }
     }
   },
   "stage_to_codename": {},

@@ -1107,6 +1107,20 @@
         "it": "Dhelmise",
         "es": "Dhelmise"
       }
+    },
+    "Vaporeon": {
+      "codename": "134",
+      "locale": {
+        "fr": "Aquali",
+        "de": "Aquana",
+        "ko": "\uc0e4\ubbf8\ub4dc",
+        "ja": "\u30b7\u30e3\u30ef\u30fc\u30ba",
+        "zh_CN": "\u6c34\u4f0a\u5e03",
+        "zh_TW": "\u6c34\u4f0a\u5e03",
+        "it": "Vaporeon",
+        "es": "Vaporeon",
+        "br": "Kiglao"
+      }
     }
   },
   "stage_to_codename": {},

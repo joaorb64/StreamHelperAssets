@@ -120,14 +120,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Ken Masters]: Character name [Ken Masters] doesn't exist in StartGG
 - Character [Chun-Li]: Character name [Chun-Li] doesn't exist in StartGG
-- Character [Joe Highashi]: Character name [Joe Highashi] doesn't exist in StartGG
 - Character [Mr. Big]: Character name [Mr. Big] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-- Character [Joe Higashi] not assigned in TSH!
-- Character [Ken] not assigned in TSH!
-### Coverage: (18/21)
+### Coverage: (20/21)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -731,9 +727,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Miary Zo]: Character name [Miary Zo] doesn't exist in StartGG
-- Character [Miary] not assigned in TSH!
-### Coverage: (40/41)
+### Coverage: (41/41)
 
 ## Them's Fightin' Herds
 ### Coverage: (11/11)

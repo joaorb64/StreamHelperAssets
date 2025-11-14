@@ -7,7 +7,10 @@
       "codename": "rider01"
     },
     "King Dedede": {
-      "codename": "rider02"
+      "codename": "rider02",
+      "locale": {
+        "fr": "Roi DaDiDou"
+      }
     },
     "Meta Knight": {
       "codename": "rider03"
@@ -28,7 +31,10 @@
       "codename": "rider08"
     },
     "Cappy": {
-      "codename": "rider09"
+      "codename": "rider09",
+      "locale": {
+        "fr": "Cappenois"
+      }
     },
     "Starman": {
       "codename": "rider10"
@@ -46,7 +52,10 @@
       "codename": "rider14"
     },
     "Rocky": {
-      "codename": "rider15"
+      "codename": "rider15",
+      "locale": {
+        "fr": "Choiroc"
+      }
     },
     "Scarfy": {
       "codename": "rider16"
@@ -55,10 +64,16 @@
       "codename": "rider17"
     },
     "Marx": {
-      "codename": "rider18"
+      "codename": "rider18",
+      "locale": {
+        "fr": "Max"
+      }
     },
     "Daroach": {
-      "codename": "rider19"
+      "codename": "rider19",
+      "locale": {
+        "fr": "Desroches"
+      }
     },
     "Taranza": {
       "codename": "rider20"
@@ -67,70 +82,151 @@
   "stage_to_codename": {},
   "variant_to_codename": {
     "Warp Star": {
-      "codename": "machine01"
+      "codename": "machine01",
+      "locale": {
+        "fr": "\u00c9toile Warp"
+      }
     },
     "Winged Star": {
-      "codename": "machine02"
+      "codename": "machine02",
+      "locale": {
+        "fr": "\u00c9toile ail\u00e9e"
+      }
     },
     "Shadow Star": {
-      "codename": "machine03"
+      "codename": "machine03",
+      "locale": {
+        "fr": "\u00c9toile obscure"
+      }
     },
     "Wagon Star": {
-      "codename": "machine04"
+      "codename": "machine04",
+      "locale": {
+        "fr": "\u00c9toile wagon"
+      }
     },
     "Slick Star": {
-      "codename": "machine05"
+      "codename": "machine05",
+      "locale": {
+        "fr": "\u00c9toile a\u00e9ro"
+      }
     },
     "Bulk Star": {
-      "codename": "machine06"
+      "codename": "machine06",
+      "locale": {
+        "fr": "\u00c9toile massive"
+      }
     },
     "Rocket Star": {
-      "codename": "machine07"
+      "codename": "machine07",
+      "locale": {
+        "fr": "\u00c9toile fus\u00e9e"
+      }
     },
     "Swerve Star": {
-      "codename": "machine08"
+      "codename": "machine08",
+      "locale": {
+        "fr": "\u00c9toile arch\u00e9o"
+      }
     },
     "Turbo Star": {
-      "codename": "machine09"
+      "codename": "machine09",
+      "locale": {
+        "fr": "\u00c9toile turbo"
+      }
     },
     "Wheelie Bike": {
-      "codename": "machine10"
+      "codename": "machine10",
+      "locale": {
+        "fr": "Roulli Moto"
+      }
     },
     "Rex Wheelie": {
-      "codename": "machine11"
+      "codename": "machine11",
+      "locale": {
+        "fr": "Rex Roulli"
+      }
     },
     "Paper Star": {
-      "codename": "machine12"
+      "codename": "machine12",
+      "locale": {
+        "fr": "\u00c9toile papier"
+      }
     },
     "Chariot": {
-      "codename": "machine13"
+      "codename": "machine13",
+      "locale": {
+        "fr": "N\u00e9ochar"
+      }
     },
     "Battle Chariot": {
-      "codename": "machine14"
+      "codename": "machine14",
+      "locale": {
+        "fr": "N\u00e9ochar de combat"
+      }
     },
     "Tank Star": {
-      "codename": "machine15"
+      "codename": "machine15",
+      "locale": {
+        "fr": "\u00c9toile tank"
+      }
     },
     "Formula Star": {
-      "codename": "machine16"
+      "codename": "machine16",
+      "locale": {
+        "fr": "\u00c9toile formula"
+      }
     },
     "Jet Star": {
-      "codename": "machine17"
+      "codename": "machine17",
+      "locale": {
+        "fr": "\u00c9toile Jet"
+      }
     },
     "Hop Star": {
-      "codename": "machine18"
+      "codename": "machine18",
+      "locale": {
+        "fr": "\u00c9toile hop"
+      }
     },
     "Wheelie Scooter": {
-      "codename": "machine19"
+      "codename": "machine19",
+      "locale": {
+        "fr": "Roulli Scooter"
+      }
     },
     "Transform Star": {
-      "codename": "machine20"
+      "codename": "machine20",
+      "locale": {
+        "fr": "\u00c9toile m\u00e9tamorphe"
+      }
     },
     "Bull Tank": {
-      "codename": "machine21"
+      "codename": "machine21",
+      "locale": {
+        "fr": "Tank taureau"
+      }
+    },
+    "Compact Star": {
+      "codename": "base",
+      "locale": {
+        "fr": "\u00c9toile compacte"
+      }
+    },
+    "Flight Warp Star": {
+      "codename": "freerun",
+      "locale": {
+        "fr": "\u00c9toile Warp volante"
+      }
+    },
+    "Dragoon": {
+      "codename": "dragoon"
+    },
+    "Hydra": {
+      "codename": "hydra"
     }
   },
-  "version": "25.10.23.58888",
+  "version": "25.11.08.64603",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html"
 }

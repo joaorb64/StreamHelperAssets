@@ -224,6 +224,12 @@
     },
     "Hydra": {
       "codename": "hydra"
+    },
+    "Vampire Star": {
+      "codename": "machine00",
+      "locale": {
+        "fr": "Étoile Vampire"
+      }
     }
   },
   "version": "25.11.08.64603",

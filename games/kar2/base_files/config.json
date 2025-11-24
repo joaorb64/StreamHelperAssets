@@ -77,6 +77,9 @@
     },
     "Taranza": {
       "codename": "rider20"
+    },
+    "Noir Dedede": {
+      "codename": "rider21"
     }
   },
   "stage_to_codename": {},
@@ -224,6 +227,18 @@
     },
     "Hydra": {
       "codename": "hydra"
+    },
+    "Leo": {
+      "codename": "leo"
+    },
+    "Gigantes": {
+      "codename": "gigantes"
+    },
+    "Vampire Star": {
+      "codename": "machine22",
+      "locale": {
+        "fr": "Étoile Vampire"
+      }
     }
   },
   "version": "25.11.08.64603",

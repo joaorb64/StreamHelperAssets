@@ -7,5 +7,175 @@
     "variant_icon"
   ],
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html\nIcons for Vampire Star, Gigantes and Leo recreated by Mathias Wolfbrok",
-  "version": "25.11.08.64603"
+  "version": "25.11.08.64603",
+  "image_sizes": {
+    "base": {
+      "null": {
+        "x": 416,
+        "y": 436
+      }
+    },
+    "dragoon": {
+      "null": {
+        "x": 573,
+        "y": 472
+      }
+    },
+    "freerun": {
+      "null": {
+        "x": 415,
+        "y": 408
+      }
+    },
+    "gigantes": {
+      "null": {
+        "x": 163,
+        "y": 152
+      }
+    },
+    "hydra": {
+      "null": {
+        "x": 558,
+        "y": 453
+      }
+    },
+    "leo": {
+      "null": {
+        "x": 161,
+        "y": 165
+      }
+    },
+    "machine01": {
+      "null": {
+        "x": 170,
+        "y": 160
+      }
+    },
+    "machine02": {
+      "null": {
+        "x": 158,
+        "y": 158
+      }
+    },
+    "machine03": {
+      "null": {
+        "x": 204,
+        "y": 145
+      }
+    },
+    "machine04": {
+      "null": {
+        "x": 167,
+        "y": 148
+      }
+    },
+    "machine05": {
+      "null": {
+        "x": 180,
+        "y": 160
+      }
+    },
+    "machine06": {
+      "null": {
+        "x": 182,
+        "y": 135
+      }
+    },
+    "machine07": {
+      "null": {
+        "x": 157,
+        "y": 158
+      }
+    },
+    "machine08": {
+      "null": {
+        "x": 184,
+        "y": 156
+      }
+    },
+    "machine09": {
+      "null": {
+        "x": 184,
+        "y": 139
+      }
+    },
+    "machine10": {
+      "null": {
+        "x": 157,
+        "y": 176
+      }
+    },
+    "machine11": {
+      "null": {
+        "x": 180,
+        "y": 158
+      }
+    },
+    "machine12": {
+      "null": {
+        "x": 171,
+        "y": 160
+      }
+    },
+    "machine13": {
+      "null": {
+        "x": 190,
+        "y": 117
+      }
+    },
+    "machine14": {
+      "null": {
+        "x": 192,
+        "y": 109
+      }
+    },
+    "machine15": {
+      "null": {
+        "x": 167,
+        "y": 144
+      }
+    },
+    "machine16": {
+      "null": {
+        "x": 170,
+        "y": 170
+      }
+    },
+    "machine17": {
+      "null": {
+        "x": 154,
+        "y": 170
+      }
+    },
+    "machine18": {
+      "null": {
+        "x": 170,
+        "y": 136
+      }
+    },
+    "machine19": {
+      "null": {
+        "x": 131,
+        "y": 157
+      }
+    },
+    "machine20": {
+      "null": {
+        "x": 170,
+        "y": 79
+      }
+    },
+    "machine21": {
+      "null": {
+        "x": 170,
+        "y": 107
+      }
+    },
+    "machine22": {
+      "null": {
+        "x": 166,
+        "y": 157
+      }
+    }
+  }
 }

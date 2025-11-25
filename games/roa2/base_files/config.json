@@ -478,6 +478,24 @@
         },
         "77": {
           "name": "Low Poly - Orange"
+        },
+        "78": {
+          "name": "Clown"
+        },
+        "79": {
+          "name": "Clown - Blue"
+        },
+        "80": {
+          "name": "Clown - Green"
+        },
+        "81": {
+          "name": "Clown - Purple"
+        },
+        "82": {
+          "name": "Clown - Red"
+        },
+        "83": {
+          "name": "Clown - Yellow"
         }
       }
     },
@@ -1165,6 +1183,9 @@
         },
         "74": {
           "name": "Champion - Green"
+        },
+        "75": {
+          "name": "Abyss - Midnight"
         }
       }
     },
@@ -1621,6 +1642,9 @@
         },
         "81": {
           "name": "Baseball - Heat Wave"
+        },
+        "82": {
+          "name": "Low Poly - Orange"
         }
       }
     },
@@ -2838,7 +2862,7 @@
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "25.11.06.81309",
+  "version": "25.11.18.79592",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest",

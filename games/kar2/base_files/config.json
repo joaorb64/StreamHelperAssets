@@ -77,6 +77,9 @@
     },
     "Taranza": {
       "codename": "rider20"
+    },
+    "Noir Dedede": {
+      "codename": "rider21"
     }
   },
   "stage_to_codename": {},
@@ -225,14 +228,20 @@
     "Hydra": {
       "codename": "hydra"
     },
+    "Leo": {
+      "codename": "leo"
+    },
+    "Gigantes": {
+      "codename": "gigantes"
+    },
     "Vampire Star": {
-      "codename": "machine00",
+      "codename": "machine22",
       "locale": {
-        "fr": "Étoile Vampire"
+        "fr": "\u00c9toile Vampire"
       }
     }
   },
-  "version": "25.11.08.64603",
+  "version": "25.11.24.35551",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html"
 }

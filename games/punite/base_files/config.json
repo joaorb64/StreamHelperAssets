@@ -1014,7 +1014,8 @@
         "zh_TW": "\u6c34\u541b",
         "it": "Suicune",
         "es": "Suicune"
-      }
+      },
+      "smashgg_name": "Suicune"
     },
     "Alolan Raichu": {
       "codename": "026-A",
@@ -1028,7 +1029,8 @@
         "it": "Raichu",
         "es": "Raichu",
         "br": "Logurun"
-      }
+      },
+      "smashgg_name": "Alolan Raichu"
     },
     "Alcremie": {
       "codename": "869",
@@ -1041,7 +1043,8 @@
         "zh_TW": "\u971c\u5976\u4ed9",
         "it": "Alcremie",
         "es": "Alcremie"
-      }
+      },
+      "smashgg_name": "Alcremie"
     },
     "Latias": {
       "codename": "380",
@@ -1054,7 +1057,8 @@
         "zh_TW": "\u62c9\u5e1d\u4e9e\u65af",
         "it": "Latias",
         "es": "Latias"
-      }
+      },
+      "smashgg_name": "Latias"
     },
     "Latios": {
       "codename": "381",
@@ -1067,7 +1071,8 @@
         "zh_TW": "\u62c9\u5e1d\u6b50\u65af",
         "it": "Latios",
         "es": "Latios"
-      }
+      },
+      "smashgg_name": "Latios"
     },
     "Pawmot": {
       "codename": "923",
@@ -1080,7 +1085,8 @@
         "zh_TW": "\u5df4\u5e03\u571f\u64a5",
         "it": "Pawmot",
         "es": "Pawmot"
-      }
+      },
+      "smashgg_name": "Pawmot"
     },
     "Empoleon": {
       "codename": "395",
@@ -1093,7 +1099,8 @@
         "zh_TW": "\u5e1d\u738b\u62ff\u6ce2",
         "it": "Empoleon",
         "es": "Empoleon"
-      }
+      },
+      "smashgg_name": "Empoleon"
     },
     "Dhelmise": {
       "codename": "781",
@@ -1106,7 +1113,8 @@
         "zh_TW": "\u7834\u7834\u8235\u8f2a",
         "it": "Dhelmise",
         "es": "Dhelmise"
-      }
+      },
+      "smashgg_name": "Dhelmise"
     },
     "Vaporeon": {
       "codename": "134",
@@ -1120,7 +1128,8 @@
         "it": "Vaporeon",
         "es": "Vaporeon",
         "br": "Kiglao"
-      }
+      },
+      "smashgg_name": "Vaporeon"
     }
   },
   "stage_to_codename": {},

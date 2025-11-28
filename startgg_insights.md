@@ -509,6 +509,15 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Psyduck]: Character name [Psyduck] doesn't exist in StartGG
 - Character [Tinkaton]: Character name [Tinkaton] doesn't exist in StartGG
 - Character [Galarian Rapidash]: Character name [Galarian Rapidash] doesn't exist in StartGG
+- Character [Suicune]: Character name [Suicune] doesn't exist in StartGG
+- Character [Alolan Raichu]: Character name [Alolan Raichu] doesn't exist in StartGG
+- Character [Alcremie]: Character name [Alcremie] doesn't exist in StartGG
+- Character [Latias]: Character name [Latias] doesn't exist in StartGG
+- Character [Latios]: Character name [Latios] doesn't exist in StartGG
+- Character [Pawmot]: Character name [Pawmot] doesn't exist in StartGG
+- Character [Empoleon]: Character name [Empoleon] doesn't exist in StartGG
+- Character [Dhelmise]: Character name [Dhelmise] doesn't exist in StartGG
+- Character [Vaporeon]: Character name [Vaporeon] doesn't exist in StartGG
 ### Coverage: (25/25)
 
 ## Rabbit

@@ -4,82 +4,137 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Kirby": {
-      "codename": "rider01"
+      "codename": "rider01",
+      "locale": {
+        "ja": "カービィ"
+      }
     },
     "King Dedede": {
       "codename": "rider02",
       "locale": {
-        "fr": "Roi DaDiDou"
+        "fr": "Roi DaDiDou",
+        "fr_CA": "Roi Dadidou",
+        "ja": "デデデ大王"
       }
     },
     "Meta Knight": {
-      "codename": "rider03"
+      "codename": "rider03",
+      "locale": {
+        "ja": "メタナイト"
+      }
     },
     "Bandana Waddle Dee": {
-      "codename": "rider04"
+      "codename": "rider04",
+      "locale": {
+        "ja": "バンダナワドルディ"
+      }
     },
     "Waddle Doo": {
-      "codename": "rider05"
+      "codename": "rider05",
+      "locale": {
+        "ja": "ワドルドゥ"
+      }
     },
     "Chef Kawasaki": {
-      "codename": "rider06"
+      "codename": "rider06",
+      "locale": {
+        "ja": "コックカワサキ"
+      }
     },
     "Knuckle Joe": {
-      "codename": "rider07"
+      "codename": "rider07",
+      "locale": {
+        "ja": "ナックルジョー"
+      }
     },
     "Gooey": {
-      "codename": "rider08"
+      "codename": "rider08",
+      "locale": {
+        "ja": "グーイ"
+      }
     },
     "Cappy": {
       "codename": "rider09",
       "locale": {
-        "fr": "Cappenois"
+        "fr": "Cappenois",
+        "ja": "キャピィ"
       }
     },
     "Starman": {
-      "codename": "rider10"
+      "codename": "rider10",
+      "locale": {
+        "ja": "スターマン"
+      }
     },
     "Magolor": {
-      "codename": "rider11"
+      "codename": "rider11",
+      "locale": {
+        "ja": "マホロア"
+      }
     },
     "Susie": {
-      "codename": "rider12"
+      "codename": "rider12",
+      "locale": {
+        "ja": "秘書スージー"
+      }
     },
     "Waddle Dee": {
-      "codename": "rider13"
+      "codename": "rider13",
+      "locale": {
+        "ja": "ワドルディ"
+      }
     },
     "Rick": {
-      "codename": "rider14"
+      "codename": "rider14",
+      "locale": {
+        "ja": "リック"
+      }
     },
     "Rocky": {
       "codename": "rider15",
       "locale": {
-        "fr": "Choiroc"
+        "fr": "Choiroc",
+        "ja": "ロッキー"
       }
     },
     "Scarfy": {
-      "codename": "rider16"
+      "codename": "rider16",
+      "locale": {
+        "ja": "スカーフィ"
+      }
     },
     "Lololo & Lalala": {
-      "codename": "rider17"
+      "codename": "rider17",
+      "locale": {
+        "ja": "ロロロ＆ラララ"
+      }
     },
     "Marx": {
       "codename": "rider18",
       "locale": {
-        "fr": "Max"
+        "fr": "Max",
+        "ja": "マルク"
       }
     },
     "Daroach": {
       "codename": "rider19",
       "locale": {
-        "fr": "Desroches"
+        "fr": "Desroches",
+        "ja": "ドロッチェ"
       }
     },
     "Taranza": {
-      "codename": "rider20"
+      "codename": "rider20",
+      "locale": {
+        "ja": "タランザ"
+      }
     },
     "Noir Dedede": {
-      "codename": "rider21"
+      "codename": "rider21",
+      "locale": {
+        "fr": "DaDiDou Noir",
+        "ja": "ノワールデデデ"
+      }
     }
   },
   "stage_to_codename": {},
@@ -242,6 +297,20 @@
     }
   },
   "version": "25.11.24.35551",
-  "description": "Base config to use this game.",
-  "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html"
+  "description": "Base config to use this game.\nIcon for Noir Dedede recreated by Mathias Wolfbrok",
+  "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html",
+  "locale": {
+    "ja": {
+      "name": "カービィのエアライダー"
+    },
+    "ko": {
+      "name": "커비의 에어 라이더"
+    },
+    "zh_TW": {
+      "name": "卡比的馭天飛行者"
+    },
+    "zh_CN": {
+      "name": "卡比的驭天飞行者"
+    }
+  }
 }

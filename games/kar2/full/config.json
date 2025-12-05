@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html\nRenders for Noir Dedede from https://wikirby.com/wiki/Noir_Dedede, detoured by Mathias Wolfbrok",
-  "version": "25.10.23.58888",
+  "version": "25.12.03.75586",
   "uncropped_edge": [
     "u",
     "d",
@@ -246,11 +246,21 @@
         "x": 1690,
         "y": 1571
       }
+    },
+    "rider21": {
+      "0": {
+        "x": 496,
+        "y": 382
+      },
+      "1": {
+        "x": 496,
+        "y": 382
+      }
     }
   },
   "average_size": {
-    "x": 1584.0833333333333,
-    "y": 1474.0833333333333
+    "x": 1621.9104207199998,
+    "y": 1493.05294499
   },
   "rescaling_factor": {
     "rider21": {

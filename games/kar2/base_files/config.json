@@ -6,7 +6,7 @@
     "Kirby": {
       "codename": "rider01",
       "locale": {
-        "ja": "カービィ"
+        "ja": "\u30ab\u30fc\u30d3\u30a3"
       }
     },
     "King Dedede": {
@@ -14,126 +14,126 @@
       "locale": {
         "fr": "Roi DaDiDou",
         "fr_CA": "Roi Dadidou",
-        "ja": "デデデ大王"
+        "ja": "\u30c7\u30c7\u30c7\u5927\u738b"
       }
     },
     "Meta Knight": {
       "codename": "rider03",
       "locale": {
-        "ja": "メタナイト"
+        "ja": "\u30e1\u30bf\u30ca\u30a4\u30c8"
       }
     },
     "Bandana Waddle Dee": {
       "codename": "rider04",
       "locale": {
-        "ja": "バンダナワドルディ"
+        "ja": "\u30d0\u30f3\u30c0\u30ca\u30ef\u30c9\u30eb\u30c7\u30a3"
       }
     },
     "Waddle Doo": {
       "codename": "rider05",
       "locale": {
-        "ja": "ワドルドゥ"
+        "ja": "\u30ef\u30c9\u30eb\u30c9\u30a5"
       }
     },
     "Chef Kawasaki": {
       "codename": "rider06",
       "locale": {
-        "ja": "コックカワサキ"
+        "ja": "\u30b3\u30c3\u30af\u30ab\u30ef\u30b5\u30ad"
       }
     },
     "Knuckle Joe": {
       "codename": "rider07",
       "locale": {
-        "ja": "ナックルジョー"
+        "ja": "\u30ca\u30c3\u30af\u30eb\u30b8\u30e7\u30fc"
       }
     },
     "Gooey": {
       "codename": "rider08",
       "locale": {
-        "ja": "グーイ"
+        "ja": "\u30b0\u30fc\u30a4"
       }
     },
     "Cappy": {
       "codename": "rider09",
       "locale": {
         "fr": "Cappenois",
-        "ja": "キャピィ"
+        "ja": "\u30ad\u30e3\u30d4\u30a3"
       }
     },
     "Starman": {
       "codename": "rider10",
       "locale": {
-        "ja": "スターマン"
+        "ja": "\u30b9\u30bf\u30fc\u30de\u30f3"
       }
     },
     "Magolor": {
       "codename": "rider11",
       "locale": {
-        "ja": "マホロア"
+        "ja": "\u30de\u30db\u30ed\u30a2"
       }
     },
     "Susie": {
       "codename": "rider12",
       "locale": {
-        "ja": "秘書スージー"
+        "ja": "\u79d8\u66f8\u30b9\u30fc\u30b8\u30fc"
       }
     },
     "Waddle Dee": {
       "codename": "rider13",
       "locale": {
-        "ja": "ワドルディ"
+        "ja": "\u30ef\u30c9\u30eb\u30c7\u30a3"
       }
     },
     "Rick": {
       "codename": "rider14",
       "locale": {
-        "ja": "リック"
+        "ja": "\u30ea\u30c3\u30af"
       }
     },
     "Rocky": {
       "codename": "rider15",
       "locale": {
         "fr": "Choiroc",
-        "ja": "ロッキー"
+        "ja": "\u30ed\u30c3\u30ad\u30fc"
       }
     },
     "Scarfy": {
       "codename": "rider16",
       "locale": {
-        "ja": "スカーフィ"
+        "ja": "\u30b9\u30ab\u30fc\u30d5\u30a3"
       }
     },
     "Lololo & Lalala": {
       "codename": "rider17",
       "locale": {
-        "ja": "ロロロ＆ラララ"
+        "ja": "\u30ed\u30ed\u30ed\uff06\u30e9\u30e9\u30e9"
       }
     },
     "Marx": {
       "codename": "rider18",
       "locale": {
         "fr": "Max",
-        "ja": "マルク"
+        "ja": "\u30de\u30eb\u30af"
       }
     },
     "Daroach": {
       "codename": "rider19",
       "locale": {
         "fr": "Desroches",
-        "ja": "ドロッチェ"
+        "ja": "\u30c9\u30ed\u30c3\u30c1\u30a7"
       }
     },
     "Taranza": {
       "codename": "rider20",
       "locale": {
-        "ja": "タランザ"
+        "ja": "\u30bf\u30e9\u30f3\u30b6"
       }
     },
     "Noir Dedede": {
       "codename": "rider21",
       "locale": {
         "fr": "DaDiDou Noir",
-        "ja": "ノワールデデデ"
+        "ja": "\u30ce\u30ef\u30fc\u30eb\u30c7\u30c7\u30c7"
       }
     }
   },
@@ -295,21 +295,21 @@
       }
     }
   },
-  "version": "25.11.24.35551",
+  "version": "25.12.03.75586",
   "description": "Base config to use this game.\nIcon for Noir Dedede recreated by Mathias Wolfbrok",
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html",
   "locale": {
     "ja": {
-      "name": "カービィのエアライダー"
+      "name": "\u30ab\u30fc\u30d3\u30a3\u306e\u30a8\u30a2\u30e9\u30a4\u30c0\u30fc"
     },
     "ko": {
-      "name": "커비의 에어 라이더"
+      "name": "\ucee4\ube44\uc758 \uc5d0\uc5b4 \ub77c\uc774\ub354"
     },
     "zh_TW": {
-      "name": "卡比的馭天飛行者"
+      "name": "\u5361\u6bd4\u7684\u99ad\u5929\u98db\u884c\u8005"
     },
     "zh_CN": {
-      "name": "卡比的驭天飞行者"
+      "name": "\u5361\u6bd4\u7684\u9a6d\u5929\u98de\u884c\u8005"
     }
   },
   "stage_to_codename": {

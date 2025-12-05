@@ -137,7 +137,6 @@
       }
     }
   },
-  "stage_to_codename": {},
   "variant_to_codename": {
     "Warp Star": {
       "codename": "machine01",
@@ -311,6 +310,242 @@
     },
     "zh_CN": {
       "name": "卡比的驭天飞行者"
+    }
+  },
+  "stage_to_codename": {
+    "Air Ride - Floria Fields": {
+      "codename": "AirRideFloriaFields"
+    },
+    "Air Ride - Waveflow Waters": {
+      "codename": "AirRideWaveflowWaters"
+    },
+    "Air Ride - Airtopia Ruins": {
+      "codename": "AirRideAirtopiaRuins"
+    },
+    "Air Ride - Crystalline Fissure": {
+      "codename": "AirRideCrystallineFissure"
+    },
+    "Air Ride - Steamgust Forge": {
+      "codename": "AirRideSteamgustForge"
+    },
+    "Air Ride - Cavernous Corners": {
+      "codename": "AirRideCavernousCorners"
+    },
+    "Air Ride - Cyberion Highway": {
+      "codename": "AirRideCyberionHighway"
+    },
+    "Air Ride - Mount Amberfalls": {
+      "codename": "AirRideMountAmberfalls"
+    },
+    "Air Ride - Galactic Nova": {
+      "codename": "AirRideGalacticNova"
+    },
+    "Air Ride - Fantasy Meadows": {
+      "codename": "AirRideFantasyMeadows"
+    },
+    "Air Ride - Celestial Valley": {
+      "codename": "AirRideCelestialValley"
+    },
+    "Air Ride - Sky Sands": {
+      "codename": "AirRideSkySands"
+    },
+    "Air Ride - Frozen Hillside": {
+      "codename": "AirRideFrozenHillside"
+    },
+    "Air Ride - Magma Flows": {
+      "codename": "AirRideMagmaFlows"
+    },
+    "Air Ride - Beanstalk Park": {
+      "codename": "AirRideBeanstalkPark"
+    },
+    "Air Ride - Machine Passage": {
+      "codename": "AirRideMachinePassage"
+    },
+    "Air Ride - Checker Knights": {
+      "codename": "AirRideCheckerKnights"
+    },
+    "Air Ride - Nebula Belt": {
+      "codename": "AirRideNebulaBelt"
+    },
+    "Top Ride - Flower": {
+      "codename": "TopRideFlower"
+    },
+    "Top Ride - Flow": {
+      "codename": "TopRideFlow"
+    },
+    "Top Ride - Air": {
+      "codename": "TopRideAir"
+    },
+    "Top Ride - Crystal": {
+      "codename": "TopRideCrystal"
+    },
+    "Top Ride - Steam": {
+      "codename": "TopRideSteam"
+    },
+    "Top Ride - Cave": {
+      "codename": "TopRideCave"
+    },
+    "Top Ride - Cyber": {
+      "codename": "TopRideCyber"
+    },
+    "Top Ride - Mountain": {
+      "codename": "TopRideMountain"
+    },
+    "Top Ride - Nova": {
+      "codename": "TopRideNova"
+    },
+    "City Trial": {
+      "codename": "CityTrial"
+    },
+    "City Trial - Air Glider": {
+      "codename": "CityTrialAirGlider"
+    },
+    "City Trial - Beam Gauntlet 1": {
+      "codename": "CityTrialBeamGauntlet1"
+    },
+    "City Trial - Beam Gauntlet 2": {
+      "codename": "CityTrialBeamGauntlet2"
+    },
+    "City Trial - Big Battle 1": {
+      "codename": "CityTrialBigBattle1"
+    },
+    "City Trial - Big Battle 2": {
+      "codename": "CityTrialBigBattle2"
+    },
+    "City Trial - Big Battle 3": {
+      "codename": "CityTrialBigBattle3"
+    },
+    "City Trial - Button Rush 1": {
+      "codename": "CityTrialButtonRush1"
+    },
+    "City Trial - Button Rush 2": {
+      "codename": "CityTrialButtonRush2"
+    },
+    "City Trial - Drag Race 1": {
+      "codename": "CityTrialDragRace1"
+    },
+    "City Trial - Drag Race 2": {
+      "codename": "CityTrialDragRace2"
+    },
+    "City Trial - Drag Race 3": {
+      "codename": "CityTrialDragRace3"
+    },
+    "City Trial - Drag Race 4": {
+      "codename": "CityTrialDragRace4"
+    },
+    "City Trial - Dustup Derby 1": {
+      "codename": "CityTrialDustupDerby1"
+    },
+    "City Trial - Dustup Derby 2": {
+      "codename": "CityTrialDustupDerby2"
+    },
+    "City Trial - Dustup Derby 3": {
+      "codename": "CityTrialDustupDerby3"
+    },
+    "City Trial - Dustup Derby 4": {
+      "codename": "CityTrialDustupDerby4"
+    },
+    "City Trial - Dustup Derby 5": {
+      "codename": "CityTrialDustupDerby5"
+    },
+    "City Trial - Gourmet Race": {
+      "codename": "CityTrialGourmetRace"
+    },
+    "City Trial - High Jump": {
+      "codename": "CityTrialHighJump"
+    },
+    "City Trial - Kirby Melee 1": {
+      "codename": "CityTrialKirbyMelee1"
+    },
+    "City Trial - Kirby Melee 2": {
+      "codename": "CityTrialKirbyMelee2"
+    },
+    "City Trial - Oval Circuit": {
+      "codename": "CityTrialOvalCircuit"
+    },
+    "City Trial - Rail Panic": {
+      "codename": "CityTrialRailPanic"
+    },
+    "City Trial - Single Race: Floria Fields": {
+      "codename": "CityTrialSingleRaceFloriaFields"
+    },
+    "City Trial - Single Race: Waveflow Waters": {
+      "codename": "CityTrialSingleRaceWaveflowWaters"
+    },
+    "City Trial - Single Race: Airtopia Ruins": {
+      "codename": "CityTrialSingleRaceAirtopiaRuins"
+    },
+    "City Trial - Single Race: Crystalline Fissure": {
+      "codename": "CityTrialSingleRaceCrystallineFissure"
+    },
+    "City Trial - Single Race: Steamgust Forge": {
+      "codename": "CityTrialSingleRaceSteamgustForge"
+    },
+    "City Trial - Single Race: Cavernous Corners": {
+      "codename": "CityTrialSingleRaceCavernousCorners"
+    },
+    "City Trial - Single Race: Cyberion Highway": {
+      "codename": "CityTrialSingleRaceCyberionHighway"
+    },
+    "City Trial - Single Race: Mount Amberfalls": {
+      "codename": "CityTrialSingleRaceMountAmberfalls"
+    },
+    "City Trial - Single Race: Fantasy Meadows": {
+      "codename": "CityTrialSingleRaceFantasyMeadows"
+    },
+    "City Trial - Single Race: Celestial Valley": {
+      "codename": "CityTrialSingleRaceCelestialValley"
+    },
+    "City Trial - Single Race: Sky Sands": {
+      "codename": "CityTrialSingleRaceSkySands"
+    },
+    "City Trial - Single Race: Frozen Hillside": {
+      "codename": "CityTrialSingleRaceFrozenHillside"
+    },
+    "City Trial - Single Race: Magma Flows": {
+      "codename": "CityTrialSingleRaceMagmaFlows"
+    },
+    "City Trial - Single Race: Beanstalk Park": {
+      "codename": "CityTrialSingleRaceBeanstalkPark"
+    },
+    "City Trial - Single Race: Machine Passage": {
+      "codename": "CityTrialSingleRaceMachinePassage"
+    },
+    "City Trial - Single Race: Checker Knights": {
+      "codename": "CityTrialSingleRaceCheckerKnights"
+    },
+    "City Trial - Single Race: Nebula Belt": {
+      "codename": "CityTrialSingleRaceNebulaBelt"
+    },
+    "City Trial - Skydive 1": {
+      "codename": "CityTrialSkydive1"
+    },
+    "City Trial - Skydive 2": {
+      "codename": "CityTrialSkydive2"
+    },
+    "City Trial - Target Flight 1": {
+      "codename": "CityTrialTargetFlight1"
+    },
+    "City Trial - Target Flight 2": {
+      "codename": "CityTrialTargetFlight2"
+    },
+    "City Trial - Target Flight 3": {
+      "codename": "CityTrialTargetFlight3"
+    },
+    "City Trial - VS. Robo-Dedede": {
+      "codename": "CityTrialVSRoboDedede"
+    },
+    "City Trial - VS. Zero Two": {
+      "codename": "CityTrialVSZeroTwo"
+    },
+    "City Trial - VS. Nightmare": {
+      "codename": "CityTrialVSNightmare"
+    },
+    "City Trial - VS. Marx": {
+      "codename": "CityTrialVSMarx"
+    },
+    "City Trial - VS. Gigantes": {
+      "codename": "CityTrialVSGigantes"
     }
   }
 }

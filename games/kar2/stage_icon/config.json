@@ -7,5 +7,445 @@
     "stage_icon"
   ],
   "credits": "Air Ride assets ripped from https://wikirby.com/wiki/Kirby_Air_Riders\nTop Ride and City Trial assets screenshotted by Mathias Wolfbrok",
-  "version": "25.11.25.69969"
+  "version": "25.11.25.69969",
+  "image_sizes": {
+    "AirRideAirtopiaRuins": {
+      "null": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "AirRideBeanstalkPark": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideCavernousCorners": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideCelestialValley": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideCheckerKnights": {
+      "null": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "AirRideCrystallineFissure": {
+      "null": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "AirRideCyberionHighway": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideFantasyMeadows": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideFloriaFields": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideFrozenHillside": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideGalacticNova": {
+      "null": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "AirRideMachinePassage": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideMagmaFlows": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideMountAmberfalls": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideNebulaBelt": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideSkySands": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "AirRideSteamgustForge": {
+      "null": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "AirRideWaveflowWaters": {
+      "null": {
+        "x": 3840,
+        "y": 2160
+      }
+    },
+    "CityTrial": {
+      "null": {
+        "x": 1024,
+        "y": 576
+      }
+    },
+    "CityTrialAirGlider": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialBeamGauntlet1": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialBeamGauntlet2": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialBigBattle1": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialBigBattle2": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialBigBattle3": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialButtonRush1": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialButtonRush2": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialDragRace1": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialDragRace2": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialDragRace3": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialDragRace4": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialDustupDerby1": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialDustupDerby2": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialDustupDerby3": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialDustupDerby4": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialDustupDerby5": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialGourmetRace": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialHighJump": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialKirbyMelee1": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialKirbyMelee2": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialOvalCircuit": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialRailPanic": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceAirtopiaRuins": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceBeanstalkPark": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceCavernousCorners": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceCelestialValley": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceCheckerKnights": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceCrystallineFissure": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceCyberionHighway": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceFantasyMeadows": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceFloriaFields": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceFrozenHillside": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceMachinePassage": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceMagmaFlows": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceMountAmberfalls": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceNebulaBelt": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceSkySands": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceSteamgustForge": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSingleRaceWaveflowWaters": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSkydive1": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialSkydive2": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialTargetFlight1": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialTargetFlight2": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "CityTrialTargetFlight3": {
+      "null": {
+        "x": 1920,
+        "y": 896
+      }
+    },
+    "TopRideAir": {
+      "null": {
+        "x": 672,
+        "y": 736
+      }
+    },
+    "TopRideCave": {
+      "null": {
+        "x": 672,
+        "y": 736
+      }
+    },
+    "TopRideCrystal": {
+      "null": {
+        "x": 672,
+        "y": 736
+      }
+    },
+    "TopRideCyber": {
+      "null": {
+        "x": 672,
+        "y": 736
+      }
+    },
+    "TopRideFlow": {
+      "null": {
+        "x": 672,
+        "y": 736
+      }
+    },
+    "TopRideFlower": {
+      "null": {
+        "x": 672,
+        "y": 736
+      }
+    },
+    "TopRideMountain": {
+      "null": {
+        "x": 672,
+        "y": 736
+      }
+    },
+    "TopRideNova": {
+      "null": {
+        "x": 659,
+        "y": 736
+      }
+    },
+    "TopRideSteam": {
+      "null": {
+        "x": 672,
+        "y": 736
+      }
+    }
+  }
 }

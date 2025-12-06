@@ -117,10 +117,34 @@
         "y": 2160
       }
     },
-    "CityTrial": {
+    "BossDedede": {
       "null": {
-        "x": 1024,
-        "y": 576
+        "x": 3840,
+        "y": 1794
+      }
+    },
+    "BossGigantes": {
+      "null": {
+        "x": 3840,
+        "y": 1794
+      }
+    },
+    "BossMarx": {
+      "null": {
+        "x": 3840,
+        "y": 1794
+      }
+    },
+    "BossNightmare": {
+      "null": {
+        "x": 3840,
+        "y": 1794
+      }
+    },
+    "BossZero": {
+      "null": {
+        "x": 3840,
+        "y": 1794
       }
     },
     "CityTrialAirGlider": {
@@ -391,6 +415,12 @@
       "null": {
         "x": 1920,
         "y": 896
+      }
+    },
+    "Skyah": {
+      "null": {
+        "x": 1024,
+        "y": 576
       }
     },
     "TopRideAir": {

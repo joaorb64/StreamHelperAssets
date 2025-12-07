@@ -3044,31 +3044,31 @@
   },
   "preset_colors": [
     {
-      "name": "Player 1",
+      "name": "Player 1 (Offline)",
       "value": "fd9800",
       "locale": {
-        "fr": "Joueur 1"
+        "fr": "Joueur 1 (Local)"
       }
     },
     {
-      "name": "Player 2",
+      "name": "Player 2 (Offline)",
       "value": "02c8e4",
       "locale": {
-        "fr": "Joueur 2"
+        "fr": "Joueur 2 (Local)"
       }
     },
     {
-      "name": "Player 3",
+      "name": "Player 3 (Offline)",
       "value": "f890f0",
       "locale": {
-        "fr": "Joueur 3"
+        "fr": "Joueur 3 (Local)"
       }
     },
     {
-      "name": "Player 4",
+      "name": "Player 4 (Offline)",
       "value": "95eb0d",
       "locale": {
-        "fr": "Joueur 4"
+        "fr": "Joueur 4 (Local)"
       }
     },
     {
@@ -3076,6 +3076,34 @@
       "value": "b7c5c6",
       "locale": {
         "fr": "Ordinateur"
+      }
+    },
+    {
+      "name": "Player 1 (Online)",
+      "value": "3fdc60",
+      "locale": {
+        "fr": "Joueur 1 (En ligne)"
+      }
+    },
+    {
+      "name": "Player 2 (Online)",
+      "value": "8066e2",
+      "locale": {
+        "fr": "Joueur 2 (En ligne)"
+      }
+    },
+    {
+      "name": "Player 3 (Online)",
+      "value": "e91c87",
+      "locale": {
+        "fr": "Joueur 3 (En ligne)"
+      }
+    },
+    {
+      "name": "Player 4 (Online)",
+      "value": "cd8500",
+      "locale": {
+        "fr": "Joueur 4 (En ligne)"
       }
     }
   ]

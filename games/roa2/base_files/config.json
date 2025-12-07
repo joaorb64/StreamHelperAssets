@@ -3041,5 +3041,42 @@
         "fr": "Capitale du Feu Polygonale"
       }
     }
-  }
+  },
+  "preset_colors": [
+    {
+      "name": "Player 1",
+      "value": "fd9800",
+      "locale": {
+        "fr": "Joueur 1"
+      }
+    },
+    {
+      "name": "Player 2",
+      "value": "02c8e4",
+      "locale": {
+        "fr": "Joueur 2"
+      }
+    },
+    {
+      "name": "Player 3",
+      "value": "f890f0",
+      "locale": {
+        "fr": "Joueur 3"
+      }
+    },
+    {
+      "name": "Player 4",
+      "value": "95eb0d",
+      "locale": {
+        "fr": "Joueur 4"
+      }
+    },
+    {
+      "name": "Computer Player",
+      "value": "b7c5c6",
+      "locale": {
+        "fr": "Ordinateur"
+      }
+    }
+  ]
 }

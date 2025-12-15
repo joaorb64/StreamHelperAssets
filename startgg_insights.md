@@ -797,22 +797,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Vampire Savior
-- Character [Anakaris] not assigned in TSH!
-- Character [Baby Bonnie Hood] not assigned in TSH!
-- Character [Bishamon] not assigned in TSH!
-- Character [Demitri] not assigned in TSH!
-- Character [Felicia] not assigned in TSH!
-- Character [Hsien-Ko] not assigned in TSH!
-- Character [Jedah] not assigned in TSH!
-- Character [Jon Talbain] not assigned in TSH!
-- Character [Lilith] not assigned in TSH!
-- Character [Lord Raptor] not assigned in TSH!
-- Character [Morrigan] not assigned in TSH!
-- Character [Q-Bee] not assigned in TSH!
-- Character [Rikuo] not assigned in TSH!
-- Character [Sasquatch] not assigned in TSH!
-- Character [Victor] not assigned in TSH!
-### Coverage: (0/15)
+- Character [Donovan Baine]: Character name [Donovan] doesn't exist in StartGG
+- Character [Huitzil]: Character name [Huitzil] doesn't exist in StartGG
+- Character [Pyron]: Character name [Pyron] doesn't exist in StartGG
+### Coverage: (15/15)
 
 ## Waku Waku 7
 Game has no characters in startgg...? Or do we have a wrong game id?

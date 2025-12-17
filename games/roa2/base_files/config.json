@@ -238,6 +238,12 @@
         },
         "77": {
           "name": "Abyss - Midnight"
+        },
+        "78": {
+          "name": "Default - Winterfest"
+        },
+        "79": {
+          "name": "Snowman - Yellow"
         }
       }
     },
@@ -502,6 +508,9 @@
         },
         "85": {
           "name": "Snow Day - Black"
+        },
+        "86": {
+          "name": "Default - Winterfest"
         }
       }
     },
@@ -727,6 +736,9 @@
         },
         "72": {
           "name": "Low Poly - Orange"
+        },
+        "73": {
+          "name": "Default - Winterfest"
         }
       }
     },
@@ -973,6 +985,12 @@
         },
         "79": {
           "name": "Santa - Red"
+        },
+        "80": {
+          "name": "Default - Winterfest"
+        },
+        "81": {
+          "name": "Santa - White"
         }
       }
     },
@@ -1219,6 +1237,9 @@
         },
         "79": {
           "name": "Artic - Red"
+        },
+        "80": {
+          "name": "Default - Winterfest"
         }
       }
     },
@@ -1426,6 +1447,9 @@
         },
         "66": {
           "name": "Winter Stoat - Purple"
+        },
+        "67": {
+          "name": "Default - Winterfest"
         }
       }
     },
@@ -1693,6 +1717,9 @@
         },
         "86": {
           "name": "Elf - Red"
+        },
+        "87": {
+          "name": "Default - Winterfest"
         }
       }
     },
@@ -2155,6 +2182,9 @@
         },
         "72": {
           "name": "Abyss - Midnight"
+        },
+        "73": {
+          "name": "Default - Winterfest"
         }
       }
     },
@@ -2362,6 +2392,15 @@
         },
         "66": {
           "name": "Champion - Red"
+        },
+        "67": {
+          "name": "Abyss - Midnight"
+        },
+        "68": {
+          "name": "Default - Winterfest"
+        },
+        "69": {
+          "name": "Krampus - White"
         }
       }
     },
@@ -2524,6 +2563,21 @@
         },
         "51": {
           "name": "Low Poly - Red"
+        },
+        "52": {
+          "name": "Grizzly"
+        },
+        "53": {
+          "name": "Grizzly - Blue"
+        },
+        "54": {
+          "name": "Grizzly - Green"
+        },
+        "55": {
+          "name": "Grizzly - Winterfest"
+        },
+        "56": {
+          "name": "Grizzly - Red"
         }
       }
     },
@@ -2686,6 +2740,9 @@
         },
         "51": {
           "name": "Low Poly - Black"
+        },
+        "52": {
+          "name": "Default - Winterfest"
         }
       }
     },
@@ -2839,6 +2896,9 @@
         },
         "48": {
           "name": "Reindeer - Red"
+        },
+        "49": {
+          "name": "Default - Winterfest"
         }
       }
     },
@@ -2935,6 +2995,30 @@
         },
         "29": {
           "name": "Retro - Red"
+        },
+        "30": {
+          "name": "Genesis"
+        },
+        "31": {
+          "name": "Genesis - Blue"
+        },
+        "32": {
+          "name": "Genesis - Green"
+        },
+        "33": {
+          "name": "Genesis - Red"
+        },
+        "34": {
+          "name": "Yuletide"
+        },
+        "35": {
+          "name": "Yuletide - Blue"
+        },
+        "36": {
+          "name": "Yuletide - Green"
+        },
+        "37": {
+          "name": "Yuletide - Red"
         }
       }
     }

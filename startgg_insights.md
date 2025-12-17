@@ -120,9 +120,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Mr. Big]: Character name [Mr. Big] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (21/22)
+### Coverage: (22/23)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?

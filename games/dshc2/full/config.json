@@ -6,7 +6,7 @@
   "type": [
     "full"
   ],
-  "credits": "Ripped from https://demonslayer-hinokami.sega.com/ and https://asia.sega.com/kimetsu_hinokami2/en/character/",
+  "credits": "Ripped from https://demonslayer-hinokami.sega.com/ and https://game.kimetsu.com/hinokami2/character/",
   "version": "25.10.31.80607",
   "uncropped_edge": [
     "u",
@@ -19,6 +19,10 @@
       "0": {
         "x": 1289,
         "y": 185
+      },
+      "1": {
+        "x": 1073,
+        "y": 364
       }
     },
     "Daki": {
@@ -274,7 +278,8 @@
   },
   "rescaling_factor": {
     "Akaza": {
-      "0": 0.5434782608695652
+      "0": 0.5434782608695652,
+      "1": 0.47664442326024786
     },
     "Daki": {
       "0": 0.5434782608695652

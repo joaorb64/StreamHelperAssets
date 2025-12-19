@@ -476,6 +476,12 @@
         },
         "1": {
           "name": "Alola"
+        },
+        "2": {
+          "name": "Mega-X"
+        },
+        "3": {
+          "name": "Mega-Y"
         }
       }
     },
@@ -5444,6 +5450,11 @@
         "zh_TW": "\u98a8\u9234\u9234",
         "it": "Chimecho",
         "es": "Chimecho"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Absol": {
@@ -5461,6 +5472,9 @@
       "skin_name": {
         "1": {
           "name": "Mega"
+        },
+        "2": {
+          "name": "Mega-Z"
         }
       }
     },
@@ -6009,6 +6023,11 @@
         "zh_TW": "\u59c6\u514b\u9df9",
         "it": "Staraptor",
         "es": "Staraptor"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Bidoof": {
@@ -6675,6 +6694,9 @@
       "skin_name": {
         "1": {
           "name": "Mega"
+        },
+        "2": {
+          "name": "Mega-Z"
         }
       }
     },
@@ -6719,6 +6741,9 @@
       "skin_name": {
         "1": {
           "name": "Mega"
+        },
+        "2": {
+          "name": "Mega-Z"
         }
       }
     },
@@ -7243,6 +7268,11 @@
         "zh_TW": "\u5e2d\u591a\u85cd\u6069",
         "it": "Heatran",
         "es": "Heatran"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Regigigas": {
@@ -7329,6 +7359,11 @@
         "zh_TW": "\u9054\u514b\u840a\u4f0a",
         "it": "Darkrai",
         "es": "Darkrai"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Shaymin": {
@@ -9258,6 +9293,11 @@
         "zh_TW": "\u6ce5\u5076\u5de8\u4eba",
         "it": "Golurk",
         "es": "Golurk"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Pawniard": {
@@ -10178,6 +10218,9 @@
         },
         "1": {
           "name": "Female"
+        },
+        "2": {
+          "name": "Mega"
         }
       }
     },
@@ -11080,6 +11123,11 @@
         "zh_TW": "\u597d\u52dd\u6bdb\u87f9",
         "it": "Crabominable",
         "es": "Crabominable"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Oricorio": {
@@ -11477,6 +11525,11 @@
         "zh_TW": "\u5177\u7532\u6b66\u8005",
         "it": "Golisopod",
         "es": "Golisopod"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Sandygast": {
@@ -12005,6 +12058,12 @@
       "skin_name": {
         "1": {
           "name": "Original Color"
+        },
+        "2": {
+          "name": "Mega"
+        },
+        "3": {
+          "name": "Mega (Original Color)"
         }
       }
     },
@@ -12084,6 +12143,11 @@
         "zh_TW": "\u6377\u62c9\u5967\u62c9",
         "it": "Zeraora",
         "es": "Zeraora"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Meltan": {
@@ -14191,6 +14255,11 @@
         "zh_TW": "\u72e0\u8fa3\u6912",
         "it": "Scovillain",
         "es": "Scovillain"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Rellor": {
@@ -14433,6 +14502,11 @@
         "zh_TW": "\u6676\u5149\u82b1",
         "it": "Glimmora",
         "es": "Glimmora"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Greavard": {
@@ -14547,6 +14621,15 @@
         },
         "2": {
           "name": "Stretchy"
+        },
+        "3": {
+          "name": "Mega (Curly)"
+        },
+        "4": {
+          "name": "Mega (Droopy)"
+        },
+        "5": {
+          "name": "Mega (Stretchy)"
         }
       }
     },
@@ -14816,6 +14899,11 @@
         "zh_TW": "\u621f\u810a\u9f8d",
         "it": "Baxcalibur",
         "es": "Baxcalibur"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
       }
     },
     "Gimmighoul": {

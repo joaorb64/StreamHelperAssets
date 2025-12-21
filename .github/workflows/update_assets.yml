@@ -20,9 +20,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Free Disk Space (Ubuntu)
-        uses: actions-marketplace-validations/curoky_cleanup-disk-action@master
+        uses: mathio/gha-cleanup@v1
         with:
-          retain: "python,node"
+          remove-browsers: true
+          verbose: true
 
       - name: Install hub
         run: |

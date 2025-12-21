@@ -1,6 +1,9 @@
 {
   "credits": "Extracted from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
   "description": "Renders for every in-game costume",
+  "uncropped_edge": [
+    "d"
+  ],
   "eyesights": {
     "Clairen": {
       "0": {

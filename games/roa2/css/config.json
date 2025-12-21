@@ -4,7 +4,7 @@
   "prefix": "RoA2_",
   "postfix": "_",
   "type": [
-    "portrait"
+    "css"
   ],
   "version": "25.10.16.69777",
   "uncropped_edge": [
@@ -17,85 +17,5 @@
     "x": 509.0,
     "y": 403.0
   },
-  "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II\nCustom CSS images by hok0ri",
-  "image_sizes": {
-    "Clairen": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Etalus": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Fleet": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Forsburn": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Galvan": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Kragg": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Loxodont": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Maypul": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Olympia": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Orcane": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Ranno": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Wrastor": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    },
-    "Zetterburn": {
-      "0": {
-        "x": 509,
-        "y": 403
-      }
-    }
-  }
+  "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II"
 }

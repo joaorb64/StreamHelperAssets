@@ -295,7 +295,7 @@
       }
     }
   },
-  "version": "25.12.21.76611",
+  "version": "25.12.29.56010",
   "description": "Base config to use this game",
   "credits": "Assets ripped from https://www.nintendo.com/jp/games/switch2/aaaba/rider-machine/index.html",
   "locale": {
@@ -328,7 +328,7 @@
     "Air Ride - Airtopia Ruins": {
       "codename": "AirRideAirtopiaRuins",
       "locale": {
-        "fr": "Air Ride - Ruines d’Aérotopia"
+        "fr": "Air Ride - Ruines d\u2019A\u00e9rotopia"
       }
     },
     "Air Ride - Crystalline Fissure": {
@@ -346,13 +346,13 @@
     "Air Ride - Cavernous Corners": {
       "codename": "AirRideCavernousCorners",
       "locale": {
-        "fr": "Air Ride - Contrées caverneuses"
+        "fr": "Air Ride - Contr\u00e9es caverneuses"
       }
     },
     "Air Ride - Cyberion Highway": {
       "codename": "AirRideCyberionHighway",
       "locale": {
-        "fr": "Air Ride - Réseau Cyberix"
+        "fr": "Air Ride - R\u00e9seau Cyberix"
       }
     },
     "Air Ride - Mount Amberfalls": {
@@ -364,7 +364,7 @@
     "Air Ride - Galactic Nova": {
       "codename": "AirRideGalacticNova",
       "locale": {
-        "fr": "Air Ride - Comète Nova"
+        "fr": "Air Ride - Com\u00e8te Nova"
       }
     },
     "Air Ride - Fantasy Meadows": {
@@ -376,25 +376,25 @@
     "Air Ride - Celestial Valley": {
       "codename": "AirRideCelestialValley",
       "locale": {
-        "fr": "Air Ride - Vallée céleste"
+        "fr": "Air Ride - Vall\u00e9e c\u00e9leste"
       }
     },
     "Air Ride - Sky Sands": {
       "codename": "AirRideSkySands",
       "locale": {
-        "fr": "Air Ride - Sables aériens"
+        "fr": "Air Ride - Sables a\u00e9riens"
       }
     },
     "Air Ride - Frozen Hillside": {
       "codename": "AirRideFrozenHillside",
       "locale": {
-        "fr": "Air Ride - Versant glacé"
+        "fr": "Air Ride - Versant glac\u00e9"
       }
     },
     "Air Ride - Magma Flows": {
       "codename": "AirRideMagmaFlows",
       "locale": {
-        "fr": "Air Ride - Coulée magmatique"
+        "fr": "Air Ride - Coul\u00e9e magmatique"
       }
     },
     "Air Ride - Beanstalk Park": {
@@ -406,7 +406,7 @@
     "Air Ride - Machine Passage": {
       "codename": "AirRideMachinePassage",
       "locale": {
-        "fr": "Air Ride - Passage mécanique"
+        "fr": "Air Ride - Passage m\u00e9canique"
       }
     },
     "Air Ride - Checker Knights": {
@@ -418,7 +418,7 @@
     "Air Ride - Nebula Belt": {
       "codename": "AirRideNebulaBelt",
       "locale": {
-        "fr": "Air Ride - Courbure Nébula"
+        "fr": "Air Ride - Courbure N\u00e9bula"
       }
     },
     "Top Ride - Flower": {
@@ -484,37 +484,37 @@
     "City Trial - Air Glider": {
       "codename": "CityTrialAirGlider",
       "locale": {
-        "fr": "City Trial - Aéroglisse"
+        "fr": "City Trial - A\u00e9roglisse"
       }
     },
     "City Trial - Beam Gauntlet 1": {
       "codename": "CityTrialBeamGauntlet1",
       "locale": {
-        "fr": "City Trial - Dédale laser 1"
+        "fr": "City Trial - D\u00e9dale laser 1"
       }
     },
     "City Trial - Beam Gauntlet 2": {
       "codename": "CityTrialBeamGauntlet2",
       "locale": {
-        "fr": "City Trial - Dédale laser 2"
+        "fr": "City Trial - D\u00e9dale laser 2"
       }
     },
     "City Trial - Big Battle 1": {
       "codename": "CityTrialBigBattle1",
       "locale": {
-        "fr": "City Trial - Offensive géante 1"
+        "fr": "City Trial - Offensive g\u00e9ante 1"
       }
     },
     "City Trial - Big Battle 2": {
       "codename": "CityTrialBigBattle2",
       "locale": {
-        "fr": "City Trial - Offensive géante 2"
+        "fr": "City Trial - Offensive g\u00e9ante 2"
       }
     },
     "City Trial - Big Battle 3": {
       "codename": "CityTrialBigBattle3",
       "locale": {
-        "fr": "City Trial - Offensive géante 3"
+        "fr": "City Trial - Offensive g\u00e9ante 3"
       }
     },
     "City Trial - Button Rush 1": {
@@ -532,25 +532,25 @@
     "City Trial - Drag Race 1": {
       "codename": "CityTrialDragRace1",
       "locale": {
-        "fr": "City Trial - Comme une flèche 1"
+        "fr": "City Trial - Comme une fl\u00e8che 1"
       }
     },
     "City Trial - Drag Race 2": {
       "codename": "CityTrialDragRace2",
       "locale": {
-        "fr": "City Trial - Comme une flèche 2"
+        "fr": "City Trial - Comme une fl\u00e8che 2"
       }
     },
     "City Trial - Drag Race 3": {
       "codename": "CityTrialDragRace3",
       "locale": {
-        "fr": "City Trial - Comme une flèche 3"
+        "fr": "City Trial - Comme une fl\u00e8che 3"
       }
     },
     "City Trial - Drag Race 4": {
       "codename": "CityTrialDragRace4",
       "locale": {
-        "fr": "City Trial - Comme une flèche 4"
+        "fr": "City Trial - Comme une fl\u00e8che 4"
       }
     },
     "City Trial - Dustup Derby 1": {
@@ -598,13 +598,13 @@
     "City Trial - Kirby Melee 1": {
       "codename": "CityTrialKirbyMelee1",
       "locale": {
-        "fr": "City Trial - Arène Kirby 1"
+        "fr": "City Trial - Ar\u00e8ne Kirby 1"
       }
     },
     "City Trial - Kirby Melee 2": {
       "codename": "CityTrialKirbyMelee2",
       "locale": {
-        "fr": "City Trial - Arène Kirby 2"
+        "fr": "City Trial - Ar\u00e8ne Kirby 2"
       }
     },
     "City Trial - Oval Circuit": {
@@ -634,7 +634,7 @@
     "City Trial - Single Race: Airtopia Ruins": {
       "codename": "CityTrialSingleRaceAirtopiaRuins",
       "locale": {
-        "fr": "City Trial - Course unique : Ruines d’Aérotopia"
+        "fr": "City Trial - Course unique : Ruines d\u2019A\u00e9rotopia"
       }
     },
     "City Trial - Single Race: Crystalline Fissure": {
@@ -652,13 +652,13 @@
     "City Trial - Single Race: Cavernous Corners": {
       "codename": "CityTrialSingleRaceCavernousCorners",
       "locale": {
-        "fr": "City Trial - Course unique : Contrées caverneuses"
+        "fr": "City Trial - Course unique : Contr\u00e9es caverneuses"
       }
     },
     "City Trial - Single Race: Cyberion Highway": {
       "codename": "CityTrialSingleRaceCyberionHighway",
       "locale": {
-        "fr": "City Trial - Course unique : Réseau Cyberix"
+        "fr": "City Trial - Course unique : R\u00e9seau Cyberix"
       }
     },
     "City Trial - Single Race: Mount Amberfalls": {
@@ -676,25 +676,25 @@
     "City Trial - Single Race: Celestial Valley": {
       "codename": "CityTrialSingleRaceCelestialValley",
       "locale": {
-        "fr": "City Trial - Course unique : Vallée céleste"
+        "fr": "City Trial - Course unique : Vall\u00e9e c\u00e9leste"
       }
     },
     "City Trial - Single Race: Sky Sands": {
       "codename": "CityTrialSingleRaceSkySands",
       "locale": {
-        "fr": "City Trial - Course unique : Sables aériens"
+        "fr": "City Trial - Course unique : Sables a\u00e9riens"
       }
     },
     "City Trial - Single Race: Frozen Hillside": {
       "codename": "CityTrialSingleRaceFrozenHillside",
       "locale": {
-        "fr": "City Trial - Course unique : Versant glacé"
+        "fr": "City Trial - Course unique : Versant glac\u00e9"
       }
     },
     "City Trial - Single Race: Magma Flows": {
       "codename": "CityTrialSingleRaceMagmaFlows",
       "locale": {
-        "fr": "City Trial - Course unique : Coulée magmatique"
+        "fr": "City Trial - Course unique : Coul\u00e9e magmatique"
       }
     },
     "City Trial - Single Race: Beanstalk Park": {
@@ -706,7 +706,7 @@
     "City Trial - Single Race: Machine Passage": {
       "codename": "CityTrialSingleRaceMachinePassage",
       "locale": {
-        "fr": "City Trial - Course unique : Passage mécanique"
+        "fr": "City Trial - Course unique : Passage m\u00e9canique"
       }
     },
     "City Trial - Single Race: Checker Knights": {
@@ -718,7 +718,7 @@
     "City Trial - Single Race: Nebula Belt": {
       "codename": "CityTrialSingleRaceNebulaBelt",
       "locale": {
-        "fr": "City Trial - Course unique : Courbure Nébula"
+        "fr": "City Trial - Course unique : Courbure N\u00e9bula"
       }
     },
     "City Trial - Skydive 1": {
@@ -736,19 +736,19 @@
     "City Trial - Target Flight 1": {
       "codename": "CityTrialTargetFlight1",
       "locale": {
-        "fr": "City Trial - Vol ciblé 1"
+        "fr": "City Trial - Vol cibl\u00e9 1"
       }
     },
     "City Trial - Target Flight 2": {
       "codename": "CityTrialTargetFlight2",
       "locale": {
-        "fr": "City Trial - Vol ciblé 2"
+        "fr": "City Trial - Vol cibl\u00e9 2"
       }
     },
     "City Trial - Target Flight 3": {
       "codename": "CityTrialTargetFlight3",
       "locale": {
-        "fr": "City Trial - Vol ciblé 3"
+        "fr": "City Trial - Vol cibl\u00e9 3"
       }
     },
     "City Trial - VS. Robo-Dedede": {

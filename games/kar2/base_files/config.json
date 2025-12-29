@@ -314,238 +314,472 @@
   },
   "stage_to_codename": {
     "Air Ride - Floria Fields": {
-      "codename": "AirRideFloriaFields"
+      "codename": "AirRideFloriaFields",
+      "locale": {
+        "fr": "Air Ride - Bocage Floria"
+      }
     },
     "Air Ride - Waveflow Waters": {
-      "codename": "AirRideWaveflowWaters"
+      "codename": "AirRideWaveflowWaters",
+      "locale": {
+        "fr": "Air Ride - Chemins aquatiques"
+      }
     },
     "Air Ride - Airtopia Ruins": {
-      "codename": "AirRideAirtopiaRuins"
+      "codename": "AirRideAirtopiaRuins",
+      "locale": {
+        "fr": "Air Ride - Ruines d’Aérotopia"
+      }
     },
     "Air Ride - Crystalline Fissure": {
-      "codename": "AirRideCrystallineFissure"
+      "codename": "AirRideCrystallineFissure",
+      "locale": {
+        "fr": "Air Ride - Crevasse cristalline"
+      }
     },
     "Air Ride - Steamgust Forge": {
-      "codename": "AirRideSteamgustForge"
+      "codename": "AirRideSteamgustForge",
+      "locale": {
+        "fr": "Air Ride - Fonderie Fumerole"
+      }
     },
     "Air Ride - Cavernous Corners": {
-      "codename": "AirRideCavernousCorners"
+      "codename": "AirRideCavernousCorners",
+      "locale": {
+        "fr": "Air Ride - Contrées caverneuses"
+      }
     },
     "Air Ride - Cyberion Highway": {
-      "codename": "AirRideCyberionHighway"
+      "codename": "AirRideCyberionHighway",
+      "locale": {
+        "fr": "Air Ride - Réseau Cyberix"
+      }
     },
     "Air Ride - Mount Amberfalls": {
-      "codename": "AirRideMountAmberfalls"
+      "codename": "AirRideMountAmberfalls",
+      "locale": {
+        "fr": "Air Ride - Chutes du mont Roux"
+      }
     },
     "Air Ride - Galactic Nova": {
-      "codename": "AirRideGalacticNova"
+      "codename": "AirRideGalacticNova",
+      "locale": {
+        "fr": "Air Ride - Comète Nova"
+      }
     },
     "Air Ride - Fantasy Meadows": {
-      "codename": "AirRideFantasyMeadows"
+      "codename": "AirRideFantasyMeadows",
+      "locale": {
+        "fr": "Air Ride - Prairie fantaisie"
+      }
     },
     "Air Ride - Celestial Valley": {
-      "codename": "AirRideCelestialValley"
+      "codename": "AirRideCelestialValley",
+      "locale": {
+        "fr": "Air Ride - Vallée céleste"
+      }
     },
     "Air Ride - Sky Sands": {
-      "codename": "AirRideSkySands"
+      "codename": "AirRideSkySands",
+      "locale": {
+        "fr": "Air Ride - Sables aériens"
+      }
     },
     "Air Ride - Frozen Hillside": {
-      "codename": "AirRideFrozenHillside"
+      "codename": "AirRideFrozenHillside",
+      "locale": {
+        "fr": "Air Ride - Versant glacé"
+      }
     },
     "Air Ride - Magma Flows": {
-      "codename": "AirRideMagmaFlows"
+      "codename": "AirRideMagmaFlows",
+      "locale": {
+        "fr": "Air Ride - Coulée magmatique"
+      }
     },
     "Air Ride - Beanstalk Park": {
-      "codename": "AirRideBeanstalkPark"
+      "codename": "AirRideBeanstalkPark",
+      "locale": {
+        "fr": "Air Ride - Parc aux haricots"
+      }
     },
     "Air Ride - Machine Passage": {
-      "codename": "AirRideMachinePassage"
+      "codename": "AirRideMachinePassage",
+      "locale": {
+        "fr": "Air Ride - Passage mécanique"
+      }
     },
     "Air Ride - Checker Knights": {
-      "codename": "AirRideCheckerKnights"
+      "codename": "AirRideCheckerKnights",
+      "locale": {
+        "fr": "Air Ride - Damier des chevaliers"
+      }
     },
     "Air Ride - Nebula Belt": {
-      "codename": "AirRideNebulaBelt"
+      "codename": "AirRideNebulaBelt",
+      "locale": {
+        "fr": "Air Ride - Courbure Nébula"
+      }
     },
     "Top Ride - Flower": {
-      "codename": "TopRideFlower"
+      "codename": "TopRideFlower",
+      "locale": {
+        "fr": "Top Ride - Fleur"
+      }
     },
     "Top Ride - Flow": {
-      "codename": "TopRideFlow"
+      "codename": "TopRideFlow",
+      "locale": {
+        "fr": "Top Ride - Flot"
+      }
     },
     "Top Ride - Air": {
-      "codename": "TopRideAir"
+      "codename": "TopRideAir",
+      "locale": {
+        "fr": "Top Ride - Air"
+      }
     },
     "Top Ride - Crystal": {
-      "codename": "TopRideCrystal"
+      "codename": "TopRideCrystal",
+      "locale": {
+        "fr": "Top Ride - Cristal"
+      }
     },
     "Top Ride - Steam": {
-      "codename": "TopRideSteam"
+      "codename": "TopRideSteam",
+      "locale": {
+        "fr": "Top Ride - Machine"
+      }
     },
     "Top Ride - Cave": {
-      "codename": "TopRideCave"
+      "codename": "TopRideCave",
+      "locale": {
+        "fr": "Top Ride - Grotte"
+      }
     },
     "Top Ride - Cyber": {
-      "codename": "TopRideCyber"
+      "codename": "TopRideCyber",
+      "locale": {
+        "fr": "Top Ride - Cyber"
+      }
     },
     "Top Ride - Mountain": {
-      "codename": "TopRideMountain"
+      "codename": "TopRideMountain",
+      "locale": {
+        "fr": "Top Ride - Montagne"
+      }
     },
     "Top Ride - Nova": {
-      "codename": "TopRideNova"
+      "codename": "TopRideNova",
+      "locale": {
+        "fr": "Top Ride - Nova"
+      }
     },
     "City Trial": {
-      "codename": "Skyah"
+      "codename": "Skyah",
+      "locale": {
+        "fr": "City Trial"
+      }
     },
     "City Trial - Air Glider": {
-      "codename": "CityTrialAirGlider"
+      "codename": "CityTrialAirGlider",
+      "locale": {
+        "fr": "City Trial - Aéroglisse"
+      }
     },
     "City Trial - Beam Gauntlet 1": {
-      "codename": "CityTrialBeamGauntlet1"
+      "codename": "CityTrialBeamGauntlet1",
+      "locale": {
+        "fr": "City Trial - Dédale laser 1"
+      }
     },
     "City Trial - Beam Gauntlet 2": {
-      "codename": "CityTrialBeamGauntlet2"
+      "codename": "CityTrialBeamGauntlet2",
+      "locale": {
+        "fr": "City Trial - Dédale laser 2"
+      }
     },
     "City Trial - Big Battle 1": {
-      "codename": "CityTrialBigBattle1"
+      "codename": "CityTrialBigBattle1",
+      "locale": {
+        "fr": "City Trial - Offensive géante 1"
+      }
     },
     "City Trial - Big Battle 2": {
-      "codename": "CityTrialBigBattle2"
+      "codename": "CityTrialBigBattle2",
+      "locale": {
+        "fr": "City Trial - Offensive géante 2"
+      }
     },
     "City Trial - Big Battle 3": {
-      "codename": "CityTrialBigBattle3"
+      "codename": "CityTrialBigBattle3",
+      "locale": {
+        "fr": "City Trial - Offensive géante 3"
+      }
     },
     "City Trial - Button Rush 1": {
-      "codename": "CityTrialButtonRush1"
+      "codename": "CityTrialButtonRush1",
+      "locale": {
+        "fr": "City Trial - Course aux boutons 1"
+      }
     },
     "City Trial - Button Rush 2": {
-      "codename": "CityTrialButtonRush2"
+      "codename": "CityTrialButtonRush2",
+      "locale": {
+        "fr": "City Trial - Course aux boutons 2"
+      }
     },
     "City Trial - Drag Race 1": {
-      "codename": "CityTrialDragRace1"
+      "codename": "CityTrialDragRace1",
+      "locale": {
+        "fr": "City Trial - Comme une flèche 1"
+      }
     },
     "City Trial - Drag Race 2": {
-      "codename": "CityTrialDragRace2"
+      "codename": "CityTrialDragRace2",
+      "locale": {
+        "fr": "City Trial - Comme une flèche 2"
+      }
     },
     "City Trial - Drag Race 3": {
-      "codename": "CityTrialDragRace3"
+      "codename": "CityTrialDragRace3",
+      "locale": {
+        "fr": "City Trial - Comme une flèche 3"
+      }
     },
     "City Trial - Drag Race 4": {
-      "codename": "CityTrialDragRace4"
+      "codename": "CityTrialDragRace4",
+      "locale": {
+        "fr": "City Trial - Comme une flèche 4"
+      }
     },
     "City Trial - Dustup Derby 1": {
-      "codename": "CityTrialDustupDerby1"
+      "codename": "CityTrialDustupDerby1",
+      "locale": {
+        "fr": "City Trial - Derby fatal 1"
+      }
     },
     "City Trial - Dustup Derby 2": {
-      "codename": "CityTrialDustupDerby2"
+      "codename": "CityTrialDustupDerby2",
+      "locale": {
+        "fr": "City Trial - Derby fatal 2"
+      }
     },
     "City Trial - Dustup Derby 3": {
-      "codename": "CityTrialDustupDerby3"
+      "codename": "CityTrialDustupDerby3",
+      "locale": {
+        "fr": "City Trial - Derby fatal 3"
+      }
     },
     "City Trial - Dustup Derby 4": {
-      "codename": "CityTrialDustupDerby4"
+      "codename": "CityTrialDustupDerby4",
+      "locale": {
+        "fr": "City Trial - Derby fatal 4"
+      }
     },
     "City Trial - Dustup Derby 5": {
-      "codename": "CityTrialDustupDerby5"
+      "codename": "CityTrialDustupDerby5",
+      "locale": {
+        "fr": "City Trial - Derby fatal 5"
+      }
     },
     "City Trial - Gourmet Race": {
-      "codename": "CityTrialGourmetRace"
+      "codename": "CityTrialGourmetRace",
+      "locale": {
+        "fr": "City Trial - Rallye exquis"
+      }
     },
     "City Trial - High Jump": {
-      "codename": "CityTrialHighJump"
+      "codename": "CityTrialHighJump",
+      "locale": {
+        "fr": "City Trial - Saut en hauteur"
+      }
     },
     "City Trial - Kirby Melee 1": {
-      "codename": "CityTrialKirbyMelee1"
+      "codename": "CityTrialKirbyMelee1",
+      "locale": {
+        "fr": "City Trial - Arène Kirby 1"
+      }
     },
     "City Trial - Kirby Melee 2": {
-      "codename": "CityTrialKirbyMelee2"
+      "codename": "CityTrialKirbyMelee2",
+      "locale": {
+        "fr": "City Trial - Arène Kirby 2"
+      }
     },
     "City Trial - Oval Circuit": {
-      "codename": "CityTrialOvalCircuit"
+      "codename": "CityTrialOvalCircuit",
+      "locale": {
+        "fr": "City Trial - Circuit ovale"
+      }
     },
     "City Trial - Rail Panic": {
-      "codename": "CityTrialRailPanic"
+      "codename": "CityTrialRailPanic",
+      "locale": {
+        "fr": "City Trial - Panique sur les rails"
+      }
     },
     "City Trial - Single Race: Floria Fields": {
-      "codename": "CityTrialSingleRaceFloriaFields"
+      "codename": "CityTrialSingleRaceFloriaFields",
+      "locale": {
+        "fr": "City Trial - Course unique : Bocage Floria"
+      }
     },
     "City Trial - Single Race: Waveflow Waters": {
-      "codename": "CityTrialSingleRaceWaveflowWaters"
+      "codename": "CityTrialSingleRaceWaveflowWaters",
+      "locale": {
+        "fr": "City Trial - Course unique : Chemins aquatiques"
+      }
     },
     "City Trial - Single Race: Airtopia Ruins": {
-      "codename": "CityTrialSingleRaceAirtopiaRuins"
+      "codename": "CityTrialSingleRaceAirtopiaRuins",
+      "locale": {
+        "fr": "City Trial - Course unique : Ruines d’Aérotopia"
+      }
     },
     "City Trial - Single Race: Crystalline Fissure": {
-      "codename": "CityTrialSingleRaceCrystallineFissure"
+      "codename": "CityTrialSingleRaceCrystallineFissure",
+      "locale": {
+        "fr": "City Trial - Course unique : Crevasse cristalline"
+      }
     },
     "City Trial - Single Race: Steamgust Forge": {
-      "codename": "CityTrialSingleRaceSteamgustForge"
+      "codename": "CityTrialSingleRaceSteamgustForge",
+      "locale": {
+        "fr": "City Trial - Course unique : Fonderie Fumerole"
+      }
     },
     "City Trial - Single Race: Cavernous Corners": {
-      "codename": "CityTrialSingleRaceCavernousCorners"
+      "codename": "CityTrialSingleRaceCavernousCorners",
+      "locale": {
+        "fr": "City Trial - Course unique : Contrées caverneuses"
+      }
     },
     "City Trial - Single Race: Cyberion Highway": {
-      "codename": "CityTrialSingleRaceCyberionHighway"
+      "codename": "CityTrialSingleRaceCyberionHighway",
+      "locale": {
+        "fr": "City Trial - Course unique : Réseau Cyberix"
+      }
     },
     "City Trial - Single Race: Mount Amberfalls": {
-      "codename": "CityTrialSingleRaceMountAmberfalls"
+      "codename": "CityTrialSingleRaceMountAmberfalls",
+      "locale": {
+        "fr": "City Trial - Course unique : Chutes du mont Roux"
+      }
     },
     "City Trial - Single Race: Fantasy Meadows": {
-      "codename": "CityTrialSingleRaceFantasyMeadows"
+      "codename": "CityTrialSingleRaceFantasyMeadows",
+      "locale": {
+        "fr": "City Trial - Course unique : Prairie fantaisie"
+      }
     },
     "City Trial - Single Race: Celestial Valley": {
-      "codename": "CityTrialSingleRaceCelestialValley"
+      "codename": "CityTrialSingleRaceCelestialValley",
+      "locale": {
+        "fr": "City Trial - Course unique : Vallée céleste"
+      }
     },
     "City Trial - Single Race: Sky Sands": {
-      "codename": "CityTrialSingleRaceSkySands"
+      "codename": "CityTrialSingleRaceSkySands",
+      "locale": {
+        "fr": "City Trial - Course unique : Sables aériens"
+      }
     },
     "City Trial - Single Race: Frozen Hillside": {
-      "codename": "CityTrialSingleRaceFrozenHillside"
+      "codename": "CityTrialSingleRaceFrozenHillside",
+      "locale": {
+        "fr": "City Trial - Course unique : Versant glacé"
+      }
     },
     "City Trial - Single Race: Magma Flows": {
-      "codename": "CityTrialSingleRaceMagmaFlows"
+      "codename": "CityTrialSingleRaceMagmaFlows",
+      "locale": {
+        "fr": "City Trial - Course unique : Coulée magmatique"
+      }
     },
     "City Trial - Single Race: Beanstalk Park": {
-      "codename": "CityTrialSingleRaceBeanstalkPark"
+      "codename": "CityTrialSingleRaceBeanstalkPark",
+      "locale": {
+        "fr": "City Trial - Course unique : Parc aux haricots"
+      }
     },
     "City Trial - Single Race: Machine Passage": {
-      "codename": "CityTrialSingleRaceMachinePassage"
+      "codename": "CityTrialSingleRaceMachinePassage",
+      "locale": {
+        "fr": "City Trial - Course unique : Passage mécanique"
+      }
     },
     "City Trial - Single Race: Checker Knights": {
-      "codename": "CityTrialSingleRaceCheckerKnights"
+      "codename": "CityTrialSingleRaceCheckerKnights",
+      "locale": {
+        "fr": "City Trial - Course unique : Damier des chevaliers"
+      }
     },
     "City Trial - Single Race: Nebula Belt": {
-      "codename": "CityTrialSingleRaceNebulaBelt"
+      "codename": "CityTrialSingleRaceNebulaBelt",
+      "locale": {
+        "fr": "City Trial - Course unique : Courbure Nébula"
+      }
     },
     "City Trial - Skydive 1": {
-      "codename": "CityTrialSkydive1"
+      "codename": "CityTrialSkydive1",
+      "locale": {
+        "fr": "City Trial - Chute libre 1"
+      }
     },
     "City Trial - Skydive 2": {
-      "codename": "CityTrialSkydive2"
+      "codename": "CityTrialSkydive2",
+      "locale": {
+        "fr": "City Trial - Chute libre 2"
+      }
     },
     "City Trial - Target Flight 1": {
-      "codename": "CityTrialTargetFlight1"
+      "codename": "CityTrialTargetFlight1",
+      "locale": {
+        "fr": "City Trial - Vol ciblé 1"
+      }
     },
     "City Trial - Target Flight 2": {
-      "codename": "CityTrialTargetFlight2"
+      "codename": "CityTrialTargetFlight2",
+      "locale": {
+        "fr": "City Trial - Vol ciblé 2"
+      }
     },
     "City Trial - Target Flight 3": {
-      "codename": "CityTrialTargetFlight3"
+      "codename": "CityTrialTargetFlight3",
+      "locale": {
+        "fr": "City Trial - Vol ciblé 3"
+      }
     },
     "City Trial - VS. Robo-Dedede": {
-      "codename": "BossDedede"
+      "codename": "BossDedede",
+      "locale": {
+        "fr": "City Trial - VS Robo Dadidou"
+      }
     },
     "City Trial - VS. Zero Two": {
-      "codename": "BossZero"
+      "codename": "BossZero",
+      "locale": {
+        "fr": "City Trial - VS Zero Two"
+      }
     },
     "City Trial - VS. Nightmare": {
-      "codename": "BossNightmare"
+      "codename": "BossNightmare",
+      "locale": {
+        "fr": "City Trial - VS Sorcier Cauchemar"
+      }
     },
     "City Trial - VS. Marx": {
-      "codename": "BossMarx"
+      "codename": "BossMarx",
+      "locale": {
+        "fr": "City Trial - VS Max"
+      }
     },
     "City Trial - VS. Gigantes": {
-      "codename": "BossGigantes"
+      "codename": "BossGigantes",
+      "locale": {
+        "fr": "City Trial - VS Gigantes"
+      }
     }
   }
 }

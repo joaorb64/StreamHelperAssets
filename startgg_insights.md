@@ -271,7 +271,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (22/22)
 
 ## Martial Champion
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
+    if game_data.get("characters"):
+AttributeError: 'NoneType' object has no attribute 'get'
+
 
 ## MerFight: Curse of the Arctic Prince
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -381,10 +385,18 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Ninja Master's ~Haō Ninpō Chō~
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
+    if game_data.get("characters"):
+AttributeError: 'NoneType' object has no attribute 'get'
+
 
 ## Ninza
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
+    if game_data.get("characters"):
+AttributeError: 'NoneType' object has no attribute 'get'
+
 
 ## New Super Mario Bros.
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -408,7 +420,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Panel de Pon (Nintendo Puzzle Collection)
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
+    if game_data.get("characters"):
+AttributeError: 'NoneType' object has no attribute 'get'
+
 
 ## Tetris Attack
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -529,7 +545,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Real Bout Fatal Fury Special
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
+    if game_data.get("characters"):
+AttributeError: 'NoneType' object has no attribute 'get'
+
 
 ## Red Earth
 Game has no characters in startgg...? Or do we have a wrong game id?

@@ -373,7 +373,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Nickelodeon All-Star Brawl
-### Coverage: (25/25)
+- Character [Random] not assigned in TSH!
+### Coverage: (25/26)
 
 ## Nickelodeon All-Star Brawl 2
 ### Coverage: (29/29)
@@ -566,9 +567,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (18/18)
 
 ## Rivals of Aether II
-- Character [La Reina]: Character name [La Reina] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (14/15)
+### Coverage: (15/16)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)

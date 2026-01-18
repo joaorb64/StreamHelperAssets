@@ -153,6 +153,178 @@
       "locale": {
         "ru": "\u0421\u0435\u043d\u0434\u0431\u0435\u0440\u0442"
       }
+    },
+    "Pufferfish": {
+      "codename": "Pufferfish",
+      "modded": true
+    },
+    "Azure": {
+      "codename": "Azure",
+      "modded": true
+    },
+    "Larry": {
+      "codename": "Larry",
+      "modded": true
+    },
+    "Roekoko": {
+      "codename": "Roekoko",
+      "modded": true
+    },
+    "Koishi Komeiji": {
+      "codename": "KoishiKomeiji",
+      "modded": true
+    },
+    "Tzukiyo": {
+      "codename": "Tzukiyo",
+      "modded": true
+    },
+    "Noelle Holiday": {
+      "codename": "NoelleHoliday",
+      "modded": true
+    },
+    "Urotsuki": {
+      "codename": "Urotsuki",
+      "modded": true
+    },
+    "Owen": {
+      "codename": "Owen",
+      "modded": true
+    },
+    "Ayaka": {
+      "codename": "Ayaka",
+      "modded": true
+    },
+    "Hat Kid": {
+      "codename": "HatKid",
+      "modded": true
+    },
+    "Iroh DE": {
+      "codename": "IrohDE",
+      "modded": true
+    },
+    "Flo": {
+      "codename": "Flo",
+      "modded": true
+    },
+    "Cocua": {
+      "codename": "Cocua",
+      "modded": true
+    },
+    "Sailee": {
+      "codename": "Sailee",
+      "modded": true
+    },
+    "Yuuko Aioi": {
+      "codename": "YuukoAioi",
+      "modded": true
+    },
+    "Solarei": {
+      "codename": "Solarei",
+      "modded": true
+    },
+    "Kasane Teto": {
+      "codename": "KasaneTeto",
+      "modded": true
+    },
+    "Nonari": {
+      "codename": "Nonari",
+      "modded": true
+    },
+    "Tomoko": {
+      "codename": "Tomoko",
+      "modded": true
+    },
+    "Daora": {
+      "codename": "Daora",
+      "modded": true
+    },
+    "Pici": {
+      "codename": "Pici",
+      "modded": true
+    },
+    "Employee": {
+      "codename": "Employee",
+      "modded": true
+    },
+    "Vale": {
+      "codename": "Vale",
+      "modded": true
+    },
+    "Plague Knight": {
+      "codename": "PlagueKnight",
+      "modded": true
+    },
+    "Retroblast": {
+      "codename": "Retroblast",
+      "modded": true
+    },
+    "Alexis": {
+      "codename": "Alexis",
+      "modded": true
+    },
+    "Lukastar": {
+      "codename": "Lukastar",
+      "modded": true
+    },
+    "Nano Shinonome": {
+      "codename": "NanoShinonome",
+      "modded": true
+    },
+    "Ziggy": {
+      "codename": "Ziggy",
+      "modded": true
+    },
+    "Nacht": {
+      "codename": "Nacht",
+      "modded": true
+    },
+    "Crewmate": {
+      "codename": "Crewmate",
+      "modded": true
+    },
+    "Roll": {
+      "codename": "Roll",
+      "modded": true
+    },
+    "Truck-Kun": {
+      "codename": "TruckKun",
+      "modded": true
+    },
+    "Papa Louie": {
+      "codename": "PapaLouie",
+      "modded": true
+    },
+    "Mrs. Sandbert": {
+      "codename": "MrsSandbert",
+      "modded": true
+    },
+    "Lode & Puul": {
+      "codename": "LodePuul",
+      "modded": true
+    },
+    "Lonin": {
+      "codename": "Lonin",
+      "modded": true
+    },
+    "Monoko": {
+      "codename": "Monoko",
+      "modded": true
+    },
+    "Wally": {
+      "codename": "Wally",
+      "modded": true
+    },
+    "Luna": {
+      "codename": "Luna",
+      "modded": true
+    },
+    "Hana": {
+      "codename": "Hana",
+      "modded": true
+    },
+    "Laki": {
+      "codename": "Laki",
+      "modded": true
     }
   },
   "stage_to_codename": {
@@ -335,5 +507,5 @@
   },
   "version": "25.05.29.53857",
   "description": "Base config to use this game.",
-  "credits": "@Readeku for ripping the assets"
+  "credits": "@Readeku for ripping the assets\nWorkshop content curated by eck$"
 }

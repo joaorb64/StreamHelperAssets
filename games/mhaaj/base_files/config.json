@@ -24,7 +24,7 @@
       "codename": "Dabi",
       "skin_name": {
         "1": {
-          "name": "Death Flame"
+          "name": "Flame of Death"
         }
       }
     },
@@ -40,7 +40,7 @@
     "Endeavor": {
       "codename": "Endeavor"
     },
-    "Eraser Head": {
+    "Shota Aizawa": {
       "codename": "EraserHead"
     },
     "Fumikage Tokoyami": {
@@ -72,6 +72,9 @@
         },
         "3": {
           "name": "Shoot Style"
+        },
+        "4": {
+          "name": "Rising"
         }
       }
     },
@@ -163,6 +166,54 @@
     },
     "Yuga Aoyama": {
       "codename": "YugaAoyama"
+    },
+    "Mei Hatsume": {
+      "codename": "Mei"
+    },
+    "Itsuka Kendo": {
+      "codename": "Itsuka"
+    },
+    "Tetsutetsu Tetsutetsu": {
+      "codename": "Tetsutetsu"
+    },
+    "Gang Orca": {
+      "codename": "Orca"
+    },
+    "Sir Nighteye": {
+      "codename": "Nighteye"
+    },
+    "Fatgum": {
+      "codename": "Fatgum"
+    },
+    "Gran Torino": {
+      "codename": "Torino"
+    },
+    "All For One Chaos": {
+      "codename": "Chaos"
+    },
+    "Muscular": {
+      "codename": "Muscular"
+    },
+    "Nomu (U.S.J.)": {
+      "codename": "Nomu"
+    },
+    "Kai Chisaki": {
+      "codename": "Overhaul"
+    },
+    "Kendo Rappa": {
+      "codename": "Rappa"
+    },
+    "Inasa Yoarashi": {
+      "codename": "Inasa"
+    },
+    "Camie Utsushimi": {
+      "codename": "Camie"
+    },
+    "Seiji Shishikura": {
+      "codename": "Seiji"
+    },
+    "Gentle & La Brava": {
+      "codename": "Gentle"
     }
   },
   "credits": "Assets ripped from https://mhaaj.bn-ent.net/character/all.php",

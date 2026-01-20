@@ -1,5 +1,5 @@
 {
-  "credits": "Ripped from https://wiki.leagueoflegends.com/en-us/Warwick",
+  "credits": "Ripped from https://wiki.leagueoflegends.com/",
   "description": "Character Renders from League of Legends",
   "eyesights": {
     "Ahri": {
@@ -66,6 +66,12 @@
       "0": {
         "x": 311,
         "y": 327
+      }
+    },
+    "Caitlyn": {
+      "0": {
+        "x": 158,
+        "y": 83
       }
     }
   },
@@ -153,5 +159,10 @@
   "average_size": {
     "x": 929.0,
     "y": 1334.7272727272727
+  },
+  "rescaling_factor": {
+    "Caitlyn": {
+      "0": 2.86135182
+    }
   }
 }

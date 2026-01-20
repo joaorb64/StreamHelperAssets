@@ -486,10 +486,10 @@
           "name": "Solid - Black"
         },
         "74": {
-          "name": "Pool Party - Riptide"
+          "name": "Pool Party - Riptide 2025"
         },
         "75": {
-          "name": "Slam Dunk - Ultimate Fighting Arena"
+          "name": "Slam Dunk - Ultimate Fighting Arena 2025"
         },
         "76": {
           "name": "Default - Pink"
@@ -516,7 +516,7 @@
           "name": "Clown - Yellow"
         },
         "84": {
-          "name": "Slam Dunk - No Time to Tilt"
+          "name": "Slam Dunk - No Time to Tilt 2025"
         },
         "85": {
           "name": "Snow Day - Black"
@@ -1911,13 +1911,13 @@
           "name": "Dark Future - Green"
         },
         "53": {
-          "name": "Hockey - Battle of BC"
+          "name": "Hockey - Battle of BC 7"
         },
         "54": {
           "name": "Dark Future - Royal"
         },
         "55": {
-          "name": "Hockey - Valhalla"
+          "name": "Hockey - Valhalla V"
         },
         "56": {
           "name": "Gardener"
@@ -1972,6 +1972,9 @@
         },
         "73": {
           "name": "Abyss - Midnight"
+        },
+        "74": {
+          "name": "Hockey - Let's Make Big Moves 2026"
         }
       }
     },
@@ -2059,6 +2062,15 @@
         },
         "26": {
           "name": "Lucha - Red"
+        },
+        "27": {
+          "name": "Default - Twitch"
+        },
+        "28": {
+          "name": "Default - White"
+        },
+        "29": {
+          "name": "Lucha - Orange"
         }
       }
     },
@@ -2695,6 +2707,21 @@
         },
         "61": {
           "name": "Champion - Red"
+        },
+        "62": {
+          "name": "Lucha"
+        },
+        "63": {
+          "name": "Lucha - Blue"
+        },
+        "64": {
+          "name": "Lucha - Green"
+        },
+        "65": {
+          "name": "Lucha - Red"
+        },
+        "66": {
+          "name": "Sunbear - Frosty Faustings XVIII"
         }
       }
     },
@@ -3016,6 +3043,9 @@
         },
         "49": {
           "name": "Default - Winterfest"
+        },
+        "50": {
+          "name": "Abyss - Midnight"
         }
       }
     },

@@ -57,6 +57,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Bloody Roar Extreme
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Battle Craze!!
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Capcom VS SNK 2: Mark of the Millenium 2001
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -166,6 +168,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## God of Rock
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Hinokakera: Chaotic Eclipse
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Hyper Dragon Ball Z
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -179,6 +183,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Idol Showdown: Next Fes
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Invincible VS
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Iron Saga VS
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -284,6 +290,8 @@ AttributeError: 'NoneType' object has no attribute 'get'
 ## MerFight: Curse of the Arctic Prince
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## My Hero Academia: All's Justice
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## My Hero One’s Justice 2
 Game has no characters in startgg...? Or do we have a wrong game id?

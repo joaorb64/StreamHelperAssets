@@ -1,7 +1,7 @@
 {
   "average_size": {
-    "x": 2937.909090909091,
-    "y": 3971.0
+    "x": 3031.4166666666665,
+    "y": 3996.5833333333335
   },
   "credits": "From the asset kit (https://2xko.riotgames.com/en-us/news/announcements/2xko-community-competition-guidelines/#Q9)",
   "description": "Alternate poses for the character renders",
@@ -90,7 +90,7 @@
     "d",
     "r"
   ],
-  "version": "25.11.01.60014",
+  "version": "26.01.22.60203",
   "image_sizes": {
     "Ahri": {
       "0": {
@@ -108,6 +108,12 @@
       "0": {
         "x": 3680,
         "y": 4000
+      }
+    },
+    "Caitlyn": {
+      "0": {
+        "x": 4060,
+        "y": 4278
       }
     },
     "Darius": {

@@ -756,6 +756,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## S.V.G.: Spectral vs Generation
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Sakura X Clash -Last Millenial Spring-
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Tekken 3
 Game has no characters in startgg...? Or do we have a wrong game id?

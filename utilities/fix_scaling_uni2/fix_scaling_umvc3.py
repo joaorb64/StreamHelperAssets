@@ -22,8 +22,7 @@ for character_name in main_config["character_to_codename"].keys():
             height = image.height
 
             current_costume_rescaling_factor = 1024.0/height
-            if current_costume_rescaling_factor != 1.0:
-                current_character_rescaling_factor[f"{i}"] = current_costume_rescaling_factor
+            current_character_rescaling_factor[f"{i}"] = current_costume_rescaling_factor
 
             print(codename, i, current_costume_rescaling_factor)
         else:

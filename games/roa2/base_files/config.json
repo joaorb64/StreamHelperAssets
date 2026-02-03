@@ -256,6 +256,9 @@
         },
         "83": {
           "name": "Luchador - Red"
+        },
+        "84": {
+          "name": "Primal - Orange"
         }
       }
     },
@@ -763,6 +766,18 @@
         },
         "73": {
           "name": "Default - Winterfest"
+        },
+        "74": {
+          "name": "Primal"
+        },
+        "75": {
+          "name": "Primal - Blue"
+        },
+        "76": {
+          "name": "Primal - Green"
+        },
+        "77": {
+          "name": "Primal - Red"
         }
       }
     },
@@ -1251,19 +1266,22 @@
           "name": "Abyss - Midnight"
         },
         "76": {
-          "name": "Artic"
+          "name": "Arctic"
         },
         "77": {
-          "name": "Artic - Blue"
+          "name": "Arctic - Blue"
         },
         "78": {
-          "name": "Artic - Green"
+          "name": "Arctic - Green"
         },
         "79": {
-          "name": "Artic - Red"
+          "name": "Arctic - Red"
         },
         "80": {
           "name": "Default - Winterfest"
+        },
+        "81": {
+          "name": "Arctic - Orange"
         }
       }
     },
@@ -1474,6 +1492,18 @@
         },
         "67": {
           "name": "Default - Winterfest"
+        },
+        "68": {
+          "name": "Primal"
+        },
+        "69": {
+          "name": "Primal - Blue"
+        },
+        "70": {
+          "name": "Primal - Green"
+        },
+        "71": {
+          "name": "Primal - Red"
         }
       }
     },
@@ -2071,6 +2101,18 @@
         },
         "29": {
           "name": "Lucha - Orange"
+        },
+        "30": {
+          "name": "Primal"
+        },
+        "31": {
+          "name": "Primal - Blue"
+        },
+        "32": {
+          "name": "Primal - Green"
+        },
+        "33": {
+          "name": "Primal - Red"
         }
       }
     },
@@ -2887,6 +2929,30 @@
         },
         "52": {
           "name": "Default - Winterfest"
+        },
+        "53": {
+          "name": "Champion"
+        },
+        "54": {
+          "name": "Champion - Red"
+        },
+        "55": {
+          "name": "Champion - Blue"
+        },
+        "56": {
+          "name": "Champion - Green"
+        },
+        "57": {
+          "name": "Primal"
+        },
+        "58": {
+          "name": "Primal - Blue"
+        },
+        "59": {
+          "name": "Primal - Green"
+        },
+        "60": {
+          "name": "Primal - Red"
         }
       }
     },
@@ -3178,6 +3244,12 @@
         },
         "41": {
           "name": "Luchador - Red"
+        },
+        "42": {
+          "name": "Abyss - Midnight"
+        },
+        "43": {
+          "name": "Skink - Black"
         }
       }
     }

@@ -1,0 +1,81 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aang": {
+      "codename": "Aang",
+      "skin_name": {
+        "0": {
+          "name": "Gyatso"
+        },
+        "1": {
+          "name": "Appa"
+        },
+        "2": {
+          "name": "Momo"
+        }
+      }
+    },
+    "Katara": {
+      "codename": "Katara",
+      "skin_name": {
+        "0": {
+          "name": "Kanna"
+        },
+        "1": {
+          "name": "Master Pakku"
+        },
+        "2": {
+          "name": "Hakoda"
+        }
+      }
+    },
+    "Korra": {
+      "codename": "Korra",
+      "skin_name": {
+        "0": {
+          "name": "Naga"
+        },
+        "1": {
+          "name": "Raava"
+        },
+        "2": {
+          "name": "Tonraq"
+        }
+      }
+    },
+    "Toph": {
+      "codename": "Toph",
+      "skin_name": {
+        "0": {
+          "name": "The Boulder"
+        },
+        "1": {
+          "name": "Badgermole"
+        },
+        "2": {
+          "name": "The Big Bad Hippo"
+        }
+      }
+    },
+    "Zuko": {
+      "codename": "Zuko",
+      "skin_name": {
+        "0": {
+          "name": "Mai"
+        },
+        "1": {
+          "name": "June"
+        },
+        "2": {
+          "name": "Ran & Shaw"
+        }
+      }
+    }
+  },
+  "credits": "Placeholder images from the show",
+  "description": "Base config to use this game.",
+  "name": "Avatar Legends: The Fighting Game",
+  "smashgg_game_id": 114292,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

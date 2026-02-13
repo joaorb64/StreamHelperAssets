@@ -8,6 +8,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Ninja]: Character name [Ninja] doesn't exist in StartGG
 ### Coverage: (3/3)
 
+## Avatar Legends: The Fighting Game
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Among Us Arena
 Game has no characters in startgg...? Or do we have a wrong game id?
 

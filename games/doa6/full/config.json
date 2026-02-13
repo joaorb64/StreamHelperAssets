@@ -1,0 +1,112 @@
+{
+  "name": "Renders",
+  "description": "Character renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "25.05.29.53856",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "rescaling_factor": {
+    "Ayane": {
+      "0": 1.0
+    },
+    "BassArmstrong": {
+      "0": 1.0
+    },
+    "Bayman": {
+      "0": 1.0
+    },
+    "BradWong": {
+      "0": 1.0638297872340425
+    },
+    "Christie": {
+      "0": 1.0
+    },
+    "Diego": {
+      "0": 1.0
+    },
+    "Eliot": {
+      "0": 1.1111111111111112
+    },
+    "Hayate": {
+      "0": 1.0
+    },
+    "HelenaDouglas": {
+      "0": 1.0
+    },
+    "Hitomi": {
+      "0": 1.0
+    },
+    "Honoka": {
+      "0": 1.0
+    },
+    "JannLee": {
+      "0": 1.0
+    },
+    "Kasumi": {
+      "0": 1.0
+    },
+    "Kokoro": {
+      "0": 1.0
+    },
+    "KulaDiamond": {
+      "0": 1.0
+    },
+    "Leifang": {
+      "0": 1.0
+    },
+    "LisaHamilton": {
+      "0": 1.0005002501250626
+    },
+    "MaiShiranui": {
+      "0": 1.0
+    },
+    "MarieRose": {
+      "0": 1.0
+    },
+    "Mila": {
+      "0": 1.0
+    },
+    "Momiji": {
+      "0": 1.0
+    },
+    "NiCO": {
+      "0": 1.0
+    },
+    "Nyotengu": {
+      "0": 1.1111111111111112
+    },
+    "Phase4": {
+      "0": 1.1111111111111112
+    },
+    "Rachel": {
+      "0": 1.0
+    },
+    "Raidou": {
+      "0": 1.0
+    },
+    "Rig": {
+      "0": 1.0
+    },
+    "RyuHayabusa": {
+      "0": 1.0
+    },
+    "Tamaki": {
+      "0": 1.0
+    },
+    "TinaArmstrong": {
+      "0": 1.0
+    },
+    "Zack": {
+      "0": 1.0
+    }
+  }
+}

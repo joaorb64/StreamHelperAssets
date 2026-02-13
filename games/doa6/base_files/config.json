@@ -1,0 +1,111 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Ayane": {
+      "codename": "Ayane"
+    },
+    "Bass Armstrong": {
+      "codename": "BassArmstrong"
+    },
+    "Bayman": {
+      "codename": "Bayman"
+    },
+    "Brad Wong": {
+      "codename": "BradWong"
+    },
+    "Christie": {
+      "codename": "Christie"
+    },
+    "Diego": {
+      "codename": "Diego"
+    },
+    "Eliot": {
+      "codename": "Eliot"
+    },
+    "Hayate": {
+      "codename": "Hayate"
+    },
+    "Helena Douglas": {
+      "codename": "HelenaDouglas"
+    },
+    "Hitomi": {
+      "codename": "Hitomi"
+    },
+    "Honoka": {
+      "codename": "Honoka"
+    },
+    "Jann Lee": {
+      "codename": "JannLee"
+    },
+    "Kasumi": {
+      "codename": "Kasumi"
+    },
+    "Kokoro": {
+      "codename": "Kokoro"
+    },
+    "Kula Diamond": {
+      "codename": "KulaDiamond"
+    },
+    "Leifang": {
+      "codename": "Leifang"
+    },
+    "La Mariposa": {
+      "codename": "LisaHamilton"
+    },
+    "Mai Shiranui": {
+      "codename": "MaiShiranui"
+    },
+    "Marie Rose": {
+      "codename": "MarieRose"
+    },
+    "Mila": {
+      "codename": "Mila"
+    },
+    "Momiji": {
+      "codename": "Momiji"
+    },
+    "NiCO": {
+      "codename": "NiCO"
+    },
+    "Nyotengu": {
+      "codename": "Nyotengu"
+    },
+    "Phase 4": {
+      "codename": "Phase4"
+    },
+    "Rachel": {
+      "codename": "Rachel"
+    },
+    "Raidou": {
+      "codename": "Raidou"
+    },
+    "Rig": {
+      "codename": "Rig"
+    },
+    "Ryu Hayabusa": {
+      "codename": "RyuHayabusa"
+    },
+    "Tamaki": {
+      "codename": "Tamaki"
+    },
+    "Tina Armstrong": {
+      "codename": "TinaArmstrong"
+    },
+    "Zack": {
+      "codename": "Zack"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Dead or Alive 6",
+  "smashgg_game_id": 3139,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "alternate_versions": [
+    {
+      "name": "Dead or Alive 6: Last Round",
+      "smashgg_game_id": null,
+      "logo_path": "logo_lr.png"
+    }
+  ]
+}

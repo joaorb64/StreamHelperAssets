@@ -104,6 +104,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Dead or Alive 5: Last Round
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Dead or Alive 6
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Duelists of Eden
 ### Coverage: (17/17)
 

@@ -4,6 +4,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Arcus Chroma
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Castlevania Judgment
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## A Few Quick Matches
 - Character [Ninja]: Character name [Ninja] doesn't exist in StartGG
 ### Coverage: (3/3)

@@ -43,7 +43,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Brawlhalla
-### Coverage: (67/67)
+- Character [Priya] not assigned in TSH!
+- Character [Ransom] not assigned in TSH!
+- Character [Lady Vera] not assigned in TSH!
+- Character [Rupture] not assigned in TSH!
+### Coverage: (67/71)
 
 ## Blade Strangers
 Game has no characters in startgg...? Or do we have a wrong game id?

@@ -1,0 +1,58 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Aeon": {
+      "codename": "Aeon"
+    },
+    "Alucard": {
+      "codename": "Alucard"
+    },
+    "Carmilla": {
+      "codename": "Carmilla"
+    },
+    "Cornell": {
+      "codename": "Cornell"
+    },
+    "Death": {
+      "codename": "Death"
+    },
+    "Dracula": {
+      "codename": "Dracula"
+    },
+    "Eric Lecarde": {
+      "codename": "EricLecarde"
+    },
+    "Golem": {
+      "codename": "Golem"
+    },
+    "Grant Danasty": {
+      "codename": "GrantDanasty"
+    },
+    "Maria Renard": {
+      "codename": "MariaRenard"
+    },
+    "Shanoa": {
+      "codename": "Shanoa"
+    },
+    "Simon Belmont": {
+      "codename": "SimonBelmont"
+    },
+    "Sypha Belnades": {
+      "codename": "SyphaBelnades"
+    },
+    "Trevor Belmont": {
+      "codename": "TrevorBelmont"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Castlevania Judgment",
+  "smashgg_game_id": 4959,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "悪魔城ドラキュラ ジャッジメント"
+    }
+  }
+}

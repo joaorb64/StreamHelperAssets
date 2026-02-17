@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://demonslayer-hinokami.sega.com/ and https://game.kimetsu.com/hinokami2/character/",
-  "version": "25.12.21.76611",
+  "version": "26.02.13.66100",
   "uncropped_edge": [
     "u",
     "d",
@@ -273,7 +273,7 @@
     }
   },
   "average_size": {
-    "x": 1397.8642400483004,
+    "x": 1393.9245469270788,
     "y": 1000.0
   },
   "rescaling_factor": {
@@ -595,6 +595,10 @@
       "4": {
         "x": 1000,
         "y": 622
+      },
+      "5": {
+        "x": 1000,
+        "y": 830
       }
     },
     "TengenUzui": {

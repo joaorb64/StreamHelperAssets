@@ -778,6 +778,9 @@
         },
         "77": {
           "name": "Primal - Red"
+        },
+        "78": {
+          "name": "Primal - Yellow"
         }
       }
     },
@@ -1504,6 +1507,12 @@
         },
         "71": {
           "name": "Primal - Red"
+        },
+        "72": {
+          "name": "Primal - Black"
+        },
+        "73": {
+          "name": "Primal - Orange"
         }
       }
     },
@@ -1774,6 +1783,21 @@
         },
         "87": {
           "name": "Default - Winterfest"
+        },
+        "88": {
+          "name": "Samurai"
+        },
+        "89": {
+          "name": "Samurai - Blue"
+        },
+        "90": {
+          "name": "Samurai - Green"
+        },
+        "91": {
+          "name": "Samurai - Mint"
+        },
+        "92": {
+          "name": "Samurai - Red"
         }
       }
     },
@@ -2113,6 +2137,12 @@
         },
         "33": {
           "name": "Primal - Red"
+        },
+        "34": {
+          "name": "Primal - White"
+        },
+        "35": {
+          "name": "Primal - Yellow"
         }
       }
     },
@@ -2341,6 +2371,9 @@
         },
         "73": {
           "name": "Default - Winterfest"
+        },
+        "74": {
+          "name": "Primal - Cool Blue"
         }
       }
     },

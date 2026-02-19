@@ -1211,6 +1211,50 @@
                 "es_LA": "Vaca",
                 "es_ES": "Vaca"
             }
+        },
+        {
+            "displayName": {
+                "en_US": "Baby Wario",
+                "ja": "ベビィワリオ",
+                "zh_CN": "瓦力欧宝宝",
+                "zh_TW": "瓦利歐寶寶",
+                "ko": "베이비와리오",
+                "fr": "Bébé Wario",
+                "es": "Bebé Wario",
+                "pt_BR": "Bebê Wario",
+                "pt_PT": "Wario bebé"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Baby Waluigi",
+                "ja": "ベビィワルイージ",
+                "zh_CN": "瓦路易吉宝宝",
+                "zh_TW": "瓦路易吉寶寶",
+                "ko": "베이비와루이지",
+                "fr": "Bébé Waluigi",
+                "es": "Bebé Waluigi",
+                "pt_BR": "Bebê Waluigi",
+                "pt_PT": "Waluigi bebé"
+            }
+        },
+        {
+            "displayName": {
+                "en_US": "Piranha Plant",
+                "ja": "パックンフラワー",
+                "zh_CN": "吞食花",
+                "zh_TW": "吞食花",
+                "ko": "뻐끔플라워",
+                "fr": "Plante Piranha",
+                "fr_CA": "Fleur Piranha",
+                "es": "Planta Piraña",
+                "es_LA": "Piranha Plant",
+                "pt_BR": "Planta Piranha",
+                "pt_PT": "Planta Piranha",
+                "ru": "Растение-пиранья",
+                "de": "Piranha-Pflanze",
+                "nl": "Piranha Plant"
+            }
         }
     ]
 }

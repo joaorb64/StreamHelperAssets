@@ -1,0 +1,43 @@
+{
+  "name": "Artwork",
+  "description": "Character artwork",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "26.02.13.37773",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "eyesights": {
+    "Achilles": {
+      "0": {
+        "x": 346,
+        "y": 178
+      }
+    },
+    "Ikani": {
+      "0": {
+        "x": 780,
+        "y": 311
+      }
+    },
+    "Jingo": {
+      "0": {
+        "x": 736,
+        "y": 307
+      }
+    },
+    "Shai": {
+      "0": {
+        "x": 444,
+        "y": 274
+      }
+    }
+  }
+}

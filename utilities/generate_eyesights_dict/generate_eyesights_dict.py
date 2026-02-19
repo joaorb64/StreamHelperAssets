@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "invs"
+game_codename = "cdvl"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

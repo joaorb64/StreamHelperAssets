@@ -7,5 +7,193 @@
   "postfix": "",
   "type": [
     "variant_icon"
-  ]
+  ],
+  "image_sizes": {
+    "AmpRacketV": {
+      "null": {
+        "x": 394,
+        "y": 454
+      }
+    },
+    "BananaRacketV": {
+      "null": {
+        "x": 600,
+        "y": 850
+      }
+    },
+    "BlockRacketV": {
+      "null": {
+        "x": 700,
+        "y": 700
+      }
+    },
+    "BoomerangRacketV": {
+      "null": {
+        "x": 300,
+        "y": 480
+      }
+    },
+    "BulletBillRacketV": {
+      "null": {
+        "x": 583,
+        "y": 1168
+      }
+    },
+    "CharginChuckRacketV": {
+      "null": {
+        "x": 280,
+        "y": 540
+      }
+    },
+    "FireBarRacketV": {
+      "null": {
+        "x": 750,
+        "y": 1170
+      }
+    },
+    "FireFlowerRacketV": {
+      "null": {
+        "x": 520,
+        "y": 1168
+      }
+    },
+    "FlameRacketV": {
+      "null": {
+        "x": 691,
+        "y": 1598
+      }
+    },
+    "FreezingRacketV": {
+      "null": {
+        "x": 250,
+        "y": 330
+      }
+    },
+    "GhostRacketV": {
+      "null": {
+        "x": 500,
+        "y": 920
+      }
+    },
+    "GoldenDashRacketV": {
+      "null": {
+        "x": 394,
+        "y": 454
+      }
+    },
+    "IceFlowerRacketV": {
+      "null": {
+        "x": 250,
+        "y": 330
+      }
+    },
+    "IceRacketV": {
+      "null": {
+        "x": 691,
+        "y": 1595
+      }
+    },
+    "InkyRacketV": {
+      "null": {
+        "x": 300,
+        "y": 480
+      }
+    },
+    "LightningRacketV": {
+      "null": {
+        "x": 520,
+        "y": 1168
+      }
+    },
+    "MagicRacketV": {
+      "null": {
+        "x": 470,
+        "y": 470
+      }
+    },
+    "MetalRacketV": {
+      "null": {
+        "x": 394,
+        "y": 454
+      }
+    },
+    "MiniMushroomRacketV": {
+      "null": {
+        "x": 594,
+        "y": 1125
+      }
+    },
+    "MudRacketV": {
+      "null": {
+        "x": 692,
+        "y": 1597
+      }
+    },
+    "PersonalRacketV": {
+      "null": {
+        "x": 300,
+        "y": 480
+      }
+    },
+    "PokeyRacketV": {
+      "null": {
+        "x": 841,
+        "y": 1557
+      }
+    },
+    "ShadowRacketV": {
+      "null": {
+        "x": 520,
+        "y": 1167
+      }
+    },
+    "ShovaRacketV": {
+      "null": {
+        "x": 450,
+        "y": 910
+      }
+    },
+    "SpinyRacketV": {
+      "null": {
+        "x": 500,
+        "y": 950
+      }
+    },
+    "StarRacketV": {
+      "null": {
+        "x": 1400,
+        "y": 1400
+      }
+    },
+    "SwerveRacketV": {
+      "null": {
+        "x": 250,
+        "y": 330
+      }
+    },
+    "ThwompRacketV": {
+      "null": {
+        "x": 600,
+        "y": 600
+      }
+    },
+    "TornadoRacketV": {
+      "null": {
+        "x": 450,
+        "y": 930
+      }
+    },
+    "TyfooRacketV": {
+      "null": {
+        "x": 700,
+        "y": 1609
+      }
+    },
+    "VolcanoRacketV": {
+      "null": {
+        "x": 600,
+        "y": 600
+      }
+    }
+  }
 }

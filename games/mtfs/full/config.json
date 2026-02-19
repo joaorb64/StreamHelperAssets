@@ -1,0 +1,85 @@
+{
+  "name": "Renders",
+  "description": "Character renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "version": "25.05.29.53856",
+  "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ],
+  "eyesights": {
+    "CaptainAmerica": {
+      "0": {
+        "x": 634,
+        "y": 434
+      }
+    },
+    "Danger": {
+      "0": {
+        "x": 1040,
+        "y": 666
+      }
+    },
+    "DoctorDoom": {
+      "0": {
+        "x": 704,
+        "y": 321
+      }
+    },
+    "GhostRider": {
+      "0": {
+        "x": 939,
+        "y": 431
+      }
+    },
+    "IronMan": {
+      "0": {
+        "x": 769,
+        "y": 358
+      }
+    },
+    "Magik": {
+      "0": {
+        "x": 940,
+        "y": 405
+      }
+    },
+    "MsMarvel": {
+      "0": {
+        "x": 856,
+        "y": 574
+      }
+    },
+    "SpiderMan": {
+      "0": {
+        "x": 938,
+        "y": 775
+      }
+    },
+    "StarLord": {
+      "0": {
+        "x": 1077,
+        "y": 500
+      }
+    },
+    "Storm": {
+      "0": {
+        "x": 812,
+        "y": 517
+      }
+    },
+    "Wolverine": {
+      "0": {
+        "x": 780,
+        "y": 519
+      }
+    }
+  }
+}

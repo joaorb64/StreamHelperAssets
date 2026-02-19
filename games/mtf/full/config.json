@@ -238,6 +238,12 @@
       }
     }
   },
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ],
   "image_sizes": {
     "BabyLuigi": {
       "0": {

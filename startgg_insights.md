@@ -67,6 +67,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Bloody Roar Extreme
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Combo Devils
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Battle Craze!!
 Game has no characters in startgg...? Or do we have a wrong game id?
 

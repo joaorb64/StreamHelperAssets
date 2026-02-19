@@ -1,0 +1,17 @@
+{
+  "name": "Artwork",
+  "description": "Character artwork",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "26.02.13.37773",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ]
+}

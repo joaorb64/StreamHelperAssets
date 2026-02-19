@@ -1,0 +1,263 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Baby Luigi": {
+      "codename": "BabyLuigi"
+    },
+    "Baby Mario": {
+      "codename": "BabyMario"
+    },
+    "Baby Peach": {
+      "codename": "BabyPeach"
+    },
+    "Baby Waluigi": {
+      "codename": "BabyWaluigi"
+    },
+    "Baby Wario": {
+      "codename": "BabyWario"
+    },
+    "Birdo": {
+      "codename": "Birdo"
+    },
+    "Blooper": {
+      "codename": "Blooper"
+    },
+    "Boo": {
+      "codename": "Boo"
+    },
+    "Boom Boom": {
+      "codename": "BoomBoom"
+    },
+    "Bowser": {
+      "codename": "Bowser"
+    },
+    "Bowser Jr.": {
+      "codename": "BowserJr"
+    },
+    "Chain Chomp": {
+      "codename": "ChainChomp"
+    },
+    "Daisy": {
+      "codename": "Daisy"
+    },
+    "Diddy Kong": {
+      "codename": "DiddyKong"
+    },
+    "Donkey Kong": {
+      "codename": "DonkeyKong"
+    },
+    "Dry Bones": {
+      "codename": "DryBones"
+    },
+    "Dry Bowser": {
+      "codename": "DryBowser"
+    },
+    "Goomba": {
+      "codename": "Goomba"
+    },
+    "Kamek": {
+      "codename": "Kamek"
+    },
+    "Koopa Paratroopa": {
+      "codename": "KoopaParatroopa"
+    },
+    "Koopa Troopa": {
+      "codename": "KoopaTroopa"
+    },
+    "Luigi": {
+      "codename": "Luigi"
+    },
+    "Luma": {
+      "codename": "Luma"
+    },
+    "Mario": {
+      "codename": "Mario"
+    },
+    "Nabbit": {
+      "codename": "Nabbit"
+    },
+    "Pauline": {
+      "codename": "Pauline"
+    },
+    "Peach": {
+      "codename": "Peach"
+    },
+    "Petey Piranha": {
+      "codename": "PeteyPiranha"
+    },
+    "Piranha Plant": {
+      "codename": "PiranhaPlant"
+    },
+    "Rosalina": {
+      "codename": "Rosalina"
+    },
+    "Shy Guy": {
+      "codename": "ShyGuy"
+    },
+    "Spike": {
+      "codename": "Spike"
+    },
+    "Toad": {
+      "codename": "Toad"
+    },
+    "Toadette": {
+      "codename": "Toadette"
+    },
+    "Waluigi": {
+      "codename": "Waluigi"
+    },
+    "Wario": {
+      "codename": "Wario"
+    },
+    "Wiggler": {
+      "codename": "Wiggler"
+    },
+    "Yoshi": {
+      "codename": "Yoshi"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "name": "Mario Tennis Fever",
+  "smashgg_game_id": 114741,
+  "version": "1.0",
+  "stage_to_codename": {
+    "Stadium Court (Grass)": {
+      "codename": "StadiumCourtGrass"
+    },
+    "Stadium Court (Hard)": {
+      "codename": "StadiumCourtHard"
+    },
+    "Stadium Court (Clay)": {
+      "codename": "StadiumCourtClay"
+    },
+    "Academy Court (Wood)": {
+      "codename": "AcademyCourtWood"
+    },
+    "Academy Court (Brick)": {
+      "codename": "AcademyCourtBrick"
+    },
+    "Academy Court (Carpet)": {
+      "codename": "AcademyCourtCarpet"
+    },
+    "Academy Court (Mushroom)": {
+      "codename": "AcademyCourtMushroom"
+    },
+    "Academy Court (Sand)": {
+      "codename": "AcademyCourtSand"
+    },
+    "Academy Court (Ice)": {
+      "codename": "AcademyCourtIce"
+    },
+    "Airship Court": {
+      "codename": "AirshipCourt"
+    },
+    "Forest Court": {
+      "codename": "ForestCourt"
+    },
+    "Waluigi's Pinball Arcade": {
+      "codename": "WaluigisPinballArcade"
+    },
+    "Racket Factory": {
+      "codename": "RacketFactory"
+    },
+    "Wonder Court": {
+      "codename": "WonderCourt"
+    }
+  },
+  "variant_to_codename": {
+    "Personal Racket": {
+      "codename": "PersonalRacketV"
+    },
+    "Flame Racket": {
+      "codename": "FlameRacketV"
+    },
+    "Ice Racket": {
+      "codename": "IceRacketV"
+    },
+    "Lightning Racket": {
+      "codename": "LightningRacketV"
+    },
+    "Ty-foo Racket": {
+      "codename": "TyfooRacketV"
+    },
+    "Mud Racket": {
+      "codename": "MudRacketV"
+    },
+    "Mini Mushroom Racket": {
+      "codename": "MiniMushroomRacketV"
+    },
+    "Fire Flower Racket": {
+      "codename": "FireFlowerRacketV"
+    },
+    "Ice Flower Racket": {
+      "codename": "IceFlowerRacketV"
+    },
+    "Star Racket": {
+      "codename": "StarRacketV"
+    },
+    "Tornado Racket": {
+      "codename": "TornadoRacketV"
+    },
+    "Pokey Racket": {
+      "codename": "PokeyRacketV"
+    },
+    "Shadow Racket": {
+      "codename": "ShadowRacketV"
+    },
+    "Fire Bar Racket": {
+      "codename": "FireBarRacketV"
+    },
+    "Freezing Racket": {
+      "codename": "FreezingRacketV"
+    },
+    "Amp Racket": {
+      "codename": "AmpRacketV"
+    },
+    "Swerve Racket": {
+      "codename": "SwerveRacketV"
+    },
+    "Inky Racket": {
+      "codename": "InkyRacketV"
+    },
+    "Banana Racket": {
+      "codename": "BananaRacketV"
+    },
+    "Volcano Racket": {
+      "codename": "VolcanoRacketV"
+    },
+    "Ghost Racket": {
+      "codename": "GhostRacketV"
+    },
+    "Golden Dash Racket": {
+      "codename": "GoldenDashRacketV"
+    },
+    "Chargin' Chuck Racket": {
+      "codename": "CharginChuckRacketV"
+    },
+    "Spiny Racket": {
+      "codename": "SpinyRacketV"
+    },
+    "Magic Racket": {
+      "codename": "MagicRacketV"
+    },
+    "Bullet Bill Racket": {
+      "codename": "BulletBillRacketV"
+    },
+    "Thwomp Racket": {
+      "codename": "ThwompRacketV"
+    },
+    "Shova Racket": {
+      "codename": "ShovaRacketV"
+    },
+    "Metal Racket": {
+      "codename": "MetalRacketV"
+    },
+    "? Block Racket": {
+      "codename": "BlockRacketV"
+    },
+    "Boomerang Racket": {
+      "codename": "BoomerangRacketV"
+    }
+  }
+}

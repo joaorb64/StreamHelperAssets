@@ -1,11 +1,101 @@
 {
   "name": "Courts",
-  "version": "25.05.29.53856",
+  "version": "26.02.19.75640",
   "description": "Court icons",
   "prefix": "file_",
   "postfix": "",
   "type": [
     "stage_icon"
   ],
-  "credits": "Images ripped from https://www.mariowiki.com/Mario_Tennis_Fever"
+  "credits": "Images ripped from https://www.mariowiki.com/Mario_Tennis_Fever",
+  "image_sizes": {
+    "AcademyCourtBrick": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "AcademyCourtCarpet": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "AcademyCourtIce": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "AcademyCourtMushroom": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "AcademyCourtSand": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "AcademyCourtWood": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "AirshipCourt": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "ForestCourt": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "RacketFactory": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "StadiumCourtClay": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "StadiumCourtGrass": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "StadiumCourtHard": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "WaluigisPinballArcade": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    },
+    "WonderCourt": {
+      "null": {
+        "x": 629,
+        "y": 321
+      }
+    }
+  },
+  "average_size": {
+    "x": 629.0,
+    "y": 321.0
+  }
 }

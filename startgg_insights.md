@@ -375,6 +375,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Mario Tennis Aces
 ### Coverage: (30/30)
 
+## Mario Tennis Fever
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Marvel Tōkon: Fighting Souls
 Game has no characters in startgg...? Or do we have a wrong game id?
 

@@ -137,13 +137,37 @@
       }
     },
     "Zeorymer": {
-      "codename": "Zeorymer"
+      "codename": "Zeorymer",
+      "skin_name": {
+        "0": {
+          "name": "Artificial Core"
+        },
+        "1": {
+          "name": "Hades Project"
+        }
+      }
     },
     "Shin Getter Robo": {
-      "codename": "ShinGetter"
+      "codename": "ShinGetter",
+      "skin_name": {
+        "0": {
+          "name": "Shin Getter Tomahawk"
+        },
+        "1": {
+          "name": "Shin Getter Change"
+        }
+      }
     },
     "Leiter": {
-      "codename": "Leiter"
+      "codename": "Leiter",
+      "skin_name": {
+        "0": {
+          "name": "AOG Mass-Production Miner"
+        },
+        "1": {
+          "name": "Simulacrum: Beast"
+        }
+      }
     }
   },
   "credits": "",

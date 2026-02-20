@@ -416,18 +416,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Ninja Master's ~Haō Ninpō Chō~
-Traceback (most recent call last):
-  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
-    if game_data.get("characters"):
-AttributeError: 'NoneType' object has no attribute 'get'
-
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Ninza
-Traceback (most recent call last):
-  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
-    if game_data.get("characters"):
-AttributeError: 'NoneType' object has no attribute 'get'
-
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## New Super Mario Bros.
 Game has no characters in startgg...? Or do we have a wrong game id?

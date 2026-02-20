@@ -6,7 +6,7 @@
   "type": [
     "full"
   ],
-  "version": "25.05.29.53856",
+  "version": "26.02.19.77807",
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
   "uncropped_edge": [
     "u",
@@ -81,5 +81,77 @@
         "y": 519
       }
     }
+  },
+  "image_sizes": {
+    "CaptainAmerica": {
+      "0": {
+        "x": 1600,
+        "y": 1925
+      }
+    },
+    "Danger": {
+      "0": {
+        "x": 1600,
+        "y": 1926
+      }
+    },
+    "DoctorDoom": {
+      "0": {
+        "x": 1600,
+        "y": 1835
+      }
+    },
+    "GhostRider": {
+      "0": {
+        "x": 1600,
+        "y": 1925
+      }
+    },
+    "IronMan": {
+      "0": {
+        "x": 1600,
+        "y": 1925
+      }
+    },
+    "Magik": {
+      "0": {
+        "x": 1600,
+        "y": 1926
+      }
+    },
+    "MsMarvel": {
+      "0": {
+        "x": 1600,
+        "y": 1926
+      }
+    },
+    "SpiderMan": {
+      "0": {
+        "x": 1600,
+        "y": 1925
+      }
+    },
+    "StarLord": {
+      "0": {
+        "x": 1600,
+        "y": 1926
+      }
+    },
+    "Storm": {
+      "0": {
+        "x": 1600,
+        "y": 1926
+      }
+    },
+    "Wolverine": {
+      "0": {
+        "x": 1600,
+        "y": 1926
+      }
+    }
+  },
+  "average_size": {
+    "x": 1600.0,
+    "y": 1917.3636363636363
   }
 }

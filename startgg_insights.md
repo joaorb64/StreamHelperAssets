@@ -296,11 +296,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (22/22)
 
 ## Martial Champion
-Traceback (most recent call last):
-  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
-    if game_data.get("characters"):
-AttributeError: 'NoneType' object has no attribute 'get'
-
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## MerFight: Curse of the Arctic Prince
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -443,11 +439,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Panel de Pon (Nintendo Puzzle Collection)
-Traceback (most recent call last):
-  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
-    if game_data.get("characters"):
-AttributeError: 'NoneType' object has no attribute 'get'
-
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Tetris Attack
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -504,14 +496,16 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Pokémon Unite
 - Character [Mewtwo]: Character name [Mewtwo] doesn't exist in StartGG
 - Character [Vaporeon]: Character name [Vaporeon] doesn't exist in StartGG
+- Character [Articuno]: Character name [Articuno] doesn't exist in StartGG
+- Character [Zapdos]: Character name [Zapdos] doesn't exist in StartGG
+- Character [Moltres]: Character name [Moltres] doesn't exist in StartGG
 - Character [Charizard X] not assigned in TSH!
 - Character [Charizard Y] not assigned in TSH!
 - Character [Mega Gyarados] not assigned in TSH!
 - Character [Mega Lucario] not assigned in TSH!
-- Character [Meowth] not assigned in TSH!
 - Character [Mewtwo X] not assigned in TSH!
 - Character [Mewtwo Y] not assigned in TSH!
-### Coverage: (81/88)
+### Coverage: (82/88)
 
 ## Rabbit
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -523,11 +517,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Real Bout Fatal Fury Special
-Traceback (most recent call last):
-  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 74, in process_directory
-    if game_data.get("characters"):
-AttributeError: 'NoneType' object has no attribute 'get'
-
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Red Earth
 Game has no characters in startgg...? Or do we have a wrong game id?

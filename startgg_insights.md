@@ -511,8 +511,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Meowth] not assigned in TSH!
 - Character [Mewtwo X] not assigned in TSH!
 - Character [Mewtwo Y] not assigned in TSH!
-- Character [Sirfetch'd] not assigned in TSH!
-### Coverage: (80/88)
+### Coverage: (81/88)
 
 ## Rabbit
 Game has no characters in startgg...? Or do we have a wrong game id?

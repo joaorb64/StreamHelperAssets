@@ -1181,7 +1181,8 @@
         "it": "Articuno",
         "es": "Articuno",
         "br": "Skornaer"
-      }
+      },
+      "smashgg_name": "Articuno"
     },
     "Zapdos": {
       "codename": "145",
@@ -1195,7 +1196,8 @@
         "it": "Zapdos",
         "es": "Zapdos",
         "br": "Tredanaer"
-      }
+      },
+      "smashgg_name": "Zapdos"
     },
     "Moltres": {
       "codename": "146",
@@ -1209,7 +1211,23 @@
         "it": "Moltres",
         "es": "Moltres",
         "br": "Flammaer"
-      }
+      },
+      "smashgg_name": "Moltres"
+    },
+    "Meowth": {
+      "codename": "052",
+      "locale": {
+        "fr": "Miaouss",
+        "de": "Mauzi",
+        "ko": "\ub098\uc639",
+        "ja": "\u30cb\u30e3\u30fc\u30b9",
+        "zh_CN": "\u55b5\u55b5",
+        "zh_TW": "\u55b5\u55b5",
+        "it": "Meowth",
+        "es": "Meowth",
+        "br": "Miaouzh"
+      },
+      "smashgg_name": "Meowth"
     }
   },
   "stage_to_codename": {},

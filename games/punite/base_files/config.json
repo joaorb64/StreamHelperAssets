@@ -31,7 +31,15 @@
         "es": "Charizard",
         "br": "Tanaer"
       },
-      "smashgg_name": "Charizard"
+      "smashgg_name": "Charizard",
+      "skin_name": {
+        "1": {
+          "name": "Mega-X"
+        },
+        "2": {
+          "name": "Mega-Y"
+        }
+      }
     },
     "Blastoise": {
       "codename": "009",
@@ -395,7 +403,12 @@
         "it": "Lucario",
         "es": "Lucario"
       },
-      "smashgg_name": "Lucario"
+      "smashgg_name": "Lucario",
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
+      }
     },
     "Glaceon": {
       "codename": "471",
@@ -802,7 +815,15 @@
         "es": "Mewtwo",
         "br": "Diogemm"
       },
-      "smashgg_name": "Mewtwo"
+      "smashgg_name": "Mewtwo",
+      "skin_name": {
+        "0": {
+          "name": "Mega-X"
+        },
+        "1": {
+          "name": "Mega-Y"
+        }
+      }
     },
     "Blaziken": {
       "codename": "257",
@@ -859,7 +880,12 @@
         "es": "Gyarados",
         "br": "Lazeresk"
       },
-      "smashgg_name": "Gyarados"
+      "smashgg_name": "Gyarados",
+      "skin_name": {
+        "1": {
+          "name": "Mega"
+        }
+      }
     },
     "Metagross": {
       "codename": "376",
@@ -1130,6 +1156,60 @@
         "br": "Kiglao"
       },
       "smashgg_name": "Vaporeon"
+    },
+    "Sirfetch'd": {
+      "codename": "865",
+      "locale": {
+        "fr": "Palarticho",
+        "de": "Lauchzelot",
+        "ko": "\ucc3d\ud30c\ub098\uc774\ud2b8",
+        "ja": "\u30cd\u30ae\u30ac\u30ca\u30a4\u30c8",
+        "zh_CN": "\u8471\u6e38\u5175",
+        "zh_TW": "\u8525\u904a\u5175"
+      },
+      "smashgg_name": "Sirfetch'd"
+    },
+    "Articuno": {
+      "codename": "144",
+      "locale": {
+        "fr": "Artikodin",
+        "de": "Arktos",
+        "ko": "\ud504\ub9ac\uc838",
+        "ja": "\u30d5\u30ea\u30fc\u30b6\u30fc",
+        "zh_CN": "\u6025\u51bb\u9e1f",
+        "zh_TW": "\u6025\u51cd\u9ce5",
+        "it": "Articuno",
+        "es": "Articuno",
+        "br": "Skornaer"
+      }
+    },
+    "Zapdos": {
+      "codename": "145",
+      "locale": {
+        "fr": "\u00c9lecthor",
+        "de": "Zapdos",
+        "ko": "\uc36c\ub354",
+        "ja": "\u30b5\u30f3\u30c0\u30fc",
+        "zh_CN": "\u95ea\u7535\u9e1f",
+        "zh_TW": "\u9583\u96fb\u9ce5",
+        "it": "Zapdos",
+        "es": "Zapdos",
+        "br": "Tredanaer"
+      }
+    },
+    "Moltres": {
+      "codename": "146",
+      "locale": {
+        "fr": "Sulfura",
+        "de": "Lavados",
+        "ko": "\ud30c\uc774\uc5b4",
+        "ja": "\u30d5\u30a1\u30a4\u30e4\u30fc",
+        "zh_CN": "\u706b\u7130\u9e1f",
+        "zh_TW": "\u706b\u7130\u9ce5",
+        "it": "Moltres",
+        "es": "Moltres",
+        "br": "Flammaer"
+      }
     }
   },
   "stage_to_codename": {},

@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://mhaaj.bn-ent.net/character/all.php",
-  "version": "26.01.19.44533",
+  "version": "26.02.26.43498",
   "image_sizes": {
     "AllForOne": {
       "0": {
@@ -343,6 +343,12 @@
         "y": 1920
       }
     },
+    "StarStripe": {
+      "0": {
+        "x": 1920,
+        "y": 1920
+      }
+    },
     "TamakiAmajiki": {
       "0": {
         "x": 1920,
@@ -403,7 +409,7 @@
     }
   },
   "average_size": {
-    "x": 1919.5882352941176,
-    "y": 1919.735294117647
+    "x": 1919.5942028985507,
+    "y": 1919.7391304347825
   }
 }

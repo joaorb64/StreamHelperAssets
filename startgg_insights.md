@@ -502,61 +502,17 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Pokémon Unite
-- Character [Clefable]: Character name [Clefable] doesn't exist in StartGG
-- Character [Dodrio]: Character name [Dodrio] doesn't exist in StartGG
-- Character [Lapras]: Character name [Lapras] doesn't exist in StartGG
-- Character [Dragonite]: Character name [Dragonite] doesn't exist in StartGG
-- Character [Mew]: Character name [Mew] doesn't exist in StartGG
-- Character [Azumarill]: Character name [Azumarill] doesn't exist in StartGG
-- Character [Espeon]: Character name [Espeon] doesn't exist in StartGG
-- Character [Umbreon]: Character name [Umbreon] doesn't exist in StartGG
-- Character [Scizor]: Character name [Scizor] doesn't exist in StartGG
-- Character [Tyranitar]: Character name [Tyranitar] doesn't exist in StartGG
-- Character [Sableye]: Character name [Sableye] doesn't exist in StartGG
-- Character [Glaceon]: Character name [Glaceon] doesn't exist in StartGG
-- Character [Chandelure]: Character name [Chandelure] doesn't exist in StartGG
-- Character [Zoroark]: Character name [Zoroark] doesn't exist in StartGG
-- Character [Delphox]: Character name [Delphox] doesn't exist in StartGG
-- Character [Aegislash]: Character name [Aegislash] doesn't exist in StartGG
-- Character [Goodra]: Character name [Goodra] doesn't exist in StartGG
-- Character [Trevenant]: Character name [Trevenant] doesn't exist in StartGG
-- Character [Hoopa]: Character name [Hoopa] doesn't exist in StartGG
-- Character [Decidueye]: Character name [Decidueye] doesn't exist in StartGG
-- Character [Tsareena]: Character name [Tsareena] doesn't exist in StartGG
-- Character [Comfey]: Character name [Comfey] doesn't exist in StartGG
-- Character [Buzzwole]: Character name [Buzzwole] doesn't exist in StartGG
-- Character [Greedent]: Character name [Greedent] doesn't exist in StartGG
-- Character [Duraludon]: Character name [Duraludon] doesn't exist in StartGG
-- Character [Dragapult]: Character name [Dragapult] doesn't exist in StartGG
-- Character [Zacian]: Character name [Zacian] doesn't exist in StartGG
-- Character [Urshifu]: Character name [Urshifu] doesn't exist in StartGG
-- Character [Leafeon]: Character name [Leafeon] doesn't exist in StartGG
-- Character [Inteleon]: Character name [Inteleon] doesn't exist in StartGG
 - Character [Mewtwo]: Character name [Mewtwo] doesn't exist in StartGG
-- Character [Blaziken]: Character name [Blaziken] doesn't exist in StartGG
-- Character [Mimikyu]: Character name [Mimikyu] doesn't exist in StartGG
-- Character [Meowscarada]: Character name [Meowscarada] doesn't exist in StartGG
-- Character [Gyarados]: Character name [Gyarados] doesn't exist in StartGG
-- Character [Metagross]: Character name [Metagross] doesn't exist in StartGG
-- Character [Miraidon]: Character name [Miraidon] doesn't exist in StartGG
-- Character [Falinks]: Character name [Falinks] doesn't exist in StartGG
-- Character [Ceruledge]: Character name [Ceruledge] doesn't exist in StartGG
-- Character [Ho-Oh]: Character name [Ho-Oh] doesn't exist in StartGG
-- Character [Armarouge]: Character name [Armarouge] doesn't exist in StartGG
-- Character [Darkrai]: Character name [Darkrai] doesn't exist in StartGG
-- Character [Psyduck]: Character name [Psyduck] doesn't exist in StartGG
-- Character [Tinkaton]: Character name [Tinkaton] doesn't exist in StartGG
-- Character [Galarian Rapidash]: Character name [Galarian Rapidash] doesn't exist in StartGG
-- Character [Suicune]: Character name [Suicune] doesn't exist in StartGG
-- Character [Alolan Raichu]: Character name [Alolan Raichu] doesn't exist in StartGG
-- Character [Alcremie]: Character name [Alcremie] doesn't exist in StartGG
-- Character [Latias]: Character name [Latias] doesn't exist in StartGG
-- Character [Latios]: Character name [Latios] doesn't exist in StartGG
-- Character [Pawmot]: Character name [Pawmot] doesn't exist in StartGG
-- Character [Empoleon]: Character name [Empoleon] doesn't exist in StartGG
-- Character [Dhelmise]: Character name [Dhelmise] doesn't exist in StartGG
 - Character [Vaporeon]: Character name [Vaporeon] doesn't exist in StartGG
-### Coverage: (25/25)
+- Character [Charizard X] not assigned in TSH!
+- Character [Charizard Y] not assigned in TSH!
+- Character [Mega Gyarados] not assigned in TSH!
+- Character [Mega Lucario] not assigned in TSH!
+- Character [Meowth] not assigned in TSH!
+- Character [Mewtwo X] not assigned in TSH!
+- Character [Mewtwo Y] not assigned in TSH!
+- Character [Sirfetch'd] not assigned in TSH!
+### Coverage: (80/88)
 
 ## Rabbit
 Game has no characters in startgg...? Or do we have a wrong game id?

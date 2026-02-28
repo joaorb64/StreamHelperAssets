@@ -454,6 +454,12 @@
         },
         "15": {
           "name": "World Cap"
+        },
+        "16": {
+          "name": "Mr. Windychu"
+        },
+        "17": {
+          "name": "Ms. Wavychu"
         }
       }
     },
@@ -2554,6 +2560,12 @@
         },
         "2": {
           "name": "Mega-Y"
+        },
+        "3": {
+          "name": "Shadow"
+        },
+        "4": {
+          "name": "Shadow-Mega"
         }
       }
     },
@@ -3941,6 +3953,11 @@
         "zh_TW": "\u6d1b\u5947\u4e9e",
         "it": "Lugia",
         "es": "Lugia"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Shadow"
+        }
       }
     },
     "Ho-Oh": {
@@ -7236,6 +7253,9 @@
       "skin_name": {
         "1": {
           "name": "Origin"
+        },
+        "2": {
+          "name": "Primal"
         }
       }
     },
@@ -15301,6 +15321,39 @@
         "ko": "\ubcf5\uc22d\uc545\ub3d9",
         "zh_TW": "\u6843\u6b79\u90ce",
         "zh_CN": "\u6843\u6b79\u90ce"
+      }
+    },
+    "Browt": {
+      "codename": "000",
+      "locale": {
+        "ja": "\u30cf\u30d6\u30ed\u30a6",
+        "de": "Braubel",
+        "fr": "Broussatif",
+        "ko": "\ucd08\ub85c\uc090",
+        "zh_TW": "\u8449\u7709\u9ce5",
+        "zh_CN": "\u53f6\u7709\u9e1f"
+      }
+    },
+    "Pombon": {
+      "codename": "000",
+      "locale": {
+        "ja": "\u30dd\u30e0\u30b1\u30f3",
+        "de": "Pomfifi",
+        "fr": "Caloulou",
+        "ko": "\ud3ec\ubb49\uc774",
+        "zh_TW": "\u535a\u59c6\u803f",
+        "zh_CN": "\u535a\u59c6\u803f"
+      }
+    },
+    "Gecqua": {
+      "codename": "000",
+      "locale": {
+        "ja": "\u30df\u30aa\u30ea\u30fc",
+        "de": "Gekkua",
+        "fr": "Og\u00e9ko",
+        "ko": "\ubbf8\ucd08\ub9ac",
+        "zh_TW": "\u5999\u6faa\u5152",
+        "zh_CN": "\u5999\u6faa\u513f"
       }
     }
   },

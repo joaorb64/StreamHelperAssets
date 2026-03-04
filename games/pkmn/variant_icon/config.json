@@ -1,11 +1,6659 @@
 {
   "name": "Item Icons",
-  "version": "1.0",
+  "version": "26.03.04.72504",
   "description": "Item icons\nRequires TSH 5.92 or higher to be used",
   "prefix": "file_",
   "postfix": "",
   "type": [
     "variant_icon"
   ],
-  "credits": "Ripped from https://serebii.net/itemdex/"
+  "credits": "Ripped from https://serebii.net/itemdex/",
+  "image_sizes": {
+    "Ability_Capsule": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ability_Patch": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ability_Shield": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Abomasite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Abra_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Absolite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Absorb_Bulb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Acro_Bike": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Adamant_Crystal": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Adamant_Orb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Adrenaline_Orb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Adventure_Rules": {
+      "null": {
+        "x": 27,
+        "y": 24
+      }
+    },
+    "Aerodactyl_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Aerodactylite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Aggronite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Aguav_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Air_Balloon": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Air_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Alakazite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Aloraichium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Altarianite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Ampharosite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Amulet_Coin": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Antidote": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Apicot_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Apricorn_Box": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Aqua_Suit": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Armor_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Armor_Pass": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Armorite_Ore": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Articuno_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Aspear_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Assault_Vest": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Audinite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Aurora_Ticket": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Auspicious_Armor": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Autographed_Plush": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Aux_Evasion": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Aux_Evasion_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Aux_Guard": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Aux_Guard_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Aux_Power": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Aux_Power_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Aux_Powerguard": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Aux_Powerguard_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Awakening": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Azelf_s_Fang": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Azure_Flute": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Babiri_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ball_of_Mud": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "BalmMushroom": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Banettite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Barbaracite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Basculegion_Food": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Basement_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Beach_Glass": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Bead_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Bean_Cake_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Beast_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Beedrillite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Bellsprout_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Belue_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Berry_Juice": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Berry_Pots": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Berry_Pouch": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Bicycle": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Big_Bamboo_Shoot": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Big_Malasada": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Big_Mushroom": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Big_Nugget": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Big_Pearl": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Big_Root": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Bike_Voucher": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Binding_Band": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "BlackGlasses": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Black_Apricorn": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Black_Augurite": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Black_Belt": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Black_Flute": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Black_Mane_Hair": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Black_Sludge": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Blank_Plate": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Blastoisinite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Blazikenite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Bloom_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Blu_Apricorn": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Blue_Canari_Plush_Lv__1": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Blue_Canari_Plush_Lv__2": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Blue_Canari_Plush_Lv__3": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Blue_Card": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Blue_Flute": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Blue_Orb": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Blue_Petal": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Blue_Scarf": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Blue_Shard": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Bluk_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Booster_Energy": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Bottle_Cap": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Brick_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "BridgeMail_S": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "BridgeMail_V": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "BrightPowder": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Bubble_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Bug_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Bug_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Bug_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Buginium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Bulbasaur_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Burn_Drive": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Burn_Heal": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Calcium": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Cameruptite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Carbos": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Card_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Carrot_Seeds": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Casteliacone": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Caterpie_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Celestica_Flute": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Cell_Battery": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Chalky_Stone": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Chandelurite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Chansey_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Charcoal": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Charizardite_X": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Charizardite_Y": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Charmander_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Charti_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Cheri_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Cherish_Ball": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Cherished_Ring": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Chesnaughtite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Chesto_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Chilan_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Chill_Drive": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Chipped_Pot": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Choice_Band": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Choice_Dumpling": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Choice_Dumpling_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Choice_Scarf": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Choice_Specs": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Chople_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Claw_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Cleanse_Tag": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Clear_Amulet": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Clear_Bell": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Clefablite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Clefairy_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Clever_Feather": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Clever_Mochi": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Coba_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Coin_Case": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Colbur_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Colorful_Screw": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Colress_MCHN": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Comet_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Contest_Costume": {
+      "null": {
+        "x": 27,
+        "y": 24
+      }
+    },
+    "Contest_Pass": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Cornerstone_Mask": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Cornn_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Coupon_1": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Coupon_2": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Coupon_3": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Courage_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Courage_Candy_L": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Courage_Candy_XL": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Cover_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Covert_Cloak": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Cracked_Pot": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Crafting_Kit": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Crown_Pass": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Crystal_Cluster": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Cubone_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Custap_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "DNA_Splicers": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Damp_Mulch": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Damp_Rock": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dark_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Dark_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Dark_Stone": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Dark_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Darkinium_Z": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Dawn_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Decidium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "DeepSeaScale": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "DeepSeaTooth": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Delphoxite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Destiny_Knot": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Devon_Goods": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Devon_Parts": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Devon_Scope": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Devon_Scuba_Gear": {
+      "null": {
+        "x": 26,
+        "y": 24
+      }
+    },
+    "Diancite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Diglett_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Dire_Hit": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dire_Hit_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Discount_Coupon": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Ditto_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Dive_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Doduo_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Dome_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Douse_Drive": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Dowsing_MCHN": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Dowsing_Machine": {
+      "null": {
+        "x": 26,
+        "y": 26
+      }
+    },
+    "Draco_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dragalgite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dragon_Fang": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dragon_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Dragon_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Dragon_Scale": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dragon_Skull": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Dragon_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dragoninite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dragonium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Drampanite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dratini_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Dread_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dream_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dream_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Drowzee_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Dubious_Disc": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Durin_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Dusk_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dusk_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Dynite_Ore": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Earth_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Eelektrossite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Eevee_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Eevium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Eject_Button": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ekans_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Electabuzz_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Electirizer": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Electric_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Electric_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Electric_Seed": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Electric_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Electrium_Z": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Elevator_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Elixir": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Emboarite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "EnergyPowder": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Energy_Root": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Enigma_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Enigma_Stone": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Enigmatic_Card": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Eon_Flute": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Eon_Ticket": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Escape_Rope": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Eternal_Ice": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Ether": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Everstone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Eviolite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Excadrite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Exeggcute_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Exp__Charm": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Exp__Share": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Expert_Belt": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Explorer_Kit": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Fab_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Fairium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Fairy_Feather": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Fairy_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Fairy_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Falinksite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Fame_Checker": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Farfetch_d_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Fashion_Case": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Fast_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Favored_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Feather_Ball": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Feather_Ball_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Feraligite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Festival_Ticket": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Fighting_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Fighting_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Fighting_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Fightinium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Figy_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Fine_Remedy": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Fine_Remedy_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Fire_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Fire_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Fire_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Fire_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Firium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Fishing_Rod": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Fist_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Flame_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Flame_Orb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Flame_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Float_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Floettite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Fluffy_Tail": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Flying_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Flying_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Flying_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Flyinium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Focus_Band": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Focus_Sash": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Forage_Bag": {
+      "null": {
+        "x": 24,
+        "y": 26
+      }
+    },
+    "Forest_Balm": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Fossilized_Bird": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Fossilized_Dino": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Fossilized_Drake": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Fossilized_Fish": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Fresh_Start_Mochi": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Fresh_Water": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Friend_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Froslassite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Full_Heal": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Full_Heal_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Full_Incense": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Full_Restore": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Full_Restore_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "GB_Sounds": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "GS_Ball": {
+      "null": {
+        "x": 18,
+        "y": 18
+      }
+    },
+    "Galactic_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Galarica_Cuff": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Galarica_Twig": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Galarica_Wreath": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Galladite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Ganlon_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Garchompite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Gardevoirite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Gastly_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Gengarite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Genius_Feather": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Genius_Mochi": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Geodude_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Ghost_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Ghost_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Ghost_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ghostium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Gigaton_Ball": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Gigaton_Ball_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Gimmighoul_Coin": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Glalitite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Glimmering_Charm": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Glitter_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Go_Goggles": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "God_Stone": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Gold_Bottle_Cap": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Gold_Canari_Plush_Lv__1": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Gold_Canari_Plush_Lv__2": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Gold_Canari_Plush_Lv__3": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Gold_Leaf": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Gold_Teeth": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Goldeen_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Golden_Nanab_Berry": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Golden_Pinap_Berry": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Golden_Razz_Berry": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Good_Rod": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Gooey_Mulch": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Gracidea": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Grain_Cake_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Gram_1": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Gram_2": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Gram_3": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Grass_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Grass_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Grass_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Grass_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Grassium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Grassy_Seed": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Great_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Great_Ball_Legends": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Great_Ball_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Green_Canari_Plush_Lv__1": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Green_Canari_Plush_Lv__2": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Green_Canari_Plush_Lv__3": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Green_Petal": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Green_Scarf": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Green_Shard": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Greet_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Greninjite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Grepa_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Grimer_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Grip_Claw": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Griseous_Core": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Griseous_Orb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Grn_Apricorn": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Ground_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Ground_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Ground_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Groundium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Growlithe_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Growth_Mulch": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Grubby_Hanky": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Guard_Spec_": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Gyaradosite": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "HP_Up": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Haban_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Harbor_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Hard_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Hawluchanite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Heal_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Heal_Powder": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Health_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Health_Candy_L": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Health_Candy_XL": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Health_Feather": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Health_Mochi": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Heart_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Heart_Scale": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Hearthflame_Mask": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Heat_Rock": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Heavy_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Heavy_Ball_Legends": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Heavy_Ball_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Helix_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Heracronite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Hitmonchan_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Hitmonlee_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Holo_Caster": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Hometown_Muffin": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Hondew_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Honey": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Honey_Cake_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Honor_of_Kalos": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Hopo_Berry": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Horsea_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Houndoominite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Hyper_Potion": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Hyper_Potion_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Iapapa_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ice_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Ice_Heal": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ice_Memory": {
+      "null": {
+        "x": 80,
+        "y": 79
+      }
+    },
+    "Ice_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ice_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Iceroot_Carrot": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Icicle_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Icium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Icy_Rock": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ilima_s_Normalium_Z": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Incinium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Indigo_Disk": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Indigo_Style_Card": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Inquiry_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Insect_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Intriguing_Stone": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Iron": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Iron_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Iron_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Itemfinder": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Jaboca_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Jade_Orb": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Jaw_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Jet_Ball": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Jet_Ball_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Jigglypuff_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Journal": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Jubilife_Muffin": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Jubilife_Muffin_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Jynx_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Kabuto_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Kangaskhan_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Kangaskhanite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Kasib_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Kebia_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Kelpsy_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Key_to_Room_1": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Key_to_Room_2": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Key_to_Room_202": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Key_to_Room_4": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Key_to_Room_6": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "King_s_Rock": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Koffing_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Kommonium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Krabby_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Lab_Key_Card_A": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lab_Key_Card_B": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lab_Key_Card_C": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lagging_Tail": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lansat_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lapras_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Lava_Cookie": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Lax_Incense": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Leaden_Ball": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Leaden_Ball_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Leader_s_Crest": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Leaf_Letter": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Leaf_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Left_Pok__Ball": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Leftovers": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Legend_Plate": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Legendary_Clue_": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Legendary_Clue_1": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Legendary_Clue_2": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Legendary_Clue_3": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Lemonade": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lens_Case": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Leppa_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Letter": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Level_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Liberty_Pass": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Lickitung_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Liechi_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Life_Orb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lift_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Light_Ball": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Light_Clay": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Light_Stone": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Like_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Linking_Cord": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Loaded_Dice": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lock_Capsule": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Lone_Earring": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Looker_Ticket": {
+      "null": {
+        "x": 28,
+        "y": 24
+      }
+    },
+    "Loot_Sack": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Lopunnite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Lost_Item": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Lost_Satchel": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Love_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lucarionite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Luck_Incense": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Lucky_Egg": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lucky_Punch": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Lum_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Luminous_Moss": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lumiose_Galette": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Lunalium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Lunar_Wing": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Lure": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Lure_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lustrous_Globe": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lustrous_Orb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Luxury_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Lycanium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Mach_Bike": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Machine_Part": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Macho_Brace": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Machop_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Magikarp_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Magma_Emblem": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Magma_Stone": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Magma_Suit": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Magmar_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Magmarizer": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Magnemite_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Magnet": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Mago_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Magost_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Malamarite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Malicious_Armor": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Manectite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Mankey_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Marble": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Mark_Charm": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Marsh_Balm": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Marshadium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Master_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Masterpiece_Teacup": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Mawilite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Max_Elixir": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Max_Elixir_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Max_Ether": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Max_Ether_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Max_Honey": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Max_Lure": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Max_Mushrooms": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Max_Potion": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Max_Potion_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Max_Repel": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Max_Revive": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Max_Revive_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Meadow_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Mech_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Medal_Box": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Medichamite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Mega_Bracelet": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Mega_Ring": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Mega_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Meganiumite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Meltan_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Member_Card": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Mental_Herb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Meowth_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Mesprit_s_Plume": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Metagrossite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Metal_Alloy": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Metal_Coat": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Metal_Powder": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Meteorite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Meteorite_Shard": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Metronome": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Mew_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Mewnium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Mewtwo_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Mewtwonite_X": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Mewtwonite_Y": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Micle_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Mighty_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Mighty_Candy_L": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Mighty_Candy_XL": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Mimikium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Mind_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Miracle_Seed": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Mirror_Herb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Misty_Seed": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Moltres_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Moomoo_Milk": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Moon_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Moon_Flute": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Moon_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Mosaic_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Mountain_Balm": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Mr__Mime_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Muscle_Band": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Muscle_Feather": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Muscle_Mochi": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Mushroom_Cake_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Mysterious_Balm": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Mystery_Egg": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "MysticTicket": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Mystic_Water": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Mythical_Pecha_Berry": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "N_Lunarizer": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "N_Solarizer": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Nanab_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Nest_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Net_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Never_meltIce": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Nidoran__Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Nomel_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Normal_Gem": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Normalium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Nugget": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Oak_s_Letter": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Oak_s_Parcel": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Occa_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Odd_Incense": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Odd_Keystone": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Oddish_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Old_Amber": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Old_Charm": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Old_Gateau": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Old_Gateau_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Journal": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Rod": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Old_Sea_Map": {
+      "null": {
+        "x": 28,
+        "y": 28
+      }
+    },
+    "Old_Verse_1": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_10": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_11": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_12": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_13": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_14": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_15": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_16": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_17": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_18": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_19": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_2": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_20": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_3": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_4": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_5": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_6": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_7": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_8": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Old_Verse_9": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Omanyte_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Onix_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Oran_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Orange_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Orange_Petal": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Origin_Ball": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Origin_Ore": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Oval_Charm": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Oval_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "PP_Max": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "PP_Up": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pair_of_Tickets": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Pal_Pad": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Pamtre_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Paralyze_Heal": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Paras_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Parcel": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Park_Ball": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pass": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Pass_Orb": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Passho_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Payapa_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pearl": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Pearl_String": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Peat_Block": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Pebble": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pecha_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Permit": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Persim_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Petaya_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pewter_Crunchies": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Photo_Album": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Pidgeotite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pidgey_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Pikachu_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Pikanium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pikashunium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pinap_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pink_Canari_Plush_Lv__1": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pink_Canari_Plush_Lv__2": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pink_Canari_Plush_Lv__3": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pink_Nectar": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pink_Petal": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Pink_Scarf": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pinsir_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Pinsirite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pixie_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Plasma_Card": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Plume_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pnk_Apricorn": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Poffin_Case": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Point_Card": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Poison_Barb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Poison_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Poison_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Poison_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Poisonium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pok_Block_Case": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Pok_Block_Kit": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Pok__Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pok__Ball_Legends": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Pok__Radar": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Pok__Toy": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Pok_dex_Legends": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Polished_Mud_Ball": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Poliwag_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Pomeg_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ponyta_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Porygon_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Potion": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Potion_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Powder_Jar": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Power_Anklet": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Power_Band": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Power_Belt": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Power_Bracer": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Power_Herb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Power_Lens": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Power_Plant_Pass": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Power_Weight": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Premier_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Pretty_Feather": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Primarium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Prism_Scale": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Prison_Bottle": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Prop_Case": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Protective_Pads": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Protector": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Protein": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Psychic_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Psychic_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Psychic_Seed": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Psychic_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Psychium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Psyduck_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Pure_Incense": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Purple_Nectar": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Purple_Petal": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Pyroarite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Qualot_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Quick_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Quick_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Quick_Candy_L": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Quick_Candy_XL": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Quick_Claw": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Quick_Powder": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "RSVP_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Rabuta_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Radiant_Petal": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Ragecandybar": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Rainbow_Flower": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Rainbow_Pass": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Rainbow_Wing": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Rare_Bone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Rare_Candy": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Rattata_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Rawst_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Razor_Claw": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Razor_Fang": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Razz_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Reaper_Cloth": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Red_Apricorn": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Red_Canari_Plush_Lv__1": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Red_Canari_Plush_Lv__2": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Red_Canari_Plush_Lv__3": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Red_Card": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Red_Chain": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Red_Flute": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Red_Nectar": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Red_Orb": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Red_Petal": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Red_Scale": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Red_Scarf": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Red_Shard": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Reins_of_Unity": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Relic_Band": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Relic_Copper_": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Relic_Crown": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Relic_Gold_": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Relic_Silver_": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Relic_Statue": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Relic_Vase": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Remedy": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Remedy_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Repeat_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Repel": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Resist_Feather": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Resist_Mochi": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Retro_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Reveal_Glass": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Revitalizing_Twig": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Revival_Herb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Revive": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Revive_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Rhyhorn_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Ride_Pager": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Rindo_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ring_Target": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Rm__1_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Rm__2_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Rm__4_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Rm__6_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Rock_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Rock_Incense": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Rock_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Rock_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Rockium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Rocky_Helmet": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Roller_Skates": {
+      "null": {
+        "x": 28,
+        "y": 25
+      }
+    },
+    "Root_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Rose_Incense": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roseli_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Roto_Bargain": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_Boost": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_Catch": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_Encounter": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_Exp__Points": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_Friendship": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_HP_Restore": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_Hatch": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_PP_Restore": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_Prize_Money": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_Stealth": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Roto_Stick": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Rotom_Phone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Rowap_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ruby": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Rule_Book": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "S_S__Ticket": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Sablenite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Sachet": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Sacred_Ash": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Safari_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Safety_Goggles": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Sail_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Salac_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Salamencite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Salt_Cake_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Sandshrew_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Sandwich": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Sapphire": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Scanner": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Scarlet_Book": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Scatter_Bang": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Scatter_Bang_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Sceptilite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Scizorite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Scolipite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Scope_Lens": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Scraftinite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Scroll_of_Darkness": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Scroll_of_Waters": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Scyther_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Sea_Incense": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Seal_Bag": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Seal_Case": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "SecretPotion": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Secret_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Secret_Medicine_Legends": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Seed_of_Mastery": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Seel_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Shaderoot_Carrot": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Shadow_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Shalour_Sable": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Sharp_Beak": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Sharpedonite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Shed_Shell": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Shell_Bell": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Shellder_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Shiny_Charm": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Shiny_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Shoal_Salt": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Shoal_Shell": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Shock_Drive": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Shuca_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Silk_Scarf": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Silph_Scope": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "SilverPowder": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Silver_Leaf": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Silver_Nanab_Berry": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Silver_Pinap_Berry": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Silver_Razz_Berry": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Silver_Wing": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Sitrus_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Skarmorite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Skull_Fossil": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Sky_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Slowbronite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Slowpoke_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Slowpoketail": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Small_Bouquet": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Smart_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Smart_Candy_L": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Smart_Candy_XL": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Smoke_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Smoke_Bomb": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Smoke_Bomb_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Smooth_Rock": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Snorlax_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Snorlium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Snow_Balm": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Snow_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Snowball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Snowball_Legends": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Soda_Pop": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Soft_Sand": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Solganium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Soot_Sack": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Soothe_Bell": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Soul_Dew": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Space_Balm": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Space_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Sparkling_Stone": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Spearow_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Spell_Tag": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Spelon_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Splash_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Spoiled_Apricorn": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Spooky_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Sport_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Sprayduck": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Sprinklotad": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Squirtbottle": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Squirtle_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Stable_Mulch": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Star_Piece": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Star_Piece_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Stardust": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Starf_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Starminite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Staryu_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Stealth_Spray": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Stealth_Spray_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Steel_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Steel_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Steel_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Steel_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Steelium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Steelixite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Stick": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Sticky_Barb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Sticky_Glob": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Sticky_Glob_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Stone_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Storage_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Stretchy_Spring": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Style_Card": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Suite_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Sun_Flute": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Sun_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Super_Lumiose_Galette": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Super_Lure": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Super_Potion": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Super_Potion_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Super_Repel": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Super_Rod": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Superb_Remedy": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Superb_Remedy_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Surge_Badge": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Survival_Charm_B": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Survival_Charm_P": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Survival_Charm_R": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Survival_Charm_T": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Survival_Charm_Y": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Swampertite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Swap_Snack": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Swap_Snack_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Sweet_Apple": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Sweet_Heart": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Swift_Feather": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Swift_Mochi": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Synchro_Machine": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Syrupy_Apple": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "TMV_Pass": {
+      "null": {
+        "x": 27,
+        "y": 24
+      }
+    },
+    "Tamato_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Tanga_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Tangela_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Tapunium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Tart_Apple": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Tasty_Trash": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Tauros_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Teachy_TV": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Teal_Mask": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Teal_Style_Card": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Tempting_Charm_B": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Tempting_Charm_P": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Tempting_Charm_R": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Tempting_Charm_T": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Tempting_Charm_Y": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Tentacool_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Tera_Orb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Terrain_Extender": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Thanks_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Thick_Club": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Thunderstone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Tidal_Bell": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Time_Balm": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Timer_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "TinyMushroom": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Tiny_Bamboo_Shoot": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Torn_Journal": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Tough_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Tough_Candy_L": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Tough_Candy_XL": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Town_Map": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Toxic_Orb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Toxic_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Tri_Pass": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Tropic_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Tropical_Shell": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Tunnel_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Twice_Spiced_Radish": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Twice_Spiced_Radish_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "TwistedSpoon": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Tyranitarite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Ultra_Ball": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Ultra_Ball_Legends": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Ultra_Ball_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Ultranecrozium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Unown_Report": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Unremarkable_Teacup": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Upgrade": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Uxie_s_Claw": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Venonat_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Venusaurite": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Victreebelite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Violet_Book": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "Volcano_Balm": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Voltorb_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Vs__Recorder": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Vs__Seeker": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Vulpix_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Wacan_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Wailmer_Pail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Wall_Fragment": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Warding_Charm_B": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Warding_Charm_P": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Warding_Charm_R": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Warding_Charm_T": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Warding_Charm_Y": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Water_Gem": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Water_Memory": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Water_Stone": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Water_Tera_Shard": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Waterium_Z": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Watmel_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Wave_Incense": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Wave_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Weakness_Policy": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Weedle_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Wellspring_Mask": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Wepear_Berry": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Whipped_Dream": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "White_Apricorn": {
+      "null": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    "White_Flute": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "White_Herb": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "White_Mane_Hair": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Wide_Lens": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Wiki_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Wing_Ball": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Wing_Ball_Recipe": {
+      "null": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "Wise_Glasses": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Wood_Mail": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Wooden_Crown": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Works_Key": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "X_Accuracy": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "X_Attack": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "X_Sp__Def": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "X_Speed": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Xtransceiver": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Yache_Berry": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Yellow_Flute": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Yellow_Nectar": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Yellow_Petal": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Yellow_Scarf": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Yellow_Shard": {
+      "null": {
+        "x": 80,
+        "y": 80
+      }
+    },
+    "Z_Power_Ring": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Z_Ring": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Zap_Plate": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Zapdos_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Zinc": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Zoom_Lens": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "Zubat_Candy": {
+      "null": {
+        "x": 32,
+        "y": 32
+      }
+    },
+    "Zygarde_Cube": {
+      "null": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    "Zygardite": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    },
+    "_Stellar_Tera_Shard_": {
+      "null": {
+        "x": 160,
+        "y": 160
+      }
+    }
+  },
+  "average_size": {
+    "x": 98.77055103884372,
+    "y": 98.75519421860885
+  }
 }

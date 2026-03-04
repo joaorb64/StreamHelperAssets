@@ -1,0 +1,11 @@
+{
+  "name": "Item Icons",
+  "version": "1.0",
+  "description": "Item icons\nRequires TSH 5.92 or higher to be used",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "credits": "Ripped from https://serebii.net/itemdex/"
+}

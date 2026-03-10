@@ -582,7 +582,11 @@
     "Mad Piano": {
       "smashgg_name": "Mad Piano",
       "codename": "mad_piano",
-      "locale": {},
+      "locale": {
+        "ja": "キラーピアノ",
+        "es": "Killer Piano",
+        "ko": "킬러피아노"
+      },
       "modded": true
     },
     "Giant Donkey Kong": {
@@ -594,7 +598,13 @@
     "Giga Bowser": {
       "smashgg_name": "Giga Bowser",
       "codename": "giga_bowser",
-      "locale": {},
+      "locale": {
+        "ja": "ギガクッパ",
+        "ru": "Гига-Боузер",
+        "ko": "기가쿠파",
+        "zh_TW": "巨獸庫巴",
+        "zh_CN": "巨兽酷霸王"
+      },
       "modded": true
     },
     "Metal Mario": {
@@ -664,7 +674,22 @@
     "Metal Luigi": {
       "smashgg_name": "Metal Luigi",
       "codename": "metal_luigi",
-      "modded": true
+      "modded": true,
+      "locale": {
+        "ja": "メタルルイージ",
+        "zh_CN": "金属路易吉",
+        "zh_TW": "金屬路易吉",
+        "ko": "메탈루이지",
+        "fr": "Luigi de m\u00e9tal",
+        "nl": "Metalen Luigi",
+        "de": "Metall-Luigi",
+        "it": "Luigi metallo",
+        "es": "Luigi de Metal",
+        "es_LA": "Luigi de metal",
+        "pt_PT": "Luigi Met\u00e1lico",
+        "pt_BR": "Luigi met\u00e1lico",
+        "ru": "Луиджи-металл"
+      }
     },
     "Dragon King": {
       "smashgg_name": "Dragon King",
@@ -679,7 +704,10 @@
     "Dr. Luigi": {
       "smashgg_name": "Dr. Luigi",
       "codename": "dr_luigi",
-      "modded": true
+      "modded": true,
+      "locale": {
+        "ja": "ドクタールイージ"
+      }
     },
     "Peach": {
       "smashgg_name": "Peach",
@@ -726,7 +754,15 @@
     "Lanky Kong": {
       "smashgg_name": "Lanky Kong",
       "codename": "lanky",
-      "modded": true
+      "modded": true,
+      "locale": {
+        "ja": "ランキーコング",
+        "fr": "Lanky Kong",
+        "ru": "Лэнки Конг",
+        "ko": "랭키 콩",
+        "zh_TW": "蘭奇剛",
+        "zh_CN": "兰奇刚"
+      }
     },
     "Random": {
       "smashgg_name": "Random Character",
@@ -738,7 +774,8 @@
   },
   "stage_to_codename": {
     "Battlefield": {
-      "codename": "battlefield"
+      "codename": "battlefield",
+      "modded": true
     },
     "Battlefield DL": {
       "codename": "battlefield_dl",
@@ -777,7 +814,10 @@
       "modded": true
     },
     "Congo Jungle": {
-      "codename": "congo_jungle"
+      "codename": "congo_jungle",
+      "locale": {
+        "fr": "Jungle du Congo"
+      }
     },
     "Congo Jungle DL": {
       "codename": "congo_jungle_dl",
@@ -856,7 +896,10 @@
       "modded": true
     },
     "Dream Land": {
-      "codename": "dream_land"
+      "codename": "dream_land",
+      "locale": {
+        "fr": "Pays de Rêves"
+      }
     },
     "Dream Land Beta 1": {
       "codename": "dream_land_beta_1",
@@ -899,7 +942,8 @@
       "modded": true
     },
     "Final Destination": {
-      "codename": "final_destination"
+      "codename": "final_destination",
+      "modded": true
     },
     "Final Destination DL": {
       "codename": "final_destination_dl",
@@ -994,7 +1038,10 @@
       "modded": true
     },
     "Hyrule Castle": {
-      "codename": "hyrule_castle"
+      "codename": "hyrule_castle",
+      "locale": {
+        "fr": "Château d'Hyrule"
+      }
     },
     "Hyrule Castle DL": {
       "codename": "hyrule_castle_dl",
@@ -1057,7 +1104,10 @@
       "modded": true
     },
     "Mushroom Kingdom": {
-      "codename": "mushroom_kingdom"
+      "codename": "mushroom_kingdom",
+      "locale": {
+        "fr": "Royaume Champignon"
+      }
     },
     "Mushroom Kingdom DL": {
       "codename": "mushroom_kingdom_dl",
@@ -1108,7 +1158,10 @@
       "modded": true
     },
     "Peach's Castle": {
-      "codename": "peachs_castle"
+      "codename": "peachs_castle",
+      "locale": {
+        "fr": "Château de Peach"
+      }
     },
     "Peach's Castle Beta": {
       "codename": "peachs_castle_beta",
@@ -1143,7 +1196,10 @@
       "modded": true
     },
     "Planet Zebes": {
-      "codename": "planet_zebes"
+      "codename": "planet_zebes",
+      "locale": {
+        "fr": "Planète Zebes"
+      }
     },
     "Planet Zebes DL": {
       "codename": "planet_zebes_dl",
@@ -1182,7 +1238,10 @@
       "modded": true
     },
     "Saffron City": {
-      "codename": "saffron_city"
+      "codename": "saffron_city",
+      "locale": {
+        "fr": "Safrania"
+      }
     },
     "Saffron City DL": {
       "codename": "saffron_city_dl",
@@ -1197,7 +1256,10 @@
       "modded": true
     },
     "Sector Z": {
-      "codename": "sector_z"
+      "codename": "sector_z",
+      "locale": {
+        "fr": "Secteur Z"
+      }
     },
     "Sector Z DL": {
       "codename": "sector_z_dl",
@@ -1284,7 +1346,10 @@
       "modded": true
     },
     "Yoshi's Island": {
-      "codename": "yoshis_island"
+      "codename": "yoshis_island",
+      "locale": {
+        "fr": "Île Yoshi"
+      }
     },
     "Yoshi's Island DL": {
       "codename": "yoshis_island_dl",

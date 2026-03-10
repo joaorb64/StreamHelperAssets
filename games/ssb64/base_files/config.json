@@ -738,11 +738,22 @@
   },
   "stage_to_codename": {
     "Battlefield": {
-      "codename": "battlefield",
+      "codename": "battlefield"
+    },
+    "Battlefield DL": {
+      "codename": "battlefield_dl",
       "modded": true
     },
     "Big Blue": {
       "codename": "big_blue",
+      "modded": true
+    },
+    "Big Boo's Haunt": {
+      "codename": "big_boos_haunt",
+      "modded": true
+    },
+    "Big Snowman": {
+      "codename": "big_snowman",
       "modded": true
     },
     "Bowser's Keep": {
@@ -751,6 +762,10 @@
     },
     "Bowser's Stadium": {
       "codename": "bowsers_stadium",
+      "modded": true
+    },
+    "Casino Night Zone": {
+      "codename": "casino_night_zone",
       "modded": true
     },
     "Castle Siege": {
@@ -764,20 +779,40 @@
     "Congo Jungle": {
       "codename": "congo_jungle"
     },
+    "Congo Jungle DL": {
+      "codename": "congo_jungle_dl",
+      "modded": true
+    },
+    "Congo Jungle Ω": {
+      "codename": "congo_jungle_omega",
+      "modded": true
+    },
     "Cool Cool Mountain": {
       "codename": "cool_cool_mountain",
       "modded": true
     },
-    "Corneria City": {
-      "codename": "corneria_city",
+    "Cool Cool Mountain DL": {
+      "codename": "cool_cool_mountain_dl",
+      "modded": true
+    },
+    "Cool Cool Mountain SR": {
+      "codename": "cool_cool_mountain_remix",
       "modded": true
     },
     "Corneria": {
       "codename": "corneria",
       "modded": true
     },
-    "dataDyne": {
-      "codename": "datadyne",
+    "Crateria": {
+      "codename": "crateria",
+      "modded": true
+    },
+    "Crateria DL": {
+      "codename": "crateria_dl",
+      "modded": true
+    },
+    "dataDyne Central": {
+      "codename": "datadyne_central",
       "modded": true
     },
     "Deku Tree": {
@@ -792,9 +827,36 @@
       "codename": "delfino_plaza",
       "modded": true
     },
+    "Dinosaur Land": {
+      "codename": "dinosaur_land",
+      "modded": true
+    },
+    "Discovery Falls": {
+      "codename": "discovery_falls",
+      "modded": true
+    },
+    "Discovery Falls Remix": {
+      "codename": "discovery_falls_remix",
+      "modded": true
+    },
+    "Dracula's Castle": {
+      "codename": "draculas_castle",
+      "modded": true
+    },
+    "Reverse Castle": {
+      "codename": "draculas_castle_remix",
+      "modded": true
+    },
     "Dragon King": {
       "codename": "dragon_king",
       "modded": true
+    },
+    "Dragon King Remix": {
+      "codename": "dragon_king_remix",
+      "modded": true
+    },
+    "Dream Land": {
+      "codename": "dream_land"
     },
     "Dream Land Beta 1": {
       "codename": "dream_land_beta_1",
@@ -804,11 +866,20 @@
       "codename": "dream_land_beta_2",
       "modded": true
     },
-    "Dream Land": {
-      "codename": "dream_land"
+    "Dream Land Beta DL": {
+      "codename": "dream_land_beta_dl",
+      "modded": true
     },
     "Winter Dream Land": {
-      "codename": "winter_dream_land",
+      "codename": "dream_land_dl",
+      "modded": true
+    },
+    "Dream Land Ω": {
+      "codename": "dream_land_omega",
+      "modded": true
+    },
+    "Dream Greens": {
+      "codename": "dream_land_remix",
       "modded": true
     },
     "Dr. Mario": {
@@ -819,8 +890,23 @@
       "codename": "duel_zone",
       "modded": true
     },
+    "Duel Zone DL": {
+      "codename": "duel_zone_dl",
+      "modded": true
+    },
+    "Edo Town": {
+      "codename": "edo_town",
+      "modded": true
+    },
     "Final Destination": {
-      "codename": "final_destination",
+      "codename": "final_destination"
+    },
+    "Final Destination DL": {
+      "codename": "final_destination_dl",
+      "modded": true
+    },
+    "Final Tentination": {
+      "codename": "final_destination_remix",
       "modded": true
     },
     "First Destination": {
@@ -831,12 +917,12 @@
       "codename": "first_destination_remix",
       "modded": true
     },
-    "Flat Zone 2": {
-      "codename": "flat_zone_2",
-      "modded": true
-    },
     "Flat Zone": {
       "codename": "flat_zone",
+      "modded": true
+    },
+    "Flat Zone II": {
+      "codename": "flat_zone_ii",
       "modded": true
     },
     "Fountain of Dreams": {
@@ -845,6 +931,18 @@
     },
     "Fray's Stage": {
       "codename": "frays_stage",
+      "modded": true
+    },
+    "Fray's Stage - Night": {
+      "codename": "frays_stage_night",
+      "modded": true
+    },
+    "Frosty Village": {
+      "codename": "frosty_village",
+      "modded": true
+    },
+    "Future Frenzy": {
+      "codename": "future_frenzy",
       "modded": true
     },
     "Game Boy Land": {
@@ -863,6 +961,10 @@
       "codename": "glacial_river",
       "modded": true
     },
+    "Glacial River Remix": {
+      "codename": "glacial_river_remix",
+      "modded": true
+    },
     "Goomba Road": {
       "codename": "goomba_road",
       "modded": true
@@ -871,12 +973,40 @@
       "codename": "great_bay",
       "modded": true
     },
+    "Green Hill Zone": {
+      "codename": "green_hill_zone",
+      "modded": true
+    },
+    "Grim Reaper's Cavern": {
+      "codename": "grim_reapers_cavern",
+      "modded": true
+    },
+    "Gym Leader Castle": {
+      "codename": "gym_leader_castle",
+      "modded": true
+    },
     "How to Play": {
       "codename": "how_to_play",
       "modded": true
     },
+    "Autumn How to Play": {
+      "codename": "how_to_play_remix",
+      "modded": true
+    },
     "Hyrule Castle": {
       "codename": "hyrule_castle"
+    },
+    "Hyrule Castle DL": {
+      "codename": "hyrule_castle_dl",
+      "modded": true
+    },
+    "Hyrule Castle Ω": {
+      "codename": "hyrule_castle_omega",
+      "modded": true
+    },
+    "Hyrule Castle SR": {
+      "codename": "hyrule_castle_remix",
+      "modded": true
     },
     "Hyrule Temple": {
       "codename": "hyrule_temple",
@@ -894,6 +1024,10 @@
       "codename": "mad_monster_mansion",
       "modded": true
     },
+    "Melrode": {
+      "codename": "melrode",
+      "modded": true
+    },
     "Mementos": {
       "codename": "mementos",
       "modded": true
@@ -902,19 +1036,55 @@
       "codename": "meta_crystal",
       "modded": true
     },
-    "Mini Yoshi's Island": {
-      "codename": "mini_yoshis_island",
+    "Meta Crystal DL": {
+      "codename": "meta_crystal_dl",
+      "modded": true
+    },
+    "Meta Crystent": {
+      "codename": "meta_crystent",
+      "modded": true
+    },
+    "Metallic Madness": {
+      "codename": "metallic_madness",
+      "modded": true
+    },
+    "Mt. Dedede": {
+      "codename": "mt_dedede",
+      "modded": true
+    },
+    "Muda Kingdom": {
+      "codename": "muda_kingdom",
       "modded": true
     },
     "Mushroom Kingdom": {
-      "codename": "mushroom_kindgdom"
+      "codename": "mushroom_kingdom"
+    },
+    "Mushroom Kingdom DL": {
+      "codename": "mushroom_kingdom_dl",
+      "modded": true
+    },
+    "Mushroom Kingdom Ω": {
+      "codename": "mushroom_kingdom_omega",
+      "modded": true
+    },
+    "Mushroom Kingdom SR": {
+      "codename": "mushroom_kingdom_remix",
+      "modded": true
     },
     "Mute City": {
       "codename": "mute_city",
       "modded": true
     },
+    "Mute City DL": {
+      "codename": "mute_city_dl",
+      "modded": true
+    },
     "N64": {
       "codename": "n64",
+      "modded": true
+    },
+    "N64 Remix": {
+      "codename": "n64_remix",
       "modded": true
     },
     "New Pork City": {
@@ -925,20 +1095,48 @@
       "codename": "norfair",
       "modded": true
     },
+    "Norfair Remix": {
+      "codename": "norfair_remix",
+      "modded": true
+    },
+    "N.Sanity Beach": {
+      "codename": "n_sanity_beach",
+      "modded": true
+    },
     "Onett": {
       "codename": "onett",
       "modded": true
     },
-    "Oshoe Castle": {
-      "codename": "oshoe_castle",
+    "Peach's Castle": {
+      "codename": "peachs_castle"
+    },
+    "Peach's Castle Beta": {
+      "codename": "peachs_castle_beta",
+      "modded": true
+    },
+    "Peach's Castle DL": {
+      "codename": "peachs_castle_dl",
       "modded": true
     },
     "Peach's Castle II": {
-      "codename": "peachs_castle_2",
+      "codename": "peachs_castle_ii",
       "modded": true
     },
-    "Peach's Castle": {
-      "codename": "peachs_castle"
+    "Peach's Castle Ω": {
+      "codename": "peachs_castle_omega",
+      "modded": true
+    },
+    "LMAO Castle": {
+      "codename": "peachs_castle_remix",
+      "modded": true
+    },
+    "Pigmask Fortress": {
+      "codename": "pigmask_fortress",
+      "modded": true
+    },
+    "Pirate Land": {
+      "codename": "pirate_land",
+      "modded": true
     },
     "Planet Clancer": {
       "codename": "planet_clancer",
@@ -947,12 +1145,37 @@
     "Planet Zebes": {
       "codename": "planet_zebes"
     },
-    "Pok\u00e9mon Stadium": {
+    "Planet Zebes DL": {
+      "codename": "planet_zebes_dl",
+      "modded": true
+    },
+    "Planet Zebes Ω": {
+      "codename": "planet_zebes_omega",
+      "modded": true
+    },
+    "Poké Floats": {
+      "codename": "poke_floats",
+      "modded": true
+    },
+    "Pokémon Stadium": {
       "codename": "pokemon_stadium",
       "modded": true
     },
+    "Pokémon Stadium 2": {
+      "codename": "pokemon_stadium_2",
+      "modded": true
+    },
+    "Raid Blue": {
+      "codename": "raid_blue",
+      "modded": true
+    },
+    "Rainbow Road": {
+      "codename": "rainbow_road",
+      "modded": true
+    },
     "Random": {
-      "codename": "random"
+      "codename": "random",
+      "modded": true
     },
     "Rith Essa": {
       "codename": "rith_essa",
@@ -961,19 +1184,35 @@
     "Saffron City": {
       "codename": "saffron_city"
     },
+    "Saffron City DL": {
+      "codename": "saffron_city_dl",
+      "modded": true
+    },
+    "Saffron City Ω": {
+      "codename": "saffron_city_omega",
+      "modded": true
+    },
+    "Scuttle Town": {
+      "codename": "scuttle_town",
+      "modded": true
+    },
     "Sector Z": {
       "codename": "sector_z"
     },
+    "Sector Z DL": {
+      "codename": "sector_z_dl",
+      "modded": true
+    },
+    "Sector Z Ω": {
+      "codename": "sector_z_omega",
+      "modded": true
+    },
+    "Sector Z SR": {
+      "codename": "sector_z_remix",
+      "modded": true
+    },
     "Showdown": {
       "codename": "showdown",
-      "modded": true
-    },
-    "Tal Tal Heights": {
-      "codename": "tal_tal_heights",
-      "modded": true
-    },
-    "Tal Tal Heights SR": {
-      "codename": "tal_tal_heights_sr",
       "modded": true
     },
     "Smashketball": {
@@ -984,19 +1223,55 @@
       "codename": "smashville",
       "modded": true
     },
+    "Smashville Remix": {
+      "codename": "smashville_remix",
+      "modded": true
+    },
+    "Snow Go": {
+      "codename": "snow_go",
+      "modded": true
+    },
+    "Spawned Fear": {
+      "codename": "spawned_fear",
+      "modded": true
+    },
     "Spiral Mountain": {
       "codename": "spiral_mountain",
+      "modded": true
+    },
+    "Subcon": {
+      "codename": "subcon",
+      "modded": true
+    },
+    "Tal Tal Heights": {
+      "codename": "tal_tal_heights",
+      "modded": true
+    },
+    "Tal Tal Heights Remix": {
+      "codename": "tal_tal_heights_remix",
+      "modded": true
+    },
+    "Time Twister": {
+      "codename": "time_twister",
+      "modded": true
+    },
+    "Toad's Turnpike": {
+      "codename": "toads_turnpike",
       "modded": true
     },
     "Tower of Heaven": {
       "codename": "tower_of_heaven",
       "modded": true
     },
+    "Twilight City": {
+      "codename": "twilight_city",
+      "modded": true
+    },
     "Venom": {
       "codename": "venom",
       "modded": true
     },
-    "Warioware Inc.": {
+    "WarioWare, Inc.": {
       "codename": "warioware_inc",
       "modded": true
     },
@@ -1005,218 +1280,30 @@
       "modded": true
     },
     "World 1-1": {
-      "codename": "world_1_1",
-      "modded": true
-    },
-    "Yoshi's Island 2": {
-      "codename": "yoshis_island_2",
+      "codename": "world_1-1",
       "modded": true
     },
     "Yoshi's Island": {
       "codename": "yoshis_island"
     },
-    "Yoshi's Story": {
-      "codename": "yoshis_story",
-      "modded": true
-    },
-    "Crateria": {
-      "codename": "crateria",
-      "modded": true
-    },
-    "Crateria DL": {
-      "codename": "crateria_dl",
-      "modded": true
-    },
-    "Congo Jungle DL": {
-      "codename": "congo_jungle_dl",
-      "modded": true
-    },
-    "Congo Jungle \u03a9": {
-      "codename": "congo_jungle_omega",
-      "modded": true
-    },
-    "Cool Cool Mountain DL": {
-      "codename": "cool_cool_mountain_dl",
-      "modded": true
-    },
-    "Cool Cool Mountain \u03a9": {
-      "codename": "cool_cool_mountain_sr",
-      "modded": true
-    },
-    "Dream Greens": {
-      "codename": "dream_greens",
-      "modded": true
-    },
-    "Dream Land DL": {
-      "codename": "dream_land_dl",
-      "modded": true
-    },
-    "Duel Zone DL": {
-      "codename": "duel_zone_dl",
-      "modded": true
-    },
-    "Final Destination DL": {
-      "codename": "final_destination_dl",
-      "modded": true
-    },
-    "Fray's Stage - Night": {
-      "codename": "frays_stage_night",
-      "modded": true
-    },
-    "Hyrule Castle DL": {
-      "codename": "hyrule_castle_dl",
-      "modded": true
-    },
-    "Hyrule Castle \u03a9": {
-      "codename": "hyrule_castle_omega",
-      "modded": true
-    },
-    "Meta Crystal DL": {
-      "codename": "meta_crystal_dl",
-      "modded": true
-    },
-    "Muda Kingdom": {
-      "codename": "muda_kingdom",
-      "modded": true
-    },
-    "Mushroom Kingdom DL": {
-      "codename": "mushroom_kindgom_dl",
-      "modded": true
-    },
-    "Mushroom Kingdom \u03a9": {
-      "codename": "mushroom_kindgom_omega",
-      "modded": true
-    },
-    "Peach's Castle DL": {
-      "codename": "peachs_castle_dl",
-      "modded": true
-    },
-    "Peach's Castle \u03a9": {
-      "codename": "peachs_castle_omega",
-      "modded": true
-    },
-    "Peach's Castle Beta": {
-      "codename": "peachs_castle_beta",
-      "modded": true
-    },
-    "Saffron City DL": {
-      "codename": "saffron_city_dl",
-      "modded": true
-    },
-    "Saffron City \u03a9": {
-      "codename": "saffron_city_omega",
-      "modded": true
-    },
-    "Sector Z DL": {
-      "codename": "sector_z_dl",
-      "modded": true
-    },
-    "Sector Z \u03a9": {
-      "codename": "sector_z_omega",
-      "modded": true
-    },
-    "Tent Final Destination": {
-      "codename": "tent_final_destination",
-      "modded": true
-    },
     "Yoshi's Island DL": {
       "codename": "yoshis_island_dl",
       "modded": true
     },
-    "Yoshi's Island \u03a9": {
+    "Yoshi's Island II": {
+      "codename": "yoshis_island_ii",
+      "modded": true
+    },
+    "Yoshi's Island Ω": {
       "codename": "yoshis_island_omega",
       "modded": true
     },
-    "Zebes DL": {
-      "codename": "zebes_dl",
+    "Mini Yoshi's Island": {
+      "codename": "yoshis_island_remix",
       "modded": true
     },
-    "Zebes \u03a9": {
-      "codename": "zebes_omega",
-      "modded": true
-    },
-    "Green Hill Zone": {
-      "codename": "green_hill_zone",
-      "modded": true
-    },
-    "Subcon": {
-      "codename": "subcon",
-      "modded": true
-    },
-    "Metallic Madness Zone": {
-      "codename": "metallic_madness_zone",
-      "modded": true
-    },
-    "Casino Night Zone": {
-      "codename": "cassino_night_zone",
-      "modded": true
-    },
-    "Pirate Land": {
-      "codename": "pirate_land",
-      "modded": true
-    },
-    "Hyrule Castle SR": {
-      "codename": "hyrule_castle_sr",
-      "modded": true
-    },
-    "Sector Z SR": {
-      "codename": "sector_z_sr",
-      "modded": true
-    },
-    "Mushroom Kingdom SR": {
-      "codename": "mushroom_kingdom_sr",
-      "modded": true
-    },
-    "Rainbow Road": {
-      "codename": "rainbow_road",
-      "modded": true
-    },
-    "Toad's Turnpike": {
-      "codename": "toads_turnpike",
-      "modded": true
-    },
-    "Pok\u00e9mon Stadium 2": {
-      "codename": "pokemon_stadium_2",
-      "modded": true
-    },
-    "Norfair SR": {
-      "codename": "norfair_sr",
-      "modded": true
-    },
-    "Glacial River Remix": {
-      "codename": "glacial_river_remix",
-      "modded": true
-    },
-    "Dracula's Castle": {
-      "codename": "draculas_castle",
-      "modded": true
-    },
-    "Reverse Castle": {
-      "codename": "reverse_castle",
-      "modded": true
-    },
-    "Mt. Dedede": {
-      "codename": "mt_dedede",
-      "modded": true
-    },
-    "Dragon King Remix": {
-      "codename": "dragon_king_remix",
-      "modded": true
-    },
-    "Edo Town": {
-      "codename": "edo_town",
-      "modded": true
-    },
-    "Twilight City": {
-      "codename": "twilight_city",
-      "modded": true
-    },
-    "Melrode": {
-      "codename": "melrode",
-      "modded": true
-    },
-    "Gym Leader Castle": {
-      "codename": "gym_leader_castle",
+    "Yoshi's Story": {
+      "codename": "yoshis_story",
       "modded": true
     }
   },

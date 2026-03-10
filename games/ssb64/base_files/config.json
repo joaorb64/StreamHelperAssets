@@ -783,7 +783,7 @@
       "codename": "congo_jungle_dl",
       "modded": true
     },
-    "Congo Jungle Ω": {
+    "Congo Jungle \u03a9": {
       "codename": "congo_jungle_omega",
       "modded": true
     },
@@ -874,7 +874,7 @@
       "codename": "dream_land_dl",
       "modded": true
     },
-    "Dream Land Ω": {
+    "Dream Land \u03a9": {
       "codename": "dream_land_omega",
       "modded": true
     },
@@ -1000,7 +1000,7 @@
       "codename": "hyrule_castle_dl",
       "modded": true
     },
-    "Hyrule Castle Ω": {
+    "Hyrule Castle \u03a9": {
       "codename": "hyrule_castle_omega",
       "modded": true
     },
@@ -1063,7 +1063,7 @@
       "codename": "mushroom_kingdom_dl",
       "modded": true
     },
-    "Mushroom Kingdom Ω": {
+    "Mushroom Kingdom \u03a9": {
       "codename": "mushroom_kingdom_omega",
       "modded": true
     },
@@ -1122,7 +1122,7 @@
       "codename": "peachs_castle_ii",
       "modded": true
     },
-    "Peach's Castle Ω": {
+    "Peach's Castle \u03a9": {
       "codename": "peachs_castle_omega",
       "modded": true
     },
@@ -1149,19 +1149,19 @@
       "codename": "planet_zebes_dl",
       "modded": true
     },
-    "Planet Zebes Ω": {
+    "Planet Zebes \u03a9": {
       "codename": "planet_zebes_omega",
       "modded": true
     },
-    "Poké Floats": {
+    "Pok\u00e9 Floats": {
       "codename": "poke_floats",
       "modded": true
     },
-    "Pokémon Stadium": {
+    "Pok\u00e9mon Stadium": {
       "codename": "pokemon_stadium",
       "modded": true
     },
-    "Pokémon Stadium 2": {
+    "Pok\u00e9mon Stadium 2": {
       "codename": "pokemon_stadium_2",
       "modded": true
     },
@@ -1188,7 +1188,7 @@
       "codename": "saffron_city_dl",
       "modded": true
     },
-    "Saffron City Ω": {
+    "Saffron City \u03a9": {
       "codename": "saffron_city_omega",
       "modded": true
     },
@@ -1203,7 +1203,7 @@
       "codename": "sector_z_dl",
       "modded": true
     },
-    "Sector Z Ω": {
+    "Sector Z \u03a9": {
       "codename": "sector_z_omega",
       "modded": true
     },
@@ -1294,7 +1294,7 @@
       "codename": "yoshis_island_ii",
       "modded": true
     },
-    "Yoshi's Island Ω": {
+    "Yoshi's Island \u03a9": {
       "codename": "yoshis_island_omega",
       "modded": true
     },
@@ -1307,7 +1307,7 @@
       "modded": true
     }
   },
-  "version": "25.10.03.36529",
+  "version": "26.03.10.59362",
   "description": "Base config to use this game.",
   "alternate_versions": [
     {

@@ -583,9 +583,9 @@
       "smashgg_name": "Mad Piano",
       "codename": "mad_piano",
       "locale": {
-        "ja": "キラーピアノ",
+        "ja": "\u30ad\u30e9\u30fc\u30d4\u30a2\u30ce",
         "es": "Killer Piano",
-        "ko": "킬러피아노"
+        "ko": "\ud0ac\ub7ec\ud53c\uc544\ub178"
       },
       "modded": true
     },
@@ -599,11 +599,11 @@
       "smashgg_name": "Giga Bowser",
       "codename": "giga_bowser",
       "locale": {
-        "ja": "ギガクッパ",
-        "ru": "Гига-Боузер",
-        "ko": "기가쿠파",
-        "zh_TW": "巨獸庫巴",
-        "zh_CN": "巨兽酷霸王"
+        "ja": "\u30ae\u30ac\u30af\u30c3\u30d1",
+        "ru": "\u0413\u0438\u0433\u0430-\u0411\u043e\u0443\u0437\u0435\u0440",
+        "ko": "\uae30\uac00\ucfe0\ud30c",
+        "zh_TW": "\u5de8\u7378\u5eab\u5df4",
+        "zh_CN": "\u5de8\u517d\u9177\u9738\u738b"
       },
       "modded": true
     },
@@ -676,10 +676,10 @@
       "codename": "metal_luigi",
       "modded": true,
       "locale": {
-        "ja": "メタルルイージ",
-        "zh_CN": "金属路易吉",
-        "zh_TW": "金屬路易吉",
-        "ko": "메탈루이지",
+        "ja": "\u30e1\u30bf\u30eb\u30eb\u30a4\u30fc\u30b8",
+        "zh_CN": "\u91d1\u5c5e\u8def\u6613\u5409",
+        "zh_TW": "\u91d1\u5c6c\u8def\u6613\u5409",
+        "ko": "\uba54\ud0c8\ub8e8\uc774\uc9c0",
         "fr": "Luigi de m\u00e9tal",
         "nl": "Metalen Luigi",
         "de": "Metall-Luigi",
@@ -688,7 +688,7 @@
         "es_LA": "Luigi de metal",
         "pt_PT": "Luigi Met\u00e1lico",
         "pt_BR": "Luigi met\u00e1lico",
-        "ru": "Луиджи-металл"
+        "ru": "\u041b\u0443\u0438\u0434\u0436\u0438-\u043c\u0435\u0442\u0430\u043b\u043b"
       }
     },
     "Dragon King": {
@@ -706,7 +706,7 @@
       "codename": "dr_luigi",
       "modded": true,
       "locale": {
-        "ja": "ドクタールイージ"
+        "ja": "\u30c9\u30af\u30bf\u30fc\u30eb\u30a4\u30fc\u30b8"
       }
     },
     "Peach": {
@@ -756,12 +756,12 @@
       "codename": "lanky",
       "modded": true,
       "locale": {
-        "ja": "ランキーコング",
+        "ja": "\u30e9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
         "fr": "Lanky Kong",
-        "ru": "Лэнки Конг",
-        "ko": "랭키 콩",
-        "zh_TW": "蘭奇剛",
-        "zh_CN": "兰奇刚"
+        "ru": "\u041b\u044d\u043d\u043a\u0438 \u041a\u043e\u043d\u0433",
+        "ko": "\ub7ad\ud0a4 \ucf69",
+        "zh_TW": "\u862d\u5947\u525b",
+        "zh_CN": "\u5170\u5947\u521a"
       }
     },
     "Random": {
@@ -898,7 +898,7 @@
     "Dream Land": {
       "codename": "dream_land",
       "locale": {
-        "fr": "Pays de Rêves"
+        "fr": "Pays de R\u00eaves"
       }
     },
     "Dream Land Beta 1": {
@@ -1040,7 +1040,7 @@
     "Hyrule Castle": {
       "codename": "hyrule_castle",
       "locale": {
-        "fr": "Château d'Hyrule"
+        "fr": "Ch\u00e2teau d'Hyrule"
       }
     },
     "Hyrule Castle DL": {
@@ -1160,7 +1160,7 @@
     "Peach's Castle": {
       "codename": "peachs_castle",
       "locale": {
-        "fr": "Château de Peach"
+        "fr": "Ch\u00e2teau de Peach"
       }
     },
     "Peach's Castle Beta": {
@@ -1198,7 +1198,7 @@
     "Planet Zebes": {
       "codename": "planet_zebes",
       "locale": {
-        "fr": "Planète Zebes"
+        "fr": "Plan\u00e8te Zebes"
       }
     },
     "Planet Zebes DL": {
@@ -1348,7 +1348,7 @@
     "Yoshi's Island": {
       "codename": "yoshis_island",
       "locale": {
-        "fr": "Île Yoshi"
+        "fr": "\u00cele Yoshi"
       }
     },
     "Yoshi's Island DL": {
@@ -1372,7 +1372,7 @@
       "modded": true
     }
   },
-  "version": "26.03.10.70768",
+  "version": "26.03.11.1127",
   "description": "Base config to use this game.",
   "alternate_versions": [
     {

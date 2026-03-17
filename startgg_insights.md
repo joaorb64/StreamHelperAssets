@@ -143,7 +143,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Nightmare Geese]: Character name [Nightmare Geese] doesn't exist in StartGG
 - Character [Wolfgang Krauser]: Character name [Wolfgang Krauser] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (22/23)
+- Character [Jae Hoon] not assigned in TSH!
+- Character [Geese] not assigned in TSH!
+### Coverage: (22/25)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -526,9 +528,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-- Character [Caitlyn]: Character name [Caitlyn] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (11/12)
+### Coverage: (12/13)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG
@@ -577,9 +578,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Street Fighter 6
 - Character [Ingrid]: Character name [Ingrid] doesn't exist in StartGG
-- Character [Alex]: Character name [Alex] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (28/29)
+### Coverage: (29/30)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?

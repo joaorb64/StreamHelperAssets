@@ -138,14 +138,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Kim Jae Hoon]: Character name [Kim Jae Hoon] doesn't exist in StartGG
 - Character [Blue Mary]: Character name [Blue Mary] doesn't exist in StartGG
-- Character [Nightmare Geese]: Character name [Nightmare Geese] doesn't exist in StartGG
 - Character [Wolfgang Krauser]: Character name [Wolfgang Krauser] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-- Character [Jae Hoon] not assigned in TSH!
-- Character [Geese] not assigned in TSH!
-### Coverage: (22/25)
+### Coverage: (24/25)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -528,6 +524,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
+- Character [Akali]: Character name [Akali] doesn't exist in StartGG
+- Character [Senna]: Character name [Senna] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (12/13)
 

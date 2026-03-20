@@ -1,45 +1,67 @@
-import './App.css';
-import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { ListGroup } from 'react-bootstrap';
-import { FaEye } from 'react-icons/fa';
-import { GiFloatingPlatforms } from 'react-icons/gi';
-import { BrowserRouter, HashRouter, Route, Routes, Link } from 'react-router-dom';
+import "./App.css";
+import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { ListGroup } from "react-bootstrap";
+import { FaEye } from "react-icons/fa";
+import { GiFloatingPlatforms } from "react-icons/gi";
+import {
+  BrowserRouter,
+  HashRouter,
+  Route,
+  Routes,
+  Link,
+} from "react-router-dom";
 
 class GameList extends React.Component {
-
   render() {
+    document.title = `StreamHelperAssets`;
     return (
       <div>
         <h1>Supported games</h1>
         <ListGroup>
-          {Object.entries(this.props.games).map(([id, game], i)=>(
-             <ListGroup.Item style={{display: "flex", gap: 32}}>
-              <div style={{
-                width: 100, height: 64,
-                backgroundSize: "contain", backgroundRepeat: "no-repeat", backgroundPosition: "center",
-                backgroundImage: `url(https://github.com/joaorb64/StreamHelperAssets/raw/main/games/${id}/base_files/logo.png)`
-              }}></div>
-              <div style={{display: "flex", flexDirection: "column", alignItems: "flex-start"}}>
-                <div style={{display: "flex", alignItems: "baseline", gap: 8}}>
-                  <h4>{game.name}</h4><h6>{id}</h6>
+          {Object.entries(this.props.games).map(([id, game], i) => (
+            <ListGroup.Item style={{ display: "flex", gap: 32 }}>
+              <div
+                style={{
+                  width: 100,
+                  height: 64,
+                  backgroundSize: "contain",
+                  backgroundRepeat: "no-repeat",
+                  backgroundPosition: "center",
+                  backgroundImage: `url(https://github.com/joaorb64/StreamHelperAssets/raw/main/games/${id}/base_files/logo.png)`,
+                }}
+              ></div>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  alignItems: "flex-start",
+                }}
+              >
+                <div
+                  style={{ display: "flex", alignItems: "baseline", gap: 8 }}
+                >
+                  <h4>{game.name}</h4>
+                  <h6>{id}</h6>
                 </div>
-                <div style={{display: 'flex', gap: "8px", flexWrap: "wrap"}}>
-                  {Object.entries(game.assets).map((asset, j)=>(
+                <div style={{ display: "flex", gap: "8px", flexWrap: "wrap" }}>
+                  {Object.entries(game.assets).map((asset, j) => (
                     <Link to={`/game/${id}/${asset[0]}`}>
                       <h5>
                         <span class="badge bg-primary">
                           {asset[0]}
-                          {asset[1].has_eyesight_data ? 
-                            <>{" "}<FaEye /></>
-                            :
-                            null
-                          }
-                          {asset[1].has_stage_data ? 
-                            <>{" "}<GiFloatingPlatforms /></>
-                            :
-                            null
-                          }
+                          {asset[1].has_eyesight_data ? (
+                            <>
+                              {" "}
+                              <FaEye />
+                            </>
+                          ) : null}
+                          {asset[1].has_stage_data ? (
+                            <>
+                              {" "}
+                              <GiFloatingPlatforms />
+                            </>
+                          ) : null}
                         </span>
                       </h5>
                     </Link>
@@ -50,8 +72,8 @@ class GameList extends React.Component {
           ))}
         </ListGroup>
       </div>
-    )
-  };
+    );
+  }
 }
 
 export default GameList;

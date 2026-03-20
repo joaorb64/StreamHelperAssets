@@ -2,13 +2,7 @@ import "./App.css";
 import GameList from "./GameList";
 import React from "react";
 import { Container, Nav, Navbar, NavDropdown } from "react-bootstrap";
-import {
-  BrowserRouter,
-  HashRouter,
-  Route,
-  Routes,
-  Link,
-} from "react-router-dom";
+import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
 import AssetPack from "./AssetPack";
 
 class App extends React.Component {
@@ -26,7 +20,7 @@ class App extends React.Component {
 
   GetGameList() {
     return fetch(
-      "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/assets.json"
+      "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/assets.json",
     )
       .then((response) => response.json())
       .then((responseJson) => {
@@ -41,7 +35,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <HashRouter>
+        <BrowserRouter>
           <Navbar bg="dark" variant="dark" expand="lg" className="sticky-top">
             <Container>
               <Link to={"/"} style={{ textDecoration: "none" }}>
@@ -119,7 +113,7 @@ class App extends React.Component {
               ></Route>
             </Routes>
           </Container>
-        </HashRouter>
+        </BrowserRouter>
       </div>
     );
   }

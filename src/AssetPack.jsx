@@ -30,7 +30,7 @@ export default function AssetPack(props) {
       assetName = "base_files/icon";
     }
     return fetch(
-      `https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/${game}/${assetName}/config.json`
+      `https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/${game}/${assetName}/config.json`,
     )
       .then((response) => response.json())
       .then((responseJson) => {
@@ -44,7 +44,7 @@ export default function AssetPack(props) {
 
   const GetBaseFiles = () => {
     return fetch(
-      `https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/${game}/base_files/config.json`
+      `https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/${game}/base_files/config.json`,
     )
       .then((response) => response.json())
       .then((responseJson) => {
@@ -77,8 +77,10 @@ export default function AssetPack(props) {
         assetName = "base_files/icon";
       }
 
+      document.title = `StreamHelperAssets - ${game}.${pack}`;
+
       fetch(
-        `https://api.github.com/repos/joaorb64/StreamHelperAssets/contents/games/${game}/${assetName}`
+        `https://api.github.com/repos/joaorb64/StreamHelperAssets/contents/games/${game}/${assetName}`,
       )
         .then((response) => response.json())
         .then((responseJson) => {
@@ -94,9 +96,19 @@ export default function AssetPack(props) {
             allData[charData.codename] = charData;
             allData[charData.codename].name = name;
 
-            let characterAssets = responseJson.filter((entry) =>
-              entry.name.startsWith(`${prefix}${charData.codename}${postfix}`)
-            );
+            let characterAssets = responseJson.filter((entry) => {
+              if (key == "stage_to_codename") {
+                return entry.name.startsWith(
+                  `${prefix}${charData.codename}${postfix}.`,
+                );
+              } else {
+                return entry.name.startsWith(
+                  `${prefix}${charData.codename}${postfix}`,
+                );
+              }
+            });
+
+            console.log(characterAssets);
 
             allData[charData.codename].images = {};
 
@@ -110,7 +122,7 @@ export default function AssetPack(props) {
               try {
                 let number = image.name.replace(
                   `${prefix}${charData.codename}${postfix}`,
-                  ""
+                  "",
                 );
                 number = number.split(".")[0];
                 number = parseInt(number);
@@ -212,7 +224,9 @@ export default function AssetPack(props) {
                       <h4>{game.name}</h4>
                       <h6>{id}</h6>
                     </div>
-                    <div style={{ display: "flex", gap: "8px", flexWrap: "wrap" }}>
+                    <div
+                      style={{ display: "flex", gap: "8px", flexWrap: "wrap" }}
+                    >
                       {Object.entries(game.assets).map((asset, j) => (
                         <Link to={`/game/${id}/${asset[0]}`}>
                           <h5>
@@ -252,7 +266,7 @@ export default function AssetPack(props) {
                       display: "flex",
                       gap: 8,
                       justifyContent: "center",
-                      alignItems: "center"
+                      alignItems: "center",
                     }}
                   >
                     {Object.keys(game.assets[pack].files).map((file, index) => (
@@ -314,7 +328,7 @@ export default function AssetPack(props) {
                                       256 /
                                         charData.images[
                                           skinSelection[charData.codename]
-                                        ].height
+                                        ].height,
                                     ) +
                                     ")",
                                 width: 256,
@@ -407,7 +421,13 @@ export default function AssetPack(props) {
                               </div>
                             </div>
                           </div>
-                          <div class="btn-group btn-group-toggle" style={{flexWrap: "wrap"}}>
+                          <div
+                            class="btn-group btn-group-toggle"
+                            style={{
+                              flexWrap: "wrap",
+                              justifyContent: "center",
+                            }}
+                          >
                             {Object.entries(charData.images || {}).map(
                               ([skin, skinData], index) => (
                                 <button
@@ -418,6 +438,9 @@ export default function AssetPack(props) {
                                       ? " active"
                                       : "")
                                   }
+                                  style={{
+                                    flexGrow: 0,
+                                  }}
                                   onClick={() => {
                                     skinSelection[charData.codename] = skin;
                                     setSkinSelection(skinSelection);
@@ -427,7 +450,7 @@ export default function AssetPack(props) {
                                 >
                                   {skin}
                                 </button>
-                              )
+                              ),
                             )}
                           </div>
                           <p class="card-text mt-2">

@@ -35,7 +35,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <BrowserRouter>
+        <BrowserRouter basename="/StreamHelperAssets/">
           <Navbar bg="dark" variant="dark" expand="lg" className="sticky-top">
             <Container>
               <Link to={"/"} style={{ textDecoration: "none" }}>

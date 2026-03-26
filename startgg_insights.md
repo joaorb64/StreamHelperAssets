@@ -138,37 +138,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Hotaru Futaba]: Character name [Hotaru Futaba] doesn't exist in StartGG
-- Character [Rock Howard]: Character name [Rock Howard] doesn't exist in StartGG
-- Character [Terry Bogard]: Character name [Terry Bogard] doesn't exist in StartGG
-- Character [Marco Rodrigues]: Character name [Marco Rodrigues] doesn't exist in StartGG
-- Character [Vox Reaper]: Character name [Vox Reaper] doesn't exist in StartGG
-- Character [Kevin Rian]: Character name [Kevin Rian] doesn't exist in StartGG
-- Character [Billy Kane]: Character name [Billy Kane] doesn't exist in StartGG
-- Character [Mai Shiranui]: Character name [Mai Shiranui] doesn't exist in StartGG
-- Character [Kain R. Heinlein]: Character name [Kain R. Heinlein] doesn't exist in StartGG
-- Character [Andy Bogard]: Character name [Andy Bogard] doesn't exist in StartGG
-- Character [Joe Higashi]: Character name [Joe Higashi] doesn't exist in StartGG
-- Character [Cristiano Ronaldo]: Character name [Cristiano Ronaldo] doesn't exist in StartGG
-- Character [Salvatore Ganacci]: Character name [Salvatore Ganacci] doesn't exist in StartGG
-- Character [Kim Dong Hwan]: Character name [Kim Dong Hwan] doesn't exist in StartGG
-- Character [Wolfgang Krauser]: Character name [Wolfgang Krauser] doesn't exist in StartGG
-- Character [Billy] not assigned in TSH!
-- Character [Cristiano] not assigned in TSH!
-- Character [Hotaru] not assigned in TSH!
-- Character [Kain] not assigned in TSH!
-- Character [Kevin] not assigned in TSH!
-- Character [Dong Hwan] not assigned in TSH!
-- Character [Mai] not assigned in TSH!
-- Character [Marco] not assigned in TSH!
-- Character [Rock] not assigned in TSH!
-- Character [Salvatore] not assigned in TSH!
-- Character [Terry] not assigned in TSH!
-- Character [Vox] not assigned in TSH!
-- Character [Andy] not assigned in TSH!
+- Character [Wolfgang Krauser]: Character name [Krauser] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-- Character [Joe] not assigned in TSH!
-### Coverage: (11/26)
+### Coverage: (25/26)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?

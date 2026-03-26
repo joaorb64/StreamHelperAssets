@@ -5,7 +5,10 @@
       "codename": "CaptainAmerica"
     },
     "Doctor Doom": {
-      "codename": "DoctorDoom"
+      "codename": "DoctorDoom",
+      "locale": {
+        "fr": "Docteur Fatalis"
+      }
     },
     "Ghost Rider": {
       "codename": "GhostRider"
@@ -23,7 +26,10 @@
       "codename": "StarLord"
     },
     "Storm": {
-      "codename": "Storm"
+      "codename": "Storm",
+      "locale": {
+        "fr": "Tornade"
+      }
     },
     "Wolverine": {
       "codename": "Wolverine"

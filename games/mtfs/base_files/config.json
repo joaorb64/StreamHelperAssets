@@ -48,6 +48,28 @@
   "description": "Base config to use this game.",
   "name": "Marvel T\u014dkon: Fighting Souls",
   "smashgg_game_id": 107706,
-  "stage_to_codename": {},
+  "stage_to_codename": {
+    "Knowhere": {
+      "codename": "Knowhere"
+    },
+    "Marvel's New York": {
+      "codename": "NewYork",
+      "locale": {
+        "fr": "New York de Marvel"
+      }
+    },
+    "Savage Land": {
+      "codename": "SavageLand",
+      "locale": {
+        "fr": "Terre sauvage"
+      }
+    },
+    "X-Mansion": {
+      "codename": "XMansion",
+      "locale": {
+        "fr": "Institut Xavier"
+      }
+    }
+  },
   "version": "26.03.23.69885"
 }

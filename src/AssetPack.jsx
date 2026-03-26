@@ -77,6 +77,10 @@ export default function AssetPack(props) {
         assetName = "base_files/icon";
       }
 
+      if (assetName == "variant_icon") {
+        key = "variant_to_codename";
+      }
+
       document.title = `StreamHelperAssets - ${game}.${pack}`;
 
       fetch(

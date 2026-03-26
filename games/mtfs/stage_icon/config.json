@@ -6,5 +6,31 @@
   "postfix": "",
   "type": [
     "stage_icon"
-  ]
+  ],
+  "image_sizes": {
+    "Knowhere": {
+      "null": {
+        "x": 1600,
+        "y": 900
+      }
+    },
+    "NewYork": {
+      "null": {
+        "x": 1600,
+        "y": 900
+      }
+    },
+    "SavageLand": {
+      "null": {
+        "x": 1600,
+        "y": 900
+      }
+    },
+    "XMansion": {
+      "null": {
+        "x": 1600,
+        "y": 900
+      }
+    }
+  }
 }

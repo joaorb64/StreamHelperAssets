@@ -52,7 +52,10 @@
     <div id="root"></div>
     <script>
       const path = window.location.pathname;
-      window.location.replace("/?redirect=" + path);
+      window.location.replace(
+        "StreamHelperAssets/?redirect=" +
+          path.replace("StreamHelperAssets/", ""),
+      );
     </script>
   </body>
 </html>

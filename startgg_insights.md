@@ -138,10 +138,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Blue Mary]: Character name [Blue Mary] doesn't exist in StartGG
 - Character [Wolfgang Krauser]: Character name [Wolfgang Krauser] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (24/25)
+### Coverage: (25/26)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -169,6 +168,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (39/40)
 
 ## Guilty Gear -STRIVE-
+- Character [Jam Kuradoberi]: Character name [Jam] doesn't exist in StartGG
+- Character [Robo-Ky]: Character name [Robo-Ky] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (32/33)
 
@@ -723,10 +724,12 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
+- Character [Miary Zo]: Character name [Miary] doesn't exist in StartGG
 - Character [Kunimitsu II]: Character name [Kunimitsu] doesn't exist in StartGG
 - Character [Robert "Bob" Richards]: Character name [Bob] doesn't exist in StartGG
 - Character [Roger Jr.]: Character name [Roger Jr.] doesn't exist in StartGG
-### Coverage: (41/41)
+- Character [Miary Zo] not assigned in TSH!
+### Coverage: (40/41)
 
 ## Them's Fightin' Herds
 ### Coverage: (11/11)

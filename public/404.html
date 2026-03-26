@@ -51,8 +51,16 @@
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <script>
+      const base = "/StreamHelperAssets/";
       const path = window.location.pathname;
-      window.location.replace("StreamHelperAssets/?redirect=" + path);
+
+      // only redirect if not already on base + ?
+      if (!window.location.search.includes("redirect=")) {
+        const relativePath = path.startsWith(base)
+          ? path.slice(base.length)
+          : path;
+        window.location.replace(base + "?redirect=" + relativePath);
+      }
     </script>
   </body>
 </html>

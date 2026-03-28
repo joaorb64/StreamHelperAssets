@@ -1,0 +1,35 @@
+Captured using Rosalie's Mupen GUI on Linux
+
+Preparation:
+Patch Smash Remix adding this patch somewhere in the code (anywhere really):
+
+// Patch by Krix08
+scope easy_1p_screenshots: {
+    OS.patch_start(0x12E000, 0x80134CC0)
+    j   0x80134D00              // skip drawing other things
+    OS.patch_end()
+
+    // Remove OS patches below to keep banners drawn on top of characters like normal
+    OS.patch_start(0x12AEF8, 0x80131BB8)
+    addiu   a2, r0, 0x0010      // change banners Room/Group? to same as sky
+    OS.patch_end()
+
+    OS.patch_start(0x12AF1C, 0x80131BDC)
+    addiu   a2, r0, 0x001A      // change banners Room/Group? to same as sky
+    OS.patch_end()
+}
+
+Then, open the final ROM in GE and replace the HUD with pink images (must be indexed to show up pink).
+They are 00FA, 00FB, 00FC.
+
+Graphics settings in emu:
+- Plugin: GLideN64
+- Windowed resolution: 1440x1080
+- Aspect: 16x9
+- Rest is default: no anti-aliasing, no filtering, etc
+- Enable widescreen in Remix settings!!!
+- Capture using F3 in full screen mode!!!
+
+Then, use process.py to prepare the images. It makes images zero-indexed
+(if you have image names starting from _1, turns into start counting from _0)
+It also removes the pink background and classic mode Link on the right side.

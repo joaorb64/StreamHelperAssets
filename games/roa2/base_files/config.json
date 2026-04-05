@@ -553,6 +553,18 @@
         },
         "95": {
           "name": "Smoke Clan - Black"
+        },
+        "96": {
+          "name": "Lovers"
+        },
+        "97": {
+          "name": "Lovers - Blue"
+        },
+        "98": {
+          "name": "Lovers - Green"
+        },
+        "99": {
+          "name": "Lovers - Red"
         }
       }
     },
@@ -1318,6 +1330,12 @@
         },
         "82": {
           "name": "Ranger - Tactical"
+        },
+        "83": {
+          "name": "Default - Pink"
+        },
+        "84": {
+          "name": "Lovers - Black"
         }
       }
     },
@@ -1558,6 +1576,9 @@
         },
         "77": {
           "name": "Sylvan Acolyte - Red"
+        },
+        "78": {
+          "name": "Default - Pink"
         }
       }
     },
@@ -1846,6 +1867,9 @@
         },
         "93": {
           "name": "Ranger - Tactical"
+        },
+        "94": {
+          "name": "Lovers - Black"
         }
       }
     },
@@ -2077,6 +2101,18 @@
         },
         "74": {
           "name": "Hockey - Let's Make Big Moves 2026"
+        },
+        "75": {
+          "name": "Lovers"
+        },
+        "76": {
+          "name": "Lovers - Blue"
+        },
+        "77": {
+          "name": "Lovers - Green"
+        },
+        "78": {
+          "name": "Lovers - Red"
         }
       }
     },
@@ -2428,6 +2464,9 @@
         },
         "75": {
           "name": "Default - Brown"
+        },
+        "76": {
+          "name": "Default - Pink"
         }
       }
     },
@@ -3238,6 +3277,18 @@
         },
         "58": {
           "name": "Champion - Red"
+        },
+        "59": {
+          "name": "Lovers"
+        },
+        "60": {
+          "name": "Lovers - Blue"
+        },
+        "61": {
+          "name": "Lovers - Green"
+        },
+        "62": {
+          "name": "Lovers - Red"
         }
       }
     },
@@ -3376,6 +3427,99 @@
         },
         "43": {
           "name": "Skink - Black"
+        },
+        "44": {
+          "name": "Champion"
+        },
+        "45": {
+          "name": "Champion - Blue"
+        },
+        "46": {
+          "name": "Champion - Green"
+        },
+        "47": {
+          "name": "Champion - Red"
+        }
+      }
+    },
+    "Slade": {
+      "codename": "Slade",
+      "smashgg_name": "Slade",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Abyssal"
+        },
+        "2": {
+          "name": "Default - Black"
+        },
+        "3": {
+          "name": "Default - Blue"
+        },
+        "4": {
+          "name": "Default - Cool Blue"
+        },
+        "5": {
+          "name": "Default - Green"
+        },
+        "6": {
+          "name": "Default - Mint"
+        },
+        "7": {
+          "name": "Default - Red"
+        },
+        "8": {
+          "name": "Abyss"
+        },
+        "9": {
+          "name": "Abyss - Blue"
+        },
+        "10": {
+          "name": "Abyss - Green"
+        },
+        "11": {
+          "name": "Abyss - Midnight"
+        },
+        "12": {
+          "name": "Abyss - Red"
+        },
+        "13": {
+          "name": "Lovers"
+        },
+        "14": {
+          "name": "Lovers - Blue"
+        },
+        "15": {
+          "name": "Lovers - Green"
+        },
+        "16": {
+          "name": "Lovers - Red"
+        },
+        "17": {
+          "name": "Wobbegong"
+        },
+        "18": {
+          "name": "Wobbegong - Blue"
+        },
+        "19": {
+          "name": "Wobbegong - Green"
+        },
+        "20": {
+          "name": "Wobbegong - Red"
+        },
+        "21": {
+          "name": "Zebra"
+        },
+        "22": {
+          "name": "Zebra - Blue"
+        },
+        "23": {
+          "name": "Zebra - Green"
+        },
+        "24": {
+          "name": "Zebra - Red"
         }
       }
     }
@@ -3487,6 +3631,39 @@
       "locale": {
         "fr": "Ar\u00e8ne Souterraine"
       }
+    },
+    "Armada Fleet": {
+      "codename": "ArmadaFun"
+    },
+    "Crystal Valley": {
+      "codename": "CrystalFun"
+    },
+    "Fire Tower": {
+      "codename": "TowerFun"
+    },
+    "Frozen Harbor": {
+      "codename": "HarborFun"
+    },
+    "Julesvale Skyline": {
+      "codename": "JulesvaleFun"
+    },
+    "Metal Refinery": {
+      "codename": "MetalFun"
+    },
+    "Sinking Shipwreck": {
+      "codename": "ShipFun"
+    },
+    "Thunderous Tempest Peak": {
+      "codename": "TempestFun"
+    },
+    "Training Dojo": {
+      "codename": "DojoFun"
+    },
+    "Treetop Bridge": {
+      "codename": "ForestFun"
+    },
+    "Wall Run": {
+      "codename": "WallFun"
     }
   },
   "preset_colors": [

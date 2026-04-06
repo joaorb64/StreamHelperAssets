@@ -724,12 +724,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Miary Zo]: Character name [Miary] doesn't exist in StartGG
 - Character [Kunimitsu II]: Character name [Kunimitsu] doesn't exist in StartGG
 - Character [Robert "Bob" Richards]: Character name [Bob] doesn't exist in StartGG
 - Character [Roger Jr.]: Character name [Roger Jr.] doesn't exist in StartGG
-- Character [Miary Zo] not assigned in TSH!
-### Coverage: (40/41)
+### Coverage: (41/41)
 
 ## Them's Fightin' Herds
 ### Coverage: (11/11)

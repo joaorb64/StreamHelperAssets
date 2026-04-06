@@ -1,6 +1,13 @@
 {
   "challonge_game_id": 359436,
   "character_to_codename": {
+    "Random": {
+      "codename": "Random",
+      "smashgg_name": "Random",
+      "locale": {
+        "fr": "Aléatoire"
+      }
+    },
     "Kragg": {
       "codename": "Kragg",
       "smashgg_name": "Kragg",

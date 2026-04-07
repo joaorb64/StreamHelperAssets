@@ -31,10 +31,28 @@
         "y": 2048
       }
     },
+    "ArmadaFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
+      }
+    },
+    "CrystalFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
+      }
+    },
     "CrystalOasis": {
       "null": {
         "x": 3840,
         "y": 2160
+      }
+    },
+    "DojoFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
       }
     },
     "FireCapital": {
@@ -45,8 +63,14 @@
     },
     "ForestDoubles": {
       "null": {
-        "x": 4096,
-        "y": 2048
+        "x": 2048,
+        "y": 1024
+      }
+    },
+    "ForestFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
       }
     },
     "GodaiDelta": {
@@ -59,6 +83,12 @@
       "null": {
         "x": 5504,
         "y": 3096
+      }
+    },
+    "HarborFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
       }
     },
     "Hodojo": {
@@ -79,6 +109,12 @@
         "y": 1032
       }
     },
+    "JulesvaleFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
+      }
+    },
     "LowPoly": {
       "null": {
         "x": 3669,
@@ -91,16 +127,34 @@
         "y": 608
       }
     },
+    "MetalFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
+      }
+    },
     "RockWall": {
       "null": {
         "x": 3840,
         "y": 2320
       }
     },
+    "ShipFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
+      }
+    },
     "TempestDoubles": {
       "null": {
-        "x": 4096,
-        "y": 2048
+        "x": 2048,
+        "y": 1024
+      }
+    },
+    "TempestFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
       }
     },
     "TempestPeak": {
@@ -109,10 +163,22 @@
         "y": 4640
       }
     },
+    "TowerFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
+      }
+    },
     "Training": {
       "null": {
         "x": 4096,
         "y": 2048
+      }
+    },
+    "WallFun": {
+      "null": {
+        "x": 2048,
+        "y": 1024
       }
     }
   }

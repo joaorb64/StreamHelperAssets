@@ -3640,37 +3640,70 @@
       }
     },
     "Armada Fleet": {
-      "codename": "ArmadaFun"
+      "codename": "ArmadaFun",
+      "locale": {
+        "fr": "Flotte Armada"
+      }
     },
     "Crystal Valley": {
-      "codename": "CrystalFun"
+      "codename": "CrystalFun",
+      "locale": {
+        "fr": "Vallée de Cristal"
+      }
     },
     "Fire Tower": {
-      "codename": "TowerFun"
+      "codename": "TowerFun",
+      "locale": {
+        "fr": "Tour du Feu"
+      }
     },
     "Frozen Harbor": {
-      "codename": "HarborFun"
+      "codename": "HarborFun",
+      "locale": {
+        "fr": "Port Gelé"
+      }
     },
     "Julesvale Skyline": {
-      "codename": "JulesvaleFun"
+      "codename": "JulesvaleFun",
+      "locale": {
+        "fr": "Horizon de Julesvale"
+      }
     },
     "Metal Refinery": {
-      "codename": "MetalFun"
+      "codename": "MetalFun",
+      "locale": {
+        "fr": "Raffinerie de Métaux"
+      }
     },
     "Sinking Shipwreck": {
-      "codename": "ShipFun"
+      "codename": "ShipFun",
+      "locale": {
+        "fr": "Épave à la Dérive"
+      }
     },
     "Thunderous Tempest Peak": {
-      "codename": "TempestFun"
+      "codename": "TempestFun",
+      "locale": {
+        "fr": "Pic de la Tempête Grondant"
+      }
     },
     "Training Dojo": {
-      "codename": "DojoFun"
+      "codename": "DojoFun",
+      "locale": {
+        "fr": "Dojo d'entrainement"
+      }
     },
     "Treetop Bridge": {
-      "codename": "ForestFun"
+      "codename": "ForestFun",
+      "locale": {
+        "fr": "Pont du Sommet des Arbres"
+      }
     },
     "Wall Run": {
-      "codename": "WallFun"
+      "codename": "WallFun",
+      "locale": {
+        "fr": "Course Murale"
+      }
     }
   },
   "preset_colors": [

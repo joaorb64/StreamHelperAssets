@@ -535,9 +535,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (18/18)
 
 ## Rivals of Aether II
-- Character [Random] not assigned in TSH!
-- Character [Random] not assigned in TSH!
-### Coverage: (15/17)
+### Coverage: (18/18)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)

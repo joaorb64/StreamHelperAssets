@@ -1,7 +1,7 @@
 {
   "average_size": {
-    "x": 3031.4166666666665,
-    "y": 3996.5833333333335
+    "x": 3090.230769230769,
+    "y": 3996.846153846154
   },
   "credits": "Extracted from the 2XKO Wiki (https://wiki.play2xko.com/en-us/)",
   "description": "Character renders",
@@ -96,11 +96,17 @@
     "d",
     "r"
   ],
-  "version": "26.01.22.60203",
+  "version": "26.04.13.55613",
   "image_sizes": {
     "Ahri": {
       "0": {
         "x": 2778,
+        "y": 4000
+      }
+    },
+    "Akali": {
+      "0": {
+        "x": 3796,
         "y": 4000
       }
     },

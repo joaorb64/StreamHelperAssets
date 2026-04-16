@@ -2237,6 +2237,18 @@
         },
         "36": {
           "name": "Abyss - Midnight"
+        },
+        "37": {
+          "name": "Evo"
+        },
+        "38": {
+          "name": "Evo - Blue"
+        },
+        "39": {
+          "name": "Evo - Green"
+        },
+        "40": {
+          "name": "Evo - Red"
         }
       }
     },
@@ -3648,7 +3660,7 @@
     "Crystal Valley": {
       "codename": "CrystalFun",
       "locale": {
-        "fr": "Vallée de Cristal"
+        "fr": "Vall\u00e9e de Cristal"
       }
     },
     "Fire Tower": {
@@ -3660,7 +3672,7 @@
     "Frozen Harbor": {
       "codename": "HarborFun",
       "locale": {
-        "fr": "Port Gelé"
+        "fr": "Port Gel\u00e9"
       }
     },
     "Julesvale Skyline": {
@@ -3672,19 +3684,19 @@
     "Metal Refinery": {
       "codename": "MetalFun",
       "locale": {
-        "fr": "Raffinerie de Métaux"
+        "fr": "Raffinerie de M\u00e9taux"
       }
     },
     "Sinking Shipwreck": {
       "codename": "ShipFun",
       "locale": {
-        "fr": "Épave à la Dérive"
+        "fr": "\u00c9pave \u00e0 la D\u00e9rive"
       }
     },
     "Thunderous Tempest Peak": {
       "codename": "TempestFun",
       "locale": {
-        "fr": "Pic de la Tempête Grondant"
+        "fr": "Pic de la Temp\u00eate Grondant"
       }
     },
     "Training Dojo": {

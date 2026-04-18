@@ -168,10 +168,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (39/40)
 
 ## Guilty Gear -STRIVE-
-- Character [Jam Kuradoberi]: Character name [Jam] doesn't exist in StartGG
 - Character [Robo-Ky]: Character name [Robo-Ky] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (32/33)
+### Coverage: (33/34)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)
@@ -535,7 +534,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (18/18)
 
 ## Rivals of Aether II
-### Coverage: (18/18)
+### Coverage: (17/17)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)

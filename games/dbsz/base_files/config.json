@@ -56,7 +56,11 @@
     },
     "Bardock": {
       "codename": "Bardock",
-      "skin_name": {}
+      "skin_name": {
+        "1": {
+          "name": "Super Saiyan"
+        }
+      }
     },
     "Beerus": {
       "codename": "Beerus",
@@ -543,10 +547,6 @@
     "Majin Kuu": {
       "codename": "Kuu"
     },
-    "Majuub": {
-      "codename": "Majuub",
-      "skin_name": {}
-    },
     "Master Roshi": {
       "codename": "MasterRoshi",
       "skin_name": {
@@ -700,7 +700,11 @@
     },
     "Uub (GT)": {
       "codename": "UubGT",
-      "skin_name": {}
+      "skin_name": {
+        "1": {
+          "name": "Majuub"
+        }
+      }
     },
     "Vegeta (Daima-Mini)": {
       "codename": "VegetaMini",
@@ -828,9 +832,118 @@
           "name": "Super Zarbon"
         }
       }
+    },
+    "Android 8": {
+      "codename": "Android8",
+      "skin_name": {}
+    },
+    "Champa": {
+      "codename": "Champa",
+      "skin_name": {}
+    },
+    "Cheelai": {
+      "codename": "Champa",
+      "skin_name": {}
+    },
+    "Chilled": {
+      "codename": "Chilled",
+      "skin_name": {}
+    },
+    "Fasha": {
+      "codename": "Fasha",
+      "skin_name": {}
+    },
+    "General Blue": {
+      "codename": "Blue",
+      "skin_name": {}
+    },
+    "Grandpa Gohan": {
+      "codename": "Grandpa",
+      "skin_name": {}
+    },
+    "Android 17 (GT)": {
+      "codename": "Android17GT",
+      "skin_name": {
+        "0": {
+          "name": "Hell Fighter 17",
+          "is_different_character": true
+        },
+        "1": {
+          "name": "Super 17",
+          "is_different_character": true
+        }
+      }
+    },
+    "Jaco": {
+      "codename": "Jaco",
+      "skin_name": {}
+    },
+    "Demon King Piccolo": {
+      "codename": "KingPiccolo",
+      "skin_name": {}
+    },
+    "King Vegeta": {
+      "codename": "KingVegeta",
+      "skin_name": {}
+    },
+    "Mercenary Tao": {
+      "codename": "Tao",
+      "skin_name": {}
+    },
+    "Mighty Mask": {
+      "codename": "Mask",
+      "skin_name": {
+        "0": {
+          "name": "Goten & Trunks"
+        }
+      }
+    },
+    "Nam": {
+      "codename": "Nam",
+      "skin_name": {}
+    },
+    "Nuova Shenron": {
+      "codename": "Nuova",
+      "skin_name": {}
+    },
+    "Pikkon": {
+      "codename": "Pikkon",
+      "skin_name": {}
+    },
+    "Salza": {
+      "codename": "Salza",
+      "skin_name": {}
+    },
+    "Shin": {
+      "codename": "Shin",
+      "skin_name": {}
+    },
+    "Spike the Devil Man": {
+      "codename": "Devilman",
+      "skin_name": {}
+    },
+    "Tora": {
+      "codename": "Tora",
+      "skin_name": {}
+    },
+    "Uub (Z)": {
+      "codename": "UubZ",
+      "skin_name": {}
+    },
+    "Trunks (GT)": {
+      "codename": "TrunksGT",
+      "skin_name": {
+        "1": {
+          "name": "Super Saiyan"
+        }
+      }
+    },
+    "Zangya": {
+      "codename": "Zangya",
+      "skin_name": {}
     }
   },
-  "credits": "Files ripped from https://dbsz.bn-ent.net/character/",
+  "credits": "Files ripped from https://dbsz.bn-ent.net/character/ & https://dbsz.bn-ent.net/dlc/#playable",
   "description": "Base config to use this game.\nCharacter forms are listed under skins for each character",
   "name": "Dragon Ball: Sparking! Zero",
   "smashgg_game_id": 73208,

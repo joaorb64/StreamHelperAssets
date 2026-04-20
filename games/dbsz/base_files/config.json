@@ -1,6 +1,10 @@
 {
   "challonge_game_id": null,
   "character_to_codename": {
+    "Android 8": {
+      "codename": "Android8",
+      "skin_name": {}
+    },
     "Android 13": {
       "codename": "Android13",
       "skin_name": {
@@ -12,6 +16,19 @@
     "Android 16": {
       "codename": "Android16",
       "skin_name": {}
+    },
+    "Android 17 (GT)": {
+      "codename": "Android17GT",
+      "skin_name": {
+        "0": {
+          "is_different_character": true,
+          "name": "Hell Fighter 17"
+        },
+        "1": {
+          "is_different_character": true,
+          "name": "Super 17"
+        }
+      }
     },
     "Android 17 (Super)": {
       "codename": "Android17Super",
@@ -148,8 +165,20 @@
       "codename": "CellMax",
       "skin_name": {}
     },
+    "Champa": {
+      "codename": "Champa",
+      "skin_name": {}
+    },
+    "Cheelai": {
+      "codename": "Champa",
+      "skin_name": {}
+    },
     "Chiaotzu": {
       "codename": "Chiaotzu",
+      "skin_name": {}
+    },
+    "Chilled": {
+      "codename": "Chilled",
       "skin_name": {}
     },
     "Cooler": {
@@ -171,6 +200,10 @@
       "codename": "Dabura",
       "skin_name": {}
     },
+    "Demon King Piccolo": {
+      "codename": "KingPiccolo",
+      "skin_name": {}
+    },
     "Dodoria": {
       "codename": "Dodoria",
       "skin_name": {}
@@ -185,6 +218,10 @@
     },
     "Dyspo": {
       "codename": "Dyspo",
+      "skin_name": {}
+    },
+    "Fasha": {
+      "codename": "Fasha",
       "skin_name": {}
     },
     "Frieza (Super)": {
@@ -241,6 +278,10 @@
           "name": "Super Garlic Jr."
         }
       }
+    },
+    "General Blue": {
+      "codename": "Blue",
+      "skin_name": {}
     },
     "Ginyu": {
       "codename": "Ginyu",
@@ -452,6 +493,10 @@
         }
       }
     },
+    "Grandpa Gohan": {
+      "codename": "Grandpa",
+      "skin_name": {}
+    },
     "Guldo": {
       "codename": "Guldo",
       "skin_name": {}
@@ -462,6 +507,10 @@
     },
     "Hit": {
       "codename": "Hit",
+      "skin_name": {}
+    },
+    "Jaco": {
+      "codename": "Jaco",
       "skin_name": {}
     },
     "Janemba": {
@@ -518,6 +567,10 @@
       "codename": "Cold",
       "skin_name": {}
     },
+    "King Vegeta": {
+      "codename": "KingVegeta",
+      "skin_name": {}
+    },
     "Krillin": {
       "codename": "Krillin",
       "skin_name": {}
@@ -555,6 +608,18 @@
         }
       }
     },
+    "Mercenary Tao": {
+      "codename": "Tao",
+      "skin_name": {}
+    },
+    "Mighty Mask": {
+      "codename": "Mask",
+      "skin_name": {
+        "0": {
+          "name": "Goten & Trunks"
+        }
+      }
+    },
     "Mr. Satan": {
       "codename": "MrSatan",
       "skin_name": {}
@@ -563,8 +628,16 @@
       "codename": "Nail",
       "skin_name": {}
     },
+    "Nam": {
+      "codename": "Nam",
+      "skin_name": {}
+    },
     "Nappa": {
       "codename": "Nappa",
+      "skin_name": {}
+    },
+    "Nuova Shenron": {
+      "codename": "Nuova",
       "skin_name": {}
     },
     "Omega Shenron": {
@@ -600,6 +673,10 @@
         }
       }
     },
+    "Pikkon": {
+      "codename": "Pikkon",
+      "skin_name": {}
+    },
     "Raditz": {
       "codename": "Raditz",
       "skin_name": {}
@@ -620,8 +697,20 @@
       "codename": "Saibaman",
       "skin_name": {}
     },
+    "Salza": {
+      "codename": "Salza",
+      "skin_name": {}
+    },
     "Shallot": {
       "codename": "Shallot"
+    },
+    "Shin": {
+      "codename": "Shin",
+      "skin_name": {}
+    },
+    "Spike the Devil Man": {
+      "codename": "Devilman",
+      "skin_name": {}
     },
     "Spopovich": {
       "codename": "Spopovich",
@@ -658,6 +747,10 @@
         }
       }
     },
+    "Tora": {
+      "codename": "Tora",
+      "skin_name": {}
+    },
     "Trunks (Future) (Super)": {
       "codename": "TrunksFuture",
       "skin_name": {
@@ -686,6 +779,14 @@
         }
       }
     },
+    "Trunks (GT)": {
+      "codename": "TrunksGT",
+      "skin_name": {
+        "1": {
+          "name": "Super Saiyan"
+        }
+      }
+    },
     "Trunks (Kid)": {
       "codename": "TrunksKid",
       "skin_name": {
@@ -705,6 +806,10 @@
           "name": "Majuub"
         }
       }
+    },
+    "Uub (Z)": {
+      "codename": "UubZ",
+      "skin_name": {}
     },
     "Vegeta (Daima-Mini)": {
       "codename": "VegetaMini",
@@ -825,6 +930,10 @@
         }
       }
     },
+    "Zangya": {
+      "codename": "Zangya",
+      "skin_name": {}
+    },
     "Zarbon": {
       "codename": "Zarbon",
       "skin_name": {
@@ -832,115 +941,6 @@
           "name": "Super Zarbon"
         }
       }
-    },
-    "Android 8": {
-      "codename": "Android8",
-      "skin_name": {}
-    },
-    "Champa": {
-      "codename": "Champa",
-      "skin_name": {}
-    },
-    "Cheelai": {
-      "codename": "Champa",
-      "skin_name": {}
-    },
-    "Chilled": {
-      "codename": "Chilled",
-      "skin_name": {}
-    },
-    "Fasha": {
-      "codename": "Fasha",
-      "skin_name": {}
-    },
-    "General Blue": {
-      "codename": "Blue",
-      "skin_name": {}
-    },
-    "Grandpa Gohan": {
-      "codename": "Grandpa",
-      "skin_name": {}
-    },
-    "Android 17 (GT)": {
-      "codename": "Android17GT",
-      "skin_name": {
-        "0": {
-          "name": "Hell Fighter 17",
-          "is_different_character": true
-        },
-        "1": {
-          "name": "Super 17",
-          "is_different_character": true
-        }
-      }
-    },
-    "Jaco": {
-      "codename": "Jaco",
-      "skin_name": {}
-    },
-    "Demon King Piccolo": {
-      "codename": "KingPiccolo",
-      "skin_name": {}
-    },
-    "King Vegeta": {
-      "codename": "KingVegeta",
-      "skin_name": {}
-    },
-    "Mercenary Tao": {
-      "codename": "Tao",
-      "skin_name": {}
-    },
-    "Mighty Mask": {
-      "codename": "Mask",
-      "skin_name": {
-        "0": {
-          "name": "Goten & Trunks"
-        }
-      }
-    },
-    "Nam": {
-      "codename": "Nam",
-      "skin_name": {}
-    },
-    "Nuova Shenron": {
-      "codename": "Nuova",
-      "skin_name": {}
-    },
-    "Pikkon": {
-      "codename": "Pikkon",
-      "skin_name": {}
-    },
-    "Salza": {
-      "codename": "Salza",
-      "skin_name": {}
-    },
-    "Shin": {
-      "codename": "Shin",
-      "skin_name": {}
-    },
-    "Spike the Devil Man": {
-      "codename": "Devilman",
-      "skin_name": {}
-    },
-    "Tora": {
-      "codename": "Tora",
-      "skin_name": {}
-    },
-    "Uub (Z)": {
-      "codename": "UubZ",
-      "skin_name": {}
-    },
-    "Trunks (GT)": {
-      "codename": "TrunksGT",
-      "skin_name": {
-        "1": {
-          "name": "Super Saiyan"
-        }
-      }
-    },
-    "Zangya": {
-      "codename": "Zangya",
-      "skin_name": {}
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/ & https://dbsz.bn-ent.net/dlc/#playable",

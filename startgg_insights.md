@@ -87,6 +87,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Dragon Ball FighterZ
 - Character [Android 21 (Lab Coat)]: Character name [Android 21 (Lab Coat)] doesn't exist in StartGG
+- Character [Goku (SS4, Daima)]: Character name [Goku (SS4, Daima)] doesn't exist in StartGG
 ### Coverage: (42/42)
 
 ## Dragon Ball: Sparking! Zero
@@ -138,9 +139,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Wolfgang Krauser]: Character name [Krauser] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (25/26)
+### Coverage: (26/27)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?

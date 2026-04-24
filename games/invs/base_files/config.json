@@ -71,5 +71,13 @@
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 3
+  },
+  "variant_to_codename": {
+    "Motion Inputs": {
+      "codename": "motion"
+    },
+    "Default Inputs": {
+      "codename": "default"
+    }
   }
 }

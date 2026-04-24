@@ -151,6 +151,12 @@
       "locale": {
         "fr": "Dynamique"
       }
+    },
+    "Gyroscope": {
+      "codename": "variant_g",
+      "locale": {
+        "fr": "Gyroscope"
+      }
     }
   }
 }

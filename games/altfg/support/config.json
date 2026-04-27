@@ -3,9 +3,47 @@
   "description": "Support characters",
   "name": "Supports",
   "postfix": "_",
-  "prefix": "full_",
+  "prefix": "file_",
   "type": [
     "support"
   ],
-  "version": "26.04.02.35993"
+  "version": "26.04.02.35993",
+  "rescaling_factor": {
+    "Aang": {
+      "0": 1.0,
+      "1": 1.0,
+      "2": 1.0
+    },
+    "Katara": {
+      "0": 1.0,
+      "1": 1.0,
+      "2": 1.0
+    },
+    "Korra": {
+      "0": 1.0,
+      "1": 1.0,
+      "2": 1.0
+    },
+    "Toph": {
+      "0": 1.0,
+      "1": 1.0,
+      "2": 1.0
+    },
+    "Zuko": {
+      "0": 1.0,
+      "1": 1.0,
+      "2": 1.0
+    },
+    "AangA": {},
+    "Azula": {},
+    "KorraA": {},
+    "Kyoshi": {},
+    "Ozai": {},
+    "Sokka": {
+      "0": 1.0,
+      "1": 1.0,
+      "2": 1.0
+    },
+    "Zaheer": {}
+  }
 }

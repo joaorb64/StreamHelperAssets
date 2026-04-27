@@ -760,7 +760,57 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Ultimate Marvel VS Capcom 3
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Akuma] not assigned in TSH!
+- Character [Captain America] not assigned in TSH!
+- Character [Chris] not assigned in TSH!
+- Character [Chun-Li] not assigned in TSH!
+- Character [Doctor Doom] not assigned in TSH!
+- Character [Dormammu] not assigned in TSH!
+- Character [Frank] not assigned in TSH!
+- Character [Hawkeye] not assigned in TSH!
+- Character [Hsien-Ko] not assigned in TSH!
+- Character [Amaterasu] not assigned in TSH!
+- Character [Arthur] not assigned in TSH!
+- Character [Dante] not assigned in TSH!
+- Character [Deadpool] not assigned in TSH!
+- Character [Doctor Strange] not assigned in TSH!
+- Character [Felicia] not assigned in TSH!
+- Character [Firebrand] not assigned in TSH!
+- Character [Ghost Rider] not assigned in TSH!
+- Character [Haggar] not assigned in TSH!
+- Character [Hulk] not assigned in TSH!
+- Character [Iron Fist] not assigned in TSH!
+- Character [Iron Man] not assigned in TSH!
+- Character [Jill] not assigned in TSH!
+- Character [Magneto] not assigned in TSH!
+- Character [Modok] not assigned in TSH!
+- Character [Morrigan] not assigned in TSH!
+- Character [Nemesis] not assigned in TSH!
+- Character [Nova] not assigned in TSH!
+- Character [Phoenix Wright] not assigned in TSH!
+- Character [Phoenix] not assigned in TSH!
+- Character [Rocket Raccoon] not assigned in TSH!
+- Character [Ryu] not assigned in TSH!
+- Character [Sentinel] not assigned in TSH!
+- Character [She-Hulk] not assigned in TSH!
+- Character [Shuma-Gorath] not assigned in TSH!
+- Character [Spencer] not assigned in TSH!
+- Character [Spider-Man] not assigned in TSH!
+- Character [Storm] not assigned in TSH!
+- Character [Strider Hiryu] not assigned in TSH!
+- Character [Super-Skrull] not assigned in TSH!
+- Character [Taskmaster] not assigned in TSH!
+- Character [Thor] not assigned in TSH!
+- Character [Trish] not assigned in TSH!
+- Character [Tron] not assigned in TSH!
+- Character [Vergil] not assigned in TSH!
+- Character [Viewtiful Joe] not assigned in TSH!
+- Character [Viper] not assigned in TSH!
+- Character [Wesker] not assigned in TSH!
+- Character [Wolverine] not assigned in TSH!
+- Character [X-23] not assigned in TSH!
+- Character [Zero] not assigned in TSH!
+### Coverage: (0/50)
 
 ## Under Night In-Birth II [Sys:Celes]
 ### Coverage: (27/27)

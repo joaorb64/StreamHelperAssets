@@ -3791,6 +3791,27 @@
       "locale": {
         "fr": "Joueur 5 (En ligne)"
       }
+    },
+    {
+      "name": "Red Team",
+      "value": "f35151",
+      "locale": {
+        "fr": "Équipe Rouge"
+      }
+    },
+    {
+      "name": "Blue Team",
+      "value": "5160f7",
+      "locale": {
+        "fr": "Équipe Bleue"
+      }
+    },
+    {
+      "name": "Green Team",
+      "value": "87eb88",
+      "locale": {
+        "fr": "Équipe Verte"
+      }
     }
   ]
 }

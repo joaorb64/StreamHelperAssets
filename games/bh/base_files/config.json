@@ -454,6 +454,7 @@
   "description": "Base config to use this game.",
   "name": "Brawlhalla",
   "smashgg_game_id": 15,
+  "parrygg_game_slug": "brawlhalla",
   "stage_to_codename": {
     "Avatar": {
       "codename": "Avatar"

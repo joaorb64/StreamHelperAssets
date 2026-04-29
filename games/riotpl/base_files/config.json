@@ -62,6 +62,7 @@
   "description": "Base config to use this game.",
   "name": "2XKO",
   "smashgg_game_id": 64423,
+  "parrygg_game_slug": "2xko",
   "stage_to_codename": {},
   "version": "26.04.13.55613",
   "defaults": {

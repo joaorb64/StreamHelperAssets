@@ -70,7 +70,8 @@
     {
       "name": "Fighting EX Layer: Another Dash",
       "smashgg_game_id": 39242,
-      "logo_path": "logo_alt1.png"
+      "logo_path": "logo_alt1.png",
+      "igdb_game_id": "fighting-ex-layer-another-dash"
     }
   ],
   "variant_to_codename": {
@@ -119,5 +120,6 @@
     "Thunderbolt": {
       "codename": "Thunderbolt"
     }
-  }
+  },
+  "igdb_game_id": "fighting-ex-layer"
 }

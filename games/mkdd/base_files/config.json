@@ -464,5 +464,6 @@
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 2
-  }
+  },
+  "igdb_game_id": "mario-kart-double-dash"
 }

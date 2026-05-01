@@ -3547,7 +3547,7 @@
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "26.04.21.66095",
+  "version": "26.04.29.62824",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest",
@@ -3796,21 +3796,21 @@
       "name": "Red Team",
       "value": "f35151",
       "locale": {
-        "fr": "Équipe Rouge"
+        "fr": "\u00c9quipe Rouge"
       }
     },
     {
       "name": "Blue Team",
       "value": "5160f7",
       "locale": {
-        "fr": "Équipe Bleue"
+        "fr": "\u00c9quipe Bleue"
       }
     },
     {
       "name": "Green Team",
       "value": "87eb88",
       "locale": {
-        "fr": "Équipe Verte"
+        "fr": "\u00c9quipe Verte"
       }
     }
   ]

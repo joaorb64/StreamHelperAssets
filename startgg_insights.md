@@ -14,7 +14,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Avatar Legends: The Fighting Game
 Game has no characters in startgg...? Or do we have a wrong game id?
 
-## Among Us Arena
+## Among Us Arena Ultimate
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Art of Fighting 3: The Path of the Warrior

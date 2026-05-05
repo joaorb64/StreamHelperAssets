@@ -42,6 +42,15 @@
     },
     "Peni Parker": {
       "codename": "Peni"
+    },
+    "Black Panther": {
+      "codename": "Shuri",
+      "locale": {
+        "fr": "Panthère noire"
+      }
+    },
+    "Hulk": {
+      "codename": "Hulk"
     }
   },
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
@@ -69,6 +78,9 @@
       "locale": {
         "fr": "Institut Xavier"
       }
+    },
+    "Wakanda": {
+      "codename": "Wakanda"
     }
   },
   "version": "26.05.02.40426",

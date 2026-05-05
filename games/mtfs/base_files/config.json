@@ -46,7 +46,7 @@
     "Black Panther": {
       "codename": "Shuri",
       "locale": {
-        "fr": "Panthère noire"
+        "fr": "Panth\u00e8re noire"
       }
     },
     "Hulk": {
@@ -83,6 +83,6 @@
       "codename": "Wakanda"
     }
   },
-  "version": "26.05.02.40426",
+  "version": "26.05.05.67575",
   "igdb_game_id": "marvel-tokon-fighting-souls"
 }

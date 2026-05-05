@@ -199,26 +199,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Invincible VS
-- Character [Anissa] not assigned in TSH!
-- Character [Conquest] not assigned in TSH!
-- Character [Dupli-Kate] not assigned in TSH!
-- Character [Invincible] not assigned in TSH!
-- Character [Lucan] not assigned in TSH!
-- Character [Monster Girl] not assigned in TSH!
-- Character [Powerplex] not assigned in TSH!
+- Character [Immortal]: Character name [Immortal] doesn't exist in StartGG
+- Character [Universa]: Character name [Universa] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-- Character [Robot] not assigned in TSH!
-- Character [Titan] not assigned in TSH!
-- Character [Allen] not assigned in TSH!
-- Character [Atom Eve] not assigned in TSH!
-- Character [Battle Beast] not assigned in TSH!
-- Character [Bulletproof] not assigned in TSH!
-- Character [Cecil] not assigned in TSH!
-- Character [Ella Mental] not assigned in TSH!
-- Character [Omni-Man] not assigned in TSH!
-- Character [Rex] not assigned in TSH!
-- Character [Thula] not assigned in TSH!
-### Coverage: (0/19)
+### Coverage: (18/19)
 
 ## Iron Saga VS
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -779,57 +763,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Ultimate Marvel VS Capcom 3
-- Character [Akuma] not assigned in TSH!
-- Character [Captain America] not assigned in TSH!
-- Character [Chris] not assigned in TSH!
-- Character [Chun-Li] not assigned in TSH!
-- Character [Doctor Doom] not assigned in TSH!
-- Character [Dormammu] not assigned in TSH!
-- Character [Frank] not assigned in TSH!
-- Character [Hawkeye] not assigned in TSH!
-- Character [Hsien-Ko] not assigned in TSH!
-- Character [Amaterasu] not assigned in TSH!
-- Character [Arthur] not assigned in TSH!
-- Character [Dante] not assigned in TSH!
-- Character [Deadpool] not assigned in TSH!
-- Character [Doctor Strange] not assigned in TSH!
-- Character [Felicia] not assigned in TSH!
-- Character [Firebrand] not assigned in TSH!
-- Character [Ghost Rider] not assigned in TSH!
-- Character [Haggar] not assigned in TSH!
-- Character [Hulk] not assigned in TSH!
-- Character [Iron Fist] not assigned in TSH!
-- Character [Iron Man] not assigned in TSH!
-- Character [Jill] not assigned in TSH!
-- Character [Magneto] not assigned in TSH!
-- Character [Modok] not assigned in TSH!
-- Character [Morrigan] not assigned in TSH!
-- Character [Nemesis] not assigned in TSH!
-- Character [Nova] not assigned in TSH!
-- Character [Phoenix Wright] not assigned in TSH!
-- Character [Phoenix] not assigned in TSH!
-- Character [Rocket Raccoon] not assigned in TSH!
-- Character [Ryu] not assigned in TSH!
-- Character [Sentinel] not assigned in TSH!
-- Character [She-Hulk] not assigned in TSH!
-- Character [Shuma-Gorath] not assigned in TSH!
-- Character [Spencer] not assigned in TSH!
-- Character [Spider-Man] not assigned in TSH!
-- Character [Storm] not assigned in TSH!
-- Character [Strider Hiryu] not assigned in TSH!
-- Character [Super-Skrull] not assigned in TSH!
-- Character [Taskmaster] not assigned in TSH!
-- Character [Thor] not assigned in TSH!
-- Character [Trish] not assigned in TSH!
-- Character [Tron] not assigned in TSH!
-- Character [Vergil] not assigned in TSH!
-- Character [Viewtiful Joe] not assigned in TSH!
-- Character [Viper] not assigned in TSH!
-- Character [Wesker] not assigned in TSH!
-- Character [Wolverine] not assigned in TSH!
-- Character [X-23] not assigned in TSH!
-- Character [Zero] not assigned in TSH!
-### Coverage: (0/50)
+### Coverage: (50/50)
 
 ## Under Night In-Birth II [Sys:Celes]
 - Character [Zohar]: Character name [Zohar] doesn't exist in StartGG

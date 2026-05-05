@@ -139,6 +139,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
+- Character [Kenshirō]: Character name [Kenshiro] doesn't exist in StartGG
+- Character [Mr. Karate]: Character name [Mr. Karate] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (26/27)
 
@@ -197,7 +199,26 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Invincible VS
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Anissa] not assigned in TSH!
+- Character [Conquest] not assigned in TSH!
+- Character [Dupli-Kate] not assigned in TSH!
+- Character [Invincible] not assigned in TSH!
+- Character [Lucan] not assigned in TSH!
+- Character [Monster Girl] not assigned in TSH!
+- Character [Powerplex] not assigned in TSH!
+- Character [Random] not assigned in TSH!
+- Character [Robot] not assigned in TSH!
+- Character [Titan] not assigned in TSH!
+- Character [Allen] not assigned in TSH!
+- Character [Atom Eve] not assigned in TSH!
+- Character [Battle Beast] not assigned in TSH!
+- Character [Bulletproof] not assigned in TSH!
+- Character [Cecil] not assigned in TSH!
+- Character [Ella Mental] not assigned in TSH!
+- Character [Omni-Man] not assigned in TSH!
+- Character [Rex] not assigned in TSH!
+- Character [Thula] not assigned in TSH!
+### Coverage: (0/19)
 
 ## Iron Saga VS
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -573,9 +594,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (20/20)
 
 ## Street Fighter 6
-- Character [Ingrid]: Character name [Ingrid] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (29/30)
+### Coverage: (30/31)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -721,10 +741,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Kunimitsu II]: Character name [Kunimitsu] doesn't exist in StartGG
 - Character [Robert "Bob" Richards]: Character name [Bob] doesn't exist in StartGG
 - Character [Roger Jr.]: Character name [Roger Jr.] doesn't exist in StartGG
-### Coverage: (41/41)
+### Coverage: (42/42)
 
 ## Them's Fightin' Herds
 ### Coverage: (11/11)
@@ -813,6 +832,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (0/50)
 
 ## Under Night In-Birth II [Sys:Celes]
+- Character [Zohar]: Character name [Zohar] doesn't exist in StartGG
 ### Coverage: (27/27)
 
 ## Under Night In-Birth Exe:Late[cl-r]

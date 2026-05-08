@@ -1,0 +1,35 @@
+{
+  "name": "Assist Selection",
+  "version": "25.05.29.53857",
+  "description": "Assist selection icons\nRequires TSH 5.92 or higher to be used",
+  "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Marvel_vs_Capcom_3/Game_Elements/Assist_Types)",
+  "prefix": "",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "average_size": {
+    "x": 25.0,
+    "y": 25.0
+  },
+  "image_sizes": {
+    "Alpha": {
+      "null": {
+        "x": 25,
+        "y": 25
+      }
+    },
+    "Beta": {
+      "null": {
+        "x": 25,
+        "y": 25
+      }
+    },
+    "Gamma": {
+      "null": {
+        "x": 25,
+        "y": 25
+      }
+    }
+  }
+}

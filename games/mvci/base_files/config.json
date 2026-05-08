@@ -167,5 +167,25 @@
       "logo_path": "logo_old.png"
     }
   ],
-  "igdb_game_id": "marvel-vs-capcom-infinite-and-beyond"
+  "igdb_game_id": "marvel-vs-capcom-infinite-and-beyond",
+  "variant_to_codename": {
+    "Power Stone": {
+      "codename": "PowerGemV"
+    },
+    "Time Stone": {
+      "codename": "TimeGemV"
+    },
+    "Reality Stone": {
+      "codename": "RealityGemV"
+    },
+    "Space Stone": {
+      "codename": "SpaceGemV"
+    },
+    "Mind Stone": {
+      "codename": "MindGemV"
+    },
+    "Soul Stone": {
+      "codename": "SoulGemV"
+    }
+  }
 }

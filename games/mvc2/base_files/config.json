@@ -180,5 +180,16 @@
     "players_per_team": 1,
     "characters_per_player": 3
   },
-  "igdb_game_id": "marvel-vs-capcom-2-new-age-of-heroes"
+  "igdb_game_id": "marvel-vs-capcom-2-new-age-of-heroes",
+  "variant_to_codename": {
+    "\u03b1": {
+      "codename": "Alpha"
+    },
+    "\u03b2": {
+      "codename": "Beta"
+    },
+    "\u03b3": {
+      "codename": "Gamma"
+    }
+  }
 }

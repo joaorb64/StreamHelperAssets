@@ -11,5 +11,43 @@
   "average_size": {
     "x": 26.333333333333332,
     "y": 22.0
+  },
+  "image_sizes": {
+    "MindGemV": {
+      "null": {
+        "x": 25,
+        "y": 22
+      }
+    },
+    "PowerGemV": {
+      "null": {
+        "x": 28,
+        "y": 22
+      }
+    },
+    "RealityGemV": {
+      "null": {
+        "x": 27,
+        "y": 22
+      }
+    },
+    "SoulGemV": {
+      "null": {
+        "x": 25,
+        "y": 22
+      }
+    },
+    "SpaceGemV": {
+      "null": {
+        "x": 27,
+        "y": 22
+      }
+    },
+    "TimeGemV": {
+      "null": {
+        "x": 26,
+        "y": 22
+      }
+    }
   }
 }

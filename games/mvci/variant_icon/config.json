@@ -7,5 +7,43 @@
   "postfix": "",
   "type": [
     "variant_icon"
-  ]
+  ],
+  "image_sizes": {
+    "file_MindGemV": {
+      "null": {
+        "x": 25,
+        "y": 22
+      }
+    },
+    "file_PowerGemV": {
+      "null": {
+        "x": 28,
+        "y": 22
+      }
+    },
+    "file_RealityGemV": {
+      "null": {
+        "x": 27,
+        "y": 22
+      }
+    },
+    "file_SoulGemV": {
+      "null": {
+        "x": 25,
+        "y": 22
+      }
+    },
+    "file_SpaceGemV": {
+      "null": {
+        "x": 27,
+        "y": 22
+      }
+    },
+    "file_TimeGemV": {
+      "null": {
+        "x": 26,
+        "y": 22
+      }
+    }
+  }
 }

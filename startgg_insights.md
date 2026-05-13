@@ -375,7 +375,45 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (30/30)
 
 ## Mario Tennis Fever
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Baby Luigi] not assigned in TSH!
+- Character [Baby Mario] not assigned in TSH!
+- Character [Baby Peach] not assigned in TSH!
+- Character [Baby Waluigi] not assigned in TSH!
+- Character [Baby Wario] not assigned in TSH!
+- Character [Petey Piranha] not assigned in TSH!
+- Character [Luma] not assigned in TSH!
+- Character [Daisy] not assigned in TSH!
+- Character [Spike] not assigned in TSH!
+- Character [Kameck] not assigned in TSH!
+- Character [Dry Bones] not assigned in TSH!
+- Character [Bowser] not assigned in TSH!
+- Character [Goomba] not assigned in TSH!
+- Character [Luigi] not assigned in TSH!
+- Character [Pauline] not assigned in TSH!
+- Character [Peach] not assigned in TSH!
+- Character [Rosalina] not assigned in TSH!
+- Character [Boo] not assigned in TSH!
+- Character [Nabbit] not assigned in TSH!
+- Character [Waluigi] not assigned in TSH!
+- Character [Yoshi] not assigned in TSH!
+- Character [Boom Boom] not assigned in TSH!
+- Character [Birdo] not assigned in TSH!
+- Character [Diddy Kong] not assigned in TSH!
+- Character [Donkey Kong] not assigned in TSH!
+- Character [Blooper] not assigned in TSH!
+- Character [Wiggler] not assigned in TSH!
+- Character [Shy Guy] not assigned in TSH!
+- Character [Dry Bowser] not assigned in TSH!
+- Character [Toadette] not assigned in TSH!
+- Character [Toad] not assigned in TSH!
+- Character [Bowser Jr.] not assigned in TSH!
+- Character [Mario] not assigned in TSH!
+- Character [Koopa] not assigned in TSH!
+- Character [Piranha Plant] not assigned in TSH!
+- Character [Koopa Paratroopa] not assigned in TSH!
+- Character [Chain Chomp] not assigned in TSH!
+- Character [Wario] not assigned in TSH!
+### Coverage: (0/38)
 
 ## Marvel Tōkon: Fighting Souls
 Game has no characters in startgg...? Or do we have a wrong game id?

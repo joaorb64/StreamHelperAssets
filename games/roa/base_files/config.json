@@ -1,7 +1,6 @@
 {
   "name": "Rivals of Aether",
   "smashgg_game_id": 24,
-  "parrygg_game_slug": "rivals-of-aether",
   "challonge_game_id": 30566,
   "character_to_codename": {
     "Zetterburn": {
@@ -506,7 +505,8 @@
       "locale": {}
     }
   },
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
-  "credits": "@Readeku for ripping the assets\nWorkshop content curated by eck$"
+  "credits": "@Readeku for ripping the assets\nWorkshop content curated by eck$",
+  "igdb_game_id": "rivals-of-aether"
 }

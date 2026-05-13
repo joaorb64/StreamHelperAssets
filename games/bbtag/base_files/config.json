@@ -1,7 +1,6 @@
 {
   "name": "BlazBlue Cross Tag Battle",
   "smashgg_game_id": 1144,
-  "parrygg_game_slug": "blazblue-cross-tag-battle",
   "challonge_game_id": 139550,
   "character_to_codename": {
     "Azrael": {
@@ -165,11 +164,12 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 2
-  }
+  },
+  "igdb_game_id": "blazblue-cross-tag-battle"
 }

@@ -1,7 +1,6 @@
 {
   "name": "Vampire Savior",
   "smashgg_game_id": 582,
-  "parrygg_game_slug": "vampire-savior-the-lord-of-vampire",
   "challonge_game_id": 7646,
   "character_to_codename": {
     "Anakaris": {
@@ -132,7 +131,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.\n\nAlso compatible with Darkstalkers 3, Vampire Savior 2, Vampire Hunter 2 and Vampire Chronicle for Matching Service / Darkstalkers Chronicle: The Chaos Tower",
   "credits": "",
   "locale": {
@@ -146,5 +145,6 @@
       "smashgg_game_id": 47498,
       "logo_path": "logo_hyper.png"
     }
-  ]
+  ],
+  "igdb_game_id": "vampire-savior-the-lord-of-vampire"
 }

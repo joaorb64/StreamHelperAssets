@@ -1,7 +1,6 @@
 {
   "name": "Project+",
   "smashgg_game_id": 33602,
-  "parrygg_game_slug": "project",
   "character_to_codename": {
     "Mario": {
       "smashgg_name": "Mario",
@@ -2718,7 +2717,8 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
-  "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)"
+  "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
+  "igdb_game_id": "project-plus"
 }

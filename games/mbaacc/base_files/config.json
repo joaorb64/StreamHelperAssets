@@ -98,7 +98,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "25.05.29.53856",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBAACC)",
   "locale": {
@@ -116,5 +116,6 @@
     "Full Moon": {
       "codename": "full"
     }
-  }
+  },
+  "igdb_game_id": "melty-blood-actress-again-current-code"
 }

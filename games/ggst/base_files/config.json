@@ -1,7 +1,6 @@
 {
   "name": "Guilty Gear -STRIVE-",
   "smashgg_game_id": 33945,
-  "parrygg_game_slug": "guilty-gear-strive",
   "challonge_game_id": 198501,
   "character_to_codename": {
     "Anji Mito": {
@@ -244,12 +243,13 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki\n\n\u00a9 ARC SYSTEM WORKS\n\nGuilty Gear -Strive- Official Site: https://www.guiltygear.com/ggst/en/",
   "locale": {
     "ja": {
       "name": "\u30ae\u30eb\u30c6\u30a3\u30ae\u30a2 \u30b9\u30c8\u30e9\u30a4\u30f4"
     }
-  }
+  },
+  "igdb_game_id": "guilty-gear-strive"
 }

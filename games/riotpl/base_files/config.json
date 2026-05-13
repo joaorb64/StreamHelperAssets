@@ -62,9 +62,8 @@
   "description": "Base config to use this game.",
   "name": "2XKO",
   "smashgg_game_id": 64423,
-  "parrygg_game_slug": "2xko",
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.08.68305",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1
@@ -99,6 +98,13 @@
       "locale": {
         "fr": "Acolyte"
       }
+    },
+    "Teamfight": {
+      "codename": "TeamfightV",
+      "locale": {
+        "fr": "Combat d'\u00e9quipe"
+      }
     }
-  }
+  },
+  "igdb_game_id": "2xko"
 }

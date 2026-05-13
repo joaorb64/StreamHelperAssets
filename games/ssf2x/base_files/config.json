@@ -1,7 +1,6 @@
 {
   "name": "Super Street Fighter II Turbo",
   "smashgg_game_id": 611,
-  "parrygg_game_slug": "super-street-fighter-ii-turbo",
   "challonge_game_id": 396,
   "character_to_codename": {
     "Balrog": {
@@ -526,7 +525,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Portraits ripped by @ADHD2I",
   "locale": {
@@ -572,5 +571,6 @@
         "ja": "SUPER X"
       }
     }
-  }
+  },
+  "igdb_game_id": "super-street-fighter-ii-turbo"
 }

@@ -14,7 +14,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Avatar Legends: The Fighting Game
 Game has no characters in startgg...? Or do we have a wrong game id?
 
-## Among Us Arena
+## Among Us Arena Ultimate
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Art of Fighting 3: The Path of the Warrior
@@ -139,6 +139,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
+- Character [Kenshirō]: Character name [Kenshiro] doesn't exist in StartGG
+- Character [Mr. Karate]: Character name [Mr. Karate] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (26/27)
 
@@ -197,7 +199,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Invincible VS
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Immortal]: Character name [Immortal] doesn't exist in StartGG
+- Character [Universa]: Character name [Universa] doesn't exist in StartGG
+- Character [Random] not assigned in TSH!
+### Coverage: (18/19)
 
 ## Iron Saga VS
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -370,7 +375,45 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (30/30)
 
 ## Mario Tennis Fever
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Baby Luigi] not assigned in TSH!
+- Character [Baby Mario] not assigned in TSH!
+- Character [Baby Peach] not assigned in TSH!
+- Character [Baby Waluigi] not assigned in TSH!
+- Character [Baby Wario] not assigned in TSH!
+- Character [Petey Piranha] not assigned in TSH!
+- Character [Luma] not assigned in TSH!
+- Character [Daisy] not assigned in TSH!
+- Character [Spike] not assigned in TSH!
+- Character [Kameck] not assigned in TSH!
+- Character [Dry Bones] not assigned in TSH!
+- Character [Bowser] not assigned in TSH!
+- Character [Goomba] not assigned in TSH!
+- Character [Luigi] not assigned in TSH!
+- Character [Pauline] not assigned in TSH!
+- Character [Peach] not assigned in TSH!
+- Character [Rosalina] not assigned in TSH!
+- Character [Boo] not assigned in TSH!
+- Character [Nabbit] not assigned in TSH!
+- Character [Waluigi] not assigned in TSH!
+- Character [Yoshi] not assigned in TSH!
+- Character [Boom Boom] not assigned in TSH!
+- Character [Birdo] not assigned in TSH!
+- Character [Diddy Kong] not assigned in TSH!
+- Character [Donkey Kong] not assigned in TSH!
+- Character [Blooper] not assigned in TSH!
+- Character [Wiggler] not assigned in TSH!
+- Character [Shy Guy] not assigned in TSH!
+- Character [Dry Bowser] not assigned in TSH!
+- Character [Toadette] not assigned in TSH!
+- Character [Toad] not assigned in TSH!
+- Character [Bowser Jr.] not assigned in TSH!
+- Character [Mario] not assigned in TSH!
+- Character [Koopa] not assigned in TSH!
+- Character [Piranha Plant] not assigned in TSH!
+- Character [Koopa Paratroopa] not assigned in TSH!
+- Character [Chain Chomp] not assigned in TSH!
+- Character [Wario] not assigned in TSH!
+### Coverage: (0/38)
 
 ## Marvel Tōkon: Fighting Souls
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -573,9 +616,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (20/20)
 
 ## Street Fighter 6
-- Character [Ingrid]: Character name [Ingrid] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (29/30)
+### Coverage: (30/31)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -721,10 +763,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Kunimitsu II]: Character name [Kunimitsu] doesn't exist in StartGG
 - Character [Robert "Bob" Richards]: Character name [Bob] doesn't exist in StartGG
 - Character [Roger Jr.]: Character name [Roger Jr.] doesn't exist in StartGG
-### Coverage: (41/41)
+### Coverage: (42/42)
 
 ## Them's Fightin' Herds
 ### Coverage: (11/11)
@@ -760,59 +801,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Ultimate Marvel VS Capcom 3
-- Character [Akuma] not assigned in TSH!
-- Character [Captain America] not assigned in TSH!
-- Character [Chris] not assigned in TSH!
-- Character [Chun-Li] not assigned in TSH!
-- Character [Doctor Doom] not assigned in TSH!
-- Character [Dormammu] not assigned in TSH!
-- Character [Frank] not assigned in TSH!
-- Character [Hawkeye] not assigned in TSH!
-- Character [Hsien-Ko] not assigned in TSH!
-- Character [Amaterasu] not assigned in TSH!
-- Character [Arthur] not assigned in TSH!
-- Character [Dante] not assigned in TSH!
-- Character [Deadpool] not assigned in TSH!
-- Character [Doctor Strange] not assigned in TSH!
-- Character [Felicia] not assigned in TSH!
-- Character [Firebrand] not assigned in TSH!
-- Character [Ghost Rider] not assigned in TSH!
-- Character [Haggar] not assigned in TSH!
-- Character [Hulk] not assigned in TSH!
-- Character [Iron Fist] not assigned in TSH!
-- Character [Iron Man] not assigned in TSH!
-- Character [Jill] not assigned in TSH!
-- Character [Magneto] not assigned in TSH!
-- Character [Modok] not assigned in TSH!
-- Character [Morrigan] not assigned in TSH!
-- Character [Nemesis] not assigned in TSH!
-- Character [Nova] not assigned in TSH!
-- Character [Phoenix Wright] not assigned in TSH!
-- Character [Phoenix] not assigned in TSH!
-- Character [Rocket Raccoon] not assigned in TSH!
-- Character [Ryu] not assigned in TSH!
-- Character [Sentinel] not assigned in TSH!
-- Character [She-Hulk] not assigned in TSH!
-- Character [Shuma-Gorath] not assigned in TSH!
-- Character [Spencer] not assigned in TSH!
-- Character [Spider-Man] not assigned in TSH!
-- Character [Storm] not assigned in TSH!
-- Character [Strider Hiryu] not assigned in TSH!
-- Character [Super-Skrull] not assigned in TSH!
-- Character [Taskmaster] not assigned in TSH!
-- Character [Thor] not assigned in TSH!
-- Character [Trish] not assigned in TSH!
-- Character [Tron] not assigned in TSH!
-- Character [Vergil] not assigned in TSH!
-- Character [Viewtiful Joe] not assigned in TSH!
-- Character [Viper] not assigned in TSH!
-- Character [Wesker] not assigned in TSH!
-- Character [Wolverine] not assigned in TSH!
-- Character [X-23] not assigned in TSH!
-- Character [Zero] not assigned in TSH!
-### Coverage: (0/50)
+### Coverage: (50/50)
 
 ## Under Night In-Birth II [Sys:Celes]
+- Character [Zohar]: Character name [Zohar] doesn't exist in StartGG
 ### Coverage: (27/27)
 
 ## Under Night In-Birth Exe:Late[cl-r]

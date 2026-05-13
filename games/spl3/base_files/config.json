@@ -5142,7 +5142,7 @@
       "codename": "bonerattle"
     }
   },
-  "version": "25.10.28.85051",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
@@ -5284,5 +5284,6 @@
   "defaults": {
     "players_per_team": 4,
     "characters_per_player": 1
-  }
+  },
+  "igdb_game_id": "splatoon-3"
 }

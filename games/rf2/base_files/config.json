@@ -53,12 +53,13 @@
     }
   },
   "stage_to_codename": {},
-  "version": "25.05.29.53857",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/The_Rumble_Fish_2)",
   "locale": {
     "ja": {
       "name": "\u30b6\u30fb\u30e9\u30f3\u30d6\u30eb\u30d5\u30a3\u30c3\u30b7\u30e52"
     }
-  }
+  },
+  "igdb_game_id": "the-rumble-fish-2"
 }

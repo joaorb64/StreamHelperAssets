@@ -327,7 +327,6 @@
   "description": "Base config to use this game.",
   "name": "Mario Kart: Double Dash!!",
   "smashgg_game_id": 3314,
-  "parrygg_game_slug": "mario-kart-double-dash",
   "stage_to_codename": {
     "Luigi Circuit": {
       "codename": "LuigiCircuit"
@@ -396,7 +395,7 @@
       "codename": "TiltaKart"
     }
   },
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "variant_to_codename": {
     "Red Fire": {
       "codename": "RedFire"
@@ -465,5 +464,6 @@
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 2
-  }
+  },
+  "igdb_game_id": "mario-kart-double-dash"
 }

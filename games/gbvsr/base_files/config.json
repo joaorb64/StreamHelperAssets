@@ -1,7 +1,6 @@
 {
   "name": "Granblue Fantasy Versus: Rising",
   "smashgg_game_id": 48548,
-  "parrygg_game_slug": "granblue-fantasy-versus-rising",
   "challonge_game_id": null,
   "character_to_codename": {
     "Anre": {
@@ -162,7 +161,8 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
-  "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters"
+  "credits": "Files ripped from https://rising.granbluefantasy.jp/en/characters",
+  "igdb_game_id": "granblue-fantasy-versus-rising"
 }

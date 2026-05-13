@@ -153,7 +153,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "25.05.29.53856",
+  "version": "26.05.08.68305",
   "description": "Base config to use this game.",
   "credits": "",
   "defaults": {
@@ -166,5 +166,26 @@
       "smashgg_game_id": null,
       "logo_path": "logo_old.png"
     }
-  ]
+  ],
+  "igdb_game_id": "marvel-vs-capcom-infinite-and-beyond",
+  "variant_to_codename": {
+    "Power Stone": {
+      "codename": "PowerGemV"
+    },
+    "Time Stone": {
+      "codename": "TimeGemV"
+    },
+    "Reality Stone": {
+      "codename": "RealityGemV"
+    },
+    "Space Stone": {
+      "codename": "SpaceGemV"
+    },
+    "Mind Stone": {
+      "codename": "MindGemV"
+    },
+    "Soul Stone": {
+      "codename": "SoulGemV"
+    }
+  }
 }

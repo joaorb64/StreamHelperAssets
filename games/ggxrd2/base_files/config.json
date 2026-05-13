@@ -1,7 +1,6 @@
 {
   "name": "Guilty Gear Xrd REV 2",
   "smashgg_game_id": 36,
-  "parrygg_game_slug": "guilty-gear-xrd-rev-2",
   "challonge_game_id": null,
   "character_to_codename": {
     "Answer": {
@@ -106,7 +105,8 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
-  "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/Guilty_Gear_Xrd_REV_2)"
+  "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/Guilty_Gear_Xrd_REV_2)",
+  "igdb_game_id": "guilty-gear-xrd-rev-2"
 }

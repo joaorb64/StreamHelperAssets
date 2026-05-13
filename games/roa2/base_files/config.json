@@ -266,6 +266,18 @@
         },
         "84": {
           "name": "Primal - Orange"
+        },
+        "85": {
+          "name": "Lovers"
+        },
+        "86": {
+          "name": "Lovers - Blue"
+        },
+        "87": {
+          "name": "Lovers - Green"
+        },
+        "88": {
+          "name": "Lovers - Red"
         }
       }
     },
@@ -572,6 +584,9 @@
         },
         "99": {
           "name": "Lovers - Red"
+        },
+        "100": {
+          "name": "Lovers - Cool Blue"
         }
       }
     },
@@ -1082,6 +1097,18 @@
         },
         "85": {
           "name": "Plushie - Green"
+        },
+        "86": {
+          "name": "Pajama"
+        },
+        "87": {
+          "name": "Pajama - Blue"
+        },
+        "88": {
+          "name": "Pajama - Green"
+        },
+        "89": {
+          "name": "Pajama - Red"
         }
       }
     },
@@ -1343,6 +1370,9 @@
         },
         "84": {
           "name": "Lovers - Black"
+        },
+        "85": {
+          "name": "Night Owl - Cool Blue"
         }
       }
     },
@@ -1586,6 +1616,9 @@
         },
         "78": {
           "name": "Default - Pink"
+        },
+        "79": {
+          "name": "Abyss - Midnight"
         }
       }
     },
@@ -2120,6 +2153,18 @@
         },
         "78": {
           "name": "Lovers - Red"
+        },
+        "79": {
+          "name": "Lovers - Cool Blue"
+        },
+        "80": {
+          "name": "Lovers - Mint"
+        },
+        "81": {
+          "name": "Lovers - White"
+        },
+        "82": {
+          "name": "Lovers - Gold"
         }
       }
     },
@@ -2249,6 +2294,30 @@
         },
         "40": {
           "name": "Evo - Red"
+        },
+        "41": {
+          "name": "Champion"
+        },
+        "42": {
+          "name": "Champion - Blue"
+        },
+        "43": {
+          "name": "Champion - Green"
+        },
+        "44": {
+          "name": "Champion - Red"
+        },
+        "45": {
+          "name": "Pajama"
+        },
+        "46": {
+          "name": "Pajama - Blue"
+        },
+        "47": {
+          "name": "Pajama - Green"
+        },
+        "48": {
+          "name": "Pajama - Red"
         }
       }
     },
@@ -2486,6 +2555,9 @@
         },
         "76": {
           "name": "Default - Pink"
+        },
+        "77": {
+          "name": "Hearts - Mint"
         }
       }
     },
@@ -2717,6 +2789,18 @@
         },
         "74": {
           "name": "Ranger - Tactical"
+        },
+        "75": {
+          "name": "Quilted"
+        },
+        "76": {
+          "name": "Quilted - Blue"
+        },
+        "77": {
+          "name": "Quilted - Green"
+        },
+        "78": {
+          "name": "Quilted - Red"
         }
       }
     },
@@ -3113,6 +3197,12 @@
         },
         "60": {
           "name": "Primal - Red"
+        },
+        "61": {
+          "name": "Baker - Black"
+        },
+        "62": {
+          "name": "Default - Purple"
         }
       }
     },
@@ -3539,6 +3629,9 @@
         },
         "24": {
           "name": "Zebra - Red"
+        },
+        "25": {
+          "name": "Default - Purple"
         }
       }
     }
@@ -3547,8 +3640,7 @@
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "parrygg_game_slug": "rivals-of-aether-ii",
-  "version": "26.04.30.2083",
+  "version": "26.05.09.53991",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest",
@@ -3792,6 +3884,28 @@
       "locale": {
         "fr": "Joueur 5 (En ligne)"
       }
+    },
+    {
+      "name": "Red Team",
+      "value": "f35151",
+      "locale": {
+        "fr": "\u00c9quipe Rouge"
+      }
+    },
+    {
+      "name": "Blue Team",
+      "value": "5160f7",
+      "locale": {
+        "fr": "\u00c9quipe Bleue"
+      }
+    },
+    {
+      "name": "Green Team",
+      "value": "87eb88",
+      "locale": {
+        "fr": "\u00c9quipe Verte"
+      }
     }
-  ]
+  ],
+  "igdb_game_id": "rivals-of-aether-ii"
 }

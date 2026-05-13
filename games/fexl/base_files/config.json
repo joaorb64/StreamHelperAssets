@@ -58,7 +58,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "25.05.29.53856",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.\nNote: Also compatible with Fighting EX Layer: Another Dash",
   "credits": "",
   "locale": {
@@ -70,7 +70,8 @@
     {
       "name": "Fighting EX Layer: Another Dash",
       "smashgg_game_id": 39242,
-      "logo_path": "logo_alt1.png"
+      "logo_path": "logo_alt1.png",
+      "igdb_game_id": "fighting-ex-layer-another-dash"
     }
   ],
   "variant_to_codename": {
@@ -119,5 +120,6 @@
     "Thunderbolt": {
       "codename": "Thunderbolt"
     }
-  }
+  },
+  "igdb_game_id": "fighting-ex-layer"
 }

@@ -9,7 +9,6 @@
     }
   },
   "smashgg_game_id": 1,
-  "parrygg_game_slug": "super-smash-bros-melee",
   "challonge_game_id": 394,
   "character_to_codename": {
     "Mario": {
@@ -816,7 +815,7 @@
       }
     }
   },
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "preset_colors": [
     {
@@ -855,5 +854,6 @@
       }
     }
   ],
-  "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)"
+  "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
+  "igdb_game_id": "super-smash-bros-melee"
 }

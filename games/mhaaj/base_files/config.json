@@ -217,6 +217,9 @@
     },
     "Star & Stripe": {
       "codename": "StarStripe"
+    },
+    "Nana Shimura": {
+      "codename": "Nana"
     }
   },
   "credits": "Assets ripped from https://mhaaj.bn-ent.net/character/all.php",
@@ -224,9 +227,10 @@
   "name": "My Hero Academia: All's Justice",
   "smashgg_game_id": 114435,
   "stage_to_codename": {},
-  "version": "26.02.26.43498",
+  "version": "26.05.07.42735",
   "defaults": {
     "players_per_team": 1,
     "characters_per_player": 3
-  }
+  },
+  "igdb_game_id": "my-hero-academia-alls-justice"
 }

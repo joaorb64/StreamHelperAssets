@@ -1,7 +1,6 @@
 {
   "name": "Melty Blood: Type Lumina",
   "smashgg_game_id": 36865,
-  "parrygg_game_slug": "melty-blood-type-lumina",
   "challonge_game_id": 251352,
   "character_to_codename": {
     "Shiki Tohno": {
@@ -94,12 +93,13 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)",
   "locale": {
     "ja": {
       "name": "MELTY BLOOD: TYPE LUMINA"
     }
-  }
+  },
+  "igdb_game_id": "melty-blood-type-lumina"
 }

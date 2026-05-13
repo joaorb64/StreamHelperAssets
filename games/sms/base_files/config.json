@@ -1,7 +1,6 @@
 {
   "name": "Super Mario Strikers",
   "smashgg_game_id": 5764,
-  "parrygg_game_slug": "super-mario-strikers",
   "challonge_game_id": 1473,
   "character_to_codename": {
     "Mario": {
@@ -156,7 +155,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
@@ -190,5 +189,6 @@
     "ja": {
       "name": "\u30b9\u30fc\u30d1\u30fc\u30de\u30ea\u30aa\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\u30ba"
     }
-  }
+  },
+  "igdb_game_id": "super-mario-strikers"
 }

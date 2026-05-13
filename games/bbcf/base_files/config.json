@@ -2,7 +2,6 @@
   "name": "BlazBlue: Central Fiction",
   "challonge_game_id": 55777,
   "smashgg_game_id": 37,
-  "parrygg_game_slug": "blazblue-central-fiction",
   "character_to_codename": {
     "Amane Nishiki": {
       "codename": "AmaneNishiki",
@@ -150,12 +149,13 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
   "locale": {
     "ja": {
       "name": "BlazBlue: Centralfiction"
     }
-  }
+  },
+  "igdb_game_id": "blazblue-central-fiction"
 }

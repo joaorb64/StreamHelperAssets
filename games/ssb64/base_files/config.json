@@ -12,7 +12,6 @@
     }
   },
   "smashgg_game_id": 4,
-  "parrygg_game_slug": "super-smash-bros",
   "challonge_game_id": 392,
   "character_to_codename": {
     "Mario": {
@@ -1373,7 +1372,7 @@
       "modded": true
     }
   },
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "alternate_versions": [
     {
@@ -1382,5 +1381,6 @@
       "logo_path": "logo_rmx.png"
     }
   ],
-  "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)"
+  "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
+  "igdb_game_id": "super-smash-bros"
 }

@@ -6,7 +6,7 @@
   "type": [
     "full"
   ],
-  "version": "26.03.26.44721",
+  "version": "26.05.12.66683",
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
   "uncropped_edge": [
     "u",
@@ -86,6 +86,18 @@
         "x": 853,
         "y": 691
       }
+    },
+    "Hulk": {
+      "0": {
+        "x": 793,
+        "y": 530
+      }
+    },
+    "Shuri": {
+      "0": {
+        "x": 660,
+        "y": 432
+      }
     }
   },
   "image_sizes": {
@@ -113,6 +125,12 @@
         "y": 1925
       }
     },
+    "Hulk": {
+      "0": {
+        "x": 1600,
+        "y": 1926
+      }
+    },
     "IronMan": {
       "0": {
         "x": 1600,
@@ -132,6 +150,12 @@
       }
     },
     "Peni": {
+      "0": {
+        "x": 1600,
+        "y": 1925
+      }
+    },
+    "Shuri": {
       "0": {
         "x": 1600,
         "y": 1925
@@ -164,6 +188,6 @@
   },
   "average_size": {
     "x": 1600.0,
-    "y": 1918.0
+    "y": 1919.0714285714287
   }
 }

@@ -54,8 +54,7 @@
   "description": "Base config to use this game.",
   "name": "Lethal League Blaze",
   "smashgg_game_id": 2868,
-  "parrygg_game_slug": "lethal-league-blaze",
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "stage_to_codename": {
     "Scrap Desert": {
       "codename": "desert"
@@ -87,5 +86,6 @@
     "The Subways": {
       "codename": "subway"
     }
-  }
+  },
+  "igdb_game_id": "lethal-league-blaze"
 }

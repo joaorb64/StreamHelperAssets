@@ -395,8 +395,7 @@
   "description": "Base config to use this game.",
   "name": "Mario Kart Wii",
   "smashgg_game_id": 5757,
-  "parrygg_game_slug": "mario-kart-wii",
-  "version": "26.04.30.2083",
+  "version": "26.05.02.40426",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c8Wii"
@@ -649,5 +648,6 @@
     "Phantom": {
       "codename": "Phantom"
     }
-  }
+  },
+  "igdb_game_id": "mario-kart-wii"
 }

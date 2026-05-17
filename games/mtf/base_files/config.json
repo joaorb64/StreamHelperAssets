@@ -14,7 +14,8 @@
         "pt_PT": "Luigi Beb\u00e9",
         "ru": "\u041c\u0430\u043b\u044b\u0448 \u041b\u0443\u0438\u0434\u0436\u0438",
         "pt_BR": "Beb\u00ea Luigi"
-      }
+      },
+      "smashgg_name": "Baby Luigi"
     },
     "Baby Mario": {
       "codename": "BabyMario",
@@ -29,7 +30,8 @@
         "pt_PT": "Mario Beb\u00e9",
         "ru": "\u041c\u0430\u043b\u044b\u0448 \u041c\u0430\u0440\u0438\u043e",
         "pt_BR": "Beb\u00ea Mario"
-      }
+      },
+      "smashgg_name": "Baby Mario"
     },
     "Baby Peach": {
       "codename": "BabyPeach",
@@ -44,7 +46,8 @@
         "pt_PT": "Peach Beb\u00e9",
         "ru": "\u041c\u0430\u043b\u044b\u0448\u043a\u0430 \u041f\u0438\u0447",
         "pt_BR": "Beb\u00ea Peach"
-      }
+      },
+      "smashgg_name": "Baby Peach"
     },
     "Baby Waluigi": {
       "codename": "BabyWaluigi",
@@ -57,7 +60,8 @@
         "es": "Beb\u00e9 Waluigi",
         "pt_BR": "Beb\u00ea Waluigi",
         "pt_PT": "Waluigi beb\u00e9"
-      }
+      },
+      "smashgg_name": "Baby Waluigi"
     },
     "Baby Wario": {
       "codename": "BabyWario",
@@ -70,7 +74,8 @@
         "es": "Beb\u00e9 Wario",
         "pt_BR": "Beb\u00ea Wario",
         "pt_PT": "Wario beb\u00e9"
-      }
+      },
+      "smashgg_name": "Baby Wario"
     },
     "Birdo": {
       "codename": "Birdo",
@@ -81,7 +86,8 @@
         "ko": "\uce90\uc11c\ub9b0",
         "it": "Strutzi",
         "ru": "\u0411\u0438\u0440\u0434\u043e"
-      }
+      },
+      "smashgg_name": "Birdo"
     },
     "Blooper": {
       "codename": "Blooper",
@@ -93,7 +99,8 @@
         "fr": "Bloups",
         "it": "Calamako",
         "ru": "\u0411\u043b\u0443\u043f\u0435\u0440"
-      }
+      },
+      "smashgg_name": "Blooper"
     },
     "Boo": {
       "codename": "Boo",
@@ -109,7 +116,8 @@
         "es_LA": "Boo",
         "pt_PT": "Bu",
         "ru": "\u0411\u0443"
-      }
+      },
+      "smashgg_name": "Boo"
     },
     "Boom Boom": {
       "codename": "BoomBoom",
@@ -126,7 +134,8 @@
         "pt_BR": "Dom Dom",
         "pt_PT": "Bum Bum",
         "ru": "\u0411\u0443\u043c-\u0431\u0443\u043c"
-      }
+      },
+      "smashgg_name": "Boom Boom"
     },
     "Bowser": {
       "codename": "Bowser",
@@ -143,7 +152,8 @@
         "ko": "\ucfe0\ud30c",
         "zh_TW": "\u5eab\u5df4",
         "zh_CN": "\u9177\u9738"
-      }
+      },
+      "smashgg_name": "Bowser"
     },
     "Bowser Jr.": {
       "codename": "BowserJr",
@@ -162,7 +172,8 @@
         "ko": "\ucfe0\ud30c\uc8fc\ub2c8\uc5b4",
         "zh_TW": "\u5eab\u5df4Jr.",
         "zh_CN": "\u9177\u9738\u738bJr."
-      }
+      },
+      "smashgg_name": "Bowser Jr."
     },
     "Chain Chomp": {
       "codename": "ChainChomp",
@@ -180,7 +191,8 @@
         "pt_PT": "Corrente Dentada",
         "pt_BR": "Chomp Chomp",
         "ru": "\u041a\u0443\u0441\u0430\u043b\u043a\u0438\u043d \u043d\u0430 \u0446\u0435\u043f\u0438"
-      }
+      },
+      "smashgg_name": "Chain Chomp"
     },
     "Daisy": {
       "codename": "Daisy",
@@ -197,7 +209,8 @@
         "ko": "\ub370\uc774\uc9c0",
         "zh_TW": "\u9edb\u897f\u516c\u4e3b",
         "zh_CN": "\u9edb\u897f\u516c\u4e3b"
-      }
+      },
+      "smashgg_name": "Daisy"
     },
     "Diddy Kong": {
       "codename": "DiddyKong",
@@ -207,7 +220,8 @@
         "zh_TW": "\u72c4\u72c4\u525b",
         "ko": "\ub514\ub514\ucf69",
         "ru": "\u0414\u0438\u0434\u0434\u0438 \u041a\u043e\u043d\u0433"
-      }
+      },
+      "smashgg_name": "Diddy Kong"
     },
     "Donkey Kong": {
       "codename": "DonkeyKong",
@@ -224,7 +238,8 @@
         "ko": "\ub3d9\ud0a4\ucf69",
         "zh_TW": "\u549a\u5947\u525b",
         "zh_CN": "\u549a\u5947\u521a"
-      }
+      },
+      "smashgg_name": "Donkey Kong"
     },
     "Dry Bones": {
       "codename": "DryBones",
@@ -242,7 +257,8 @@
         "pt_PT": "Quebra-ossos",
         "ru": "\u041a\u0443\u043f\u0430-\u0441\u043a\u0435\u043b\u0435\u0442",
         "pt_BR": "Caveirinha"
-      }
+      },
+      "smashgg_name": "Dry Bones"
     },
     "Dry Bowser": {
       "codename": "DryBowser",
@@ -259,7 +275,8 @@
         "pt_PT": "Bowser Esqueleto",
         "ru": "\u0411\u043e\u0443\u0437\u0435\u0440-\u0441\u043a\u0435\u043b\u0435\u0442",
         "pt_BR": "Bowsosso"
-      }
+      },
+      "smashgg_name": "Dry Bowser"
     },
     "Goomba": {
       "codename": "Goomba",
@@ -279,7 +296,8 @@
         "ru": "\u0413\u0443\u043c\u0431\u0430",
         "es": "Goomba",
         "es_LA": "Goomba"
-      }
+      },
+      "smashgg_name": "Goomba"
     },
     "Kamek": {
       "codename": "Kamek",
@@ -289,7 +307,8 @@
         "zh_TW": "\u5361\u7f8e\u514b",
         "ko": "\ub9c8\uadc0",
         "ru": "\u041a\u0430\u043c\u0435\u043a"
-      }
+      },
+      "smashgg_name": "Kamek"
     },
     "Koopa Paratroopa": {
       "codename": "KoopaParatroopa",
@@ -302,7 +321,8 @@
         "de": "Paratroopa",
         "it": "Paratroopa",
         "ru": "\u041b\u0435\u0442\u0443\u0447\u0438\u0439 \u043a\u0443\u043f\u0430"
-      }
+      },
+      "smashgg_name": "Koopa Paratroopa"
     },
     "Koopa Troopa": {
       "codename": "KoopaTroopa",
@@ -315,7 +335,8 @@
         "de": "Koopa",
         "it": "Koopa",
         "ru": "\u041a\u0443\u043f\u0430-\u0442\u0440\u0443\u043f\u0430"
-      }
+      },
+      "smashgg_name": "Koopa Troopa"
     },
     "Luigi": {
       "codename": "Luigi",
@@ -334,7 +355,8 @@
         "ko": "\ub8e8\uc774\uc9c0",
         "zh_TW": "\u8def\u6613\u5409",
         "zh_CN": "\u8def\u6613\u5409"
-      }
+      },
+      "smashgg_name": "Luigi"
     },
     "Luma": {
       "codename": "Luma",
@@ -347,7 +369,8 @@
         "es": "Destello",
         "es_LA": "Destello",
         "ru": "\u041b\u044e\u043c\u0430"
-      }
+      },
+      "smashgg_name": "Luma"
     },
     "Mario": {
       "codename": "Mario",
@@ -366,7 +389,8 @@
         "ko": "\ub9c8\ub9ac\uc624",
         "zh_TW": "\u746a\u5229\u6b50",
         "zh_CN": "\u9a6c\u529b\u6b27"
-      }
+      },
+      "smashgg_name": "Mario"
     },
     "Nabbit": {
       "codename": "Nabbit",
@@ -386,7 +410,8 @@
         "ru": "\u041a\u0440\u0430\u043b\u0438\u043a",
         "es_LA": "Caco Gazapo",
         "es": "Caco Gazapo"
-      }
+      },
+      "smashgg_name": "Nabbit"
     },
     "Pauline": {
       "codename": "Pauline",
@@ -396,7 +421,8 @@
         "zh_TW": "\u6ce2\u7433",
         "ko": "\ud3f4\ub9b0",
         "ru": "\u041f\u043e\u043b\u0438\u043d\u0430"
-      }
+      },
+      "smashgg_name": "Pauline"
     },
     "Peach": {
       "codename": "Peach",
@@ -413,7 +439,8 @@
         "ko": "\ud53c\uce58\uacf5\uc8fc",
         "zh_TW": "\u78a7\u59ec\u516c\u4e3b",
         "zh_CN": "\u78a7\u59ec\u516c\u4e3b"
-      }
+      },
+      "smashgg_name": "Peach"
     },
     "Petey Piranha": {
       "codename": "PeteyPiranha",
@@ -428,7 +455,8 @@
         "zh_CN": "\u541e\u98df\u82b1\u8001\u5927",
         "zh_TW": "\u541e\u98df\u82b1\u8001\u5927",
         "fr_CA": "Petey Piranha"
-      }
+      },
+      "smashgg_name": "Petey Piranha"
     },
     "Piranha Plant": {
       "codename": "PiranhaPlant",
@@ -446,7 +474,8 @@
         "ru": "\u0420\u0430\u0441\u0442\u0435\u043d\u0438\u0435-\u043f\u0438\u0440\u0430\u043d\u044c\u044f",
         "de": "Piranha-Pflanze",
         "nl": "Piranha Plant"
-      }
+      },
+      "smashgg_name": "Piranha Plant"
     },
     "Rosalina": {
       "codename": "Rosalina",
@@ -461,7 +490,8 @@
         "es": "Estela",
         "es_LA": "Rosalina",
         "ru": "\u0420\u043e\u0437\u0430\u043b\u0438\u043d\u0430"
-      }
+      },
+      "smashgg_name": "Rosalina"
     },
     "Shy Guy": {
       "codename": "ShyGuy",
@@ -475,7 +505,8 @@
         "it": "Tipo Timido",
         "pt_PT": "Masquito",
         "ru": "\u0421\u043a\u0440\u043e\u043c\u043d\u044f\u0433\u0430"
-      }
+      },
+      "smashgg_name": "Shy Guy"
     },
     "Spike": {
       "codename": "Spike",
@@ -488,7 +519,8 @@
         "pt_PT": "Espig\u00e3o",
         "es_LA": "Escupicos",
         "ru": "\u0421\u043f\u0430\u0439\u043a"
-      }
+      },
+      "smashgg_name": "Spike"
     },
     "Toad": {
       "codename": "Toad",
@@ -498,7 +530,8 @@
         "zh_TW": "\u5947\u8afe\u6bd4\u5967",
         "ko": "\ud0a4\ub178\ud53c\uc624",
         "ru": "\u0422\u043e\u0430\u0434"
-      }
+      },
+      "smashgg_name": "Toad"
     },
     "Toadette": {
       "codename": "Toadette",
@@ -508,7 +541,8 @@
         "zh_TW": "\u5947\u8afe\u6bd4\u73c2",
         "ko": "\ud0a4\ub178\ud53c\ucf54",
         "ru": "\u0422\u043e\u0430\u0434\u0435\u0442\u0442\u0430"
-      }
+      },
+      "smashgg_name": "Toadette"
     },
     "Waluigi": {
       "codename": "Waluigi",
@@ -518,7 +552,8 @@
         "zh_TW": "\u74e6\u8def\u6613\u5409",
         "ko": "\uc640\ub8e8\uc774\uc9c0",
         "ru": "\u0412\u0430\u043b\u0443\u0438\u0434\u0436\u0438"
-      }
+      },
+      "smashgg_name": "Waluigi"
     },
     "Wario": {
       "codename": "Wario",
@@ -537,7 +572,8 @@
         "ko": "\uc640\ub9ac\uc624",
         "zh_TW": "\u74e6\u5229\u6b50",
         "zh_CN": "\u74e6\u529b\u6b27"
-      }
+      },
+      "smashgg_name": "Wario"
     },
     "Wiggler": {
       "codename": "Wiggler",
@@ -551,7 +587,8 @@
         "pt_BR": "Wiggler",
         "pt_PT": "Lagartola",
         "it": "Torcibruco"
-      }
+      },
+      "smashgg_name": "Wiggler"
     },
     "Yoshi": {
       "codename": "Yoshi",
@@ -570,7 +607,8 @@
         "ko": "\uc694\uc2dc",
         "zh_TW": "\u8000\u897f",
         "zh_CN": "\u8000\u897f"
-      }
+      },
+      "smashgg_name": "Yoshi"
     }
   },
   "credits": "",

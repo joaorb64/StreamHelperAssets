@@ -108,5 +108,10 @@
       "logo_path": "logo_lr.png"
     }
   ],
-  "igdb_game_id": "dead-or-alive-6"
+  "igdb_game_id": "dead-or-alive-6",
+  "locale": {
+    "ja": {
+      "name": "デッド オア アライブ6"
+    }
+  }
 }

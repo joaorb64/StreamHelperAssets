@@ -120,5 +120,10 @@
   "version": "26.05.05.70173",
   "description": "Base config to use this game.",
   "credits": "\u00a9 FRENCH-BREAD / ARC SYSTEM WORKS\n\nUNDER NIGHT IN-BIRTH II Sys:Celes Official Site: https://www.arcsystemworks.jp/uni2celes/en/\nUNDER NIGHT IN-BIRTH II Sys:Celes Fan Kit: https://www.arcsystemworks.jp/uni2celes/en/fankit/\nThe rights to the data included within are held by Arc System Works.",
-  "igdb_game_id": "under-night-in-birth-ii-sys-celes"
+  "igdb_game_id": "under-night-in-birth-ii-sys-celes",
+  "locale": {
+    "ko": {
+      "name": "\uc5b8\ub354 \ub098\uc774\ud2b8 \uc778\ubc84\uc2a4 2 \uc2dc\uc2a4\ud0c0\uc140\ub808\uc2a4"
+    }
+  }
 }

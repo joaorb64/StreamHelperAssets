@@ -116,5 +116,10 @@
   "smashgg_game_id": 4889,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "tekken-5-dark-resurrection"
+  "igdb_game_id": "tekken-5-dark-resurrection",
+  "locale": {
+    "ja": {
+      "name": "\u9244\u62f35 Dark Resurrection"
+    }
+  }
 }

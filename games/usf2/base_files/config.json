@@ -63,5 +63,10 @@
   "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Portraits ripped by @joao_shino",
-  "igdb_game_id": "ultra-street-fighter-ii-the-final-challengers"
+  "igdb_game_id": "ultra-street-fighter-ii-the-final-challengers",
+  "locale": {
+    "ja": {
+      "name": "\u30a6\u30eb\u30c8\u30e9\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc II \u30b6\u30fb\u30d5\u30a1\u30a4\u30ca\u30eb\u30c1\u30e3\u30ec\u30f3\u30b8\u30e3\u30fc\u30ba"
+    }
+  }
 }

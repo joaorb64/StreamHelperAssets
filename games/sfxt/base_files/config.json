@@ -177,5 +177,10 @@
     "players_per_team": 1,
     "characters_per_player": 2
   },
-  "igdb_game_id": "street-fighter-x-tekken"
+  "igdb_game_id": "street-fighter-x-tekken",
+  "locale": {
+    "ja": {
+      "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc \uff38 \u9244\u62f3"
+    }
+  }
 }

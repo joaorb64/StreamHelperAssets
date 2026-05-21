@@ -116,5 +116,13 @@
   "smashgg_game_id": 10054,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "dead-or-alive-5-last-round--1"
+  "igdb_game_id": "dead-or-alive-5-last-round--1",
+  "locale": {
+    "ja": {
+      "name": "\u30c7\u30c3\u30c9\u30aa\u30a2\u30a2\u30e9\u30a4\u30d6 5 \u30e9\u30b9\u30c8 \u30e9\u30a6\u30f3\u30c9"
+    },
+    "ko": {
+      "name": "\ub370\ub4dc \uc624\uc5b4 \uc5bc\ub77c\uc774\ube0c 5: \ub77c\uc2a4\ud2b8 \ub77c\uc6b4\ub4dc"
+    }
+  }
 }

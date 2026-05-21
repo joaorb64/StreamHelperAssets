@@ -59,5 +59,10 @@
   "smashgg_game_id": 9973,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "x-men-vs-street-fighter"
+  "igdb_game_id": "x-men-vs-street-fighter",
+  "locale": {
+    "ja": {
+      "name": "\u30a8\u30c3\u30af\u30b9\u30e1\u30f3 vs. \u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc"
+    }
+  }
 }

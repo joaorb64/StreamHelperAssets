@@ -89,5 +89,13 @@
   "name": "Astro Bears",
   "smashgg_game_id": 37619,
   "version": "26.05.02.40426",
-  "igdb_game_id": "astro-bears"
+  "igdb_game_id": "astro-bears",
+  "locale": {
+    "ja": {
+      "name": "\u30a2\u30b9\u30c8\u30ed\u30d9\u30a2\u30fc\u30ba"
+    },
+    "ko": {
+      "name": "\uc544\uc2a4\ud2b8\ub85c \ubca0\uc5b4\uc2a4"
+    }
+  }
 }

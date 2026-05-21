@@ -1530,5 +1530,13 @@
     }
   },
   "version": "26.05.17.64307",
-  "igdb_game_id": "mario-kart-world"
+  "igdb_game_id": "mario-kart-world",
+  "locale": {
+    "ko": {
+      "name": "\ub9c8\ub9ac\uc624 \uce74\ud2b8 \uc6d4\ub4dc"
+    },
+    "ja": {
+      "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c8 \u30ef\u30fc\u30eb\u30c9"
+    }
+  }
 }

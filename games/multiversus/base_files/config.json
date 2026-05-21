@@ -257,5 +257,10 @@
     "players_per_team": 2,
     "characters_per_player": 1
   },
-  "igdb_game_id": "multiversus"
+  "igdb_game_id": "multiversus",
+  "locale": {
+    "ko": {
+      "name": "\uba40\ud2f0\ubc84\uc11c\uc2a4"
+    }
+  }
 }

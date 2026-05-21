@@ -132,5 +132,13 @@
   "smashgg_game_id": 5711,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "super-mario-kart"
+  "igdb_game_id": "super-mario-kart",
+  "locale": {
+    "ko": {
+      "name": "\uc288\ud37c \ub9c8\ub9ac\uc624 \uce74\ud2b8"
+    },
+    "ja": {
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30de\u30ea\u30aa\u30ab\u30fc\u30c8"
+    }
+  }
 }

@@ -59,5 +59,13 @@
   "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Fate_Unlimited_Codes)",
-  "igdb_game_id": "fate-slash-unlimited-codes"
+  "igdb_game_id": "fate-slash-unlimited-codes",
+  "locale": {
+    "ja": {
+      "name": "\u30d5\u30a7\u30a4\u30c8 \u30a2\u30f3\u30ea\u30df\u30c6\u30c3\u30c9\u30b3\u30fc\u30c9"
+    },
+    "ko": {
+      "name": "\ud398\uc774\ud2b8/\uc5b8\ub9ac\ubbf8\ud2f0\ub4dc \ucf54\ub4dc"
+    }
+  }
 }

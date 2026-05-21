@@ -46,5 +46,13 @@
   "smashgg_game_id": 4896,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "new-super-mario-bros"
+  "igdb_game_id": "new-super-mario-bros",
+  "locale": {
+    "ja": {
+      "name": "New \u30b9\u30fc\u30d1\u30fc\u30de\u30ea\u30aa\u30d6\u30e9\u30b6\u30fc\u30ba"
+    },
+    "ko": {
+      "name": "\ub274 \uc288\ud37c \ub9c8\ub9ac\uc624\ube0c\ub77c\ub354\uc2a4"
+    }
+  }
 }

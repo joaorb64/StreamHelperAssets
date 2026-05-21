@@ -84,5 +84,10 @@
     }
   },
   "version": "26.05.12.66683",
-  "igdb_game_id": "marvel-tokon-fighting-souls"
+  "igdb_game_id": "marvel-tokon-fighting-souls",
+  "locale": {
+    "ja": {
+      "name": "\u30de\u30fc\u30d9\u30eb\u30fb\u95d8\u9b42"
+    }
+  }
 }

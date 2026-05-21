@@ -44,5 +44,10 @@
   "smashgg_game_id": 37000,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "far-east-of-eden-kabuki-klash"
+  "igdb_game_id": "far-east-of-eden-kabuki-klash",
+  "locale": {
+    "ja": {
+      "name": "\u5929\u5916\u9b54\u5883\u771f\u4f1d"
+    }
+  }
 }

@@ -120,5 +120,10 @@
   "smashgg_game_id": 73221,
   "stage_to_codename": {},
   "version": "26.05.05.70173",
-  "igdb_game_id": "fatal-fury-city-of-the-wolves"
+  "igdb_game_id": "fatal-fury-city-of-the-wolves",
+  "locale": {
+    "ja": {
+      "name": "\u9913\u72fc\u4f1d\u8aac City of the Wolves"
+    }
+  }
 }

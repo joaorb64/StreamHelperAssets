@@ -227,5 +227,10 @@
       "codename": "bo"
     }
   },
-  "igdb_game_id": "mortal-kombat-1--1"
+  "igdb_game_id": "mortal-kombat-1--1",
+  "locale": {
+    "ja": {
+      "name": "\u30e2\u30fc\u30bf\u30eb\u30b3\u30f3\u30d0\u30c3\u30c81"
+    }
+  }
 }

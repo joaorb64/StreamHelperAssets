@@ -50,5 +50,10 @@
   "smashgg_game_id": 9704,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "sonic-adventure-2-battle"
+  "igdb_game_id": "sonic-adventure-2-battle",
+  "locale": {
+    "ja": {
+      "name": "\u30bd\u30cb\u30c3\u30af\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc2 \u30d0\u30c8\u30eb"
+    }
+  }
 }

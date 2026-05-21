@@ -8,6 +8,7 @@ beautifulsoup4 = "*"
 requests = "*"
 pillow = "*"
 pillow-avif-plugin = "*"
+igdb-api-v4 = "*"
 
 [dev-packages]
 

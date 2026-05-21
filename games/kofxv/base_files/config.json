@@ -200,5 +200,13 @@
     "players_per_team": 1,
     "characters_per_player": 3
   },
-  "igdb_game_id": "the-king-of-fighters-xv"
+  "igdb_game_id": "the-king-of-fighters-xv",
+  "locale": {
+    "ko": {
+      "name": "\ub354 \ud0b9 \uc624\ube0c \ud30c\uc774\ud130\uc988 XV"
+    },
+    "ja": {
+      "name": "\u30b6\u30fb\u30ad\u30f3\u30b0\u30fb\u30aa\u30d6\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba \u30d5\u30a3\u30d5\u30c6\u30a3\u30fc\u30f3"
+    }
+  }
 }

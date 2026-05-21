@@ -254,5 +254,13 @@
     }
   },
   "version": "26.05.05.70173",
-  "igdb_game_id": "tekken-8"
+  "igdb_game_id": "tekken-8",
+  "locale": {
+    "ko": {
+      "name": "\ucca0\uad8c 8"
+    },
+    "ja": {
+      "name": "\u9244\u62f38"
+    }
+  }
 }

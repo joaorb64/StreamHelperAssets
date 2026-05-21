@@ -56,5 +56,10 @@
   "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Koihime_Enbu/RyoRaiRai_V3)",
-  "igdb_game_id": "koihime-enbu-ryorairai-version-3"
+  "igdb_game_id": "koihime-enbu-ryorairai-version-3",
+  "locale": {
+    "ja": {
+      "name": "\u604b\u59eb\u2020\u6f14\u6b66 \u907c\u6765\u6765 \u30d0\u30fc\u30b8\u30e7\u30f3 3"
+    }
+  }
 }

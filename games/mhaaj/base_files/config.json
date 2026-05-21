@@ -232,5 +232,13 @@
     "players_per_team": 1,
     "characters_per_player": 3
   },
-  "igdb_game_id": "my-hero-academia-alls-justice"
+  "igdb_game_id": "my-hero-academia-alls-justice",
+  "locale": {
+    "ja": {
+      "name": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 All\u2019s Justice"
+    },
+    "ko": {
+      "name": "\ub098\uc758 \ud788\uc5b4\ub85c \uc544\uce74\ub370\ubbf8\uc544 \uc62c\uc988 \uc800\uc2a4\ud2f0\uc2a4"
+    }
+  }
 }

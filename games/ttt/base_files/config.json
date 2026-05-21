@@ -144,5 +144,13 @@
     "players_per_team": 1,
     "characters_per_player": 2
   },
-  "igdb_game_id": "tekken-tag-tournament--1"
+  "igdb_game_id": "tekken-tag-tournament--1",
+  "locale": {
+    "ja": {
+      "name": "\u9244\u62f3\u30bf\u30c3\u30b0\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8"
+    },
+    "ko": {
+      "name": "\ucca0\uad8c \ud0dc\uadf8 \ud1a0\ub108\uba3c\ud2b8"
+    }
+  }
 }

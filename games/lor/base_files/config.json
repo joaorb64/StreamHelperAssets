@@ -41,5 +41,13 @@
   "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Files from the Riot Developer Portal for Legends of Runeterra's Data Dragon",
-  "igdb_game_id": "legends-of-runeterra"
+  "igdb_game_id": "legends-of-runeterra",
+  "locale": {
+    "ko": {
+      "name": "\ub808\uc804\ub4dc \uc624\ube0c \ub8ec\ud14c\ub77c"
+    },
+    "ja": {
+      "name": "\u30ec\u30b8\u30a7\u30f3\u30c9\u30fb\u30aa\u30d6\u30fb\u30eb\u30fc\u30f3\u30c6\u30e9"
+    }
+  }
 }

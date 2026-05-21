@@ -79,5 +79,10 @@
       "codename": "clear"
     }
   },
-  "igdb_game_id": "dnf-duel"
+  "igdb_game_id": "dnf-duel",
+  "locale": {
+    "ko": {
+      "name": "\ub358\uc804\uc564\ud30c\uc774\ud130 \ub4c0\uc5bc"
+    }
+  }
 }

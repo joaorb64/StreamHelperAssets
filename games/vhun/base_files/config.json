@@ -50,5 +50,10 @@
   "smashgg_game_id": 12988,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "night-warriors-darkstalkers-revenge"
+  "igdb_game_id": "night-warriors-darkstalkers-revenge",
+  "locale": {
+    "ja": {
+      "name": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u30cf\u30f3\u30bf\u30fc"
+    }
+  }
 }

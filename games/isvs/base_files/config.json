@@ -176,5 +176,13 @@
   "smashgg_game_id": 60123,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "iron-saga-vs"
+  "igdb_game_id": "iron-saga-vs",
+  "locale": {
+    "ja": {
+      "name": "\u30a2\u30a4\u30a2\u30f3\u30b5\u30fc\u30ac vs."
+    },
+    "ko": {
+      "name": "\uae30\ub3d9\uc804\ub300 VS"
+    }
+  }
 }

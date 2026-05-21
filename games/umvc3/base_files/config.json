@@ -523,5 +523,13 @@
       "codename": "Gamma"
     }
   },
-  "igdb_game_id": "ultimate-marvel-vs-capcom-3"
+  "igdb_game_id": "ultimate-marvel-vs-capcom-3",
+  "locale": {
+    "ja": {
+      "name": "\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8 \u30de\u30fc\u30f4\u30eb vs. \u30ab\u30d7\u30b3\u30f33"
+    },
+    "ko": {
+      "name": "\uc5bc\ud2f0\uba54\uc774\ud2b8 \ub9c8\ube14 \ub300 \ucea1\ucf64 3"
+    }
+  }
 }

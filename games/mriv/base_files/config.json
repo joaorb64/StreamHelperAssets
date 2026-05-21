@@ -159,5 +159,13 @@
   "smashgg_game_id": 80355,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "marvel-rivals"
+  "igdb_game_id": "marvel-rivals",
+  "locale": {
+    "ja": {
+      "name": "\u30de\u30fc\u30d9\u30eb\u30fb\u30e9\u30a4\u30d0\u30eb\u30ba"
+    },
+    "ko": {
+      "name": "\ub9c8\ube14 \ub77c\uc774\ubc8c\uc988"
+    }
+  }
 }

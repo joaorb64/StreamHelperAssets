@@ -99,5 +99,10 @@
       "logo_path": "logo_awbw.png"
     }
   ],
-  "igdb_game_id": "advance-wars-dual-strike"
+  "igdb_game_id": "advance-wars-dual-strike",
+  "locale": {
+    "ja": {
+      "name": "\u30d5\u30a1\u30df\u30b3\u30f3\u30a6\u30a9\u30fc\u30baDS"
+    }
+  }
 }

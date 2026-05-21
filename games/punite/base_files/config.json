@@ -1277,5 +1277,13 @@
     "players_per_team": 5,
     "characters_per_player": 1
   },
-  "igdb_game_id": "pokemon-unite"
+  "igdb_game_id": "pokemon-unite",
+  "locale": {
+    "ja": {
+      "name": "\u30dd\u30b1\u30e2\u30f3\u30e6\u30ca\u30a4\u30c8"
+    },
+    "ko": {
+      "name": "\ud3ec\ucf13\ubaac \uc720\ub098\uc774\ud2b8"
+    }
+  }
 }

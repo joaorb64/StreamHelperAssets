@@ -44,5 +44,10 @@
   "smashgg_game_id": 8103,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "battle-fantasia"
+  "igdb_game_id": "battle-fantasia",
+  "locale": {
+    "ko": {
+      "name": "\ubc30\ud2c0 \ud310\ud0c0\uc9c0\uc544"
+    }
+  }
 }

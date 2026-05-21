@@ -210,5 +210,13 @@
     "players_per_team": 1,
     "characters_per_player": 3
   },
-  "igdb_game_id": "the-king-of-fighters-2002-unlimited-match"
+  "igdb_game_id": "the-king-of-fighters-2002-unlimited-match",
+  "locale": {
+    "ko": {
+      "name": "\ub354 \ud0b9 \uc624\ube0c \ud30c\uc774\ud130\uc988 2002 \uc5b8\ub9ac\ubbf8\ud2f0\ub4dc \ub9e4\uce58"
+    },
+    "ja": {
+      "name": "\u30b6\u30fb\u30ad\u30f3\u30b0\u30fb\u30aa\u30d6\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba 2002\u30c4\u30fc\u30b5\u30a6\u30b6\u30f3\u30c9\u30c4\u30fc \u30a2\u30f3\u30ea\u30df\u30c6\u30c3\u30c9\u30de\u30c3\u30c1"
+    }
+  }
 }

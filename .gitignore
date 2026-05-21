@@ -46,3 +46,4 @@ Pipfile.lock
 utilities/get_icons_from_bulbapedia/forms/*
 utilities/roa_workshop_import/input/*
 utilities/igdb_import/TSH_API_Mappings.csv
+utilities/igdb_translate/credentials.json

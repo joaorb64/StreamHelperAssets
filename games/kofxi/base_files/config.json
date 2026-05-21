@@ -153,5 +153,10 @@
     "players_per_team": 1,
     "characters_per_player": 3
   },
-  "igdb_game_id": "the-king-of-fighters-xi"
+  "igdb_game_id": "the-king-of-fighters-xi",
+  "locale": {
+    "ja": {
+      "name": "\u30b6\u30fb\u30ad\u30f3\u30b0\u30fb\u30aa\u30d6\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba XI"
+    }
+  }
 }

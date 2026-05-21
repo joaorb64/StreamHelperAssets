@@ -949,5 +949,13 @@
   "smashgg_game_id": 73208,
   "stage_to_codename": {},
   "version": "26.05.18.23268",
-  "igdb_game_id": "dragon-ball-sparking-zero"
+  "igdb_game_id": "dragon-ball-sparking-zero",
+  "locale": {
+    "ko": {
+      "name": "\ub4dc\ub798\uace4\ubcfc \uc2a4\ud30c\ud0b9! \uc81c\ub85c"
+    },
+    "ja": {
+      "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb Sparking! Zero"
+    }
+  }
 }

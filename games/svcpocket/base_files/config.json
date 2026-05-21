@@ -86,5 +86,10 @@
   "smashgg_game_id": 40386,
   "stage_to_codename": {},
   "version": "26.05.02.40426",
-  "igdb_game_id": "snk-vs-capcom-the-match-of-the-millennium"
+  "igdb_game_id": "snk-vs-capcom-the-match-of-the-millennium",
+  "locale": {
+    "ja": {
+      "name": "\u9802\u4e0a\u6c7a\u6226 \u6700\u5f37\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba SNK vs. Capcom"
+    }
+  }
 }

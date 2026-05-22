@@ -1,6 +1,6 @@
 {
   "name": "Portraits",
-  "description": "Character portraits",
+  "description": "Character portraits\n",
   "prefix": "file_",
   "postfix": "_",
   "type": [
@@ -55,6 +55,12 @@
       "0": {
         "x": 1321,
         "y": 978
+      }
+    },
+    "Spelunky": {
+      "0": {
+        "x": 1157,
+        "y": 1010
       }
     }
   },

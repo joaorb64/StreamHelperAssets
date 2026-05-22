@@ -3841,7 +3841,10 @@
       }
     },
     "Armada Flagship": {
-      "codename": "ArmadaAlt"
+      "codename": "ArmadaAlt",
+      "locale": {
+        "fr": "Fleuron de l'Armada"
+      }
     }
   },
   "preset_colors": [

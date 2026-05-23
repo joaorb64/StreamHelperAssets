@@ -160,130 +160,256 @@
   "description": "Base config to use this game.",
   "variant_to_codename": {
     "Toaster": {
-      "codename": "ToasterV"
+      "codename": "ToasterV",
+      "locale": {
+        "fr": "Toaster"
+      }
     },
     "Boomerang": {
-      "codename": "BoomerangV"
+      "codename": "BoomerangV",
+      "locale": {
+        "fr": "Boomerang"
+      }
     },
     "Tribolt": {
-      "codename": "TriboltV"
+      "codename": "TriboltV",
+      "locale": {
+        "fr": "Trident"
+      }
     },
     "Sparky": {
-      "codename": "SparkyV"
+      "codename": "SparkyV",
+      "locale": {
+        "fr": "Étincelle"
+      }
     },
     "Popper": {
-      "codename": "PopperV"
+      "codename": "PopperV",
+      "locale": {
+        "fr": "Spirale"
+      }
     },
     "Slapamander": {
-      "codename": "SlapamanderV"
+      "codename": "SlapamanderV",
+      "locale": {
+        "fr": "Salamandre"
+      }
     },
     "Chakram": {
-      "codename": "ChakramV"
+      "codename": "ChakramV",
+      "locale": {
+        "fr": "Chakram"
+      }
     },
     "Buff": {
-      "codename": "BuffV"
+      "codename": "BuffV",
+      "locale": {
+        "fr": "Compresseur"
+      }
     },
     "Triblast": {
-      "codename": "TriblastV"
+      "codename": "TriblastV",
+      "locale": {
+        "fr": "Kunai"
+      }
     },
     "Megaton": {
-      "codename": "MegatonV"
+      "codename": "MegatonV",
+      "locale": {
+        "fr": "Démolisseur"
+      }
     },
     "Retorcher": {
-      "codename": "RetorcherV"
+      "codename": "RetorcherV",
+      "locale": {
+        "fr": "Cerbère"
+      }
     },
     "Phoenix": {
-      "codename": "PhoenixV"
+      "codename": "PhoenixV",
+      "locale": {
+        "fr": "Corneille"
+      }
     },
     "Dragon": {
-      "codename": "DragonV"
+      "codename": "DragonV",
+      "locale": {
+        "fr": "Dragon"
+      }
     },
     "Megawatt": {
-      "codename": "MegawattV"
+      "codename": "MegawattV",
+      "locale": {
+        "fr": "Électrochoc"
+      }
     },
     "Ramram": {
-      "codename": "RamramV"
+      "codename": "RamramV",
+      "locale": {
+        "fr": "Ramram"
+      }
     },
     "Revolver": {
-      "codename": "RevolverV"
+      "codename": "RevolverV",
+      "locale": {
+        "fr": "Foudroyeur"
+      }
     },
     "Whammer": {
-      "codename": "WhammerV"
+      "codename": "WhammerV",
+      "locale": {
+        "fr": "Marteau"
+      }
     },
     "Homie": {
-      "codename": "HomieV"
+      "codename": "HomieV",
+      "locale": {
+        "fr": "Traqueur"
+      }
     },
     "Chilla": {
-      "codename": "ChillaV"
+      "codename": "ChillaV",
+      "locale": {
+        "fr": "Freezer"
+      }
     },
     "Parasol": {
-      "codename": "ParasolV"
+      "codename": "ParasolV",
+      "locale": {
+        "fr": "Parasol"
+      }
     },
     "Thunderbird": {
-      "codename": "ThunderbirdV"
+      "codename": "ThunderbirdV",
+      "locale": {
+        "fr": "Hirondelle"
+      }
     },
     "Seekie": {
-      "codename": "SeekieV"
+      "codename": "SeekieV",
+      "locale": {
+        "fr": "Fulgurant"
+      }
     },
     "Cracker": {
-      "codename": "CrackerV"
+      "codename": "CrackerV",
+      "locale": {
+        "fr": "Vortex"
+      }
     },
     "Bubb": {
-      "codename": "BubbV"
+      "codename": "BubbV",
+      "locale": {
+        "fr": "Simulacre"
+      }
     },
     "Slamamander": {
-      "codename": "SlamamanderV"
+      "codename": "SlamamanderV",
+      "locale": {
+        "fr": "Vipère"
+      }
     },
     "Hydra": {
-      "codename": "HydraV"
+      "codename": "HydraV",
+      "locale": {
+        "fr": "Hydre"
+      }
     },
     "Coolerang": {
-      "codename": "CoolerangV"
+      "codename": "CoolerangV",
+      "locale": {
+        "fr": "Coolerang"
+      }
     },
     "Blorb": {
-      "codename": "BlorbV"
+      "codename": "BlorbV",
+      "locale": {
+        "fr": "Blorbe"
+      }
     },
     "Ice Dragon": {
-      "codename": "IceDragonV"
+      "codename": "IceDragonV",
+      "locale": {
+        "fr": "Blizzard"
+      }
     },
     "Guardian": {
-      "codename": "GuardianV"
+      "codename": "GuardianV",
+      "locale": {
+        "fr": "Égide"
+      }
     },
     "Nade": {
-      "codename": "NadeV"
+      "codename": "NadeV",
+      "locale": {
+        "fr": "Grenade"
+      }
     },
     "Roaster": {
-      "codename": "RoasterV"
+      "codename": "RoasterV",
+      "locale": {
+        "fr": "Flambeur"
+      }
     },
     "Kablammer": {
-      "codename": "KablammerV"
+      "codename": "KablammerV",
+      "locale": {
+        "fr": "Broyeur"
+      }
     },
     "Funchuk": {
-      "codename": "FunchukV"
+      "codename": "FunchukV",
+      "locale": {
+        "fr": "Nunchaku"
+      }
     },
     "Biffler": {
-      "codename": "BifflerV"
+      "codename": "BifflerV",
+      "locale": {
+        "fr": "Tamponneur"
+      }
     },
     "Clapback": {
-      "codename": "ClapbackV"
+      "codename": "ClapbackV",
+      "locale": {
+        "fr": "Réflecteur"
+      }
     },
     "Scorpio": {
-      "codename": "ScorpioV"
+      "codename": "ScorpioV",
+      "locale": {
+        "fr": "Scorpio"
+      }
     },
     "Glusher": {
-      "codename": "GlusherV"
+      "codename": "GlusherV",
+      "locale": {
+        "fr": "Splatcheur"
+      }
     },
     "Skully": {
-      "codename": "SkullyV"
+      "codename": "SkullyV",
+      "locale": {
+        "fr": "Squelly"
+      }
     },
     "Lokjaw": {
-      "codename": "LokjawV"
+      "codename": "LokjawV",
+      "locale": {
+        "fr": "Handlok"
+      }
     },
     "Parabola": {
-      "codename": "ParabolaV"
+      "codename": "ParabolaV",
+      "locale": {
+        "fr": "Parablitz"
+      }
     },
     "Brrchuk": {
-      "codename": "BrrchukV"
+      "codename": "BrrchukV",
+      "locale": {
+        "fr": "Venchaku"
+      }
     }
   },
   "igdb_game_id": "arms"

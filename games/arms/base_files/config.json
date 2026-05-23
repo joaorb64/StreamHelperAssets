@@ -156,7 +156,7 @@
       }
     }
   },
-  "version": "26.05.02.40426",
+  "version": "26.05.23.50402",
   "description": "Base config to use this game.",
   "variant_to_codename": {
     "Toaster": {
@@ -180,7 +180,7 @@
     "Sparky": {
       "codename": "SparkyV",
       "locale": {
-        "fr": "Étincelle"
+        "fr": "\u00c9tincelle"
       }
     },
     "Popper": {
@@ -216,13 +216,13 @@
     "Megaton": {
       "codename": "MegatonV",
       "locale": {
-        "fr": "Démolisseur"
+        "fr": "D\u00e9molisseur"
       }
     },
     "Retorcher": {
       "codename": "RetorcherV",
       "locale": {
-        "fr": "Cerbère"
+        "fr": "Cerb\u00e8re"
       }
     },
     "Phoenix": {
@@ -240,7 +240,7 @@
     "Megawatt": {
       "codename": "MegawattV",
       "locale": {
-        "fr": "Électrochoc"
+        "fr": "\u00c9lectrochoc"
       }
     },
     "Ramram": {
@@ -306,7 +306,7 @@
     "Slamamander": {
       "codename": "SlamamanderV",
       "locale": {
-        "fr": "Vipère"
+        "fr": "Vip\u00e8re"
       }
     },
     "Hydra": {
@@ -336,7 +336,7 @@
     "Guardian": {
       "codename": "GuardianV",
       "locale": {
-        "fr": "Égide"
+        "fr": "\u00c9gide"
       }
     },
     "Nade": {
@@ -372,7 +372,7 @@
     "Clapback": {
       "codename": "ClapbackV",
       "locale": {
-        "fr": "Réflecteur"
+        "fr": "R\u00e9flecteur"
       }
     },
     "Scorpio": {

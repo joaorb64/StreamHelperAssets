@@ -1,6 +1,6 @@
 {
   "name": "Assists",
-  "version": "26.02.03.67267",
+  "version": "26.05.22.51859",
   "description": "Assist icons\nRequires TSH 5.92 or higher to be used",
   "credits": "Ripped from https://mcleodgaming.fandom.com/wiki/Assist",
   "prefix": "file_",
@@ -165,6 +165,12 @@
         "y": 53
       }
     },
+    "SpelunkyV": {
+      "null": {
+        "x": 214,
+        "y": 53
+      }
+    },
     "StardropV": {
       "null": {
         "x": 175,
@@ -245,7 +251,7 @@
     }
   },
   "average_size": {
-    "x": 189.07692307692307,
-    "y": 52.97435897435897
+    "x": 189.7,
+    "y": 52.975
   }
 }

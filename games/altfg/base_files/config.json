@@ -75,7 +75,18 @@
       "codename": "AangA"
     },
     "Azula": {
-      "codename": "Azula"
+      "codename": "Azula",
+      "skin_name": {
+        "0": {
+          "name": "Li & Lo"
+        },
+        "1": {
+          "name": "Joo Dee"
+        },
+        "2": {
+          "name": "Ursa"
+        }
+      }
     },
     "Korra (Avatar State)": {
       "codename": "KorraA"

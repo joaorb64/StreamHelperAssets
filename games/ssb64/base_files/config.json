@@ -1372,13 +1372,14 @@
       "modded": true
     }
   },
-  "version": "26.05.22.37605",
+  "version": "26.05.26.56062",
   "description": "Base config to use this game.",
   "alternate_versions": [
     {
       "name": "Smash Remix",
       "smashgg_game_id": 34157,
-      "logo_path": "logo_rmx.png"
+      "logo_path": "logo_rmx.png",
+      "igdb_game_id": "smash-remix"
     }
   ],
   "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",

@@ -727,6 +727,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Tekken 8
 - Character [Robert "Bob" Richards]: Character name [Bob] doesn't exist in StartGG
 - Character [Roger Jr.]: Character name [Roger Jr.] doesn't exist in StartGG
+- Character [Yujiro Hanma]: Character name [Yujiro] doesn't exist in StartGG
 ### Coverage: (42/42)
 
 ## Them's Fightin' Herds

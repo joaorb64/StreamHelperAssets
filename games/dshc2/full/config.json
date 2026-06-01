@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Ripped from https://demonslayer-hinokami.sega.com/ and https://game.kimetsu.com/hinokami2/character/",
-  "version": "26.05.17.64307",
+  "version": "26.05.28.39355",
   "uncropped_edge": [
     "u",
     "d",
@@ -287,7 +287,7 @@
     }
   },
   "average_size": {
-    "x": 1391.784355415115,
+    "x": 1384.4051277365363,
     "y": 1000.0
   },
   "rescaling_factor": {
@@ -425,6 +425,12 @@
       "0": {
         "x": 2613,
         "y": 1840
+      }
+    },
+    "Doma": {
+      "0": {
+        "x": 1000,
+        "y": 992
       }
     },
     "Enmu": {

@@ -51,6 +51,18 @@
     },
     "Hulk": {
       "codename": "Hulk"
+    },
+    "Magneto": {
+      "codename": "Magneto"
+    },
+    "Green Goblin": {
+      "codename": "Goblin",
+      "locale": {
+        "fr": "Bouffon Vert"
+      }
+    },
+    "Carnage": {
+      "codename": "Carnage"
     }
   },
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
@@ -65,6 +77,12 @@
       "codename": "NewYork",
       "locale": {
         "fr": "New York de Marvel"
+      }
+    },
+    "Marvel's New York (Night)": {
+      "codename": "NewYorkNight",
+      "locale": {
+        "fr": "New York de Marvel (nuit)"
       }
     },
     "Savage Land": {

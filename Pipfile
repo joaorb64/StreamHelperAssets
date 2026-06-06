@@ -9,6 +9,8 @@ requests = "*"
 pillow = "*"
 pillow-avif-plugin = "*"
 igdb-api-v4 = "*"
+pandas = "*"
+odfpy = "*"
 
 [dev-packages]
 

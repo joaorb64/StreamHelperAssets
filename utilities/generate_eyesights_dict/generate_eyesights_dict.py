@@ -1,7 +1,7 @@
 import json
 import collections
 
-game_codename = "mtfs"
+game_codename = "vf6"
 
 config_path = f"../../games/{game_codename}/base_files/config.json"
 

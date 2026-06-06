@@ -531,6 +531,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## 2XKO
 - Character [Akali]: Character name [Akali] doesn't exist in StartGG
 - Character [Senna]: Character name [Senna] doesn't exist in StartGG
+- Character [Thresh]: Character name [Thresh] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (12/13)
 
@@ -578,6 +579,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (20/20)
 
 ## Street Fighter 6
+- Character [Yasmine]: Character name [Yasmine] doesn't exist in StartGG
+- Character [Bosch]: Character name [Bosch] doesn't exist in StartGG
+- Character [Arjun]: Character name [Arjun] doesn't exist in StartGG
+- Character [Tifa]: Character name [Tifa] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (30/31)
 
@@ -785,6 +790,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Virtua Fighter 5 R.E.V.O.
 Game has no characters in startgg...? Or do we have a wrong game id?
+
 
 ## Night Warriors: Darkstalkers' Revenge
 Game has no characters in startgg...? Or do we have a wrong game id?

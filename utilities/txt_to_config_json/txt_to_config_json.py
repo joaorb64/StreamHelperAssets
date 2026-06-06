@@ -15,6 +15,7 @@ for game in game_data:
         game_name = game.get("name")
         image_type = game.get("image_type")
         challonge_id = game.get("challonge_id")
+        igdb_id = game.get("igdb_game_id")
         found = True
 
 if not found:
@@ -34,7 +35,8 @@ with open(f"config.json", 'wt') as config_file:
         "stage_to_codename": {},
         "version": version,
         "description": str(description),
-        "credits": str(credits)
+        "credits": str(credits),
+        "igdb_game_id": igdb_id
     }
 
     with open(f"{character_list_filename}", 'rt', encoding='utf-8') as character_list:

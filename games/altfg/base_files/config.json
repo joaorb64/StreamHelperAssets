@@ -92,7 +92,18 @@
       "codename": "KorraA"
     },
     "Kyoshi": {
-      "codename": "Kyoshi"
+      "codename": "Kyoshi",
+      "skin_name": {
+        "0": {
+          "name": "Rangi"
+        },
+        "1": {
+          "name": "Kelsang"
+        },
+        "2": {
+          "name": "Yun"
+        }
+      }
     },
     "Ozai": {
       "codename": "Ozai"

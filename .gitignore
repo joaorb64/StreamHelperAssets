@@ -6,6 +6,8 @@ utilities/txt_to_config_json/*.json
 utilities/get_icons_from_spriters_resource/download/*
 utilities/pplus_source/*
 utilities/txt_to_config_json/blank_files/*
+utilities/txt_to_config_json/stage_icon/*
+utilities/txt_to_config_json/variant_icon/*
 utilities/generate_game_list/*.txt
 utilities/generate_game_list/characters/*.txt
 utilities/generate_game_list/*.zip

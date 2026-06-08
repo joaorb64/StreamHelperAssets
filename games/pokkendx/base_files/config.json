@@ -290,7 +290,71 @@
       }
     }
   },
-  "stage_to_codename": {},
+  "stage_to_codename": {
+    "Blue Dome": {
+      "codename": "BlueDome"
+    },
+    "Dark Colosseum": {
+      "codename": "DarkColosseum"
+    },
+    "Dark Colosseum (Final)": {
+      "codename": "DarkColosseumFinal"
+    },
+    "Diggersby Land": {
+      "codename": "DiggersbyLand"
+    },
+    "Dragon's Nest": {
+      "codename": "DragonsNest"
+    },
+    "Ferrum Dojo": {
+      "codename": "FerrumDojo"
+    },
+    "Ferrum Stadium": {
+      "codename": "FerrumStadium"
+    },
+    "Haunted House": {
+      "codename": "HauntedHouse"
+    },
+    "Magikarp Festival": {
+      "codename": "MagikarpFestival"
+    },
+    "Mystery Carnival": {
+      "codename": "MysteryCarnival"
+    },
+    "Neos City": {
+      "codename": "NeosCity"
+    },
+    "Neos City (Night)": {
+      "codename": "NeosCityNight"
+    },
+    "Old Ferrum Town": {
+      "codename": "OldFerrumTown"
+    },
+    "Old Ferrum Town (Winter)": {
+      "codename": "OldFerrumTownWinter"
+    },
+    "Phos Volcano": {
+      "codename": "PhosVolcano"
+    },
+    "Regi Ruins": {
+      "codename": "RegiRuins"
+    },
+    "Snow Gift": {
+      "codename": "SnowGift"
+    },
+    "Tellur Town": {
+      "codename": "TellurTown"
+    },
+    "Tellur Town (Autumn)": {
+      "codename": "TellurTownAutumn"
+    },
+    "Thalia Beach": {
+      "codename": "ThaliaBeach"
+    },
+    "Training Gym": {
+      "codename": "TrainingGym"
+    }
+  },
   "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "Icons ripped from Pok\u00e9mon Sun & Moon and Pok\u00e9mon Omega Ruby & Alpha Sapphire\nCustom Shadow Mewtwo icon by @MathiasWolfbrok\nBreton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
@@ -318,5 +382,62 @@
       "logo_path": "logo_wiiu.png"
     }
   ],
-  "igdb_game_id": "pokken-tournament-dx"
+  "igdb_game_id": "pokken-tournament-dx",
+
+  "variant_to_codename": {
+    "Emolga / Fennekin": {
+      "codename": "EmolgaFennekinV"
+    },
+    "Snivy / Lapras": {
+      "codename": "SnivyLaprasV"
+    },
+    "Frogadier / Eevee": {
+      "codename": "FrogadierEeveeV"
+    },
+    "Cubone / Diglett": {
+      "codename": "CuboneDiglettV"
+    },
+    "Jirachi / Whimsicott": {
+      "codename": "JirachiWhimsicottV"
+    },
+    "Croagunk / Sylveon": {
+      "codename": "CroagunkSylveonV"
+    },
+    "Pachirisu / Magikarp": {
+      "codename": "PachirisuMagikarpV"
+    },
+    "Mismagius / Ninetales": {
+      "codename": "MismagiusNinetalesV"
+    },
+    "Rotom / Togekiss": {
+      "codename": "RotomTogekissV"
+    },
+    "Farfetch'd / Electrode": {
+      "codename": "FarfetchdElectrodeV"
+    },
+    "Dragonite / Victini": {
+      "codename": "DragoniteVictiniV"
+    },
+    "Espeon / Umbreon": {
+      "codename": "EspeonUmbreonV"
+    },
+    "Reshiram / Cresselia": {
+      "codename": "ReshiramCresseliaV"
+    },
+    "Magneton / Quagsire": {
+      "codename": "MagnetonQuagsireV"
+    },
+    "Yveltal / Latios": {
+      "codename": "YveltalLatiosV"
+    },
+    "Litten / Popplio": {
+      "codename": "LittenPopplioV"
+    },
+    "Mega Rayquaza / Mimikyu": {
+      "codename": "MegaRayquazaMimikyuV"
+    },
+    "Mew / Celebi": {
+      "codename": "MewCelebiV"
+    }
+  }
 }

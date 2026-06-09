@@ -1990,10 +1990,10 @@
         },
         "24": {
           "name": "Judge_2"
-        },        
+        },
         "25": {
           "name": "Judge_3"
-        }        
+        }
       }
     },
     "Pit": {
@@ -2472,7 +2472,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.09.43356",
   "description": "Base config to use this game.",
   "preset_colors": [
     {

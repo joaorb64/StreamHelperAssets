@@ -22,47 +22,47 @@
         "zh_CN": "\u9a6c\u529b\u6b27"
       },
       "skin_name": {
-        "7": {
-          "name": "Builder_0"
-        },
-        "8": {
-          "name": "Builder_1"
-        },
-        "9": {
-          "name": "Builder_2"
-        },
-        "10": {
+        "6": {
           "name": "Doctor_0"
         },
-        "11": {
+        "7": {
           "name": "Doctor_1"
         },
-        "12": {
+        "8": {
           "name": "Doctor_2"
         },
-        "13": {
+        "9": {
           "name": "Doctor_3"
         },
-        "14": {
+        "10": {
           "name": "Doctor_4"
         },
-        "15": {
+        "11": {
           "name": "Doctor_5"
         },
+        "12": {
+          "name": "Builder_0"
+        },
+        "13": {
+          "name": "Builder_1"
+        },
+        "14": {
+          "name": "Builder_2"
+        },
+        "15": {
+          "name": "Sunshine_0"
+        },
         "16": {
-          "name": "Sunshine"
+          "name": "Sunshine_1"
         },
         "17": {
-          "name": "Sunshine_Eggs"
+          "name": "Sunshine_2"
         },
         "18": {
-          "name": "Sunshine_Leaves"
+          "name": "Sunshine_3"
         },
         "19": {
-          "name": "Sunshine_Metal"
-        },
-        "20": {
-          "name": "Sunshine_Moons"
+          "name": "Sunshine_4"
         }
       }
     },
@@ -87,55 +87,43 @@
       },
       "skin_name": {
         "7": {
-          "name": "Casino_0"
+          "name": "Mr._L_0"
         },
         "8": {
-          "name": "Casino_1"
+          "name": "Mr._L_1"
         },
         "9": {
-          "name": "Casino_2"
+          "name": "Mr._L_2"
         },
         "10": {
-          "name": "Casino_3"
+          "name": "Mr._L_3"
         },
         "11": {
-          "name": "MrL_0"
+          "name": "Casino_0"
         },
         "12": {
-          "name": "MrL_1"
+          "name": "Casino_1"
         },
         "13": {
-          "name": "MrL_2"
+          "name": "Casino_2"
         },
         "14": {
-          "name": "MrL_3"
+          "name": "Casino_3"
         },
         "15": {
-          "name": "Mr_L_0"
+          "name": "Space_0"
         },
         "16": {
-          "name": "Mr_L_1"
+          "name": "Space_1"
         },
         "17": {
-          "name": "Mr_L_2"
+          "name": "Space_2"
         },
         "18": {
-          "name": "Mr_L_3"
+          "name": "Space_3"
         },
         "19": {
-          "name": "Space_Land_0"
-        },
-        "20": {
-          "name": "Space_Land_1"
-        },
-        "21": {
-          "name": "Space_Land_2"
-        },
-        "22": {
-          "name": "Space_Land_3"
-        },
-        "23": {
-          "name": "Space_Land_4"
+          "name": "Space_4"
         }
       }
     },
@@ -159,14 +147,11 @@
         "zh_CN": "\u6843\u82b1\u516c\u4e3b"
       },
       "skin_name": {
-        "9": {
+        "10": {
           "name": "Fire_0"
         },
-        "10": {
-          "name": "Fire_1"
-        },
         "11": {
-          "name": "Rosalina"
+          "name": "Fire_1"
         },
         "12": {
           "name": "Shadow_0"
@@ -217,12 +202,6 @@
         "zh_CN": "\u9177\u9738\u738b"
       },
       "skin_name": {
-        "10": {
-          "name": "cBliss_Pink"
-        },
-        "11": {
-          "name": "cBliss_Yellow"
-        },
         "12": {
           "name": "Dry_0"
         },
@@ -245,7 +224,7 @@
           "name": "Dry_7"
         },
         "19": {
-          "name": "Dry_Dapperman_3"
+          "name": "Dry_8"
         }
       }
     },
@@ -279,18 +258,36 @@
           "name": "Dorrie_2"
         },
         "15": {
-          "name": "Pirate_0"
+          "name": "Dorrie_3"
         },
         "16": {
-          "name": "Pirate_1"
+          "name": "Great_Gonzales_0"
         },
         "17": {
-          "name": "Pirate_2"
+          "name": "Great_Gonzales_1"
         },
         "18": {
-          "name": "Pirate_3"
+          "name": "Great_Gonzales_2"
         },
         "19": {
+          "name": "Great_Gonzales_3"
+        },
+        "20": {
+          "name": "Great_Gonzales_4"
+        },
+        "21": {
+          "name": "Pirate_0"
+        },
+        "22": {
+          "name": "Pirate_1"
+        },
+        "23": {
+          "name": "Pirate_2"
+        },
+        "24": {
+          "name": "Pirate_3"
+        },
+        "25": {
           "name": "Pirate_4"
         }
       }
@@ -315,34 +312,55 @@
         "zh_CN": "\u68ee\u559c\u521a"
       },
       "skin_name": {
+        "6": {
+          "name": "Punch-Out!!_0"
+        },
+        "7": {
+          "name": "Punch-Out!!_1"
+        },
+        "8": {
+          "name": "Punch-Out!!_2"
+        },
+        "9": {
+          "name": "Punch-Out!!_3"
+        },
         "10": {
-          "name": "Boxer_0"
+          "name": "Punch-Out!!_4"
         },
         "11": {
-          "name": "Boxer_1"
+          "name": "Punch-Out!!_5"
         },
         "12": {
-          "name": "Boxer_2"
+          "name": "Turbo_Charge_0"
         },
         "13": {
-          "name": "Boxer_3"
+          "name": "Turbo_Charge_1"
         },
         "14": {
-          "name": "Boxer_4"
+          "name": "Turbo_Charge_2"
         },
         "15": {
-          "name": "Funky_0"
+          "name": "Turbo_Charge_3"
         },
         "16": {
-          "name": "Funky_1"
+          "name": "Turbo_Charge_4"
         },
         "17": {
-          "name": "Funky_2"
+          "name": "Turbo_Charge_5"
         },
         "18": {
-          "name": "Funky_3"
+          "name": "Funky_0"
         },
         "19": {
+          "name": "Funky_1"
+        },
+        "20": {
+          "name": "Funky_2"
+        },
+        "21": {
+          "name": "Funky_3"
+        },
+        "22": {
           "name": "Funky_4"
         }
       }
@@ -368,34 +386,34 @@
       },
       "skin_name": {
         "10": {
-          "name": "Dixie_0"
-        },
-        "11": {
-          "name": "Dixie_1"
-        },
-        "12": {
-          "name": "Dixie_2"
-        },
-        "13": {
-          "name": "Dixie_3"
-        },
-        "14": {
-          "name": "Dixie_4"
-        },
-        "15": {
           "name": "Hooded_0"
         },
-        "16": {
+        "11": {
           "name": "Hooded_1"
         },
-        "17": {
+        "12": {
           "name": "Hooded_2"
         },
-        "18": {
+        "13": {
           "name": "Hooded_3"
         },
-        "19": {
+        "14": {
           "name": "Hooded_4"
+        },
+        "15": {
+          "name": "Dixie_0"
+        },
+        "16": {
+          "name": "Dixie_1"
+        },
+        "17": {
+          "name": "Dixie_2"
+        },
+        "18": {
+          "name": "Dixie_3"
+        },
+        "19": {
+          "name": "Dixie_4"
         }
       }
     },
@@ -420,43 +438,43 @@
       },
       "skin_name": {
         "9": {
-          "name": "Classic_0"
+          "name": "Ocarina_of_Time_0"
         },
         "10": {
-          "name": "Classic_1"
+          "name": "Ocarina_of_Time_1"
         },
         "11": {
-          "name": "Classic_5"
+          "name": "Ocarina_of_Time_2"
         },
         "12": {
-          "name": "Classic_Cyan"
+          "name": "Ocarina_of_Time_3"
         },
         "13": {
-          "name": "Classic_Orange"
+          "name": "Ocarina_of_Time_4"
         },
         "14": {
-          "name": "Classic_White"
+          "name": "Ocarina_of_Time_5"
+        },
+        "15": {
+          "name": "Fierce_Deity"
         },
         "16": {
-          "name": "Fierce_Deity_0"
+          "name": "Classic_0"
         },
         "17": {
-          "name": "OoT_0"
+          "name": "Classic_1"
         },
         "18": {
-          "name": "OoT_1"
+          "name": "Classic_2"
         },
         "19": {
-          "name": "OoT_2"
+          "name": "Classic_3"
         },
         "20": {
-          "name": "OoT_3"
+          "name": "Classic_4"
         },
         "21": {
-          "name": "OoT_4"
-        },
-        "22": {
-          "name": "OoT_5"
+          "name": "Classic_5"
         }
       }
     },
@@ -481,22 +499,22 @@
       },
       "skin_name": {
         "9": {
-          "name": "OoT_0"
+          "name": "Ocarina_of_Time_0"
         },
         "10": {
-          "name": "OoT_1"
+          "name": "Ocarina_of_Time_1"
         },
         "11": {
-          "name": "OoT_2"
+          "name": "Ocarina_of_Time_2"
         },
         "12": {
-          "name": "OoT_3"
+          "name": "Ocarina_of_Time_3"
         },
         "13": {
-          "name": "OoT_4"
+          "name": "Ocarina_of_Time_4"
         },
         "14": {
-          "name": "OoT_5"
+          "name": "Ocarina_of_Time_5"
         },
         "15": {
           "name": "Young_0"
@@ -533,22 +551,22 @@
       },
       "skin_name": {
         "9": {
-          "name": "OoT_0"
+          "name": "Ocarina_of_Time_0"
         },
         "10": {
-          "name": "OoT_1"
+          "name": "Ocarina_of_Time_1"
         },
         "11": {
-          "name": "OoT_2"
+          "name": "Ocarina_of_Time_2"
         },
         "12": {
-          "name": "OoT_3"
+          "name": "Ocarina_of_Time_3"
         },
         "13": {
-          "name": "OoT_4"
+          "name": "Ocarina_of_Time_4"
         },
         "14": {
-          "name": "OoT_5"
+          "name": "Ocarina_of_Time_5"
         },
         "15": {
           "name": "Sheikah_Clan_0"
@@ -585,40 +603,40 @@
       },
       "skin_name": {
         "6": {
-          "name": "Beast_0"
+          "name": "Ocarina_of_Time_0"
         },
         "7": {
-          "name": "Beast_1"
+          "name": "Ocarina_of_Time_1"
         },
         "8": {
-          "name": "Beast_2"
+          "name": "Ocarina_of_Time_2"
         },
         "9": {
-          "name": "Beast_3"
+          "name": "Ocarina_of_Time_3"
         },
         "10": {
-          "name": "Beast_4"
+          "name": "Ocarina_of_Time_4"
         },
         "11": {
-          "name": "Light_Blue"
+          "name": "Ocarina_of_Time_5"
         },
         "12": {
-          "name": "OoT_0"
+          "name": "Pig_0"
         },
         "13": {
-          "name": "OoT_1"
+          "name": "Pig_1"
         },
         "14": {
-          "name": "OoT_2"
+          "name": "Pig_2"
         },
         "15": {
-          "name": "OoT_3"
+          "name": "Pig_3"
         },
         "16": {
-          "name": "OoT_4"
+          "name": "Pig_4"
         },
         "17": {
-          "name": "OoT_5"
+          "name": "Pig_5"
         },
         "18": {
           "name": "Phantom_0"
@@ -634,24 +652,6 @@
         },
         "22": {
           "name": "Phantom_4"
-        },
-        "23": {
-          "name": "Phantom_5"
-        },
-        "24": {
-          "name": "Pig_0"
-        },
-        "25": {
-          "name": "Pig_1"
-        },
-        "26": {
-          "name": "Pig_2"
-        },
-        "27": {
-          "name": "Pig_3"
-        },
-        "28": {
-          "name": "Pig_4"
         }
       }
     },
@@ -675,59 +675,65 @@
         "zh_CN": "\u5361\u901a\u6797\u514b"
       },
       "skin_name": {
-        "6": {
-          "name": "Hylien_0"
-        },
         "7": {
-          "name": "Hylien_1"
-        },
-        "8": {
-          "name": "Hylien_2"
-        },
-        "9": {
-          "name": "Hylien_3"
-        },
-        "10": {
-          "name": "Hylien_4"
-        },
-        "11": {
-          "name": "Hylien_5"
-        },
-        "12": {
-          "name": "Hylien_6"
-        },
-        "13": {
-          "name": "Hylien_8"
-        },
-        "14": {
-          "name": "Hylien_9"
-        },
-        "15": {
-          "name": "Linebeck_0"
-        },
-        "16": {
-          "name": "Linebeck_1"
-        },
-        "17": {
-          "name": "Linebeck_2"
-        },
-        "18": {
-          "name": "Linebeck_3"
-        },
-        "19": {
           "name": "Outset_0"
         },
-        "20": {
+        "8": {
           "name": "Outset_1"
         },
-        "21": {
+        "9": {
           "name": "Outset_2"
         },
-        "22": {
+        "10": {
           "name": "Outset_3"
         },
-        "23": {
+        "11": {
           "name": "Outset_4"
+        },
+        "12": {
+          "name": "Outset_5"
+        },
+        "13": {
+          "name": "Linebeck_0"
+        },
+        "14": {
+          "name": "Linebeck_1"
+        },
+        "15": {
+          "name": "Linebeck_2"
+        },
+        "16": {
+          "name": "Linebeck_3"
+        },
+        "17": {
+          "name": "Linebeck_4"
+        },
+        "18": {
+          "name": "Hylian_0"
+        },
+        "19": {
+          "name": "Hylian_1"
+        },
+        "20": {
+          "name": "Hylian_2"
+        },
+        "21": {
+          "name": "Hylian_3"
+        },
+        "22": {
+          "name": "Hylian_4"
+        },
+        "23": {
+          "name": "Hylian_5"
+        },
+        "24": {
+          "name": "Hylian_6"
+        },
+        "25": {
+          "name": "Hylian_7"
+        },
+        "26": {
+          "name": "Hylian_8"
         }
       }
     },
@@ -752,76 +758,49 @@
       },
       "skin_name": {
         "6": {
-          "name": "Dark_0"
+          "name": "Dark"
         },
         "7": {
-          "name": "Dark_Suit_0"
+          "name": "Light"
         },
         "8": {
-          "name": "Federation_0"
+          "name": "PED"
         },
         "9": {
-          "name": "Federation_1"
-        },
-        "10": {
-          "name": "Federation_2"
-        },
-        "11": {
-          "name": "Federation_3"
-        },
-        "12": {
-          "name": "Federation_4"
-        },
-        "13": {
           "name": "Fusion_0"
         },
-        "14": {
+        "10": {
           "name": "Fusion_1"
         },
-        "15": {
+        "11": {
           "name": "Fusion_2"
         },
-        "16": {
+        "12": {
           "name": "Fusion_3"
         },
+        "13": {
+          "name": "Retro_0"
+        },
+        "14": {
+          "name": "Retro_1"
+        },
+        "15": {
+          "name": "Retro_2"
+        },
+        "16": {
+          "name": "Federation_0"
+        },
         "17": {
-          "name": "Fusion_Suit_0"
+          "name": "Federation_1"
         },
         "18": {
-          "name": "Fusion_Suit_1"
+          "name": "Federation_2"
         },
         "19": {
-          "name": "Fusion_Suit_2"
+          "name": "Federation_3"
         },
         "20": {
-          "name": "Light_0"
-        },
-        "21": {
-          "name": "Light_Suit_0"
-        },
-        "22": {
-          "name": "PED_0"
-        },
-        "23": {
-          "name": "PED_Suit_0"
-        },
-        "24": {
-          "name": "Power_0"
-        },
-        "25": {
-          "name": "Power_1"
-        },
-        "26": {
-          "name": "Power_2"
-        },
-        "27": {
-          "name": "Power_Suit_0"
-        },
-        "28": {
-          "name": "Power_Suit_1"
-        },
-        "29": {
-          "name": "Power_Suit_2"
+          "name": "Federation_4"
         }
       }
     },
@@ -845,65 +824,35 @@
         "zh_CN": "\u96f6\u88c5\u7532\u8428\u59c6\u65af"
       },
       "skin_name": {
-        "1": {
-          "name": "Cadet_0"
-        },
-        "2": {
-          "name": "Cadet_1"
-        },
-        "3": {
-          "name": "Cadet_2"
-        },
-        "4": {
-          "name": "Cadet_3"
-        },
-        "5": {
-          "name": "Cadet_4"
-        },
         "6": {
-          "name": "Fusion_2"
+          "name": "Super"
         },
         "7": {
-          "name": "SJS_1"
+          "name": "Training"
         },
         "8": {
-          "name": "SJS_2"
+          "name": "Zero_Mission"
         },
         "9": {
-          "name": "SJS_3"
+          "name": "Fusion_0"
         },
         "10": {
-          "name": "SJS_4"
+          "name": "Fusion_1"
         },
         "11": {
-          "name": "SJS_5"
+          "name": "Fusion_2"
         },
         "12": {
-          "name": "SJS_Bailey_0"
+          "name": "Fusion_3"
         },
         "13": {
-          "name": "SJS_Bailey_1"
+          "name": "Justin_Bailey_0"
         },
         "14": {
-          "name": "SJS_Bailey_2"
+          "name": "Justin_Bailey_1"
         },
         "15": {
-          "name": "SJS_Fusion_0"
-        },
-        "16": {
-          "name": "SJS_Fusion_1"
-        },
-        "17": {
-          "name": "SJS_Fusion_2"
-        },
-        "18": {
-          "name": "SJS_Hotpants_0"
-        },
-        "19": {
-          "name": "SJS_Light_0"
-        },
-        "20": {
-          "name": "SJS_Super_0"
+          "name": "Justin_Bailey_2"
         }
       }
     },
@@ -927,49 +876,49 @@
         "zh_CN": "\u5361\u6bd4"
       },
       "skin_name": {
-        "12": {
-          "name": "Cowboy_0"
-        },
-        "13": {
-          "name": "Cowboy_1"
-        },
-        "14": {
-          "name": "Cowboy_2"
-        },
-        "15": {
-          "name": "Cowboy_3"
-        },
-        "16": {
-          "name": "Cowboy_4"
-        },
-        "17": {
+        "8": {
           "name": "Fighter_0"
         },
-        "18": {
+        "9": {
           "name": "Fighter_1"
         },
-        "19": {
+        "10": {
           "name": "Fighter_2"
         },
-        "20": {
+        "11": {
           "name": "Fighter_3"
         },
-        "21": {
+        "12": {
           "name": "Fighter_4"
         },
-        "22": {
+        "13": {
+          "name": "Cowboy_0"
+        },
+        "14": {
+          "name": "Cowboy_1"
+        },
+        "15": {
+          "name": "Cowboy_2"
+        },
+        "16": {
+          "name": "Cowboy_3"
+        },
+        "17": {
+          "name": "Cowboy_4"
+        },
+        "18": {
           "name": "Swimmer_0"
         },
-        "23": {
+        "19": {
           "name": "Swimmer_1"
         },
-        "24": {
+        "20": {
           "name": "Swimmer_2"
         },
-        "25": {
+        "21": {
           "name": "Swimmer_3"
         },
-        "26": {
+        "22": {
           "name": "Swimmer_4"
         }
       }
@@ -994,56 +943,56 @@
         "zh_CN": "\u9b45\u5854\u9a91\u58eb"
       },
       "skin_name": {
+        "7": {
+          "name": "Galacta"
+        },
         "8": {
-          "name": "Butterfly_0"
+          "name": "Morpho_0"
         },
         "9": {
-          "name": "Butterfly_1"
+          "name": "Morpho_1"
         },
         "10": {
-          "name": "Butterfly_2"
+          "name": "Morpho_2"
         },
         "11": {
-          "name": "Butterfly_3"
+          "name": "Morpho_3"
         },
         "12": {
-          "name": "Butterfly_4"
+          "name": "Morpho_4"
         },
         "13": {
-          "name": "Dark_0"
-        },
-        "14": {
-          "name": "Dark_1"
-        },
-        "15": {
-          "name": "Dark_2"
-        },
-        "16": {
-          "name": "Dark_3"
-        },
-        "17": {
-          "name": "Dark_4"
-        },
-        "18": {
-          "name": "Dark_5"
-        },
-        "19": {
-          "name": "Galacta_0"
-        },
-        "20": {
-          "name": "Galactish_0"
-        },
-        "21": {
           "name": "Samurai_0"
         },
-        "22": {
+        "14": {
           "name": "Samurai_1"
         },
-        "23": {
+        "15": {
           "name": "Samurai_2"
         },
-        "24": {
+        "16": {
           "name": "Samurai_3"
+        },
+        "17": {
+          "name": "Samurai_4"
+        },
+        "18": {
+          "name": "Dark_0"
+        },
+        "19": {
+          "name": "Dark_1"
+        },
+        "20": {
+          "name": "Dark_2"
+        },
+        "21": {
+          "name": "Dark_3"
+        },
+        "22": {
+          "name": "Dark_4"
+        },
+        "23": {
+          "name": "Dark_5"
         }
       }
     },
@@ -1068,34 +1017,34 @@
       },
       "skin_name": {
         "10": {
-          "name": "Quickdraw_0"
+          "name": "Samurai_0"
         },
         "11": {
-          "name": "Quickdraw_1"
+          "name": "Samurai_1"
         },
         "12": {
-          "name": "Quickdraw_2"
+          "name": "Samurai_2"
         },
         "13": {
-          "name": "Quickdraw_3"
+          "name": "Samurai_3"
         },
         "14": {
-          "name": "Quickdraw_4"
+          "name": "Samurai_4"
         },
         "15": {
-          "name": "Shogun_0"
+          "name": "Quick_Draw_0"
         },
         "16": {
-          "name": "Shogun_1"
+          "name": "Quick_Draw_1"
         },
         "17": {
-          "name": "Shogun_2"
+          "name": "Quick_Draw_2"
         },
         "18": {
-          "name": "Shogun_3"
+          "name": "Quick_Draw_3"
         },
         "19": {
-          "name": "Shogun_4"
+          "name": "Quick_Draw_4"
         }
       }
     },
@@ -1120,40 +1069,40 @@
       },
       "skin_name": {
         "9": {
-          "name": "Melee_0"
+          "name": "SF64_0"
         },
         "10": {
-          "name": "Melee_1"
+          "name": "SF64_1"
         },
         "11": {
-          "name": "Melee_2"
+          "name": "SF64_2"
         },
         "12": {
-          "name": "Melee_3"
+          "name": "SF64_3"
         },
         "13": {
-          "name": "Melee_4"
+          "name": "SF64_4"
         },
         "14": {
-          "name": "Melee_5"
+          "name": "SF64_5"
         },
         "15": {
-          "name": "Shades"
+          "name": "James_McCloud_0"
         },
         "16": {
-          "name": "Shades_Black"
+          "name": "James_McCloud_1"
         },
         "17": {
-          "name": "Shades_Blue"
+          "name": "James_McCloud_2"
         },
         "18": {
-          "name": "Shades_Green"
+          "name": "James_McCloud_3"
         },
         "19": {
-          "name": "Shades_Purple"
+          "name": "James_McCloud_4"
         },
         "20": {
-          "name": "Shades_Red"
+          "name": "James_McCloud_5"
         }
       }
     },
@@ -1177,14 +1126,11 @@
         "zh_CN": "\u4f5b\u514b"
       },
       "skin_name": {
-        "4": {
-          "name": "3a"
+        "2": {
+          "name": "2_(Project+)"
         },
-        "5": {
-          "name": "3_Alt"
-        },
-        "11": {
-          "name": "cBliss_Minty"
+        "3": {
+          "name": "2_(AusBuild)"
         },
         "12": {
           "name": "Melee_0"
@@ -1233,46 +1179,46 @@
       },
       "skin_name": {
         "6": {
-          "name": "Pilot_0"
+          "name": "SF64_0"
         },
         "7": {
-          "name": "Pilot_1"
+          "name": "SF64_1"
         },
         "8": {
-          "name": "Pilot_2"
+          "name": "SF64_2"
         },
         "9": {
-          "name": "Pilot_3"
+          "name": "SF64_3"
         },
         "10": {
-          "name": "Retro_0"
+          "name": "SF64_4"
         },
         "11": {
-          "name": "Retro_1"
+          "name": "Pilot_0"
         },
         "12": {
-          "name": "Retro_2"
+          "name": "Pilot_1"
         },
         "13": {
-          "name": "Retro_3"
+          "name": "Pilot_2"
         },
         "14": {
-          "name": "Retro_4"
+          "name": "Pilot_3"
         },
         "15": {
-          "name": "Smash1Eye_1"
+          "name": "Melee_Style_0"
         },
         "16": {
-          "name": "Smash1Eye_2"
+          "name": "Melee_Style_1"
         },
         "17": {
-          "name": "Smash1Eye_3"
+          "name": "Melee_Style_2"
         },
         "18": {
-          "name": "Smash1Eye_4"
+          "name": "Melee_Style_3"
         },
         "19": {
-          "name": "Smash1Eye_5"
+          "name": "Melee_Style_4"
         }
       }
     },
@@ -1297,104 +1243,23 @@
         "br": "Luc\u2019hodenn"
       },
       "skin_name": {
-        "1": {
-          "name": "Ash_Hat"
-        },
-        "2": {
-          "name": "Backpack"
-        },
-        "3": {
-          "name": "Backwards_Cap"
-        },
-        "4": {
-          "name": "Band_0"
-        },
-        "5": {
-          "name": "Bow"
-        },
-        "6": {
-          "name": "Bulb"
-        },
-        "7": {
-          "name": "Choice_Scart"
-        },
-        "8": {
-          "name": "Cowboy"
-        },
-        "9": {
-          "name": "Default"
-        },
-        "10": {
-          "name": "Detective"
-        },
-        "11": {
-          "name": "Detective_0"
-        },
         "12": {
-          "name": "Fedora_0"
+          "name": "Team_Rocket_0"
         },
         "13": {
-          "name": "Goggles"
+          "name": "Team_Rocket_1"
         },
         "14": {
-          "name": "Goggles_0"
+          "name": "Team_Rocket_2"
         },
         "15": {
-          "name": "Headband"
+          "name": "Team_Rocket_3"
         },
         "16": {
-          "name": "Headphones"
+          "name": "Team_Rocket_4"
         },
         "17": {
-          "name": "Headphones_0"
-        },
-        "18": {
-          "name": "Jukebox_0"
-        },
-        "19": {
-          "name": "Let's_Go_0"
-        },
-        "20": {
-          "name": "Libre"
-        },
-        "21": {
-          "name": "Lightbulb_0"
-        },
-        "22": {
-          "name": "May_0"
-        },
-        "23": {
-          "name": "Party_Hat"
-        },
-        "24": {
-          "name": "Party_Hat_0"
-        },
-        "25": {
-          "name": "Pirate"
-        },
-        "26": {
-          "name": "Pirate_Hat_0"
-        },
-        "27": {
-          "name": "PokeCowboy"
-        },
-        "28": {
-          "name": "Pokemon_Hat"
-        },
-        "29": {
-          "name": "Scarf"
-        },
-        "30": {
-          "name": "Scarf_0"
-        },
-        "31": {
-          "name": "Top_Hat"
-        },
-        "32": {
-          "name": "Trainer_Hat"
-        },
-        "33": {
-          "name": "Trainer_Hat_0"
+          "name": "Team_Rocket_5"
         }
       }
     },
@@ -1419,107 +1284,8 @@
         "br": "Wasteljen"
       },
       "skin_name": {
-        "1": {
-          "name": "Beret"
-        },
-        "2": {
-          "name": "Beret_0"
-        },
-        "3": {
-          "name": "Bow"
-        },
-        "4": {
-          "name": "Bow_0"
-        },
-        "5": {
-          "name": "Bug_Catcher_Hat_0"
-        },
-        "6": {
-          "name": "Crown"
-        },
         "7": {
-          "name": "Crown_0"
-        },
-        "8": {
-          "name": "Dawn_0"
-        },
-        "9": {
-          "name": "Dawn_Hat"
-        },
-        "10": {
-          "name": "Default"
-        },
-        "11": {
-          "name": "Dripped_Out"
-        },
-        "12": {
-          "name": "Evil_Vibes"
-        },
-        "13": {
-          "name": "Fairy"
-        },
-        "14": {
-          "name": "Fairy_0"
-        },
-        "15": {
-          "name": "Flower"
-        },
-        "16": {
-          "name": "Flower_0"
-        },
-        "17": {
-          "name": "Green_Cap"
-        },
-        "18": {
-          "name": "Green_Hat"
-        },
-        "19": {
-          "name": "Green_Hat_Glasses"
-        },
-        "20": {
-          "name": "Hbox"
-        },
-        "21": {
-          "name": "Headband_0"
-        },
-        "22": {
-          "name": "Jenny_0"
-        },
-        "23": {
-          "name": "Let's_Go_0"
-        },
-        "24": {
-          "name": "May_Hat"
-        },
-        "25": {
-          "name": "Nurse_Joy"
-        },
-        "26": {
-          "name": "Picnicker_0"
-        },
-        "27": {
-          "name": "Sleeping_Hat_0"
-        },
-        "28": {
-          "name": "Sleepy"
-        },
-        "29": {
-          "name": "Sunhat"
-        },
-        "30": {
-          "name": "Sunnies"
-        },
-        "31": {
-          "name": "Trainer_Hat"
-        },
-        "32": {
-          "name": "Trainer_Hat_0"
-        },
-        "33": {
-          "name": "Youngster_0"
-        },
-        "34": {
-          "name": "Youngster_Cap"
+          "name": "Headband"
         }
       }
     },
@@ -1544,35 +1310,47 @@
         "br": "Diogemm"
       },
       "skin_name": {
-        "13": {
+        "11": {
           "name": "Armored_0"
         },
-        "14": {
+        "12": {
           "name": "Armored_1"
         },
-        "15": {
+        "13": {
           "name": "Armored_2"
         },
-        "16": {
+        "14": {
           "name": "Armored_3"
         },
-        "17": {
+        "15": {
           "name": "Armored_4"
         },
+        "16": {
+          "name": "Shadow_(Project+)_0"
+        },
+        "17": {
+          "name": "Shadow_(Project+)_1"
+        },
         "18": {
-          "name": "Shadow_0"
+          "name": "Shadow_(Project+)_2"
         },
         "19": {
-          "name": "Shadow_1"
+          "name": "Shadow_(Project+)_3"
         },
         "20": {
-          "name": "Shadow_2"
+          "name": "Shadow_(Ausbuild)_0"
         },
         "21": {
-          "name": "Shadow_3"
+          "name": "Shadow_(Ausbuild)_1"
         },
         "22": {
-          "name": "Shadow_4"
+          "name": "Shadow_(Ausbuild)_2"
+        },
+        "23": {
+          "name": "Shadow_(Ausbuild)_3"
+        },
+        "24": {
+          "name": "Shadow_(Ausbuild)_4"
         }
       }
     },
@@ -1590,37 +1368,37 @@
       },
       "skin_name": {
         "10": {
-          "name": "Ninja_0"
-        },
-        "11": {
-          "name": "Ninja_1"
-        },
-        "12": {
-          "name": "Ninja_2"
-        },
-        "13": {
-          "name": "Ninja_3"
-        },
-        "14": {
-          "name": "Ninja_4"
-        },
-        "15": {
-          "name": "Ninja_5"
-        },
-        "16": {
           "name": "Shinobi_0"
         },
-        "17": {
+        "11": {
           "name": "Shinobi_1"
         },
-        "18": {
+        "12": {
           "name": "Shinobi_2"
         },
-        "19": {
+        "13": {
           "name": "Shinobi_3"
         },
-        "20": {
+        "14": {
           "name": "Shinobi_4"
+        },
+        "15": {
+          "name": "Ninja_0"
+        },
+        "16": {
+          "name": "Ninja_1"
+        },
+        "17": {
+          "name": "Ninja_2"
+        },
+        "18": {
+          "name": "Ninja_3"
+        },
+        "19": {
+          "name": "Ninja_4"
+        },
+        "20": {
+          "name": "Ninja_5"
         }
       }
     },
@@ -1638,34 +1416,34 @@
       },
       "skin_name": {
         "10": {
-          "name": "Sorceress_0"
-        },
-        "11": {
-          "name": "Sorceress_1"
-        },
-        "12": {
-          "name": "Sorceress_2"
-        },
-        "13": {
-          "name": "Sorceress_3"
-        },
-        "14": {
-          "name": "Sorceress_4"
-        },
-        "15": {
           "name": "Substitute_0"
         },
-        "16": {
+        "11": {
           "name": "Substitute_1"
         },
-        "17": {
+        "12": {
           "name": "Substitute_2"
         },
-        "18": {
+        "13": {
           "name": "Substitute_3"
         },
-        "19": {
+        "14": {
           "name": "Substitute_4"
+        },
+        "15": {
+          "name": "Hex_Maniac_0"
+        },
+        "16": {
+          "name": "Hex_Maniac_1"
+        },
+        "17": {
+          "name": "Hex_Maniac_2"
+        },
+        "18": {
+          "name": "Hex_Maniac_3"
+        },
+        "19": {
+          "name": "Hex_Maniac_4"
         }
       }
     },
@@ -1683,19 +1461,19 @@
       },
       "skin_name": {
         "10": {
-          "name": "Armored_0"
+          "name": "Red_Army_0"
         },
         "11": {
-          "name": "Armored_1"
+          "name": "Red_Army_1"
         },
         "12": {
-          "name": "Armored_2"
+          "name": "Red_Army_2"
         },
         "13": {
-          "name": "Armored_3"
+          "name": "Red_Army_3"
         },
         "14": {
-          "name": "Armored_4"
+          "name": "Red_Army_4"
         },
         "15": {
           "name": "Mega_X_0"
@@ -1750,16 +1528,16 @@
           "name": "Mega_0"
         },
         "16": {
-          "name": "Mega_2"
+          "name": "Mega_1"
         },
         "17": {
-          "name": "Mega_3"
+          "name": "Mega_2"
         },
         "18": {
-          "name": "Mega_4"
+          "name": "Mega_3"
         },
         "19": {
-          "name": "Mega_5"
+          "name": "Mega_4"
         }
       }
     },
@@ -1784,34 +1562,49 @@
       },
       "skin_name": {
         "10": {
-          "name": "No_Helmet_0"
-        },
-        "11": {
-          "name": "No_Helmet_1"
-        },
-        "12": {
-          "name": "No_Helmet_2"
-        },
-        "13": {
-          "name": "No_Helmet_3"
-        },
-        "14": {
-          "name": "No_Helmet_4"
-        },
-        "15": {
           "name": "Retro_0"
         },
-        "16": {
+        "11": {
           "name": "Retro_1"
         },
-        "17": {
+        "12": {
           "name": "Retro_2"
         },
-        "18": {
+        "13": {
           "name": "Retro_3"
         },
-        "19": {
+        "14": {
           "name": "Retro_4"
+        },
+        "15": {
+          "name": "Helmetless_0"
+        },
+        "16": {
+          "name": "Helmetless_1"
+        },
+        "17": {
+          "name": "Helmetless_2"
+        },
+        "18": {
+          "name": "Helmetless_3"
+        },
+        "19": {
+          "name": "Helmetless_4"
+        },
+        "20": {
+          "name": "Super_0"
+        },
+        "21": {
+          "name": "Super_1"
+        },
+        "22": {
+          "name": "Super_2"
+        },
+        "23": {
+          "name": "Super_3"
+        },
+        "24": {
+          "name": "Super_4"
         }
       }
     },
@@ -1836,37 +1629,37 @@
       },
       "skin_name": {
         "10": {
-          "name": "Ninten_0"
-        },
-        "11": {
-          "name": "Ninten_1"
-        },
-        "12": {
-          "name": "Ninten_2"
-        },
-        "13": {
-          "name": "Ninten_3"
-        },
-        "14": {
-          "name": "Ninten_4"
-        },
-        "15": {
-          "name": "Ninten_5"
-        },
-        "16": {
           "name": "Pajamas_0"
         },
-        "17": {
+        "11": {
           "name": "Pajamas_1"
         },
-        "18": {
+        "12": {
           "name": "Pajamas_2"
         },
-        "19": {
+        "13": {
           "name": "Pajamas_3"
         },
-        "20": {
+        "14": {
           "name": "Pajamas_4"
+        },
+        "15": {
+          "name": "Ninten_0"
+        },
+        "16": {
+          "name": "Ninten_1"
+        },
+        "17": {
+          "name": "Ninten_2"
+        },
+        "18": {
+          "name": "Ninten_3"
+        },
+        "19": {
+          "name": "Ninten_4"
+        },
+        "20": {
+          "name": "Ninten_5"
         }
       }
     },
@@ -1891,52 +1684,52 @@
       },
       "skin_name": {
         "6": {
-          "name": "Chimera_Minus_0"
+          "name": "Masked_Man_0"
         },
         "7": {
-          "name": "Chimera_Minus_1"
+          "name": "Masked_Man_1"
         },
         "8": {
-          "name": "Chimera_Minus_2"
+          "name": "Masked_Man_2"
         },
         "9": {
-          "name": "Chimera_Minus_3"
+          "name": "Masked_Man_3"
         },
         "10": {
-          "name": "Commander_0"
+          "name": "Masked_Man_4"
         },
         "11": {
-          "name": "Commander_1"
+          "name": "Masked_Man_5"
         },
         "12": {
-          "name": "Commander_2"
+          "name": "Smash_2_0"
         },
         "13": {
-          "name": "Commander_3"
+          "name": "Smash_2_1"
         },
         "14": {
-          "name": "Commander_4"
+          "name": "Smash_2_2"
         },
         "15": {
-          "name": "Commander_5"
+          "name": "Smash_2_3"
         },
         "16": {
-          "name": "EB63_1"
+          "name": "Smash_2_4"
         },
         "17": {
-          "name": "EB63_2"
+          "name": "Smash_2_5"
         },
         "18": {
-          "name": "EB63_3"
+          "name": "Chimera_0"
         },
         "19": {
-          "name": "EB63_4"
+          "name": "Chimera_1"
         },
         "20": {
-          "name": "EB63_5"
+          "name": "Chimera_2"
         },
         "21": {
-          "name": "EB63_6"
+          "name": "Chimera_3"
         }
       }
     },
@@ -1960,44 +1753,35 @@
         "zh_CN": "\u7ffb\u8d8a\u51b0\u5c71\u8005"
       },
       "skin_name": {
-        "3": {
-          "name": "1_alt"
+        "10": {
+          "name": "Polar_Bear_0"
         },
-        "7": {
-          "name": "4_alt"
+        "11": {
+          "name": "Polar_Bear_1"
         },
-        "9": {
-          "name": "5_alt"
+        "12": {
+          "name": "Polar_Bear_2"
+        },
+        "13": {
+          "name": "Polar_Bear_3"
         },
         "14": {
-          "name": "Polar_0"
+          "name": "Polar_Bear_4"
         },
         "15": {
-          "name": "Polar_1"
-        },
-        "16": {
-          "name": "Polar_2"
-        },
-        "17": {
-          "name": "Polar_3"
-        },
-        "18": {
-          "name": "Polar_4"
-        },
-        "19": {
           "name": "Tundra_0"
         },
-        "20": {
+        "16": {
           "name": "Tundra_1"
         },
-        "21": {
+        "17": {
           "name": "Tundra_2"
         },
-        "22": {
+        "18": {
           "name": "Tundra_3"
         },
-        "23": {
-          "name": "Ushanka_4"
+        "19": {
+          "name": "Tundra_4"
         }
       }
     },
@@ -2021,47 +1805,41 @@
         "zh_CN": "\u9a6c\u5c14\u65af"
       },
       "skin_name": {
-        "7": {
-          "name": "Armor_0"
-        },
-        "8": {
-          "name": "Armor_1"
-        },
         "9": {
-          "name": "Caeda_Dark"
+          "name": "Sigurd_0"
         },
         "10": {
-          "name": "Holy_War_0"
+          "name": "Sigurd_1"
         },
         "11": {
-          "name": "Holy_War_1"
+          "name": "Sigurd_2"
         },
         "12": {
-          "name": "Holy_War_2"
+          "name": "Sigurd_3"
         },
         "13": {
-          "name": "Holy_War_3"
+          "name": "Sigurd_4"
         },
         "14": {
-          "name": "Hooded_0"
+          "name": "Sigurd_5"
         },
         "15": {
-          "name": "Hooded_1"
+          "name": "Hooded_0"
         },
         "16": {
-          "name": "Hooded_2"
+          "name": "Hooded_1"
         },
         "17": {
-          "name": "Hooded_3"
+          "name": "Hooded_2"
         },
         "18": {
-          "name": "Hooded_4"
+          "name": "Hooded_3"
         },
         "19": {
-          "name": "Hood_White"
+          "name": "Hooded_4"
         },
         "20": {
-          "name": "Lime"
+          "name": "Hooded_5"
         }
       }
     },
@@ -2122,7 +1900,7 @@
           "name": "Beta_5"
         },
         "21": {
-          "name": "Beta_Purple"
+          "name": "Beta_6"
         }
       }
     },
@@ -2146,47 +1924,41 @@
         "zh_CN": "\u827e\u514b"
       },
       "skin_name": {
-        "7": {
-          "name": "Armored_0"
-        },
-        "8": {
-          "name": "Armored_1"
-        },
         "9": {
-          "name": "Armored_2"
+          "name": "Hector_0"
         },
         "10": {
-          "name": "Armored_3"
+          "name": "Hector_1"
         },
         "11": {
-          "name": "Armored_Custom_4"
+          "name": "Hector_2"
         },
         "12": {
-          "name": "Armored_Titania"
+          "name": "Hector_3"
         },
         "13": {
-          "name": "Greil_0"
+          "name": "Hector_4"
         },
         "14": {
-          "name": "Greil_1"
+          "name": "Hector_5"
         },
         "15": {
-          "name": "Greil_2"
+          "name": "Greil_0"
         },
         "16": {
-          "name": "Greil_3"
+          "name": "Greil_1"
         },
         "17": {
-          "name": "Greil_4"
+          "name": "Greil_2"
         },
         "18": {
-          "name": "Greil_5"
+          "name": "Greil_3"
         },
         "19": {
-          "name": "Lord"
+          "name": "Greil_4"
         },
         "20": {
-          "name": "Shun_One_s_Chrom"
+          "name": "Greil_5"
         }
       }
     },
@@ -2209,7 +1981,20 @@
         "zh_TW": "Mr. Game & Watch",
         "zh_CN": "Mr. Game & Watch"
       },
-      "skin_name": {}
+      "skin_name": {
+        "22": {
+          "name": "Judge_0"
+        },
+        "23": {
+          "name": "Judge_1"
+        },
+        "24": {
+          "name": "Judge_2"
+        },
+        "25": {
+          "name": "Judge_3"
+        }
+      }
     },
     "Pit": {
       "smashgg_name": "Pit",
@@ -2231,50 +2016,50 @@
         "zh_CN": "\u5f7c\u7279"
       },
       "skin_name": {
-        "3": {
-          "name": "2ST_0"
-        },
-        "4": {
-          "name": "2ST_Black_3"
-        },
-        "5": {
-          "name": "2ST_Blue_3"
-        },
-        "6": {
-          "name": "2ST_Green_3"
-        },
-        "7": {
-          "name": "2ST_Red_3"
-        },
-        "15": {
+        "10": {
           "name": "Dark_0"
         },
-        "16": {
+        "11": {
           "name": "Dark_1"
         },
-        "17": {
+        "12": {
           "name": "Dark_2"
         },
-        "18": {
+        "13": {
           "name": "Dark_3"
         },
-        "19": {
+        "14": {
           "name": "Dark_4"
         },
+        "15": {
+          "name": "Classic_0"
+        },
+        "16": {
+          "name": "Classic_1"
+        },
+        "17": {
+          "name": "Classic_2"
+        },
+        "18": {
+          "name": "Classic_3"
+        },
+        "19": {
+          "name": "Classic_4"
+        },
         "20": {
-          "name": "Retro_0"
+          "name": "Two_Sacred_Treasures_0"
         },
         "21": {
-          "name": "Retro_1"
+          "name": "Two_Sacred_Treasures_1"
         },
         "22": {
-          "name": "Retro_2"
+          "name": "Two_Sacred_Treasures_2"
         },
         "23": {
-          "name": "Retro_3"
+          "name": "Two_Sacred_Treasures_3"
         },
         "24": {
-          "name": "Retro_4"
+          "name": "Two_Sacred_Treasures_4"
         }
       }
     },
@@ -2298,56 +2083,32 @@
         "zh_CN": "\u74e6\u529b\u6b27"
       },
       "skin_name": {
-        "1": {
+        "9": {
           "name": "Biker_0"
         },
-        "2": {
+        "10": {
           "name": "Biker_1"
         },
-        "3": {
+        "11": {
           "name": "Biker_2"
         },
-        "4": {
+        "12": {
           "name": "Biker_3"
         },
-        "5": {
+        "13": {
           "name": "Biker_4"
         },
-        "6": {
+        "14": {
           "name": "Biker_5"
         },
-        "7": {
-          "name": "Biker_Morshu"
-        },
-        "8": {
-          "name": "Biker_MR_Blue"
-        },
-        "9": {
-          "name": "Biker_MR_Yellow"
-        },
-        "10": {
-          "name": "Classic_1"
-        },
-        "11": {
-          "name": "Classic_2"
-        },
-        "12": {
-          "name": "Classic_3"
-        },
-        "13": {
-          "name": "Classic_4"
-        },
-        "14": {
-          "name": "Classic_5"
-        },
         "15": {
-          "name": "Classic_Spamite_12"
+          "name": "Biker_6"
         },
         "16": {
-          "name": "Classic_Spamite_13"
+          "name": "Biker_7"
         },
         "17": {
-          "name": "Classic_Zard_13"
+          "name": "Biker_8"
         },
         "18": {
           "name": "Tycoon_0"
@@ -2390,34 +2151,52 @@
       },
       "skin_name": {
         "10": {
-          "name": "Astromar_0"
-        },
-        "11": {
-          "name": "Astromar_1"
-        },
-        "12": {
-          "name": "Astromar_2"
-        },
-        "13": {
-          "name": "Astromar_3"
-        },
-        "14": {
-          "name": "Astromar_4"
-        },
-        "15": {
           "name": "Bad_Ending_0"
         },
-        "16": {
+        "11": {
           "name": "Bad_Ending_1"
         },
-        "17": {
+        "12": {
           "name": "Bad_Ending_2"
         },
-        "18": {
+        "13": {
           "name": "Bad_Ending_3"
         },
+        "14": {
+          "name": "Pikmar"
+        },
+        "15": {
+          "name": "Astromar_0"
+        },
+        "16": {
+          "name": "Astromar_1"
+        },
+        "17": {
+          "name": "Astromar_2"
+        },
+        "18": {
+          "name": "Astromar_3"
+        },
         "19": {
-          "name": "Pikmar_0"
+          "name": "Astromar_4"
+        },
+        "20": {
+          "name": "Safety_0"
+        },
+        "21": {
+          "name": "Safety_1"
+        },
+        "22": {
+          "name": "Safety_2"
+        },
+        "23": {
+          "name": "Safety_3"
+        },
+        "24": {
+          "name": "Safety_4"
+        },
+        "25": {
+          "name": "Safety_5"
         }
       }
     },
@@ -2482,6 +2261,9 @@
         },
         "19": {
           "name": "Wii_3"
+        },
+        "20": {
+          "name": "Wii_4"
         }
       }
     },
@@ -2521,25 +2303,19 @@
           "name": "Big_Boss_4"
         },
         "15": {
-          "name": "Big_Boss_5"
+          "name": "Tuxedo"
         },
         "16": {
-          "name": "Fancy"
+          "name": "MGS1_0"
         },
         "17": {
-          "name": "MGS0_1"
+          "name": "MGS1_1"
         },
         "18": {
-          "name": "MGS0_2"
+          "name": "MGS1_2"
         },
         "19": {
-          "name": "MGS0_3"
-        },
-        "20": {
-          "name": "MGS0_4"
-        },
-        "21": {
-          "name": "Tuxedo_0"
+          "name": "MGS1_3"
         }
       }
     },
@@ -2563,65 +2339,53 @@
         "zh_CN": "\u7d22\u5c3c\u514b"
       },
       "skin_name": {
-        "4": {
-          "name": "JetSet_0"
-        },
-        "5": {
-          "name": "JetSet_1"
-        },
-        "6": {
-          "name": "JetSet_2"
-        },
         "7": {
-          "name": "JetSet_3"
+          "name": "Racing_Suit"
         },
         "8": {
-          "name": "JetSet_4"
-        },
-        "9": {
           "name": "Jet_Set_0"
         },
-        "10": {
+        "9": {
           "name": "Jet_Set_1"
         },
-        "11": {
+        "10": {
           "name": "Jet_Set_2"
         },
-        "12": {
+        "11": {
           "name": "Jet_Set_3"
         },
+        "12": {
+          "name": "Jet_Set_4"
+        },
         "13": {
-          "name": "Racing_Suit_0"
+          "name": "Sega_Kid_0"
         },
         "14": {
-          "name": "Racing_Suit_1"
+          "name": "Sega_Kid_1"
         },
         "15": {
-          "name": "Racing_Suit_2"
+          "name": "Sega_Kid_2"
         },
         "16": {
-          "name": "Racing_Suit_3"
+          "name": "Sega_Kid_3"
         },
         "17": {
-          "name": "Shadow_0"
+          "name": "Sega_Kid_4"
         },
         "18": {
-          "name": "Silver_0"
+          "name": "Excalibur_0"
         },
         "19": {
-          "name": "Smash_1_Light_Speed_0"
+          "name": "Excalibur_1"
         },
         "20": {
-          "name": "Smash_1_Light_Speed_1"
+          "name": "Excalibur_2"
         },
         "21": {
-          "name": "Smash_1_Light_Speed_2"
+          "name": "Excalibur_3"
         },
         "22": {
-          "name": "Smash_1_Pink"
-        },
-        "23": {
-          "name": "Tails_0"
+          "name": "Excalibur_4"
         }
       }
     },
@@ -2637,55 +2401,46 @@
       },
       "skin_name": {
         "8": {
-          "name": "Charmy"
+          "name": "Jet_Set_0"
         },
         "9": {
-          "name": "Espio"
+          "name": "Jet_Set_1"
         },
         "10": {
-          "name": "JetSet_0"
+          "name": "Jet_Set_2"
         },
         "11": {
-          "name": "JetSet_1"
+          "name": "Jet_Set_3"
         },
         "12": {
-          "name": "JetSet_2"
+          "name": "Jet_Set_4"
         },
         "13": {
-          "name": "JetSet_3"
-        },
-        "14": {
           "name": "Treasure_Hunter_0"
         },
-        "15": {
+        "14": {
           "name": "Treasure_Hunter_1"
         },
-        "16": {
+        "15": {
           "name": "Treasure_Hunter_2"
         },
-        "17": {
+        "16": {
           "name": "Treasure_Hunter_3"
         },
-        "18": {
+        "17": {
           "name": "Treasure_Hunter_4"
         },
-        "19": {
+        "18": {
           "name": "Treasure_Hunter_5"
         },
-        "20": {
+        "19": {
           "name": "Treasure_Hunter_6"
         },
-        "21": {
+        "20": {
           "name": "Treasure_Hunter_7"
         },
-        "22": {
+        "21": {
           "name": "Treasure_Hunter_8"
-        },
-        "23": {
-          "name": "Tribal"
-        },
-        "24": {
-          "name": "Vector"
         }
       }
     },
@@ -2717,8 +2472,54 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.09.43356",
   "description": "Base config to use this game.",
+  "preset_colors": [
+    {
+      "name": "Red (P1)",
+      "value": "EE0906"
+    },
+    {
+      "name": "Blue (P2)",
+      "value": "1E30D6"
+    },
+    {
+      "name": "Yellow (P3)",
+      "value": "FED600"
+    },
+    {
+      "name": "Green (P4)",
+      "value": "0B971E"
+    },
+    {
+      "name": "Pink",
+      "value": "FF19BC"
+    },
+    {
+      "name": "Purple",
+      "value": "8E11D4"
+    },
+    {
+      "name": "Gold",
+      "value": "FE920A"
+    },
+    {
+      "name": "Turquoise",
+      "value": "00FEBF"
+    },
+    {
+      "name": "Grey (Computer Player)",
+      "value": "7F7F7F"
+    },
+    {
+      "name": "Black",
+      "value": "141414"
+    },
+    {
+      "name": "White",
+      "value": "FFFFFF"
+    }
+  ],
   "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
   "igdb_game_id": "project-plus"
 }

@@ -1,11 +1,143 @@
 {
   "name": "Stage Icons",
-  "version": "26.03.10.70768",
+  "version": "26.06.08.81670",
   "description": "Stage icons",
   "prefix": "file_",
   "postfix": "",
   "type": [
     "stage_icon"
   ],
-  "credits": "Ripped from https://www.serebii.net/pokkendx/stages.shtml"
+  "credits": "Ripped from https://www.serebii.net/pokkendx/stages.shtml",
+  "image_sizes": {
+    "BlueDome": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "DarkColosseum": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "DarkColosseumFinal": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "DiggersbyLand": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "DragonsNest": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "FerrumDojo": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "FerrumStadium": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "HauntedHouse": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "MagikarpFestival": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "MysteryCarnival": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "NeosCity": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "NeosCityNight": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "OldFerrumTown": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "OldFerrumTownWinter": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "PhosVolcano": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "RegiRuins": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "SnowGift": {
+      "null": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "TellurTown": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "TellurTownAutumn": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    },
+    "ThaliaBeach": {
+      "null": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "TrainingGym": {
+      "null": {
+        "x": 800,
+        "y": 450
+      }
+    }
+  },
+  "average_size": {
+    "x": 906.6666666666666,
+    "y": 510.0
+  }
 }

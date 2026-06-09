@@ -1,0 +1,11 @@
+{
+  "name": "Support Pokémon",
+  "version": "25.05.29.53856",
+  "description": "Sets of support Pokémon\nRequires TSH 5.92 or higher to be used",
+  "credits": "Icons ripped from Pok\u00e9mon Sun & Moon",
+  "prefix": "file_",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ]
+}

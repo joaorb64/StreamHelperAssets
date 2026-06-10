@@ -1,11 +1,125 @@
 {
-  "name": "Support Pokémon",
-  "version": "25.05.29.53856",
-  "description": "Sets of support Pokémon\nRequires TSH 5.92 or higher to be used",
+  "name": "Support Pok\u00e9mon",
+  "version": "26.06.09.71670",
+  "description": "Sets of support Pok\u00e9mon\nRequires TSH 5.92 or higher to be used",
   "credits": "Icons ripped from Pok\u00e9mon Sun & Moon",
   "prefix": "file_",
   "postfix": "",
   "type": [
     "variant_icon"
-  ]
+  ],
+  "image_sizes": {
+    "CroagunkSylveonV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "CuboneDiglettV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "DragoniteVictiniV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "EmolgaFennekinV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "EspeonUmbreonV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "FarfetchdElectrodeV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "FrogadierEeveeV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "JirachiWhimsicottV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "LittenPopplioV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "MagnetonQuagsireV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "MegaRayquazaMimikyuV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "MewCelebiV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "MismagiusNinetalesV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "PachirisuMagikarpV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "ReshiramCresseliaV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "RotomTogekissV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "SnivyLaprasV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    },
+    "YveltalLatiosV": {
+      "null": {
+        "x": 96,
+        "y": 48
+      }
+    }
+  },
+  "average_size": {
+    "x": 96.0,
+    "y": 48.0
+  }
 }

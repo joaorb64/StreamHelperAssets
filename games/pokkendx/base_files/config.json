@@ -385,58 +385,256 @@
   "igdb_game_id": "pokken-tournament-dx",
   "variant_to_codename": {
     "Emolga / Fennekin": {
-      "codename": "EmolgaFennekinV"
+      "codename": "EmolgaFennekinV",
+      "locale": {
+        "fr": "Emolga / Feunnec",
+        "de": "Emolga / Fynx",
+        "ko": "\uc5d0\ubabd\uac00 / \ud478\ud638\uaf2c",
+        "ja": "\u30a8\u30e2\u30f3\u30ac / \u30d5\u30a9\u30c3\u30b3",
+        "zh_CN": "\u7535\u98de\u9f20 / \u706b\u72d0\u72f8",
+        "zh_TW": "\u96fb\u98db\u9f20 / \u706b\u72d0\u72f8",
+        "it": "Emolga / Fennekin",
+        "es": "Emolga / Fennekin",
+        "br": "Emolga / Fennekin"
+      }
     },
     "Snivy / Lapras": {
-      "codename": "SnivyLaprasV"
+      "codename": "SnivyLaprasV",
+      "locale": {
+        "fr": "Vip\u00e9lierre / Lokhlass",
+        "de": "Serpifeu / Lapras",
+        "ko": "\uc8fc\ub9ac\ube44\uc580 / \ub77c\ud504\ub77c\uc2a4",
+        "ja": "\u30c4\u30bf\u30fc\u30b8\u30e3 / \u30e9\u30d7\u30e9\u30b9",
+        "zh_CN": "\u85e4\u85e4\u86c7 / \u62c9\u666e\u62c9\u65af",
+        "zh_TW": "\u85e4\u85e4\u86c7 / \u62c9\u666e\u62c9\u65af",
+        "it": "Snivy / Lapras",
+        "es": "Snivy / Lapras",
+        "br": "Snivy / Arplaz"
+      }
     },
     "Frogadier / Eevee": {
-      "codename": "FrogadierEeveeV"
+      "codename": "FrogadierEeveeV",
+      "locale": {
+        "fr": "Cro\u00e2poral / \u00c9voli",
+        "de": "Amphizel / Evoli",
+        "ko": "\uac1c\uad74\ubc18\uc7a5 / \uc774\ube0c\uc774",
+        "ja": "\u30b2\u30b3\u30ac\u30b7\u30e9 / \u30a4\u30fc\u30d6\u30a4",
+        "zh_CN": "\u5471\u5934\u86d9 / \u4f0a\u5e03",
+        "zh_TW": "\u5471\u982d\u86d9 / \u4f0a\u5e03",
+        "it": "Frogadier / Eevee",
+        "es": "Frogadier / Eevee",
+        "br": "Frogadier / Emdrogi"
+      }
     },
     "Cubone / Diglett": {
-      "codename": "CuboneDiglettV"
+      "codename": "CuboneDiglettV",
+      "locale": {
+        "fr": "Osselait / Taupiqueur",
+        "de": "Tragosso / Digda",
+        "ko": "\ud0d5\uad6c\ub9ac / \ub514\uadf8\ub2e4",
+        "ja": "\u30ab\u30e9\u30ab\u30e9 / \u30c7\u30a3\u30b0\u30c0",
+        "zh_CN": "\u5361\u62c9\u5361\u62c9 / \u5730\u9f20",
+        "zh_TW": "\u5361\u62c9\u5361\u62c9 / \u5730\u9f20",
+        "it": "Cubone / Diglett",
+        "es": "Cubone / Diglett",
+        "br": "Straskorn / Toulgleuzer"
+      }
     },
     "Jirachi / Whimsicott": {
-      "codename": "JirachiWhimsicottV"
+      "codename": "JirachiWhimsicottV",
+      "locale": {
+        "fr": "Jirachi / Farfaduvet",
+        "de": "Jirachi / Elfun",
+        "ko": "\uc9c0\ub77c\uce58 / \uc5d8\ud48d",
+        "ja": "\u30b8\u30e9\u30fc\u30c1 / \u30a8\u30eb\u30d5\u30fc\u30f3",
+        "zh_CN": "\u57fa\u62c9\u7948 / \u98ce\u5996\u7cbe",
+        "zh_TW": "\u57fa\u62c9\u7948 / \u98a8\u5996\u7cbe",
+        "it": "Jirachi / Whimsicott",
+        "es": "Jirachi / Whimsicott",
+        "br": "Jirachi / Whimsicott"
+      }
     },
     "Croagunk / Sylveon": {
-      "codename": "CroagunkSylveonV"
+      "codename": "CroagunkSylveonV",
+      "locale": {
+        "fr": "Cradopaud / Nymphali",
+        "de": "Glibunkel / Feelinara",
+        "ko": "\uc090\ub531\uad6c\ub9ac / \ub2d8\ud53c\uc544",
+        "ja": "\u30b0\u30ec\u30c3\u30b0\u30eb / \u30cb\u30f3\u30d5\u30a3\u30a2",
+        "zh_CN": "\u4e0d\u826f\u86d9 / \u4ed9\u5b50\u4f0a\u5e03",
+        "zh_TW": "\u4e0d\u826f\u86d9 / \u4ed9\u5b50\u4f0a\u5e03",
+        "it": "Croagunk / Sylveon",
+        "es": "Croagunk / Sylveon",
+        "br": "Croagunk / Sylveon"
+      }
     },
     "Pachirisu / Magikarp": {
-      "codename": "PachirisuMagikarpV"
+      "codename": "PachirisuMagikarpV",
+      "locale": {
+        "fr": "Pachirisu / Magicarpe",
+        "de": "Pachirisu / Karpador",
+        "ko": "\ud30c\uce58\ub9ac\uc2a4 / \uc789\uc5b4\ud0b9",
+        "ja": "\u30d1\u30c1\u30ea\u30b9 / \u30b3\u30a4\u30ad\u30f3\u30b0",
+        "zh_CN": "\u5e15\u5947\u5229\u5179 / \u9ca4\u9c7c\u738b",
+        "zh_TW": "\u5e15\u5947\u5229\u8332 / \u9bc9\u9b5a\u738b",
+        "it": "Pachirisu / Magikarp",
+        "es": "Pachirisu / Magikarp",
+        "br": "Pachirisu / Dugarpenn"
+      }
     },
     "Mismagius / Ninetales": {
-      "codename": "MismagiusNinetalesV"
+      "codename": "MismagiusNinetalesV",
+      "locale": {
+        "fr": "Magir\u00eave / Feunard",
+        "de": "Traunmagil / Vulnona",
+        "ko": "\ubb34\uc6b0\ub9c8\uc9c1 / \ub098\uc778\ud14c\uc77c",
+        "ja": "\u30e0\u30a6\u30de\u30fc\u30b8 / \u30ad\u30e5\u30a6\u30b3\u30f3",
+        "zh_CN": "\u68a6\u5996\u9b54 / \u4e5d\u5c3e",
+        "zh_TW": "\u5922\u5996\u9b54 / \u4e5d\u5c3e",
+        "it": "Mismagius / Ninetales",
+        "es": "Mismagius / Ninetales",
+        "br": "Mismagius / Nawlan"
+      }
     },
     "Rotom / Togekiss": {
-      "codename": "RotomTogekissV"
+      "codename": "RotomTogekissV",
+      "locale": {
+        "fr": "Motisma / Togekiss",
+        "de": "Rotom / Togekiss",
+        "ko": "\ub85c\ud1a0\ubb34 / \ud1a0\uac8c\ud0a4\uc2a4",
+        "ja": "\u30ed\u30c8\u30e0 / \u30c8\u30b2\u30ad\u30c3\u30b9",
+        "zh_CN": "\u6d1b\u6258\u59c6 / \u6ce2\u514b\u57fa\u65af",
+        "zh_TW": "\u6d1b\u6258\u59c6 / \u6ce2\u514b\u57fa\u65af",
+        "it": "Rotom / Togekiss",
+        "es": "Rotom / Togekiss",
+        "br": "Rotom / Togekiss"
+      }
     },
     "Farfetch'd / Electrode": {
-      "codename": "FarfetchdElectrodeV"
+      "codename": "FarfetchdElectrodeV",
+      "locale": {
+        "fr": "Canarticho / \u00c9lectrode",
+        "de": "Porenta / Lektrobal",
+        "ko": "\ud30c\uc624\ub9ac / \ubd90\ubcfc",
+        "ja": "\u30ab\u30e2\u30cd\u30ae / \u30de\u30eb\u30de\u30a4\u30f3",
+        "zh_CN": "\u5927\u8471\u9e2d / \u987d\u76ae\u96f7\u5f39",
+        "zh_TW": "\u5927\u8525\u9d28 / \u9811\u76ae\u96f7\u5f48",
+        "br": "Sivolouad / Elekbomb",
+        "it": "Farfetch'd / Electrode",
+        "es": "Farfetch'd / Electrode"
+      }
     },
     "Dragonite / Victini": {
-      "codename": "DragoniteVictiniV"
+      "codename": "DragoniteVictiniV",
+      "locale": {
+        "fr": "Dracolosse / Victini",
+        "de": "Dragoran / Victini",
+        "ko": "\ub9dd\ub098\ub1fd / \ube44\ud06c\ud2f0\ub2c8",
+        "ja": "\u30ab\u30a4\u30ea\u30e5\u30fc / \u30d3\u30af\u30c6\u30a3\u30cb",
+        "zh_CN": "\u5feb\u9f99 / \u6bd4\u514b\u63d0\u5c3c",
+        "zh_TW": "\u5feb\u9f8d / \u6bd4\u514b\u63d0\u5c3c",
+        "it": "Dragonite / Victini",
+        "es": "Dragonite / Victini",
+        "br": "Morouant / Victini"
+      }
     },
     "Espeon / Umbreon": {
-      "codename": "EspeonUmbreonV"
+      "codename": "EspeonUmbreonV",
+      "locale": {
+        "fr": "Mentali / Noctali",
+        "de": "Psiana / Nachtara",
+        "ko": "\uc5d0\ube0c\uc774 / \ube14\ub798\ud0a4",
+        "ja": "\u30a8\u30fc\u30d5\u30a3 / \u30d6\u30e9\u30c3\u30ad\u30fc",
+        "zh_CN": "\u592a\u9633\u4f0a\u5e03 / \u6708\u4eae\u4f0a\u5e03",
+        "zh_TW": "\u592a\u967d\u4f0a\u5e03 / \u6708\u4eae\u4f0a\u5e03",
+        "it": "Espeon / Umbreon",
+        "es": "Espeon / Umbreon",
+        "br": "Espeon / Umbreon"
+      }
     },
     "Reshiram / Cresselia": {
-      "codename": "ReshiramCresseliaV"
+      "codename": "ReshiramCresseliaV",
+      "locale": {
+        "fr": "Reshiram / Cresselia",
+        "de": "Reshiram / Cresselia",
+        "ko": "\ub808\uc2dc\ub77c\ubb34 / \ud06c\ub808\uc138\ub9ac\uc544",
+        "ja": "\u30ec\u30b7\u30e9\u30e0 / \u30af\u30ec\u30bb\u30ea\u30a2",
+        "zh_CN": "\u83b1\u5e0c\u62c9\u59c6 / \u514b\u96f7\u8272\u5229\u4e9a",
+        "zh_TW": "\u840a\u5e0c\u62c9\u59c6 / \u514b\u96f7\u8272\u5229\u4e9e",
+        "it": "Reshiram / Cresselia",
+        "es": "Reshiram / Cresselia",
+        "br": "Reshiram / Cresselia"
+      }
     },
     "Magneton / Quagsire": {
-      "codename": "MagnetonQuagsireV"
+      "codename": "MagnetonQuagsireV",
+      "locale": {
+        "fr": "Magn\u00e9ton / Maraiste",
+        "de": "Magneton / Morlord",
+        "ko": "\ub808\uc5b4\ucf54\uc77c / \ub204\uc624",
+        "ja": "\u30ec\u30a2\u30b3\u30a4\u30eb / \u30cc\u30aa\u30fc",
+        "zh_CN": "\u4e09\u5408\u4e00\u78c1\u602a / \u6cbc\u738b",
+        "zh_TW": "\u4e09\u5408\u4e00\u78c1\u602a / \u6cbc\u738b",
+        "it": "Magneton / Quagsire",
+        "es": "Magneton / Quagsire",
+        "br": "Luc\u2019hboulo\u00f9 / Quagsire"
+      }
     },
     "Yveltal / Latios": {
-      "codename": "YveltalLatiosV"
+      "codename": "YveltalLatiosV",
+      "locale": {
+        "fr": "Yveltal / Latios",
+        "de": "Yveltal / Latios",
+        "ko": "\uc774\ubca8\ud0c0\ub974 / \ub77c\ud2f0\uc624\uc2a4",
+        "ja": "\u30a4\u30d9\u30eb\u30bf\u30eb / \u30e9\u30c6\u30a3\u30aa\u30b9",
+        "zh_CN": "\u4f0a\u88f4\u5c14\u5854\u5c14 / \u62c9\u5e1d\u6b27\u65af",
+        "zh_TW": "\u4f0a\u88f4\u723e\u5854\u723e / \u62c9\u5e1d\u6b50\u65af",
+        "it": "Yveltal / Latios",
+        "es": "Yveltal / Latios",
+        "br": "Yveltal / Latios"
+      }
     },
     "Litten / Popplio": {
-      "codename": "LittenPopplioV"
+      "codename": "LittenPopplioV",
+      "locale": {
+        "fr": "Flamiaou / Otaquin",
+        "de": "Flamiau / Robball",
+        "ko": "\ub0d0\uc624\ubd88 / \ub204\ub9ac\uacf5",
+        "ja": "\u30cb\u30e3\u30d3\u30fc / \u30a2\u30b7\u30de\u30ea",
+        "zh_CN": "\u706b\u6591\u55b5 / \u7403\u7403\u6d77\u72ee",
+        "zh_TW": "\u706b\u6591\u55b5 / \u7403\u7403\u6d77\u7345",
+        "it": "Litten / Popplio",
+        "es": "Litten / Popplio",
+        "br": "Litten / Popplio"
+      }
     },
-    "Mega Rayquaza / Mimikyu": {
-      "codename": "MegaRayquazaMimikyuV"
+    "Rayquaza (Mega) / Mimikyu": {
+      "codename": "MegaRayquazaMimikyuV",
+      "locale": {
+        "fr": "Rayquaza (Mega) / Mimiqui",
+        "de": "Rayquaza (Mega) / Mimigma",
+        "ko": "\ub808\ucfe0\uc7c8 (Mega) / \ub530\ub77c\ud050",
+        "ja": "\u30ec\u30c3\u30af\u30a6\u30b6 (Mega) / \u30df\u30df\u30c3\u30ad\u30e5",
+        "zh_CN": "\u70c8\u7a7a\u5750 (Mega) / \u8c1c\u62df\u4e18",
+        "zh_TW": "\u70c8\u7a7a\u5750 (Mega) / \u8b0e\u64ec\uff31",
+        "it": "Rayquaza (Mega) / Mimikyu",
+        "es": "Rayquaza (Mega) / Mimikyu",
+        "br": "Rayquaza (Mega) / Mimikyu"
+      }
     },
     "Mew / Celebi": {
-      "codename": "MewCelebiV"
+      "codename": "MewCelebiV",
+      "locale": {
+        "fr": "Mew / Celebi",
+        "de": "Mew / Celebi",
+        "ko": "\ubba4 / \uc138\ub808\ube44",
+        "ja": "\u30df\u30e5\u30a6 / \u30bb\u30ec\u30d3\u30a3",
+        "zh_CN": "\u68a6\u5e7b / \u65f6\u62c9\u6bd4",
+        "zh_TW": "\u5922\u5e7b / \u6642\u62c9\u6bd4",
+        "it": "Mew / Celebi",
+        "es": "Mew / Celebi",
+        "br": "Kemm / Celebi"
+      }
     }
   }
 }

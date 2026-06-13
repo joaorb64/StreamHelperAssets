@@ -107,5 +107,9 @@
     "ja": {
       "name": "\u30de\u30fc\u30d9\u30eb\u30fb\u95d8\u9b42"
     }
+  },
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 4
   }
 }

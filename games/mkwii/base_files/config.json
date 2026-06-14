@@ -408,7 +408,14 @@
     {
       "name": "CTGP Revolution",
       "smashgg_game_id": null,
-      "logo_path": "logo_ctgp.png"
+      "logo_path": "logo_ctgp.png",
+      "igdb_game_id": "mario-kart-wii-ctgp-revolution"
+    },
+    {
+      "name": "Mario Kart: Retro Rewind",
+      "smashgg_game_id": null,
+      "logo_path": "logo_retro.png",
+      "igdb_game_id": "mario-kart-retro-rewind"
     }
   ],
   "stage_to_codename": {

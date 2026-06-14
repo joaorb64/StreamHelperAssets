@@ -143,7 +143,14 @@
     {
       "name": "Vampire Chronicle For Matching Service",
       "smashgg_game_id": 47498,
-      "logo_path": "logo_hyper.png"
+      "logo_path": "logo_hyper.png",
+      "igdb_game_id": "vampire-chronicle-for-matching-service"
+    },
+    {
+      "name": "Darkstalkers 3",
+      "smashgg_game_id": 47498,
+      "logo_path": "logo_ps1.png",
+      "igdb_game_id": "darkstalkers-3"
     }
   ],
   "igdb_game_id": "vampire-savior-the-lord-of-vampire"

@@ -77,7 +77,19 @@
         "ja": {
           "name": "\u30d0\u30fc\u30c1\u30e3\u30d5\u30a1\u30a4\u30bf\u30fc e\u30b9\u30dd\u30fc\u30c4"
         }
-      }
+      },
+      "igdb_game_id": "virtua-fighter-5-ultimate-showdown"
+    },
+    {
+      "name": "Virtua Fighter 5 Final Showdown",
+      "smashgg_game_id": 13692,
+      "logo_path": "logo_final.png",
+      "locale": {
+        "ja": {
+          "name": "バーチャファイター5 ファイナルショーダウン"
+        }
+      },
+      "igdb_game_id": "virtua-fighter-5-final-showdown"
     }
   ],
   "locale": {

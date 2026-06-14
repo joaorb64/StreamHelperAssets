@@ -104,8 +104,9 @@
   "alternate_versions": [
     {
       "name": "Dead or Alive 6: Last Round",
-      "smashgg_game_id": null,
-      "logo_path": "logo_lr.png"
+      "smashgg_game_id": 114964,
+      "logo_path": "logo_lr.png",
+      "igdb_game_id": "dead-or-alive-6-last-round"
     }
   ],
   "igdb_game_id": "dead-or-alive-6",

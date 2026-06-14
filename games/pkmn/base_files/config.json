@@ -15400,17 +15400,20 @@
     {
       "name": "Pok\u00e9mon Showdown",
       "smashgg_game_id": 120,
-      "logo_path": "logo_showdown.png"
+      "logo_path": "logo_showdown.png",
+      "igdb_game_id": "pokemon-showdown"
     },
     {
       "name": "Pok\u00e9mon Battle Revolution",
       "smashgg_game_id": 5798,
-      "logo_path": "logo_br.png"
+      "logo_path": "logo_br.png",
+      "igdb_game_id": "pokemon-battle-revolution"
     },
     {
       "name": "Pok\u00e9mon Champions",
       "smashgg_game_id": 111234,
-      "logo_path": "logo_champ.png"
+      "logo_path": "logo_champ.png",
+      "igdb_game_id": "pokemon-champions"
     }
   ],
   "variant_to_codename": {
@@ -18967,5 +18970,5 @@
       "codename": "PsnCureBerry"
     }
   },
-  "igdb_game_id": "pokemon-champions"
+  "igdb_game_id": "pokemon-red-version"
 }

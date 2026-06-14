@@ -38,7 +38,10 @@
       "codename": "Kilik"
     },
     "Link": {
-      "codename": "Link"
+      "codename": "Link",
+      "igdb_playable_list": [
+        "soulcalibur-ii--2"
+      ]
     },
     "Lizardman": {
       "codename": "Lizardman"
@@ -101,7 +104,8 @@
     {
       "name": "SoulCalibur II HD Online",
       "smashgg_game_id": 41072,
-      "logo_path": "logo_hd.png"
+      "logo_path": "logo_hd.png",
+      "igdb_game_id": "soulcalibur-ii-hd-online"
     }
   ],
   "igdb_game_id": "soulcalibur-ii--2"

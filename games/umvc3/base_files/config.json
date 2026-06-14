@@ -531,5 +531,13 @@
     "ko": {
       "name": "\uc5bc\ud2f0\uba54\uc774\ud2b8 \ub9c8\ube14 \ub300 \ucea1\ucf64 3"
     }
-  }
+  },
+  "alternate_versions": [
+    {
+      "name": "Ultimate Marvel vs. Capcom 3: Community Edition",
+      "smashgg_game_id": null,
+      "logo_path": "logo_community.png",
+      "igdb_game_id": "ultimate-marvel-vs-capcom-3-community-edition"
+    }
+  ]
 }

@@ -62,7 +62,10 @@
         "ja": "\u30b0\u30ec\u30c3\u30b0\u30eb",
         "zh_CN": "\u4e0d\u826f\u86d9",
         "zh_TW": "\u4e0d\u826f\u86d9"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     },
     "Empoleon": {
       "smashgg_name": "Empoleon",
@@ -74,7 +77,10 @@
         "ja": "\u30a8\u30f3\u30da\u30eb\u30c8",
         "zh_CN": "\u5e1d\u738b\u62ff\u6ce2",
         "zh_TW": "\u5e1d\u738b\u62ff\u6ce2"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     },
     "Darkrai": {
       "smashgg_name": "Darkrai",
@@ -86,7 +92,10 @@
         "ja": "\u30c0\u30fc\u30af\u30e9\u30a4",
         "zh_CN": "\u8fbe\u514b\u83b1\u4f0a",
         "zh_TW": "\u9054\u514b\u840a\u4f0a"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     },
     "Decidueye": {
       "smashgg_name": "Decidueye",
@@ -98,7 +107,10 @@
         "ja": "\u30b8\u30e5\u30ca\u30a4\u30d1\u30fc",
         "zh_CN": "\u72d9\u5c04\u6811\u67ad",
         "zh_TW": "\u72d9\u5c04\u6a39\u689f"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     },
     "Garchomp": {
       "smashgg_name": "Garchomp",
@@ -224,7 +236,10 @@
         "ja": "\u30cf\u30c3\u30b5\u30e0",
         "zh_CN": "\u5de8\u94b3\u87b3\u8782",
         "zh_TW": "\u5de8\u9257\u87b3\u8782"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     },
     "Shadow Mewtwo": {
       "smashgg_name": "Shadow Mewtwo",
@@ -275,7 +290,10 @@
         "zh_CN": "\u6c34\u7bad\u9f9f",
         "zh_TW": "\u6c34\u7bad\u9f9c",
         "br": "Baodreist"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     },
     "Aegislash": {
       "smashgg_name": "Aegislash",
@@ -287,7 +305,10 @@
         "ja": "\u30ae\u30eb\u30ac\u30eb\u30c9",
         "zh_CN": "\u575a\u76fe\u5251\u602a",
         "zh_TW": "\u5805\u76fe\u528d\u602a"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     }
   },
   "stage_to_codename": {
@@ -379,7 +400,8 @@
     {
       "name": "Pokk\u00e9n Tournament",
       "smashgg_game_id": 8,
-      "logo_path": "logo_wiiu.png"
+      "logo_path": "logo_wiiu.png",
+      "igdb_game_id": "pokken-tournament"
     }
   ],
   "igdb_game_id": "pokken-tournament-dx",
@@ -606,7 +628,10 @@
         "it": "Litten / Popplio",
         "es": "Litten / Popplio",
         "br": "Litten / Popplio"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     },
     "Rayquaza (Mega) / Mimikyu": {
       "codename": "MegaRayquazaMimikyuV",
@@ -620,7 +645,10 @@
         "it": "Rayquaza (Mega) / Mimikyu",
         "es": "Rayquaza (Mega) / Mimikyu",
         "br": "Rayquaza (Mega) / Mimikyu"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     },
     "Mew / Celebi": {
       "codename": "MewCelebiV",
@@ -634,7 +662,10 @@
         "it": "Mew / Celebi",
         "es": "Mew / Celebi",
         "br": "Kemm / Celebi"
-      }
+      },
+      "igdb_playable_list": [
+        "pokken-tournament-dx"
+      ]
     }
   }
 }

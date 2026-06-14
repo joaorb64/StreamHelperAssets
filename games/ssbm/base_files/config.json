@@ -855,5 +855,13 @@
     }
   ],
   "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
-  "igdb_game_id": "super-smash-bros-melee"
+  "igdb_game_id": "super-smash-bros-melee",
+  "alternate_versions": [
+    {
+      "name": "Super Smash Bros. Melee: The Akaneia Build",
+      "smashgg_game_id": 107852,
+      "logo_path": "logo_akaneia.png",
+      "igdb_game_id": "the-akaneia-build"
+    }
+  ]
 }

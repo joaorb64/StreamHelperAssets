@@ -537,7 +537,8 @@
     {
       "name": "Hyper Street Fighter II: The Anniversary Edition",
       "smashgg_game_id": 18132,
-      "logo_path": "logo_hyper.png"
+      "logo_path": "logo_hyper.png",
+      "igdb_game_id": "hyper-street-fighter-ii-the-anniversary-edition"
     }
   ],
   "variant_to_codename": {
@@ -545,19 +546,28 @@
       "codename": "ww",
       "locale": {
         "ja": "NORMAL"
-      }
+      },
+      "igdb_playable_list": [
+        "hyper-street-fighter-ii-the-anniversary-edition"
+      ]
     },
     "Champ": {
       "codename": "champ",
       "locale": {
         "ja": "DASH"
-      }
+      },
+      "igdb_playable_list": [
+        "hyper-street-fighter-ii-the-anniversary-edition"
+      ]
     },
     "Turbo": {
       "codename": "turbo",
       "locale": {
         "ja": "TURBO"
-      }
+      },
+      "igdb_playable_list": [
+        "hyper-street-fighter-ii-the-anniversary-edition"
+      ]
     },
     "Super": {
       "codename": "super",

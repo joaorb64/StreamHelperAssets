@@ -5,7 +5,10 @@
       "codename": "AlsionIII"
     },
     "Huang Bai-Hu": {
-      "codename": "BaiHu"
+      "codename": "BaiHu",
+      "igdb_playable_list": [
+        "breakers-revenge-chicago"
+      ]
     },
     "Condor Heads": {
       "codename": "Condor"
@@ -23,7 +26,11 @@
       "codename": "Rila"
     },
     "Tobikage Saizo": {
-      "codename": "Saizo"
+      "codename": "Saizo",
+      "igdb_playable_list": [
+        "breakers-revenge",
+        "breakers-revenge-chicago"
+      ]
     },
     "Sho Kamui": {
       "codename": "Sho"
@@ -47,23 +54,34 @@
     {
       "name": "Breakers",
       "smashgg_game_id": 44167,
-      "logo_path": "logo_og.png"
+      "logo_path": "logo_og.png",
+      "igdb_game_id": "breakers--1"
     },
     {
       "name": "Breakers Revenge Chicago",
       "smashgg_game_id": null,
-      "logo_path": null
+      "logo_path": null,
+      "igdb_game_id": "breakers-revenge-chicago"
     }
   ],
   "variant_to_codename": {
     "Revenge": {
-      "codename": "Revenge"
+      "codename": "Revenge",
+      "igdb_playable_list": [
+        "breakers-revenge-chicago"
+      ]
     },
     "Chicago": {
-      "codename": "Chicago"
+      "codename": "Chicago",
+      "igdb_playable_list": [
+        "breakers-revenge-chicago"
+      ]
     },
     "Extra": {
-      "codename": "Extra"
+      "codename": "Extra",
+      "igdb_playable_list": [
+        "breakers-revenge-chicago"
+      ]
     }
   },
   "igdb_game_id": "breakers-revenge"

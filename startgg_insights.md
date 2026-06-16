@@ -129,6 +129,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Eternal Fighter Zero -Memorial- Edition
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Ehrgeiz - God Bless The Ring
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## EN-Eins Perfektewelt: Anastasis
 Game has no characters in startgg...? Or do we have a wrong game id?
 

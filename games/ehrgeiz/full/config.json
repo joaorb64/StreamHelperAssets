@@ -1,0 +1,169 @@
+{
+  "name": "Portraits",
+  "description": "Character Portraits",
+  "prefix": "full_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Files ripped from the original game using RetroArch",
+  "version": "25.05.29.53857",
+  "eyesights": {
+    "Godhand": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "LeeShuwen": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "DasherInoba": {
+      "0": {
+        "x": 96,
+        "y": 96
+      }
+    },
+    "Sasuke": {
+      "0": {
+        "x": 96,
+        "y": 96
+      }
+    },
+    "PriceDoza": {
+      "0": {
+        "x": 96,
+        "y": 96
+      }
+    },
+    "YoyoYoko": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "WolfGirlJo": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "CloudStrife": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "TifaLockhart": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "Django": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "Sephiroth": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "KojiMasuda": {
+      "0": {
+        "x": 96,
+        "y": 96
+      }
+    },
+    "ClairAndrews": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "YuffieKisaragi": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "VincentValentine": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    },
+    "ZackFair": {
+      "0": {
+        "x": 96,
+        "y": 120
+      }
+    },
+    "HanDaehan": {
+      "0": {
+        "x": 96,
+        "y": 72
+      }
+    }
+  },
+  "uncropped_edge": [],
+  "rescaling_factor": {
+    "Godhand": {
+      "0": 1.0
+    },
+    "LeeShuwen": {
+      "0": 1.0
+    },
+    "DasherInoba": {
+      "0": 0.95
+    },
+    "Sasuke": {
+      "0": 0.95
+    },
+    "PriceDoza": {
+      "0": 0.95
+    },
+    "YoyoYoko": {
+      "0": 1.0
+    },
+    "WolfGirlJo": {
+      "0": 1.0
+    },
+    "CloudStrife": {
+      "0": 1.0
+    },
+    "TifaLockhart": {
+      "0": 1.0
+    },
+    "Django": {
+      "0": 1.0
+    },
+    "Sephiroth": {
+      "0": 1.0
+    },
+    "KojiMasuda": {
+      "0": 0.95
+    },
+    "ClairAndrews": {
+      "0": 1.0
+    },
+    "YuffieKisaragi": {
+      "0": 1.0
+    },
+    "VincentValentine": {
+      "0": 1.0
+    },
+    "ZackFair": {
+      "0": 1.0
+    },
+    "HanDaehan": {
+      "0": 1.0
+    }
+  }
+}

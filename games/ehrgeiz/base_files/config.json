@@ -1,0 +1,68 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "GODHAND": {
+      "codename": "Godhand"
+    },
+    "Lee Shuwen": {
+      "codename": "LeeShuwen"
+    },
+    "DASHER Inoba": {
+      "codename": "DasherInoba"
+    },
+    "Sasuke": {
+      "codename": "Sasuke"
+    },
+    "PRINCE Doza": {
+      "codename": "PriceDoza"
+    },
+    "YOYO Yoko": {
+      "codename": "YoyoYoko"
+    },
+    "Wolf Girl Jo": {
+      "codename": "WolfGirlJo"
+    },
+    "Cloud Strife": {
+      "codename": "CloudStrife"
+    },
+    "Tifa Lockhart": {
+      "codename": "TifaLockhart"
+    },
+    "Django": {
+      "codename": "Django"
+    },
+    "Sephiroth": {
+      "codename": "Sephiroth"
+    },
+    "Koji Masuda": {
+      "codename": "KojiMasuda"
+    },
+    "Clair Andrews": {
+      "codename": "ClairAndrews"
+    },
+    "Yuffie Kisaragi": {
+      "codename": "YuffieKisaragi"
+    },
+    "Vincent Valentine": {
+      "codename": "VincentValentine"
+    },
+    "Zack Fair": {
+      "codename": "ZackFair"
+    },
+    "Han Daehan": {
+      "codename": "HanDaehan"
+    }
+  },
+  "credits": "@polarbair.neocities.org for ripping the assets",
+  "description": "Base config to use this game.",
+  "name": "Ehrgeiz - God Bless The Ring",
+  "locale": {
+    "ja": {
+      "name": "エアガイツ"
+    }
+  },
+  "smashgg_game_id": 5122,
+  "stage_to_codename": {},
+  "version": "25.05.29.53857",
+  "igdb_game_id": "ehrgeiz"
+}

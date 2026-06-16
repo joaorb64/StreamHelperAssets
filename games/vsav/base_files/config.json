@@ -113,21 +113,33 @@
       "locale": {
         "ja": "\u30c9\u30ce\u30f4\u30a1\u30f3\u30fb\u30d9\u30a4\u30f3"
       },
-      "smashgg_name": "Donovan"
+      "smashgg_name": "Donovan",
+      "igdb_playable_list": [
+        "darkstalkers-3",
+        "vampire-chronicle-for-matching-service"
+      ]
     },
     "Huitzil": {
       "codename": "17",
       "locale": {
         "ja": "\u30d5\u30a9\u30dc\u30b9"
       },
-      "smashgg_name": "Huitzil"
+      "smashgg_name": "Huitzil",
+      "igdb_playable_list": [
+        "darkstalkers-3",
+        "vampire-chronicle-for-matching-service"
+      ]
     },
     "Pyron": {
       "codename": "16",
       "locale": {
         "ja": "\u30d1\u30a4\u30ed\u30f3"
       },
-      "smashgg_name": "Pyron"
+      "smashgg_name": "Pyron",
+      "igdb_playable_list": [
+        "darkstalkers-3",
+        "vampire-chronicle-for-matching-service"
+      ]
     }
   },
   "stage_to_codename": {},

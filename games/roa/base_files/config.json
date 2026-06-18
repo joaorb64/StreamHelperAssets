@@ -508,5 +508,84 @@
   "version": "26.05.02.40426",
   "description": "Base config to use this game.",
   "credits": "@Readeku for ripping the assets\nWorkshop content curated by eck$",
+  "preset_colors": [
+    {
+      "name": "Player 1 (Offline)",
+      "value": "ed1c24",
+      "locale": {
+        "fr": "Joueur 1 (Local)"
+      }
+    },
+    {
+      "name": "Player 2 (Offline)",
+      "value": "00b7ef",
+      "locale": {
+        "fr": "Joueur 2 (Local)"
+      }
+    },
+    {
+      "name": "Player 3 (Offline)",
+      "value": "ffa3b1",
+      "locale": {
+        "fr": "Joueur 3 (Local)"
+      }
+    },
+    {
+      "name": "Player 4 (Offline)",
+      "value": "a8e61d",
+      "locale": {
+        "fr": "Joueur 4 (Local)"
+      }
+    },
+    {
+      "name": "Computer Player",
+      "value": "808080",
+      "locale": {
+        "fr": "Ordinateur"
+      }
+    },
+    {
+      "name": "Player 1 (Online)",
+      "value": "42e564",
+      "locale": {
+        "fr": "Joueur 1 (En ligne)"
+      }
+    },
+    {
+      "name": "Player 2 (Online)",
+      "value": "846ae9",
+      "locale": {
+        "fr": "Joueur 2 (En ligne)"
+      }
+    },
+    {
+      "name": "Player 3 (Online)",
+      "value": "ee1c8f",
+      "locale": {
+        "fr": "Joueur 3 (En ligne)"
+      }
+    },
+    {
+      "name": "Player 4 (Online)",
+      "value": "dc8c00",
+      "locale": {
+        "fr": "Joueur 4 (En ligne)"
+      }
+    },
+    {
+      "name": "Red Team",
+      "value": "fa5555",
+      "locale": {
+        "fr": "\u00c9quipe Rouge"
+      }
+    },
+    {
+      "name": "Blue Team",
+      "value": "5564ff",
+      "locale": {
+        "fr": "\u00c9quipe Bleue"
+      }
+    }
+  ],
   "igdb_game_id": "rivals-of-aether"
 }

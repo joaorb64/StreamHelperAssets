@@ -125,5 +125,13 @@
     "ja": {
       "name": "\u9913\u72fc\u4f1d\u8aac City of the Wolves"
     }
+  },
+  "variant_to_codename": {
+    "Arcade Style": {
+      "codename": "htp_03"
+    },
+    "Smart Style": {
+      "codename": "htp_04"
+    }
   }
 }

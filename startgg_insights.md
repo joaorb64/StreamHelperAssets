@@ -53,7 +53,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Ransom] not assigned in TSH!
 - Character [Lady Vera] not assigned in TSH!
 - Character [Rupture] not assigned in TSH!
-### Coverage: (67/71)
+- Character [Aurus] not assigned in TSH!
+### Coverage: (67/72)
 
 ## Blade Strangers
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -504,6 +505,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Articuno]: Character name [Articuno] doesn't exist in StartGG
 - Character [Zapdos]: Character name [Zapdos] doesn't exist in StartGG
 - Character [Moltres]: Character name [Moltres] doesn't exist in StartGG
+- Character [Meganium]: Character name [Meganium] doesn't exist in StartGG
+- Character [Typhlosion]: Character name [Typhlosion] doesn't exist in StartGG
+- Character [Feraligatr]: Character name [Feraligatr] doesn't exist in StartGG
+- Character [Skeledirge]: Character name [Skeledirge] doesn't exist in StartGG
+- Character [Quaquaval]: Character name [Quaquaval] doesn't exist in StartGG
 - Character [Charizard X] not assigned in TSH!
 - Character [Charizard Y] not assigned in TSH!
 - Character [Mega Gyarados] not assigned in TSH!

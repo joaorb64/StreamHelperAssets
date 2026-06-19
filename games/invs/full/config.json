@@ -1,6 +1,6 @@
 {
   "credits": "Ripped from https://invinciblevs.com/",
-  "description": "Character portraits",
+  "description": "Character renders",
   "eyesights": {
     "Amanda": {
       "0": {
@@ -109,9 +109,15 @@
         "x": 833,
         "y": 210
       }
+    },
+    "Universa": {
+      "0": {
+        "x": 725,
+        "y": 379
+      }
     }
   },
-  "name": "Portraits",
+  "name": "Renders",
   "postfix": "_",
   "prefix": "file_",
   "type": [

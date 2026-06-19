@@ -6,5 +6,19 @@
   "postfix": "",
   "type": [
     "variant_icon"
-  ]
+  ],
+  "image_sizes": {
+    "htp_03": {
+      "null": {
+        "x": 620,
+        "y": 132
+      }
+    },
+    "htp_04": {
+      "null": {
+        "x": 617,
+        "y": 132
+      }
+    }
+  }
 }

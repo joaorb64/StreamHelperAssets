@@ -98,12 +98,15 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.05.21.43449",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
     "ja": {
       "name": "SAMURAI SPIRITS (2019)"
+    },
+    "ko": {
+      "name": "\uc0ac\ubb34\ub77c\uc774 \uc1fc\ub2e4\uc6b4"
     }
   },
   "igdb_game_id": "samurai-shodown--2"

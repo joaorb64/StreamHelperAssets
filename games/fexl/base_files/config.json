@@ -58,7 +58,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.14.72947",
   "description": "Base config to use this game.\nNote: Also compatible with Fighting EX Layer: Another Dash",
   "credits": "",
   "locale": {
@@ -76,49 +76,94 @@
   ],
   "variant_to_codename": {
     "Aggro": {
-      "codename": "Aggro"
+      "codename": "Aggro",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Babel": {
-      "codename": "Babel"
+      "codename": "Babel",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Berserker": {
-      "codename": "Berserker"
+      "codename": "Berserker",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Double Face": {
-      "codename": "Double"
+      "codename": "Double",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Fantasista": {
-      "codename": "Fantasista"
+      "codename": "Fantasista",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Grab Master": {
-      "codename": "Grab"
+      "codename": "Grab",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Infinity": {
-      "codename": "Infinity"
+      "codename": "Infinity",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Juggernaut": {
-      "codename": "Juggernaut"
+      "codename": "Juggernaut",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Miracle": {
-      "codename": "Miracle"
+      "codename": "Miracle",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Nightmare": {
-      "codename": "Nightmare"
+      "codename": "Nightmare",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Shinobi": {
-      "codename": "Shinobi"
+      "codename": "Shinobi",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Sky Dancer": {
-      "codename": "Sky"
+      "codename": "Sky",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Stealth Raptor": {
-      "codename": "Stealth"
+      "codename": "Stealth",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Supernova": {
-      "codename": "Supernova"
+      "codename": "Supernova",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     },
     "Thunderbolt": {
-      "codename": "Thunderbolt"
+      "codename": "Thunderbolt",
+      "igdb_playable_list": [
+        "fighting-ex-layer"
+      ]
     }
   },
   "igdb_game_id": "fighting-ex-layer"

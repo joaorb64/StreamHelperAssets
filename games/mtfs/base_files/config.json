@@ -51,6 +51,18 @@
     },
     "Hulk": {
       "codename": "Hulk"
+    },
+    "Magneto": {
+      "codename": "Magneto"
+    },
+    "Green Goblin": {
+      "codename": "Goblin",
+      "locale": {
+        "fr": "Bouffon Vert"
+      }
+    },
+    "Carnage": {
+      "codename": "Carnage"
     }
   },
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
@@ -65,6 +77,12 @@
       "codename": "NewYork",
       "locale": {
         "fr": "New York de Marvel"
+      }
+    },
+    "Marvel's New York (Night)": {
+      "codename": "NewYorkNight",
+      "locale": {
+        "fr": "New York de Marvel (nuit)"
       }
     },
     "Savage Land": {
@@ -83,6 +101,15 @@
       "codename": "Wakanda"
     }
   },
-  "version": "26.05.12.66683",
-  "igdb_game_id": "marvel-tokon-fighting-souls"
+  "version": "26.06.13.65125",
+  "igdb_game_id": "marvel-tokon-fighting-souls",
+  "locale": {
+    "ja": {
+      "name": "\u30de\u30fc\u30d9\u30eb\u30fb\u95d8\u9b42"
+    }
+  },
+  "defaults": {
+    "players_per_team": 1,
+    "characters_per_player": 4
+  }
 }

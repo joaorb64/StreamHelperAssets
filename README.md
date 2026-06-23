@@ -16,12 +16,15 @@ Given a <GAMECODE> which is a made-up name, usually using the game name's initia
   
 The file `/base_files/config.json` contains basic definitions for the game:
   - Game Name
-  - SmashGG Game Id
-  - character_to_codename: maps the official character's name to their name in SmashGG and to a codename in case the files should follow a pre-defined naming convention. For example, Smash Ultimate's game files are named using codenames, so this is a good way of having a naming convention which is the same as the official game files. If there is none, it's good to at least create codenames that avoid special characters like `.`, `/`, `á`, etc.
-  - stage_to_codename: maps official stage names to their ids in SmashGG and to file codenames. Same principle as the previous one.
-  - Version
-  - Description
-  - Credits
+  - StartGG Game Id
+  - IGDB Game ID (Used by ParryGG)
+  - character_to_codename: maps the official character's name to their name in StartGG and to a codename in case the files should follow a pre-defined naming convention. For example, Smash Ultimate's game files are named using codenames, so this is a good way of having a naming convention which is the same as the official game files. If there is none, it's good to at least create codenames that avoid special characters like `.`, `/`, `á`, etc.
+  - stage_to_codename: maps official stage names to their ids in StartGG and to file codenames. Same principle as the previous one.
+  - variant_to_codename: maps official variant names to file codenames. Same principle as the previous one.
+    - Note: A variant refers to an additional universal gameplay attribute which can affect a character or a group of characters, including but not limited to Control Types in Street Fighter 6, Fuses in 2XKO, Grooves in Capcom VS SNK 2, Vehicles in Mario Kart World or Kameo characters in Mortal Kombat 1
+  - Version (Automatically generated upon merge)
+  - Description (use `\n` for newlines)
+  - Credits (use `\n` for newlines)
 
 Inside `/base_files/` I'm also including at least one asset pack for character icons so that they show up on the program's UI. More on asset packs in its own section.
 
@@ -31,18 +34,22 @@ Each folder inside `/game/` and inside `/game/base_files/` that has a `config.js
 
 The file `config.json` contains basic definitions for the pack:
   - name: Asset Pack name
-  - description
+  - description (use `\n` for newlines)
   - credits (use `\n` for newlines)
-  - version
+  - version (Automatically generated upon merge)
   - prefix: prefix for the asset names
   - postfix: postfix for the asset names
-  - skin_mapping(optional): if this assets pack has scattered files that should map to specific character skins, you can map skin_mapping.character_codename.skin_id→asset_number. For example, if you have an asset specific to all odd/even skins, you should map the odd ones to 0 and the even ones to 1, if applies. A good example for this is `ssbu/webms`
+  - skin_mapping (optional): if this assets pack has scattered files that should map to specific character skins, you can map skin_mapping.character_codename.skin_id→asset_number. For example, if you have an asset specific to all odd/even skins, you should map the odd ones to 0 and the even ones to 1, if applies. A good example for this is `ssbu/webms`
+  - Image sizes (Automatically generated upon merge)
+  - Average image size (Automatically generated upon merge)
+  - Rescaling factor (optional): Used to indicate if an asset should be displayed bigger/smaller than the others in the pack
+  - Eyesights (optional): Position of the "eyesight" of the character in the image, using pixel coordinates. Used for asset positioning and alignment. For most human characters, their eyesight would be located between their two eyes.
   
 ### Adding a new game
   
   - Create a `/games/<GAMECODE>` directory, add your `/base_files/config.json`. Add all data you can provide.
-  - For SmashGG game/character IDs, use the endpoint https://api.smash.gg/characters. Control+F for a character name that you know that might be unique to the game you're looking for, and go from there. You'll find both their SmashGG names and game ID here.
-  - For games with stage striking, you'll need to open a tournament in SmashGG which has stage striking configured, open Chrome dev tools, go to Network tab, and check the requests to compare the selection ID to the displayed text. I do not know other way of doing this.
+  - For StartGG game/character IDs, use the endpoint https://api.smash.gg/characters. Control+F for a character name that you know that might be unique to the game you're looking for, and go from there. You'll find both their StartGG names and game ID here.
+  - For games with stage striking, you'll need to open a tournament in StartGG which has stage striking configured, open Chrome dev tools, go to Network tab, and check the requests to compare the selection ID to the displayed text. I do not know other way of doing this.
 
 ### Adding a new assets pack
 
@@ -74,7 +81,7 @@ The file `config.json` contains basic definitions for the pack:
 
 ### Testing
 
-You can build your own structure in your TournamentStreamHelper install so that you can easly test your files and configuration. I'd suggest copying everything from other game for a quicker start!
+You can build your own structure in your TournamentStreamHelper install so that you can easly test your files and configuration. I'd suggest copying everything from another game for a quicker start!
 
 ### README files
 

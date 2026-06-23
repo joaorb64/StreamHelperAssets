@@ -1,13 +1,13 @@
 {
   "name": "Portraits",
-  "description": "Character portraits",
+  "description": "Character portraits\n",
   "prefix": "file_",
   "postfix": "_",
   "type": [
     "full"
   ],
   "credits": "",
-  "version": "26.02.03.67267",
+  "version": "26.05.22.51859",
   "eyesights": {
     "CommanderVideo": {
       "0": {
@@ -56,6 +56,12 @@
         "x": 1321,
         "y": 978
       }
+    },
+    "Spelunky": {
+      "0": {
+        "x": 1157,
+        "y": 1010
+      }
     }
   },
   "uncropped_edge": [
@@ -95,6 +101,12 @@
         "y": 3050
       }
     },
+    "Spelunky": {
+      "0": {
+        "x": 2960,
+        "y": 3050
+      }
+    },
     "TheWatcher": {
       "0": {
         "x": 4540,
@@ -115,7 +127,7 @@
     }
   },
   "average_size": {
-    "x": 3103.75,
-    "y": 3183.75
+    "x": 3087.777777777778,
+    "y": 3168.8888888888887
   }
 }

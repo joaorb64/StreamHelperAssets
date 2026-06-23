@@ -120,6 +120,22 @@
     "C. Viper": {
       "codename": "Viper",
       "smashgg_name": "C. Viper"
+    },
+    "Yasmine": {
+      "codename": "Yasmine",
+      "smashgg_name": "Yasmine"
+    },
+    "Bosch": {
+      "codename": "Bosch",
+      "smashgg_name": "Bosch"
+    },
+    "Arjun": {
+      "codename": "Arjun",
+      "smashgg_name": "Arjun"
+    },
+    "Tifa": {
+      "codename": "Tifa",
+      "smashgg_name": "Tifa"
     }
   },
   "credits": "",
@@ -127,10 +143,13 @@
   "name": "Street Fighter 6",
   "smashgg_game_id": 43868,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.06.76750",
   "locale": {
     "ja": {
       "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc6"
+    },
+    "ko": {
+      "name": "\uc2a4\ud2b8\ub9ac\ud2b8 \ud30c\uc774\ud130 6"
     }
   },
   "variant_to_codename": {

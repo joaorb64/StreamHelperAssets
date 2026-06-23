@@ -173,7 +173,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.08.68305",
+  "version": "26.05.21.43449",
   "description": "Base config to use this game.",
   "credits": "Assets ripped from SRK Wiki (https://srk.shib.live/w/Marvel_vs_Capcom_2)",
   "defaults": {
@@ -190,6 +190,14 @@
     },
     "\u03b3": {
       "codename": "Gamma"
+    }
+  },
+  "locale": {
+    "ko": {
+      "name": "\ub9c8\ube14 vs. \ucea1\ucf64 2: \ub274 \uc5d0\uc774\uc9c0 \uc624\ube0c \ud788\uc5b4\ub85c\uc988"
+    },
+    "ja": {
+      "name": "\u30de\u30fc\u30f4\u30ebvs.\u30ab\u30d7\u30b3\u30f3 2 \u30cb\u30e5\u30fc\u30a8\u30a4\u30b8 \u30aa\u30d6 \u30d2\u30fc\u30ed\u30fc\u30ba"
     }
   }
 }

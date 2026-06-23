@@ -116,7 +116,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.14.72947",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
@@ -128,17 +128,20 @@
     {
       "name": "Street Fighter Alpha 3\u2191",
       "smashgg_game_id": 34455,
-      "logo_path": "logo_upper.png"
+      "logo_path": "logo_upper.png",
+      "igdb_game_id": "street-fighter-zero-3-upper"
     },
     {
       "name": "Street Fighter Alpha 3 MAX",
       "smashgg_game_id": 17035,
-      "logo_path": "logo_max.png"
+      "logo_path": "logo_max.png",
+      "igdb_game_id": "street-fighter-alpha-3-max"
     },
     {
       "name": "Hyper Street Fighter Alpha",
       "smashgg_game_id": null,
-      "logo_path": "logo_hyper.png"
+      "logo_path": "logo_hyper.png",
+      "igdb_game_id": "street-fighter-alpha-anthology"
     }
   ],
   "variant_to_codename": {

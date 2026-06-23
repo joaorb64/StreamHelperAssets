@@ -161,7 +161,7 @@
   "name": "Mortal Kombat 1",
   "smashgg_game_id": 48599,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.05.21.43449",
   "variant_to_codename": {
     "Sub-Zero": {
       "codename": "sub-zero"
@@ -227,5 +227,10 @@
       "codename": "bo"
     }
   },
-  "igdb_game_id": "mortal-kombat-1--1"
+  "igdb_game_id": "mortal-kombat-1--1",
+  "locale": {
+    "ja": {
+      "name": "\u30e2\u30fc\u30bf\u30eb\u30b3\u30f3\u30d0\u30c3\u30c81"
+    }
+  }
 }

@@ -1449,7 +1449,9 @@
         "ja": "\u30ab\u30e2\u30cd\u30ae",
         "zh_CN": "\u5927\u8471\u9e2d",
         "zh_TW": "\u5927\u8525\u9d28",
-        "br": "Sivolouad"
+        "br": "Sivolouad",
+        "it": "Farfetch'd",
+        "es": "Farfetch'd"
       },
       "skin_name": {
         "0": {
@@ -15370,7 +15372,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.14.72947",
   "description": "Base config to use this game.",
   "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)\nPixel art used in box menus from Generation 3 to Generation 8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pok\u00e9mon Scarlet & Violet & Pok\u00e9mon Legends: Z-A icons\ntoxicoke for the Mega Dimension icons\nMathias Wolfbrok for the Pichu-1 sprite edit",
   "challonge_game_id": 34,
@@ -15398,17 +15400,20 @@
     {
       "name": "Pok\u00e9mon Showdown",
       "smashgg_game_id": 120,
-      "logo_path": "logo_showdown.png"
+      "logo_path": "logo_showdown.png",
+      "igdb_game_id": "pokemon-showdown"
     },
     {
       "name": "Pok\u00e9mon Battle Revolution",
       "smashgg_game_id": 5798,
-      "logo_path": "logo_br.png"
+      "logo_path": "logo_br.png",
+      "igdb_game_id": "pokemon-battle-revolution"
     },
     {
       "name": "Pok\u00e9mon Champions",
       "smashgg_game_id": 111234,
-      "logo_path": "logo_champ.png"
+      "logo_path": "logo_champ.png",
+      "igdb_game_id": "pokemon-champions"
     }
   ],
   "variant_to_codename": {
@@ -18965,5 +18970,5 @@
       "codename": "PsnCureBerry"
     }
   },
-  "igdb_game_id": "pokemon-champions"
+  "igdb_game_id": "pokemon-red-version"
 }

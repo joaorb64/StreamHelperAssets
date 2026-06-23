@@ -1,0 +1,28 @@
+{
+  "name": "Control Style Icons",
+  "version": "26.06.19.49753",
+  "description": "Control Style icons\nRequires TSH 5.92 or higher to be used",
+  "prefix": "",
+  "postfix": "",
+  "type": [
+    "variant_icon"
+  ],
+  "image_sizes": {
+    "htp_03": {
+      "null": {
+        "x": 620,
+        "y": 132
+      }
+    },
+    "htp_04": {
+      "null": {
+        "x": 617,
+        "y": 132
+      }
+    }
+  },
+  "average_size": {
+    "x": 618.5,
+    "y": 132.0
+  }
+}

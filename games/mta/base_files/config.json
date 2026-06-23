@@ -496,12 +496,15 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.05.21.43449",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30c6\u30cb\u30b9 \u30a8\u30fc\u30b9"
+    },
+    "ko": {
+      "name": "\ub9c8\ub9ac\uc624 \ud14c\ub2c8\uc2a4 \uc5d0\uc774\uc2a4"
     }
   },
   "igdb_game_id": "mario-tennis-aces"

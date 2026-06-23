@@ -43,17 +43,21 @@
   "name": "Kill la Kill the Game: IF",
   "smashgg_game_id": 21850,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.14.72947",
   "locale": {
     "ja": {
       "name": "\u30ad\u30eb\u30e9\u30ad\u30eb \u30b6\u30fb\u30b2\u30fc\u30e0 -\u7570\u5e03-"
+    },
+    "ko": {
+      "name": "\ud0ac\ub77c\ud0ac \ub354 \uac8c\uc784 IF"
     }
   },
   "alternate_versions": [
     {
       "name": "Kill la Kill IF - Restitched",
       "smashgg_game_id": null,
-      "logo_path": "logo_rmx.png"
+      "logo_path": "logo_rmx.png",
+      "igdb_game_id": "kill-la-kill-if-restitched"
     }
   ],
   "igdb_game_id": "kill-la-kill-if"

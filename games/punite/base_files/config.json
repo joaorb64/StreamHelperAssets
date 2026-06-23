@@ -1240,7 +1240,8 @@
         "zh_TW": "\u5927\u7afa\u8475",
         "it": "Meganium",
         "es": "Meganium"
-      }
+      },
+      "smashgg_name": "Meganium"
     },
     "Typhlosion": {
       "codename": "157",
@@ -1253,7 +1254,8 @@
         "zh_TW": "\u706b\u7206\u7378",
         "it": "Typhlosion",
         "es": "Typhlosion"
-      }
+      },
+      "smashgg_name": "Typhlosion"
     },
     "Feraligatr": {
       "codename": "160",
@@ -1266,16 +1268,53 @@
         "zh_TW": "\u5927\u529b\u9c77",
         "it": "Feraligatr",
         "es": "Feraligatr"
-      }
+      },
+      "smashgg_name": "Feraligatr"
+    },
+    "Skeledirge": {
+      "codename": "911",
+      "locale": {
+        "fr": "Fl\u00e2migator",
+        "de": "Skelokrok",
+        "ko": "\ub77c\uc6b0\ub4dc\ubcf8",
+        "ja": "\u30e9\u30a6\u30c9\u30dc\u30fc\u30f3",
+        "zh_CN": "\u9aa8\u7eb9\u5de8\u58f0\u9cc4",
+        "zh_TW": "\u9aa8\u7d0b\u5de8\u8072\u9c77",
+        "it": "Skeledirge",
+        "es": "Skeledirge"
+      },
+      "smashgg_name": "Skeledirge"
+    },
+    "Quaquaval": {
+      "codename": "914",
+      "locale": {
+        "fr": "Palmaval",
+        "de": "Bailonda",
+        "ko": "\uc6e8\uc774\ub2c8\ubc1c",
+        "ja": "\u30a6\u30a7\u30fc\u30cb\u30d0\u30eb",
+        "zh_CN": "\u72c2\u6b22\u6d6a\u821e\u9e2d",
+        "zh_TW": "\u72c2\u6b61\u6d6a\u821e\u9d28",
+        "it": "Quaquaval",
+        "es": "Quaquaval"
+      },
+      "smashgg_name": "Quaquaval"
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.19.45024",
   "description": "Base config to use this game",
   "credits": "Box sprites from the mainline games from Generation 3-8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pok\u00e9mon Scarlet & Violet icons\nBreton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
   "defaults": {
     "players_per_team": 5,
     "characters_per_player": 1
   },
-  "igdb_game_id": "pokemon-unite"
+  "igdb_game_id": "pokemon-unite",
+  "locale": {
+    "ja": {
+      "name": "\u30dd\u30b1\u30e2\u30f3\u30e6\u30ca\u30a4\u30c8"
+    },
+    "ko": {
+      "name": "\ud3ec\ucf13\ubaac \uc720\ub098\uc774\ud2b8"
+    }
+  }
 }

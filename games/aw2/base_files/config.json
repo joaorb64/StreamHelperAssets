@@ -67,6 +67,11 @@
   "name": "Advance Wars 2: Black Hole Rising",
   "smashgg_game_id": 5598,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
-  "igdb_game_id": "advance-wars-2-black-hole-rising"
+  "version": "26.05.21.43448",
+  "igdb_game_id": "advance-wars-2-black-hole-rising",
+  "locale": {
+    "ja": {
+      "name": "\u30b2\u30fc\u30e0\u30dc\u30fc\u30a4\u30a6\u30a9\u30fc\u30ba\u30a2\u30c9\u30d0\u30f3\u30b92"
+    }
+  }
 }

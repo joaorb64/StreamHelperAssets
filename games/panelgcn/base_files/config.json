@@ -58,6 +58,11 @@
   "name": "Panel de Pon (Nintendo Puzzle Collection)",
   "smashgg_game_id": 114748,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
-  "igdb_game_id": "panel-de-pon--1"
+  "version": "26.05.21.43449",
+  "igdb_game_id": "panel-de-pon--1",
+  "locale": {
+    "ja": {
+      "name": "\u30d1\u30cd\u30eb\u3067\u30dd\u30f3"
+    }
+  }
 }

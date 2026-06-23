@@ -1,6 +1,6 @@
 {
   "name": "Fuses",
-  "version": "25.09.15.75063",
+  "version": "26.05.24.49763",
   "description": "Fuse icons\nRequires TSH 5.92 or higher to be used",
   "credits": "Ripped from https://wiki.play2xko.com/en-us/Fuses",
   "prefix": "file_",
@@ -38,10 +38,16 @@
         "x": 1024,
         "y": 1024
       }
+    },
+    "TeamfightV": {
+      "null": {
+        "x": 512,
+        "y": 512
+      }
     }
   },
   "average_size": {
-    "x": 1024.0,
-    "y": 1024.0
+    "x": 938.6666666666666,
+    "y": 938.6666666666666
   }
 }

@@ -1,0 +1,73 @@
+{
+  "name": "Renders",
+  "description": "Character Renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Assets ripped from https://crossroads.virtua-fighter.com/fr",
+  "version": "26.06.06.76750",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "eyesights": {
+    "Cielo": {
+      "0": {
+        "x": 563,
+        "y": 192
+      }
+    },
+    "Stella": {
+      "0": {
+        "x": 1114,
+        "y": 114
+      }
+    },
+    "New1": {
+      "0": {
+        "x": 1129,
+        "y": 131
+      }
+    },
+    "New2": {
+      "0": {
+        "x": 387,
+        "y": 170
+      }
+    }
+  },
+  "image_sizes": {
+    "Cielo": {
+      "0": {
+        "x": 1642,
+        "y": 2052
+      }
+    },
+    "New1": {
+      "0": {
+        "x": 1454,
+        "y": 2052
+      }
+    },
+    "New2": {
+      "0": {
+        "x": 1554,
+        "y": 2005
+      }
+    },
+    "Stella": {
+      "0": {
+        "x": 1430,
+        "y": 2052
+      }
+    }
+  },
+  "average_size": {
+    "x": 1520.0,
+    "y": 2040.25
+  }
+}

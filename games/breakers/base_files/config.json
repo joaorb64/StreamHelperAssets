@@ -7,7 +7,10 @@
     },
     "Huang Bai-Hu": {
       "codename": "BaiHu",
-      "parrygg_slug": "huang-bai-hu"
+      "parrygg_slug": "huang-bai-hu",
+      "igdb_playable_list": [
+        "breakers-revenge-chicago"
+      ]
     },
     "Condor Heads": {
       "codename": "Condor",
@@ -31,7 +34,11 @@
     },
     "Tobikage Saizo": {
       "codename": "Saizo",
-      "parrygg_slug": "tobikage-saizo"
+      "parrygg_slug": "tobikage-saizo",
+      "igdb_playable_list": [
+        "breakers-revenge",
+        "breakers-revenge-chicago"
+      ]
     },
     "Sho Kamui": {
       "codename": "Sho",
@@ -47,7 +54,7 @@
   "name": "Breakers Revenge",
   "smashgg_game_id": 33669,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.14.72947",
   "locale": {
     "ja": {
       "name": "\u30d6\u30ec\u30a4\u30ab\u30fc\u30ba\u30ea\u30d9\u30f3\u30b8"
@@ -57,23 +64,34 @@
     {
       "name": "Breakers",
       "smashgg_game_id": 44167,
-      "logo_path": "logo_og.png"
+      "logo_path": "logo_og.png",
+      "igdb_game_id": "breakers--1"
     },
     {
       "name": "Breakers Revenge Chicago",
       "smashgg_game_id": null,
-      "logo_path": null
+      "logo_path": null,
+      "igdb_game_id": "breakers-revenge-chicago"
     }
   ],
   "variant_to_codename": {
     "Revenge": {
-      "codename": "Revenge"
+      "codename": "Revenge",
+      "igdb_playable_list": [
+        "breakers-revenge-chicago"
+      ]
     },
     "Chicago": {
-      "codename": "Chicago"
+      "codename": "Chicago",
+      "igdb_playable_list": [
+        "breakers-revenge-chicago"
+      ]
     },
     "Extra": {
-      "codename": "Extra"
+      "codename": "Extra",
+      "igdb_playable_list": [
+        "breakers-revenge-chicago"
+      ]
     }
   },
   "igdb_game_id": "breakers-revenge"

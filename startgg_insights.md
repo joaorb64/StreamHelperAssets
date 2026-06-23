@@ -53,7 +53,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Ransom] not assigned in TSH!
 - Character [Lady Vera] not assigned in TSH!
 - Character [Rupture] not assigned in TSH!
-### Coverage: (67/71)
+- Character [Aurus] not assigned in TSH!
+### Coverage: (67/72)
 
 ## Blade Strangers
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -129,6 +130,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Eternal Fighter Zero -Memorial- Edition
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Ehrgeiz - God Bless The Ring
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## EN-Eins Perfektewelt: Anastasis
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -140,9 +144,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
 - Character [Kenshirō]: Character name [Kenshiro] doesn't exist in StartGG
-- Character [Mr. Karate]: Character name [Mr. Karate] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (26/27)
+### Coverage: (27/28)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -375,45 +378,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (30/30)
 
 ## Mario Tennis Fever
-- Character [Baby Luigi] not assigned in TSH!
-- Character [Baby Mario] not assigned in TSH!
-- Character [Baby Peach] not assigned in TSH!
-- Character [Baby Waluigi] not assigned in TSH!
-- Character [Baby Wario] not assigned in TSH!
-- Character [Petey Piranha] not assigned in TSH!
-- Character [Luma] not assigned in TSH!
-- Character [Daisy] not assigned in TSH!
-- Character [Spike] not assigned in TSH!
-- Character [Kameck] not assigned in TSH!
-- Character [Dry Bones] not assigned in TSH!
-- Character [Bowser] not assigned in TSH!
-- Character [Goomba] not assigned in TSH!
-- Character [Luigi] not assigned in TSH!
-- Character [Pauline] not assigned in TSH!
-- Character [Peach] not assigned in TSH!
-- Character [Rosalina] not assigned in TSH!
-- Character [Boo] not assigned in TSH!
-- Character [Nabbit] not assigned in TSH!
-- Character [Waluigi] not assigned in TSH!
-- Character [Yoshi] not assigned in TSH!
-- Character [Boom Boom] not assigned in TSH!
-- Character [Birdo] not assigned in TSH!
-- Character [Diddy Kong] not assigned in TSH!
-- Character [Donkey Kong] not assigned in TSH!
-- Character [Blooper] not assigned in TSH!
-- Character [Wiggler] not assigned in TSH!
-- Character [Shy Guy] not assigned in TSH!
-- Character [Dry Bowser] not assigned in TSH!
-- Character [Toadette] not assigned in TSH!
-- Character [Toad] not assigned in TSH!
-- Character [Bowser Jr.] not assigned in TSH!
-- Character [Mario] not assigned in TSH!
-- Character [Koopa] not assigned in TSH!
-- Character [Piranha Plant] not assigned in TSH!
-- Character [Koopa Paratroopa] not assigned in TSH!
-- Character [Chain Chomp] not assigned in TSH!
-- Character [Wario] not assigned in TSH!
-### Coverage: (0/38)
+### Coverage: (38/38)
 
 ## Marvel Tōkon: Fighting Souls
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -540,6 +505,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Articuno]: Character name [Articuno] doesn't exist in StartGG
 - Character [Zapdos]: Character name [Zapdos] doesn't exist in StartGG
 - Character [Moltres]: Character name [Moltres] doesn't exist in StartGG
+- Character [Meganium]: Character name [Meganium] doesn't exist in StartGG
+- Character [Typhlosion]: Character name [Typhlosion] doesn't exist in StartGG
+- Character [Feraligatr]: Character name [Feraligatr] doesn't exist in StartGG
+- Character [Skeledirge]: Character name [Skeledirge] doesn't exist in StartGG
+- Character [Quaquaval]: Character name [Quaquaval] doesn't exist in StartGG
 - Character [Charizard X] not assigned in TSH!
 - Character [Charizard Y] not assigned in TSH!
 - Character [Mega Gyarados] not assigned in TSH!
@@ -568,9 +538,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
 - Character [Akali]: Character name [Akali] doesn't exist in StartGG
-- Character [Senna]: Character name [Senna] doesn't exist in StartGG
+- Character [Thresh]: Character name [Thresh] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (12/13)
+- Character [Tresh] not assigned in TSH!
+### Coverage: (13/15)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG
@@ -616,6 +587,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (20/20)
 
 ## Street Fighter 6
+- Character [Yasmine]: Character name [Yasmine] doesn't exist in StartGG
+- Character [Bosch]: Character name [Bosch] doesn't exist in StartGG
+- Character [Arjun]: Character name [Arjun] doesn't exist in StartGG
+- Character [Tifa]: Character name [Tifa] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (30/31)
 
@@ -765,6 +740,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Tekken 8
 - Character [Robert "Bob" Richards]: Character name [Bob] doesn't exist in StartGG
 - Character [Roger Jr.]: Character name [Roger Jr.] doesn't exist in StartGG
+- Character [Yujiro Hanma]: Character name [Yujiro] doesn't exist in StartGG
 ### Coverage: (42/42)
 
 ## Them's Fightin' Herds
@@ -822,6 +798,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Virtua Fighter 5 R.E.V.O.
 Game has no characters in startgg...? Or do we have a wrong game id?
+
 
 ## Night Warriors: Darkstalkers' Revenge
 Game has no characters in startgg...? Or do we have a wrong game id?

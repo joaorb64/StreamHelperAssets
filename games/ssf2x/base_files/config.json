@@ -542,7 +542,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.14.72947",
   "description": "Base config to use this game.",
   "credits": "Portraits ripped by @ADHD2I",
   "locale": {
@@ -554,7 +554,8 @@
     {
       "name": "Hyper Street Fighter II: The Anniversary Edition",
       "smashgg_game_id": 18132,
-      "logo_path": "logo_hyper.png"
+      "logo_path": "logo_hyper.png",
+      "igdb_game_id": "hyper-street-fighter-ii-the-anniversary-edition"
     }
   ],
   "variant_to_codename": {
@@ -562,19 +563,28 @@
       "codename": "ww",
       "locale": {
         "ja": "NORMAL"
-      }
+      },
+      "igdb_playable_list": [
+        "hyper-street-fighter-ii-the-anniversary-edition"
+      ]
     },
     "Champ": {
       "codename": "champ",
       "locale": {
         "ja": "DASH"
-      }
+      },
+      "igdb_playable_list": [
+        "hyper-street-fighter-ii-the-anniversary-edition"
+      ]
     },
     "Turbo": {
       "codename": "turbo",
       "locale": {
         "ja": "TURBO"
-      }
+      },
+      "igdb_playable_list": [
+        "hyper-street-fighter-ii-the-anniversary-edition"
+      ]
     },
     "Super": {
       "codename": "super",

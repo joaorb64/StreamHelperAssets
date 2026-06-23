@@ -223,7 +223,10 @@
         "zh_CN": "Inkling\uff08\u7537\u5b69\uff09",
         "zh_TW": "Inkling\uff08\u7537\u5b69\uff09",
         "fr": "Inkling (Gar\u00e7on)"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Inkling Girl": {
       "codename": "InklingGirl",
@@ -232,7 +235,10 @@
         "zh_CN": "Inkling\uff08\u5973\u5b69\uff09",
         "zh_TW": "Inkling\uff08\u5973\u5b69\uff09",
         "fr": "Inkling (Fille)"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Isabelle": {
       "codename": "Isabelle",
@@ -605,7 +611,10 @@
         "ko": "\uce90\uc11c\ub9b0",
         "it": "Strutzi",
         "ru": "\u0411\u0438\u0440\u0434\u043e"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Diddy Kong": {
       "codename": "Diddy",
@@ -615,7 +624,10 @@
         "zh_TW": "\u72c4\u72c4\u525b",
         "ko": "\ub514\ub514\ucf69",
         "ru": "\u0414\u0438\u0434\u0434\u0438 \u041a\u043e\u043d\u0433"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Funky Kong": {
       "codename": "Funky",
@@ -625,7 +637,10 @@
         "zh_TW": "\u9177\u559c\u525b",
         "ko": "\ud391\ud0a4 \ucf69",
         "ru": "\u0424\u0430\u043d\u043a\u0438 \u041a\u043e\u043d\u0433"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Pauline": {
       "codename": "Pauline",
@@ -635,7 +650,10 @@
         "zh_TW": "\u6ce2\u7433",
         "ko": "\ud3f4\ub9b0",
         "ru": "\u041f\u043e\u043b\u0438\u043d\u0430"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Peachette": {
       "codename": "Peachette",
@@ -645,7 +663,10 @@
         "zh_TW": "\u5947\u8afe\u6bd4\u59ec\u516c\u4e3b",
         "ko": "\ud0a4\ub178\ud53c\uce58",
         "ru": "\u041f\u0438\u0447\u0435\u0442\u0442\u0430"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Petey Piranha": {
       "codename": "Petey",
@@ -660,7 +681,10 @@
         "zh_CN": "\u541e\u98df\u82b1\u8001\u5927",
         "zh_TW": "\u541e\u98df\u82b1\u8001\u5927",
         "fr_CA": "Petey Piranha"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Wiggler": {
       "codename": "Wiggler",
@@ -674,7 +698,10 @@
         "pt_BR": "Wiggler",
         "pt_PT": "Lagartola",
         "it": "Torcibruco"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Kamek": {
       "codename": "Kamek",
@@ -684,7 +711,10 @@
         "zh_TW": "\u5361\u7f8e\u514b",
         "ko": "\ub9c8\uadc0",
         "ru": "\u041a\u0430\u043c\u0435\u043a"
-      }
+      },
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     }
   },
   "credits": "",
@@ -837,175 +867,343 @@
       "codename": "Du_BigBlue"
     },
     "Tour | Paris Promenade": {
-      "codename": "Cnsw_11"
+      "codename": "Cnsw_11",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "3DS | Toad Circuit": {
-      "codename": "Cnsw_12"
+      "codename": "Cnsw_12",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "N64 | Choco Mountain": {
-      "codename": "Cnsw_13"
+      "codename": "Cnsw_13",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Wii | Coconut Mall": {
-      "codename": "Cnsw_14"
+      "codename": "Cnsw_14",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Tokyo Blur": {
-      "codename": "Cnsw_15"
+      "codename": "Cnsw_15",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "DS | Shroom Ridge": {
-      "codename": "Cnsw_16"
+      "codename": "Cnsw_16",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "GBA | Sky Garden": {
-      "codename": "Cnsw_17"
+      "codename": "Cnsw_17",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Ninja Hideaway": {
-      "codename": "Cnsw_18"
+      "codename": "Cnsw_18",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | New York Minute": {
-      "codename": "Cnsw_21"
+      "codename": "Cnsw_21",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "SNES | Mario Circuit 3": {
-      "codename": "Cnsw_22"
+      "codename": "Cnsw_22",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "N64 | Kalimari Desert": {
-      "codename": "Cnsw_23"
+      "codename": "Cnsw_23",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "DS | Waluigi Pinball": {
-      "codename": "Cnsw_24"
+      "codename": "Cnsw_24",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Sydney Sprint": {
-      "codename": "Cnsw_25"
+      "codename": "Cnsw_25",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "GBA | Snow Land": {
-      "codename": "Cnsw_26"
+      "codename": "Cnsw_26",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Wii | Mushroom Gorge": {
-      "codename": "Cnsw_27"
+      "codename": "Cnsw_27",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Sky-High Sundae": {
-      "codename": "Cnsw_28"
+      "codename": "Cnsw_28",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | London Loop": {
-      "codename": "Cnsw_31"
+      "codename": "Cnsw_31",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "GBA | Boo Lake": {
-      "codename": "Cnsw_33"
+      "codename": "Cnsw_33",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "3DS | Rock Rock Mountain": {
-      "codename": "Cnsw_34"
+      "codename": "Cnsw_34",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Wii | Maple Treeway": {
-      "codename": "Cnsw_62"
+      "codename": "Cnsw_62",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Berlin Byways": {
-      "codename": "Cnsw_35"
+      "codename": "Cnsw_35",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "DS | Peach Gardens": {
-      "codename": "Cnsw_32"
+      "codename": "Cnsw_32",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Merry Mountain": {
-      "codename": "Cnsw_37"
+      "codename": "Cnsw_37",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "3DS | Rainbow Road": {
-      "codename": "Cnsw_38"
+      "codename": "Cnsw_38",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Amsterdam Drift": {
-      "codename": "Cnsw_41"
+      "codename": "Cnsw_41",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "GBA | Riverside Park": {
-      "codename": "Cnsw_47"
+      "codename": "Cnsw_47",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Wii | DK Summit": {
-      "codename": "Cnsw_42"
+      "codename": "Cnsw_42",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Yoshi's Island": {
-      "codename": "Cnsw_44"
+      "codename": "Cnsw_44",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Bangkok Rush": {
-      "codename": "Cnsw_55"
+      "codename": "Cnsw_55",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "DS | Mario Circuit": {
-      "codename": "Cnsw_43"
+      "codename": "Cnsw_43",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "GCN | Waluigi Stadium": {
-      "codename": "Cnsw_36"
+      "codename": "Cnsw_36",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Singapore Speedway": {
-      "codename": "Cnsw_45"
+      "codename": "Cnsw_45",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Athens Dash": {
-      "codename": "Cnsw_65"
+      "codename": "Cnsw_65",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "GCN | Daisy Cruiser": {
-      "codename": "Cnsw_46"
+      "codename": "Cnsw_46",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Wii | Moonview Highway": {
-      "codename": "Cnsw_63"
+      "codename": "Cnsw_63",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Squeaky Clean Sprint": {
-      "codename": "Cnsw_58"
+      "codename": "Cnsw_58",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Los Angeles Laps": {
-      "codename": "Cnsw_48"
+      "codename": "Cnsw_48",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "GBA | Sunset Wilds": {
-      "codename": "Cnsw_53"
+      "codename": "Cnsw_53",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Wii | Koopa Cape": {
-      "codename": "Cnsw_52"
+      "codename": "Cnsw_52",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Vancouver Velocity": {
-      "codename": "Cnsw_61"
+      "codename": "Cnsw_61",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Rome Avanti": {
-      "codename": "Cnsw_54"
+      "codename": "Cnsw_54",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "GCN | DK Mountain": {
-      "codename": "Cnsw_56"
+      "codename": "Cnsw_56",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Wii | Daisy Circuit": {
-      "codename": "Cnsw_66"
+      "codename": "Cnsw_66",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Piranha Plant Cove": {
-      "codename": "Cnsw_64"
+      "codename": "Cnsw_64",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Tour | Madrid Drive": {
-      "codename": "Cnsw_51"
+      "codename": "Cnsw_51",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "3DS | Rosalina's Ice World": {
-      "codename": "Cnsw_67"
+      "codename": "Cnsw_67",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "SNES | Bowser's Castle 3": {
-      "codename": "Cnsw_57"
+      "codename": "Cnsw_57",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Wii | Rainbow Road": {
-      "codename": "Cnsw_68"
+      "codename": "Cnsw_68",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Battle Stadium": {
-      "codename": "Bu_BattleStadium"
+      "codename": "Bu_BattleStadium",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Sweet Sweet Kingdom": {
-      "codename": "Bu_Sweets"
+      "codename": "Bu_Sweets",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Dragon Palace": {
-      "codename": "Bu_Dojo"
+      "codename": "Bu_Dojo",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Lunar Colony": {
-      "codename": "Bu_Moon"
+      "codename": "Bu_Moon",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "3DS | Wuhu Town": {
-      "codename": "B3ds_WuhuTown"
+      "codename": "B3ds_WuhuTown",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "GCN | Luigi's Mansion": {
-      "codename": "Bgc_LuigiMansion"
+      "codename": "Bgc_LuigiMansion",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "SNES | Battle Course 1": {
-      "codename": "Bsfc_Battle1"
+      "codename": "Bsfc_Battle1",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     },
     "Urchin Underpass": {
-      "codename": "Bu_DekaLine"
+      "codename": "Bu_DekaLine",
+      "igdb_playable_list": [
+        "mario-kart-8-deluxe"
+      ]
     }
   },
-  "version": "26.05.02.40426",
+  "version": "26.06.16.67760",
   "locale": {
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c88 \u30c7\u30e9\u30c3\u30af\u30b9"
@@ -1024,7 +1222,8 @@
     {
       "name": "Mario Kart 8",
       "smashgg_game_id": null,
-      "logo_path": "logo_wiiu.png"
+      "logo_path": "logo_wiiu.png",
+      "igdb_game_id": "mario-kart-8"
     }
   ],
   "igdb_game_id": "mario-kart-8-deluxe"

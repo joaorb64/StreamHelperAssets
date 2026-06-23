@@ -159,6 +159,14 @@
   "name": "Mortal Kombat 11",
   "smashgg_game_id": 3200,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
-  "igdb_game_id": "mortal-kombat-11"
+  "version": "26.05.21.43449",
+  "igdb_game_id": "mortal-kombat-11",
+  "locale": {
+    "ja": {
+      "name": "\u30e2\u30fc\u30bf\u30eb\u30b3\u30f3\u30d0\u30c3\u30c8 11"
+    },
+    "ko": {
+      "name": "\ubaa8\ud0c8 \ucef4\ubc43 11"
+    }
+  }
 }

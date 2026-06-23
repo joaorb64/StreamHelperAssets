@@ -279,6 +279,9 @@
         },
         "88": {
           "name": "Lovers - Red"
+        },
+        "89": {
+          "name": "Lovers - Cool Blue"
         }
       }
     },
@@ -836,6 +839,9 @@
         },
         "79": {
           "name": "Abyss - Midnight"
+        },
+        "80": {
+          "name": "Lovers - Black"
         }
       }
     },
@@ -1113,6 +1119,9 @@
         },
         "89": {
           "name": "Pajama - Red"
+        },
+        "90": {
+          "name": "Pajama - Siesta"
         }
       }
     },
@@ -1378,6 +1387,9 @@
         },
         "85": {
           "name": "Night Owl - Cool Blue"
+        },
+        "86": {
+          "name": "Night Owl - Siesta"
         }
       }
     },
@@ -1917,6 +1929,12 @@
         },
         "94": {
           "name": "Lovers - Black"
+        },
+        "95": {
+          "name": "Pool Party - Black"
+        },
+        "96": {
+          "name": "Pool Party - Summer"
         }
       }
     },
@@ -2327,6 +2345,9 @@
         },
         "48": {
           "name": "Pajama - Red"
+        },
+        "49": {
+          "name": "Pajama - Siesta"
         }
       }
     },
@@ -2568,6 +2589,18 @@
         },
         "77": {
           "name": "Hearts - Mint"
+        },
+        "78": {
+          "name": "Pool Party"
+        },
+        "79": {
+          "name": "Pool Party - Blue"
+        },
+        "80": {
+          "name": "Pool Party - Green"
+        },
+        "81": {
+          "name": "Pool Party - Red"
         }
       }
     },
@@ -3216,6 +3249,24 @@
         },
         "62": {
           "name": "Default - Purple"
+        },
+        "63": {
+          "name": "Pool Party"
+        },
+        "64": {
+          "name": "Pool Party - Blue"
+        },
+        "65": {
+          "name": "Pool Party - Green"
+        },
+        "66": {
+          "name": "Pool Party - Red"
+        },
+        "67": {
+          "name": "Pool Party - Summer"
+        },
+        "68": {
+          "name": "Pool Party - White"
         }
       }
     },
@@ -3412,6 +3463,24 @@
         },
         "62": {
           "name": "Lovers - Red"
+        },
+        "63": {
+          "name": "Dreamer"
+        },
+        "64": {
+          "name": "Dreamer - Blue"
+        },
+        "65": {
+          "name": "Dreamer - Green"
+        },
+        "66": {
+          "name": "Dreamer - Red"
+        },
+        "67": {
+          "name": "Pool Party - Purple"
+        },
+        "68": {
+          "name": "Pool Party - Summer"
         }
       }
     },
@@ -3563,6 +3632,9 @@
         },
         "47": {
           "name": "Champion - Red"
+        },
+        "48": {
+          "name": "Default - Cool Blue"
         }
       }
     },
@@ -3648,6 +3720,33 @@
         },
         "25": {
           "name": "Default - Purple"
+        },
+        "26": {
+          "name": "Lovers - Black"
+        },
+        "27": {
+          "name": "Champion"
+        },
+        "28": {
+          "name": "Champion - Blue"
+        },
+        "29": {
+          "name": "Champion - Green"
+        },
+        "30": {
+          "name": "Champion - Red"
+        },
+        "31": {
+          "name": "Pool Party"
+        },
+        "32": {
+          "name": "Pool Party - Blue"
+        },
+        "33": {
+          "name": "Pool Party - Green"
+        },
+        "34": {
+          "name": "Pool Party - Red"
         }
       }
     }
@@ -3656,7 +3755,7 @@
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "26.05.09.53991",
+  "version": "26.06.03.57720",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest",
@@ -3845,7 +3944,10 @@
     },
     "Armada Flagship": {
       "codename": "ArmadaAlt",
-      "parrygg_slug": "armada-flagship"
+      "parrygg_slug": "armada-flagship",
+      "locale": {
+        "fr": "Fleuron de l'Armada"
+      }
     }
   },
   "preset_colors": [

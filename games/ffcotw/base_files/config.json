@@ -119,6 +119,19 @@
   "name": "Fatal Fury: City of the Wolves",
   "smashgg_game_id": 73221,
   "stage_to_codename": {},
-  "version": "26.05.05.70173",
-  "igdb_game_id": "fatal-fury-city-of-the-wolves"
+  "version": "26.06.19.49753",
+  "igdb_game_id": "fatal-fury-city-of-the-wolves",
+  "locale": {
+    "ja": {
+      "name": "\u9913\u72fc\u4f1d\u8aac City of the Wolves"
+    }
+  },
+  "variant_to_codename": {
+    "Arcade Style": {
+      "codename": "htp_03"
+    },
+    "Smart Style": {
+      "codename": "htp_04"
+    }
+  }
 }

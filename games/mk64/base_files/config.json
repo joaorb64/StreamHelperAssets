@@ -9,6 +9,9 @@
     },
     "zh_TW": {
       "name": "\u746a\u5229\u6b50\u8cfd\u8eca64"
+    },
+    "ko": {
+      "name": "\ub9c8\ub9ac\uc624 \uce74\ud2b8 64"
     }
   },
   "character_to_codename": {
@@ -161,6 +164,6 @@
   "name": "Mario Kart 64",
   "smashgg_game_id": 5682,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.05.21.43449",
   "igdb_game_id": "mario-kart-64"
 }

@@ -24,6 +24,9 @@
     },
     "Impostor": {
       "codename": "Amongus"
+    },
+    "Guy Spelunky": {
+      "codename": "Spelunky"
     }
   },
   "credits": "",
@@ -31,7 +34,7 @@
   "name": "Fraymakers",
   "smashgg_game_id": 37022,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.05.22.51859",
   "variant_to_codename": {
     "Aine": {
       "codename": "AineV"
@@ -149,6 +152,9 @@
     },
     "Impostor": {
       "codename": "AmongusV"
+    },
+    "Guy Spelunky": {
+      "codename": "SpelunkyV"
     }
   },
   "igdb_game_id": "fraymakers"

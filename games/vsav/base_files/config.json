@@ -113,25 +113,37 @@
       "locale": {
         "ja": "\u30c9\u30ce\u30f4\u30a1\u30f3\u30fb\u30d9\u30a4\u30f3"
       },
-      "smashgg_name": "Donovan"
+      "smashgg_name": "Donovan",
+      "igdb_playable_list": [
+        "darkstalkers-3",
+        "vampire-chronicle-for-matching-service"
+      ]
     },
     "Huitzil": {
       "codename": "17",
       "locale": {
         "ja": "\u30d5\u30a9\u30dc\u30b9"
       },
-      "smashgg_name": "Huitzil"
+      "smashgg_name": "Huitzil",
+      "igdb_playable_list": [
+        "darkstalkers-3",
+        "vampire-chronicle-for-matching-service"
+      ]
     },
     "Pyron": {
       "codename": "16",
       "locale": {
         "ja": "\u30d1\u30a4\u30ed\u30f3"
       },
-      "smashgg_name": "Pyron"
+      "smashgg_name": "Pyron",
+      "igdb_playable_list": [
+        "darkstalkers-3",
+        "vampire-chronicle-for-matching-service"
+      ]
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.16.67760",
   "description": "Base config to use this game.\n\nAlso compatible with Darkstalkers 3, Vampire Savior 2, Vampire Hunter 2 and Vampire Chronicle for Matching Service / Darkstalkers Chronicle: The Chaos Tower",
   "credits": "",
   "locale": {
@@ -143,7 +155,14 @@
     {
       "name": "Vampire Chronicle For Matching Service",
       "smashgg_game_id": 47498,
-      "logo_path": "logo_hyper.png"
+      "logo_path": "logo_hyper.png",
+      "igdb_game_id": "vampire-chronicle-for-matching-service"
+    },
+    {
+      "name": "Darkstalkers 3",
+      "smashgg_game_id": 47498,
+      "logo_path": "logo_ps1.png",
+      "igdb_game_id": "darkstalkers-3"
     }
   ],
   "igdb_game_id": "vampire-savior-the-lord-of-vampire"

@@ -4105,7 +4105,7 @@
       }
     }
   },
-  "version": "26.05.02.40426",
+  "version": "26.06.14.72947",
   "description": "Base config to use this game.",
   "preset_colors": [
     {
@@ -4180,7 +4180,8 @@
     {
       "name": "HewDraw Remix",
       "smashgg_game_id": 34157,
-      "logo_path": "logo_hdr.png"
+      "logo_path": "logo_hdr.png",
+      "igdb_game_id": "hewdraw-remix"
     }
   ],
   "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",

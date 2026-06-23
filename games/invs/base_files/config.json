@@ -7,7 +7,10 @@
     },
     "Bulletproof": {
       "codename": "Bulletproof",
-      "smashgg_name": "Bulletproof"
+      "smashgg_name": "Bulletproof",
+      "locale": {
+        "fr": "Pare-Balle"
+      }
     },
     "Invincible": {
       "codename": "Invincible",
@@ -27,7 +30,10 @@
     },
     "Battle Beast": {
       "codename": "BattleBeast",
-      "smashgg_name": "Battle Beast"
+      "smashgg_name": "Battle Beast",
+      "locale": {
+        "fr": "Le Fauve de Combat"
+      }
     },
     "Cecil Steadman": {
       "codename": "Cecil",
@@ -75,7 +81,10 @@
     },
     "Immortal": {
       "codename": "Immortal",
-      "smashgg_name": "Immortal"
+      "smashgg_name": "Immortal",
+      "locale": {
+        "fr": "L'Immortel"
+      }
     },
     "Universa": {
       "codename": "Universa",

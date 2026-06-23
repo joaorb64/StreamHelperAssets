@@ -33,7 +33,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "balrog"
     },
     "Blanka": {
       "codename": "blanka",
@@ -65,7 +66,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "blanka"
     },
     "Cammy": {
       "codename": "cammy",
@@ -97,7 +99,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "cammy"
     },
     "Chun-Li": {
       "codename": "chunli",
@@ -129,7 +132,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "chun-li"
     },
     "Dee Jay": {
       "codename": "deejay",
@@ -161,7 +165,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "dee-jay"
     },
     "Dhalsim": {
       "codename": "dhalsim",
@@ -193,7 +198,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "dhalsim"
     },
     "E. Honda": {
       "codename": "ehonda",
@@ -225,7 +231,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "e-honda"
     },
     "Fei Long": {
       "codename": "feilong",
@@ -257,7 +264,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "fei-long"
     },
     "Guile": {
       "codename": "guile",
@@ -289,7 +297,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "guile"
     },
     "Ken": {
       "codename": "ken",
@@ -321,7 +330,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "ken"
     },
     "M. Bison": {
       "codename": "vega",
@@ -353,7 +363,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "m-bison"
     },
     "Ryu": {
       "codename": "ryu",
@@ -385,7 +396,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "ryu"
     },
     "Sagat": {
       "codename": "sagat",
@@ -417,7 +429,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "sagat"
     },
     "T. Hawk": {
       "codename": "thawk",
@@ -449,7 +462,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "t-hawk"
     },
     "Vega": {
       "codename": "balrog",
@@ -481,7 +495,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "vega"
     },
     "Zangief": {
       "codename": "zangief",
@@ -513,7 +528,8 @@
         "8": {
           "name": "Old"
         }
-      }
+      },
+      "parrygg_slug": "zangief"
     },
     "Akuma": {
       "codename": "gouki",
@@ -521,7 +537,8 @@
         "0": {
           "name": "Secret"
         }
-      }
+      },
+      "parrygg_slug": "akuma"
     }
   },
   "stage_to_codename": {},

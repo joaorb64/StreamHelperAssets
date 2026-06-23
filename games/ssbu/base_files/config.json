@@ -35,7 +35,8 @@
         "ko": "\ub9c8\ub9ac\uc624",
         "zh_TW": "\u746a\u5229\u6b50",
         "zh_CN": "\u9a6c\u529b\u6b27"
-      }
+      },
+      "parrygg_slug": "mario"
     },
     "Donkey Kong": {
       "smashgg_name": "Donkey Kong",
@@ -55,7 +56,8 @@
         "ko": "\ub3d9\ud0a4\ucf69",
         "zh_TW": "\u549a\u5947\u525b",
         "zh_CN": "\u549a\u5947\u521a"
-      }
+      },
+      "parrygg_slug": "donkey-kong"
     },
     "Link": {
       "smashgg_name": "Link",
@@ -75,7 +77,8 @@
         "ko": "\ub9c1\ud06c",
         "zh_TW": "\u6797\u514b",
         "zh_CN": "\u6797\u514b"
-      }
+      },
+      "parrygg_slug": "link"
     },
     "Samus": {
       "smashgg_name": "Samus",
@@ -95,7 +98,8 @@
         "ko": "\uc0ac\ubb34\uc2a4",
         "zh_TW": "\u85a9\u59c6\u65af",
         "zh_CN": "\u8428\u59c6\u65af"
-      }
+      },
+      "parrygg_slug": "samus"
     },
     "Dark Samus": {
       "smashgg_name": "Dark Samus",
@@ -115,7 +119,8 @@
         "ko": "\ub2e4\ud06c \uc0ac\ubb34\uc2a4",
         "zh_TW": "\u9ed1\u6697\u85a9\u59c6\u65af",
         "zh_CN": "\u9ed1\u6697\u8428\u59c6\u65af"
-      }
+      },
+      "parrygg_slug": "dark-samus"
     },
     "Yoshi": {
       "smashgg_name": "Yoshi",
@@ -135,7 +140,8 @@
         "ko": "\uc694\uc2dc",
         "zh_TW": "\u8000\u897f",
         "zh_CN": "\u8000\u897f"
-      }
+      },
+      "parrygg_slug": "yoshi"
     },
     "Kirby": {
       "smashgg_name": "Kirby",
@@ -155,7 +161,8 @@
         "ko": "\ucee4\ube44",
         "zh_TW": "\u5361\u6bd4",
         "zh_CN": "\u5361\u6bd4"
-      }
+      },
+      "parrygg_slug": "kirby"
     },
     "Fox": {
       "smashgg_name": "Fox",
@@ -175,7 +182,8 @@
         "ko": "\ud3ed\uc2a4",
         "zh_TW": "\u706b\u72d0",
         "zh_CN": "\u706b\u72d0"
-      }
+      },
+      "parrygg_slug": "fox"
     },
     "Pikachu": {
       "smashgg_name": "Pikachu",
@@ -196,7 +204,8 @@
         "zh_TW": "\u76ae\u5361\u4e18",
         "zh_CN": "\u76ae\u5361\u4e18",
         "br": "Luc\u2019hodenn"
-      }
+      },
+      "parrygg_slug": "pikachu"
     },
     "Luigi": {
       "smashgg_name": "Luigi",
@@ -216,7 +225,8 @@
         "ko": "\ub8e8\uc774\uc9c0",
         "zh_TW": "\u8def\u6613\u5409",
         "zh_CN": "\u8def\u6613\u5409"
-      }
+      },
+      "parrygg_slug": "luigi"
     },
     "Ness": {
       "smashgg_name": "Ness",
@@ -236,7 +246,8 @@
         "ko": "\ub124\uc2a4",
         "zh_TW": "\u5948\u65af",
         "zh_CN": "\u5948\u65af"
-      }
+      },
+      "parrygg_slug": "ness"
     },
     "Captain Falcon": {
       "smashgg_name": "Captain Falcon",
@@ -256,7 +267,8 @@
         "ko": "\ucea1\ud2f4 \ud314\ucf58",
         "zh_TW": "\u98db\u96bc\u968a\u9577",
         "zh_CN": "\u98de\u96bc\u961f\u957f"
-      }
+      },
+      "parrygg_slug": "captain-falcon"
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
@@ -277,7 +289,8 @@
         "zh_TW": "\u80d6\u4e01",
         "zh_CN": "\u80d6\u4e01",
         "br": "Wasteljen"
-      }
+      },
+      "parrygg_slug": "jigglypuff"
     },
     "Peach": {
       "smashgg_name": "Peach",
@@ -297,7 +310,8 @@
         "ko": "\ud53c\uce58\uacf5\uc8fc",
         "zh_TW": "\u78a7\u59ec\u516c\u4e3b",
         "zh_CN": "\u78a7\u59ec\u516c\u4e3b"
-      }
+      },
+      "parrygg_slug": "peach"
     },
     "Daisy": {
       "smashgg_name": "Daisy",
@@ -317,7 +331,8 @@
         "ko": "\ub370\uc774\uc9c0",
         "zh_TW": "\u9edb\u897f\u516c\u4e3b",
         "zh_CN": "\u9edb\u897f\u516c\u4e3b"
-      }
+      },
+      "parrygg_slug": "daisy"
     },
     "Bowser": {
       "smashgg_name": "Bowser",
@@ -337,7 +352,8 @@
         "ko": "\ucfe0\ud30c",
         "zh_TW": "\u5eab\u5df4",
         "zh_CN": "\u9177\u9738"
-      }
+      },
+      "parrygg_slug": "bowser"
     },
     "Ice Climbers": {
       "smashgg_name": "Ice Climbers",
@@ -357,7 +373,8 @@
         "ko": "\uc5bc\uc74c \ud0c0\uae30",
         "zh_TW": "\u7ffb\u8d8a\u51b0\u5c71\u8005",
         "zh_CN": "\u7ffb\u8d8a\u51b0\u5c71\u8005"
-      }
+      },
+      "parrygg_slug": "ice-climbers"
     },
     "Sheik": {
       "smashgg_name": "Sheik",
@@ -377,7 +394,8 @@
         "ko": "\uc2dc\ud06c",
         "zh_TW": "\u5e0c\u514b",
         "zh_CN": "\u5e0c\u514b"
-      }
+      },
+      "parrygg_slug": "sheik"
     },
     "Zelda": {
       "smashgg_name": "Zelda",
@@ -397,7 +415,8 @@
         "ko": "\uc824\ub2e4",
         "zh_TW": "\u85a9\u723e\u9054",
         "zh_CN": "\u585e\u5c14\u8fbe"
-      }
+      },
+      "parrygg_slug": "zelda"
     },
     "Dr. Mario": {
       "smashgg_name": "Dr. Mario",
@@ -417,7 +436,8 @@
         "ko": "\ub2e5\ud130\ub9c8\ub9ac\uc624",
         "zh_TW": "\u746a\u5229\u6b50\u91ab\u751f",
         "zh_CN": "\u9a6c\u529b\u6b27\u533b\u751f"
-      }
+      },
+      "parrygg_slug": "dr-mario"
     },
     "Pichu": {
       "smashgg_name": "Pichu",
@@ -437,7 +457,8 @@
         "ko": "\ud53c\uce04",
         "zh_TW": "\u76ae\u4e18",
         "zh_CN": "\u76ae\u4e18"
-      }
+      },
+      "parrygg_slug": "pichu"
     },
     "Falco": {
       "smashgg_name": "Falco",
@@ -457,7 +478,8 @@
         "ko": "\ud314\ucf54",
         "zh_TW": "\u6cd5\u723e\u79d1",
         "zh_CN": "\u4f5b\u514b"
-      }
+      },
+      "parrygg_slug": "falco"
     },
     "Marth": {
       "smashgg_name": "Marth",
@@ -477,7 +499,8 @@
         "ko": "\ub9c8\ub974\uc2a4",
         "zh_TW": "\u99ac\u723e\u65af",
         "zh_CN": "\u9a6c\u5c14\u65af"
-      }
+      },
+      "parrygg_slug": "marth"
     },
     "Lucina": {
       "smashgg_name": "Lucina",
@@ -497,7 +520,8 @@
         "ko": "\ub8e8\ud0a4\ub098",
         "zh_TW": "\u9732\u742a\u5a1c",
         "zh_CN": "\u9732\u742a\u5a1c"
-      }
+      },
+      "parrygg_slug": "lucina"
     },
     "Young Link": {
       "smashgg_name": "Young Link",
@@ -517,7 +541,8 @@
         "ko": "\uc18c\ub144 \ub9c1\ud06c",
         "zh_TW": "\u5e74\u5e7c\u6797\u514b",
         "zh_CN": "\u5e7c\u5e74\u6797\u514b"
-      }
+      },
+      "parrygg_slug": "young-link"
     },
     "Ganondorf": {
       "smashgg_name": "Ganondorf",
@@ -537,7 +562,8 @@
         "ko": "\uac00\ub17c\ub3cc\ud504",
         "zh_TW": "\u52a0\u5102\u591a\u592b",
         "zh_CN": "\u76d6\u4fac\u591a\u592b"
-      }
+      },
+      "parrygg_slug": "ganondorf"
     },
     "Mewtwo": {
       "smashgg_name": "Mewtwo",
@@ -558,7 +584,8 @@
         "zh_TW": "\u8d85\u5922",
         "zh_CN": "\u8d85\u68a6",
         "br": "Diogemm"
-      }
+      },
+      "parrygg_slug": "mewtwo"
     },
     "Roy": {
       "smashgg_name": "Roy",
@@ -578,7 +605,8 @@
         "ko": "\ub85c\uc774",
         "zh_TW": "\u7f85\u4f0a",
         "zh_CN": "\u7f57\u4f0a"
-      }
+      },
+      "parrygg_slug": "roy"
     },
     "Chrom": {
       "smashgg_name": "Chrom",
@@ -598,7 +626,8 @@
         "ko": "\ud06c\ub86c",
         "zh_TW": "\u5eab\u6d1b\u6b66",
         "zh_CN": "\u5e93\u6d1b\u59c6"
-      }
+      },
+      "parrygg_slug": "chrom"
     },
     "Mr. Game & Watch": {
       "smashgg_name": "Mr. Game & Watch",
@@ -618,7 +647,8 @@
         "ko": "Mr. \uac8c\uc784&\uc6cc\uce58",
         "zh_TW": "Mr. Game & Watch",
         "zh_CN": "Mr. Game & Watch"
-      }
+      },
+      "parrygg_slug": "mr-game-and-watch"
     },
     "Meta Knight": {
       "smashgg_name": "Meta Knight",
@@ -638,7 +668,8 @@
         "ko": "\uba54\ud0c0 \ub098\uc774\ud2b8",
         "zh_TW": "\u9b45\u5854\u9a0e\u58eb",
         "zh_CN": "\u9b45\u5854\u9a91\u58eb"
-      }
+      },
+      "parrygg_slug": "meta-knight"
     },
     "Pit": {
       "smashgg_name": "Pit",
@@ -658,7 +689,8 @@
         "ko": "\ud53c\ud2b8",
         "zh_TW": "\u5f7c\u7279",
         "zh_CN": "\u5f7c\u7279"
-      }
+      },
+      "parrygg_slug": "pit"
     },
     "Dark Pit": {
       "smashgg_name": "Dark Pit",
@@ -678,7 +710,8 @@
         "ko": "\ube14\ub799\ud53c\ud2b8",
         "zh_TW": "\u9ed1\u6697\u5f7c\u7279",
         "zh_CN": "\u9ed1\u6697\u5f7c\u7279"
-      }
+      },
+      "parrygg_slug": "dark-pit"
     },
     "Zero Suit Samus": {
       "smashgg_name": "Zero Suit Samus",
@@ -698,7 +731,8 @@
         "ko": "\uc81c\ub85c \uc288\ud2b8 \uc0ac\ubb34\uc2a4",
         "zh_TW": "\u96f6\u88dd\u7532\u85a9\u59c6\u65af",
         "zh_CN": "\u96f6\u88c5\u7532\u8428\u59c6\u65af"
-      }
+      },
+      "parrygg_slug": "zero-suit-samus"
     },
     "Wario": {
       "smashgg_name": "Wario",
@@ -718,7 +752,8 @@
         "ko": "\uc640\ub9ac\uc624",
         "zh_TW": "\u74e6\u5229\u6b50",
         "zh_CN": "\u74e6\u529b\u6b27"
-      }
+      },
+      "parrygg_slug": "wario"
     },
     "Snake": {
       "smashgg_name": "Snake",
@@ -738,7 +773,8 @@
         "ko": "\uc2a4\ub124\uc774\ud06c",
         "zh_TW": "Snake",
         "zh_CN": "Snake"
-      }
+      },
+      "parrygg_slug": "snake"
     },
     "Ike": {
       "smashgg_name": "Ike",
@@ -758,7 +794,8 @@
         "ko": "\uc544\uc774\ud06c",
         "zh_TW": "\u827e\u514b",
         "zh_CN": "\u827e\u514b"
-      }
+      },
+      "parrygg_slug": "ike"
     },
     "Pok\u00e9mon Trainer": {
       "smashgg_name": "Pokemon Trainer",
@@ -816,7 +853,8 @@
           },
           "is_different_character": true
         }
-      }
+      },
+      "parrygg_slug": "pok-mon-trainer"
     },
     "Diddy Kong": {
       "smashgg_name": "Diddy Kong",
@@ -836,7 +874,8 @@
         "ko": "\ub514\ub514\ucf69",
         "zh_TW": "\u72c4\u72c4\u525b",
         "zh_CN": "\u8fea\u8fea\u521a"
-      }
+      },
+      "parrygg_slug": "diddy-kong"
     },
     "Lucas": {
       "smashgg_name": "Lucas",
@@ -856,7 +895,8 @@
         "ko": "\ub958\uce74",
         "zh_TW": "\u7409\u52a0",
         "zh_CN": "\u7409\u52a0"
-      }
+      },
+      "parrygg_slug": "lucas"
     },
     "Sonic": {
       "smashgg_name": "Sonic",
@@ -876,7 +916,8 @@
         "ko": "\uc18c\ub2c9",
         "zh_TW": "\u7d22\u5c3c\u514b",
         "zh_CN": "\u7d22\u5c3c\u514b"
-      }
+      },
+      "parrygg_slug": "sonic"
     },
     "King Dedede": {
       "smashgg_name": "King Dedede",
@@ -896,7 +937,8 @@
         "ko": "\ub514\ub514\ub514 \ub300\uc655",
         "zh_TW": "\u5e1d\u5e1d\u5e1d\u5927\u738b",
         "zh_CN": "\u5e1d\u5e1d\u5e1d\u5927\u738b"
-      }
+      },
+      "parrygg_slug": "king-dedede"
     },
     "Olimar": {
       "smashgg_name": "Olimar",
@@ -916,7 +958,8 @@
         "ko": "\ud53c\ud06c\ubbfc&\uc62c\ub9ac\ub9c8",
         "zh_TW": "\u76ae\u514b\u654f\uff06\u6b50\u5229\u746a",
         "zh_CN": "\u76ae\u514b\u654f\uff06\u6b27\u529b\u9a6c"
-      }
+      },
+      "parrygg_slug": "olimar"
     },
     "Lucario": {
       "smashgg_name": "Lucario",
@@ -936,7 +979,8 @@
         "ko": "\ub8e8\uce74\ub9ac\uc624",
         "zh_TW": "\u8def\u5361\u5229\u6b50",
         "zh_CN": "\u8def\u5361\u5229\u6b27"
-      }
+      },
+      "parrygg_slug": "lucario"
     },
     "R.O.B.": {
       "smashgg_name": "R.O.B.",
@@ -956,7 +1000,8 @@
         "ko": "R.O.B.",
         "zh_TW": "\u6a5f\u5668\u4eba",
         "zh_CN": "\u673a\u5668\u4eba"
-      }
+      },
+      "parrygg_slug": "r-o-b"
     },
     "Toon Link": {
       "smashgg_name": "Toon Link",
@@ -976,7 +1021,8 @@
         "ko": "\ud230\ub9c1\ud06c",
         "zh_TW": "\u5361\u901a\u6797\u514b",
         "zh_CN": "\u5361\u901a\u6797\u514b"
-      }
+      },
+      "parrygg_slug": "toon-link"
     },
     "Wolf": {
       "smashgg_name": "Wolf",
@@ -996,7 +1042,8 @@
         "ko": "\uc6b8\ud504",
         "zh_TW": "\u6c83\u723e\u592b",
         "zh_CN": "\u6c83\u9c81\u592b"
-      }
+      },
+      "parrygg_slug": "wolf"
     },
     "Villager": {
       "smashgg_name": "Villager",
@@ -1058,7 +1105,8 @@
           },
           "is_different_character": true
         }
-      }
+      },
+      "parrygg_slug": "villager"
     },
     "Mega Man": {
       "smashgg_name": "Mega Man",
@@ -1078,7 +1126,8 @@
         "ko": "\ub85d\ub9e8",
         "zh_TW": "\u6d1b\u514b\u4eba",
         "zh_CN": "\u6d1b\u514b\u4eba"
-      }
+      },
+      "parrygg_slug": "mega-man"
     },
     "Wii Fit Trainer": {
       "smashgg_name": "Wii Fit Trainer",
@@ -1132,7 +1181,8 @@
           },
           "is_different_character": true
         }
-      }
+      },
+      "parrygg_slug": "wii-fit-trainer"
     },
     "Rosalina & Luma": {
       "smashgg_name": "Rosalina",
@@ -1152,7 +1202,8 @@
         "ko": "\ub85c\uc824\ub9ac\ub098&\uce58\ucf54",
         "zh_TW": "\u7f85\u6f54\u5854\uff06\u5947\u53ef",
         "zh_CN": "\u7f57\u838e\u5854\uff06\u742a\u742a"
-      }
+      },
+      "parrygg_slug": "rosalina-and-luma"
     },
     "Little Mac": {
       "smashgg_name": "Little Mac",
@@ -1172,7 +1223,8 @@
         "ko": "\ub9ac\ud2c0\ub9e5",
         "zh_TW": "\u5c0f\u9ea5\u514b",
         "zh_CN": "\u5c0f\u9ea6\u514b"
-      }
+      },
+      "parrygg_slug": "little-mac"
     },
     "Greninja": {
       "smashgg_name": "Greninja",
@@ -1192,7 +1244,8 @@
         "ko": "\uac1c\uad74\ub2cc\uc790",
         "zh_TW": "\u7532\u8cc0\u5fcd\u86d9",
         "zh_CN": "\u7532\u8d3a\u5fcd\u86d9"
-      }
+      },
+      "parrygg_slug": "greninja"
     },
     "Mii Brawler": {
       "smashgg_name": "Mii Brawler",
@@ -1210,7 +1263,8 @@
         "zh_TW": "Mii\u683c\u9b25\u985e\u578b",
         "zh_CN": "Mii\u683c\u6597\u7c7b\u578b",
         "ja": "Mii \u683c\u95d8\u30bf\u30a4\u30d7"
-      }
+      },
+      "parrygg_slug": "mii-brawler"
     },
     "Mii Swordfighter": {
       "smashgg_name": "Mii Swordfighter",
@@ -1227,7 +1281,8 @@
         "zh_TW": "Mii\u528d\u8853\u985e\u578b",
         "zh_CN": "Mii\u5251\u672f\u7c7b\u578b",
         "ja": "Mii \u5263\u8853\u30bf\u30a4\u30d7"
-      }
+      },
+      "parrygg_slug": "mii-swordfighter"
     },
     "Mii Gunner": {
       "smashgg_name": "Mii Gunner",
@@ -1244,7 +1299,8 @@
         "zh_TW": "Mii\u5c04\u64ca\u985e\u578b",
         "zh_CN": "Mii\u5c04\u51fb\u7c7b\u578b",
         "ja": "Mii \u5c04\u6483\u30bf\u30a4\u30d7"
-      }
+      },
+      "parrygg_slug": "mii-gunner"
     },
     "Palutena": {
       "smashgg_name": "Palutena",
@@ -1264,7 +1320,8 @@
         "ko": "\ud30c\ub974\ud14c\ub098",
         "zh_TW": "\u5e15\u9732\u8482\u5a1c",
         "zh_CN": "\u5e15\u9732\u8482\u5a1c"
-      }
+      },
+      "parrygg_slug": "palutena"
     },
     "Pac-Man": {
       "smashgg_name": "Pac-Man",
@@ -1284,7 +1341,8 @@
         "ko": "\ud329\ub9e8",
         "zh_TW": "\u5403\u8c46\u4eba",
         "zh_CN": "\u5403\u8c46\u4eba"
-      }
+      },
+      "parrygg_slug": "pac-man"
     },
     "Robin": {
       "smashgg_name": "Robin",
@@ -1304,7 +1362,8 @@
         "ko": "\ub7ec\ud50c\ub808",
         "zh_TW": "\u9b6f\u5f17\u840a",
         "zh_CN": "\u9c81\u5f17\u83b1"
-      }
+      },
+      "parrygg_slug": "robin"
     },
     "Shulk": {
       "smashgg_name": "Shulk",
@@ -1324,7 +1383,8 @@
         "ko": "\uc288\ub974\ud06c",
         "zh_TW": "\u4fee\u723e\u514b",
         "zh_CN": "\u4fee\u5c14\u514b"
-      }
+      },
+      "parrygg_slug": "shulk"
     },
     "Bowser Jr.": {
       "smashgg_name": "Bowser Jr.",
@@ -1423,7 +1483,8 @@
           },
           "is_different_character": true
         }
-      }
+      },
+      "parrygg_slug": "bowser-jr"
     },
     "Duck Hunt": {
       "smashgg_name": "Duck Hunt",
@@ -1443,7 +1504,8 @@
         "ko": "\ub355\ud5cc\ud2b8",
         "zh_TW": "\u6253\u7375",
         "zh_CN": "\u6253\u730e"
-      }
+      },
+      "parrygg_slug": "duck-hunt"
     },
     "Ryu": {
       "smashgg_name": "Ryu",
@@ -1463,7 +1525,8 @@
         "ko": "Ryu",
         "zh_TW": "Ryu",
         "zh_CN": "\u9686"
-      }
+      },
+      "parrygg_slug": "ryu"
     },
     "Ken": {
       "smashgg_name": "Ken",
@@ -1483,7 +1546,8 @@
         "ko": "Ken",
         "zh_TW": "Ken",
         "zh_CN": "\u80af"
-      }
+      },
+      "parrygg_slug": "ken"
     },
     "Cloud": {
       "smashgg_name": "Cloud",
@@ -1503,7 +1567,8 @@
         "ko": "\ud074\ub77c\uc6b0\ub4dc",
         "zh_TW": "Cloud",
         "zh_CN": "Cloud"
-      }
+      },
+      "parrygg_slug": "cloud"
     },
     "Corrin": {
       "smashgg_name": "Corrin",
@@ -1523,7 +1588,8 @@
         "ko": "\uce74\ubb34\uc774",
         "zh_TW": "\u795e\u5a01",
         "zh_CN": "\u795e\u5a01"
-      }
+      },
+      "parrygg_slug": "corrin"
     },
     "Bayonetta": {
       "smashgg_name": "Bayonetta",
@@ -1543,7 +1609,8 @@
         "ko": "\ubca0\uc694\ub124\ud0c0",
         "zh_TW": "Bayonetta",
         "zh_CN": "Bayonetta"
-      }
+      },
+      "parrygg_slug": "bayonetta"
     },
     "Inkling": {
       "smashgg_name": "Inkling",
@@ -1563,7 +1630,8 @@
         "ko": "\uc789\ud074\ub9c1",
         "zh_TW": "Inkling",
         "zh_CN": "Inkling"
-      }
+      },
+      "parrygg_slug": "inkling"
     },
     "Ridley": {
       "smashgg_name": "Ridley",
@@ -1583,7 +1651,8 @@
         "ko": "\ub9ac\ub4e4\ub9ac",
         "zh_TW": "\u5229\u5fb7\u96f7",
         "zh_CN": "\u5229\u5fb7\u96f7"
-      }
+      },
+      "parrygg_slug": "ridley"
     },
     "Simon": {
       "smashgg_name": "Simon Belmont",
@@ -1603,7 +1672,8 @@
         "ko": "\uc0ac\uc774\uba3c",
         "zh_TW": "Simon",
         "zh_CN": "Simon"
-      }
+      },
+      "parrygg_slug": "simon"
     },
     "Richter": {
       "smashgg_name": "Richter",
@@ -1623,7 +1693,8 @@
         "ko": "\ub9ad\ud130",
         "zh_TW": "Richter",
         "zh_CN": "Richter"
-      }
+      },
+      "parrygg_slug": "richter"
     },
     "King K. Rool": {
       "smashgg_name": "King K. Rool",
@@ -1643,7 +1714,8 @@
         "ko": "\ud0b9\ud06c\ub8e8\ub8e8",
         "zh_TW": "\u5eab\u9b6f\u9b6f\u738b",
         "zh_CN": "\u5e93\u9c81\u9c81\u738b"
-      }
+      },
+      "parrygg_slug": "king-k-rool"
     },
     "Isabelle": {
       "smashgg_name": "Isabelle",
@@ -1663,7 +1735,8 @@
         "ko": "\uc5ec\uc6b8",
         "zh_TW": "\u897f\u65bd\u60e0",
         "zh_CN": "\u897f\u65bd\u60e0"
-      }
+      },
+      "parrygg_slug": "isabelle"
     },
     "Incineroar": {
       "smashgg_name": "Incineroar",
@@ -1683,7 +1756,8 @@
         "ko": "\uc5b4\ud765\uc5fc",
         "zh_TW": "\u71be\u7130\u5486\u54ee\u864e",
         "zh_CN": "\u70bd\u7130\u5486\u54ee\u864e"
-      }
+      },
+      "parrygg_slug": "incineroar"
     },
     "Piranha Plant": {
       "smashgg_name": "Piranha Plant",
@@ -1705,7 +1779,8 @@
         "zh_CN": "\u541e\u98df\u82b1",
         "pt_BR": "Planta Piranha",
         "pt_PT": "Planta Piranha"
-      }
+      },
+      "parrygg_slug": "piranha-plant"
     },
     "Joker": {
       "smashgg_name": "Joker",
@@ -1725,7 +1800,8 @@
         "ko": "\uc870\ucee4",
         "zh_TW": "Joker",
         "zh_CN": "Joker"
-      }
+      },
+      "parrygg_slug": "joker"
     },
     "Hero": {
       "smashgg_name": "Hero",
@@ -1745,7 +1821,8 @@
         "ko": "\uc6a9\uc0ac",
         "zh_TW": "\u52c7\u8005",
         "zh_CN": "\u52c7\u8005"
-      }
+      },
+      "parrygg_slug": "hero"
     },
     "Banjo & Kazooie": {
       "smashgg_name": "Banjo-Kazooie",
@@ -1765,7 +1842,8 @@
         "ko": "\ubc18\uc870 & \uce74\uc8fc\uc774",
         "zh_TW": "\u963f\u90a6\uff06\u963f\u5361",
         "zh_CN": "\u963f\u90a6\uff06\u963f\u5361"
-      }
+      },
+      "parrygg_slug": "banjo-and-kazooie"
     },
     "Terry": {
       "smashgg_name": "Terry",
@@ -1785,7 +1863,8 @@
         "ko": "\ud14c\ub9ac",
         "zh_TW": "\u6cf0\u5229",
         "zh_CN": "\u7279\u745e"
-      }
+      },
+      "parrygg_slug": "terry"
     },
     "Byleth": {
       "smashgg_name": "Byleth",
@@ -1839,7 +1918,8 @@
             "ko": "\ubca8\ub808\uc2a4"
           }
         }
-      }
+      },
+      "parrygg_slug": "byleth"
     },
     "Min Min": {
       "smashgg_name": "Min Min",
@@ -1859,7 +1939,8 @@
         "ko": "\ubbf8\uc5d4\ubbf8\uc5d4",
         "zh_TW": "\u9eb5\u9eb5",
         "zh_CN": "\u9762\u9762"
-      }
+      },
+      "parrygg_slug": "min-min"
     },
     "Steve": {
       "smashgg_name": "Steve",
@@ -1917,7 +1998,8 @@
             "ru": "\u042d\u043d\u0434\u0435\u0440\u043c\u0435\u043d"
           }
         }
-      }
+      },
+      "parrygg_slug": "steve"
     },
     "Sephiroth": {
       "smashgg_name": "Sephiroth",
@@ -1937,7 +2019,8 @@
         "ko": "\uc138\ud53c\ub85c\uc2a4",
         "zh_TW": "\u8cfd\u83f2\u7f85\u65af",
         "zh_CN": "\u8428\u83f2\u7f57\u65af"
-      }
+      },
+      "parrygg_slug": "sephiroth"
     },
     "Pyra / Mythra": {
       "smashgg_name": "Pyra & Mythra",
@@ -1957,7 +2040,8 @@
         "ko": "\ud638\ubb34\ub77c / \ud788\uce74\ub9ac",
         "zh_TW": "\u7130 / \u5149",
         "zh_CN": "\u7130 / \u5149"
-      }
+      },
+      "parrygg_slug": "pyra-and-mythra"
     },
     "Kazuya": {
       "smashgg_name": "Kazuya",
@@ -1977,7 +2061,8 @@
         "ko": "Kazuya",
         "zh_TW": "\u4e00\u516b",
         "zh_CN": "\u4e00\u516b"
-      }
+      },
+      "parrygg_slug": "kazuya"
     },
     "Sora": {
       "smashgg_name": "Sora",
@@ -1997,20 +2082,23 @@
         "ko": "\uc18c\ub77c",
         "zh_TW": "\u7d22\u62c9",
         "zh_CN": "\u7d22\u62c9"
-      }
+      },
+      "parrygg_slug": "sora"
     },
     "Random": {
       "smashgg_name": "Random Character",
       "codename": "random",
       "locale": {
         "fr": "Al\u00e9atoire"
-      }
+      },
+      "parrygg_slug": "random"
     }
   },
   "stage_to_codename": {
     "3D Land": {
       "smashgg_id": "307",
-      "codename": "Mario_3DLand"
+      "codename": "Mario_3DLand",
+      "parrygg_slug": "super-mario-3d-land"
     },
     "75m": {
       "smashgg_id": "308",
@@ -2029,7 +2117,8 @@
         "zh_CN": "75m",
         "zh_TW": "75m",
         "ko": "75m"
-      }
+      },
+      "parrygg_slug": "75m"
     },
     "Arena Ferox": {
       "smashgg_id": "309",
@@ -2048,11 +2137,13 @@
         "zh_CN": "\u83f2\u5229\u4e9a\u6597\u6280\u573a",
         "zh_TW": "\u83f2\u5229\u4e9e\u9b25\u6280\u5834",
         "ko": "\ud398\ub85d\uc2a4 \ud22c\uae30\uc7a5"
-      }
+      },
+      "parrygg_slug": "arena-ferox"
     },
     "Balloon Fight": {
       "smashgg_id": "310",
-      "codename": "BalloonFight"
+      "codename": "BalloonFight",
+      "parrygg_slug": "balloon-fight"
     },
     "Battlefield": {
       "smashgg_id": "311",
@@ -2071,7 +2162,8 @@
         "zh_CN": "\u6218\u573a",
         "zh_TW": "\u6230\u5834",
         "ko": "\uc804\uc7a5"
-      }
+      },
+      "parrygg_slug": "battlefield"
     },
     "Big Battlefield": {
       "smashgg_id": "312",
@@ -2090,7 +2182,8 @@
         "zh_CN": "\u5927\u6218\u573a",
         "zh_TW": "\u5927\u6230\u5834",
         "ko": "\ub300\uc804\uc7a5"
-      }
+      },
+      "parrygg_slug": "big-battlefield"
     },
     "Big Blue": {
       "smashgg_id": "313",
@@ -2109,7 +2202,8 @@
         "zh_CN": "\u78a7\u6d77",
         "zh_TW": "\u78a7\u6d77",
         "ko": "\ube45 \ube14\ub8e8"
-      }
+      },
+      "parrygg_slug": "big-blue"
     },
     "Boxing Ring": {
       "smashgg_id": "314",
@@ -2128,7 +2222,8 @@
         "zh_CN": "\u7279\u8bbe\u64c2\u53f0",
         "zh_TW": "\u7279\u8a2d\u64c2\u53f0",
         "ko": "\ud2b9\uc124 \ub9c1"
-      }
+      },
+      "parrygg_slug": "boxing-ring"
     },
     "Bridge of Eldin": {
       "smashgg_id": "315",
@@ -2147,11 +2242,13 @@
         "zh_CN": "\u5965\u5c14\u6c40\u5927\u6865",
         "zh_TW": "\u5967\u723e\u6c40\u5927\u6a4b",
         "ko": "\uc62c\ub518\ub300\uad50"
-      }
+      },
+      "parrygg_slug": "bridge-of-eldin"
     },
     "Brinstar": {
       "smashgg_id": "316",
-      "codename": "Metroid_ZebesDx"
+      "codename": "Metroid_ZebesDx",
+      "parrygg_slug": "brinstar"
     },
     "Brinstar Depths": {
       "smashgg_id": "317",
@@ -2170,7 +2267,8 @@
         "zh_CN": "\u5e03\u6797\u65af\u5854\u6df1\u90e8",
         "zh_TW": "Brinstar Depths",
         "ko": "\ube0c\ub9b0\uc2a4\ud0c0 \uc2ec\uce35\ubd80"
-      }
+      },
+      "parrygg_slug": "brinstar-depths"
     },
     "Castle Siege": {
       "smashgg_id": "318",
@@ -2189,7 +2287,8 @@
         "zh_CN": "\u653b\u57ce\u6218",
         "zh_TW": "\u653b\u57ce\u6230",
         "ko": "\uacf5\uc131\uc804"
-      }
+      },
+      "parrygg_slug": "castle-siege"
     },
     "Coliseum": {
       "smashgg_id": "319",
@@ -2208,7 +2307,8 @@
         "zh_CN": "\u6597\u6280\u573a",
         "zh_TW": "\u9b25\u6280\u5834",
         "ko": "\ud22c\uae30\uc7a5"
-      }
+      },
+      "parrygg_slug": "coliseum"
     },
     "Corneria": {
       "smashgg_id": "320",
@@ -2227,7 +2327,8 @@
         "zh_CN": "\u884c\u661f\u514b\u5c3c\u5229\u4e9a",
         "zh_TW": "\u884c\u661f\u67ef\u5167\u8389\u4e9e",
         "ko": "\ucf54\ub124\ub9ac\uc544 \ud589\uc131"
-      }
+      },
+      "parrygg_slug": "corneria"
     },
     "Delfino Plaza": {
       "smashgg_id": "321",
@@ -2246,7 +2347,8 @@
         "zh_CN": "\u5fb7\u5c14\u76ae\u514b\u9547",
         "zh_TW": "Delfino Plaza",
         "ko": "\ub3cc\ud53d \ud0c0\uc6b4"
-      }
+      },
+      "parrygg_slug": "delfino-plaza"
     },
     "Distant Planet": {
       "smashgg_id": "322",
@@ -2265,7 +2367,8 @@
         "zh_CN": "\u67d0\u4e2a\u661f\u7403",
         "zh_TW": "\u67d0\u500b\u661f\u7403",
         "ko": "\uc5b4\ub290 \ubcc4"
-      }
+      },
+      "parrygg_slug": "distant-planet"
     },
     "Dracula's Castle": {
       "smashgg_id": "323",
@@ -2284,7 +2387,8 @@
         "zh_CN": "Dracula's Castle",
         "zh_TW": "Dracula's Castle",
         "ko": "\ub4dc\ub77c\ud058\ub77c \uc131"
-      }
+      },
+      "parrygg_slug": "draculas-castle"
     },
     "Dream Land": {
       "smashgg_id": "324",
@@ -2303,7 +2407,8 @@
         "zh_CN": "\u5657\u5657\u5657\u4e4b\u56fd",
         "zh_TW": "\u5657\u5657\u5657\u4e4b\u56fd",
         "ko": "\ud478\ud478\ud478\ub79c\ub4dc"
-      }
+      },
+      "parrygg_slug": "dream-land"
     },
     "Dream Land GB": {
       "smashgg_id": "325",
@@ -2322,7 +2427,8 @@
         "zh_CN": "\u5657\u5657\u5657\u4e4b\u56fdGB",
         "zh_TW": "\u5657\u5657\u5657\u4e4b\u570bGB",
         "ko": "\ud478\ud478\ud478\ub79c\ub4dc GB"
-      }
+      },
+      "parrygg_slug": "dream-land-gb"
     },
     "Duck Hunt": {
       "smashgg_id": "326",
@@ -2341,7 +2447,8 @@
         "zh_CN": "\u6253\u730e",
         "zh_TW": "\u6253\u7375",
         "ko": "\ub355\ud5cc\ud2b8"
-      }
+      },
+      "parrygg_slug": "duck-hunt"
     },
     "Figure-8 Circuit": {
       "smashgg_id": "327",
@@ -2360,7 +2467,8 @@
         "zh_CN": "8\u5b57\u5f62\u8d5b\u9053",
         "zh_TW": "8\u5b57\u5f62\u8cfd\u9053",
         "ko": "8\uc790 \uc11c\ud0b7"
-      }
+      },
+      "parrygg_slug": "figure-8-circuit"
     },
     "Final Destination": {
       "smashgg_id": "328",
@@ -2379,7 +2487,8 @@
         "zh_CN": "\u7ec8\u70b9",
         "zh_TW": "\u7d42\u9ede",
         "ko": "\uc885\uc810"
-      }
+      },
+      "parrygg_slug": "final-destination"
     },
     "Find Mii": {
       "smashgg_id": "329",
@@ -2398,7 +2507,8 @@
         "zh_CN": "\u77ac\u7f18\u4f20\u8bf4",
         "zh_TW": "\u77ac\u9593\u4ea4\u932f\u50b3\u8aaa",
         "ko": "\uc5c7\uac08\ub9bc \uc804\uc124"
-      }
+      },
+      "parrygg_slug": "find-mii"
     },
     "Flat Zone X": {
       "smashgg_id": "330",
@@ -2417,7 +2527,8 @@
         "zh_CN": "\u5e73\u9762\u4e16\u754cX",
         "zh_TW": "\u5e73\u9762\u4e16\u754cX",
         "ko": "\ud50c\ub7ab \uc874X"
-      }
+      },
+      "parrygg_slug": "flat-zone-x"
     },
     "Fountain of Dreams": {
       "smashgg_id": "331",
@@ -2436,11 +2547,13 @@
         "zh_CN": "Fountain of Dreams",
         "zh_TW": "Fountain of Dreams",
         "ko": "\uafc8\uc758 \uc0d8"
-      }
+      },
+      "parrygg_slug": "fountain-of-dreams"
     },
     "Fourside": {
       "smashgg_id": "332",
-      "codename": "Mother_Fourside"
+      "codename": "Mother_Fourside",
+      "parrygg_slug": "fourside"
     },
     "Frigate Orpheon": {
       "smashgg_id": "333",
@@ -2459,11 +2572,13 @@
         "zh_CN": "\u9a71\u9010\u8230\u5965\u98de\u6602",
         "zh_TW": "Frigate Orpheon",
         "ko": "\ud504\ub9ac\uae43 \uc624\ub974\ud53c\uc628"
-      }
+      },
+      "parrygg_slug": "frigate-orpheon"
     },
     "Gamer": {
       "smashgg_id": "334",
-      "codename": "Wario_Gamer"
+      "codename": "Wario_Gamer",
+      "parrygg_slug": "gamer"
     },
     "Garden of Hope": {
       "smashgg_id": "335",
@@ -2482,7 +2597,8 @@
         "zh_CN": "\u518d\u4f1a\u82b1\u56ed",
         "zh_TW": "\u518d\u6703\u82b1\u5712",
         "ko": "\uc7ac\ud68c\uc758 \ud654\uc6d0"
-      }
+      },
+      "parrygg_slug": "garden-of-hope"
     },
     "Gaur Plain": {
       "smashgg_id": "336",
@@ -2501,7 +2617,8 @@
         "zh_CN": "Gaur Plain",
         "zh_TW": "Gaur Plain",
         "ko": "\uac00\uc6b8 \ud3c9\uc6d0"
-      }
+      },
+      "parrygg_slug": "gaur-plain"
     },
     "Gerudo Valley": {
       "smashgg_id": "337",
@@ -2520,7 +2637,8 @@
         "zh_CN": "\u683c\u9c81\u5fb7\u4e4b\u8c37",
         "zh_TW": "\u683c\u9b6f\u5fb7\u4e4b\u8c37",
         "ko": "\uac94\ub4dc \ud611\uace1"
-      }
+      },
+      "parrygg_slug": "gerudo-valley"
     },
     "Golden Plains": {
       "smashgg_id": "338",
@@ -2539,7 +2657,8 @@
         "zh_CN": "\u539f\u91ce",
         "zh_TW": "\u539f\u91ce",
         "ko": "\ub4e4\ud310"
-      }
+      },
+      "parrygg_slug": "golden-plains"
     },
     "Great Bay": {
       "smashgg_id": "339",
@@ -2558,7 +2677,8 @@
         "zh_CN": "Great Bay",
         "zh_TW": "Great Bay",
         "ko": "\uadf8\ub808\uc774\ud2b8 \ubca0\uc774"
-      }
+      },
+      "parrygg_slug": "great-bay"
     },
     "The Great Cave Offensive": {
       "smashgg_id": "340",
@@ -2577,7 +2697,8 @@
         "zh_CN": "\u6d1e\u7a9f\u5927\u4f5c\u6218",
         "zh_TW": "\u6d1e\u7a9f\u5927\u4f5c\u6230",
         "ko": "\ub3d9\uad74\ub300\uc791\uc804"
-      }
+      },
+      "parrygg_slug": "the-great-cave-offensive"
     },
     "Great Plateau Tower": {
       "smashgg_id": "341",
@@ -2596,7 +2717,8 @@
         "zh_CN": "\u521d\u59cb\u4e4b\u5854",
         "zh_TW": "\u521d\u59cb\u4e4b\u5854",
         "ko": "\uc2dc\uc791\uc758 \ud0d1"
-      }
+      },
+      "parrygg_slug": "great-plateau-tower"
     },
     "Green Greens": {
       "smashgg_id": "342",
@@ -2615,7 +2737,8 @@
         "zh_CN": "Green Greens",
         "zh_TW": "Green Greens",
         "ko": "\uadf8\ub9b0 \uadf8\ub9b0"
-      }
+      },
+      "parrygg_slug": "green-greens"
     },
     "Green Hill Zone": {
       "smashgg_id": "343",
@@ -2634,7 +2757,8 @@
         "zh_CN": "Green Hill Zone",
         "zh_TW": "Green Hill Zone",
         "ko": "\uadf8\ub9b0 \ud790 \uc874"
-      }
+      },
+      "parrygg_slug": "green-hill-zone"
     },
     "Halberd": {
       "smashgg_id": "344",
@@ -2653,7 +2777,8 @@
         "zh_CN": "Halberd",
         "zh_TW": "Halberd",
         "ko": "\uc804\ud568 \ud560\ubc84\ub4dc"
-      }
+      },
+      "parrygg_slug": "halberd"
     },
     "Hanenbow": {
       "smashgg_id": "345",
@@ -2672,7 +2797,8 @@
         "zh_CN": "Hanenbow",
         "zh_TW": "Hanenbow",
         "ko": "\uc77c\ub809\ud2b8\ub85c \ud50c\ub791\ud06c\ud1a4"
-      }
+      },
+      "parrygg_slug": "hanenbow"
     },
     "Hyrule Castle": {
       "smashgg_id": "346",
@@ -2691,7 +2817,8 @@
         "zh_CN": "\u6d77\u62c9\u9c81\u57ce\u5821",
         "zh_TW": "\u6d77\u62c9\u9c81\u57ce\u5821",
         "ko": "\ud558\uc774\ub784 \uc131"
-      }
+      },
+      "parrygg_slug": "hyrule-castle"
     },
     "Jungle Japes": {
       "smashgg_id": "347",
@@ -2710,7 +2837,8 @@
         "zh_CN": "\u4e1b\u6797\u82b1\u56ed",
         "zh_TW": "\u53e2\u6797\u82b1\u5712",
         "ko": "\uc815\uae00 \uac00\ub4e0"
-      }
+      },
+      "parrygg_slug": "jungle-japes"
     },
     "Kalos Pok\u00e9mon League": {
       "smashgg_id": "348",
@@ -2729,7 +2857,8 @@
         "zh_CN": "\u5361\u6d1b\u65af\u5b9d\u53ef\u68a6\u8054\u76df",
         "zh_TW": "\u5361\u6d1b\u65af\u5bf6\u53ef\u5922\u806f\u76df",
         "ko": "\uce7c\ub85c\uc2a4 \ud3ec\ucf13\ubaac\ub9ac\uadf8"
-      }
+      },
+      "parrygg_slug": "kalos-pok-mon-league"
     },
     "Kongo Falls": {
       "smashgg_id": "349",
@@ -2748,7 +2877,8 @@
         "zh_CN": "\u6728\u7b4f\u548c\u7011\u5e03",
         "zh_TW": "\u6728\u7b4f\u548c\u7011\u5e03",
         "ko": "\ub5cf\ubaa9\uacfc \ud3ed\ud3ec"
-      }
+      },
+      "parrygg_slug": "kongo-falls"
     },
     "Kongo Jungle": {
       "smashgg_id": "350",
@@ -2767,7 +2897,8 @@
         "zh_CN": "\u5eb7\u52a0\u4e1b\u6797",
         "zh_TW": "\u5eb7\u52a0\u53e2\u6797",
         "ko": "\ucf69\uace0 \uc815\uae00"
-      }
+      },
+      "parrygg_slug": "kongo-jungle"
     },
     "Living Room": {
       "smashgg_id": "351",
@@ -2786,7 +2917,8 @@
         "zh_CN": "\u72d7\u72d7\u5ba2\u5385",
         "zh_TW": "\u72d7\u72d7\u5ba2\u5ef3",
         "ko": "\uac15\uc544\uc9c0\uac00 \uc788\ub294 \uac70\uc2e4"
-      }
+      },
+      "parrygg_slug": "living-room"
     },
     "Luigi's Mansion": {
       "smashgg_id": "352",
@@ -2805,7 +2937,8 @@
         "zh_CN": "\u8def\u6613\u5409\u6d0b\u9986",
         "zh_TW": "\u8def\u6613\u5409\u6d0b\u6a13",
         "ko": "\ub8e8\uc774\uc9c0 \ub9e8\uc158"
-      }
+      },
+      "parrygg_slug": "luigis-mansion"
     },
     "Lylat Cruise": {
       "smashgg_id": "353",
@@ -2824,15 +2957,18 @@
         "zh_CN": "\u83b1\u62c9\u7279\u5de1\u822a",
         "zh_TW": "\u840a\u62c9\u7279\u5de1\u822a",
         "ko": "\ub77c\uc77c\ub77c\ud2b8 \ud06c\ub8e8\uc988"
-      }
+      },
+      "parrygg_slug": "lylat-cruise"
     },
     "Magicant": {
       "smashgg_id": "354",
-      "codename": "Mother_Magicant"
+      "codename": "Mother_Magicant",
+      "parrygg_slug": "magicant"
     },
     "Mario Bros.": {
       "smashgg_id": "355",
-      "codename": "MarioBros"
+      "codename": "MarioBros",
+      "parrygg_slug": "mario-bros"
     },
     "Mario Circuit": {
       "smashgg_id": "356",
@@ -2851,7 +2987,8 @@
         "zh_CN": "\u9a6c\u529b\u6b27\u8d5b\u9053",
         "zh_TW": "\u746a\u5229\u6b50\u8cfd\u9053",
         "ko": "\ub9c8\ub9ac\uc624 \uc11c\ud0b7"
-      }
+      },
+      "parrygg_slug": "mario-circuit"
     },
     "Mario Galaxy": {
       "smashgg_id": "357",
@@ -2870,11 +3007,13 @@
         "zh_CN": "\u9a6c\u529b\u6b27\u94f6\u6cb3",
         "zh_TW": "\u746a\u5229\u6b50\u9280\u6cb3",
         "ko": "\ub9c8\ub9ac\uc624 \uac24\ub7ed\uc2dc"
-      }
+      },
+      "parrygg_slug": "mario-galaxy"
     },
     "Midgar": {
       "smashgg_id": "358",
-      "codename": "FF_Midgar"
+      "codename": "FF_Midgar",
+      "parrygg_slug": "midgar"
     },
     "Moray Towers": {
       "smashgg_id": "359",
@@ -2893,7 +3032,8 @@
         "zh_CN": "Moray Towers",
         "zh_TW": "Moray Towers",
         "ko": "\uac08\uce58 \uc8fc\ucc28\uc7a5"
-      }
+      },
+      "parrygg_slug": "moray-towers"
     },
     "Mushroom Kingdom": {
       "smashgg_id": "360",
@@ -2912,7 +3052,8 @@
         "zh_CN": "\u53e4\u8001\u7684\u738b\u56fd",
         "zh_TW": "\u53e4\u8001\u7684\u738b\u570b",
         "ko": "\uace0\ub300 \uc655\uad6d"
-      }
+      },
+      "parrygg_slug": "mushroom-kingdom"
     },
     "Mushroom Kingdom II": {
       "smashgg_id": "361",
@@ -2931,7 +3072,8 @@
         "zh_CN": "\u53e4\u8001\u7684\u738b\u56fdUSA",
         "zh_TW": "\u53e4\u8001\u7684\u738b\u570bUSA",
         "ko": "\uace0\ub300 \uc655\uad6d USA"
-      }
+      },
+      "parrygg_slug": "mushroom-kingdom-ii"
     },
     "Mushroomy Kingdom": {
       "smashgg_id": "362",
@@ -2950,7 +3092,8 @@
         "zh_CN": "\u4eff\u4f5b\u53e4\u8001\u7684\u738b\u56fd",
         "zh_TW": "\u4eff\u4f5b\u53e4\u8001\u7684\u738b\u570b",
         "ko": "\uc608\uc2a4\ub7ec\uc6b4 \uc655\uad6d"
-      }
+      },
+      "parrygg_slug": "mushroomy-kingdom"
     },
     "Mushroom Kingdom U": {
       "smashgg_id": "363",
@@ -2969,7 +3112,8 @@
         "zh_CN": "\u9a6c\u529b\u6b27U\u4e16\u754c",
         "zh_TW": "\u746a\u5229\u6b50U\u4e16\u754c",
         "ko": "\ub9c8\ub9ac\uc624 U \uc6d4\ub4dc"
-      }
+      },
+      "parrygg_slug": "mushroom-kingdom-u"
     },
     "Mute City SNES": {
       "smashgg_id": "364",
@@ -2988,7 +3132,8 @@
         "zh_CN": "\u5bc2\u9759\u57ce\u5e02SFC",
         "zh_TW": "\u5bc2\u975c\u57ce\u5e02SFC",
         "ko": "\ubba4\ud2b8 \uc2dc\ud2f0 SFC"
-      }
+      },
+      "parrygg_slug": "mute-city-snes"
     },
     "New Donk City Hall": {
       "smashgg_id": "365",
@@ -3007,23 +3152,28 @@
         "zh_CN": "\u7ebd\u6566\u5e02\u653f\u5385",
         "zh_TW": "\u7d10\u9813\u5e02\u653f\u5ef3",
         "ko": "\ub274\ub3d9\ud06c\uc2dc\uccad"
-      }
+      },
+      "parrygg_slug": "new-donk-city-hall"
     },
     "New Pork City": {
       "smashgg_id": "366",
-      "codename": "Mother_Newpork"
+      "codename": "Mother_Newpork",
+      "parrygg_slug": "new-pork-city"
     },
     "Norfair": {
       "smashgg_id": "367",
-      "codename": "Metroid_Norfair"
+      "codename": "Metroid_Norfair",
+      "parrygg_slug": "norfair"
     },
     "Onett": {
       "smashgg_id": "368",
-      "codename": "Mother_Onett"
+      "codename": "Mother_Onett",
+      "parrygg_slug": "onett"
     },
     "Pac-Land": {
       "smashgg_id": "369",
-      "codename": "Pac_Land"
+      "codename": "Pac_Land",
+      "parrygg_slug": "pac-land"
     },
     "Palutena's Temple": {
       "smashgg_id": "370",
@@ -3042,11 +3192,13 @@
         "zh_CN": "Palutena's Temple",
         "zh_TW": "Palutena's Temple",
         "ko": "\uc5d4\uc824\ub79c\ub4dc"
-      }
+      },
+      "parrygg_slug": "palutenas-temple"
     },
     "Paper Mario": {
       "smashgg_id": "371",
-      "codename": "Mario_Paper"
+      "codename": "Mario_Paper",
+      "parrygg_slug": "paper-mario"
     },
     "Peach's Castle": {
       "smashgg_id": "372",
@@ -3065,7 +3217,8 @@
         "zh_CN": "\u6843\u82b1\u516c\u4e3b\u57ce\u5821 \u4e0a\u7a7a",
         "zh_TW": "\u78a7\u59ec\u516c\u4e3b\u57ce\u5821 \u4e0a\u7a7a",
         "ko": "\ud53c\uce58 \uc131 \uc0c1\uacf5"
-      }
+      },
+      "parrygg_slug": "peachs-castle"
     },
     "Princess Peach's Castle": {
       "smashgg_id": "373",
@@ -3084,15 +3237,18 @@
         "zh_CN": "\u6843\u82b1\u516c\u4e3b\u57ce\u5821",
         "zh_TW": "\u78a7\u59ec\u516c\u4e3b\u57ce\u5821",
         "ko": "\ud53c\uce58 \uc131"
-      }
+      },
+      "parrygg_slug": "princess-peachs-castle"
     },
     "PictoChat 2": {
       "smashgg_id": "374",
-      "codename": "Pictochat2"
+      "codename": "Pictochat2",
+      "parrygg_slug": "pictochat-2"
     },
     "Pilotwings": {
       "smashgg_id": "375",
-      "codename": "Pilotwings"
+      "codename": "Pilotwings",
+      "parrygg_slug": "pilotwings"
     },
     "Pirate Ship": {
       "smashgg_id": "376",
@@ -3111,7 +3267,8 @@
         "zh_CN": "\u6d77\u76d7\u8239",
         "zh_TW": "\u6d77\u76dc\u8239",
         "ko": "\ud574\uc801\uc120"
-      }
+      },
+      "parrygg_slug": "pirate-ship"
     },
     "Pok\u00e9mon Stadium": {
       "smashgg_id": "377",
@@ -3130,7 +3287,8 @@
         "zh_CN": "Pok\u00e9mon Stadium",
         "zh_TW": "Pok\u00e9mon Stadium",
         "ko": "\ud3ec\ucf13\ubaac \uc2a4\ud0c0\ub514\uc6c0"
-      }
+      },
+      "parrygg_slug": "pok-mon-stadium"
     },
     "Pok\u00e9mon Stadium 2": {
       "smashgg_id": "378",
@@ -3149,7 +3307,8 @@
         "zh_CN": "Pok\u00e9mon Stadium 2",
         "zh_TW": "Pok\u00e9mon Stadium 2",
         "ko": "\ud3ec\ucf13\ubaac \uc2a4\ud0c0\ub514\uc6c0 2"
-      }
+      },
+      "parrygg_slug": "pok-mon-stadium-2"
     },
     "Port Town Aero Dive": {
       "smashgg_id": "379",
@@ -3168,7 +3327,8 @@
         "zh_CN": "\u6e2f\u53e3\u9547 \u9ad8\u7a7a\u4fef\u51b2",
         "zh_TW": "Port Town Aero Dive",
         "ko": "\ud3ec\ud2b8 \ud0c0\uc6b4 \uc5d0\uc5b4\ub85c\ub2e4\uc774\ube0c"
-      }
+      },
+      "parrygg_slug": "port-town-aero-dive"
     },
     "Prism Tower": {
       "smashgg_id": "380",
@@ -3187,7 +3347,8 @@
         "zh_CN": "\u68f1\u955c\u5854",
         "zh_TW": "\u7a1c\u93e1\u5854",
         "ko": "\ud504\ub9ac\uc998\ud0c0\uc6cc"
-      }
+      },
+      "parrygg_slug": "prism-tower"
     },
     "Rainbow Cruise": {
       "smashgg_id": "381",
@@ -3206,7 +3367,8 @@
         "zh_CN": "\u5f69\u8679\u5de1\u822a",
         "zh_TW": "\u5f69\u8679\u5de1\u822a",
         "ko": "\ub808\uc778\ubcf4\uc6b0\ud06c\ub8e8\uc988"
-      }
+      },
+      "parrygg_slug": "rainbow-cruise"
     },
     "Reset Bomb Forest": {
       "smashgg_id": "382",
@@ -3225,7 +3387,8 @@
         "zh_CN": "Reset Bomb Forest",
         "zh_TW": "Reset Bomb Forest",
         "ko": "\ucd08\uae30\ud654 \ud3ed\ud0c4\uc758 \uc232"
-      }
+      },
+      "parrygg_slug": "reset-bomb-forest"
     },
     "Saffron City": {
       "smashgg_id": "383",
@@ -3244,7 +3407,8 @@
         "zh_CN": "\u91d1\u9ec4\u5e02",
         "zh_TW": "\u91d1\u9ec3\u5e02",
         "ko": "\ub178\ub791\uc2dc\ud2f0"
-      }
+      },
+      "parrygg_slug": "saffron-city"
     },
     "Shadow Moses Island": {
       "smashgg_id": "384",
@@ -3263,7 +3427,8 @@
         "zh_CN": "Shadow Moses Island",
         "zh_TW": "Shadow Moses Island",
         "ko": "\uc250\ub3c4\uc6b0 \ubaa8\uc138\uc2a4 \uc12c"
-      }
+      },
+      "parrygg_slug": "shadow-moses-island"
     },
     "Skyloft": {
       "smashgg_id": "385",
@@ -3282,7 +3447,8 @@
         "zh_CN": "\u7a7a\u4e2d\u697c\u9601",
         "zh_TW": "\u7a7a\u4e2d\u6a13\u95a3",
         "ko": "\uc2a4\uce74\uc774\ub85c\ud504\ud2b8"
-      }
+      },
+      "parrygg_slug": "skyloft"
     },
     "Skyworld": {
       "smashgg_id": "386",
@@ -3301,7 +3467,8 @@
         "zh_CN": "Skyworld",
         "zh_TW": "Skyworld",
         "ko": "\ucc9c\uacf5\uacc4"
-      }
+      },
+      "parrygg_slug": "skyworld"
     },
     "Smashville": {
       "smashgg_id": "387",
@@ -3320,7 +3487,8 @@
         "zh_CN": "\u4efb\u5929\u6751",
         "zh_TW": "\u4efb\u5929\u6751",
         "ko": "\uc2a4\ub9e4\uc2dc \ub9c8\uc744"
-      }
+      },
+      "parrygg_slug": "smashville"
     },
     "Spear Pillar": {
       "smashgg_id": "388",
@@ -3339,7 +3507,8 @@
         "zh_CN": "\u5929\u51a0\u5c71 \u67aa\u4e4b\u67f1",
         "zh_TW": "\u5929\u51a0\u5c71 \u69cd\u4e4b\u67f1",
         "ko": "\ucc9c\uad00\uc0b0 \ucc3d\uae30\ub465"
-      }
+      },
+      "parrygg_slug": "spear-pillar"
     },
     "Spirit Train": {
       "smashgg_id": "389",
@@ -3358,7 +3527,8 @@
         "zh_CN": "\u84b8\u6c7d\u706b\u8f66",
         "zh_TW": "\u84b8\u6c7d\u706b\u8eca",
         "ko": "\uae30\ucc28"
-      }
+      },
+      "parrygg_slug": "spirit-train"
     },
     "Summit": {
       "smashgg_id": "390",
@@ -3377,7 +3547,8 @@
         "zh_CN": "\u5cf0\u9876",
         "zh_TW": "\u5cf0\u9802",
         "ko": "\uc815\uc0c1"
-      }
+      },
+      "parrygg_slug": "summit"
     },
     "Super Happy Tree": {
       "smashgg_id": "391",
@@ -3396,11 +3567,13 @@
         "zh_CN": "\u8d85\u7ea7\u5feb\u4e50\u6811",
         "zh_TW": "Super Happy Tree",
         "ko": "\uc288\ud37c \ud574\ud53c \ud2b8\ub9ac"
-      }
+      },
+      "parrygg_slug": "super-happy-tree"
     },
     "Super Mario Maker": {
       "smashgg_id": "392",
-      "codename": "Mario_Maker"
+      "codename": "Mario_Maker",
+      "parrygg_slug": "super-mario-maker"
     },
     "Suzaku Castle": {
       "smashgg_id": "393",
@@ -3419,7 +3592,8 @@
         "zh_CN": "\u6731\u96c0\u57ce",
         "zh_TW": "Suzaku Castle",
         "ko": "\uc8fc\uc791\uc131"
-      }
+      },
+      "parrygg_slug": "suzaku-castle"
     },
     "Temple": {
       "smashgg_id": "394",
@@ -3438,7 +3612,8 @@
         "zh_CN": "\u795e\u6bbf",
         "zh_TW": "\u795e\u6bbf",
         "ko": "\uc2e0\uc804"
-      }
+      },
+      "parrygg_slug": "temple"
     },
     "Tomodachi Life": {
       "smashgg_id": "395",
@@ -3457,7 +3632,8 @@
         "zh_CN": "Tomodachi Life",
         "zh_TW": "Tomodachi Life",
         "ko": "\uce5c\uad6c\ubaa8\uc544 \uc544\ud30c\ud2b8"
-      }
+      },
+      "parrygg_slug": "tomodachi-life"
     },
     "Tortimer Island": {
       "smashgg_id": "396",
@@ -3476,7 +3652,8 @@
         "zh_CN": "Tortimer Island",
         "zh_TW": "Tortimer Island",
         "ko": "\uace0\ubd81\ub79c\ub4dc"
-      }
+      },
+      "parrygg_slug": "tortimer-island"
     },
     "Town and City": {
       "smashgg_id": "397",
@@ -3495,7 +3672,8 @@
         "zh_CN": "\u6751\u5e84\u4e0e\u8857\u9053",
         "zh_TW": "\u6751\u838a\u8207\u8857\u9053",
         "ko": "\ub9c8\uc744\uacfc \ud0c0\uc6b4"
-      }
+      },
+      "parrygg_slug": "town-and-city"
     },
     "Umbra Clock Tower": {
       "smashgg_id": "398",
@@ -3514,7 +3692,8 @@
         "zh_CN": "\u5b89\u67cf\u62c9\u7684\u65f6\u949f\u5854",
         "zh_TW": "\u5b89\u67cf\u62c9\u7684\u6642\u9418\u5854",
         "ko": "\uc5c4\ube0c\ub77c\uc758 \uc2dc\uacc4\ud0d1"
-      }
+      },
+      "parrygg_slug": "umbra-clock-tower"
     },
     "Unova Pok\u00e9mon League": {
       "smashgg_id": "399",
@@ -3533,7 +3712,8 @@
         "zh_CN": "\u5408\u4f17\u5b9d\u53ef\u68a6\u8054\u76df",
         "zh_TW": "\u5408\u773e\u5bf6\u53ef\u5922\u806f\u76df",
         "ko": "\ud558\ub098 \ud3ec\ucf13\ubaac\ub9ac\uadf8"
-      }
+      },
+      "parrygg_slug": "unova-pok-mon-league"
     },
     "Venom": {
       "smashgg_id": "400",
@@ -3552,7 +3732,8 @@
         "zh_CN": "\u884c\u661f\u7ef4\u8bfa",
         "zh_TW": "\u884c\u661f\u7dad\u8afe",
         "ko": "\ubca0\ub188 \ud589\uc131"
-      }
+      },
+      "parrygg_slug": "venom"
     },
     "WarioWare, Inc.": {
       "smashgg_id": "401",
@@ -3571,7 +3752,8 @@
         "zh_CN": "\u74e6\u529b\u6b27\u5236\u9020",
         "zh_TW": "WarioWare, Inc.",
         "ko": "\uba54\uc774\ub4dc \uc778 \uc640\ub9ac\uc624"
-      }
+      },
+      "parrygg_slug": "warioware-inc"
     },
     "Wii Fit Studio": {
       "smashgg_id": "402",
@@ -3590,7 +3772,8 @@
         "zh_CN": "Wii Fit\u5065\u8eab\u623f",
         "zh_TW": "Wii Fit\u5065\u8eab\u623f",
         "ko": "Wii Fit \uc2a4\ud29c\ub514\uc624"
-      }
+      },
+      "parrygg_slug": "wii-fit-studio"
     },
     "Windy Hill Zone": {
       "smashgg_id": "403",
@@ -3609,11 +3792,13 @@
         "zh_CN": "Windy Hill Zone",
         "zh_TW": "Windy Hill Zone",
         "ko": "\uc708\ub514 \ud790"
-      }
+      },
+      "parrygg_slug": "windy-hill-zone"
     },
     "Wrecking Crew": {
       "smashgg_id": "404",
-      "codename": "WreckingCrew"
+      "codename": "WreckingCrew",
+      "parrygg_slug": "wrecking-crew"
     },
     "Wuhu Island": {
       "smashgg_id": "405",
@@ -3632,7 +3817,8 @@
         "zh_CN": "\u4e4c\u5bcc\u5c9b",
         "zh_TW": "\u70cf\u5bcc\u5cf6",
         "ko": "\uc6b0\ud6c4 \uc544\uc77c\ub79c\ub4dc"
-      }
+      },
+      "parrygg_slug": "wuhu-island"
     },
     "Yoshi's Island": {
       "smashgg_id": "406",
@@ -3651,7 +3837,8 @@
         "zh_CN": "\u8000\u897f\u5c9b",
         "zh_TW": "Yoshi's Island",
         "ko": "\uc694\uc2dc \uc544\uc77c\ub79c\ub4dc"
-      }
+      },
+      "parrygg_slug": "yoshis-island-brawl"
     },
     "Yoshi's Island (Melee)": {
       "codename": "Yoshi_Yoster",
@@ -3669,11 +3856,13 @@
         "zh_CN": "Yoshi's Island (Melee)",
         "zh_TW": "Yoshi's Island (Melee)",
         "ko": "\uc694\uc2a4\ud0c0 \uc12c"
-      }
+      },
+      "parrygg_slug": "yoshis-island-melee"
     },
     "Yoshi's Story": {
       "smashgg_id": "407",
-      "codename": "Yoshi_CartBoard"
+      "codename": "Yoshi_CartBoard",
+      "parrygg_slug": "yoshis-story"
     },
     "Wily's Castle": {
       "smashgg_id": "408",
@@ -3692,7 +3881,8 @@
         "zh_CN": "Wily Castle",
         "zh_TW": "Wily Castle",
         "ko": "\uc640\uc774\ub9ac \uae30\uc9c0"
-      }
+      },
+      "parrygg_slug": "wily-castle"
     },
     "Small Battlefield": {
       "smashgg_id": "484",
@@ -3711,7 +3901,8 @@
         "zh_CN": "\u5c0f\u6218\u573a",
         "zh_TW": "\u5c0f\u6230\u5834",
         "ko": "\uc18c\uc804\uc7a5"
-      }
+      },
+      "parrygg_slug": "small-battlefield"
     },
     "Cloud Sea of Alrest": {
       "smashgg_id": "Xeno_Alst",
@@ -3730,7 +3921,8 @@
         "zh_CN": "\u5e7d\u754c\u4e91\u6d77",
         "zh_TW": "\u963f\u723e\u65af\u7279\u96f2\u6d77",
         "ko": "\uc544\ub974\uc2a4\ud2b8\uc758 \uc6b4\ud574"
-      }
+      },
+      "parrygg_slug": "cloud-sea-of-alrest"
     },
     "Hollow Bastion": {
       "smashgg_id": "513",
@@ -3749,7 +3941,8 @@
         "zh_CN": "\u865a\u7a7a\u57ce",
         "zh_TW": "\u865b\u7a7a\u57ce",
         "ko": "\ud560\ub85c\uc6b0 \ubc14\uc2a4\ud2f0\uc628"
-      }
+      },
+      "parrygg_slug": "hollow-bastion"
     },
     "Northern Cave": {
       "smashgg_id": "497",
@@ -3768,7 +3961,8 @@
         "zh_CN": "\u5317\u65b9\u5927\u7a7a\u6d1e",
         "zh_TW": "\u5317\u65b9\u5927\u7a7a\u6d1e",
         "ko": "\ubd81\ucabd \ub300\uacf5\ub3d9"
-      }
+      },
+      "parrygg_slug": "northern-cave"
     },
     "Yggdrasil's Altar": {
       "smashgg_id": "Brave_Altar",
@@ -3787,7 +3981,8 @@
         "zh_CN": "\u5929\u7a7a\u796d\u575b",
         "zh_TW": "\u5929\u7a7a\u796d\u58c7",
         "ko": "\ucc9c\uacf5\uc758 \uc81c\ub2e8"
-      }
+      },
+      "parrygg_slug": "yggdrasils-altar"
     },
     "Spiral Mountain": {
       "smashgg_id": "Buddy_Spiral",
@@ -3806,7 +4001,8 @@
         "zh_CN": "\u87ba\u65cb\u5c71",
         "zh_TW": "\u87ba\u65cb\u5c71",
         "ko": "\ube59\uae00\ube59\uae00\uc0b0"
-      }
+      },
+      "parrygg_slug": "spiral-mountain"
     },
     "King of Fighters Stadium": {
       "smashgg_id": "Dolly_Stadium",
@@ -3825,7 +4021,8 @@
         "zh_CN": "\u62f3\u7687\u7ade\u6280\u573a",
         "zh_TW": "\u62f3\u7687\u7af6\u6280\u5834",
         "ko": "KOF \uc2a4\ud0c0\ub514\uc6c0"
-      }
+      },
+      "parrygg_slug": "king-of-fighters-stadium"
     },
     "Garreg Mach Monastery": {
       "smashgg_id": "FE_Shrine",
@@ -3844,7 +4041,8 @@
         "zh_CN": "\u52a0\u5c14\u53e4\u00b7\u739b\u5e93\u5927\u4fee\u9053\u9662",
         "zh_TW": "\u52a0\u723e\u53e4\u2027\u746a\u5eab\u5927\u4fee\u9053\u9662",
         "ko": "\uac00\ub974\uadf8 \ub9c8\ud06c \ub300\uc218\ub3c4\uc6d0"
-      }
+      },
+      "parrygg_slug": "garreg-mach-monastery"
     },
     "Spring Stadium": {
       "smashgg_id": "Tantan_Spring",
@@ -3863,7 +4061,8 @@
         "zh_CN": "\u5f39\u7c27\u7ade\u6280\u573a",
         "zh_TW": "\u5f48\u7c27\u7af6\u6280\u5834",
         "ko": "\uc2a4\ud504\ub9c1 \uc2a4\ud0c0\ub514\uc6c0"
-      }
+      },
+      "parrygg_slug": "spring-stadium"
     },
     "Minecraft World": {
       "smashgg_id": "Pickel_World",
@@ -3882,7 +4081,8 @@
         "zh_CN": "\u300a\u6211\u7684\u4e16\u754c\u300b\u7684\u4e16\u754c",
         "zh_TW": "Minecraft\u4e16\u754c",
         "ko": "Minecraft \uc6d4\ub4dc"
-      }
+      },
+      "parrygg_slug": "minecraft-world"
     },
     "Mishima Dojo": {
       "smashgg_id": "Demon_Dojo",
@@ -3901,7 +4101,8 @@
         "zh_CN": "\u4e09\u5c9b\u9053\u573a",
         "zh_TW": "\u4e09\u5cf6\u9053\u5834",
         "ko": "Mishima Dojo"
-      }
+      },
+      "parrygg_slug": "mishima-dojo"
     }
   },
   "version": "26.05.02.40426",

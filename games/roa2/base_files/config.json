@@ -279,7 +279,8 @@
         "88": {
           "name": "Lovers - Red"
         }
-      }
+      },
+      "parrygg_slug": "kragg"
     },
     "Ranno": {
       "codename": "Ranno",
@@ -588,7 +589,8 @@
         "100": {
           "name": "Lovers - Cool Blue"
         }
-      }
+      },
+      "parrygg_slug": "ranno"
     },
     "Wrastor": {
       "codename": "Wrastor",
@@ -834,7 +836,8 @@
         "79": {
           "name": "Abyss - Midnight"
         }
-      }
+      },
+      "parrygg_slug": "wrastor"
     },
     "Zetterburn": {
       "codename": "Zetterburn",
@@ -1110,7 +1113,8 @@
         "89": {
           "name": "Pajama - Red"
         }
-      }
+      },
+      "parrygg_slug": "zetterburn"
     },
     "Fleet": {
       "codename": "Fleet",
@@ -1374,7 +1378,8 @@
         "85": {
           "name": "Night Owl - Cool Blue"
         }
-      }
+      },
+      "parrygg_slug": "fleet"
     },
     "Maypul": {
       "codename": "Maypul",
@@ -1620,7 +1625,8 @@
         "79": {
           "name": "Abyss - Midnight"
         }
-      }
+      },
+      "parrygg_slug": "maypul"
     },
     "Clairen": {
       "codename": "Clairen",
@@ -1911,7 +1917,8 @@
         "94": {
           "name": "Lovers - Black"
         }
-      }
+      },
+      "parrygg_slug": "clairen"
     },
     "Loxodont": {
       "codename": "Loxodont",
@@ -2166,7 +2173,8 @@
         "82": {
           "name": "Lovers - Gold"
         }
-      }
+      },
+      "parrygg_slug": "loxodont"
     },
     "La Reina": {
       "codename": "Reina",
@@ -2319,7 +2327,8 @@
         "48": {
           "name": "Pajama - Red"
         }
-      }
+      },
+      "parrygg_slug": "la-reina"
     },
     "Orcane": {
       "codename": "Orcane",
@@ -2559,7 +2568,8 @@
         "77": {
           "name": "Hearts - Mint"
         }
-      }
+      },
+      "parrygg_slug": "orcane"
     },
     "Forsburn": {
       "codename": "Forsburn",
@@ -2802,7 +2812,8 @@
         "78": {
           "name": "Quilted - Red"
         }
-      }
+      },
+      "parrygg_slug": "forsburn"
     },
     "Etalus": {
       "codename": "Etalus",
@@ -3009,7 +3020,8 @@
         "66": {
           "name": "Sunbear - Frosty Faustings XVIII"
         }
-      }
+      },
+      "parrygg_slug": "etalus"
     },
     "Olympia": {
       "codename": "Olympia",
@@ -3204,7 +3216,8 @@
         "62": {
           "name": "Default - Purple"
         }
-      }
+      },
+      "parrygg_slug": "olympia"
     },
     "Absa": {
       "codename": "Absa",
@@ -3399,7 +3412,8 @@
         "62": {
           "name": "Lovers - Red"
         }
-      }
+      },
+      "parrygg_slug": "absa"
     },
     "Galvan": {
       "codename": "Galvan",
@@ -3549,7 +3563,8 @@
         "47": {
           "name": "Champion - Red"
         }
-      }
+      },
+      "parrygg_slug": "galvan"
     },
     "Slade": {
       "codename": "Slade",
@@ -3633,7 +3648,8 @@
         "25": {
           "name": "Default - Purple"
         }
-      }
+      },
+      "parrygg_slug": "slade"
     }
   },
   "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
@@ -3646,97 +3662,113 @@
       "codename": "AetherianForest",
       "locale": {
         "fr": "For\u00eat Aeth\u00e9rienne"
-      }
+      },
+      "parrygg_slug": "aetherian-forest"
     },
     "Forest Understory": {
       "codename": "ForestDoubles",
       "locale": {
         "fr": "Sous-Bois"
-      }
+      },
+      "parrygg_slug": "forest-doubles"
     },
     "Air Armada": {
       "codename": "AirArmada",
       "locale": {
         "fr": "Armada A\u00e9rienne"
-      }
+      },
+      "parrygg_slug": "air-armada"
     },
     "Fire Capital": {
       "codename": "FireCapital",
       "locale": {
         "fr": "Capitale du Feu"
-      }
+      },
+      "parrygg_slug": "fire-capital"
     },
     "Hodojo": {
       "codename": "Hodojo",
       "locale": {
         "fr": "Hodojo"
-      }
+      },
+      "parrygg_slug": "hodojo"
     },
     "Julesvale": {
       "codename": "Julesvale",
       "locale": {
         "fr": "Julesvale"
-      }
+      },
+      "parrygg_slug": "julesvale"
     },
     "Rock Wall": {
       "codename": "RockWall",
       "locale": {
         "fr": "Mur Rocheux"
-      }
+      },
+      "parrygg_slug": "rock-wall"
     },
     "Tempest Peak": {
       "codename": "TempestPeak",
       "locale": {
         "fr": "Pic de la Temp\u00eate"
-      }
+      },
+      "parrygg_slug": "tempest-peak"
     },
     "Stormswept Pillar": {
       "codename": "TempestDoubles",
       "locale": {
         "fr": "Pilier de la Temp\u00eate"
-      }
+      },
+      "parrygg_slug": "tempest-doubles"
     },
     "Merchant Port": {
       "codename": "MerchantPort",
       "locale": {
         "fr": "Port Marchand"
-      }
+      },
+      "parrygg_slug": "merchant-port"
     },
     "Godai Delta": {
       "codename": "GodaiDelta",
       "locale": {
         "fr": "Delta de Godai"
-      }
+      },
+      "parrygg_slug": "godai-delta"
     },
     "Hyperborean Harbor": {
       "codename": "HyperboreanHarbor",
       "locale": {
         "fr": "Port Hyperbor\u00e9en"
-      }
+      },
+      "parrygg_slug": "hyperborean-harbor"
     },
     "Crystal Oasis": {
       "codename": "CrystalOasis",
       "locale": {
         "fr": "Oasis de Cristal"
-      }
+      },
+      "parrygg_slug": "crystal-oasis"
     },
     "Training Room": {
       "codename": "Training",
       "locale": {
         "fr": "Salle d'Entra\u00eenement"
-      }
+      },
+      "parrygg_slug": "training"
     },
     "Metal Graveyard": {
       "codename": "Graveyard",
       "locale": {
         "fr": "Cimeti\u00e8re de M\u00e9tal"
-      }
+      },
+      "parrygg_slug": "graveyard"
     },
     "Low Poly Fire Capital": {
       "codename": "LowPoly",
       "locale": {
         "fr": "Capitale du Feu Polygonale"
-      }
+      },
+      "parrygg_slug": "low-poly"
     },
     "Underground Arena": {
       "codename": "Arena",
@@ -3778,7 +3810,8 @@
       "codename": "MetalFun",
       "locale": {
         "fr": "Raffinerie de M\u00e9taux"
-      }
+      },
+      "parrygg_slug": "metal-refinery"
     },
     "Sinking Shipwreck": {
       "codename": "ShipFun",
@@ -3811,7 +3844,8 @@
       }
     },
     "Armada Flagship": {
-      "codename": "ArmadaAlt"
+      "codename": "ArmadaAlt",
+      "parrygg_slug": "armada-flagship"
     }
   },
   "preset_colors": [

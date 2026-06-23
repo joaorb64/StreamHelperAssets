@@ -2,34 +2,44 @@
   "challonge_game_id": 2325,
   "character_to_codename": {
     "Alsion III": {
-      "codename": "AlsionIII"
+      "codename": "AlsionIII",
+      "parrygg_slug": "alsion-iii"
     },
     "Huang Bai-Hu": {
-      "codename": "BaiHu"
+      "codename": "BaiHu",
+      "parrygg_slug": "huang-bai-hu"
     },
     "Condor Heads": {
-      "codename": "Condor"
+      "codename": "Condor",
+      "parrygg_slug": "condor-heads"
     },
     "Lee Dao-Long": {
-      "codename": "DaoLong"
+      "codename": "DaoLong",
+      "parrygg_slug": "lee-dao-long"
     },
     "Sheik Maherl": {
-      "codename": "Maheri"
+      "codename": "Maheri",
+      "parrygg_slug": "sheik-maherl"
     },
     "Pielle Montario": {
-      "codename": "Pielle"
+      "codename": "Pielle",
+      "parrygg_slug": "pielle-montario"
     },
     "Rila Estancia": {
-      "codename": "Rila"
+      "codename": "Rila",
+      "parrygg_slug": "rila-estancia"
     },
     "Tobikage Saizo": {
-      "codename": "Saizo"
+      "codename": "Saizo",
+      "parrygg_slug": "tobikage-saizo"
     },
     "Sho Kamui": {
-      "codename": "Sho"
+      "codename": "Sho",
+      "parrygg_slug": "sho-kamui"
     },
     "Tia Langray": {
-      "codename": "Tia"
+      "codename": "Tia",
+      "parrygg_slug": "tia-langray"
     }
   },
   "credits": "",

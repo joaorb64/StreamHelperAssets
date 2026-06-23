@@ -5,6 +5,7 @@
   "character_to_codename": {
     "Balrog": {
       "codename": "mbison",
+      "parrygg_slug": "balrog",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -33,11 +34,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "balrog"
+      }
     },
     "Blanka": {
       "codename": "blanka",
+      "parrygg_slug": "blanka",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -66,11 +67,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "blanka"
+      }
     },
     "Cammy": {
       "codename": "cammy",
+      "parrygg_slug": "cammy",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -99,11 +100,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "cammy"
+      }
     },
     "Chun-Li": {
       "codename": "chunli",
+      "parrygg_slug": "chun-li",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -132,11 +133,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "chun-li"
+      }
     },
     "Dee Jay": {
       "codename": "deejay",
+      "parrygg_slug": "dee-jay",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -165,11 +166,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "dee-jay"
+      }
     },
     "Dhalsim": {
       "codename": "dhalsim",
+      "parrygg_slug": "dhalsim",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -198,11 +199,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "dhalsim"
+      }
     },
     "E. Honda": {
       "codename": "ehonda",
+      "parrygg_slug": "e-honda",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -231,11 +232,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "e-honda"
+      }
     },
     "Fei Long": {
       "codename": "feilong",
+      "parrygg_slug": "fei-long",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -264,11 +265,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "fei-long"
+      }
     },
     "Guile": {
       "codename": "guile",
+      "parrygg_slug": "guile",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -297,11 +298,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "guile"
+      }
     },
     "Ken": {
       "codename": "ken",
+      "parrygg_slug": "ken",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -330,11 +331,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "ken"
+      }
     },
     "M. Bison": {
       "codename": "vega",
+      "parrygg_slug": "m-bison",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -363,11 +364,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "m-bison"
+      }
     },
     "Ryu": {
       "codename": "ryu",
+      "parrygg_slug": "ryu",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -396,11 +397,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "ryu"
+      }
     },
     "Sagat": {
       "codename": "sagat",
+      "parrygg_slug": "sagat",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -429,11 +430,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "sagat"
+      }
     },
     "T. Hawk": {
       "codename": "thawk",
+      "parrygg_slug": "t-hawk",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -462,11 +463,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "t-hawk"
+      }
     },
     "Vega": {
       "codename": "balrog",
+      "parrygg_slug": "vega",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -495,11 +496,11 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "vega"
+      }
     },
     "Zangief": {
       "codename": "zangief",
+      "parrygg_slug": "zangief",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -528,17 +529,16 @@
         "8": {
           "name": "Old"
         }
-      },
-      "parrygg_slug": "zangief"
+      }
     },
     "Akuma": {
       "codename": "gouki",
+      "parrygg_slug": "akuma",
       "skin_name": {
         "0": {
           "name": "Secret"
         }
-      },
-      "parrygg_slug": "akuma"
+      }
     }
   },
   "stage_to_codename": {},

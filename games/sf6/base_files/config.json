@@ -3,111 +3,138 @@
   "character_to_codename": {
     "Chun-Li": {
       "codename": "ChunLi",
-      "smashgg_name": "Chun-Li"
+      "smashgg_name": "Chun-Li",
+      "parrygg_slug": "chun-li"
     },
     "Jamie": {
       "codename": "Jamie",
-      "smashgg_name": "Jamie"
+      "smashgg_name": "Jamie",
+      "parrygg_slug": "jamie"
     },
     "Luke": {
       "codename": "Luke",
-      "smashgg_name": "Luke"
+      "smashgg_name": "Luke",
+      "parrygg_slug": "luke"
     },
     "Ryu": {
       "codename": "Ryu",
-      "smashgg_name": "Ryu"
+      "smashgg_name": "Ryu",
+      "parrygg_slug": "ryu"
     },
     "Guile": {
       "codename": "Guile",
-      "smashgg_name": "Guile"
+      "smashgg_name": "Guile",
+      "parrygg_slug": "guile"
     },
     "Kimberly": {
       "codename": "Kimberly",
-      "smashgg_name": "Kimberly"
+      "smashgg_name": "Kimberly",
+      "parrygg_slug": "kimberly"
     },
     "Juri": {
       "codename": "Juri",
-      "smashgg_name": "Juri"
+      "smashgg_name": "Juri",
+      "parrygg_slug": "juri"
     },
     "Blanka": {
       "codename": "Blanka",
-      "smashgg_name": "Blanka"
+      "smashgg_name": "Blanka",
+      "parrygg_slug": "blanka"
     },
     "E. Honda": {
       "codename": "Honda",
-      "smashgg_name": "E. Honda"
+      "smashgg_name": "E. Honda",
+      "parrygg_slug": "honda"
     },
     "Ken": {
       "codename": "Ken",
-      "smashgg_name": "Ken"
+      "smashgg_name": "Ken",
+      "parrygg_slug": "ken"
     },
     "Dhalsim": {
       "codename": "Dhalsim",
-      "smashgg_name": "Dhalsim"
+      "smashgg_name": "Dhalsim",
+      "parrygg_slug": "dhalsim"
     },
     "JP": {
       "codename": "JP",
-      "smashgg_name": "JP"
+      "smashgg_name": "JP",
+      "parrygg_slug": "jp"
     },
     "Marisa": {
       "codename": "Marisa",
-      "smashgg_name": "Marisa"
+      "smashgg_name": "Marisa",
+      "parrygg_slug": "marisa"
     },
     "Manon": {
       "codename": "Manon",
-      "smashgg_name": "Manon"
+      "smashgg_name": "Manon",
+      "parrygg_slug": "manon"
     },
     "Dee Jay": {
       "codename": "DeeJay",
-      "smashgg_name": "Dee Jay"
+      "smashgg_name": "Dee Jay",
+      "parrygg_slug": "dee-jay"
     },
     "Zangief": {
       "codename": "Zangief",
-      "smashgg_name": "Zangief"
+      "smashgg_name": "Zangief",
+      "parrygg_slug": "zangief"
     },
     "Lily": {
       "codename": "Lily",
-      "smashgg_name": "Lily"
+      "smashgg_name": "Lily",
+      "parrygg_slug": "lily"
     },
     "Cammy": {
       "codename": "Cammy",
-      "smashgg_name": "Cammy"
+      "smashgg_name": "Cammy",
+      "parrygg_slug": "cammy"
     },
     "Rashid": {
       "codename": "Rashid",
-      "smashgg_name": "Rashid"
+      "smashgg_name": "Rashid",
+      "parrygg_slug": "rashid"
     },
     "Akuma": {
       "codename": "Akuma",
-      "smashgg_name": "Akuma"
+      "smashgg_name": "Akuma",
+      "parrygg_slug": "akuma"
     },
     "Ed": {
       "codename": "Ed",
-      "smashgg_name": "Ed"
+      "smashgg_name": "Ed",
+      "parrygg_slug": "ed"
     },
     "A.K.I.": {
       "codename": "AKI",
-      "smashgg_name": "A.K.I."
+      "smashgg_name": "A.K.I.",
+      "parrygg_slug": "aki"
     },
     "M. Bison": {
       "codename": "Bison",
-      "smashgg_name": "M. Bison"
+      "smashgg_name": "M. Bison",
+      "parrygg_slug": "bison"
     },
     "Terry": {
       "codename": "Terry",
-      "smashgg_name": "Terry"
+      "smashgg_name": "Terry",
+      "parrygg_slug": "terry"
     },
     "Mai": {
       "codename": "Mai",
-      "smashgg_name": "Mai"
+      "smashgg_name": "Mai",
+      "parrygg_slug": "mai"
     },
     "Elena": {
       "codename": "Elena",
-      "smashgg_name": "Elena"
+      "smashgg_name": "Elena",
+      "parrygg_slug": "elena"
     },
     "Sagat": {
       "codename": "Sagat",
-      "smashgg_name": "Sagat"
+      "smashgg_name": "Sagat",
+      "parrygg_slug": "sagat"
     },
     "Ingrid": {
       "codename": "Ingrid",
@@ -119,6 +146,8 @@
     },
     "C. Viper": {
       "codename": "Viper",
+      "smashgg_name": "C. Viper",
+      "parrygg_slug": "viper",
       "smashgg_name": "C. Viper"
     },
     "Yasmine": {

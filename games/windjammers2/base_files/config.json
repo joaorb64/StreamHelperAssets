@@ -12,43 +12,56 @@
   "challonge_game_id": 207362,
   "character_to_codename": {
     "Hiromi Mita": {
-      "codename": "mita"
+      "codename": "mita",
+      "parrygg_slug": "hiromi-mita"
     },
     "Klaus Wessel": {
-      "codename": "wessel"
+      "codename": "wessel",
+      "parrygg_slug": "klaus-wessel"
     },
     "Loris Biaggi": {
-      "codename": "biaggi"
+      "codename": "biaggi",
+      "parrygg_slug": "loris-biaggi"
     },
     "Steve Miller": {
-      "codename": "miller"
+      "codename": "miller",
+      "parrygg_slug": "steve-miller"
     },
     "Gary Scott": {
-      "codename": "scott"
+      "codename": "scott",
+      "parrygg_slug": "gary-scott"
     },
     "Jordi Costa": {
-      "codename": "costa"
+      "codename": "costa",
+      "parrygg_slug": "jordi-costa"
     },
     "Sophie De Lys": {
-      "codename": "delys"
+      "codename": "delys",
+      "parrygg_slug": "sophie-de-lys"
     },
     "Max Hurricane": {
-      "codename": "max"
+      "codename": "max",
+      "parrygg_slug": "max-hurricane"
     },
     "Jao Raposa": {
-      "codename": "raposa"
+      "codename": "raposa",
+      "parrygg_slug": "jao-raposa"
     },
     "Sammy Ho": {
-      "codename": "ho"
+      "codename": "ho",
+      "parrygg_slug": "sammy-ho"
     },
     "Disc-Man": {
-      "codename": "discman"
+      "codename": "discman",
+      "parrygg_slug": "disc-man"
     },
     "Anna Szalinski": {
-      "codename": "szalinski"
+      "codename": "szalinski",
+      "parrygg_slug": "anna-szalinski"
     },
     "Jamma GX03": {
-      "codename": "gx03"
+      "codename": "gx03",
+      "parrygg_slug": "jamma-gx03"
     }
   },
   "stage_to_codename": {

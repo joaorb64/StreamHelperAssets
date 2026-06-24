@@ -5,6 +5,7 @@
   "character_to_codename": {
     "Balrog": {
       "codename": "mbison",
+      "parrygg_slug": "balrog",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -37,6 +38,7 @@
     },
     "Blanka": {
       "codename": "blanka",
+      "parrygg_slug": "blanka",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -69,6 +71,7 @@
     },
     "Cammy": {
       "codename": "cammy",
+      "parrygg_slug": "cammy",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -101,6 +104,7 @@
     },
     "Chun-Li": {
       "codename": "chunli",
+      "parrygg_slug": "chun-li",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -133,6 +137,7 @@
     },
     "Dee Jay": {
       "codename": "deejay",
+      "parrygg_slug": "dee-jay",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -165,6 +170,7 @@
     },
     "Dhalsim": {
       "codename": "dhalsim",
+      "parrygg_slug": "dhalsim",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -197,6 +203,7 @@
     },
     "E. Honda": {
       "codename": "ehonda",
+      "parrygg_slug": "e-honda",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -229,6 +236,7 @@
     },
     "Fei Long": {
       "codename": "feilong",
+      "parrygg_slug": "fei-long",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -261,6 +269,7 @@
     },
     "Guile": {
       "codename": "guile",
+      "parrygg_slug": "guile",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -293,6 +302,7 @@
     },
     "Ken": {
       "codename": "ken",
+      "parrygg_slug": "ken",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -325,6 +335,7 @@
     },
     "M. Bison": {
       "codename": "vega",
+      "parrygg_slug": "m-bison",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -357,6 +368,7 @@
     },
     "Ryu": {
       "codename": "ryu",
+      "parrygg_slug": "ryu",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -389,6 +401,7 @@
     },
     "Sagat": {
       "codename": "sagat",
+      "parrygg_slug": "sagat",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -421,6 +434,7 @@
     },
     "T. Hawk": {
       "codename": "thawk",
+      "parrygg_slug": "t-hawk",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -453,6 +467,7 @@
     },
     "Vega": {
       "codename": "balrog",
+      "parrygg_slug": "vega",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -485,6 +500,7 @@
     },
     "Zangief": {
       "codename": "zangief",
+      "parrygg_slug": "zangief",
       "skin_name": {
         "0": {
           "name": "LP"
@@ -517,6 +533,7 @@
     },
     "Akuma": {
       "codename": "gouki",
+      "parrygg_slug": "akuma",
       "skin_name": {
         "0": {
           "name": "Secret"

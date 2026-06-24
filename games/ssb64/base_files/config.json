@@ -16,6 +16,7 @@
   "character_to_codename": {
     "Mario": {
       "smashgg_name": "Mario",
+      "parrygg_slug": "mario",
       "codename": "mario",
       "locale": {
         "ja": "\u30de\u30ea\u30aa",
@@ -36,6 +37,7 @@
     },
     "Donkey Kong": {
       "smashgg_name": "Donkey Kong",
+      "parrygg_slug": "donkey-kong",
       "codename": "donkey_kong",
       "locale": {
         "ja": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
@@ -56,6 +58,7 @@
     },
     "Link": {
       "smashgg_name": "Link",
+      "parrygg_slug": "link",
       "codename": "link",
       "locale": {
         "ja": "\u30ea\u30f3\u30af",
@@ -76,6 +79,7 @@
     },
     "Samus": {
       "smashgg_name": "Samus",
+      "parrygg_slug": "samus",
       "codename": "samus",
       "locale": {
         "ja": "\u30b5\u30e0\u30b9",
@@ -96,6 +100,7 @@
     },
     "Dark Samus": {
       "smashgg_name": "Dark Samus",
+      "parrygg_slug": "dark-samus",
       "codename": "dark_samus",
       "locale": {
         "fr": "Samus Sombre",
@@ -120,6 +125,7 @@
     },
     "Yoshi": {
       "smashgg_name": "Yoshi",
+      "parrygg_slug": "yoshi",
       "codename": "yoshi",
       "locale": {
         "ja": "\u30e8\u30c3\u30b7\u30fc",
@@ -140,6 +146,7 @@
     },
     "Kirby": {
       "smashgg_name": "Kirby",
+      "parrygg_slug": "kirby",
       "codename": "kirby",
       "locale": {
         "ja": "\u30ab\u30fc\u30d3\u30a3",
@@ -160,6 +167,7 @@
     },
     "Fox": {
       "smashgg_name": "Fox",
+      "parrygg_slug": "fox",
       "codename": "fox",
       "locale": {
         "ja": "\u30d5\u30a9\u30c3\u30af\u30b9",
@@ -180,6 +188,7 @@
     },
     "Pikachu": {
       "smashgg_name": "Pikachu",
+      "parrygg_slug": "pikachu",
       "codename": "pikachu",
       "locale": {
         "ja": "\u30d4\u30ab\u30c1\u30e5\u30a6",
@@ -201,6 +210,7 @@
     },
     "Luigi": {
       "smashgg_name": "Luigi",
+      "parrygg_slug": "luigi",
       "codename": "luigi",
       "locale": {
         "ja": "\u30eb\u30a4\u30fc\u30b8",
@@ -221,6 +231,7 @@
     },
     "Ness": {
       "smashgg_name": "Ness",
+      "parrygg_slug": "ness",
       "codename": "ness",
       "locale": {
         "ja": "\u30cd\u30b9",
@@ -241,6 +252,7 @@
     },
     "Captain Falcon": {
       "smashgg_name": "Captain Falcon",
+      "parrygg_slug": "captain-falcon",
       "codename": "captain_falcon",
       "locale": {
         "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30d5\u30a1\u30eb\u30b3\u30f3",
@@ -261,6 +273,7 @@
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
+      "parrygg_slug": "jigglypuff",
       "codename": "jigglypuff",
       "locale": {
         "fr": "Rondoudou",
@@ -282,6 +295,7 @@
     },
     "Bowser": {
       "smashgg_name": "Bowser",
+      "parrygg_slug": "bowser",
       "codename": "bowser",
       "locale": {
         "ja": "\u30af\u30c3\u30d1",
@@ -306,6 +320,7 @@
     },
     "Dr. Mario": {
       "smashgg_name": "Dr. Mario",
+      "parrygg_slug": "dr-mario",
       "codename": "dr_mario",
       "locale": {
         "ja": "\u30c9\u30af\u30bf\u30fc\u30de\u30ea\u30aa",
@@ -330,6 +345,7 @@
     },
     "Falco": {
       "smashgg_name": "Falco",
+      "parrygg_slug": "falco",
       "codename": "falco",
       "locale": {
         "ja": "\u30d5\u30a1\u30eb\u30b3",
@@ -354,6 +370,7 @@
     },
     "Marth": {
       "smashgg_name": "Marth",
+      "parrygg_slug": "marth",
       "codename": "marth",
       "locale": {
         "ja": "\u30de\u30eb\u30b9",
@@ -378,6 +395,7 @@
     },
     "Young Link": {
       "smashgg_name": "Young Link",
+      "parrygg_slug": "young-link",
       "codename": "young_link",
       "locale": {
         "fr": "Link Enfant",
@@ -402,6 +420,7 @@
     },
     "Ganondorf": {
       "smashgg_name": "Ganondorf",
+      "parrygg_slug": "ganondorf",
       "codename": "ganondorf",
       "locale": {
         "ja": "\u30ac\u30ce\u30f3\u30c9\u30ed\u30d5",
@@ -426,6 +445,7 @@
     },
     "Mewtwo": {
       "smashgg_name": "Mewtwo",
+      "parrygg_slug": "mewtwo",
       "codename": "mewtwo",
       "locale": {
         "ja": "\u30df\u30e5\u30a6\u30c4\u30fc",
@@ -451,6 +471,7 @@
     },
     "Wario": {
       "smashgg_name": "Wario",
+      "parrygg_slug": "wario",
       "codename": "wario",
       "locale": {
         "ja": "\u30ef\u30ea\u30aa",
@@ -475,6 +496,7 @@
     },
     "Wolf": {
       "smashgg_name": "Wolf",
+      "parrygg_slug": "wolf",
       "codename": "wolf",
       "locale": {
         "ja": "\u30a6\u30eb\u30d5",
@@ -499,6 +521,7 @@
     },
     "Conker": {
       "smashgg_name": "Conker",
+      "parrygg_slug": "conker",
       "codename": "conker",
       "locale": {
         "ja": "\u30b3\u30f3\u30ab\u30fc",
@@ -513,6 +536,7 @@
     },
     "Lucas": {
       "smashgg_name": "Lucas",
+      "parrygg_slug": "lucas",
       "codename": "lucas",
       "locale": {
         "ja": "\u30ea\u30e5\u30ab",
@@ -537,6 +561,7 @@
     },
     "Sonic": {
       "smashgg_name": "Sonic",
+      "parrygg_slug": "sonic",
       "codename": "sonic",
       "locale": {
         "ja": "\u30bd\u30cb\u30c3\u30af",
@@ -561,6 +586,7 @@
     },
     "Sheik": {
       "smashgg_name": "Sheik",
+      "parrygg_slug": "sheik",
       "codename": "sheik",
       "locale": {
         "ja": "\u30b7\u30fc\u30af",
@@ -585,6 +611,7 @@
     },
     "Marina": {
       "smashgg_name": "Marina",
+      "parrygg_slug": "marina",
       "codename": "marina",
       "locale": {
         "ja": "\u30de\u30ea\u30ca=\u30ca\u30b2\u30c3\u30c8",
@@ -597,6 +624,7 @@
     },
     "King Dedede": {
       "smashgg_name": "Dedede",
+      "parrygg_slug": "dedede",
       "codename": "dedede",
       "locale": {
         "ja": "\u30c7\u30c7\u30c7",
@@ -621,6 +649,7 @@
     },
     "Goemon": {
       "smashgg_name": "Goemon",
+      "parrygg_slug": "goemon",
       "codename": "goemon",
       "locale": {
         "ja": "\u30b4\u30a8\u30e2\u30f3"
@@ -632,6 +661,7 @@
     },
     "Mad Piano": {
       "smashgg_name": "Mad Piano",
+      "parrygg_slug": "mad-piano",
       "codename": "mad_piano",
       "locale": {
         "ja": "\u30ad\u30e9\u30fc\u30d4\u30a2\u30ce",
@@ -645,6 +675,7 @@
     },
     "Giant Donkey Kong": {
       "smashgg_name": "Giant Donkey Kong",
+      "parrygg_slug": "giant-donkey-kong",
       "codename": "giant_donkey_kong",
       "locale": {},
       "modded": true,
@@ -654,6 +685,7 @@
     },
     "Giga Bowser": {
       "smashgg_name": "Giga Bowser",
+      "parrygg_slug": "giga-bowser",
       "codename": "giga_bowser",
       "locale": {
         "ja": "\u30ae\u30ac\u30af\u30c3\u30d1",
@@ -669,6 +701,7 @@
     },
     "Metal Mario": {
       "smashgg_name": "Metal Mario",
+      "parrygg_slug": "metal-mario",
       "codename": "metal_mario",
       "locale": {
         "ja": "\u30e1\u30bf\u30eb\u30de\u30ea\u30aa",
@@ -692,6 +725,7 @@
     },
     "Super Sonic": {
       "smashgg_name": "Super Sonic",
+      "parrygg_slug": "super-sonic",
       "codename": "super_sonic",
       "locale": {},
       "modded": true,
@@ -701,6 +735,7 @@
     },
     "Slippy": {
       "smashgg_name": "Slippy",
+      "parrygg_slug": "slippy",
       "codename": "slippy",
       "locale": {},
       "modded": true,
@@ -710,6 +745,7 @@
     },
     "Peppy": {
       "smashgg_name": "Peppy",
+      "parrygg_slug": "peppy",
       "codename": "peppy",
       "locale": {},
       "modded": true,
@@ -719,6 +755,7 @@
     },
     "Banjo & Kazooie": {
       "smashgg_name": "Banjo & Kazooie",
+      "parrygg_slug": "banjo",
       "codename": "banjo",
       "locale": {
         "ja": "\u30d0\u30f3\u30b8\u30e7\u30fc&\u30ab\u30ba\u30fc\u30a4",
@@ -743,6 +780,7 @@
     },
     "Ebisumaru": {
       "smashgg_name": "Ebisumaru",
+      "parrygg_slug": "ebisumaru",
       "codename": "ebisumaru",
       "modded": true,
       "igdb_playable_list": [
@@ -751,6 +789,7 @@
     },
     "Metal Luigi": {
       "smashgg_name": "Metal Luigi",
+      "parrygg_slug": "metal-luigi",
       "codename": "metal_luigi",
       "modded": true,
       "locale": {
@@ -774,6 +813,7 @@
     },
     "Dragon King": {
       "smashgg_name": "Dragon King",
+      "parrygg_slug": "dragon-king",
       "codename": "dragon_king",
       "modded": true,
       "igdb_playable_list": [
@@ -782,6 +822,7 @@
     },
     "Crash": {
       "smashgg_name": "Crash",
+      "parrygg_slug": "crash",
       "codename": "crash",
       "modded": true,
       "igdb_playable_list": [
@@ -790,6 +831,7 @@
     },
     "Dr. Luigi": {
       "smashgg_name": "Dr. Luigi",
+      "parrygg_slug": "dr-luigi",
       "codename": "dr_luigi",
       "modded": true,
       "locale": {
@@ -801,6 +843,7 @@
     },
     "Peach": {
       "smashgg_name": "Peach",
+      "parrygg_slug": "peach",
       "codename": "peach",
       "locale": {
         "ja": "\u30d4\u30fc\u30c1",
@@ -825,6 +868,7 @@
     },
     "Roy": {
       "smashgg_name": "Roy",
+      "parrygg_slug": "roy",
       "codename": "roy",
       "locale": {
         "ja": "\u30ed\u30a4",
@@ -849,6 +893,7 @@
     },
     "Lanky Kong": {
       "smashgg_name": "Lanky Kong",
+      "parrygg_slug": "lanky",
       "codename": "lanky",
       "modded": true,
       "locale": {
@@ -874,6 +919,54 @@
   "stage_to_codename": {
     "Battlefield": {
       "codename": "battlefield",
+      "parrygg_slug": "battlefield",
+      "modded": true
+    },
+    "Battlefield DL": {
+      "codename": "battlefield_dl",
+      "parrygg_slug": "battlefield-dl",
+      "modded": true
+    },
+    "Big Blue": {
+      "codename": "big_blue",
+      "parrygg_slug": "big-blue",
+      "modded": true
+    },
+    "Big Boo's Haunt": {
+      "codename": "big_boos_haunt",
+      "parrygg_slug": "big-boos-haunt",
+      "modded": true
+    },
+    "Big Snowman": {
+      "codename": "big_snowman",
+      "parrygg_slug": "big-snowman",
+      "modded": true
+    },
+    "Bowser's Keep": {
+      "codename": "bowsers_keep",
+      "parrygg_slug": "bowsers-keep",
+      "modded": true
+    },
+    "Bowser's Stadium": {
+      "codename": "bowsers_stadium",
+      "parrygg_slug": "bowsers-stadium",
+      "modded": true
+    },
+    "Casino Night Zone": {
+      "codename": "casino_night_zone",
+      "parrygg_slug": "casino-night-zone",
+      "modded": true
+    },
+    "Castle Siege": {
+      "codename": "castle_siege",
+      "parrygg_slug": "castle-siege",
+      "modded": true
+    },
+    "Congo Falls": {
+      "codename": "congo_falls",
+      "parrygg_slug": "congo-falls",
+      "modded": true
+=======
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -944,12 +1037,106 @@
     },
     "Congo Jungle": {
       "codename": "congo_jungle",
+      "parrygg_slug": "congo-jungle",
       "locale": {
         "fr": "Jungle du Congo"
       }
     },
     "Congo Jungle DL": {
       "codename": "congo_jungle_dl",
+      "parrygg_slug": "congo-jungle-dl",
+      "modded": true
+    },
+    "Congo Jungle \u03a9": {
+      "codename": "congo_jungle_omega",
+      "parrygg_slug": "congo-jungle-omega",
+      "modded": true
+    },
+    "Cool Cool Mountain": {
+      "codename": "cool_cool_mountain",
+      "parrygg_slug": "cool-cool-mountain",
+      "modded": true
+    },
+    "Cool Cool Mountain DL": {
+      "codename": "cool_cool_mountain_dl",
+      "parrygg_slug": "cool-cool-mountain-dl",
+      "modded": true
+    },
+    "Cool Cool Mountain SR": {
+      "codename": "cool_cool_mountain_remix",
+      "parrygg_slug": "cool-cool-mountain-remix",
+      "modded": true
+    },
+    "Corneria": {
+      "codename": "corneria",
+      "parrygg_slug": "corneria",
+      "modded": true
+    },
+    "Crateria": {
+      "codename": "crateria",
+      "parrygg_slug": "crateria",
+      "modded": true
+    },
+    "Crateria DL": {
+      "codename": "crateria_dl",
+      "parrygg_slug": "crateria-dl",
+      "modded": true
+    },
+    "dataDyne Central": {
+      "codename": "datadyne_central",
+      "parrygg_slug": "datadyne-central",
+      "modded": true
+    },
+    "Deku Tree": {
+      "codename": "deku_tree",
+      "parrygg_slug": "deku-tree",
+      "modded": true
+    },
+    "Deku Tree DL": {
+      "codename": "deku_tree_dl",
+      "parrygg_slug": "deku-tree-dl",
+      "modded": true
+    },
+    "Delfino Plaza": {
+      "codename": "delfino_plaza",
+      "parrygg_slug": "delfino-plaza",
+      "modded": true
+    },
+    "Dinosaur Land": {
+      "codename": "dinosaur_land",
+      "parrygg_slug": "dinosaur-land",
+      "modded": true
+    },
+    "Discovery Falls": {
+      "codename": "discovery_falls",
+      "parrygg_slug": "discovery-falls",
+      "modded": true
+    },
+    "Discovery Falls Remix": {
+      "codename": "discovery_falls_remix",
+      "parrygg_slug": "discovery-falls-remix",
+      "modded": true
+    },
+    "Dracula's Castle": {
+      "codename": "draculas_castle",
+      "parrygg_slug": "draculas-castle",
+      "modded": true
+    },
+    "Reverse Castle": {
+      "codename": "draculas_castle_remix",
+      "parrygg_slug": "draculas-castle-remix",
+      "modded": true
+    },
+    "Dragon King": {
+      "codename": "dragon_king",
+      "parrygg_slug": "dragon-king",
+      "modded": true
+    },
+    "Dragon King Remix": {
+      "codename": "dragon_king_remix",
+      "parrygg_slug": "dragon-king-remix",
+      "modded": true
+=======
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1083,12 +1270,181 @@
     },
     "Dream Land": {
       "codename": "dream_land",
+      "parrygg_slug": "dream-land",
       "locale": {
         "fr": "Pays de R\u00eaves"
       }
     },
     "Dream Land Beta 1": {
       "codename": "dream_land_beta_1",
+      "parrygg_slug": "dream-land-beta-1",
+      "modded": true
+    },
+    "Dream Land Beta 2": {
+      "codename": "dream_land_beta_2",
+      "parrygg_slug": "dream-land-beta-2",
+      "modded": true
+    },
+    "Dream Land Beta DL": {
+      "codename": "dream_land_beta_dl",
+      "parrygg_slug": "dream-land-beta-dl",
+      "modded": true
+    },
+    "Winter Dream Land": {
+      "codename": "dream_land_dl",
+      "parrygg_slug": "dream-land-dl",
+      "modded": true
+    },
+    "Dream Land \u03a9": {
+      "codename": "dream_land_omega",
+      "parrygg_slug": "dream-land-omega",
+      "modded": true
+    },
+    "Dream Greens": {
+      "codename": "dream_land_remix",
+      "parrygg_slug": "dream-land-remix",
+      "modded": true
+    },
+    "Dr. Mario": {
+      "codename": "dr_mario",
+      "parrygg_slug": "dr-mario",
+      "modded": true
+    },
+    "Duel Zone": {
+      "codename": "duel_zone",
+      "parrygg_slug": "duel-zone",
+      "modded": true
+    },
+    "Duel Zone DL": {
+      "codename": "duel_zone_dl",
+      "parrygg_slug": "duel-zone-dl",
+      "modded": true
+    },
+    "Edo Town": {
+      "codename": "edo_town",
+      "parrygg_slug": "edo-town",
+      "modded": true
+    },
+    "Final Destination": {
+      "codename": "final_destination",
+      "parrygg_slug": "final-destination",
+      "modded": true
+    },
+    "Final Destination DL": {
+      "codename": "final_destination_dl",
+      "parrygg_slug": "final-destination-dl",
+      "modded": true
+    },
+    "Final Tentination": {
+      "codename": "final_destination_remix",
+      "parrygg_slug": "final-destination-remix",
+      "modded": true
+    },
+    "First Destination": {
+      "codename": "first_destination",
+      "parrygg_slug": "first-destination",
+      "modded": true
+    },
+    "First Destination Remix": {
+      "codename": "first_destination_remix",
+      "parrygg_slug": "first-destination-remix",
+      "modded": true
+    },
+    "Flat Zone": {
+      "codename": "flat_zone",
+      "parrygg_slug": "flat-zone",
+      "modded": true
+    },
+    "Flat Zone II": {
+      "codename": "flat_zone_ii",
+      "parrygg_slug": "flat-zone-ii",
+      "modded": true
+    },
+    "Fountain of Dreams": {
+      "codename": "fountain_of_dreams",
+      "parrygg_slug": "fountain-of-dreams",
+      "modded": true
+    },
+    "Fray's Stage": {
+      "codename": "frays_stage",
+      "parrygg_slug": "frays-stage",
+      "modded": true
+    },
+    "Fray's Stage - Night": {
+      "codename": "frays_stage_night",
+      "parrygg_slug": "frays-stage-night",
+      "modded": true
+    },
+    "Frosty Village": {
+      "codename": "frosty_village",
+      "parrygg_slug": "frosty-village",
+      "modded": true
+    },
+    "Future Frenzy": {
+      "codename": "future_frenzy",
+      "parrygg_slug": "future-frenzy",
+      "modded": true
+    },
+    "Game Boy Land": {
+      "codename": "game_boy_land",
+      "parrygg_slug": "game-boy-land",
+      "modded": true
+    },
+    "Ganon's Tower": {
+      "codename": "ganons_tower",
+      "parrygg_slug": "ganons-tower",
+      "modded": true
+    },
+    "Gerudo Valley": {
+      "codename": "gerudo_valley",
+      "parrygg_slug": "gerudo-valley",
+      "modded": true
+    },
+    "Glacial River": {
+      "codename": "glacial_river",
+      "parrygg_slug": "glacial-river",
+      "modded": true
+    },
+    "Glacial River Remix": {
+      "codename": "glacial_river_remix",
+      "parrygg_slug": "glacial-river-remix",
+      "modded": true
+    },
+    "Goomba Road": {
+      "codename": "goomba_road",
+      "parrygg_slug": "goomba-road",
+      "modded": true
+    },
+    "Great Bay": {
+      "codename": "great_bay",
+      "parrygg_slug": "great-bay",
+      "modded": true
+    },
+    "Green Hill Zone": {
+      "codename": "green_hill_zone",
+      "parrygg_slug": "green-hill-zone",
+      "modded": true
+    },
+    "Grim Reaper's Cavern": {
+      "codename": "grim_reapers_cavern",
+      "parrygg_slug": "grim-reapers-cavern",
+      "modded": true
+    },
+    "Gym Leader Castle": {
+      "codename": "gym_leader_castle",
+      "parrygg_slug": "gym-leader-castle",
+      "modded": true
+    },
+    "How to Play": {
+      "codename": "how_to_play",
+      "parrygg_slug": "how-to-play",
+      "modded": true
+    },
+    "Autumn How to Play": {
+      "codename": "how_to_play_remix",
+      "parrygg_slug": "how-to-play-remix",
+      "modded": true
+=======
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1327,12 +1683,86 @@
     },
     "Hyrule Castle": {
       "codename": "hyrule_castle",
+      "parrygg_slug": "hyrule-castle",
       "locale": {
         "fr": "Ch\u00e2teau d'Hyrule"
       }
     },
     "Hyrule Castle DL": {
       "codename": "hyrule_castle_dl",
+      "parrygg_slug": "hyrule-castle-dl",
+      "modded": true
+    },
+    "Hyrule Castle \u03a9": {
+      "codename": "hyrule_castle_omega",
+      "parrygg_slug": "hyrule-castle-omega",
+      "modded": true
+    },
+    "Hyrule Castle SR": {
+      "codename": "hyrule_castle_remix",
+      "parrygg_slug": "hyrule-castle-remix",
+      "modded": true
+    },
+    "Hyrule Temple": {
+      "codename": "hyrule_temple",
+      "parrygg_slug": "hyrule-temple",
+      "modded": true
+    },
+    "Jungle Japes": {
+      "codename": "jungle_japes",
+      "parrygg_slug": "jungle-japes",
+      "modded": true
+    },
+    "Kitchen Island": {
+      "codename": "kitchen_island",
+      "parrygg_slug": "kitchen-island",
+      "modded": true
+    },
+    "Mad Monster Mansion": {
+      "codename": "mad_monster_mansion",
+      "parrygg_slug": "mad-monster-mansion",
+      "modded": true
+    },
+    "Melrode": {
+      "codename": "melrode",
+      "parrygg_slug": "melrode",
+      "modded": true
+    },
+    "Mementos": {
+      "codename": "mementos",
+      "parrygg_slug": "mementos",
+      "modded": true
+    },
+    "Meta Crystal": {
+      "codename": "meta_crystal",
+      "parrygg_slug": "meta-crystal",
+      "modded": true
+    },
+    "Meta Crystal DL": {
+      "codename": "meta_crystal_dl",
+      "parrygg_slug": "meta-crystal-dl",
+      "modded": true
+    },
+    "Meta Crystent": {
+      "codename": "meta_crystent",
+      "parrygg_slug": "meta-crystent",
+      "modded": true
+    },
+    "Metallic Madness": {
+      "codename": "metallic_madness",
+      "parrygg_slug": "metallic-madness",
+      "modded": true
+    },
+    "Mt. Dedede": {
+      "codename": "mt_dedede",
+      "parrygg_slug": "mt-dedede",
+      "modded": true
+    },
+    "Muda Kingdom": {
+      "codename": "muda_kingdom",
+      "parrygg_slug": "muda-kingdom",
+      "modded": true
+=======
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1438,12 +1868,71 @@
     },
     "Mushroom Kingdom": {
       "codename": "mushroom_kingdom",
+      "parrygg_slug": "mushroom-kingdom",
       "locale": {
         "fr": "Royaume Champignon"
       }
     },
     "Mushroom Kingdom DL": {
       "codename": "mushroom_kingdom_dl",
+      "parrygg_slug": "mushroom-kingdom-dl",
+      "modded": true
+    },
+    "Mushroom Kingdom \u03a9": {
+      "codename": "mushroom_kingdom_omega",
+      "parrygg_slug": "mushroom-kingdom-omega",
+      "modded": true
+    },
+    "Mushroom Kingdom SR": {
+      "codename": "mushroom_kingdom_remix",
+      "parrygg_slug": "mushroom-kingdom-remix",
+      "modded": true
+    },
+    "Mute City": {
+      "codename": "mute_city",
+      "parrygg_slug": "mute-city",
+      "modded": true
+    },
+    "Mute City DL": {
+      "codename": "mute_city_dl",
+      "parrygg_slug": "mute-city-dl",
+      "modded": true
+    },
+    "N64": {
+      "codename": "n64",
+      "parrygg_slug": "n64",
+      "modded": true
+    },
+    "N64 Remix": {
+      "codename": "n64_remix",
+      "parrygg_slug": "n64-remix",
+      "modded": true
+    },
+    "New Pork City": {
+      "codename": "new_pork_city",
+      "parrygg_slug": "new-pork-city",
+      "modded": true
+    },
+    "Norfair": {
+      "codename": "norfair",
+      "parrygg_slug": "norfair",
+      "modded": true
+    },
+    "Norfair Remix": {
+      "codename": "norfair_remix",
+      "parrygg_slug": "norfair-remix",
+      "modded": true
+    },
+    "N.Sanity Beach": {
+      "codename": "n_sanity_beach",
+      "parrygg_slug": "n-sanity-beach",
+      "modded": true
+    },
+    "Onett": {
+      "codename": "onett",
+      "parrygg_slug": "onett",
+      "modded": true
+=======
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1528,12 +2017,51 @@
     },
     "Peach's Castle": {
       "codename": "peachs_castle",
+      "parrygg_slug": "peachs-castle",
       "locale": {
         "fr": "Ch\u00e2teau de Peach"
       }
     },
     "Peach's Castle Beta": {
       "codename": "peachs_castle_beta",
+      "parrygg_slug": "peachs-castle-beta",
+      "modded": true
+    },
+    "Peach's Castle DL": {
+      "codename": "peachs_castle_dl",
+      "parrygg_slug": "peachs-castle-dl",
+      "modded": true
+    },
+    "Peach's Castle II": {
+      "codename": "peachs_castle_ii",
+      "parrygg_slug": "peachs-castle-ii",
+      "modded": true
+    },
+    "Peach's Castle \u03a9": {
+      "codename": "peachs_castle_omega",
+      "parrygg_slug": "peachs-castle-omega",
+      "modded": true
+    },
+    "LMAO Castle": {
+      "codename": "peachs_castle_remix",
+      "parrygg_slug": "peachs-castle-remix",
+      "modded": true
+    },
+    "Pigmask Fortress": {
+      "codename": "pigmask_fortress",
+      "parrygg_slug": "pigmask-fortress",
+      "modded": true
+    },
+    "Pirate Land": {
+      "codename": "pirate_land",
+      "parrygg_slug": "pirate-land",
+      "modded": true
+    },
+    "Planet Clancer": {
+      "codename": "planet_clancer",
+      "parrygg_slug": "planet-clancer",
+      "modded": true
+=======
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1590,12 +2118,46 @@
     },
     "Planet Zebes": {
       "codename": "planet_zebes",
+      "parrygg_slug": "planet-zebes",
       "locale": {
         "fr": "Plan\u00e8te Zebes"
       }
     },
     "Planet Zebes DL": {
       "codename": "planet_zebes_dl",
+      "parrygg_slug": "planet-zebes-dl",
+      "modded": true
+    },
+    "Planet Zebes \u03a9": {
+      "codename": "planet_zebes_omega",
+      "parrygg_slug": "planet-zebes-omega",
+      "modded": true
+    },
+    "Pok\u00e9 Floats": {
+      "codename": "poke_floats",
+      "parrygg_slug": "poke-floats",
+      "modded": true
+    },
+    "Pok\u00e9mon Stadium": {
+      "codename": "pokemon_stadium",
+      "parrygg_slug": "pokemon-stadium",
+      "modded": true
+    },
+    "Pok\u00e9mon Stadium 2": {
+      "codename": "pokemon_stadium_2",
+      "parrygg_slug": "pokemon-stadium-2",
+      "modded": true
+    },
+    "Raid Blue": {
+      "codename": "raid_blue",
+      "parrygg_slug": "raid-blue",
+      "modded": true
+    },
+    "Rainbow Road": {
+      "codename": "rainbow_road",
+      "parrygg_slug": "rainbow-road",
+      "modded": true
+=======
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1652,6 +2214,7 @@
     },
     "Rith Essa": {
       "codename": "rith_essa",
+      "parrygg_slug": "rith-essa",
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1659,12 +2222,24 @@
     },
     "Saffron City": {
       "codename": "saffron_city",
+      "parrygg_slug": "saffron-city",
       "locale": {
         "fr": "Safrania"
       }
     },
     "Saffron City DL": {
       "codename": "saffron_city_dl",
+      "parrygg_slug": "saffron-city-dl",
+      "modded": true
+    },
+    "Saffron City \u03a9": {
+      "codename": "saffron_city_omega",
+      "parrygg_slug": "saffron-city-omega",
+      "modded": true
+    },
+    "Scuttle Town": {
+      "codename": "scuttle_town",
+      "parrygg_slug": "scuttle-town",
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1686,12 +2261,116 @@
     },
     "Sector Z": {
       "codename": "sector_z",
+      "parrygg_slug": "sector-z",
       "locale": {
         "fr": "Secteur Z"
       }
     },
     "Sector Z DL": {
       "codename": "sector_z_dl",
+      "parrygg_slug": "sector-z-dl",
+      "modded": true
+    },
+    "Sector Z \u03a9": {
+      "codename": "sector_z_omega",
+      "parrygg_slug": "sector-z-omega",
+      "modded": true
+    },
+    "Sector Z SR": {
+      "codename": "sector_z_remix",
+      "parrygg_slug": "sector-z-remix",
+      "modded": true
+    },
+    "Showdown": {
+      "codename": "showdown",
+      "parrygg_slug": "showdown",
+      "modded": true
+    },
+    "Smashketball": {
+      "codename": "smashketball",
+      "parrygg_slug": "smashketball",
+      "modded": true
+    },
+    "Smashville": {
+      "codename": "smashville",
+      "parrygg_slug": "smashville",
+      "modded": true
+    },
+    "Smashville Remix": {
+      "codename": "smashville_remix",
+      "parrygg_slug": "smashville-remix",
+      "modded": true
+    },
+    "Snow Go": {
+      "codename": "snow_go",
+      "parrygg_slug": "snow-go",
+      "modded": true
+    },
+    "Spawned Fear": {
+      "codename": "spawned_fear",
+      "parrygg_slug": "spawned-fear",
+      "modded": true
+    },
+    "Spiral Mountain": {
+      "codename": "spiral_mountain",
+      "parrygg_slug": "spiral-mountain",
+      "modded": true
+    },
+    "Subcon": {
+      "codename": "subcon",
+      "parrygg_slug": "subcon",
+      "modded": true
+    },
+    "Tal Tal Heights": {
+      "codename": "tal_tal_heights",
+      "parrygg_slug": "tal-tal-heights",
+      "modded": true
+    },
+    "Tal Tal Heights Remix": {
+      "codename": "tal_tal_heights_remix",
+      "parrygg_slug": "tal-tal-heights-remix",
+      "modded": true
+    },
+    "Time Twister": {
+      "codename": "time_twister",
+      "parrygg_slug": "time-twister",
+      "modded": true
+    },
+    "Toad's Turnpike": {
+      "codename": "toads_turnpike",
+      "parrygg_slug": "toads-turnpike",
+      "modded": true
+    },
+    "Tower of Heaven": {
+      "codename": "tower_of_heaven",
+      "parrygg_slug": "tower-of-heaven",
+      "modded": true
+    },
+    "Twilight City": {
+      "codename": "twilight_city",
+      "parrygg_slug": "twilight-city",
+      "modded": true
+    },
+    "Venom": {
+      "codename": "venom",
+      "parrygg_slug": "venom",
+      "modded": true
+    },
+    "WarioWare, Inc.": {
+      "codename": "warioware_inc",
+      "parrygg_slug": "warioware-inc",
+      "modded": true
+    },
+    "Windy": {
+      "codename": "windy",
+      "parrygg_slug": "windy",
+      "modded": true
+    },
+    "World 1-1": {
+      "codename": "world_1-1",
+      "parrygg_slug": "world-1-1",
+      "modded": true
+=======
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1839,12 +2518,34 @@
     },
     "Yoshi's Island": {
       "codename": "yoshis_island",
+      "parrygg_slug": "yoshis-island",
       "locale": {
         "fr": "\u00cele Yoshi"
       }
     },
     "Yoshi's Island DL": {
       "codename": "yoshis_island_dl",
+      "parrygg_slug": "yoshis-island-dl",
+      "modded": true
+    },
+    "Yoshi's Island II": {
+      "codename": "yoshis_island_ii",
+      "parrygg_slug": "yoshis-island-ii",
+      "modded": true
+    },
+    "Yoshi's Island \u03a9": {
+      "codename": "yoshis_island_omega",
+      "parrygg_slug": "yoshis-island-omega",
+      "modded": true
+    },
+    "Mini Yoshi's Island": {
+      "codename": "yoshis_island_remix",
+      "parrygg_slug": "yoshis-island-remix",
+      "modded": true
+    },
+    "Yoshi's Story": {
+      "codename": "yoshis_story",
+      "parrygg_slug": "yoshis-story",
       "modded": true,
       "igdb_playable_list": [
         "smash-remix"
@@ -1877,6 +2578,7 @@
       "igdb_playable_list": [
         "smash-remix"
       ]
+>>>>>>> main
     }
   },
   "version": "26.06.16.67760",

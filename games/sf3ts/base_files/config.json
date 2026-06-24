@@ -5,83 +5,103 @@
   "character_to_codename": {
     "Alex": {
       "codename": "Alex",
-      "smashgg_name": "Alex"
+      "smashgg_name": "Alex",
+      "parrygg_slug": "alex"
     },
     "Ryu": {
       "codename": "Ryu",
-      "smashgg_name": "Ryu"
+      "smashgg_name": "Ryu",
+      "parrygg_slug": "ryu"
     },
     "Ken": {
       "codename": "Ken",
-      "smashgg_name": "Ken"
+      "smashgg_name": "Ken",
+      "parrygg_slug": "ken"
     },
     "Sean": {
       "codename": "Sean",
-      "smashgg_name": "Sean"
+      "smashgg_name": "Sean",
+      "parrygg_slug": "sean"
     },
     "Dudley": {
       "codename": "Dudley",
-      "smashgg_name": "Dudley"
+      "smashgg_name": "Dudley",
+      "parrygg_slug": "dudley"
     },
     "Necro": {
       "codename": "Necro",
-      "smashgg_name": "Necro"
+      "smashgg_name": "Necro",
+      "parrygg_slug": "necro"
     },
     "Oro": {
       "codename": "Oro",
-      "smashgg_name": "Oro"
+      "smashgg_name": "Oro",
+      "parrygg_slug": "oro"
     },
     "Elena": {
       "codename": "Elena",
-      "smashgg_name": "Elena"
+      "smashgg_name": "Elena",
+      "parrygg_slug": "elena"
     },
     "Ibuki": {
       "codename": "Ibuki",
-      "smashgg_name": "Ibuki"
+      "smashgg_name": "Ibuki",
+      "parrygg_slug": "ibuki"
     },
     "Makoto": {
       "codename": "Makoto",
-      "smashgg_name": "Makoto"
+      "smashgg_name": "Makoto",
+      "parrygg_slug": "makoto"
     },
     "Yang": {
       "codename": "Yang",
-      "smashgg_name": "Yang"
+      "smashgg_name": "Yang",
+      "parrygg_slug": "yang"
     },
     "Yun": {
       "codename": "Yun",
-      "smashgg_name": "Yun"
+      "smashgg_name": "Yun",
+      "parrygg_slug": "yun"
     },
     "Chun-Li": {
       "codename": "ChunLi",
-      "smashgg_name": "Chun-li"
+      "smashgg_name": "Chun-li",
+      "parrygg_slug": "chun-li"
     },
     "Hugo": {
       "codename": "Hugo",
-      "smashgg_name": "Hugo"
+      "smashgg_name": "Hugo",
+      "parrygg_slug": "hugo"
     },
     "Remy": {
       "codename": "Remy",
-      "smashgg_name": "Remy"
+      "smashgg_name": "Remy",
+      "parrygg_slug": "remy"
     },
     "Akuma": {
       "codename": "Akuma",
-      "smashgg_name": "Gouki"
+      "smashgg_name": "Gouki",
+      "parrygg_slug": "akuma"
     },
     "Q": {
       "codename": "Q",
-      "smashgg_name": "Q"
+      "smashgg_name": "Q",
+      "parrygg_slug": "q"
     },
     "Twelve": {
       "codename": "Twelve",
-      "smashgg_name": "Twelve"
+      "smashgg_name": "Twelve",
+      "parrygg_slug": "twelve"
     },
     "Urien": {
       "codename": "Urien",
-      "smashgg_name": "Urien"
+      "smashgg_name": "Urien",
+      "parrygg_slug": "urien"
     },
     "Gill": {
       "codename": "Gill",
-      "smashgg_name": "Gill"
+      "smashgg_name": "Gill",
+      "parrygg_slug": "gill"
     }
   },
   "stage_to_codename": {},

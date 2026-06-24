@@ -3,47 +3,58 @@
   "character_to_codename": {
     "Ahri": {
       "codename": "Ahri",
-      "smashgg_name": "Ahri"
+      "smashgg_name": "Ahri",
+      "parrygg_slug": "ahri"
     },
     "Darius": {
       "codename": "Darius",
-      "smashgg_name": "Darius"
+      "smashgg_name": "Darius",
+      "parrygg_slug": "darius"
     },
     "Ekko": {
       "codename": "Ekko",
-      "smashgg_name": "Ekko"
+      "smashgg_name": "Ekko",
+      "parrygg_slug": "ekko"
     },
     "Yasuo": {
       "codename": "Yasuo",
-      "smashgg_name": "Yasuo"
+      "smashgg_name": "Yasuo",
+      "parrygg_slug": "yasuo"
     },
     "Illaoi": {
       "codename": "Illaoi",
-      "smashgg_name": "Illaoi"
+      "smashgg_name": "Illaoi",
+      "parrygg_slug": "illaoi"
     },
     "Braum": {
       "codename": "Braum",
-      "smashgg_name": "Braum"
+      "smashgg_name": "Braum",
+      "parrygg_slug": "braum"
     },
     "Jinx": {
       "codename": "Jinx",
-      "smashgg_name": "Jinx"
+      "smashgg_name": "Jinx",
+      "parrygg_slug": "jinx"
     },
     "Vi": {
       "codename": "Vi",
-      "smashgg_name": "Vi"
+      "smashgg_name": "Vi",
+      "parrygg_slug": "vi"
     },
     "Blitzcrank": {
       "codename": "Blitzcrank",
-      "smashgg_name": "Blitzcrank"
+      "smashgg_name": "Blitzcrank",
+      "parrygg_slug": "blitzcrank"
     },
     "Teemo": {
       "codename": "Teemo",
-      "smashgg_name": "Teemo"
+      "smashgg_name": "Teemo",
+      "parrygg_slug": "teemo"
     },
     "Warwick": {
       "codename": "Warwick",
-      "smashgg_name": "Warwick"
+      "smashgg_name": "Warwick",
+      "parrygg_slug": "warwick"
     },
     "Caitlyn": {
       "codename": "Caitlyn",

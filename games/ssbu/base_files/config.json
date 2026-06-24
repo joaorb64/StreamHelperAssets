@@ -19,6 +19,7 @@
   "character_to_codename": {
     "Mario": {
       "smashgg_name": "Mario",
+      "parrygg_slug": "mario",
       "codename": "mario",
       "locale": {
         "ja": "\u30de\u30ea\u30aa",
@@ -39,6 +40,7 @@
     },
     "Donkey Kong": {
       "smashgg_name": "Donkey Kong",
+      "parrygg_slug": "donkey-kong",
       "codename": "donkey",
       "locale": {
         "ja": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
@@ -59,6 +61,7 @@
     },
     "Link": {
       "smashgg_name": "Link",
+      "parrygg_slug": "link",
       "codename": "link",
       "locale": {
         "ja": "\u30ea\u30f3\u30af",
@@ -79,6 +82,7 @@
     },
     "Samus": {
       "smashgg_name": "Samus",
+      "parrygg_slug": "samus",
       "codename": "samus",
       "locale": {
         "ja": "\u30b5\u30e0\u30b9",
@@ -99,6 +103,7 @@
     },
     "Dark Samus": {
       "smashgg_name": "Dark Samus",
+      "parrygg_slug": "dark-samus",
       "codename": "samusd",
       "locale": {
         "fr": "Samus Sombre",
@@ -119,6 +124,7 @@
     },
     "Yoshi": {
       "smashgg_name": "Yoshi",
+      "parrygg_slug": "yoshi",
       "codename": "yoshi",
       "locale": {
         "ja": "\u30e8\u30c3\u30b7\u30fc",
@@ -139,6 +145,7 @@
     },
     "Kirby": {
       "smashgg_name": "Kirby",
+      "parrygg_slug": "kirby",
       "codename": "kirby",
       "locale": {
         "ja": "\u30ab\u30fc\u30d3\u30a3",
@@ -159,6 +166,7 @@
     },
     "Fox": {
       "smashgg_name": "Fox",
+      "parrygg_slug": "fox",
       "codename": "fox",
       "locale": {
         "ja": "\u30d5\u30a9\u30c3\u30af\u30b9",
@@ -179,6 +187,7 @@
     },
     "Pikachu": {
       "smashgg_name": "Pikachu",
+      "parrygg_slug": "pikachu",
       "codename": "pikachu",
       "locale": {
         "ja": "\u30d4\u30ab\u30c1\u30e5\u30a6",
@@ -200,6 +209,7 @@
     },
     "Luigi": {
       "smashgg_name": "Luigi",
+      "parrygg_slug": "luigi",
       "codename": "luigi",
       "locale": {
         "ja": "\u30eb\u30a4\u30fc\u30b8",
@@ -220,6 +230,7 @@
     },
     "Ness": {
       "smashgg_name": "Ness",
+      "parrygg_slug": "ness",
       "codename": "ness",
       "locale": {
         "ja": "\u30cd\u30b9",
@@ -240,6 +251,7 @@
     },
     "Captain Falcon": {
       "smashgg_name": "Captain Falcon",
+      "parrygg_slug": "captain-falcon",
       "codename": "captain",
       "locale": {
         "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30d5\u30a1\u30eb\u30b3\u30f3",
@@ -260,6 +272,7 @@
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
+      "parrygg_slug": "jigglypuff",
       "codename": "purin",
       "locale": {
         "fr": "Rondoudou",
@@ -281,6 +294,7 @@
     },
     "Peach": {
       "smashgg_name": "Peach",
+      "parrygg_slug": "peach",
       "codename": "peach",
       "locale": {
         "ja": "\u30d4\u30fc\u30c1",
@@ -301,6 +315,7 @@
     },
     "Daisy": {
       "smashgg_name": "Daisy",
+      "parrygg_slug": "daisy",
       "codename": "daisy",
       "locale": {
         "ja": "\u30c7\u30a4\u30b8\u30fc",
@@ -321,6 +336,7 @@
     },
     "Bowser": {
       "smashgg_name": "Bowser",
+      "parrygg_slug": "bowser",
       "codename": "koopa",
       "locale": {
         "ja": "\u30af\u30c3\u30d1",
@@ -341,6 +357,7 @@
     },
     "Ice Climbers": {
       "smashgg_name": "Ice Climbers",
+      "parrygg_slug": "ice-climbers",
       "codename": "ice_climber",
       "locale": {
         "ja": "\u30a2\u30a4\u30b9\u30af\u30e9\u30a4\u30de\u30fc",
@@ -361,6 +378,7 @@
     },
     "Sheik": {
       "smashgg_name": "Sheik",
+      "parrygg_slug": "sheik",
       "codename": "sheik",
       "locale": {
         "ja": "\u30b7\u30fc\u30af",
@@ -381,6 +399,7 @@
     },
     "Zelda": {
       "smashgg_name": "Zelda",
+      "parrygg_slug": "zelda",
       "codename": "zelda",
       "locale": {
         "ja": "\u30bc\u30eb\u30c0",
@@ -401,6 +420,7 @@
     },
     "Dr. Mario": {
       "smashgg_name": "Dr. Mario",
+      "parrygg_slug": "dr-mario",
       "codename": "mariod",
       "locale": {
         "ja": "\u30c9\u30af\u30bf\u30fc\u30de\u30ea\u30aa",
@@ -421,6 +441,7 @@
     },
     "Pichu": {
       "smashgg_name": "Pichu",
+      "parrygg_slug": "pichu",
       "codename": "pichu",
       "locale": {
         "ja": "\u30d4\u30c1\u30e5\u30fc",
@@ -441,6 +462,7 @@
     },
     "Falco": {
       "smashgg_name": "Falco",
+      "parrygg_slug": "falco",
       "codename": "falco",
       "locale": {
         "ja": "\u30d5\u30a1\u30eb\u30b3",
@@ -461,6 +483,7 @@
     },
     "Marth": {
       "smashgg_name": "Marth",
+      "parrygg_slug": "marth",
       "codename": "marth",
       "locale": {
         "ja": "\u30de\u30eb\u30b9",
@@ -481,6 +504,7 @@
     },
     "Lucina": {
       "smashgg_name": "Lucina",
+      "parrygg_slug": "lucina",
       "codename": "lucina",
       "locale": {
         "ja": "\u30eb\u30ad\u30ca",
@@ -501,6 +525,7 @@
     },
     "Young Link": {
       "smashgg_name": "Young Link",
+      "parrygg_slug": "young-link",
       "codename": "younglink",
       "locale": {
         "fr": "Link Enfant",
@@ -521,6 +546,7 @@
     },
     "Ganondorf": {
       "smashgg_name": "Ganondorf",
+      "parrygg_slug": "ganondorf",
       "codename": "ganon",
       "locale": {
         "ja": "\u30ac\u30ce\u30f3\u30c9\u30ed\u30d5",
@@ -541,6 +567,7 @@
     },
     "Mewtwo": {
       "smashgg_name": "Mewtwo",
+      "parrygg_slug": "mewtwo",
       "codename": "mewtwo",
       "locale": {
         "ja": "\u30df\u30e5\u30a6\u30c4\u30fc",
@@ -562,6 +589,7 @@
     },
     "Roy": {
       "smashgg_name": "Roy",
+      "parrygg_slug": "roy",
       "codename": "roy",
       "locale": {
         "ja": "\u30ed\u30a4",
@@ -582,6 +610,7 @@
     },
     "Chrom": {
       "smashgg_name": "Chrom",
+      "parrygg_slug": "chrom",
       "codename": "chrom",
       "locale": {
         "ja": "\u30af\u30ed\u30e0",
@@ -602,6 +631,7 @@
     },
     "Mr. Game & Watch": {
       "smashgg_name": "Mr. Game & Watch",
+      "parrygg_slug": "mr-game-and-watch",
       "codename": "gamewatch",
       "locale": {
         "ja": "Mr.\u30b2\u30fc\u30e0\uff06\u30a6\u30a9\u30c3\u30c1",
@@ -622,6 +652,7 @@
     },
     "Meta Knight": {
       "smashgg_name": "Meta Knight",
+      "parrygg_slug": "meta-knight",
       "codename": "metaknight",
       "locale": {
         "ja": "\u30e1\u30bf\u30ca\u30a4\u30c8",
@@ -642,6 +673,7 @@
     },
     "Pit": {
       "smashgg_name": "Pit",
+      "parrygg_slug": "pit",
       "codename": "pit",
       "locale": {
         "ja": "\u30d4\u30c3\u30c8",
@@ -662,6 +694,7 @@
     },
     "Dark Pit": {
       "smashgg_name": "Dark Pit",
+      "parrygg_slug": "dark-pit",
       "codename": "pitb",
       "locale": {
         "fr": "Pit Mal\u00e9fique",
@@ -682,6 +715,7 @@
     },
     "Zero Suit Samus": {
       "smashgg_name": "Zero Suit Samus",
+      "parrygg_slug": "zero-suit-samus",
       "codename": "szerosuit",
       "locale": {
         "fr": "Samus sans armure",
@@ -702,6 +736,7 @@
     },
     "Wario": {
       "smashgg_name": "Wario",
+      "parrygg_slug": "wario",
       "codename": "wario",
       "locale": {
         "ja": "\u30ef\u30ea\u30aa",
@@ -722,6 +757,7 @@
     },
     "Snake": {
       "smashgg_name": "Snake",
+      "parrygg_slug": "snake",
       "codename": "snake",
       "locale": {
         "ja": "\u30b9\u30cd\u30fc\u30af",
@@ -742,6 +778,7 @@
     },
     "Ike": {
       "smashgg_name": "Ike",
+      "parrygg_slug": "ike",
       "codename": "ike",
       "locale": {
         "ja": "\u30a2\u30a4\u30af",
@@ -762,6 +799,7 @@
     },
     "Pok\u00e9mon Trainer": {
       "smashgg_name": "Pokemon Trainer",
+      "parrygg_slug": "pok-mon-trainer",
       "codename": "ptrainer",
       "locale": {
         "fr": "Dresseur de Pok\u00e9mon",
@@ -820,6 +858,7 @@
     },
     "Diddy Kong": {
       "smashgg_name": "Diddy Kong",
+      "parrygg_slug": "diddy-kong",
       "codename": "diddy",
       "locale": {
         "ja": "\u30c7\u30a3\u30c7\u30a3\u30fc\u30b3\u30f3\u30b0",
@@ -840,6 +879,7 @@
     },
     "Lucas": {
       "smashgg_name": "Lucas",
+      "parrygg_slug": "lucas",
       "codename": "lucas",
       "locale": {
         "ja": "\u30ea\u30e5\u30ab",
@@ -860,6 +900,7 @@
     },
     "Sonic": {
       "smashgg_name": "Sonic",
+      "parrygg_slug": "sonic",
       "codename": "sonic",
       "locale": {
         "ja": "\u30bd\u30cb\u30c3\u30af",
@@ -880,6 +921,7 @@
     },
     "King Dedede": {
       "smashgg_name": "King Dedede",
+      "parrygg_slug": "king-dedede",
       "codename": "dedede",
       "locale": {
         "fr": "Roi DaDiDou",
@@ -900,6 +942,7 @@
     },
     "Olimar": {
       "smashgg_name": "Olimar",
+      "parrygg_slug": "olimar",
       "codename": "pikmin",
       "locale": {
         "ja": "\u30d4\u30af\u30df\u30f3&\u30aa\u30ea\u30de\u30fc",
@@ -920,6 +963,7 @@
     },
     "Lucario": {
       "smashgg_name": "Lucario",
+      "parrygg_slug": "lucario",
       "codename": "lucario",
       "locale": {
         "ja": "\u30eb\u30ab\u30ea\u30aa",
@@ -940,6 +984,7 @@
     },
     "R.O.B.": {
       "smashgg_name": "R.O.B.",
+      "parrygg_slug": "r-o-b",
       "codename": "robot",
       "locale": {
         "ja": "\u30ed\u30dc\u30c3\u30c8",
@@ -960,6 +1005,7 @@
     },
     "Toon Link": {
       "smashgg_name": "Toon Link",
+      "parrygg_slug": "toon-link",
       "codename": "toonlink",
       "locale": {
         "fr": "Link Cartoon",
@@ -980,6 +1026,7 @@
     },
     "Wolf": {
       "smashgg_name": "Wolf",
+      "parrygg_slug": "wolf",
       "codename": "wolf",
       "locale": {
         "ja": "\u30a6\u30eb\u30d5",
@@ -1000,6 +1047,7 @@
     },
     "Villager": {
       "smashgg_name": "Villager",
+      "parrygg_slug": "villager",
       "codename": "murabito",
       "locale": {
         "fr": "Villageois",
@@ -1062,6 +1110,7 @@
     },
     "Mega Man": {
       "smashgg_name": "Mega Man",
+      "parrygg_slug": "mega-man",
       "codename": "rockman",
       "locale": {
         "ja": "\u30ed\u30c3\u30af\u30de\u30f3",
@@ -1082,6 +1131,7 @@
     },
     "Wii Fit Trainer": {
       "smashgg_name": "Wii Fit Trainer",
+      "parrygg_slug": "wii-fit-trainer",
       "codename": "wiifit",
       "locale": {
         "fr": "Entra\u00eeneuse Wii Fit",
@@ -1136,6 +1186,7 @@
     },
     "Rosalina & Luma": {
       "smashgg_name": "Rosalina",
+      "parrygg_slug": "rosalina-and-luma",
       "codename": "rosetta",
       "locale": {
         "fr": "Harmonie & Luma",
@@ -1156,6 +1207,7 @@
     },
     "Little Mac": {
       "smashgg_name": "Little Mac",
+      "parrygg_slug": "little-mac",
       "codename": "littlemac",
       "locale": {
         "ja": "\u30ea\u30c8\u30eb\u30fb\u30de\u30c3\u30af",
@@ -1176,6 +1228,7 @@
     },
     "Greninja": {
       "smashgg_name": "Greninja",
+      "parrygg_slug": "greninja",
       "codename": "gekkouga",
       "locale": {
         "fr": "Amphinobi",
@@ -1196,6 +1249,7 @@
     },
     "Mii Brawler": {
       "smashgg_name": "Mii Brawler",
+      "parrygg_slug": "mii-brawler",
       "codename": "miifighter",
       "locale": {
         "fr": "Boxeur Mii",
@@ -1214,6 +1268,7 @@
     },
     "Mii Swordfighter": {
       "smashgg_name": "Mii Swordfighter",
+      "parrygg_slug": "mii-swordfighter",
       "codename": "miiswordsman",
       "locale": {
         "fr": "\u00c9p\u00e9iste Mii",
@@ -1231,6 +1286,7 @@
     },
     "Mii Gunner": {
       "smashgg_name": "Mii Gunner",
+      "parrygg_slug": "mii-gunner",
       "codename": "miigunner",
       "locale": {
         "fr": "Tireuse Mii",
@@ -1248,6 +1304,7 @@
     },
     "Palutena": {
       "smashgg_name": "Palutena",
+      "parrygg_slug": "palutena",
       "codename": "palutena",
       "locale": {
         "ja": "\u30d1\u30eb\u30c6\u30ca",
@@ -1268,6 +1325,7 @@
     },
     "Pac-Man": {
       "smashgg_name": "Pac-Man",
+      "parrygg_slug": "pac-man",
       "codename": "pacman",
       "locale": {
         "ja": "\u30d1\u30c3\u30af\u30de\u30f3",
@@ -1288,6 +1346,7 @@
     },
     "Robin": {
       "smashgg_name": "Robin",
+      "parrygg_slug": "robin",
       "codename": "reflet",
       "locale": {
         "fr": "Daraen",
@@ -1308,6 +1367,7 @@
     },
     "Shulk": {
       "smashgg_name": "Shulk",
+      "parrygg_slug": "shulk",
       "codename": "shulk",
       "locale": {
         "ja": "\u30b7\u30e5\u30eb\u30af",
@@ -1328,6 +1388,7 @@
     },
     "Bowser Jr.": {
       "smashgg_name": "Bowser Jr.",
+      "parrygg_slug": "bowser-jr",
       "codename": "koopajr",
       "locale": {
         "ja": "\u30af\u30c3\u30d1 Jr.",
@@ -1427,6 +1488,7 @@
     },
     "Duck Hunt": {
       "smashgg_name": "Duck Hunt",
+      "parrygg_slug": "duck-hunt",
       "codename": "duckhunt",
       "locale": {
         "fr": "Duo Duck Hunt",
@@ -1447,6 +1509,7 @@
     },
     "Ryu": {
       "smashgg_name": "Ryu",
+      "parrygg_slug": "ryu",
       "codename": "ryu",
       "locale": {
         "ja": "\u30ea\u30e5\u30a6",
@@ -1467,6 +1530,7 @@
     },
     "Ken": {
       "smashgg_name": "Ken",
+      "parrygg_slug": "ken",
       "codename": "ken",
       "locale": {
         "ja": "\u30b1\u30f3",
@@ -1487,6 +1551,7 @@
     },
     "Cloud": {
       "smashgg_name": "Cloud",
+      "parrygg_slug": "cloud",
       "codename": "cloud",
       "locale": {
         "ja": "\u30af\u30e9\u30a6\u30c9",
@@ -1507,6 +1572,7 @@
     },
     "Corrin": {
       "smashgg_name": "Corrin",
+      "parrygg_slug": "corrin",
       "codename": "kamui",
       "locale": {
         "ja": "\u30ab\u30e0\u30a4",
@@ -1527,6 +1593,7 @@
     },
     "Bayonetta": {
       "smashgg_name": "Bayonetta",
+      "parrygg_slug": "bayonetta",
       "codename": "bayonetta",
       "locale": {
         "ja": "\u30d9\u30e8\u30cd\u30c3\u30bf",
@@ -1547,6 +1614,7 @@
     },
     "Inkling": {
       "smashgg_name": "Inkling",
+      "parrygg_slug": "inkling",
       "codename": "inkling",
       "locale": {
         "ja": "\u30a4\u30f3\u30af\u30ea\u30f3\u30b0",
@@ -1567,6 +1635,7 @@
     },
     "Ridley": {
       "smashgg_name": "Ridley",
+      "parrygg_slug": "ridley",
       "codename": "ridley",
       "locale": {
         "ja": "\u30ea\u30c9\u30ea\u30fc",
@@ -1587,6 +1656,7 @@
     },
     "Simon": {
       "smashgg_name": "Simon Belmont",
+      "parrygg_slug": "simon",
       "codename": "simon",
       "locale": {
         "ja": "\u30b7\u30e2\u30f3",
@@ -1607,6 +1677,7 @@
     },
     "Richter": {
       "smashgg_name": "Richter",
+      "parrygg_slug": "richter",
       "codename": "richter",
       "locale": {
         "ja": "\u30ea\u30d2\u30bf\u30fc",
@@ -1627,6 +1698,7 @@
     },
     "King K. Rool": {
       "smashgg_name": "King K. Rool",
+      "parrygg_slug": "king-k-rool",
       "codename": "krool",
       "locale": {
         "ja": "\u30ad\u30f3\u30b0\u30af\u30eb\u30fc\u30eb",
@@ -1647,6 +1719,7 @@
     },
     "Isabelle": {
       "smashgg_name": "Isabelle",
+      "parrygg_slug": "isabelle",
       "codename": "shizue",
       "locale": {
         "fr": "Marie",
@@ -1667,6 +1740,7 @@
     },
     "Incineroar": {
       "smashgg_name": "Incineroar",
+      "parrygg_slug": "incineroar",
       "codename": "gaogaen",
       "locale": {
         "fr": "F\u00e9linferno",
@@ -1687,6 +1761,7 @@
     },
     "Piranha Plant": {
       "smashgg_name": "Piranha Plant",
+      "parrygg_slug": "piranha-plant",
       "codename": "packun",
       "locale": {
         "fr": "Plante Piranha",
@@ -1709,6 +1784,7 @@
     },
     "Joker": {
       "smashgg_name": "Joker",
+      "parrygg_slug": "joker",
       "codename": "jack",
       "locale": {
         "ja": "\u30b8\u30e7\u30fc\u30ab\u30fc",
@@ -1729,6 +1805,7 @@
     },
     "Hero": {
       "smashgg_name": "Hero",
+      "parrygg_slug": "hero",
       "codename": "brave",
       "locale": {
         "ja": "\u52c7\u8005",
@@ -1749,6 +1826,7 @@
     },
     "Banjo & Kazooie": {
       "smashgg_name": "Banjo-Kazooie",
+      "parrygg_slug": "banjo-and-kazooie",
       "codename": "buddy",
       "locale": {
         "ja": "\u30d0\u30f3\u30b8\u30e7\u30fc&\u30ab\u30ba\u30fc\u30a4",
@@ -1769,6 +1847,7 @@
     },
     "Terry": {
       "smashgg_name": "Terry",
+      "parrygg_slug": "terry",
       "codename": "dolly",
       "locale": {
         "ja": "\u30c6\u30ea\u30fc",
@@ -1789,6 +1868,7 @@
     },
     "Byleth": {
       "smashgg_name": "Byleth",
+      "parrygg_slug": "byleth",
       "codename": "master",
       "locale": {
         "ja": "\u30d9\u30ec\u30c8 / \u30d9\u30ec\u30b9",
@@ -1843,6 +1923,7 @@
     },
     "Min Min": {
       "smashgg_name": "Min Min",
+      "parrygg_slug": "min-min",
       "codename": "tantan",
       "locale": {
         "ja": "\u30df\u30a7\u30f3\u30df\u30a7\u30f3",
@@ -1863,6 +1944,7 @@
     },
     "Steve": {
       "smashgg_name": "Steve",
+      "parrygg_slug": "steve",
       "codename": "pickel",
       "skin_name": {
         "1": {
@@ -1921,6 +2003,7 @@
     },
     "Sephiroth": {
       "smashgg_name": "Sephiroth",
+      "parrygg_slug": "sephiroth",
       "codename": "edge",
       "locale": {
         "ja": "\u30bb\u30d5\u30a3\u30ed\u30b9",
@@ -1941,6 +2024,7 @@
     },
     "Pyra / Mythra": {
       "smashgg_name": "Pyra & Mythra",
+      "parrygg_slug": "pyra-and-mythra",
       "codename": "eflame",
       "locale": {
         "ja": "\u30db\u30e0\u30e9 / \u30d2\u30ab\u30ea",
@@ -1961,6 +2045,7 @@
     },
     "Kazuya": {
       "smashgg_name": "Kazuya",
+      "parrygg_slug": "kazuya",
       "codename": "demon",
       "locale": {
         "ja": "\u30ab\u30ba\u30e4",
@@ -1981,6 +2066,7 @@
     },
     "Sora": {
       "smashgg_name": "Sora",
+      "parrygg_slug": "sora",
       "codename": "trail",
       "locale": {
         "ja": "\u30bd\u30e9",
@@ -2001,6 +2087,7 @@
     },
     "Random": {
       "smashgg_name": "Random Character",
+      "parrygg_slug": "random",
       "codename": "random",
       "locale": {
         "fr": "Al\u00e9atoire"
@@ -2010,10 +2097,12 @@
   "stage_to_codename": {
     "3D Land": {
       "smashgg_id": "307",
+      "parrygg_slug": "super-mario-3d-land",
       "codename": "Mario_3DLand"
     },
     "75m": {
       "smashgg_id": "308",
+      "parrygg_slug": "75m",
       "codename": "75m",
       "locale": {
         "fr": "75 m",
@@ -2033,6 +2122,7 @@
     },
     "Arena Ferox": {
       "smashgg_id": "309",
+      "parrygg_slug": "arena-ferox",
       "codename": "FE_Arena",
       "locale": {
         "fr": "Ar\u00e8ne de Ferox",
@@ -2052,10 +2142,12 @@
     },
     "Balloon Fight": {
       "smashgg_id": "310",
+      "parrygg_slug": "balloon-fight",
       "codename": "BalloonFight"
     },
     "Battlefield": {
       "smashgg_id": "311",
+      "parrygg_slug": "battlefield",
       "codename": "BattleField",
       "locale": {
         "fr": "Champ de Bataille",
@@ -2075,6 +2167,7 @@
     },
     "Big Battlefield": {
       "smashgg_id": "312",
+      "parrygg_slug": "big-battlefield",
       "codename": "BattleFieldL",
       "locale": {
         "fr": "Vaste Champ de Bataille",
@@ -2094,6 +2187,7 @@
     },
     "Big Blue": {
       "smashgg_id": "313",
+      "parrygg_slug": "big-blue",
       "codename": "Fzero_Bigblue",
       "locale": {
         "en_GB": "Big Blue",
@@ -2113,6 +2207,7 @@
     },
     "Boxing Ring": {
       "smashgg_id": "314",
+      "parrygg_slug": "boxing-ring",
       "codename": "PunchOutW",
       "locale": {
         "fr": "Ring de boxe",
@@ -2132,6 +2227,7 @@
     },
     "Bridge of Eldin": {
       "smashgg_id": "315",
+      "parrygg_slug": "bridge-of-eldin",
       "codename": "Zelda_Oldin",
       "locale": {
         "fr": "Pont d'Ordinn",
@@ -2151,10 +2247,12 @@
     },
     "Brinstar": {
       "smashgg_id": "316",
+      "parrygg_slug": "brinstar",
       "codename": "Metroid_ZebesDx"
     },
     "Brinstar Depths": {
       "smashgg_id": "317",
+      "parrygg_slug": "brinstar-depths",
       "codename": "Metroid_Kraid",
       "locale": {
         "fr": "Profondeurs de Brinstar",
@@ -2174,6 +2272,7 @@
     },
     "Castle Siege": {
       "smashgg_id": "318",
+      "parrygg_slug": "castle-siege",
       "codename": "FE_Siege",
       "locale": {
         "fr": "Ch\u00e2teau assi\u00e9g\u00e9",
@@ -2193,6 +2292,7 @@
     },
     "Coliseum": {
       "smashgg_id": "319",
+      "parrygg_slug": "coliseum",
       "codename": "FE_Colloseum",
       "locale": {
         "fr": "Ar\u00e8ne",
@@ -2212,6 +2312,7 @@
     },
     "Corneria": {
       "smashgg_id": "320",
+      "parrygg_slug": "corneria",
       "codename": "Fox_Corneria",
       "locale": {
         "en_GB": "Corneria",
@@ -2231,6 +2332,7 @@
     },
     "Delfino Plaza": {
       "smashgg_id": "321",
+      "parrygg_slug": "delfino-plaza",
       "codename": "Mario_Dolpic",
       "locale": {
         "fr": "Place Delfino",
@@ -2250,6 +2352,7 @@
     },
     "Distant Planet": {
       "smashgg_id": "322",
+      "parrygg_slug": "distant-planet",
       "codename": "Pikmin_Planet",
       "locale": {
         "fr": "Plan\u00e8te lointaine",
@@ -2269,6 +2372,7 @@
     },
     "Dracula's Castle": {
       "smashgg_id": "323",
+      "parrygg_slug": "draculas-castle",
       "codename": "Dracula_Castle",
       "locale": {
         "fr": "Ch\u00e2teau de Dracula",
@@ -2288,6 +2392,7 @@
     },
     "Dream Land": {
       "smashgg_id": "324",
+      "parrygg_slug": "dream-land",
       "codename": "Kirby_Pupupu64",
       "locale": {
         "en_GB": "Dream Land",
@@ -2307,6 +2412,7 @@
     },
     "Dream Land GB": {
       "smashgg_id": "325",
+      "parrygg_slug": "dream-land-gb",
       "codename": "Kirby_Gameboy",
       "locale": {
         "en_GB": "Dream Land GB",
@@ -2326,6 +2432,7 @@
     },
     "Duck Hunt": {
       "smashgg_id": "326",
+      "parrygg_slug": "duck-hunt",
       "codename": "DuckHunt",
       "locale": {
         "en_GB": "Duck Hunt",
@@ -2345,6 +2452,7 @@
     },
     "Figure-8 Circuit": {
       "smashgg_id": "327",
+      "parrygg_slug": "figure-8-circuit",
       "codename": "Kart_CircuitX",
       "locale": {
         "fr": "Circuit en 8",
@@ -2364,6 +2472,7 @@
     },
     "Final Destination": {
       "smashgg_id": "328",
+      "parrygg_slug": "final-destination",
       "codename": "End",
       "locale": {
         "fr": "Destination Finale",
@@ -2383,6 +2492,7 @@
     },
     "Find Mii": {
       "smashgg_id": "329",
+      "parrygg_slug": "find-mii",
       "codename": "StreetPass",
       "locale": {
         "fr": "Mii en p\u00e9ril",
@@ -2402,6 +2512,7 @@
     },
     "Flat Zone X": {
       "smashgg_id": "330",
+      "parrygg_slug": "flat-zone-x",
       "codename": "FlatZoneX",
       "locale": {
         "fr": "Espace 2D X",
@@ -2421,6 +2532,7 @@
     },
     "Fountain of Dreams": {
       "smashgg_id": "331",
+      "parrygg_slug": "fountain-of-dreams",
       "codename": "Kirby_Fountain",
       "locale": {
         "fr": "Fontaine des R\u00eaves",
@@ -2440,10 +2552,12 @@
     },
     "Fourside": {
       "smashgg_id": "332",
+      "parrygg_slug": "fourside",
       "codename": "Mother_Fourside"
     },
     "Frigate Orpheon": {
       "smashgg_id": "333",
+      "parrygg_slug": "frigate-orpheon",
       "codename": "Metroid_Orpheon",
       "locale": {
         "fr": "Fr\u00e9gate Orph\u00e9on",
@@ -2463,10 +2577,12 @@
     },
     "Gamer": {
       "smashgg_id": "334",
+      "parrygg_slug": "gamer",
       "codename": "Wario_Gamer"
     },
     "Garden of Hope": {
       "smashgg_id": "335",
+      "parrygg_slug": "garden-of-hope",
       "codename": "Pikmin_Garden",
       "locale": {
         "fr": "Verger de l'espoir",
@@ -2486,6 +2602,7 @@
     },
     "Gaur Plain": {
       "smashgg_id": "336",
+      "parrygg_slug": "gaur-plain",
       "codename": "Xeno_Gaur",
       "locale": {
         "fr": "Plaine de Gaur",
@@ -2505,6 +2622,7 @@
     },
     "Gerudo Valley": {
       "smashgg_id": "337",
+      "parrygg_slug": "gerudo-valley",
       "codename": "Zelda_Gerudo",
       "locale": {
         "fr": "Vall\u00e9e Gerudo",
@@ -2524,6 +2642,7 @@
     },
     "Golden Plains": {
       "smashgg_id": "338",
+      "parrygg_slug": "golden-plains",
       "codename": "Mario_NewBros2",
       "locale": {
         "fr": "Buttes au butin",
@@ -2543,6 +2662,7 @@
     },
     "Great Bay": {
       "smashgg_id": "339",
+      "parrygg_slug": "great-bay",
       "codename": "Zelda_Greatbay",
       "locale": {
         "fr": "Grande baie",
@@ -2562,6 +2682,7 @@
     },
     "The Great Cave Offensive": {
       "smashgg_id": "340",
+      "parrygg_slug": "the-great-cave-offensive",
       "codename": "Kirby_Cave",
       "locale": {
         "fr": "La Caverne du P\u00e9ril",
@@ -2581,6 +2702,7 @@
     },
     "Great Plateau Tower": {
       "smashgg_id": "341",
+      "parrygg_slug": "great-plateau-tower",
       "codename": "Zelda_Tower",
       "locale": {
         "fr": "Tour du Pr\u00e9lude",
@@ -2600,6 +2722,7 @@
     },
     "Green Greens": {
       "smashgg_id": "342",
+      "parrygg_slug": "green-greens",
       "codename": "Kirby_Greens",
       "locale": {
         "fr": "Vertes Prairies",
@@ -2619,6 +2742,7 @@
     },
     "Green Hill Zone": {
       "smashgg_id": "343",
+      "parrygg_slug": "green-hill-zone",
       "codename": "Sonic_Greenhill",
       "locale": {
         "fr": "Zone Green Hill",
@@ -2638,6 +2762,7 @@
     },
     "Halberd": {
       "smashgg_id": "344",
+      "parrygg_slug": "halberd",
       "codename": "Kirby_Halberd",
       "locale": {
         "en_GB": "Halberd",
@@ -2657,6 +2782,7 @@
     },
     "Hanenbow": {
       "smashgg_id": "345",
+      "parrygg_slug": "hanenbow",
       "codename": "Plankton",
       "locale": {
         "en_GB": "Hanenbow",
@@ -2676,6 +2802,7 @@
     },
     "Hyrule Castle": {
       "smashgg_id": "346",
+      "parrygg_slug": "hyrule-castle",
       "codename": "Zelda_Hyrule",
       "locale": {
         "fr": "Ch\u00e2teau d'Hyrule",
@@ -2695,6 +2822,7 @@
     },
     "Jungle Japes": {
       "smashgg_id": "347",
+      "parrygg_slug": "jungle-japes",
       "codename": "DK_Lodge",
       "locale": {
         "fr": "Jungle des Jobards",
@@ -2714,6 +2842,7 @@
     },
     "Kalos Pok\u00e9mon League": {
       "smashgg_id": "348",
+      "parrygg_slug": "kalos-pok-mon-league",
       "codename": "Poke_Kalos",
       "locale": {
         "fr": "Ligue Pok\u00e9mon de Kalos",
@@ -2733,6 +2862,7 @@
     },
     "Kongo Falls": {
       "smashgg_id": "349",
+      "parrygg_slug": "kongo-falls",
       "codename": "DK_WaterFall",
       "locale": {
         "fr": "Cascade Kongo",
@@ -2752,6 +2882,7 @@
     },
     "Kongo Jungle": {
       "smashgg_id": "350",
+      "parrygg_slug": "kongo-jungle",
       "codename": "DK_Jungle",
       "locale": {
         "fr": "Jungle Kongo",
@@ -2771,6 +2902,7 @@
     },
     "Living Room": {
       "smashgg_id": "351",
+      "parrygg_slug": "living-room",
       "codename": "NintenDogs",
       "locale": {
         "fr": "Salon",
@@ -2790,6 +2922,7 @@
     },
     "Luigi's Mansion": {
       "smashgg_id": "352",
+      "parrygg_slug": "luigis-mansion",
       "codename": "LuigiMansion",
       "locale": {
         "fr": "Manoir de Luigi",
@@ -2809,6 +2942,7 @@
     },
     "Lylat Cruise": {
       "smashgg_id": "353",
+      "parrygg_slug": "lylat-cruise",
       "codename": "Fox_LylatCruise",
       "locale": {
         "fr": "Travers\u00e9e de Lylat",
@@ -2828,14 +2962,17 @@
     },
     "Magicant": {
       "smashgg_id": "354",
+      "parrygg_slug": "magicant",
       "codename": "Mother_Magicant"
     },
     "Mario Bros.": {
       "smashgg_id": "355",
+      "parrygg_slug": "mario-bros",
       "codename": "MarioBros"
     },
     "Mario Circuit": {
       "smashgg_id": "356",
+      "parrygg_slug": "mario-circuit",
       "codename": "Kart_CircuitFor",
       "locale": {
         "fr": "Circuit Mario",
@@ -2855,6 +2992,7 @@
     },
     "Mario Galaxy": {
       "smashgg_id": "357",
+      "parrygg_slug": "mario-galaxy",
       "codename": "Mario_Galaxy",
       "locale": {
         "en_GB": "Mario Galaxy",
@@ -2874,10 +3012,12 @@
     },
     "Midgar": {
       "smashgg_id": "358",
+      "parrygg_slug": "midgar",
       "codename": "FF_Midgar"
     },
     "Moray Towers": {
       "smashgg_id": "359",
+      "parrygg_slug": "moray-towers",
       "codename": "Spla_Parking",
       "locale": {
         "fr": "Tours Girelle",
@@ -2897,6 +3037,7 @@
     },
     "Mushroom Kingdom": {
       "smashgg_id": "360",
+      "parrygg_slug": "mushroom-kingdom",
       "codename": "Mario_Past64",
       "locale": {
         "fr": "Royaume Champignon",
@@ -2916,6 +3057,7 @@
     },
     "Mushroom Kingdom II": {
       "smashgg_id": "361",
+      "parrygg_slug": "mushroom-kingdom-ii",
       "codename": "Mario_PastUsa",
       "locale": {
         "fr": "Royaume Champignon II",
@@ -2935,6 +3077,7 @@
     },
     "Mushroomy Kingdom": {
       "smashgg_id": "362",
+      "parrygg_slug": "mushroomy-kingdom",
       "codename": "Mario_PastX",
       "locale": {
         "fr": "Royaume Champiternel",
@@ -2954,6 +3097,7 @@
     },
     "Mushroom Kingdom U": {
       "smashgg_id": "363",
+      "parrygg_slug": "mushroom-kingdom-u",
       "codename": "Mario_Uworld",
       "locale": {
         "fr": "Royaume Champignon U",
@@ -2973,6 +3117,7 @@
     },
     "Mute City SNES": {
       "smashgg_id": "364",
+      "parrygg_slug": "mute-city-snes",
       "codename": "Fzero_Mutecity3DS",
       "locale": {
         "en_GB": "Mute City SNES",
@@ -2992,6 +3137,7 @@
     },
     "New Donk City Hall": {
       "smashgg_id": "365",
+      "parrygg_slug": "new-donk-city-hall",
       "codename": "Mario_Odyssey",
       "locale": {
         "fr": "H\u00f4tel de ville de New Donk City",
@@ -3011,22 +3157,27 @@
     },
     "New Pork City": {
       "smashgg_id": "366",
+      "parrygg_slug": "new-pork-city",
       "codename": "Mother_Newpork"
     },
     "Norfair": {
       "smashgg_id": "367",
+      "parrygg_slug": "norfair",
       "codename": "Metroid_Norfair"
     },
     "Onett": {
       "smashgg_id": "368",
+      "parrygg_slug": "onett",
       "codename": "Mother_Onett"
     },
     "Pac-Land": {
       "smashgg_id": "369",
+      "parrygg_slug": "pac-land",
       "codename": "Pac_Land"
     },
     "Palutena's Temple": {
       "smashgg_id": "370",
+      "parrygg_slug": "palutenas-temple",
       "codename": "Icarus_Angeland",
       "locale": {
         "fr": "Temple de Palutena",
@@ -3046,10 +3197,12 @@
     },
     "Paper Mario": {
       "smashgg_id": "371",
+      "parrygg_slug": "paper-mario",
       "codename": "Mario_Paper"
     },
     "Peach's Castle": {
       "smashgg_id": "372",
+      "parrygg_slug": "peachs-castle",
       "codename": "Mario_Castle64",
       "locale": {
         "fr": "Ch\u00e2teau de Peach",
@@ -3069,6 +3222,7 @@
     },
     "Princess Peach's Castle": {
       "smashgg_id": "373",
+      "parrygg_slug": "princess-peachs-castle",
       "codename": "Mario_CastleDx",
       "locale": {
         "fr": "Ch\u00e2teau de la princesse Peach",
@@ -3088,14 +3242,17 @@
     },
     "PictoChat 2": {
       "smashgg_id": "374",
+      "parrygg_slug": "pictochat-2",
       "codename": "Pictochat2"
     },
     "Pilotwings": {
       "smashgg_id": "375",
+      "parrygg_slug": "pilotwings",
       "codename": "Pilotwings"
     },
     "Pirate Ship": {
       "smashgg_id": "376",
+      "parrygg_slug": "pirate-ship",
       "codename": "Zelda_Pirates",
       "locale": {
         "fr": "Vaisseau pirate",
@@ -3115,6 +3272,7 @@
     },
     "Pok\u00e9mon Stadium": {
       "smashgg_id": "377",
+      "parrygg_slug": "pok-mon-stadium",
       "codename": "Poke_Stadium",
       "locale": {
         "fr": "Stade Pok\u00e9mon",
@@ -3134,6 +3292,7 @@
     },
     "Pok\u00e9mon Stadium 2": {
       "smashgg_id": "378",
+      "parrygg_slug": "pok-mon-stadium-2",
       "codename": "Poke_Stadium2",
       "locale": {
         "fr": "Stade Pok\u00e9mon 2",
@@ -3153,6 +3312,7 @@
     },
     "Port Town Aero Dive": {
       "smashgg_id": "379",
+      "parrygg_slug": "port-town-aero-dive",
       "codename": "Fzero_Porttown",
       "locale": {
         "fr": "Port Town",
@@ -3172,6 +3332,7 @@
     },
     "Prism Tower": {
       "smashgg_id": "380",
+      "parrygg_slug": "prism-tower",
       "codename": "Poke_Tower",
       "locale": {
         "fr": "Tour Prismatique",
@@ -3191,6 +3352,7 @@
     },
     "Rainbow Cruise": {
       "smashgg_id": "381",
+      "parrygg_slug": "rainbow-cruise",
       "codename": "Mario_Rainbow",
       "locale": {
         "fr": "Course Arc-en-ciel",
@@ -3210,6 +3372,7 @@
     },
     "Reset Bomb Forest": {
       "smashgg_id": "382",
+      "parrygg_slug": "reset-bomb-forest",
       "codename": "Icarus_Uprising",
       "locale": {
         "fr": "For\u00eat des Bombes z\u00e9ro",
@@ -3229,6 +3392,7 @@
     },
     "Saffron City": {
       "smashgg_id": "383",
+      "parrygg_slug": "saffron-city",
       "codename": "Poke_Yamabuki",
       "locale": {
         "fr": "Safrania",
@@ -3248,6 +3412,7 @@
     },
     "Shadow Moses Island": {
       "smashgg_id": "384",
+      "parrygg_slug": "shadow-moses-island",
       "codename": "MG_Shadowmoses",
       "locale": {
         "fr": "\u00cele de Shadow Moses",
@@ -3267,6 +3432,7 @@
     },
     "Skyloft": {
       "smashgg_id": "385",
+      "parrygg_slug": "skyloft",
       "codename": "Zelda_Skyward",
       "locale": {
         "fr": "C\u00e9lesbourg",
@@ -3286,6 +3452,7 @@
     },
     "Skyworld": {
       "smashgg_id": "386",
+      "parrygg_slug": "skyworld",
       "codename": "Icarus_SkyWorld",
       "locale": {
         "fr": "Royaume c\u00e9leste",
@@ -3305,6 +3472,7 @@
     },
     "Smashville": {
       "smashgg_id": "387",
+      "parrygg_slug": "smashville",
       "codename": "Animal_Village",
       "locale": {
         "fr": "Smash Ville",
@@ -3324,6 +3492,7 @@
     },
     "Spear Pillar": {
       "smashgg_id": "388",
+      "parrygg_slug": "spear-pillar",
       "codename": "Poke_Tengam",
       "locale": {
         "fr": "Colonnes Lances",
@@ -3343,6 +3512,7 @@
     },
     "Spirit Train": {
       "smashgg_id": "389",
+      "parrygg_slug": "spirit-train",
       "codename": "Zelda_Train",
       "locale": {
         "fr": "Locomotive des dieux",
@@ -3362,6 +3532,7 @@
     },
     "Summit": {
       "smashgg_id": "390",
+      "parrygg_slug": "summit",
       "codename": "Ice_Top",
       "locale": {
         "fr": "Sommet",
@@ -3381,6 +3552,7 @@
     },
     "Super Happy Tree": {
       "smashgg_id": "391",
+      "parrygg_slug": "super-happy-tree",
       "codename": "Yoshi_Story",
       "locale": {
         "fr": "Arbre Magique du Bonheur",
@@ -3400,10 +3572,12 @@
     },
     "Super Mario Maker": {
       "smashgg_id": "392",
+      "parrygg_slug": "super-mario-maker",
       "codename": "Mario_Maker"
     },
     "Suzaku Castle": {
       "smashgg_id": "393",
+      "parrygg_slug": "suzaku-castle",
       "codename": "SF_Suzaku",
       "locale": {
         "en_GB": "Suzaku Castle",
@@ -3423,6 +3597,7 @@
     },
     "Temple": {
       "smashgg_id": "394",
+      "parrygg_slug": "temple",
       "codename": "Zelda_Temple",
       "locale": {
         "en_GB": "Temple",
@@ -3442,6 +3617,7 @@
     },
     "Tomodachi Life": {
       "smashgg_id": "395",
+      "parrygg_slug": "tomodachi-life",
       "codename": "Tomodachi",
       "locale": {
         "en_GB": "Tomodachi Life",
@@ -3461,6 +3637,7 @@
     },
     "Tortimer Island": {
       "smashgg_id": "396",
+      "parrygg_slug": "tortimer-island",
       "codename": "Animal_Island",
       "locale": {
         "fr": "Tortiland",
@@ -3480,6 +3657,7 @@
     },
     "Town and City": {
       "smashgg_id": "397",
+      "parrygg_slug": "town-and-city",
       "codename": "Animal_City",
       "locale": {
         "fr": "Ville & centre-ville",
@@ -3499,6 +3677,7 @@
     },
     "Umbra Clock Tower": {
       "smashgg_id": "398",
+      "parrygg_slug": "umbra-clock-tower",
       "codename": "Bayo_Clock",
       "locale": {
         "fr": "Tour de l'horloge de l'Umbra",
@@ -3518,6 +3697,7 @@
     },
     "Unova Pok\u00e9mon League": {
       "smashgg_id": "399",
+      "parrygg_slug": "unova-pok-mon-league",
       "codename": "Poke_Unova",
       "locale": {
         "fr": "Ligue Pok\u00e9mon d'Unys",
@@ -3537,6 +3717,7 @@
     },
     "Venom": {
       "smashgg_id": "400",
+      "parrygg_slug": "venom",
       "codename": "Fox_Venom",
       "locale": {
         "en_GB": "Venom",
@@ -3556,6 +3737,7 @@
     },
     "WarioWare, Inc.": {
       "smashgg_id": "401",
+      "parrygg_slug": "warioware-inc",
       "codename": "Wario_Madein",
       "locale": {
         "en_GB": "WarioWare, Inc.",
@@ -3575,6 +3757,7 @@
     },
     "Wii Fit Studio": {
       "smashgg_id": "402",
+      "parrygg_slug": "wii-fit-studio",
       "codename": "WiiFit",
       "locale": {
         "fr": "Studio Wii Fit",
@@ -3594,6 +3777,7 @@
     },
     "Windy Hill Zone": {
       "smashgg_id": "403",
+      "parrygg_slug": "windy-hill-zone",
       "codename": "Sonic_Windyhill",
       "locale": {
         "fr": "Zone Windy Hill",
@@ -3613,10 +3797,12 @@
     },
     "Wrecking Crew": {
       "smashgg_id": "404",
+      "parrygg_slug": "wrecking-crew",
       "codename": "WreckingCrew"
     },
     "Wuhu Island": {
       "smashgg_id": "405",
+      "parrygg_slug": "wuhu-island",
       "codename": "WufuIsland",
       "locale": {
         "fr": "\u00cele Wuhu",
@@ -3636,6 +3822,7 @@
     },
     "Yoshi's Island": {
       "smashgg_id": "406",
+      "parrygg_slug": "yoshis-island-brawl",
       "codename": "Yoshi_Island",
       "locale": {
         "fr": "\u00cele de Yoshi",
@@ -3655,6 +3842,7 @@
     },
     "Yoshi's Island (Melee)": {
       "codename": "Yoshi_Yoster",
+      "parrygg_slug": "yoshis-island-melee",
       "locale": {
         "fr": "\u00cele de Yoshi (Melee)",
         "en_GB": "Yoshi's Island (Melee)",
@@ -3673,10 +3861,12 @@
     },
     "Yoshi's Story": {
       "smashgg_id": "407",
+      "parrygg_slug": "yoshis-story",
       "codename": "Yoshi_CartBoard"
     },
     "Wily's Castle": {
       "smashgg_id": "408",
+      "parrygg_slug": "wily-castle",
       "codename": "Rock_Wily",
       "locale": {
         "fr": "Ch\u00e2teau du Dr Wily",
@@ -3696,6 +3886,7 @@
     },
     "Small Battlefield": {
       "smashgg_id": "484",
+      "parrygg_slug": "small-battlefield",
       "codename": "BattleFieldS",
       "locale": {
         "fr": "Petit Champ de Bataille",
@@ -3715,6 +3906,7 @@
     },
     "Cloud Sea of Alrest": {
       "smashgg_id": "Xeno_Alst",
+      "parrygg_slug": "cloud-sea-of-alrest",
       "codename": "Xeno_Alst",
       "locale": {
         "fr": "Mer de nuanges d'Alrest",
@@ -3734,6 +3926,7 @@
     },
     "Hollow Bastion": {
       "smashgg_id": "513",
+      "parrygg_slug": "hollow-bastion",
       "codename": "Trail_Castle",
       "locale": {
         "fr": "Forteresse oubli\u00e9e",
@@ -3753,6 +3946,7 @@
     },
     "Northern Cave": {
       "smashgg_id": "497",
+      "parrygg_slug": "northern-cave",
       "codename": "FF_Cave",
       "locale": {
         "fr": "Crat\u00e8re nord",
@@ -3772,6 +3966,7 @@
     },
     "Yggdrasil's Altar": {
       "smashgg_id": "Brave_Altar",
+      "parrygg_slug": "yggdrasils-altar",
       "codename": "Brave_Altar",
       "locale": {
         "en_GB": "Yggdrasil's Altar",
@@ -3791,6 +3986,7 @@
     },
     "Spiral Mountain": {
       "smashgg_id": "Buddy_Spiral",
+      "parrygg_slug": "spiral-mountain",
       "codename": "Buddy_Spiral",
       "locale": {
         "en_GB": "Spiral Mountain",
@@ -3810,6 +4006,7 @@
     },
     "King of Fighters Stadium": {
       "smashgg_id": "Dolly_Stadium",
+      "parrygg_slug": "king-of-fighters-stadium",
       "codename": "Dolly_Stadium",
       "locale": {
         "en_GB": "King of Fighters Stadium",
@@ -3829,6 +4026,7 @@
     },
     "Garreg Mach Monastery": {
       "smashgg_id": "FE_Shrine",
+      "parrygg_slug": "garreg-mach-monastery",
       "codename": "FE_Shrine",
       "locale": {
         "en_GB": "Garreg Mach Monastery",
@@ -3848,6 +4046,7 @@
     },
     "Spring Stadium": {
       "smashgg_id": "Tantan_Spring",
+      "parrygg_slug": "spring-stadium",
       "codename": "Tantan_Spring",
       "locale": {
         "en_GB": "Spring Stadium",
@@ -3867,6 +4066,7 @@
     },
     "Minecraft World": {
       "smashgg_id": "Pickel_World",
+      "parrygg_slug": "minecraft-world",
       "codename": "Pickel_World",
       "locale": {
         "en_GB": "Minecraft World",
@@ -3886,6 +4086,7 @@
     },
     "Mishima Dojo": {
       "smashgg_id": "Demon_Dojo",
+      "parrygg_slug": "mishima-dojo",
       "codename": "Demon_Dojo",
       "locale": {
         "en_GB": "Mishima Dojo",

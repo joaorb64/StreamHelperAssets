@@ -10,26 +10,32 @@
   "character_to_codename": {
     "Hiromi Mita": {
       "smashgg_name": "Hiromi Mita",
+      "parrygg_slug": "hiromi-mita",
       "codename": "HiromiMita"
     },
     "Steve Miller": {
       "smashgg_name": "Steve Miller",
+      "parrygg_slug": "steve-miller",
       "codename": "SteveMiller"
     },
     "Jordi Costa": {
       "smashgg_name": "Jordi Costa",
+      "parrygg_slug": "jordi-costa",
       "codename": "JordiCosta"
     },
     "Loris Biaggi": {
       "smashgg_name": "Loris Biaggi",
+      "parrygg_slug": "loris-biaggi",
       "codename": "LorisBiaggi"
     },
     "Gary Scott": {
       "smashgg_name": "Gary Scott",
+      "parrygg_slug": "gary-scott",
       "codename": "GaryScott"
     },
     "Klaus Wessel": {
       "smashgg_name": "Klaus Wessel",
+      "parrygg_slug": "klaus-wessel",
       "codename": "KlausWessel"
     }
   },

@@ -4,6 +4,7 @@
   "character_to_codename": {
     "Mario": {
       "smashgg_name": "Mario",
+      "parrygg_slug": "mario",
       "codename": "00",
       "locale": {
         "ja": "\u30de\u30ea\u30aa",
@@ -68,6 +69,7 @@
     },
     "Luigi": {
       "smashgg_name": "Luigi",
+      "parrygg_slug": "luigi",
       "codename": "08",
       "locale": {
         "ja": "\u30eb\u30a4\u30fc\u30b8",
@@ -129,6 +131,7 @@
     },
     "Peach": {
       "smashgg_name": "Peach",
+      "parrygg_slug": "peach",
       "codename": "12",
       "locale": {
         "ja": "\u30d4\u30fc\u30c1",
@@ -184,6 +187,7 @@
     },
     "Bowser": {
       "smashgg_name": "Bowser",
+      "parrygg_slug": "bowser",
       "codename": "11",
       "locale": {
         "ja": "\u30af\u30c3\u30d1",
@@ -230,6 +234,7 @@
     },
     "Yoshi": {
       "smashgg_name": "Yoshi",
+      "parrygg_slug": "yoshi",
       "codename": "04",
       "locale": {
         "ja": "\u30e8\u30c3\u30b7\u30fc",
@@ -294,6 +299,7 @@
     },
     "Donkey Kong": {
       "smashgg_name": "Donkey Kong",
+      "parrygg_slug": "donkey-kong",
       "codename": "01",
       "locale": {
         "ja": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0",
@@ -367,6 +373,7 @@
     },
     "Diddy Kong": {
       "smashgg_name": "Diddy Kong",
+      "parrygg_slug": "diddy-kong",
       "codename": "26",
       "locale": {
         "ja": "\u30c7\u30a3\u30c7\u30a3\u30fc\u30b3\u30f3\u30b0",
@@ -419,6 +426,7 @@
     },
     "Link": {
       "smashgg_name": "Link",
+      "parrygg_slug": "link",
       "codename": "02",
       "locale": {
         "ja": "\u30ea\u30f3\u30af",
@@ -480,6 +488,7 @@
     },
     "Zelda": {
       "smashgg_name": "Zelda",
+      "parrygg_slug": "zelda",
       "codename": "13",
       "locale": {
         "ja": "\u30bc\u30eb\u30c0",
@@ -532,6 +541,7 @@
     },
     "Sheik": {
       "smashgg_name": "Sheik",
+      "parrygg_slug": "sheik",
       "codename": "14",
       "locale": {
         "ja": "\u30b7\u30fc\u30af",
@@ -584,6 +594,7 @@
     },
     "Ganondorf": {
       "smashgg_name": "Ganondorf",
+      "parrygg_slug": "ganondorf",
       "codename": "19",
       "locale": {
         "ja": "\u30ac\u30ce\u30f3\u30c9\u30ed\u30d5",
@@ -657,6 +668,7 @@
     },
     "Toon Link": {
       "smashgg_name": "Toon Link",
+      "parrygg_slug": "toon-link",
       "codename": "40",
       "locale": {
         "fr": "Link Cartoon",
@@ -739,6 +751,7 @@
     },
     "Samus": {
       "smashgg_name": "Samus",
+      "parrygg_slug": "samus",
       "codename": "03",
       "locale": {
         "ja": "\u30b5\u30e0\u30b9",
@@ -806,6 +819,7 @@
     },
     "Zero Suit Samus": {
       "smashgg_name": "Zero Suit Samus",
+      "parrygg_slug": "zero-suit-samus",
       "codename": "23",
       "locale": {
         "fr": "Samus sans armure",
@@ -858,6 +872,7 @@
     },
     "Kirby": {
       "smashgg_name": "Kirby",
+      "parrygg_slug": "kirby",
       "codename": "05",
       "locale": {
         "ja": "\u30ab\u30fc\u30d3\u30a3",
@@ -925,6 +940,7 @@
     },
     "Meta Knight": {
       "smashgg_name": "Meta Knight",
+      "parrygg_slug": "meta-knight",
       "codename": "21",
       "locale": {
         "ja": "\u30e1\u30bf\u30ca\u30a4\u30c8",
@@ -998,6 +1014,7 @@
     },
     "King Dedede": {
       "smashgg_name": "King Dedede",
+      "parrygg_slug": "king-dedede",
       "codename": "31",
       "locale": {
         "fr": "Roi DaDiDou",
@@ -1050,6 +1067,7 @@
     },
     "Fox": {
       "smashgg_name": "Fox",
+      "parrygg_slug": "fox",
       "codename": "06",
       "locale": {
         "ja": "\u30d5\u30a9\u30c3\u30af\u30b9",
@@ -1108,6 +1126,7 @@
     },
     "Falco": {
       "smashgg_name": "Falco",
+      "parrygg_slug": "falco",
       "codename": "18",
       "locale": {
         "ja": "\u30d5\u30a1\u30eb\u30b3",
@@ -1160,6 +1179,7 @@
     },
     "Wolf": {
       "smashgg_name": "Wolf",
+      "parrygg_slug": "wolf",
       "codename": "43",
       "locale": {
         "ja": "\u30a6\u30eb\u30d5",
@@ -1224,6 +1244,7 @@
     },
     "Pikachu": {
       "smashgg_name": "Pikachu",
+      "parrygg_slug": "pikachu",
       "codename": "07",
       "locale": {
         "ja": "\u30d4\u30ab\u30c1\u30e5\u30a6",
@@ -1265,6 +1286,7 @@
     },
     "Jigglypuff": {
       "smashgg_name": "Jigglypuff",
+      "parrygg_slug": "jigglypuff",
       "codename": "36",
       "locale": {
         "fr": "Rondoudou",
@@ -1291,6 +1313,7 @@
     },
     "Mewtwo": {
       "smashgg_name": "Mewtwo",
+      "parrygg_slug": "mewtwo",
       "codename": "27",
       "locale": {
         "ja": "\u30df\u30e5\u30a6\u30c4\u30fc",
@@ -1356,6 +1379,7 @@
     },
     "Squirtle": {
       "smashgg_name": "Squirtle",
+      "parrygg_slug": "squirtle",
       "codename": "29",
       "locale": {
         "fr": "Carapuce",
@@ -1404,6 +1428,7 @@
     },
     "Ivysaur": {
       "smashgg_name": "Ivysaur",
+      "parrygg_slug": "ivysaur",
       "codename": "30",
       "locale": {
         "fr": "Herbizarre",
@@ -1449,6 +1474,7 @@
     },
     "Charizard": {
       "smashgg_name": "Charizard",
+      "parrygg_slug": "charizard",
       "codename": "28",
       "locale": {
         "fr": "Dracaufeu",
@@ -1491,6 +1517,7 @@
     },
     "Lucario": {
       "smashgg_name": "Lucario",
+      "parrygg_slug": "lucario",
       "codename": "32",
       "locale": {
         "ja": "\u30eb\u30ab\u30ea\u30aa",
@@ -1543,6 +1570,7 @@
     },
     "Captain Falcon": {
       "smashgg_name": "Captain Falcon",
+      "parrygg_slug": "captain-falcon",
       "codename": "09",
       "locale": {
         "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30d5\u30a1\u30eb\u30b3\u30f3",
@@ -1610,6 +1638,7 @@
     },
     "Ness": {
       "smashgg_name": "Ness",
+      "parrygg_slug": "ness",
       "codename": "10",
       "locale": {
         "ja": "\u30cd\u30b9",
@@ -1665,6 +1694,7 @@
     },
     "Lucas": {
       "smashgg_name": "Lucas",
+      "parrygg_slug": "lucas",
       "codename": "25",
       "locale": {
         "ja": "\u30ea\u30e5\u30ab",
@@ -1735,6 +1765,7 @@
     },
     "Ice Climbers": {
       "smashgg_name": "Ice Climbers",
+      "parrygg_slug": "ice-climbers",
       "codename": "15",
       "locale": {
         "ja": "\u30a2\u30a4\u30b9\u30af\u30e9\u30a4\u30de\u30fc",
@@ -1787,6 +1818,7 @@
     },
     "Marth": {
       "smashgg_name": "Marth",
+      "parrygg_slug": "marth",
       "codename": "16",
       "locale": {
         "ja": "\u30de\u30eb\u30b9",
@@ -1845,6 +1877,7 @@
     },
     "Roy": {
       "smashgg_name": "Roy",
+      "parrygg_slug": "roy",
       "codename": "39",
       "locale": {
         "ja": "\u30ed\u30a4",
@@ -1906,6 +1939,7 @@
     },
     "Ike": {
       "smashgg_name": "Ike",
+      "parrygg_slug": "ike",
       "codename": "33",
       "locale": {
         "ja": "\u30a2\u30a4\u30af",
@@ -1964,6 +1998,7 @@
     },
     "Mr. Game & Watch": {
       "smashgg_name": "Mr. Game & Watch",
+      "parrygg_slug": "mr-game-watch",
       "codename": "17",
       "locale": {
         "ja": "Mr.\u30b2\u30fc\u30e0\uff06\u30a6\u30a9\u30c3\u30c1",
@@ -1998,6 +2033,7 @@
     },
     "Pit": {
       "smashgg_name": "Pit",
+      "parrygg_slug": "pit",
       "codename": "22",
       "locale": {
         "ja": "\u30d4\u30c3\u30c8",
@@ -2065,6 +2101,7 @@
     },
     "Wario": {
       "smashgg_name": "Wario",
+      "parrygg_slug": "wario",
       "codename": "37",
       "locale": {
         "ja": "\u30ef\u30ea\u30aa",
@@ -2132,6 +2169,7 @@
     },
     "Olimar": {
       "smashgg_name": "Olimar",
+      "parrygg_slug": "olimar",
       "codename": "24",
       "locale": {
         "ja": "\u30d4\u30af\u30df\u30f3&\u30aa\u30ea\u30de\u30fc",
@@ -2202,6 +2240,7 @@
     },
     "R.O.B.": {
       "smashgg_name": "ROB",
+      "parrygg_slug": "r-o-b",
       "codename": "34",
       "locale": {
         "ja": "\u30ed\u30dc\u30c3\u30c8",
@@ -2269,6 +2308,7 @@
     },
     "Snake": {
       "smashgg_name": "Snake",
+      "parrygg_slug": "snake",
       "codename": "45",
       "locale": {
         "ja": "\u30b9\u30cd\u30fc\u30af",
@@ -2321,6 +2361,7 @@
     },
     "Sonic": {
       "smashgg_name": "Sonic",
+      "parrygg_slug": "sonic",
       "codename": "46",
       "locale": {
         "ja": "\u30bd\u30cb\u30c3\u30af",
@@ -2391,6 +2432,7 @@
     },
     "Knuckles": {
       "smashgg_name": "Knuckles",
+      "parrygg_slug": "knuckles",
       "codename": "42",
       "locale": {
         "ja": "\u30ca\u30c3\u30af\u30eb\u30ba",
@@ -2446,6 +2488,7 @@
     },
     "Random": {
       "smashgg_name": "Random Character",
+      "parrygg_slug": "random",
       "codename": "50",
       "locale": {
         "fr": "Al\u00e9atoire"
@@ -2453,6 +2496,7 @@
     },
     "Giga Bowser": {
       "codename": "44",
+      "parrygg_slug": "giga-bowser",
       "locale": {
         "ja": "\u30ae\u30ac\u30af\u30c3\u30d1",
         "zh_CN": "\u5de8\u517d\u9177\u9738\u738b",
@@ -2462,6 +2506,7 @@
     },
     "Wario-Man": {
       "codename": "180",
+      "parrygg_slug": "wario-man",
       "locale": {
         "ja": "\u30ef\u30ea\u30aa\u30de\u30f3",
         "zh_CN": "\u74e6\u529b\u6b27\u8d85\u4eba",

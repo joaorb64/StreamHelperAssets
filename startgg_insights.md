@@ -42,6 +42,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## BlazBlue: Central Fiction
+- Character [Trinity Glassfille]: Character name [Trinity Glassfille] doesn't exist in StartGG
 - Character [Konoe A. Mercury] not assigned in TSH!
 ### Coverage: (36/37)
 
@@ -143,9 +144,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Kenshirō]: Character name [Kenshiro] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (27/28)
+### Coverage: (28/29)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -169,6 +169,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Granblue Fantasy Versus: Rising
+- Character [Id]: Character name [Id] doesn't exist in StartGG
 - Character [Lunalu] not assigned in TSH!
 ### Coverage: (39/40)
 
@@ -202,10 +203,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Invincible VS
-- Character [Immortal]: Character name [Immortal] doesn't exist in StartGG
-- Character [Universa]: Character name [Universa] doesn't exist in StartGG
+- Character [Angstrom Levy]: Character name [Angstrom] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (18/19)
+### Coverage: (20/21)
 
 ## Iron Saga VS
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -539,6 +539,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## 2XKO
 - Character [Akali]: Character name [Akali] doesn't exist in StartGG
 - Character [Thresh]: Character name [Thresh] doesn't exist in StartGG
+- Character [Lux]: Character name [Lux] doesn't exist in StartGG
+- Character [Samira]: Character name [Samira] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 - Character [Tresh] not assigned in TSH!
 ### Coverage: (13/15)
@@ -548,6 +550,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (18/18)
 
 ## Rivals of Aether II
+- Character [Gooie]: Character name [Gooie] doesn't exist in StartGG
+- Character [Mina]: Character name [Mina] doesn't exist in StartGG
 ### Coverage: (17/17)
 
 ## Rushdown Revolt

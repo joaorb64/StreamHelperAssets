@@ -1,0 +1,105 @@
+{
+  "name": "Portraits",
+  "description": "Character portraits",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Avatar_Legends)",
+  "version": "26.04.13.27643",
+  "rescaling_factor": {
+    "Aang": {
+      "0": 1.0
+    },
+    "Katara": {
+      "0": 2.0550161812297736
+    },
+    "Korra": {
+      "0": 1.3284518828451883
+    },
+    "Toph": {
+      "0": 1.0
+    },
+    "Zuko": {
+      "0": 1.2574257425742574
+    },
+    "Azula": {},
+    "Kyoshi": {},
+    "Ozai": {},
+    "Sokka": {},
+    "Zaheer": {},
+    "Iroh": {},
+    "TyLee": {},
+    "Lin": {},
+    "Bolin": {}
+  },
+  "eyesights": {
+    "Aang": {
+      "0": {
+        "x": 195,
+        "y": 177
+      }
+    },
+    "Katara": {
+      "0": {
+        "x": 129,
+        "y": 147
+      }
+    },
+    "Korra": {
+      "0": {
+        "x": 248,
+        "y": 201
+      }
+    },
+    "Toph": {
+      "0": {
+        "x": 212,
+        "y": 205
+      }
+    },
+    "Zuko": {
+      "0": {
+        "x": 200,
+        "y": 195
+      }
+    }
+  },
+  "image_sizes": {
+    "Aang": {
+      "0": {
+        "x": 398,
+        "y": 635
+      }
+    },
+    "Katara": {
+      "0": {
+        "x": 250,
+        "y": 309
+      }
+    },
+    "Korra": {
+      "0": {
+        "x": 398,
+        "y": 478
+      }
+    },
+    "Toph": {
+      "0": {
+        "x": 398,
+        "y": 635
+      }
+    },
+    "Zuko": {
+      "0": {
+        "x": 398,
+        "y": 505
+      }
+    }
+  },
+  "average_size": {
+    "x": 467.7866680448766,
+    "y": 635.0
+  }
+}

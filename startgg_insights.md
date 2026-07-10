@@ -70,7 +70,16 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Combo Devils
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Achilles] not assigned in TSH!
+- Character [Blaire] not assigned in TSH!
+- Character [DD] not assigned in TSH!
+- Character [Debo] not assigned in TSH!
+- Character [Ikani] not assigned in TSH!
+- Character [Jingo] not assigned in TSH!
+- Character [Lizzo] not assigned in TSH!
+- Character [Mimi] not assigned in TSH!
+- Character [Shai] not assigned in TSH!
+### Coverage: (0/9)
 
 ## Battle Craze!!
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -550,7 +559,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (18/18)
 
 ## Rivals of Aether II
-- Character [Gooie]: Character name [Gooie] doesn't exist in StartGG
+- Character [Gouie]: Character name [Gouie] doesn't exist in StartGG
 - Character [Mina]: Character name [Mina] doesn't exist in StartGG
 ### Coverage: (17/17)
 

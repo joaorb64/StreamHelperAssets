@@ -6,28 +6,36 @@
   "type": [
     "full"
   ],
-  "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Avatar_Legends)",
+  "credits": "Assets ripped from Avatar Wiki (https://breezewiki.com/avatar/wiki/Avatar_Legends:_The_Fighting_Game/Aang)",
   "version": "26.04.13.27643",
   "rescaling_factor": {
     "Aang": {
-      "0": 1.0
+      "0": 2.54
     },
+    "AangA": {},
     "Katara": {
-      "0": 2.0550161812297736
+      "0": 2.54
     },
     "Korra": {
-      "0": 1.3284518828451883
+      "0": 2.54
     },
+    "KorraA": {},
     "Toph": {
-      "0": 1.0
+      "0": 2.54
     },
     "Zuko": {
-      "0": 1.2574257425742574
+      "0": 2.54
     },
-    "Azula": {},
-    "Kyoshi": {},
+    "Azula": {
+      "0": 2.54
+    },
+    "Kyoshi": {
+      "0": 2.5813008130081303
+    },
     "Ozai": {},
-    "Sokka": {},
+    "Sokka": {
+      "0": 2.54
+    },
     "Zaheer": {},
     "Iroh": {},
     "TyLee": {},

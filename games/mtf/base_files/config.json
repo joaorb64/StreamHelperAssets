@@ -658,6 +658,9 @@
     },
     "Wonder Court": {
       "codename": "WonderCourt"
+    },
+    "Galaxy Court": {
+      "codename": "Galaxy"
     }
   },
   "variant_to_codename": {
@@ -753,6 +756,9 @@
     },
     "Boomerang Racket": {
       "codename": "BoomerangRacketV"
+    },
+    "Black Hole Racket": {
+      "codename": "BlackHoleV"
     }
   },
   "igdb_game_id": "mario-tennis-fever"

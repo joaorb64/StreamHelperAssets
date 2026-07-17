@@ -153,6 +153,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
+- Character [Rick Strowd]: Character name [Rick] doesn't exist in StartGG
+- Character [Duck King]: Character name [Duck King] doesn't exist in StartGG
+- Character [Kim Kaphwan]: Character name [Kim] doesn't exist in StartGG
+- Character [Laocorn Gaudeamus]: Character name [Laocorn] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (28/29)
 

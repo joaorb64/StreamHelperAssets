@@ -9604,14 +9604,6 @@
         "zh_TW": "\u840a\u5e0c\u62c9\u59c6",
         "it": "Reshiram",
         "es": "Reshiram"
-      },
-      "skin_name": {
-        "0": {
-          "name": "Incarnate"
-        },
-        "1": {
-          "name": "Therian"
-        }
       }
     },
     "Zekrom": {
@@ -9638,6 +9630,14 @@
         "zh_TW": "\u571f\u5730\u96f2",
         "it": "Landorus",
         "es": "Landorus"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Incarnate"
+        },
+        "1": {
+          "name": "Therian"
+        }
       }
     },
     "Kyurem": {

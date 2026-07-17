@@ -1298,6 +1298,71 @@
         "es": "Quaquaval"
       },
       "smashgg_name": "Quaquaval"
+    },
+    "Yveltal": {
+      "codename": "717",
+      "locale": {
+        "fr": "Yveltal",
+        "de": "Yveltal",
+        "ko": "\uc774\ubca8\ud0c0\ub974",
+        "ja": "\u30a4\u30d9\u30eb\u30bf\u30eb",
+        "zh_CN": "\u4f0a\u88f4\u5c14\u5854\u5c14",
+        "zh_TW": "\u4f0a\u88f4\u723e\u5854\u723e",
+        "it": "Yveltal",
+        "es": "Yveltal"
+      }
+    },
+    "Palkia": {
+      "codename": "484",
+      "locale": {
+        "fr": "Palkia",
+        "de": "Palkia",
+        "ko": "\ud384\uae30\uc544",
+        "ja": "\u30d1\u30eb\u30ad\u30a2",
+        "zh_CN": "\u5e15\u8def\u5947\u4e9a",
+        "zh_TW": "\u5e15\u8def\u5947\u4e9e",
+        "it": "Palkia",
+        "es": "Palkia"
+      }
+    },
+    "Reshiram": {
+      "codename": "643",
+      "locale": {
+        "fr": "Reshiram",
+        "de": "Reshiram",
+        "ko": "\ub808\uc2dc\ub77c\ubb34",
+        "ja": "\u30ec\u30b7\u30e9\u30e0",
+        "zh_CN": "\u83b1\u5e0c\u62c9\u59c6",
+        "zh_TW": "\u840a\u5e0c\u62c9\u59c6",
+        "it": "Reshiram",
+        "es": "Reshiram"
+      }
+    },
+    "Solgaleo": {
+      "codename": "791",
+      "locale": {
+        "fr": "Solgaleo",
+        "de": "Solgaleo",
+        "ko": "\uc194\uac00\ub808\uc624",
+        "ja": "\u30bd\u30eb\u30ac\u30ec\u30aa",
+        "zh_CN": "\u7d22\u5c14\u8fe6\u96f7\u6b27",
+        "zh_TW": "\u7d22\u723e\u8fe6\u96f7\u6b50",
+        "it": "Solgaleo",
+        "es": "Solgaleo"
+      }
+    },
+    "Toxtricity": {
+      "codename": "849",
+      "locale": {
+        "fr": "Salarsen",
+        "de": "Riffex",
+        "ko": "\uc2a4\ud2b8\ub9b0\ub354",
+        "ja": "\u30b9\u30c8\u30ea\u30f3\u30c0\u30fc",
+        "zh_CN": "\u98a4\u5f26\u877e\u8788",
+        "zh_TW": "\u986b\u5f26\u8811\u8788",
+        "it": "Toxtricity",
+        "es": "Toxtricity"
+      }
     }
   },
   "stage_to_codename": {},

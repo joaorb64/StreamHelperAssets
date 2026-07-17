@@ -15,6 +15,9 @@
         }
       }
     },
+    "Avatar State Aang": {
+      "codename": "AangA"
+    },
     "Katara": {
       "codename": "Katara",
       "skin_name": {
@@ -42,6 +45,9 @@
           "name": "Tonraq"
         }
       }
+    },
+    "Nightmare Korra": {
+      "codename": "KorraA"
     },
     "Toph": {
       "codename": "Toph",
@@ -132,7 +138,7 @@
       "codename": "Bolin"
     }
   },
-  "credits": "Placeholder images from the show",
+  "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Avatar_Legends)",
   "description": "Base config to use this game.",
   "name": "Avatar Legends: The Fighting Game",
   "smashgg_game_id": 114292,

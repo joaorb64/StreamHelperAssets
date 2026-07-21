@@ -16,7 +16,12 @@
       }
     },
     "Avatar State Aang": {
-      "codename": "AangA"
+      "codename": "AangA",
+      "skin_name": {
+        "0": {
+          "name": "Katara"
+        }
+      }
     },
     "Katara": {
       "codename": "Katara",
@@ -47,7 +52,19 @@
       }
     },
     "Nightmare Korra": {
-      "codename": "KorraA"
+      "codename": "KorraA",
+      "parrygg_slug": "nightmare-korra",
+      "skin_name": {
+        "0": {
+          "name": "Vaatu"
+        },
+        "1": {
+          "name": "Dark Spirit"
+        },
+        "2": {
+          "name": "Unalaq"
+        }
+      }
     },
     "Toph": {
       "codename": "Toph",
@@ -106,7 +123,12 @@
       }
     },
     "Ozai": {
-      "codename": "Ozai"
+      "codename": "Ozai",
+      "skin_name": {
+        "0": {
+          "name": "Sozin"
+        }
+      }
     },
     "Sokka": {
       "codename": "Sokka",
@@ -123,7 +145,18 @@
       }
     },
     "Zaheer": {
-      "codename": "Zaheer"
+      "codename": "Zaheer",
+      "skin_name": {
+        "0": {
+          "name": "P'Li"
+        },
+        "1": {
+          "name": "Ming-Hua"
+        },
+        "2": {
+          "name": "Ghazan"
+        }
+      }
     },
     "Iroh": {
       "codename": "Iroh"

@@ -1,5 +1,5 @@
 {
-  "credits": "Images ripped from the Marvel Tōkon: Fighting Souls Streamer Kit (https://www.playstation.com/en-gb/games/marvel-tokon-fighting-souls/?blog=E3KvjePWoP8OJpQ&article=4MEXLPmERPoeQ0l&slug=streamer-kit)",
+  "credits": "Images ripped from the Marvel T\u014dkon: Fighting Souls Streamer Kit (https://www.playstation.com/en-gb/games/marvel-tokon-fighting-souls/?blog=E3KvjePWoP8OJpQ&article=4MEXLPmERPoeQ0l&slug=streamer-kit)",
   "description": "Character renders",
   "eyesights": {
     "Blade": {
@@ -135,5 +135,127 @@
     "r",
     "d"
   ],
-  "version": "26.06.29.66449"
+  "version": "26.06.29.66449",
+  "image_sizes": {
+    "Blade": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "CaptainAmerica": {
+      "0": {
+        "x": 4096,
+        "y": 4927
+      }
+    },
+    "Carnage": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Danger": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Deadpool": {
+      "0": {
+        "x": 4096,
+        "y": 4928
+      }
+    },
+    "DoctorDoom": {
+      "0": {
+        "x": 4300,
+        "y": 4929
+      }
+    },
+    "GhostRider": {
+      "0": {
+        "x": 4096,
+        "y": 4928
+      }
+    },
+    "Goblin": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Hulk": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "IronMan": {
+      "0": {
+        "x": 4096,
+        "y": 4927
+      }
+    },
+    "Loki": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Magik": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Magneto": {
+      "0": {
+        "x": 4598,
+        "y": 5374
+      }
+    },
+    "MsMarvel": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Peni": {
+      "0": {
+        "x": 6500,
+        "y": 6000
+      }
+    },
+    "Shuri": {
+      "0": {
+        "x": 4096,
+        "y": 4927
+      }
+    },
+    "SpiderMan": {
+      "0": {
+        "x": 4096,
+        "y": 4928
+      }
+    },
+    "StarLord": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Storm": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Wolverine": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    }
+  }
 }

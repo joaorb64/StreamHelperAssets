@@ -187,9 +187,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (39/40)
 
 ## Guilty Gear -STRIVE-
-- Character [Robo-Ky]: Character name [Robo-Ky] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (33/34)
+### Coverage: (34/35)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)

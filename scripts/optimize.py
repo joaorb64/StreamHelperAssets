@@ -49,6 +49,7 @@ if not CURRENT_TAG or not LAST_TAG:
 print(changed_files)
 
 changes = []
+filenames = []
 
 for line in changed_files[1].splitlines():
     line = line.strip()
@@ -62,8 +63,9 @@ for line in changed_files[1].splitlines():
 
         if change in ['A', 'M']:
             changes.append(change)
+            filenames.append(filename)
 
-for i, change in enumerate(changes):
-    print(f"Optimizing [{i+1}/{len(changes)}]")
+for i, filename in enumerate(filenames):
+    print(f"Optimizing [{i+1}/{len(filenames)}]")
     run_linux_command(f"optipng {filename} -strip all")
 

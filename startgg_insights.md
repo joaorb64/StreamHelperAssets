@@ -63,6 +63,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Blazing Strike
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Brawlout
+### Coverage: (26/26)
+
 ## Breakers Revenge
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -603,12 +606,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (20/20)
 
 ## Street Fighter 6
-- Character [Yasmine]: Character name [Yasmine] doesn't exist in StartGG
 - Character [Bosch]: Character name [Bosch] doesn't exist in StartGG
 - Character [Arjun]: Character name [Arjun] doesn't exist in StartGG
 - Character [Tifa]: Character name [Tifa] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (30/31)
+### Coverage: (31/32)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -754,10 +756,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Robert "Bob" Richards]: Character name [Bob] doesn't exist in StartGG
 - Character [Roger Jr.]: Character name [Roger Jr.] doesn't exist in StartGG
 - Character [Yujiro Hanma]: Character name [Yujiro] doesn't exist in StartGG
-### Coverage: (42/42)
+### Coverage: (43/43)
 
 ## Them's Fightin' Herds
 ### Coverage: (11/11)

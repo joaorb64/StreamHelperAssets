@@ -6,152 +6,127 @@
     "King Apu": {
       "smashgg_name": "King Apu",
       "codename": "Monkey",
-      "locale": {
-      }
+      "locale": {}
     },
     "Olaf Tyson": {
       "smashgg_name": "Olaf Tyson",
       "codename": "Walrus",
-      "locale": {
-      }
+      "locale": {}
     },
     "Chief Feathers": {
       "smashgg_name": "Chief Feathers",
       "codename": "Hawk",
-      "locale": {
-      }
+      "locale": {}
     },
     "Paco": {
       "smashgg_name": "Paco",
       "codename": "Frog",
-      "locale": {
-      }
+      "locale": {}
     },
     "Volt": {
       "smashgg_name": "Volt",
       "codename": "Hedgehog",
-      "locale": {
-      }
+      "locale": {}
     },
     "Sephi'ra": {
       "smashgg_name": "Sephi'ra",
       "codename": "Cat",
-      "locale": {
-      }
+      "locale": {}
     },
     "The Drifter": {
       "smashgg_name": "The Drifter",
       "codename": "Drifter",
-      "locale": {
-      }
+      "locale": {}
     },
     "Juan": {
       "smashgg_name": "Juan",
       "codename": "Wrestler",
-      "locale": {
-      }
+      "locale": {}
     },
     "Acolyte": {
       "smashgg_name": "Acolyte",
       "codename": "Walrus_Undead",
-      "locale": {
-      }
+      "locale": {}
     },
     "Apucalypse": {
       "smashgg_name": "Apucalypse",
       "codename": "PostApu",
-      "locale": {
-      }
+      "locale": {}
     },
     "Apunaut": {
       "smashgg_name": "Apunaut",
       "codename": "Apunaut",
-      "locale": {
-      }
+      "locale": {}
     },
     "Condor X": {
       "smashgg_name": "Condor X",
       "codename": "Robohawk",
-      "locale": {
-      }
+      "locale": {}
     },
     "Natu'ra": {
       "smashgg_name": "Natu'ra",
       "codename": "Cat_Druid",
-      "locale": {
-      }
+      "locale": {}
     },
     "Nightma'ra": {
       "smashgg_name": "Nightma'ra",
       "codename": "Cat_Demon",
-      "locale": {
-      }
+      "locale": {}
     },
     "Ooga and Tooga": {
       "smashgg_name": "Ooga and Tooga",
       "codename": "Walrus_Tiki",
-      "locale": {
-      }
+      "locale": {}
     },
     "Dr. Tysonstein": {
       "smashgg_name": "Tysonstein",
       "codename": "Walrus_Frankenstein",
-      "locale": {
-      }
+      "locale": {}
     },
     "Vandal": {
       "smashgg_name": "Vandal",
       "codename": "Hedgehog_Rocker",
-      "locale": {
-      }
+      "locale": {}
     },
     "Senator Feathers": {
       "smashgg_name": "Senator Feathers",
       "codename": "AmericanEagle",
-      "locale": {
-      }
+      "locale": {}
     },
     "Mako": {
       "smashgg_name": "Mako",
       "codename": "Frog_Shark",
-      "locale": {
-      }
+      "locale": {}
     },
     "Funkmaster": {
       "smashgg_name": "Funkmaster",
       "codename": "MonkeyDisco",
-      "locale": {
-      }
+      "locale": {}
     },
     "Yooka-Laylee": {
       "smashgg_name": "Yooka-Laylee",
       "codename": "Cameo",
-      "locale": {
-      }
+      "locale": {}
     },
     "Gancho Puncho": {
       "smashgg_name": "Gancho Puncho",
       "codename": "Frog_Mex",
-      "locale": {
-      }
+      "locale": {}
     },
     "Ripjack": {
       "smashgg_name": "Ripjack",
       "codename": "Hedgehog_PostRat",
-      "locale": {
-      }
+      "locale": {}
     },
     "Sting'ra": {
       "smashgg_name": "Sting'ra",
       "codename": "Cat_Insect",
-      "locale": {
-      }
+      "locale": {}
     },
     "The Beheaded": {
       "smashgg_name": "Dead Cells",
       "codename": "DeadCells",
-      "locale": {
-      }
+      "locale": {}
     },
     "Random": {
       "smashgg_name": "Random Character",
@@ -205,10 +180,11 @@
       "codename": "NevadaSunset"
     },
     "Festive Jungle": {
-      "codename":"JungleFestive"
+      "codename": "JungleFestive"
     }
   },
   "description": "Base config to use this game.",
-  "credits":"Craig! for providing assets, Ashla for compiling and ripping additional assets",
-  "igdb_game_id": "brawlout"
+  "credits": "Craig! for providing assets, Ashla for compiling and ripping additional assets",
+  "igdb_game_id": "brawlout",
+  "version": "26.07.28.35602"
 }

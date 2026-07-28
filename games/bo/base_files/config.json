@@ -1,0 +1,213 @@
+{
+  "name": "Brawlout",
+  "smashgg_game_id": 88,
+  "challonge_game_id": 63129,
+  "character_to_codename": {
+    "King Apu": {
+      "smashgg_name": "King Apu",
+      "codename": "Monkey",
+      "locale": {
+      }
+    },
+    "Olaf Tyson": {
+      "smashgg_name": "Olaf Tyson",
+      "codename": "Walrus",
+      "locale": {
+      }
+    },
+    "Chief Feathers": {
+      "smashgg_name": "Chief Feathers",
+      "codename": "Hawk",
+      "locale": {
+      }
+    },
+    "Paco": {
+      "smashgg_name": "Paco",
+      "codename": "Frog",
+      "locale": {
+      }
+    },
+    "Volt": {
+      "smashgg_name": "Volt",
+      "codename": "Hedgehog",
+      "locale": {
+      }
+    },
+    "Sephi'ra": {
+      "smashgg_name": "Sephi'ra",
+      "codename": "Cat",
+      "locale": {
+      }
+    },
+    "The Drifter": {
+      "smashgg_name": "The Drifter",
+      "codename": "Drifter",
+      "locale": {
+      }
+    },
+    "Juan": {
+      "smashgg_name": "Juan",
+      "codename": "Wrestler",
+      "locale": {
+      }
+    },
+    "Acolyte": {
+      "smashgg_name": "Acolyte",
+      "codename": "Walrus_Undead",
+      "locale": {
+      }
+    },
+    "Apucalypse": {
+      "smashgg_name": "Apucalypse",
+      "codename": "PostApu",
+      "locale": {
+      }
+    },
+    "Apunaut": {
+      "smashgg_name": "Apunaut",
+      "codename": "Apunaut",
+      "locale": {
+      }
+    },
+    "Condor X": {
+      "smashgg_name": "Condor X",
+      "codename": "Robohawk",
+      "locale": {
+      }
+    },
+    "Natu'ra": {
+      "smashgg_name": "Natu'ra",
+      "codename": "Cat_Druid",
+      "locale": {
+      }
+    },
+    "Nightma'ra": {
+      "smashgg_name": "Nightma'ra",
+      "codename": "Cat_Demon",
+      "locale": {
+      }
+    },
+    "Ooga and Tooga": {
+      "smashgg_name": "Ooga and Tooga",
+      "codename": "Walrus_Tiki",
+      "locale": {
+      }
+    },
+    "Dr. Tysonstein": {
+      "smashgg_name": "Tysonstein",
+      "codename": "Walrus_Frankenstein",
+      "locale": {
+      }
+    },
+    "Vandal": {
+      "smashgg_name": "Vandal",
+      "codename": "Hedgehog_Rocker",
+      "locale": {
+      }
+    },
+    "Senator Feathers": {
+      "smashgg_name": "Senator Feathers",
+      "codename": "AmericanEagle",
+      "locale": {
+      }
+    },
+    "Mako": {
+      "smashgg_name": "Mako",
+      "codename": "Frog_Shark",
+      "locale": {
+      }
+    },
+    "Funkmaster": {
+      "smashgg_name": "Funkmaster",
+      "codename": "MonkeyDisco",
+      "locale": {
+      }
+    },
+    "Yooka-Laylee": {
+      "smashgg_name": "Yooka-Laylee",
+      "codename": "Cameo",
+      "locale": {
+      }
+    },
+    "Gancho Puncho": {
+      "smashgg_name": "Gancho Puncho",
+      "codename": "Frog_Mex",
+      "locale": {
+      }
+    },
+    "Ripjack": {
+      "smashgg_name": "Ripjack",
+      "codename": "Hedgehog_PostRat",
+      "locale": {
+      }
+    },
+    "Sting'ra": {
+      "smashgg_name": "Sting'ra",
+      "codename": "Cat_Insect",
+      "locale": {
+      }
+    },
+    "The Beheaded": {
+      "smashgg_name": "Dead Cells",
+      "codename": "DeadCells",
+      "locale": {
+      }
+    },
+    "Random": {
+      "smashgg_name": "Random Character",
+      "codename": "Random"
+    }
+  },
+  "stage_to_codename": {
+    "Forgotten Temple": {
+      "codename": "Aztec"
+    },
+    "Tribalstack Tropics": {
+      "codename": "Cameo"
+    },
+    "Prisoners Quarters": {
+      "codename": "DeadCells"
+    },
+    "Oasis Palace": {
+      "codename": "Egypt"
+    },
+    "Fire Temple": {
+      "codename": "FireTemple"
+    },
+    "Golden City": {
+      "codename": "Hindu"
+    },
+    "Stormy City": {
+      "codename": "HinduRain"
+    },
+    "Shivering Coast": {
+      "codename": "IceCave"
+    },
+    "Raging Glacier": {
+      "codename": "IceFlatNight"
+    },
+    "Iceburg Cliffs": {
+      "codename": "IceFlat"
+    },
+    "Jungle Treetop": {
+      "codename": "Jungle"
+    },
+    "Blazing Jungle": {
+      "codename": "JungleBurning"
+    },
+    "Moonlight Jungle": {
+      "codename": "JungleNight"
+    },
+    "The Eyrie": {
+      "codename": "Nevada_Small"
+    },
+    "Sunset Eyrie": {
+      "codename": "NevadaSunset"
+    },
+    "Festive Jungle": {
+      "codename":"JungleFestive"
+    }
+  },
+  "description": "Base config to use this game.",
+  "credits":"Craig! for providing assets, Ashla for compiling and ripping additional assets"
+}

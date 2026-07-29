@@ -615,7 +615,7 @@
   "description": "Base config to use this game.",
   "name": "Mario Tennis Fever",
   "smashgg_game_id": 114741,
-  "version": "26.05.17.64307",
+  "version": "26.07.25.12547",
   "stage_to_codename": {
     "Stadium Court (Grass)": {
       "codename": "StadiumCourtGrass"
@@ -658,6 +658,9 @@
     },
     "Wonder Court": {
       "codename": "WonderCourt"
+    },
+    "Galaxy Court": {
+      "codename": "Galaxy"
     }
   },
   "variant_to_codename": {
@@ -753,6 +756,9 @@
     },
     "Boomerang Racket": {
       "codename": "BoomerangRacketV"
+    },
+    "Black Hole Racket": {
+      "codename": "BlackHoleV"
     }
   },
   "igdb_game_id": "mario-tennis-fever"

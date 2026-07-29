@@ -63,6 +63,18 @@
     },
     "Carnage": {
       "codename": "Carnage"
+    },
+    "Loki": {
+      "codename": "Loki"
+    },
+    "Blade": {
+      "codename": "Blade"
+    },
+    "Deadpool": {
+      "codename": "Deadpool"
+    },
+    "Phoenix Cyclops": {
+      "codename": "Cyclops"
     }
   },
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
@@ -99,9 +111,12 @@
     },
     "Wakanda": {
       "codename": "Wakanda"
+    },
+    "Asgard": {
+      "codename": "Asgard"
     }
   },
-  "version": "26.06.13.65125",
+  "version": "26.07.25.12547",
   "igdb_game_id": "marvel-tokon-fighting-souls",
   "locale": {
     "ja": {

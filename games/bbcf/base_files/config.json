@@ -146,10 +146,14 @@
     "\u03bd-No.13-": {
       "codename": "Nu13",
       "smashgg_name": "\u03bd-No.13- [Nu -No. 13-]"
+    },
+    "Trinity Glassfille": {
+      "codename": "Trinity",
+      "smashgg_name": "Trinity Glassfille"
     }
   },
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.07.25.12547",
   "description": "Base config to use this game.",
   "credits": "Files ripped from Dustloop Wiki",
   "locale": {

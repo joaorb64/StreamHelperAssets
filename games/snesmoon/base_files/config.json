@@ -2,31 +2,40 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Sailor Chibi Moon": {
-      "codename": "SailorChibiMoon"
+      "codename": "SailorChibiMoon",
+      "parrygg_slug": "chibi-moon"
     },
     "Sailor Jupiter": {
-      "codename": "SailorJupiter"
+      "codename": "SailorJupiter",
+      "parrygg_slug": "jupiter"
     },
     "Sailor Mars": {
-      "codename": "SailorMars"
+      "codename": "SailorMars",
+      "parrygg_slug": "mars"
     },
     "Sailor Mercury": {
-      "codename": "SailorMercury"
+      "codename": "SailorMercury",
+      "parrygg_slug": "mercury"
     },
     "Sailor Moon": {
-      "codename": "SailorMoon"
+      "codename": "SailorMoon",
+      "parrygg_slug": "moon"
     },
     "Sailor Neptune": {
-      "codename": "SailorNeptune"
+      "codename": "SailorNeptune",
+      "parrygg_slug": "neptune"
     },
     "Sailor Pluto": {
-      "codename": "SailorPluto"
+      "codename": "SailorPluto",
+      "parrygg_slug": "pluto"
     },
     "Sailor Uranus": {
-      "codename": "SailorUranus"
+      "codename": "SailorUranus",
+      "parrygg_slug": "uranus"
     },
     "Sailor Venus": {
-      "codename": "SailorVenus"
+      "codename": "SailorVenus",
+      "parrygg_slug": "venus"
     }
   },
   "credits": "",
@@ -39,6 +48,6 @@
   },
   "smashgg_game_id": 16904,
   "stage_to_codename": {},
-  "version": "26.05.02.40426",
+  "version": "26.06.24.64582",
   "igdb_game_id": "bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen"
 }

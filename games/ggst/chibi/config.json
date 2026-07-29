@@ -7,7 +7,7 @@
     "chibi"
   ],
   "credits": "\u00a9 ARC SYSTEM WORKS\n\nGuilty Gear -Strive- Official Site: https://www.guiltygear.com/ggst/en/\nGuilty Gear -Strive- Fan Kit: https://www.guiltygear.com/ggst/en/fankit/\nThe rights to the data included within are held by Arc System Works.",
-  "version": "26.04.13.27643",
+  "version": "26.07.25.12547",
   "eyesights": {
     "Anji": {
       "0": {
@@ -206,6 +206,12 @@
         "x": 2273,
         "y": 2013
       }
+    },
+    "Robo": {
+      "0": {
+        "x": 724,
+        "y": 843
+      }
     }
   },
   "uncropped_edge": [
@@ -215,8 +221,8 @@
     "r"
   ],
   "average_size": {
-    "x": 1050.4848485454545,
-    "y": 1126.6666667272727
+    "x": 1066.647058882353,
+    "y": 1140.5882353529412
   },
   "rescaling_factor": {
     "Unika": {
@@ -381,6 +387,12 @@
       "0": {
         "x": 931,
         "y": 1189
+      }
+    },
+    "Robo": {
+      "0": {
+        "x": 1600,
+        "y": 1600
       }
     },
     "Sin": {

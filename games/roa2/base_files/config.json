@@ -11,6 +11,7 @@
     "Kragg": {
       "codename": "Kragg",
       "smashgg_name": "Kragg",
+      "parrygg_slug": "kragg",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -287,6 +288,7 @@
     "Ranno": {
       "codename": "Ranno",
       "smashgg_name": "Ranno",
+      "parrygg_slug": "ranno",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -596,6 +598,7 @@
     "Wrastor": {
       "codename": "Wrastor",
       "smashgg_name": "Wrastor",
+      "parrygg_slug": "wrastor",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -845,6 +848,7 @@
     "Zetterburn": {
       "codename": "Zetterburn",
       "smashgg_name": "Zetterburn",
+      "parrygg_slug": "zetterburn",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -1124,6 +1128,7 @@
     "Fleet": {
       "codename": "Fleet",
       "smashgg_name": "Fleet",
+      "parrygg_slug": "fleet",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -1391,6 +1396,7 @@
     "Maypul": {
       "codename": "Maypul",
       "smashgg_name": "Maypul",
+      "parrygg_slug": "maypul",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -1631,12 +1637,28 @@
         },
         "79": {
           "name": "Abyss - Midnight"
+        },
+        "80": {
+          "name": "Plup"
+        },
+        "81": {
+          "name": "Plup - Blue"
+        },
+        "82": {
+          "name": "Plup - Red"
+        },
+        "83": {
+          "name": "Plup - Green"
+        },
+        "84": {
+          "name": "Plup - Vintage"
         }
       }
     },
     "Clairen": {
       "codename": "Clairen",
       "smashgg_name": "Clairen",
+      "parrygg_slug": "clairen",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -1934,6 +1956,7 @@
     "Loxodont": {
       "codename": "Loxodont",
       "smashgg_name": "Loxodont",
+      "parrygg_slug": "loxodont",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -2189,6 +2212,7 @@
     "La Reina": {
       "codename": "Reina",
       "smashgg_name": "La Reina",
+      "parrygg_slug": "la-reina",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -2339,12 +2363,16 @@
         },
         "49": {
           "name": "Pajama - Siesta"
+        },
+        "50": {
+          "name": "Default - Toma"
         }
       }
     },
     "Orcane": {
       "codename": "Orcane",
       "smashgg_name": "Orcane",
+      "parrygg_slug": "orcane",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -2591,12 +2619,25 @@
         },
         "81": {
           "name": "Pool Party - Red"
+        },
+        "82": {
+          "name": "Last Stock"
+        },
+        "83": {
+          "name": "Last Stock - Blue"
+        },
+        "84": {
+          "name": "Last Stock - Red"
+        },
+        "85": {
+          "name": "Last Stock - Green"
         }
       }
     },
     "Forsburn": {
       "codename": "Forsburn",
       "smashgg_name": "Forsburn",
+      "parrygg_slug": "forsburn",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -2840,6 +2881,7 @@
     "Etalus": {
       "codename": "Etalus",
       "smashgg_name": "Etalus",
+      "parrygg_slug": "etalus",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -3047,6 +3089,7 @@
     "Olympia": {
       "codename": "Olympia",
       "smashgg_name": "Olympia",
+      "parrygg_slug": "olympia",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -3260,6 +3303,7 @@
     "Absa": {
       "codename": "Absa",
       "smashgg_name": "Absa",
+      "parrygg_slug": "absa",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -3473,6 +3517,7 @@
     "Galvan": {
       "codename": "Galvan",
       "smashgg_name": "Galvan",
+      "parrygg_slug": "galvan",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -3626,6 +3671,7 @@
     "Slade": {
       "codename": "Slade",
       "smashgg_name": "Slade",
+      "parrygg_slug": "slade",
       "skin_name": {
         "0": {
           "name": "Default"
@@ -3733,106 +3779,130 @@
           "name": "Pool Party - Red"
         }
       }
+    },
+    "Gouie": {
+      "codename": "Gooie",
+      "smashgg_name": "Gouie"
+    },
+    "Mina": {
+      "codename": "Mina",
+      "smashgg_name": "Mina"
     }
   },
   "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "26.06.03.57720",
+  "version": "26.07.25.12547",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest",
+      "parrygg_slug": "aetherian-forest",
       "locale": {
         "fr": "For\u00eat Aeth\u00e9rienne"
       }
     },
     "Forest Understory": {
       "codename": "ForestDoubles",
+      "parrygg_slug": "forest-doubles",
       "locale": {
         "fr": "Sous-Bois"
       }
     },
     "Air Armada": {
       "codename": "AirArmada",
+      "parrygg_slug": "air-armada",
       "locale": {
         "fr": "Armada A\u00e9rienne"
       }
     },
     "Fire Capital": {
       "codename": "FireCapital",
+      "parrygg_slug": "fire-capital",
       "locale": {
         "fr": "Capitale du Feu"
       }
     },
     "Hodojo": {
       "codename": "Hodojo",
+      "parrygg_slug": "hodojo",
       "locale": {
         "fr": "Hodojo"
       }
     },
     "Julesvale": {
       "codename": "Julesvale",
+      "parrygg_slug": "julesvale",
       "locale": {
         "fr": "Julesvale"
       }
     },
     "Rock Wall": {
       "codename": "RockWall",
+      "parrygg_slug": "rock-wall",
       "locale": {
         "fr": "Mur Rocheux"
       }
     },
     "Tempest Peak": {
       "codename": "TempestPeak",
+      "parrygg_slug": "tempest-peak",
       "locale": {
         "fr": "Pic de la Temp\u00eate"
       }
     },
     "Stormswept Pillar": {
       "codename": "TempestDoubles",
+      "parrygg_slug": "tempest-doubles",
       "locale": {
         "fr": "Pilier de la Temp\u00eate"
       }
     },
     "Merchant Port": {
       "codename": "MerchantPort",
+      "parrygg_slug": "merchant-port",
       "locale": {
         "fr": "Port Marchand"
       }
     },
     "Godai Delta": {
       "codename": "GodaiDelta",
+      "parrygg_slug": "godai-delta",
       "locale": {
         "fr": "Delta de Godai"
       }
     },
     "Hyperborean Harbor": {
       "codename": "HyperboreanHarbor",
+      "parrygg_slug": "hyperborean-harbor",
       "locale": {
         "fr": "Port Hyperbor\u00e9en"
       }
     },
     "Crystal Oasis": {
       "codename": "CrystalOasis",
+      "parrygg_slug": "crystal-oasis",
       "locale": {
         "fr": "Oasis de Cristal"
       }
     },
     "Training Room": {
       "codename": "Training",
+      "parrygg_slug": "training",
       "locale": {
         "fr": "Salle d'Entra\u00eenement"
       }
     },
     "Metal Graveyard": {
       "codename": "Graveyard",
+      "parrygg_slug": "graveyard",
       "locale": {
         "fr": "Cimeti\u00e8re de M\u00e9tal"
       }
     },
     "Low Poly Fire Capital": {
       "codename": "LowPoly",
+      "parrygg_slug": "low-poly",
       "locale": {
         "fr": "Capitale du Feu Polygonale"
       }
@@ -3875,6 +3945,7 @@
     },
     "Metal Refinery": {
       "codename": "MetalFun",
+      "parrygg_slug": "metal-refinery",
       "locale": {
         "fr": "Raffinerie de M\u00e9taux"
       }
@@ -3911,6 +3982,7 @@
     },
     "Armada Flagship": {
       "codename": "ArmadaAlt",
+      "parrygg_slug": "armada-flagship",
       "locale": {
         "fr": "Fleuron de l'Armada"
       }

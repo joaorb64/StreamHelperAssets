@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "Files ripped from Dustloop Wiki (https://www.dustloop.com/w/BBCF)",
-  "version": "25.05.29.53856",
+  "version": "26.07.24.77051",
   "uncropped_edge": [
     "u",
     "d",
@@ -247,8 +247,8 @@
     }
   },
   "average_size": {
-    "x": 732.1588355304457,
-    "y": 1028.0777777777778
+    "x": 731.4788670025958,
+    "y": 1027.9405405405407
   },
   "image_sizes": {
     "AmaneNishiki": {
@@ -447,6 +447,12 @@
       "0": {
         "x": 730,
         "y": 949
+      }
+    },
+    "Trinity": {
+      "0": {
+        "x": 707,
+        "y": 1023
       }
     },
     "TsubakiYayoi": {

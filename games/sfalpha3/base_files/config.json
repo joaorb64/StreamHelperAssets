@@ -4,88 +4,116 @@
   "challonge_game_id": 1226,
   "character_to_codename": {
     "Adon": {
-      "codename": "adon"
+      "codename": "adon",
+      "parrygg_slug": "adon"
     },
     "Akuma": {
-      "codename": "gouki"
+      "codename": "gouki",
+      "parrygg_slug": "akuma"
     },
     "Birdie": {
-      "codename": "birdie"
+      "codename": "birdie",
+      "parrygg_slug": "birdie"
     },
     "Charlie Nash": {
-      "codename": "nash"
+      "codename": "nash",
+      "parrygg_slug": "charlie-nash"
     },
     "Chun-Li": {
-      "codename": "chunli"
+      "codename": "chunli",
+      "parrygg_slug": "chun-li"
     },
     "Dan": {
-      "codename": "dan"
+      "codename": "dan",
+      "parrygg_slug": "dan"
     },
     "Dhalsim": {
-      "codename": "dhalsim"
+      "codename": "dhalsim",
+      "parrygg_slug": "dhalsim"
     },
     "Gen": {
-      "codename": "gen"
+      "codename": "gen",
+      "parrygg_slug": "gen"
     },
     "Guy": {
-      "codename": "guy"
+      "codename": "guy",
+      "parrygg_slug": "guy"
     },
     "Ken": {
-      "codename": "ken"
+      "codename": "ken",
+      "parrygg_slug": "ken"
     },
     "M. Bison": {
-      "codename": "vega"
+      "codename": "vega",
+      "parrygg_slug": "m-bison"
     },
     "Rolento": {
-      "codename": "rolento"
+      "codename": "rolento",
+      "parrygg_slug": "rolento"
     },
     "Rose": {
-      "codename": "rose"
+      "codename": "rose",
+      "parrygg_slug": "rose"
     },
     "Ryu": {
-      "codename": "ryu"
+      "codename": "ryu",
+      "parrygg_slug": "ryu"
     },
     "Sagat": {
-      "codename": "sagat"
+      "codename": "sagat",
+      "parrygg_slug": "sagat"
     },
     "Sakura": {
-      "codename": "sakura"
+      "codename": "sakura",
+      "parrygg_slug": "sakura"
     },
     "Sodom": {
-      "codename": "sodom"
+      "codename": "sodom",
+      "parrygg_slug": "sodom"
     },
     "Zangief": {
-      "codename": "zangief"
+      "codename": "zangief",
+      "parrygg_slug": "zangief"
     },
     "Balrog": {
-      "codename": "mbison"
+      "codename": "mbison",
+      "parrygg_slug": "balrog"
     },
     "Blanka": {
-      "codename": "blanka"
+      "codename": "blanka",
+      "parrygg_slug": "blanka"
     },
     "Cammy": {
-      "codename": "cammy"
+      "codename": "cammy",
+      "parrygg_slug": "cammy"
     },
     "Cody": {
-      "codename": "cody"
+      "codename": "cody",
+      "parrygg_slug": "cody"
     },
     "E. Honda": {
-      "codename": "ehonda"
+      "codename": "ehonda",
+      "parrygg_slug": "e-honda"
     },
     "Juli": {
-      "codename": "juli"
+      "codename": "juli",
+      "parrygg_slug": "juli"
     },
     "Juni": {
-      "codename": "juni"
+      "codename": "juni",
+      "parrygg_slug": "juni"
     },
     "Karin": {
-      "codename": "karin"
+      "codename": "karin",
+      "parrygg_slug": "karin"
     },
     "R. Mika": {
-      "codename": "rmika"
+      "codename": "rmika",
+      "parrygg_slug": "r-mika"
     },
     "Vega": {
-      "codename": "balrog"
+      "codename": "balrog",
+      "parrygg_slug": "vega"
     },
     "Dee Jay": {
       "codename": "deejay"
@@ -116,7 +144,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.06.14.72947",
+  "version": "26.07.25.12547",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {

@@ -5,203 +5,253 @@
   "character_to_codename": {
     "Captain America": {
       "codename": "CapAmerica",
-      "smashgg_name": "Captain America"
+      "smashgg_name": "Captain America",
+      "parrygg_slug": "captain-america"
     },
     "Deadpool": {
       "codename": "DeadPool",
-      "smashgg_name": "Deadpool"
+      "smashgg_name": "Deadpool",
+      "parrygg_slug": "deadpool"
     },
     "Doctor Doom": {
       "codename": "DrDoom",
-      "smashgg_name": "Doctor Doom"
+      "smashgg_name": "Doctor Doom",
+      "parrygg_slug": "doctor-doom"
     },
     "Doctor Strange": {
       "codename": "DrStrange",
-      "smashgg_name": "Doctor Strange"
+      "smashgg_name": "Doctor Strange",
+      "parrygg_slug": "doctor-strange"
     },
     "Dormammu": {
       "codename": "Dormammu",
-      "smashgg_name": "Dormammu"
+      "smashgg_name": "Dormammu",
+      "parrygg_slug": "dormammu"
     },
     "Ghost Rider": {
       "codename": "GhostRider",
-      "smashgg_name": "Ghost Rider"
+      "smashgg_name": "Ghost Rider",
+      "parrygg_slug": "ghost-rider"
     },
     "Hawkeye": {
       "codename": "HawkEye",
-      "smashgg_name": "Hawkeye"
+      "smashgg_name": "Hawkeye",
+      "parrygg_slug": "hawkeye"
     },
     "Hulk": {
       "codename": "Hulk",
-      "smashgg_name": "Hulk"
+      "smashgg_name": "Hulk",
+      "parrygg_slug": "hulk"
     },
     "Iron Fist": {
       "codename": "IronFist",
-      "smashgg_name": "Iron Fist"
+      "smashgg_name": "Iron Fist",
+      "parrygg_slug": "iron-fist"
     },
     "Iron Man": {
       "codename": "IronMan",
-      "smashgg_name": "Iron Man"
+      "smashgg_name": "Iron Man",
+      "parrygg_slug": "iron-man"
     },
     "Magneto": {
       "codename": "Magneto",
-      "smashgg_name": "Magneto"
+      "smashgg_name": "Magneto",
+      "parrygg_slug": "magneto"
     },
     "MODOK": {
       "codename": "Modok",
-      "smashgg_name": "Modok"
+      "smashgg_name": "Modok",
+      "parrygg_slug": "modok"
     },
     "Nova": {
       "codename": "Nova",
-      "smashgg_name": "Nova"
+      "smashgg_name": "Nova",
+      "parrygg_slug": "nova"
     },
     "Phoenix": {
       "codename": "Phoenix",
-      "smashgg_name": "Phoenix"
+      "smashgg_name": "Phoenix",
+      "parrygg_slug": "phoenix"
     },
     "Rocket Raccoon": {
       "codename": "RRaccoon",
-      "smashgg_name": "Rocket Raccoon"
+      "smashgg_name": "Rocket Raccoon",
+      "parrygg_slug": "rocket-raccoon"
     },
     "Sentinel": {
       "codename": "Sentinel",
-      "smashgg_name": "Sentinel"
+      "smashgg_name": "Sentinel",
+      "parrygg_slug": "sentinel"
     },
     "She-Hulk": {
       "codename": "SheHulk",
-      "smashgg_name": "She-Hulk"
+      "smashgg_name": "She-Hulk",
+      "parrygg_slug": "she-hulk"
     },
     "Shuma-Gorath": {
       "codename": "Shuma",
-      "smashgg_name": "Shuma-Gorath"
+      "smashgg_name": "Shuma-Gorath",
+      "parrygg_slug": "shuma-gorath"
     },
     "Spider-Man": {
       "codename": "SpiderMan",
-      "smashgg_name": "Spider-Man"
+      "smashgg_name": "Spider-Man",
+      "parrygg_slug": "spider-man"
     },
     "Storm": {
       "codename": "Storm",
-      "smashgg_name": "Storm"
+      "smashgg_name": "Storm",
+      "parrygg_slug": "storm"
     },
     "Super-Skrull": {
       "codename": "SuperSkrull",
-      "smashgg_name": "Super-Skrull"
+      "smashgg_name": "Super-Skrull",
+      "parrygg_slug": "super-skrull"
     },
     "Taskmaster": {
       "codename": "TaskMaster",
-      "smashgg_name": "Taskmaster"
+      "smashgg_name": "Taskmaster",
+      "parrygg_slug": "taskmaster"
     },
     "Thor": {
       "codename": "Thor",
-      "smashgg_name": "Thor"
+      "smashgg_name": "Thor",
+      "parrygg_slug": "thor"
     },
     "Wolverine": {
       "codename": "Wolverine",
-      "smashgg_name": "Wolverine"
+      "smashgg_name": "Wolverine",
+      "parrygg_slug": "wolverine"
     },
     "X-23": {
       "codename": "X23",
-      "smashgg_name": "X-23"
+      "smashgg_name": "X-23",
+      "parrygg_slug": "x-23"
     },
     "Akuma": {
       "codename": "Gouki",
-      "smashgg_name": "Akuma"
+      "smashgg_name": "Akuma",
+      "parrygg_slug": "akuma"
     },
     "Albert Wesker": {
       "codename": "Wesker",
-      "smashgg_name": "Wesker"
+      "smashgg_name": "Wesker",
+      "parrygg_slug": "albert-wesker"
     },
     "Amaterasu": {
       "codename": "Amaterasu",
-      "smashgg_name": "Amaterasu"
+      "smashgg_name": "Amaterasu",
+      "parrygg_slug": "amaterasu"
     },
     "Arthur": {
       "codename": "Arthur",
-      "smashgg_name": "Arthur"
+      "smashgg_name": "Arthur",
+      "parrygg_slug": "arthur"
     },
     "Chris Redfield": {
       "codename": "Chris",
-      "smashgg_name": "Chris"
+      "smashgg_name": "Chris",
+      "parrygg_slug": "chris-redfield"
     },
     "Chun-Li": {
       "codename": "Chunli",
-      "smashgg_name": "Chun-Li"
+      "smashgg_name": "Chun-Li",
+      "parrygg_slug": "chun-li"
     },
     "Crimson Viper": {
       "codename": "CViper",
-      "smashgg_name": "Viper"
+      "smashgg_name": "Viper",
+      "parrygg_slug": "crimson-viper"
     },
     "Dante": {
       "codename": "Dante",
-      "smashgg_name": "Dante"
+      "smashgg_name": "Dante",
+      "parrygg_slug": "dante"
     },
     "Felicia": {
       "codename": "Felicia",
-      "smashgg_name": "Felicia"
+      "smashgg_name": "Felicia",
+      "parrygg_slug": "felicia"
     },
     "Firebrand": {
       "codename": "RedArremer",
-      "smashgg_name": "Firebrand"
+      "smashgg_name": "Firebrand",
+      "parrygg_slug": "firebrand"
     },
     "Frank West": {
       "codename": "Frank",
-      "smashgg_name": "Frank"
+      "smashgg_name": "Frank",
+      "parrygg_slug": "frank-west"
     },
     "Hsien-Ko": {
       "codename": "Leilei",
-      "smashgg_name": "Hsien-Ko"
+      "smashgg_name": "Hsien-Ko",
+      "parrygg_slug": "hsien-ko"
     },
     "Jill Valentine": {
       "codename": "Jill",
-      "smashgg_name": "Jill"
+      "smashgg_name": "Jill",
+      "parrygg_slug": "jill-valentine"
     },
     "Mike Haggar": {
       "codename": "Haggar",
-      "smashgg_name": "Haggar"
+      "smashgg_name": "Haggar",
+      "parrygg_slug": "mike-haggar"
     },
     "Morrigan Aensland": {
       "codename": "Morrigan",
-      "smashgg_name": "Morrigan"
+      "smashgg_name": "Morrigan",
+      "parrygg_slug": "morrigan-aensland"
     },
     "Nathan Spencer": {
       "codename": "Spencer",
-      "smashgg_name": "Spencer"
+      "smashgg_name": "Spencer",
+      "parrygg_slug": "nathan-spencer"
     },
     "Nemesis T-Type": {
       "codename": "Nemesis",
-      "smashgg_name": "Nemesis"
+      "smashgg_name": "Nemesis",
+      "parrygg_slug": "nemesis-t-type"
     },
     "Phoenix Wright": {
       "codename": "Naruhodo",
-      "smashgg_name": "Phoenix Wright"
+      "smashgg_name": "Phoenix Wright",
+      "parrygg_slug": "phoenix-wright"
     },
     "Ryu": {
       "codename": "Ryu",
-      "smashgg_name": "Ryu"
+      "smashgg_name": "Ryu",
+      "parrygg_slug": "ryu"
     },
     "Strider Hiryu": {
       "codename": "Hiryu",
-      "smashgg_name": "Strider Hiryu"
+      "smashgg_name": "Strider Hiryu",
+      "parrygg_slug": "strider-hiryu"
     },
     "Trish": {
       "codename": "Trish",
-      "smashgg_name": "Trish"
+      "smashgg_name": "Trish",
+      "parrygg_slug": "trish"
     },
     "Tron Bonne": {
       "codename": "Tron",
-      "smashgg_name": "Tron"
+      "smashgg_name": "Tron",
+      "parrygg_slug": "tron-bonne"
     },
     "Vergil": {
       "codename": "Vergil",
-      "smashgg_name": "Vergil"
+      "smashgg_name": "Vergil",
+      "parrygg_slug": "vergil"
     },
     "Viewtiful Joe": {
       "codename": "VJoe",
-      "smashgg_name": "Viewtiful Joe"
+      "smashgg_name": "Viewtiful Joe",
+      "parrygg_slug": "viewtiful-joe"
     },
     "Zero": {
       "codename": "Zero",
-      "smashgg_name": "Zero"
+      "smashgg_name": "Zero",
+      "parrygg_slug": "zero"
     },
     "Asura": {
       "codename": "Asuraan",
@@ -727,10 +777,66 @@
       "igdb_playable_list": [
         "ultimate-marvel-vs-capcom-3-community-edition"
       ]
+    },
+    "8-Ball": {
+      "codename": "EightBall",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Hideo Shimazu": {
+      "codename": "Hideo",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Juggernaut": {
+      "codename": "Jugs",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Kyoko Minazuki": {
+      "codename": "Kyoko",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Magma Dragoon": {
+      "codename": "MaDra",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Oni": {
+      "codename": "OniHN",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Prowler": {
+      "codename": "Prowler",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Sean": {
+      "codename": "Sea",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
     }
   },
   "stage_to_codename": {},
-  "version": "26.06.16.67760",
+  "version": "26.07.26.76249",
   "description": "Base config to use this game.\nIncludes modded characters and costumes from UMVC3 Community Edition (https://www.nexusmods.com/ultimatemarvelvscapcom3/mods/286)",
   "credits": "",
   "defaults": {

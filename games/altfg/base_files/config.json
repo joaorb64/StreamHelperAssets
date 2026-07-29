@@ -15,6 +15,20 @@
         }
       }
     },
+    "Avatar State Aang": {
+      "codename": "AangA",
+      "skin_name": {
+        "0": {
+          "name": "Katara"
+        },
+        "1": {
+          "name": "Roku"
+        },
+        "2": {
+          "name": "Guru Pathik"
+        }
+      }
+    },
     "Katara": {
       "codename": "Katara",
       "skin_name": {
@@ -40,6 +54,21 @@
         },
         "2": {
           "name": "Tonraq"
+        }
+      }
+    },
+    "Nightmare Korra": {
+      "codename": "KorraA",
+      "parrygg_slug": "nightmare-korra",
+      "skin_name": {
+        "0": {
+          "name": "Vaatu"
+        },
+        "1": {
+          "name": "Dark Spirit"
+        },
+        "2": {
+          "name": "Unalaq"
         }
       }
     },
@@ -100,7 +129,18 @@
       }
     },
     "Ozai": {
-      "codename": "Ozai"
+      "codename": "Ozai",
+      "skin_name": {
+        "0": {
+          "name": "Sozin"
+        },
+        "1": {
+          "name": "Zhao"
+        },
+        "2": {
+          "name": "Fire Nation Soldier"
+        }
+      }
     },
     "Sokka": {
       "codename": "Sokka",
@@ -117,14 +157,37 @@
       }
     },
     "Zaheer": {
-      "codename": "Zaheer"
+      "codename": "Zaheer",
+      "skin_name": {
+        "0": {
+          "name": "P'Li"
+        },
+        "1": {
+          "name": "Ming-Hua"
+        },
+        "2": {
+          "name": "Ghazan"
+        }
+      }
+    },
+    "Iroh": {
+      "codename": "Iroh"
+    },
+    "Ty Lee": {
+      "codename": "TyLee"
+    },
+    "Lin": {
+      "codename": "Lin"
+    },
+    "Bolin": {
+      "codename": "Bolin"
     }
   },
-  "credits": "Placeholder images from the show",
+  "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Avatar_Legends)",
   "description": "Base config to use this game.",
   "name": "Avatar Legends: The Fighting Game",
   "smashgg_game_id": 114292,
   "stage_to_codename": {},
-  "version": "26.06.06.76750",
+  "version": "26.07.25.12547",
   "igdb_game_id": "avatar-legends-the-fighting-game"
 }

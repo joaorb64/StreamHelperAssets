@@ -7,7 +7,7 @@
     "full"
   ],
   "credits": "\u00a9 ARC SYSTEM WORKS\n\nGuilty Gear -Strive- Official Site: https://www.guiltygear.com/ggst/en/\nGuilty Gear -Strive- Fan Kit: https://www.guiltygear.com/ggst/en/fankit/\nThe rights to the data included within are held by Arc System Works.",
-  "version": "26.06.11.59667",
+  "version": "26.07.25.12547",
   "eyesights": {
     "Anji": {
       "0": {
@@ -206,6 +206,12 @@
         "x": 1896,
         "y": 1325
       }
+    },
+    "Robo": {
+      "0": {
+        "x": 410,
+        "y": 368
+      }
     }
   },
   "uncropped_edge": [
@@ -215,7 +221,7 @@
     "r"
   ],
   "average_size": {
-    "x": 1331.2044761810475,
+    "x": 1334.1280607716576,
     "y": 1600.0
   },
   "image_sizes": {
@@ -375,6 +381,12 @@
         "y": 1350
       }
     },
+    "Robo": {
+      "0": {
+        "x": 929,
+        "y": 1039
+      }
+    },
     "Sin": {
       "0": {
         "x": 1600,
@@ -517,6 +529,9 @@
     },
     "Jam": {
       "0": 0.390625
+    },
+    "Robo": {
+      "0": 1.5399422521655437
     }
   }
 }

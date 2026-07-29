@@ -1,6 +1,6 @@
 {
   "name": "Stage Icons",
-  "version": "26.06.03.57720",
+  "version": "26.07.25.12547",
   "description": "Stage icons",
   "prefix": "file_",
   "postfix": "",
@@ -8,6 +8,12 @@
     "stage_icon"
   ],
   "image_sizes": {
+    "Asgard": {
+      "null": {
+        "x": 1600,
+        "y": 900
+      }
+    },
     "Knowhere": {
       "null": {
         "x": 1600,

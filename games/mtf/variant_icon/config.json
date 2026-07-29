@@ -1,6 +1,6 @@
 {
   "name": "Rackets",
-  "version": "26.02.19.75640",
+  "version": "26.07.25.12547",
   "description": "Racket icons\nRequires TSH 5.92 or higher to be used",
   "credits": "Placeholder images ripped from https://www.mariowiki.com/Mario_Tennis_Fever",
   "prefix": "file_",
@@ -19,6 +19,12 @@
       "null": {
         "x": 600,
         "y": 850
+      }
+    },
+    "BlackHoleV": {
+      "null": {
+        "x": 709,
+        "y": 1298
       }
     },
     "BlockRacketV": {
@@ -197,7 +203,7 @@
     }
   },
   "average_size": {
-    "x": 531.741935483871,
-    "y": 889.8064516129032
+    "x": 537.28125,
+    "y": 902.5625
   }
 }

@@ -9604,14 +9604,6 @@
         "zh_TW": "\u840a\u5e0c\u62c9\u59c6",
         "it": "Reshiram",
         "es": "Reshiram"
-      },
-      "skin_name": {
-        "0": {
-          "name": "Incarnate"
-        },
-        "1": {
-          "name": "Therian"
-        }
       }
     },
     "Zekrom": {
@@ -9638,6 +9630,14 @@
         "zh_TW": "\u571f\u5730\u96f2",
         "it": "Landorus",
         "es": "Landorus"
+      },
+      "skin_name": {
+        "0": {
+          "name": "Incarnate"
+        },
+        "1": {
+          "name": "Therian"
+        }
       }
     },
     "Kyurem": {
@@ -15372,7 +15372,7 @@
     }
   },
   "stage_to_codename": {},
-  "version": "26.06.14.72947",
+  "version": "26.07.25.12547",
   "description": "Base config to use this game.",
   "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)\nPixel art used in box menus from Generation 3 to Generation 8\nArclart for the Pok\u00e9mon Legends: Arceus icons\nEzerart for the Pok\u00e9mon Scarlet & Violet & Pok\u00e9mon Legends: Z-A icons\ntoxicoke for the Mega Dimension icons\nMathias Wolfbrok for the Pichu-1 sprite edit",
   "challonge_game_id": 34,

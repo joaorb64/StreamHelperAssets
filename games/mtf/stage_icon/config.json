@@ -1,6 +1,6 @@
 {
   "name": "Courts",
-  "version": "26.02.19.75640",
+  "version": "26.07.25.12547",
   "description": "Court icons",
   "prefix": "file_",
   "postfix": "",
@@ -57,6 +57,12 @@
         "y": 321
       }
     },
+    "Galaxy": {
+      "null": {
+        "x": 343,
+        "y": 127
+      }
+    },
     "RacketFactory": {
       "null": {
         "x": 629,
@@ -95,7 +101,7 @@
     }
   },
   "average_size": {
-    "x": 629.0,
-    "y": 321.0
+    "x": 609.9333333333333,
+    "y": 308.06666666666666
   }
 }

@@ -1,0 +1,137 @@
+{
+  "name": "Stage Icons",
+  "description": "Stage icons",
+  "credits": "Craig! for providing assets, Ashla for compiling and ripping additional assets",
+  "prefix": "Stage_LevelSelect_",
+  "postfix": "",
+  "type": [
+    "stage_icon"
+  ],
+  "image_sizes": {
+    "Aztec": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "Cameo": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "DeadCells": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "Egypt": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "Egypt_Smalls": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "FireTemple": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "Hindu": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "HinduRain": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "Hindu_Kalos": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "IceCave": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "IceFlat": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "IceFlatNight": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "Jungle": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "JungleBurning": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "JungleFestive": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "JungleNight": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "Nevada": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "NevadaSunset": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "Nevada_Small": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    },
+    "Random": {
+      "null": {
+        "x": 600,
+        "y": 300
+      }
+    }
+  },
+  "average_size": {
+    "x": 600.0,
+    "y": 300.0
+  },
+  "version": "26.07.28.35602"
+}

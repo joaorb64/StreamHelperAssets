@@ -1,0 +1,265 @@
+{
+  "credits": "Images ripped from the Marvel T\u014dkon: Fighting Souls Streamer Kit (https://www.playstation.com/en-gb/games/marvel-tokon-fighting-souls/?blog=E3KvjePWoP8OJpQ&article=4MEXLPmERPoeQ0l&slug=streamer-kit)",
+  "description": "Character renders",
+  "eyesights": {
+    "Blade": {
+      "0": {
+        "x": 2177,
+        "y": 931
+      }
+    },
+    "CaptainAmerica": {
+      "0": {
+        "x": 2065,
+        "y": 684
+      }
+    },
+    "Carnage": {
+      "0": {
+        "x": 2920,
+        "y": 1100
+      }
+    },
+    "Danger": {
+      "0": {
+        "x": 2037,
+        "y": 692
+      }
+    },
+    "Deadpool": {
+      "0": {
+        "x": 2345,
+        "y": 430
+      }
+    },
+    "DoctorDoom": {
+      "0": {
+        "x": 2337,
+        "y": 931
+      }
+    },
+    "GhostRider": {
+      "0": {
+        "x": 2316,
+        "y": 867
+      }
+    },
+    "Goblin": {
+      "0": {
+        "x": 2159,
+        "y": 706
+      }
+    },
+    "Hulk": {
+      "0": {
+        "x": 2098,
+        "y": 1372
+      }
+    },
+    "IronMan": {
+      "0": {
+        "x": 2236,
+        "y": 696
+      }
+    },
+    "Loki": {
+      "0": {
+        "x": 2204,
+        "y": 652
+      }
+    },
+    "Magik": {
+      "0": {
+        "x": 2175,
+        "y": 781
+      }
+    },
+    "Magneto": {
+      "0": {
+        "x": 2014,
+        "y": 785
+      }
+    },
+    "MsMarvel": {
+      "0": {
+        "x": 2133,
+        "y": 921
+      }
+    },
+    "Peni": {
+      "0": {
+        "x": 4163,
+        "y": 1039
+      }
+    },
+    "Shuri": {
+      "0": {
+        "x": 2087,
+        "y": 1152
+      }
+    },
+    "SpiderMan": {
+      "0": {
+        "x": 1984,
+        "y": 993
+      }
+    },
+    "StarLord": {
+      "0": {
+        "x": 2056,
+        "y": 866
+      }
+    },
+    "Storm": {
+      "0": {
+        "x": 2219,
+        "y": 997
+      }
+    },
+    "Wolverine": {
+      "0": {
+        "x": 2120,
+        "y": 1304
+      }
+    }
+  },
+  "name": "Standing renders",
+  "postfix": "_Standing_",
+  "prefix": "file_",
+  "type": [
+    "full"
+  ],
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ],
+  "version": "26.07.24.77051",
+  "image_sizes": {
+    "Blade": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "CaptainAmerica": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Carnage": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Danger": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Deadpool": {
+      "0": {
+        "x": 4096,
+        "y": 4928
+      }
+    },
+    "DoctorDoom": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "GhostRider": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Goblin": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Hulk": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "IronMan": {
+      "0": {
+        "x": 4096,
+        "y": 4739
+      }
+    },
+    "Loki": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Magik": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Magneto": {
+      "0": {
+        "x": 4096,
+        "y": 4928
+      }
+    },
+    "MsMarvel": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Peni": {
+      "0": {
+        "x": 6500,
+        "y": 6000
+      }
+    },
+    "Shuri": {
+      "0": {
+        "x": 4096,
+        "y": 4928
+      }
+    },
+    "SpiderMan": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "StarLord": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Storm": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    },
+    "Wolverine": {
+      "0": {
+        "x": 4096,
+        "y": 4929
+      }
+    }
+  },
+  "average_size": {
+    "x": 4216.2,
+    "y": 4972.9
+  }
+}

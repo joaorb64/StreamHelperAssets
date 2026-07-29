@@ -941,6 +941,25 @@
           "name": "Super Zarbon"
         }
       }
+    },
+    "Piccolo (DB)": {
+      "codename": "PiccoloDB",
+      "skin_name": {
+        "1": {
+          "name": "Giant Form"
+        }
+      }
+    },
+    "Goku (DB-World Tournament)": {
+      "codename": "GokuDB"
+    },
+    "Tien (DB)": {
+      "codename": "TienDB",
+      "skin_name": {}
+    },
+    "Chi-Chi": {
+      "codename": "ChiChi",
+      "skin_name": {}
     }
   },
   "credits": "Files ripped from https://dbsz.bn-ent.net/character/ & https://dbsz.bn-ent.net/dlc/#playable",

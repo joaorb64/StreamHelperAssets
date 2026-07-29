@@ -12,7 +12,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (3/3)
 
 ## Avatar Legends: The Fighting Game
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Avatar State Aang] not assigned in TSH!
+- Character [Azula] not assigned in TSH!
+- Character [Korra] not assigned in TSH!
+- Character [Nightmare Korra] not assigned in TSH!
+- Character [Ozai] not assigned in TSH!
+- Character [Zaheer] not assigned in TSH!
+- Character [Aang] not assigned in TSH!
+- Character [Katara] not assigned in TSH!
+- Character [Kyoshi] not assigned in TSH!
+- Character [Sokka] not assigned in TSH!
+- Character [Toph] not assigned in TSH!
+- Character [Zuko] not assigned in TSH!
+### Coverage: (0/12)
 
 ## Among Us Arena Ultimate
 Game has no characters in startgg...? Or do we have a wrong game id?

@@ -154,9 +154,114 @@
       "locale": {
         "fr": "Via Dolce"
       }
+    },
+    "Spring Stadium (Sunset)": {
+      "codename": "SpringStadiumSunset",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Ribbon Ring (Player 2)": {
+      "codename": "RibbonRingPlayer2",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Ninja College (Night)": {
+      "codename": "NinjaCollegeNight",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Mausoleum (Day)": {
+      "codename": "MausoleumDay",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Ramen Bowl (Sunset)": {
+      "codename": "RamenBowlSunset",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Scrapyard (Night)": {
+      "codename": "ScrapyardNight",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Cinema Deux (Night)": {
+      "codename": "CinemaDeuxNight",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Buster Beach (Sunset)": {
+      "codename": "BusterBeachSunset",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Snake Park (Sunset)": {
+      "codename": "SnakeParkSunset",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "DNA Lab (Emergency Lockdown)": {
+      "codename": "DNALabEmergencyLockdown",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Sky Arena (Space)": {
+      "codename": "SkyArenaSpace",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Via Dolce (Night)": {
+      "codename": "ViaDolceNight",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Temple Grounds (Night)": {
+      "codename": "TempleGroundsNight",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Sparring Ring (Sunset)": {
+      "codename": "SparringRingSunset",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "[:ARticical MaSk LocAtion Bio Setup:]": {
+      "codename": "ARticicalMaSkLocAtionBioSetup",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
     }
   },
-  "version": "26.07.25.12547",
+  "version": "26.07.29.64926",
   "description": "Base config to use this game.",
   "variant_to_codename": {
     "Toaster": {
@@ -410,7 +515,316 @@
       "locale": {
         "fr": "Venchaku"
       }
+    },
+    "Apex": {
+      "codename": "ApexV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Bambam": {
+      "codename": "BambamV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Bane": {
+      "codename": "BaneV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Bennu": {
+      "codename": "BennuV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Bifferang": {
+      "codename": "BifferangV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Biffster": {
+      "codename": "BiffsterV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Breezer": {
+      "codename": "BreezerV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Burr": {
+      "codename": "BurrV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Buzzard": {
+      "codename": "BuzzardV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Crackamander": {
+      "codename": "CrackamanderV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Feilian": {
+      "codename": "FeilianV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Geryon": {
+      "codename": "GeryonV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Goopy": {
+      "codename": "GoopyV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Gumback": {
+      "codename": "GumbackV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Incinerator": {
+      "codename": "IncineratorV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Knuckleduster": {
+      "codename": "KnuckledusterV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Lokjaw EX": {
+      "codename": "LokjawEXV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Megablast": {
+      "codename": "MegablastV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Megaflare": {
+      "codename": "MegaflareV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Megavile": {
+      "codename": "MegavileV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Nibbles": {
+      "codename": "NibblesV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Paradox": {
+      "codename": "ParadoxV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Paraluna": {
+      "codename": "ParalunaV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Pyrorb": {
+      "codename": "PyrorbV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Radiator": {
+      "codename": "RadiatorV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Raijuu": {
+      "codename": "RaijuuV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Rebiffler": {
+      "codename": "RebifflerV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Reguster": {
+      "codename": "RegusterV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Scrapper": {
+      "codename": "ScrapperV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Shuriden": {
+      "codename": "ShuridenV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Slicer": {
+      "codename": "SlicerV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Sludgehammer": {
+      "codename": "SludgehammerV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Slusher": {
+      "codename": "SlusherV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Smackamander": {
+      "codename": "SmackamanderV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Snapper": {
+      "codename": "SnapperV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Spottie": {
+      "codename": "SpottieV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Sunchuck": {
+      "codename": "SunchuckV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Toxin": {
+      "codename": "ToxinV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Tracie": {
+      "codename": "TracieV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Triferno": {
+      "codename": "TrifernoV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Trifrost": {
+      "codename": "TrifrostV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Voltchuck": {
+      "codename": "VoltchuckV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
+    },
+    "Zhenniao": {
+      "codename": "ZhenniaoV",
+      "modded": true,
+      "igdb_playable_list": [
+        "arms-remix"
+      ]
     }
   },
-  "igdb_game_id": "arms"
+  "igdb_game_id": "arms",
+  "alternate_versions": [
+    {
+      "name": "ARMS Remix",
+      "smashgg_game_id": null,
+      "logo_path": "logo_rmx.png",
+      "igdb_game_id": "arms-remix"
+    }
+  ]
 }

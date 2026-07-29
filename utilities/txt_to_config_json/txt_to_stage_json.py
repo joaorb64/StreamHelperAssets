@@ -3,6 +3,7 @@ from pathlib import Path
 
 game_id = 3536
 stage_list_filename = "stages_list.txt"
+modded = True
 
 with open(f"stage.json", 'wt') as config_file:
     description = "Base config to use this game."
@@ -23,6 +24,8 @@ with open(f"stage.json", 'wt') as config_file:
                 config_dict["stage_to_codename"][stage_name] = {
                     "codename": codename
                 }
+                if modded:
+                    config_dict["stage_to_codename"][stage_name]["modded"] = True
                 Path("stage_icon").mkdir(parents=True, exist_ok=True)
                 with open(f"stage_icon/file_{codename}.png", "wb") as blank_stage_file:
                     blank_stage_file.write(bytearray())

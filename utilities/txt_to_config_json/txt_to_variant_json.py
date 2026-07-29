@@ -3,6 +3,7 @@ from pathlib import Path
 
 game_id = 9973
 variant_list_filename = "variants_list.txt"
+modded = True
 
 with open(f"variant.json", 'wt') as config_file:
     description = "Base config to use this game."
@@ -23,6 +24,8 @@ with open(f"variant.json", 'wt') as config_file:
                 config_dict["variant_to_codename"][variant_name] = {
                     "codename": codename
                 }
+                if modded:
+                    config_dict["variant_to_codename"][variant_name]["modded"] = True
                 Path("variant_icon").mkdir(parents=True, exist_ok=True)
                 with open(f"variant_icon/file_{codename}.png", "wb") as blank_variant_file:
                     blank_variant_file.write(bytearray())

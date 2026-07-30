@@ -649,12 +649,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Skullgirls: 2nd Encore+
-- Character [Fukua]: Character name [Fukua] doesn't exist in StartGG
-- Character [Annie]: Character name [Annie] doesn't exist in StartGG
-- Character [Umbrella]: Character name [Umbrella] doesn't exist in StartGG
-- Character [Black Dahlia]: Character name [Black Dahlia] doesn't exist in StartGG
-- Character [Marie]: Character name [Marie] doesn't exist in StartGG
-### Coverage: (13/13)
+### Coverage: (18/18)
 
 ## Slap City
 ### Coverage: (11/11)

@@ -12,14 +12,16 @@ with open("../../games/dbsz/base_files/config.json", "rt", encoding="utf-8") as 
 rescaling_factor = {}
 for character_name in main_config["character_to_codename"].keys():
     codename = main_config["character_to_codename"][character_name]["codename"]
-    image_filename = f"../../games/dbsz/base_files/icon/{icon_config['prefix']}{codename}{icon_config['postfix']}0.jpg"
-    if os.path.isfile(image_filename):
-        image = Image.open(image_filename, "r").convert("RGBA")
-        height = image.height
-        rescaling_factor[codename] = {"0": 540.0/height}
-        print(codename, rescaling_factor[codename]["0"])
-    else:
-        print(f"Could not find {image_filename}")
+    rescaling_factor[codename] = {}
+    for i in range(10):
+        image_filename = f"../../games/dbsz/base_files/icon/{icon_config['prefix']}{codename}{icon_config['postfix']}{i}.jpg"
+        if os.path.isfile(image_filename):
+            image = Image.open(image_filename, "r").convert("RGBA")
+            height = image.height
+            rescaling_factor[codename][f"{i}"] = 540.0/height
+            print(codename, rescaling_factor[codename][f"{i}"])
+        else:
+            print(f"Could not find {image_filename}")
 icon_config["rescaling_factor"] = rescaling_factor
 with open("../../games/dbsz/base_files/icon/config.json", "wt", encoding="utf-8") as config_file:
     config_file.write(json.dumps(icon_config, indent=2))

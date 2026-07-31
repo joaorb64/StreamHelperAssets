@@ -833,6 +833,20 @@
       "igdb_playable_list": [
         "ultimate-marvel-vs-capcom-3-community-edition"
       ]
+    },
+    "Mega Man": {
+      "codename": "MMan",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Bass": {
+      "codename": "Bass",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
     }
   },
   "stage_to_codename": {},

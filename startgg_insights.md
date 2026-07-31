@@ -12,19 +12,12 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (3/3)
 
 ## Avatar Legends: The Fighting Game
-- Character [Avatar State Aang] not assigned in TSH!
-- Character [Azula] not assigned in TSH!
-- Character [Korra] not assigned in TSH!
-- Character [Nightmare Korra] not assigned in TSH!
-- Character [Ozai] not assigned in TSH!
-- Character [Zaheer] not assigned in TSH!
-- Character [Aang] not assigned in TSH!
-- Character [Katara] not assigned in TSH!
-- Character [Kyoshi] not assigned in TSH!
-- Character [Sokka] not assigned in TSH!
-- Character [Toph] not assigned in TSH!
-- Character [Zuko] not assigned in TSH!
-### Coverage: (0/12)
+- Character [Iroh]: Character name [Iroh] doesn't exist in StartGG
+- Character [Ty Lee]: Character name [Ty Lee] doesn't exist in StartGG
+- Character [Lin]: Character name [Lin] doesn't exist in StartGG
+- Character [Bolin]: Character name [Bolin] doesn't exist in StartGG
+- Character [Tagah]: Character name [Tagah] doesn't exist in StartGG
+### Coverage: (12/12)
 
 ## Among Us Arena Ultimate
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -85,16 +78,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Combo Devils
-- Character [Achilles] not assigned in TSH!
 - Character [Blaire] not assigned in TSH!
 - Character [DD] not assigned in TSH!
 - Character [Debo] not assigned in TSH!
-- Character [Ikani] not assigned in TSH!
-- Character [Jingo] not assigned in TSH!
-- Character [Lizzo] not assigned in TSH!
 - Character [Mimi] not assigned in TSH!
-- Character [Shai] not assigned in TSH!
-### Coverage: (0/9)
+### Coverage: (5/9)
 
 ## Battle Craze!!
 Game has no characters in startgg...? Or do we have a wrong game id?

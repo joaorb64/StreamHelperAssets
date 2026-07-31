@@ -2,19 +2,24 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Achilles": {
-      "codename": "Achilles"
+      "codename": "Achilles",
+      "smashgg_name": "Achilles"
     },
     "Ikani": {
-      "codename": "Ikani"
+      "codename": "Ikani",
+      "smashgg_name": "Ikani"
     },
     "Jingo": {
-      "codename": "Jingo"
+      "codename": "Jingo",
+      "smashgg_name": "Jingo"
     },
     "Lizzo": {
-      "codename": "Lizzo"
+      "codename": "Lizzo",
+      "smashgg_name": "Lizzo"
     },
     "Shai": {
-      "codename": "Shai"
+      "codename": "Shai",
+      "smashgg_name": "Shai"
     }
   },
   "credits": "",

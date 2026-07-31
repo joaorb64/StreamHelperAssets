@@ -116,31 +116,72 @@
       "parrygg_slug": "vega"
     },
     "Dee Jay": {
-      "codename": "deejay"
+      "codename": "deejay",
+      "igdb_playable_list": [
+        "street-fighter-zero-3-upper",
+        "street-fighter-alpha-anthology",
+        "street-fighter-alpha-3-max"
+      ]
     },
     "Evil Ryu": {
-      "codename": "evilryu"
+      "codename": "evilryu",
+      "igdb_playable_list": [
+        "street-fighter-zero-3-upper",
+        "street-fighter-alpha-anthology",
+        "street-fighter-alpha-3-max"
+      ]
     },
     "Fei Long": {
-      "codename": "feilong"
+      "codename": "feilong",
+      "igdb_playable_list": [
+        "street-fighter-zero-3-upper",
+        "street-fighter-alpha-anthology",
+        "street-fighter-alpha-3-max"
+      ]
     },
     "Guile": {
-      "codename": "guile"
+      "codename": "guile",
+      "igdb_playable_list": [
+        "street-fighter-zero-3-upper",
+        "street-fighter-alpha-anthology",
+        "street-fighter-alpha-3-max"
+      ]
     },
     "T. Hawk": {
-      "codename": "thawk"
+      "codename": "thawk",
+      "igdb_playable_list": [
+        "street-fighter-zero-3-upper",
+        "street-fighter-alpha-anthology",
+        "street-fighter-alpha-3-max"
+      ]
     },
     "Eagle": {
-      "codename": "sfz3uu-eagle"
+      "codename": "sfz3uu-eagle",
+      "igdb_playable_list": [
+        "street-fighter-alpha-3-max",
+        "street-fighter-zero-3-upper"
+      ]
     },
     "Ingrid": {
-      "codename": "sfz3uu-ingrid"
+      "codename": "sfz3uu-ingrid",
+      "igdb_playable_list": [
+        "street-fighter-alpha-3-max",
+        "street-fighter-zero-3-upper"
+      ]
     },
     "Maki": {
-      "codename": "sfz3uu-maki"
+      "codename": "sfz3uu-maki",
+      "igdb_playable_list": [
+        "street-fighter-alpha-3-max",
+        "street-fighter-zero-3-upper"
+      ]
     },
     "Yun": {
-      "codename": "sfz3uu-yun"
+      "codename": "sfz3uu-yun",
+      "igdb_playable_list": [
+        "street-fighter-alpha-3-max",
+        "street-fighter-zero-3-upper"
+      ]
     }
   },
   "stage_to_codename": {},

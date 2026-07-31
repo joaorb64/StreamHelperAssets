@@ -13,7 +13,8 @@
         "2": {
           "name": "Momo"
         }
-      }
+      },
+      "smashgg_name": "Aang"
     },
     "Avatar State Aang": {
       "codename": "AangA",
@@ -27,7 +28,8 @@
         "2": {
           "name": "Guru Pathik"
         }
-      }
+      },
+      "smashgg_name": "Avatar State Aang"
     },
     "Katara": {
       "codename": "Katara",
@@ -41,7 +43,8 @@
         "2": {
           "name": "Hakoda"
         }
-      }
+      },
+      "smashgg_name": "Katara"
     },
     "Korra": {
       "codename": "Korra",
@@ -55,7 +58,8 @@
         "2": {
           "name": "Tonraq"
         }
-      }
+      },
+      "smashgg_name": "Korra"
     },
     "Nightmare Korra": {
       "codename": "KorraA",
@@ -70,7 +74,8 @@
         "2": {
           "name": "Unalaq"
         }
-      }
+      },
+      "smashgg_name": "Nightmare Korra"
     },
     "Toph": {
       "codename": "Toph",
@@ -84,7 +89,8 @@
         "2": {
           "name": "The Big Bad Hippo"
         }
-      }
+      },
+      "smashgg_name": "Toph"
     },
     "Zuko": {
       "codename": "Zuko",
@@ -98,7 +104,8 @@
         "2": {
           "name": "Ran & Shaw"
         }
-      }
+      },
+      "smashgg_name": "Zuko"
     },
     "Azula": {
       "codename": "Azula",
@@ -112,7 +119,8 @@
         "2": {
           "name": "Ursa"
         }
-      }
+      },
+      "smashgg_name": "Azula"
     },
     "Kyoshi": {
       "codename": "Kyoshi",
@@ -126,7 +134,8 @@
         "2": {
           "name": "Yun"
         }
-      }
+      },
+      "smashgg_name": "Kyoshi"
     },
     "Ozai": {
       "codename": "Ozai",
@@ -140,7 +149,8 @@
         "2": {
           "name": "Imperial Firebender"
         }
-      }
+      },
+      "smashgg_name": "Ozai"
     },
     "Sokka": {
       "codename": "Sokka",
@@ -154,7 +164,8 @@
         "2": {
           "name": "Yue"
         }
-      }
+      },
+      "smashgg_name": "Sokka"
     },
     "Zaheer": {
       "codename": "Zaheer",
@@ -168,22 +179,28 @@
         "2": {
           "name": "Ghazan"
         }
-      }
+      },
+      "smashgg_name": "Zaheer"
     },
     "Iroh": {
-      "codename": "Iroh"
+      "codename": "Iroh",
+      "smashgg_name": "Iroh"
     },
     "Ty Lee": {
-      "codename": "TyLee"
+      "codename": "TyLee",
+      "smashgg_name": "Ty Lee"
     },
     "Lin": {
-      "codename": "Lin"
+      "codename": "Lin",
+      "smashgg_name": "Lin"
     },
     "Bolin": {
-      "codename": "Bolin"
+      "codename": "Bolin",
+      "smashgg_name": "Bolin"
     },
     "Tagah": {
-      "codename": "Tagah"
+      "codename": "Tagah",
+      "smashgg_name": "Tagah"
     }
   },
   "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Avatar_Legends)",

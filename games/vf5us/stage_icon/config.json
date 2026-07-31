@@ -1,10 +1,142 @@
 {
   "name": "Stage Icons",
-  "version": "26.07.25.12547",
+  "version": "26.07.31.49734",
   "description": "Stage icons",
   "prefix": "ui_stage_",
   "postfix": "",
   "type": [
     "stage_icon"
-  ]
+  ],
+  "image_sizes": {
+    "arena": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "aurora": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "brokenhouse": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "city": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "deepmountain": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "grassland": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "greatwall": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "island": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "palace": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "river": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "ruins": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "sanctuary": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "shrine": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "snowmountain": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "statues": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "sumoring": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "temple": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "terrace": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "trainingroom": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "vf1": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    },
+    "waterfalls": {
+      "null": {
+        "x": 1920,
+        "y": 700
+      }
+    }
+  },
+  "average_size": {
+    "x": 1920.0,
+    "y": 700.0
+  }
 }

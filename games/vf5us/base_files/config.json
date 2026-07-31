@@ -66,7 +66,71 @@
   "description": "Base config to use this game.\nNote: Also compatible with Virtua Fighter 5 Ultimate Showdown",
   "name": "Virtua Fighter 5 R.E.V.O.",
   "smashgg_game_id": 89755,
-  "stage_to_codename": {},
+  "stage_to_codename": {
+    "Arena": {
+      "codename": "arena"
+    },
+    "City": {
+      "codename": "city"
+    },
+    "Broken House": {
+      "codename": "brokenhouse"
+    },
+    "Terrace": {
+      "codename": "terrace"
+    },
+    "Aurora": {
+      "codename": "aurora"
+    },
+    "Island": {
+      "codename": "island"
+    },
+    "Statues": {
+      "codename": "statues"
+    },
+    "Grassland": {
+      "codename": "grassland"
+    },
+    "Ruins": {
+      "codename": "ruins"
+    },
+    "Waterfalls": {
+      "codename": "Waterfalls"
+    },
+    "Training Room": {
+      "codename": "trainingroom"
+    },
+    "Deep Mountain": {
+      "codename": "deepmountain"
+    },
+    "Shrine": {
+      "codename": "shrine"
+    },
+    "Great Wall": {
+      "codename": "greatwall"
+    },
+    "River": {
+      "codename": "river"
+    },
+    "Sumo Ring": {
+      "codename": "sumoring"
+    },
+    "Genesis": {
+      "codename": "sanctuary"
+    },
+    "Temple": {
+      "codename": "temple"
+    },
+    "Palace": {
+      "codename": "palace"
+    },
+    "Snow Mountain": {
+      "codename": "snowmountain"
+    },
+    "Retro Stage": {
+      "codename": "vf1"
+    }
+  },
   "version": "26.07.25.12547",
   "alternate_versions": [
     {

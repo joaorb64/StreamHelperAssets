@@ -1,85 +1,81 @@
 {
-  "name": "Portraits",
-  "description": "Character portraits",
-  "prefix": "file_",
-  "postfix": "_",
-  "type": [
-    "full"
-  ],
-  "credits": "Assets ripped from Avatar Wiki (https://breezewiki.com/avatar/wiki/Avatar_Legends:_The_Fighting_Game/Aang)",
-  "version": "26.07.29.68079",
-  "rescaling_factor": {
-    "Aang": {
-      "0": 1.0
-    },
-    "AangA": {
-      "0": 1.0
-    },
-    "Katara": {
-      "0": 1.0
-    },
-    "Korra": {
-      "0": 1.0
-    },
-    "KorraA": {
-      "0": 1.0
-    },
-    "Toph": {
-      "0": 1.0
-    },
-    "Zuko": {
-      "0": 1.0
-    },
-    "Azula": {
-      "0": 1.0
-    },
-    "Kyoshi": {
-      "0": 1.0
-    },
-    "Ozai": {
-      "0": 1.0
-    },
-    "Sokka": {
-      "0": 1.0
-    },
-    "Zaheer": {
-      "0": 1.0
-    },
-    "Iroh": {},
-    "TyLee": {},
-    "Lin": {},
-    "Bolin": {},
-    "Tagah": {}
+  "average_size": {
+    "x": 398,
+    "y": 699
   },
+  "credits": "Assets ripped from Avatar Wiki (https://breezewiki.com/avatar/wiki/Avatar_Legends:_The_Fighting_Game/Aang)",
+  "description": "Character portraits",
   "eyesights": {
     "Aang": {
       "0": {
-        "x": 195,
-        "y": 177
+        "x": 196,
+        "y": 185
+      }
+    },
+    "AangA": {
+      "0": {
+        "x": 200,
+        "y": 179
+      }
+    },
+    "Azula": {
+      "0": {
+        "x": 207,
+        "y": 216
       }
     },
     "Katara": {
       "0": {
-        "x": 129,
-        "y": 147
+        "x": 204,
+        "y": 229
       }
     },
     "Korra": {
       "0": {
-        "x": 248,
-        "y": 201
+        "x": 246,
+        "y": 197
+      }
+    },
+    "KorraA": {
+      "0": {
+        "x": 207,
+        "y": 200
+      }
+    },
+    "Kyoshi": {
+      "0": {
+        "x": 198,
+        "y": 170
+      }
+    },
+    "Ozai": {
+      "0": {
+        "x": 198,
+        "y": 123
+      }
+    },
+    "Sokka": {
+      "0": {
+        "x": 157,
+        "y": 221
       }
     },
     "Toph": {
       "0": {
-        "x": 212,
-        "y": 205
+        "x": 210,
+        "y": 206
+      }
+    },
+    "Zaheer": {
+      "0": {
+        "x": 203,
+        "y": 125
       }
     },
     "Zuko": {
       "0": {
-        "x": 200,
-        "y": 195
+        "x": 193,
+        "y": 196
       }
     }
   },
@@ -157,8 +153,54 @@
       }
     }
   },
-  "average_size": {
-    "x": 398.0,
-    "y": 699.0
-  }
+  "name": "Portraits",
+  "postfix": "_",
+  "prefix": "file_",
+  "rescaling_factor": {
+    "Aang": {
+      "0": 1
+    },
+    "AangA": {
+      "0": 1
+    },
+    "Azula": {
+      "0": 1
+    },
+    "Bolin": {},
+    "Iroh": {},
+    "Katara": {
+      "0": 1
+    },
+    "Korra": {
+      "0": 1
+    },
+    "KorraA": {
+      "0": 1
+    },
+    "Kyoshi": {
+      "0": 1
+    },
+    "Lin": {},
+    "Ozai": {
+      "0": 1
+    },
+    "Sokka": {
+      "0": 1
+    },
+    "Tagah": {},
+    "Toph": {
+      "0": 1
+    },
+    "TyLee": {},
+    "Zaheer": {
+      "0": 1
+    },
+    "Zuko": {
+      "0": 1
+    }
+  },
+  "type": [
+    "full"
+  ],
+  "version": "26.07.29.68079"
 }

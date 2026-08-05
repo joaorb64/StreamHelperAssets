@@ -565,9 +565,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (18/18)
 
 ## Rivals of Aether II
-- Character [Gouie]: Character name [Gouie] doesn't exist in StartGG
 - Character [Mina]: Character name [Mina] doesn't exist in StartGG
-### Coverage: (17/17)
+### Coverage: (18/18)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)

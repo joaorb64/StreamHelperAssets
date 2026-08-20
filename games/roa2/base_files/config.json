@@ -592,6 +592,18 @@
         },
         "100": {
           "name": "Lovers - Cool Blue"
+        },
+        "101": {
+          "name": "Goo"
+        },
+        "102": {
+          "name": "Goo - Blue"
+        },
+        "103": {
+          "name": "Goo - Red"
+        },
+        "104": {
+          "name": "Goo - Green"
         }
       }
     },
@@ -2631,6 +2643,18 @@
         },
         "85": {
           "name": "Last Stock - Green"
+        },
+        "86": {
+          "name": "Goo"
+        },
+        "87": {
+          "name": "Goo - Blue"
+        },
+        "88": {
+          "name": "Goo - Red"
+        },
+        "89": {
+          "name": "Goo - Green"
         }
       }
     },
@@ -3083,6 +3107,18 @@
         },
         "66": {
           "name": "Sunbear - Frosty Faustings XVIII"
+        },
+        "67": {
+          "name": "Goo"
+        },
+        "68": {
+          "name": "Goo - Blue"
+        },
+        "69": {
+          "name": "Goo - Red"
+        },
+        "70": {
+          "name": "Goo - Green"
         }
       }
     },
@@ -3777,12 +3813,120 @@
         },
         "34": {
           "name": "Pool Party - Red"
+        },
+        "35": {
+          "name": "Goo"
+        },
+        "36": {
+          "name": "Goo - Blue"
+        },
+        "37": {
+          "name": "Goo - Red"
+        },
+        "38": {
+          "name": "Goo - Green"
         }
       }
     },
     "Gouie": {
       "codename": "Gooie",
-      "smashgg_name": "Gouie"
+      "smashgg_name": "Gouie",
+      "parrygg_slug": "gouie",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        },
+        "1": {
+          "name": "Default - Red"
+        },
+        "2": {
+          "name": "Default - Blue"
+        },
+        "3": {
+          "name": "Default - Green"
+        },
+        "4": {
+          "name": "Default - Mint"
+        },
+        "5": {
+          "name": "Default - Purple"
+        },
+        "6": {
+          "name": "Default - Pink"
+        },
+        "7": {
+          "name": "Default - Black"
+        },
+        "8": {
+          "name": "Default - Cool Blue"
+        },
+        "9": {
+          "name": "Default - Abyssal"
+        },
+        "10": {
+          "name": "Penguin"
+        },
+        "11": {
+          "name": "Penguin - Red"
+        },
+        "12": {
+          "name": "Penguin - Blue"
+        },
+        "13": {
+          "name": "Penguin - Green"
+        },
+        "14": {
+          "name": "Abyss"
+        },
+        "15": {
+          "name": "Abyss - Red"
+        },
+        "16": {
+          "name": "Abyss - Blue"
+        },
+        "17": {
+          "name": "Abyss -  Green"
+        },
+        "18": {
+          "name": "Abyss - Midnight"
+        },
+        "19": {
+          "name": "Mallard"
+        },
+        "20": {
+          "name": "Mallard - Red"
+        },
+        "21": {
+          "name": "Mallard - Blue"
+        },
+        "22": {
+          "name": "Mallard - Green"
+        },
+        "23": {
+          "name": "Louie"
+        },
+        "24": {
+          "name": "Louie - Red"
+        },
+        "25": {
+          "name": "Louie - Blue"
+        },
+        "26": {
+          "name": "Louie - Green"
+        },
+        "27": {
+          "name": "Lucha"
+        },
+        "28": {
+          "name": "Lucha - Red"
+        },
+        "29": {
+          "name": "Lucha - Blue"
+        },
+        "30": {
+          "name": "Lucha - Green"
+        }
+      }
     },
     "Mina": {
       "codename": "Mina",

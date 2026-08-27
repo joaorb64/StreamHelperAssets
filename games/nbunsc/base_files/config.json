@@ -1,0 +1,290 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "A (Fourth Raikage)": {
+      "codename": "A"
+    },
+    "A (Third Raikage)": {
+      "codename": "A3"
+    },
+    "Asuma Sarutobi": {
+      "codename": "AsumaSarutobi"
+    },
+    "Asura \u014ctsutsuki": {
+      "codename": "Asura\u014ctsutsuki"
+    },
+    "Boro": {
+      "codename": "Boro"
+    },
+    "Boruto Uzumaki": {
+      "codename": "BorutoUzumaki"
+    },
+    "Chiyo": {
+      "codename": "Chiyo"
+    },
+    "Ch\u014dji Akimichi": {
+      "codename": "Ch\u014djiAkimichi"
+    },
+    "Danz\u014d Shimura": {
+      "codename": "Danz\u014dShimura"
+    },
+    "Darui": {
+      "codename": "Darui"
+    },
+    "Deidara": {
+      "codename": "Deidara"
+    },
+    "Delta": {
+      "codename": "Delta"
+    },
+    "F\u016b": {
+      "codename": "F\u016b"
+    },
+    "Gaara": {
+      "codename": "Gaara"
+    },
+    "Gengetsu H\u014dzuki": {
+      "codename": "GengetsuH\u014dzuki"
+    },
+    "Hagoromo \u014ctsutsuki": {
+      "codename": "Hagoromo\u014ctsutsuki"
+    },
+    "Haku": {
+      "codename": "Haku"
+    },
+    "Han": {
+      "codename": "Han"
+    },
+    "Hanabi Hy\u016bga": {
+      "codename": "HanabiHy\u016bga"
+    },
+    "Hanz\u014d": {
+      "codename": "Hanz\u014d"
+    },
+    "Hashirama Senju": {
+      "codename": "HashiramaSenju"
+    },
+    "Hidan": {
+      "codename": "Hidan"
+    },
+    "Hikari Uchiha": {
+      "codename": "HikariUchiha"
+    },
+    "Hinata Hy\u016bga": {
+      "codename": "HinataHy\u016bga"
+    },
+    "Hiruzen Sarutobi": {
+      "codename": "HiruzenSarutobi"
+    },
+    "Indra \u014ctsutsuki": {
+      "codename": "Indra\u014ctsutsuki"
+    },
+    "Ino Yamanaka": {
+      "codename": "InoYamanaka"
+    },
+    "Iruka Umino": {
+      "codename": "IrukaUmino"
+    },
+    "Isshiki \u014ctsutsuki": {
+      "codename": "Isshiki\u014ctsutsuki"
+    },
+    "Itachi Uchiha": {
+      "codename": "ItachiUchiha"
+    },
+    "Jigen": {
+      "codename": "Jigen"
+    },
+    "Jiraiya": {
+      "codename": "Jiraiya"
+    },
+    "Jir\u014db\u014d": {
+      "codename": "Jir\u014db\u014d"
+    },
+    "J\u016bgo": {
+      "codename": "J\u016bgo"
+    },
+    "Kabuto Yakushi": {
+      "codename": "KabutoYakushi"
+    },
+    "Kaguya \u014ctsutsuki": {
+      "codename": "Kaguya\u014ctsutsuki"
+    },
+    "Kakashi Hatake": {
+      "codename": "KakashiHatake"
+    },
+    "Kakuzu": {
+      "codename": "Kakuzu"
+    },
+    "Kankur\u014d": {
+      "codename": "Kankur\u014d"
+    },
+    "Karin": {
+      "codename": "Karin"
+    },
+    "Kawaki": {
+      "codename": "Kawaki"
+    },
+    "Kiba Inuzuka": {
+      "codename": "KibaInuzuka"
+    },
+    "Kid\u014dmaru": {
+      "codename": "Kid\u014dmaru"
+    },
+    "Killer B": {
+      "codename": "KillerB"
+    },
+    "Kimimaro": {
+      "codename": "Kimimaro"
+    },
+    "Kinshiki \u014ctsutsuki": {
+      "codename": "Kinshiki\u014ctsutsuki"
+    },
+    "Kisame Hoshigaki": {
+      "codename": "KisameHoshigaki"
+    },
+    "Koji Kashin": {
+      "codename": "KojiKashin"
+    },
+    "Konan": {
+      "codename": "Konan"
+    },
+    "Konohamaru Sarutobi": {
+      "codename": "KonohamaruSarutobi"
+    },
+    "Kurenai Y\u016bhi": {
+      "codename": "KurenaiY\u016bhi"
+    },
+    "Kushina Uzumaki": {
+      "codename": "KushinaUzumaki"
+    },
+    "Madara Uchiha": {
+      "codename": "MadaraUchiha"
+    },
+    "Mecha-Naruto": {
+      "codename": "MechaNaruto"
+    },
+    "Mei Terum\u012b": {
+      "codename": "MeiTerum\u012b"
+    },
+    "Mifune": {
+      "codename": "Mifune"
+    },
+    "Might Guy": {
+      "codename": "MightGuy"
+    },
+    "Minato Namikaze": {
+      "codename": "MinatoNamikaze"
+    },
+    "Mitsuki": {
+      "codename": "Mitsuki"
+    },
+    "Momoshiki \u014ctsutsuki": {
+      "codename": "Momoshiki\u014ctsutsuki"
+    },
+    "M\u016b": {
+      "codename": "M\u016b"
+    },
+    "Nagato": {
+      "codename": "Nagato"
+    },
+    "Naruto Uzumaki": {
+      "codename": "NarutoUzumaki"
+    },
+    "Neji Hy\u016bga": {
+      "codename": "NejiHy\u016bga"
+    },
+    "Obito Uchiha": {
+      "codename": "ObitoUchiha"
+    },
+    "Orochimaru": {
+      "codename": "Orochimaru"
+    },
+    "Rasa": {
+      "codename": "Rasa"
+    },
+    "Rin Nohara": {
+      "codename": "RinNohara"
+    },
+    "Rock Lee": {
+      "codename": "RockLee"
+    },
+    "R\u014dshi": {
+      "codename": "R\u014dshi"
+    },
+    "Sai Yamanaka": {
+      "codename": "Sai"
+    },
+    "Sakon & Ukon": {
+      "codename": "SakonUkon"
+    },
+    "Sakura Haruno": {
+      "codename": "SakuraHaruno"
+    },
+    "Sarada Uchiha": {
+      "codename": "SaradaUchiha"
+    },
+    "Sasori": {
+      "codename": "Sasori"
+    },
+    "Sasuke Uchiha": {
+      "codename": "SasukeUchiha"
+    },
+    "Shikamaru Nara": {
+      "codename": "ShikamaruNara"
+    },
+    "Shino Aburame": {
+      "codename": "ShinoAburame"
+    },
+    "Shisui Uchiha": {
+      "codename": "ShisuiUchiha"
+    },
+    "Suigetsu H\u014dzuki": {
+      "codename": "SuigetsuH\u014dzuki"
+    },
+    "Tayuya": {
+      "codename": "Tayuya"
+    },
+    "Temari": {
+      "codename": "Temari"
+    },
+    "Tenten": {
+      "codename": "Tenten"
+    },
+    "Tobirama Senju": {
+      "codename": "TobiramaSenju"
+    },
+    "Tsunade": {
+      "codename": "Tsunade"
+    },
+    "Utakata": {
+      "codename": "Utakata"
+    },
+    "Yagura": {
+      "codename": "Yagura"
+    },
+    "Yamato": {
+      "codename": "Yamato"
+    },
+    "Yugito Nii": {
+      "codename": "YugitoNii"
+    },
+    "Zabuza Momochi": {
+      "codename": "ZabuzaMomochi"
+    },
+    "\u014cnoki": {
+      "codename": "\u014cnoki"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "igdb_game_id": "naruto-x-boruto-ultimate-ninja-storm-connections",
+  "name": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+  "smashgg_game_id": 48514,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "locale": {
+    "ja": {
+      "name": "NARUTO X BORUTO ナルティメットストーム CONNECTIONS"
+    }
+  }
+}

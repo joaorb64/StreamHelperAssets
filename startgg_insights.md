@@ -55,12 +55,16 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Brawlhalla
+- Character [Finn]: Character name [Finn] doesn't exist in StartGG
+- Character [Jake]: Character name [Jake] doesn't exist in StartGG
+- Character [Princess Bubblegum]: Character name [Princess Bubblegum] doesn't exist in StartGG
 - Character [Priya] not assigned in TSH!
 - Character [Ransom] not assigned in TSH!
 - Character [Lady Vera] not assigned in TSH!
 - Character [Rupture] not assigned in TSH!
 - Character [Aurus] not assigned in TSH!
-### Coverage: (67/72)
+- Character [Qinghua & Baobao] not assigned in TSH!
+### Coverage: (64/70)
 
 ## Blade Strangers
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -156,12 +160,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Rick Strowd]: Character name [Rick] doesn't exist in StartGG
-- Character [Duck King]: Character name [Duck King] doesn't exist in StartGG
 - Character [Kim Kaphwan]: Character name [Kim] doesn't exist in StartGG
 - Character [Laocorn Gaudeamus]: Character name [Laocorn] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (28/29)
+### Coverage: (30/31)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -426,6 +428,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Nickelodeon All-Star Brawl 2
 ### Coverage: (29/29)
 
+## Naruto x Boruto: Ultimate Ninja Storm Connections
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Neo Turf Masters
 Game has no characters in startgg...? Or do we have a wrong game id?
 
@@ -552,13 +557,12 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-- Character [Akali]: Character name [Akali] doesn't exist in StartGG
 - Character [Thresh]: Character name [Thresh] doesn't exist in StartGG
 - Character [Lux]: Character name [Lux] doesn't exist in StartGG
 - Character [Samira]: Character name [Samira] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 - Character [Tresh] not assigned in TSH!
-### Coverage: (13/15)
+### Coverage: (14/16)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG

@@ -17,13 +17,38 @@
       "codename": "Boro"
     },
     "Boruto Uzumaki": {
-      "codename": "BorutoUzumaki"
+      "codename": "BorutoUzumaki",
+      "skin_name": {
+        "1": {
+          "name": "Scientific Ninja Tool"
+        },
+        "2": {
+          "name": "Ch\u016bnin Selection Exams"
+        },
+        "3": {
+          "name": "Time Slip Arc"
+        },
+        "4": {
+          "name": "K\u0101ma Progression"
+        }
+      }
     },
     "Chiyo": {
       "codename": "Chiyo"
     },
     "Ch\u014dji Akimichi": {
-      "codename": "Ch\u014djiAkimichi"
+      "codename": "Ch\u014djiAkimichi",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Danz\u014d Shimura": {
       "codename": "Danz\u014dShimura"
@@ -41,7 +66,24 @@
       "codename": "F\u016b"
     },
     "Gaara": {
-      "codename": "Gaara"
+      "codename": "Gaara",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II - Beginning"
+        },
+        "2": {
+          "name": "Part II - Five Kage Summit"
+        },
+        "3": {
+          "name": "Part II - Great Ninja War"
+        },
+        "4": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Gengetsu H\u014dzuki": {
       "codename": "GengetsuH\u014dzuki"
@@ -62,7 +104,15 @@
       "codename": "Hanz\u014d"
     },
     "Hashirama Senju": {
-      "codename": "HashiramaSenju"
+      "codename": "HashiramaSenju",
+      "skin_name": {
+        "0": {
+          "name": "Alive"
+        },
+        "1": {
+          "name": "Edo Tensei"
+        }
+      }
     },
     "Hidan": {
       "codename": "Hidan"
@@ -71,7 +121,18 @@
       "codename": "HikariUchiha"
     },
     "Hinata Hy\u016bga": {
-      "codename": "HinataHy\u016bga"
+      "codename": "HinataHy\u016bga",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Hiruzen Sarutobi": {
       "codename": "HiruzenSarutobi"
@@ -80,7 +141,18 @@
       "codename": "Indra\u014ctsutsuki"
     },
     "Ino Yamanaka": {
-      "codename": "InoYamanaka"
+      "codename": "InoYamanaka",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Iruka Umino": {
       "codename": "IrukaUmino"
@@ -104,34 +176,94 @@
       "codename": "J\u016bgo"
     },
     "Kabuto Yakushi": {
-      "codename": "KabutoYakushi"
+      "codename": "KabutoYakushi",
+      "skin_name": {
+        "0": {
+          "name": "Chakra Scalpel Mode"
+        },
+        "1": {
+          "name": "Snake Mode"
+        },
+        "2": {
+          "name": "Twin Demons Mode"
+        }
+      }
     },
     "Kaguya \u014ctsutsuki": {
       "codename": "Kaguya\u014ctsutsuki"
     },
     "Kakashi Hatake": {
-      "codename": "KakashiHatake"
+      "codename": "KakashiHatake",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II - Great Ninja War"
+        },
+        "2": {
+          "name": "Part II - Double Sharingan"
+        },
+        "3": {
+          "name": "Young"
+        }
+      }
     },
     "Kakuzu": {
       "codename": "Kakuzu"
     },
     "Kankur\u014d": {
-      "codename": "Kankur\u014d"
+      "codename": "Kankur\u014d",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Karin": {
       "codename": "Karin"
     },
     "Kawaki": {
-      "codename": "Kawaki"
+      "codename": "Kawaki",
+      "skin_name": {
+        "0": {
+          "name": "K\u0101ma Mode"
+        },
+        "1": {
+          "name": "K\u0101ma Progression"
+        }
+      }
     },
     "Kiba Inuzuka": {
-      "codename": "KibaInuzuka"
+      "codename": "KibaInuzuka",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Kid\u014dmaru": {
       "codename": "Kid\u014dmaru"
     },
     "Killer B": {
-      "codename": "KillerB"
+      "codename": "KillerB",
+      "skin_name": {
+        "1": {
+          "name": "Samehada"
+        }
+      }
     },
     "Kimimaro": {
       "codename": "Kimimaro"
@@ -158,7 +290,18 @@
       "codename": "KushinaUzumaki"
     },
     "Madara Uchiha": {
-      "codename": "MadaraUchiha"
+      "codename": "MadaraUchiha",
+      "skin_name": {
+        "0": {
+          "name": "Edo Tensei"
+        },
+        "1": {
+          "name": "Edo Tensei Release"
+        },
+        "2": {
+          "name": "Six Paths Ten-Tails Coffin Seal"
+        }
+      }
     },
     "Mecha-Naruto": {
       "codename": "MechaNaruto"
@@ -170,10 +313,23 @@
       "codename": "Mifune"
     },
     "Might Guy": {
-      "codename": "MightGuy"
+      "codename": "MightGuy",
+      "skin_name": {
+        "1": {
+          "name": "Great Ninja War"
+        }
+      }
     },
     "Minato Namikaze": {
-      "codename": "MinatoNamikaze"
+      "codename": "MinatoNamikaze",
+      "skin_name": {
+        "0": {
+          "name": "Alive"
+        },
+        "1": {
+          "name": "Edo Tensei"
+        }
+      }
     },
     "Mitsuki": {
       "codename": "Mitsuki"
@@ -185,16 +341,87 @@
       "codename": "M\u016b"
     },
     "Nagato": {
-      "codename": "Nagato"
+      "codename": "Nagato",
+      "skin_name": {
+        "0": {
+          "name": "Pain"
+        },
+        "1": {
+          "name": "Edo Tensei"
+        }
+      }
     },
     "Naruto Uzumaki": {
-      "codename": "NarutoUzumaki"
+      "codename": "NarutoUzumaki",
+      "skin_name": {
+        "0": {
+          "name": "Part I - One-Tailed Form"
+        },
+        "1": {
+          "name": "Part II - Four-Tailed Form"
+        },
+        "2": {
+          "name": "Part II - Sage Mode"
+        },
+        "3": {
+          "name": "Part II - Five Kage Summit"
+        },
+        "4": {
+          "name": "Part II - Great Ninja War"
+        },
+        "5": {
+          "name": "Part II - Tailed Beast Mode"
+        },
+        "6": {
+          "name": "Part II - Six Paths Sage Mode"
+        },
+        "7": {
+          "name": "The Last"
+        },
+        "8": {
+          "name": "Boruto Era"
+        },
+        "9": {
+          "name": "Boruto Era - Baryon Mode"
+        }
+      }
     },
     "Neji Hy\u016bga": {
-      "codename": "NejiHy\u016bga"
+      "codename": "NejiHy\u016bga",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        }
+      }
     },
     "Obito Uchiha": {
-      "codename": "ObitoUchiha"
+      "codename": "ObitoUchiha",
+      "skin_name": {
+        "0": {
+          "name": "Young"
+        },
+        "1": {
+          "name": "Masked Man"
+        },
+        "2": {
+          "name": "Tobi"
+        },
+        "3": {
+          "name": "Tobi - Great Ninja War"
+        },
+        "4": {
+          "name": "Reincarnation"
+        },
+        "5": {
+          "name": "Six Paths Ten-Tails Coffin Seal"
+        },
+        "6": {
+          "name": "Rampage"
+        }
+      }
     },
     "Orochimaru": {
       "codename": "Orochimaru"
@@ -206,34 +433,120 @@
       "codename": "RinNohara"
     },
     "Rock Lee": {
-      "codename": "RockLee"
+      "codename": "RockLee",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "R\u014dshi": {
       "codename": "R\u014dshi"
     },
     "Sai Yamanaka": {
-      "codename": "Sai"
+      "codename": "Sai",
+      "skin_name": {
+        "1": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Sakon & Ukon": {
       "codename": "SakonUkon"
     },
     "Sakura Haruno": {
-      "codename": "SakuraHaruno"
+      "codename": "SakuraHaruno",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Sarada Uchiha": {
-      "codename": "SaradaUchiha"
+      "codename": "SaradaUchiha",
+      "skin_name": {
+        "1": {
+          "name": "Chidori"
+        }
+      }
     },
     "Sasori": {
       "codename": "Sasori"
     },
     "Sasuke Uchiha": {
-      "codename": "SasukeUchiha"
+      "codename": "SasukeUchiha",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part I - Curse Mark Stage 2"
+        },
+        "2": {
+          "name": "Part II - Curse Mark Stage 2"
+        },
+        "3": {
+          "name": "Part II - Taka"
+        },
+        "4": {
+          "name": "Part II - Eternal Mangeky\u014d Sharingan"
+        },
+        "5": {
+          "name": "Part II - Five Kage Summit"
+        },
+        "6": {
+          "name": "Part II - Rinne Sharingan"
+        },
+        "7": {
+          "name": "The Last"
+        },
+        "8": {
+          "name": "Boruto Era"
+        },
+        "9": {
+          "name": "Boruto Era - Supporting Kage"
+        }
+      }
     },
     "Shikamaru Nara": {
-      "codename": "ShikamaruNara"
+      "codename": "ShikamaruNara",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Shino Aburame": {
-      "codename": "ShinoAburame"
+      "codename": "ShinoAburame",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Shisui Uchiha": {
       "codename": "ShisuiUchiha"
@@ -245,10 +558,32 @@
       "codename": "Tayuya"
     },
     "Temari": {
-      "codename": "Temari"
+      "codename": "Temari",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Tenten": {
-      "codename": "Tenten"
+      "codename": "Tenten",
+      "skin_name": {
+        "0": {
+          "name": "Part I"
+        },
+        "1": {
+          "name": "Part II"
+        },
+        "2": {
+          "name": "Boruto Era"
+        }
+      }
     },
     "Tobirama Senju": {
       "codename": "TobiramaSenju"

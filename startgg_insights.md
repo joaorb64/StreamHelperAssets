@@ -557,12 +557,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-- Character [Thresh]: Character name [Thresh] doesn't exist in StartGG
 - Character [Lux]: Character name [Lux] doesn't exist in StartGG
 - Character [Samira]: Character name [Samira] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-- Character [Tresh] not assigned in TSH!
-### Coverage: (14/16)
+### Coverage: (15/16)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG

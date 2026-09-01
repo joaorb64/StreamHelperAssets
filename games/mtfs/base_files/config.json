@@ -2,85 +2,107 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Captain America": {
-      "codename": "CaptainAmerica"
+      "codename": "CaptainAmerica",
+      "smashgg_name": "Captain America"
     },
     "Doctor Doom": {
       "codename": "DoctorDoom",
       "locale": {
         "fr": "Docteur Fatalis"
-      }
+      },
+      "smashgg_name": "Dr. Doom"
     },
     "Ghost Rider": {
-      "codename": "GhostRider"
+      "codename": "GhostRider",
+      "smashgg_name": "Ghost Rider"
     },
     "Iron Man": {
-      "codename": "IronMan"
+      "codename": "IronMan",
+      "smashgg_name": "Iron Man"
     },
     "Ms. Marvel": {
-      "codename": "MsMarvel"
+      "codename": "MsMarvel",
+      "smashgg_name": "Ms. Marvel"
     },
     "Spider-Man": {
-      "codename": "SpiderMan"
+      "codename": "SpiderMan",
+      "smashgg_name": "Spider-Man"
     },
     "Star-Lord": {
-      "codename": "StarLord"
+      "codename": "StarLord",
+      "smashgg_name": "Star-Lord"
     },
     "Storm": {
       "codename": "Storm",
       "locale": {
         "fr": "Tornade"
-      }
+      },
+      "smashgg_name": "Storm"
     },
     "Wolverine": {
-      "codename": "Wolverine"
+      "codename": "Wolverine",
+      "smashgg_name": "Wolverine"
     },
     "Magik": {
-      "codename": "Magik"
+      "codename": "Magik",
+      "smashgg_name": "Magik"
     },
     "Danger": {
-      "codename": "Danger"
+      "codename": "Danger",
+      "smashgg_name": "Danger"
     },
     "Peni Parker": {
-      "codename": "Peni"
+      "codename": "Peni",
+      "smashgg_name": "Peni"
     },
     "Black Panther": {
       "codename": "Shuri",
       "locale": {
         "fr": "Panth\u00e8re noire"
-      }
+      },
+      "smashgg_name": "Black Panther"
     },
     "Hulk": {
-      "codename": "Hulk"
+      "codename": "Hulk",
+      "smashgg_name": "Hulk"
     },
     "Magneto": {
-      "codename": "Magneto"
+      "codename": "Magneto",
+      "smashgg_name": "Magneto"
     },
     "Green Goblin": {
       "codename": "Goblin",
       "locale": {
         "fr": "Bouffon Vert"
-      }
+      },
+      "smashgg_name": "Green Goblin"
     },
     "Carnage": {
-      "codename": "Carnage"
+      "codename": "Carnage",
+      "smashgg_name": "Carnage"
     },
     "Loki": {
-      "codename": "Loki"
+      "codename": "Loki",
+      "smashgg_name": "Loki"
     },
     "Blade": {
-      "codename": "Blade"
+      "codename": "Blade",
+      "smashgg_name": "Blade"
     },
     "Deadpool": {
-      "codename": "Deadpool"
+      "codename": "Deadpool",
+      "smashgg_name": "Deadpool"
     },
     "Phoenix Cyclops": {
-      "codename": "Cyclops"
+      "codename": "Cyclops",
+      "smashgg_name": "Phoenix Cyclops"
     },
     "The Champion": {
       "codename": "Champion",
       "locale": {
         "fr": "Le Champion"
-      }
+      },
+      "smashgg_name": "Champion"
     }
   },
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",

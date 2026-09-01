@@ -12,12 +12,15 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (3/3)
 
 ## Avatar Legends: The Fighting Game
+- Character [Avatar State Aang]: Character name [Avatar State Aang] doesn't exist in StartGG
 - Character [Iroh]: Character name [Iroh] doesn't exist in StartGG
 - Character [Ty Lee]: Character name [Ty Lee] doesn't exist in StartGG
 - Character [Lin]: Character name [Lin] doesn't exist in StartGG
 - Character [Bolin]: Character name [Bolin] doesn't exist in StartGG
 - Character [Tagah]: Character name [Tagah] doesn't exist in StartGG
-### Coverage: (12/12)
+- Character [Avatar Aang] not assigned in TSH!
+- Character [Random] not assigned in TSH!
+### Coverage: (11/13)
 
 ## Among Us Arena Ultimate
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -398,7 +401,29 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (38/38)
 
 ## Marvel Tōkon: Fighting Souls
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Black Panter] not assigned in TSH!
+- Character [Blade] not assigned in TSH!
+- Character [Captain America] not assigned in TSH!
+- Character [Carnage] not assigned in TSH!
+- Character [Champion] not assigned in TSH!
+- Character [Danger] not assigned in TSH!
+- Character [Deadpool] not assigned in TSH!
+- Character [Dr. Doom] not assigned in TSH!
+- Character [Ghost Rider] not assigned in TSH!
+- Character [Green Goblin] not assigned in TSH!
+- Character [Hulk] not assigned in TSH!
+- Character [Iron Man] not assigned in TSH!
+- Character [Loki] not assigned in TSH!
+- Character [Magik] not assigned in TSH!
+- Character [Magneto] not assigned in TSH!
+- Character [Ms. Marvel] not assigned in TSH!
+- Character [Peni] not assigned in TSH!
+- Character [Random] not assigned in TSH!
+- Character [Spider-Man] not assigned in TSH!
+- Character [Star-Lord] not assigned in TSH!
+- Character [Storm] not assigned in TSH!
+- Character [Wolverine] not assigned in TSH!
+### Coverage: (0/22)
 
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG

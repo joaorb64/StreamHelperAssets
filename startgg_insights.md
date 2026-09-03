@@ -745,7 +745,28 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Tekken 3
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Anna] not assigned in TSH!
+- Character [Bryan] not assigned in TSH!
+- Character [Hwoarang] not assigned in TSH!
+- Character [Gun Jack] not assigned in TSH!
+- Character [Jin] not assigned in TSH!
+- Character [King] not assigned in TSH!
+- Character [Law] not assigned in TSH!
+- Character [Lei] not assigned in TSH!
+- Character [Nina] not assigned in TSH!
+- Character [Xiaoyu] not assigned in TSH!
+- Character [Doctor B.] not assigned in TSH!
+- Character [Eddy] not assigned in TSH!
+- Character [Gon] not assigned in TSH!
+- Character [Heihachi] not assigned in TSH!
+- Character [Julia] not assigned in TSH!
+- Character [Kuma] not assigned in TSH!
+- Character [Mokujin] not assigned in TSH!
+- Character [Ogre] not assigned in TSH!
+- Character [Paul] not assigned in TSH!
+- Character [True Ogre] not assigned in TSH!
+- Character [Yoshimitsu] not assigned in TSH!
+### Coverage: (0/21)
 
 ## Tekken 5: Dark Resurrection
 Game has no characters in startgg...? Or do we have a wrong game id?

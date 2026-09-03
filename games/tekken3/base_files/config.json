@@ -2,13 +2,16 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Anna Williams": {
-      "codename": "AnnaWilliams"
+      "codename": "AnnaWilliams",
+      "smashgg_name": "Anna"
     },
     "Bryan Fury": {
-      "codename": "BryanFury"
+      "codename": "BryanFury",
+      "smashgg_name": "Bryan"
     },
     "Doctor Bosconovitch": {
-      "codename": "DoctorBosconovitch"
+      "codename": "DoctorBosconovitch",
+      "smashgg_name": "Doctor B."
     },
     "Eddy Gordo": {
       "codename": "EddyGordo",
@@ -17,31 +20,40 @@
           "name": "Tiger Jackson",
           "is_different_character": true
         }
-      }
+      },
+      "smashgg_name": "Eddy"
     },
     "Forest Law": {
-      "codename": "ForestLaw"
+      "codename": "ForestLaw",
+      "smashgg_name": "Law"
     },
     "Gon": {
-      "codename": "Gon"
+      "codename": "Gon",
+      "smashgg_name": "Gon"
     },
     "Gun Jack": {
-      "codename": "GunJack"
+      "codename": "GunJack",
+      "smashgg_name": "Gun Jack"
     },
     "Heihachi Mishima": {
-      "codename": "HeihachiMishima"
+      "codename": "HeihachiMishima",
+      "smashgg_name": "Heihachi"
     },
     "Hwoarang": {
-      "codename": "Hwoarang"
+      "codename": "Hwoarang",
+      "smashgg_name": "Hwoarang"
     },
     "Jin Kazama": {
-      "codename": "JinKazama"
+      "codename": "JinKazama",
+      "smashgg_name": "Jin"
     },
     "Julia Chang": {
-      "codename": "JuliaChang"
+      "codename": "JuliaChang",
+      "smashgg_name": "Julia"
     },
     "King II": {
-      "codename": "KingII"
+      "codename": "KingII",
+      "smashgg_name": "King"
     },
     "Kuma": {
       "codename": "Kuma",
@@ -50,31 +62,40 @@
           "name": "Panda",
           "is_different_character": true
         }
-      }
+      },
+      "smashgg_name": "Kuma"
     },
     "Lei Wulong": {
-      "codename": "LeiWulong"
+      "codename": "LeiWulong",
+      "smashgg_name": "Lei"
     },
     "Ling Xiaoyu": {
-      "codename": "LingXiaoyu"
+      "codename": "LingXiaoyu",
+      "smashgg_name": "Xiaoyu"
     },
     "Mokujin": {
-      "codename": "Mokujin"
+      "codename": "Mokujin",
+      "smashgg_name": "Mokujin"
     },
     "Nina Williams": {
-      "codename": "NinaWilliams"
+      "codename": "NinaWilliams",
+      "smashgg_name": "Nina"
     },
     "Ogre": {
-      "codename": "Ogre"
+      "codename": "Ogre",
+      "smashgg_name": "Ogre"
     },
     "Paul Phoenix": {
-      "codename": "PaulPhoenix"
+      "codename": "PaulPhoenix",
+      "smashgg_name": "Paul"
     },
     "True Ogre": {
-      "codename": "TrueOgre"
+      "codename": "TrueOgre",
+      "smashgg_name": "True Ogre"
     },
     "Yoshimitsu": {
-      "codename": "Yoshimitsu"
+      "codename": "Yoshimitsu",
+      "smashgg_name": "Yoshimitsu"
     }
   },
   "credits": "",

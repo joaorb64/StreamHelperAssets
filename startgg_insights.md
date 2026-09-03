@@ -399,11 +399,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (38/38)
 
 ## Marvel Tōkon: Fighting Souls
-- Character [Black Panther]: Character name [Black Panther] doesn't exist in StartGG
 - Character [Phoenix Cyclops]: Character name [Phoenix Cyclops] doesn't exist in StartGG
-- Character [Black Panter] not assigned in TSH!
 - Character [Random] not assigned in TSH!
-### Coverage: (20/22)
+### Coverage: (21/22)
 
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG

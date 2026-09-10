@@ -5,47 +5,1035 @@
   "character_to_codename": {
     "Arizona": {
       "smashgg_name": "Arizona",
-      "codename": "Arizona"
+      "codename": "Arizona",
+      "skin_name": {
+        "0": {
+          "name": "Arizona (A)"
+        },
+        "1": {
+          "name": "Wisconsin (B)"
+        },
+        "2": {
+          "name": "Jersey (C)"
+        },
+        "3": {
+          "name": "Dakota (D)"
+        },
+        "4": {
+          "name": "Holstein (TU)"
+        },
+        "5": {
+          "name": "Nebraska (VC)"
+        },
+        "6": {
+          "name": "Lactose Free (A+B+C)"
+        },
+        "7": {
+          "name": "Cheerful (D+TU+VC)"
+        },
+        "8": {
+          "name": "Mauve (A+D)"
+        },
+        "9": {
+          "name": "Punk Funk Bunk (A+B+D)"
+        },
+        "10": {
+          "name": "Dangerously Cheesy (B+D)"
+        },
+        "11": {
+          "name": "How Now (A+C+D)"
+        },
+        "12": {
+          "name": "MooMoo Farm (B+C+D)"
+        },
+        "13": {
+          "name": "Blue Cow (A+B+C+D)"
+        },
+        "14": {
+          "name": "Milk Delivery Service (A+B)"
+        },
+        "15": {
+          "name": "Police Chief (A+TU)"
+        },
+        "16": {
+          "name": "Koi Kow (B+TU)"
+        },
+        "17": {
+          "name": "Milkpool (A+B+TU)"
+        },
+        "18": {
+          "name": "Cowgirl (C+TU)"
+        },
+        "19": {
+          "name": "Stealth Cow (A+C+TU)"
+        },
+        "20": {
+          "name": "Gold & White (B+C+TU)"
+        },
+        "21": {
+          "name": "Alaska (A+B+C+TU)"
+        },
+        "22": {
+          "name": "Moonlit Ace (D+TU)"
+        },
+        "23": {
+          "name": "Macho Cow (A+D+TU)"
+        },
+        "24": {
+          "name": "Green Tea (B+D+TU)"
+        },
+        "25": {
+          "name": "Kiwi/Strawberry (A+B+D+TU)"
+        },
+        "26": {
+          "name": "Lemon (C+D+TU)"
+        },
+        "27": {
+          "name": "Cowmooflage (A+C+D+TU)"
+        },
+        "28": {
+          "name": "Sky Cow (B+C+D+TU)"
+        },
+        "29": {
+          "name": "Effervescent Kicks (A+B+C+D+TU)"
+        },
+        "30": {
+          "name": "GRL:D (A+C)"
+        },
+        "31": {
+          "name": "Tennis Shoes (B+D)"
+        },
+        "32": {
+          "name": "Dead Meat (B+C)"
+        },
+        "33": {
+          "name": "One For All (A+VC)"
+        },
+        "34": {
+          "name": "Marching Fishes (C+VC)"
+        }
+      }
     },
     "Oleander": {
       "smashgg_name": "Oleander",
-      "codename": "Oleander"
+      "codename": "Oleander",
+      "skin_name": {
+        "0": {
+          "name": "Oleander (A)"
+        },
+        "1": {
+          "name": "Pure (B)"
+        },
+        "2": {
+          "name": "Cappucino (C)"
+        },
+        "3": {
+          "name": "Feli (D)"
+        },
+        "4": {
+          "name": "Prince of Darkness (TU)"
+        },
+        "5": {
+          "name": "Mocha (VC)"
+        },
+        "6": {
+          "name": "_N_C_RN CH_MP__N (A+B+C)"
+        },
+        "7": {
+          "name": "Hero (D+TU+VC)"
+        },
+        "8": {
+          "name": "Psychic Type (A+D)"
+        },
+        "9": {
+          "name": "Biznis (A+B+D)"
+        },
+        "10": {
+          "name": "Jungler (C+D)"
+        },
+        "11": {
+          "name": "Dusk Royalty (A+C+D)"
+        },
+        "12": {
+          "name": "Tam Lin (B+C+D)"
+        },
+        "13": {
+          "name": "Spark (A+B+C+D)"
+        },
+        "14": {
+          "name": "Dabbler (A+B)"
+        },
+        "15": {
+          "name": "White Mint (A+TU)"
+        },
+        "16": {
+          "name": "Mecha (B+TU)"
+        },
+        "17": {
+          "name": "Fiery Sunset (A+B+TU)"
+        },
+        "18": {
+          "name": "Powerful (C+TU)"
+        },
+        "19": {
+          "name": "Demon Child (A+C+TU)"
+        },
+        "20": {
+          "name": "Paladin (B+C+TU)"
+        },
+        "21": {
+          "name": "Shades of Blue (A+B+C+TU)"
+        },
+        "22": {
+          "name": "Shades of Grey (D+TU)"
+        },
+        "23": {
+          "name": "Captain (A+D+TU)"
+        },
+        "24": {
+          "name": "DJ (B+D+TU)"
+        },
+        "25": {
+          "name": "MAB (A+B+D+TU)"
+        },
+        "26": {
+          "name": "The Last (C+D+TU)"
+        },
+        "27": {
+          "name": "Lunamancy (A+C+D+TU)"
+        },
+        "28": {
+          "name": "Eternal Lie (B+C+D+TU)"
+        },
+        "29": {
+          "name": "Nocturnal (A+B+C+D+TU)"
+        },
+        "30": {
+          "name": "Flora (A+C)"
+        },
+        "31": {
+          "name": "Eastern (A+VC)"
+        },
+        "32": {
+          "name": "Titan (B+VC)"
+        },
+        "33": {
+          "name": "Ark Ham (A+B+VC)"
+        },
+        "34": {
+          "name": "Hallowed (C+VC)"
+        },
+        "35": {
+          "name": "Fifth Gen (?)"
+        },
+        "36": {
+          "name": "WRTCHD (B+C+VC)"
+        },
+        "37": {
+          "name": "Fight of the Living Dead (B+C)"
+        },
+        "38": {
+          "name": "Tactician (?)"
+        },
+        "39": {
+          "name": "Hell's Grenade (?)"
+        }
+      }
     },
     "Paprika": {
       "smashgg_name": "Paprika",
-      "codename": "Paprika"
+      "codename": "Paprika",
+      "skin_name": {
+        "0": {
+          "name": "Paprika (A)"
+        },
+        "1": {
+          "name": "Seasoning (B)"
+        },
+        "2": {
+          "name": "Emperor (C)"
+        },
+        "3": {
+          "name": "Pirate (D)"
+        },
+        "4": {
+          "name": "Plush (TU)"
+        },
+        "5": {
+          "name": "Chocolate (VC)"
+        },
+        "6": {
+          "name": "Arupaka (A+B+C)"
+        },
+        "7": {
+          "name": "Crossing (D+TU+VC)"
+        },
+        "8": {
+          "name": "Merchant (A+D)"
+        },
+        "9": {
+          "name": "Cinnamon (A+B+D)"
+        },
+        "10": {
+          "name": "Herd Leader (C+D)"
+        },
+        "11": {
+          "name": "Garlic Salt (A+C+D)"
+        },
+        "12": {
+          "name": "Hot Sauce (B+C+D)"
+        },
+        "13": {
+          "name": "Meanie (A+B+C+D)"
+        },
+        "14": {
+          "name": "Papourri (A+B)"
+        },
+        "15": {
+          "name": "Bergamot (A+TU)"
+        },
+        "16": {
+          "name": "Royal Blue (B+TU)"
+        },
+        "17": {
+          "name": "Who? (A+B+TU)"
+        },
+        "18": {
+          "name": "Spicy (C+TU)"
+        },
+        "19": {
+          "name": "Seasoned (A+C+TU)"
+        },
+        "20": {
+          "name": "Beachy Keen (B+C+TU)"
+        },
+        "21": {
+          "name": "Peppery (A+B+C+TU)"
+        },
+        "22": {
+          "name": "Zesty (D+TU)"
+        },
+        "23": {
+          "name": "Smash! (A+D+TU)"
+        },
+        "24": {
+          "name": "Ten-Ton Magical Paca (B+D+TU)"
+        },
+        "25": {
+          "name": "HNTD (A+B+D+TU)"
+        },
+        "26": {
+          "name": "Loving Dead Girl (B+C)"
+        },
+        "27": {
+          "name": "MofuMofu (?)"
+        },
+        "28": {
+          "name": "Fifth Slash (?)"
+        }
+      }
     },
     "Pom": {
       "smashgg_name": "Pom",
-      "codename": "Pom"
+      "codename": "Pom",
+      "skin_name": {
+        "0": {
+          "name": "Pom (A)"
+        },
+        "1": {
+          "name": "Fleece (B)"
+        },
+        "2": {
+          "name": "Floof (C)"
+        },
+        "3": {
+          "name": "Mocha (D)"
+        },
+        "4": {
+          "name": "Catch 'Em All (TU)"
+        },
+        "5": {
+          "name": "Woah Mama (VC)"
+        },
+        "6": {
+          "name": "Shepherdess (A+B+C)"
+        },
+        "7": {
+          "name": "Beep Beep (D+TU+VC)"
+        },
+        "8": {
+          "name": "Mint Jelly (A+D)"
+        },
+        "9": {
+          "name": "Mutton Chops (A+B+D)"
+        },
+        "10": {
+          "name": "In League (C+D)"
+        },
+        "11": {
+          "name": "Sheep Wrecked (A+C+D)"
+        },
+        "12": {
+          "name": "It Is a Mystery (B+C+D)"
+        },
+        "13": {
+          "name": "Electric Sheep (A+B+C+D)"
+        },
+        "14": {
+          "name": "Good Morning Mayor (A+B)"
+        },
+        "15": {
+          "name": "Starfall (A+TU)"
+        },
+        "16": {
+          "name": "Cotton Floss (B+TU)"
+        },
+        "17": {
+          "name": "Citrus Twist (A+B+TU)"
+        },
+        "18": {
+          "name": "Yard Sheep (C+TU)"
+        },
+        "19": {
+          "name": "New Sheep (A+C+TU)"
+        },
+        "20": {
+          "name": "Tenderfoot (B+C+TU)"
+        },
+        "21": {
+          "name": "Illudium Q-36 (A+B+C+TU)"
+        },
+        "22": {
+          "name": "What Time Is It (D+TU)"
+        },
+        "23": {
+          "name": "Shigefumi Steed (A+D+TU)"
+        },
+        "24": {
+          "name": "DVRD (B+D+TU)"
+        },
+        "25": {
+          "name": "Bellraiser (B+C)"
+        },
+        "26": {
+          "name": "Brightest Day (?)"
+        },
+        "27": {
+          "name": "Double Typhoon (?)"
+        }
+      }
     },
     "Tianhuo": {
       "smashgg_name": "Tianhuo",
-      "codename": "Tianhuo"
+      "codename": "Tianhuo",
+      "skin_name": {
+        "0": {
+          "name": "Tianhuo (A)"
+        },
+        "1": {
+          "name": "Shadow Actual (B)"
+        },
+        "2": {
+          "name": "Clever Girl (C)"
+        },
+        "3": {
+          "name": "Under the Mountain (D)"
+        },
+        "4": {
+          "name": "Ember (TU)"
+        },
+        "5": {
+          "name": "Origin Goddess (VC)"
+        },
+        "6": {
+          "name": "Welcome to Die (A+B+C)"
+        },
+        "7": {
+          "name": "Mega X (D+TU+VC)"
+        },
+        "8": {
+          "name": "Enforced Monarch (A+D)"
+        },
+        "9": {
+          "name": "Guardian Spirit (A+B+D)"
+        },
+        "10": {
+          "name": "In Another Castle (C+D)"
+        },
+        "11": {
+          "name": "Princess Guardian (A+C+D)"
+        },
+        "12": {
+          "name": "Fire Type (B+C+D)"
+        },
+        "13": {
+          "name": "Wicked (A+B+C+D)"
+        },
+        "14": {
+          "name": "Snek (A+B)"
+        },
+        "15": {
+          "name": "Royal Gold (A+TU)"
+        },
+        "16": {
+          "name": "Violet (B+TU)"
+        },
+        "17": {
+          "name": "Orange (A+B+TU)"
+        },
+        "18": {
+          "name": "Blue Eyes (C+TU)"
+        },
+        "19": {
+          "name": "Spyral (A+C+TU)"
+        },
+        "20": {
+          "name": "Not Prepared (B+C+TU)"
+        },
+        "21": {
+          "name": "Dark Fire (A+B+C+TU)"
+        },
+        "22": {
+          "name": "Spirited (D+TU)"
+        },
+        "23": {
+          "name": "Pyre (A+D+TU)"
+        },
+        "24": {
+          "name": "Chestnut Jade (B+D+TU)"
+        },
+        "25": {
+          "name": "Longma (A+B+D+TU)"
+        },
+        "26": {
+          "name": "River Dancer (C+D+TU)"
+        },
+        "27": {
+          "name": "RMC OCV (A+C+D+TU)"
+        },
+        "28": {
+          "name": "Phlogiston (B+C+D+TU)"
+        },
+        "29": {
+          "name": "Combustion (A+B+C+D+TU)"
+        },
+        "30": {
+          "name": "Spyraler (A+C)"
+        },
+        "31": {
+          "name": "Spark (A+VC)"
+        },
+        "32": {
+          "name": "Boom! (B+VC)"
+        },
+        "33": {
+          "name": "Charring (A+B+VC)"
+        },
+        "34": {
+          "name": "Tinder (C+VC)"
+        },
+        "35": {
+          "name": "Game of Deaths (?)"
+        },
+        "36": {
+          "name": "Fidgety (B+C+VC)"
+        },
+        "37": {
+          "name": "Water Dragon (?)"
+        },
+        "38": {
+          "name": "TRCHD (D+VC)"
+        },
+        "39": {
+          "name": "Death from Above (B+C+VC)"
+        },
+        "40": {
+          "name": "Sacred Bond (?)"
+        },
+        "41": {
+          "name": "Mega Flame (?)"
+        }
+      }
     },
     "Velvet": {
       "smashgg_name": "Velvet",
-      "codename": "Velvet"
+      "codename": "Velvet",
+      "skin_name": {
+        "0": {
+          "name": "Velvet (A)"
+        },
+        "1": {
+          "name": "Icy (B)"
+        },
+        "2": {
+          "name": "Ice Pop (C)"
+        },
+        "3": {
+          "name": "Solstice (D)"
+        },
+        "4": {
+          "name": "Maniacal Laughter (TU)"
+        },
+        "5": {
+          "name": "Cotton Tail (VC)"
+        },
+        "6": {
+          "name": "Deep Winter (A+B+C)"
+        },
+        "7": {
+          "name": "Strong Hoof (D+TU+VC)"
+        },
+        "8": {
+          "name": "Below Zero (A+D)"
+        },
+        "9": {
+          "name": "Neapolitan (A+B+D)"
+        },
+        "10": {
+          "name": "Mulled Wine (C+D)"
+        },
+        "11": {
+          "name": "Butter Caramel (A+C+D)"
+        },
+        "12": {
+          "name": "640 (B+C+D)"
+        },
+        "13": {
+          "name": "Aura (A+B+C+D)"
+        },
+        "14": {
+          "name": "Arctic Blue (A+B)"
+        },
+        "15": {
+          "name": "Oh Deer (A+TU)"
+        },
+        "16": {
+          "name": "Ice & Fire (B+TU)"
+        },
+        "17": {
+          "name": "Chilling (A+B+TU)"
+        },
+        "18": {
+          "name": "Arctic (C+TU)"
+        },
+        "19": {
+          "name": "Deep Blue (A+C+TU)"
+        },
+        "20": {
+          "name": "Chestnut (B+C+TU)"
+        },
+        "21": {
+          "name": "Equinox (A+B+C+TU)"
+        },
+        "22": {
+          "name": "Niflheim (D+TU)"
+        },
+        "23": {
+          "name": "Valentino (A+D+TU)"
+        },
+        "24": {
+          "name": "VIP (B+D+TU)"
+        },
+        "25": {
+          "name": "Chilly Sunrise (A+B+D+TU)"
+        },
+        "26": {
+          "name": "Candy Floof (C+D+TU)"
+        },
+        "27": {
+          "name": "Winter Night (A+C+D+TU)"
+        },
+        "28": {
+          "name": "Frosty (B+C+D+TU)"
+        },
+        "29": {
+          "name": "Winter Sunset (A+B+C+D+TU)"
+        },
+        "30": {
+          "name": "Majestic Milliner (A+C)"
+        },
+        "31": {
+          "name": "Glacial (A+VC)"
+        },
+        "32": {
+          "name": "Bird of Prey (B+VC)"
+        },
+        "33": {
+          "name": "FRZN (A+B+VC)"
+        },
+        "34": {
+          "name": "Just Fabulous (B+D)"
+        },
+        "35": {
+          "name": "A Song of Ice (B+C)"
+        },
+        "36": {
+          "name": "Red Velvet (?)"
+        },
+        "37": {
+          "name": "Koyousetsu (?)"
+        }
+      }
     },
     "Shanty": {
       "smashgg_name": "Shanty",
-      "codename": "Shanty"
+      "codename": "Shanty",
+      "skin_name": {
+        "0": {
+          "name": "Shanty (A)"
+        },
+        "1": {
+          "name": "Ditty (B)"
+        },
+        "2": {
+          "name": "What Shall We Do (C)"
+        },
+        "3": {
+          "name": "D'ja Make Er? (D)"
+        },
+        "4": {
+          "name": "And a Bottle of Rum (TU)"
+        },
+        "5": {
+          "name": "Fizzy Lemon (VC)"
+        },
+        "6": {
+          "name": "Emerald Splash (A+B+C)"
+        },
+        "7": {
+          "name": "Wild Wave (D+TU+VC)"
+        },
+        "8": {
+          "name": "Akerbeltz (A+D)"
+        },
+        "9": {
+          "name": "Goatmom (A+B+D)"
+        },
+        "10": {
+          "name": "Shout of Sea (C+D)"
+        },
+        "11": {
+          "name": "Lightning Rival (A+C+D)"
+        },
+        "12": {
+          "name": "Jellyfish Pirate (B+C+D)"
+        },
+        "13": {
+          "name": "Grass Pelt (A+B+C+D)"
+        },
+        "14": {
+          "name": "I'm So Sorry (A+B)"
+        },
+        "15": {
+          "name": "Miracle Courtier (A+TU)"
+        },
+        "16": {
+          "name": "Dangerous Hoofwear (B+TU)"
+        },
+        "17": {
+          "name": "Island Villager (A+B+TU)"
+        },
+        "18": {
+          "name": "Super Bleat Kid (C+TU)"
+        },
+        "19": {
+          "name": "Who We Are (A+C+TU)"
+        },
+        "20": {
+          "name": "Hooligan Punk (B+C+TU)"
+        },
+        "21": {
+          "name": "Baaah, Avast! (A+B+C+TU)"
+        },
+        "22": {
+          "name": "Donut Steele (D+TU)"
+        },
+        "23": {
+          "name": "Surf's Up (A+D+TU)"
+        },
+        "24": {
+          "name": "Insolated (B+D+TU)"
+        },
+        "25": {
+          "name": "Shakalaka Bam (A+B+D+TU)"
+        },
+        "26": {
+          "name": "Dark Prince (C+D+TU)"
+        },
+        "27": {
+          "name": "Captain (A+C+D+TU)"
+        },
+        "28": {
+          "name": "Graffiti Gyal (B+C+D+TU)"
+        },
+        "29": {
+          "name": "KLR:D (A+B+C+D+TU)"
+        },
+        "30": {
+          "name": "28 Ays Later (B+C)"
+        },
+        "31": {
+          "name": "Miki Miki (?)"
+        },
+        "32": {
+          "name": "Night of Fire (?)"
+        }
+      }
     },
     "Texas": {
       "smashgg_name": "Texas",
-      "codename": "Texas"
+      "codename": "Texas",
+      "skin_name": {
+        "0": {
+          "name": "Texas (A)"
+        },
+        "1": {
+          "name": "Durango (B)"
+        },
+        "2": {
+          "name": "Colorado (C)"
+        },
+        "3": {
+          "name": "Delaware (D)"
+        },
+        "4": {
+          "name": "Honglorns (TU)"
+        },
+        "5": {
+          "name": "EP035 (VC)"
+        },
+        "6": {
+          "name": "Soldier of Zepp (A+B+C)"
+        },
+        "7": {
+          "name": "Behemoth Typhoon (D+TU+VC)"
+        },
+        "8": {
+          "name": "Red, White, and Moo (A+D)"
+        },
+        "9": {
+          "name": "Gives You Wings (B+D)"
+        },
+        "10": {
+          "name": "Incredible (A+B+D)"
+        },
+        "11": {
+          "name": "Gazelle Fan (C+D)"
+        },
+        "12": {
+          "name": "Purplemenace (A+C+D)"
+        },
+        "13": {
+          "name": "TRMPLD (B+C+D)"
+        },
+        "14": {
+          "name": "Train to Moosan (B+C)"
+        },
+        "15": {
+          "name": "Hammer Spark (?)"
+        }
+      }
     },
     "Stronghoof": {
       "smashgg_name": "Stronghoof",
-      "codename": "Stronghoof"
+      "codename": "Stronghoof",
+      "skin_name": {
+        "0": {
+          "name": "Stronghoof (A)"
+        },
+        "1": {
+          "name": "Old Buck Stronghoof (B)"
+        },
+        "2": {
+          "name": "Shield Maiden (C)"
+        },
+        "3": {
+          "name": "Matchmaker (D)"
+        },
+        "4": {
+          "name": "The Big Guy (TU)"
+        },
+        "5": {
+          "name": "Violaceous (VC)"
+        },
+        "6": {
+          "name": "Knight of Rot (A+B+C)"
+        },
+        "7": {
+          "name": "Beautiful Style (D+TU+VC)"
+        },
+        "8": {
+          "name": "Winter Buck (A+D)"
+        },
+        "9": {
+          "name": "Alchemist (B+D)"
+        },
+        "10": {
+          "name": "Forest God (A+B+D)"
+        },
+        "11": {
+          "name": "Warrior God (C+D)"
+        },
+        "12": {
+          "name": "Strongest Dad Alive (A+C+D)"
+        },
+        "13": {
+          "name": "RGNRK (B+C+D)"
+        },
+        "14": {
+          "name": "Helheim (B+C)"
+        },
+        "15": {
+          "name": "Jouenkobu (?)"
+        }
+      }
     },
     "Nidra": {
       "smashgg_name": "Nidra",
-      "codename": "Nidra"
+      "codename": "Nidra",
+      "skin_name": {
+        "0": {
+          "name": "Nidra (A)"
+        },
+        "1": {
+          "name": "White Lotus (B)"
+        },
+        "2": {
+          "name": "Chilli Pepper (C)"
+        },
+        "3": {
+          "name": "Coffe Bean (D)"
+        },
+        "4": {
+          "name": "Just Peachy (TU)"
+        },
+        "5": {
+          "name": "Choco Dip (VC)"
+        },
+        "6": {
+          "name": "Hot Matcha (A+B+C)"
+        },
+        "7": {
+          "name": "Nite Lite (D+TU+VC)"
+        },
+        "8": {
+          "name": "Buttered Popcorn (A+D)"
+        },
+        "9": {
+          "name": "Creamsicle (A+B+D)"
+        },
+        "10": {
+          "name": "Honk Shoe (B+D)"
+        },
+        "11": {
+          "name": "Midnight Mist (C + D)"
+        },
+        "12": {
+          "name": "Bronze (A+C+D)"
+        },
+        "13": {
+          "name": "Dreamland (B+C+D)"
+        },
+        "14": {
+          "name": "Nap in the Garden (A+B+C+D)"
+        },
+        "15": {
+          "name": "Snoozy (A+B)"
+        },
+        "16": {
+          "name": "Dream Yard (A+TU)"
+        },
+        "17": {
+          "name": "Moomin (B+TU)"
+        },
+        "18": {
+          "name": "On the Beat (A+B+TU)"
+        },
+        "19": {
+          "name": "Henshin (C+TU)"
+        },
+        "20": {
+          "name": "TRMNTD (A+C+TU)"
+        },
+        "21": {
+          "name": "Night of the Sleeping Dead (B+C+TU)"
+        },
+        "22": {
+          "name": "Nightmare Syndrome (A+B+C+TU)"
+        }
+      }
     },
     "Baihe": {
       "smashgg_name": "Baihe",
-      "codename": "Baihe"
+      "codename": "Baihe",
+      "skin_name": {
+        "0": {
+          "name": "Baihe (A)"
+        },
+        "1": {
+          "name": "Pink Peppercorn (B)"
+        },
+        "2": {
+          "name": "Liquid Gold (C)"
+        },
+        "3": {
+          "name": "Berry Blaze (D)"
+        },
+        "4": {
+          "name": "Ashen (TU)"
+        },
+        "5": {
+          "name": "Banana Peppercorn (VC)"
+        },
+        "6": {
+          "name": "Ignition Switch (A+B+C)"
+        },
+        "7": {
+          "name": "Solar Flare (D+TU+VC)"
+        },
+        "8": {
+          "name": "Sport Shoes (B+D)"
+        },
+        "9": {
+          "name": "Sunbeam (A+D)"
+        },
+        "10": {
+          "name": "Lilac Plume (A+B+D)"
+        },
+        "11": {
+          "name": "I Wish I Wish (C + D)"
+        },
+        "12": {
+          "name": "Arm Cannon (A+C+D)"
+        },
+        "13": {
+          "name": "Deadeye (B+C+D)"
+        },
+        "14": {
+          "name": "Ancient Light (A+B+C+D)"
+        },
+        "15": {
+          "name": "Fuel to the Fire (A+B)"
+        },
+        "16": {
+          "name": "Hawk's Eye (A+TU)"
+        },
+        "17": {
+          "name": "Viking Flyer (B+TU)"
+        },
+        "18": {
+          "name": "Mega Y (A+B+TU)"
+        },
+        "19": {
+          "name": "HDSHT (C+TU)"
+        },
+        "20": {
+          "name": "Boom Headshot (A+C+TU)"
+        },
+        "21": {
+          "name": "Plasma Blade (B+C+TU)"
+        }
+      }
     }
   },
   "stage_to_codename": {},

@@ -4,43 +4,56 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Asuka Honda": {
-      "codename": "AsukaHonda"
+      "codename": "AsukaHonda",
+      "parrygg_slug": "asuka-honda"
     },
     "Ryuko Yamazaki": {
-      "codename": "RyukoYamazaki"
+      "codename": "RyukoYamazaki",
+      "parrygg_slug": "ryuko-yamazaki"
     },
     "Torami Houjyou": {
-      "codename": "ToramiHoujyou"
+      "codename": "ToramiHoujyou",
+      "parrygg_slug": "torami-houjyou"
     },
     "Megumi Suzuki": {
-      "codename": "MegumiSuzuki"
+      "codename": "MegumiSuzuki",
+      "parrygg_slug": "megumi-suzuki"
     },
     "Kumi Ookubo": {
-      "codename": "KumiOokubo"
+      "codename": "KumiOokubo",
+      "parrygg_slug": "kumi-ookubo"
     },
     "Tamaki Shindou": {
-      "codename": "TamakiShindou"
+      "codename": "TamakiShindou",
+      "parrygg_slug": "tamaki-shindou"
     },
     "Karina Toyota": {
-      "codename": "KarinaToyota"
+      "codename": "KarinaToyota",
+      "parrygg_slug": "karina-toyota"
     },
     "Nana Owada": {
-      "codename": "NanaOwada"
+      "codename": "NanaOwada",
+      "parrygg_slug": "nana-owada"
     },
     "Kiyoko Mitarai": {
-      "codename": "KiyokoMitarai"
+      "codename": "KiyokoMitarai",
+      "parrygg_slug": "kiyoko-mitarai"
     },
     "Cathy Wild": {
-      "codename": "CathyWild"
+      "codename": "CathyWild",
+      "parrygg_slug": "cathy-wild"
     },
     "Shinobu Kawasaki": {
-      "codename": "ShinobuKawasaki"
+      "codename": "ShinobuKawasaki",
+      "parrygg_slug": "shinobu-kawasaki"
     },
     "Tetsuko Ougigaya": {
-      "codename": "TetsukoOugigaya"
+      "codename": "TetsukoOugigaya",
+      "parrygg_slug": "tetsuko-ougigaya"
     },
     "Genichirou Shindou": {
-      "codename": "GenichirouShindou"
+      "codename": "GenichirouShindou",
+      "parrygg_slug": "genichirou-shindou"
     }
   },
   "stage_to_codename": {},

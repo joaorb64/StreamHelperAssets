@@ -2,91 +2,118 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Assassin": {
-      "codename": "Assassin"
+      "codename": "Assassin",
+      "parrygg_slug": "assassin"
     },
     "Astaroth": {
-      "codename": "Astaroth"
+      "codename": "Astaroth",
+      "parrygg_slug": "astaroth"
     },
     "Berserker": {
-      "codename": "Berserker"
+      "codename": "Berserker",
+      "parrygg_slug": "berserker"
     },
     "Cassandra Alexandra": {
-      "codename": "CassandraAlexandra"
+      "codename": "CassandraAlexandra",
+      "parrygg_slug": "cassandra-alexandra"
     },
     "Cervantes de Leon": {
-      "codename": "CervantesdeLeon"
+      "codename": "CervantesdeLeon",
+      "parrygg_slug": "cervantes-de-leon"
     },
     "Chai Xianghua": {
-      "codename": "ChaiXianghua"
+      "codename": "ChaiXianghua",
+      "parrygg_slug": "chai-xianghua"
     },
     "Charade": {
-      "codename": "Charade"
+      "codename": "Charade",
+      "parrygg_slug": "charade"
     },
     "Heihachi Mishima": {
-      "codename": "HeihachiMishima"
+      "codename": "HeihachiMishima",
+      "parrygg_slug": "heihachi-mishima"
     },
     "Heishiro Mitsurugi": {
-      "codename": "HeishiroMitsurugi"
+      "codename": "HeishiroMitsurugi",
+      "parrygg_slug": "heishiro-mitsurugi"
     },
     "Hong Yun-Seong": {
-      "codename": "HongYunsung"
+      "codename": "HongYunsung",
+      "parrygg_slug": "hong-yun-seong"
     },
     "Isabella \"Ivy\" Valentine": {
-      "codename": "IsabellaIvyValentine"
+      "codename": "IsabellaIvyValentine",
+      "parrygg_slug": "isabella-ivy-valentine"
     },
     "Kilik": {
-      "codename": "Kilik"
+      "codename": "Kilik",
+      "parrygg_slug": "kilik"
     },
     "Link": {
       "codename": "Link",
       "igdb_playable_list": [
         "soulcalibur-ii--2"
-      ]
+      ],
+      "parrygg_slug": "link"
     },
     "Lizardman": {
-      "codename": "Lizardman"
+      "codename": "Lizardman",
+      "parrygg_slug": "lizardman"
     },
     "Maxi": {
-      "codename": "Maxi"
+      "codename": "Maxi",
+      "parrygg_slug": "maxi"
     },
     "Necrid": {
-      "codename": "Necrid"
+      "codename": "Necrid",
+      "parrygg_slug": "necrid"
     },
     "Nightmare (Siegfried Schtauffen)": {
-      "codename": "Nightmare"
+      "codename": "Nightmare",
+      "parrygg_slug": "nightmare-siegfried-schtauffen"
     },
     "Raphael Sorel": {
-      "codename": "RaphaelSorel"
+      "codename": "RaphaelSorel",
+      "parrygg_slug": "raphael-sorel"
     },
     "Seong Mi-na": {
-      "codename": "SeungMina"
+      "codename": "SeungMina",
+      "parrygg_slug": "seong-mi-na"
     },
     "Sophitia Alexandra": {
-      "codename": "SophitiaAlexandra"
+      "codename": "SophitiaAlexandra",
+      "parrygg_slug": "sophitia-alexandra"
     },
     "Spawn": {
-      "codename": "Spawn"
+      "codename": "Spawn",
+      "parrygg_slug": "spawn"
     },
     "Taki": {
-      "codename": "Taki"
+      "codename": "Taki",
+      "parrygg_slug": "taki"
     },
     "Talim": {
-      "codename": "Talim"
+      "codename": "Talim",
+      "parrygg_slug": "talim"
     },
     "Voldo": {
-      "codename": "Voldo"
+      "codename": "Voldo",
+      "parrygg_slug": "voldo"
     },
     "Yoshimitsu": {
-      "codename": "Yoshimitsu"
+      "codename": "Yoshimitsu",
+      "parrygg_slug": "yoshimitsu"
     },
     "Inferno": {
-      "codename": "Inferno"
+      "codename": "Inferno",
+      "parrygg_slug": "inferno"
     },
     "Random": {
       "codename": "Random",
       "locale": {
         "fr": "Al\u00e9atoire"
-      }
+      },
+      "parrygg_slug": "random"
     }
   },
   "credits": "",

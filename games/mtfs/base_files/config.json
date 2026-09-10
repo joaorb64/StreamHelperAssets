@@ -3,95 +3,115 @@
   "character_to_codename": {
     "Captain America": {
       "codename": "CaptainAmerica",
-      "smashgg_name": "Captain America"
+      "smashgg_name": "Captain America",
+      "parrygg_slug": "captain-america"
     },
     "Doctor Doom": {
       "codename": "DoctorDoom",
       "locale": {
         "fr": "Docteur Fatalis"
       },
-      "smashgg_name": "Dr. Doom"
+      "smashgg_name": "Dr. Doom",
+      "parrygg_slug": "doctor-doom"
     },
     "Ghost Rider": {
       "codename": "GhostRider",
-      "smashgg_name": "Ghost Rider"
+      "smashgg_name": "Ghost Rider",
+      "parrygg_slug": "ghost-rider"
     },
     "Iron Man": {
       "codename": "IronMan",
-      "smashgg_name": "Iron Man"
+      "smashgg_name": "Iron Man",
+      "parrygg_slug": "iron-man"
     },
     "Ms. Marvel": {
       "codename": "MsMarvel",
-      "smashgg_name": "Ms. Marvel"
+      "smashgg_name": "Ms. Marvel",
+      "parrygg_slug": "ms-marvel"
     },
     "Spider-Man": {
       "codename": "SpiderMan",
-      "smashgg_name": "Spider-Man"
+      "smashgg_name": "Spider-Man",
+      "parrygg_slug": "spider-man"
     },
     "Star-Lord": {
       "codename": "StarLord",
-      "smashgg_name": "Star-Lord"
+      "smashgg_name": "Star-Lord",
+      "parrygg_slug": "star-lord"
     },
     "Storm": {
       "codename": "Storm",
       "locale": {
         "fr": "Tornade"
       },
-      "smashgg_name": "Storm"
+      "smashgg_name": "Storm",
+      "parrygg_slug": "storm"
     },
     "Wolverine": {
       "codename": "Wolverine",
-      "smashgg_name": "Wolverine"
+      "smashgg_name": "Wolverine",
+      "parrygg_slug": "wolverine"
     },
     "Magik": {
       "codename": "Magik",
-      "smashgg_name": "Magik"
+      "smashgg_name": "Magik",
+      "parrygg_slug": "magik"
     },
     "Danger": {
       "codename": "Danger",
-      "smashgg_name": "Danger"
+      "smashgg_name": "Danger",
+      "parrygg_slug": "danger"
     },
     "Peni Parker": {
       "codename": "Peni",
-      "smashgg_name": "Peni"
+      "smashgg_name": "Peni",
+      "parrygg_slug": "peni-parker"
     },
     "Black Panther": {
       "codename": "Shuri",
       "locale": {
         "fr": "Panth\u00e8re noire"
       },
-      "smashgg_name": "Black Panter"
+      "smashgg_name": "Black Panter",
+      "parrygg_slug": "black-panther"
     },
     "Hulk": {
       "codename": "Hulk",
-      "smashgg_name": "Hulk"
+      "smashgg_name": "Hulk",
+      "parrygg_slug": "hulk"
     },
     "Magneto": {
       "codename": "Magneto",
-      "smashgg_name": "Magneto"
+      "smashgg_name": "Magneto",
+      "parrygg_slug": "magneto"
     },
     "Green Goblin": {
       "codename": "Goblin",
       "locale": {
         "fr": "Bouffon Vert"
       },
-      "smashgg_name": "Green Goblin"
+      "smashgg_name": "Green Goblin",
+      "parrygg_slug": "green-goblin"
     },
     "Carnage": {
       "codename": "Carnage",
-      "smashgg_name": "Carnage"
+      "smashgg_name": "Carnage",
+      "parrygg_slug": "carnage"
     },
     "Loki": {
       "codename": "Loki",
-      "smashgg_name": "Loki"
+      "smashgg_name": "Loki",
+      "parrygg_slug": "loki"
     },
     "Blade": {
       "codename": "Blade",
-      "smashgg_name": "Blade"
+      "smashgg_name": "Blade",
+      "parrygg_slug": "blade"
     },
     "Deadpool": {
       "codename": "Deadpool",
-      "smashgg_name": "Deadpool"
+      "smashgg_name": "Deadpool",
+      "parrygg_slug": "deadpool"
     },
     "Phoenix Cyclops": {
       "codename": "Cyclops",
@@ -102,7 +122,8 @@
       "locale": {
         "fr": "Le Champion"
       },
-      "smashgg_name": "Champion"
+      "smashgg_name": "Champion",
+      "parrygg_slug": "the-champion"
     }
   },
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
@@ -111,37 +132,44 @@
   "smashgg_game_id": 107706,
   "stage_to_codename": {
     "Knowhere": {
-      "codename": "Knowhere"
+      "codename": "Knowhere",
+      "parrygg_slug": "knowhere"
     },
     "Marvel's New York": {
       "codename": "NewYork",
       "locale": {
         "fr": "New York de Marvel"
-      }
+      },
+      "parrygg_slug": "marvel-s-new-york"
     },
     "Marvel's New York (Night)": {
       "codename": "NewYorkNight",
       "locale": {
         "fr": "New York de Marvel (nuit)"
-      }
+      },
+      "parrygg_slug": "marvel-s-new-york-night"
     },
     "Savage Land": {
       "codename": "SavageLand",
       "locale": {
         "fr": "Terre sauvage"
-      }
+      },
+      "parrygg_slug": "savage-land"
     },
     "X-Mansion": {
       "codename": "XMansion",
       "locale": {
         "fr": "Institut Xavier"
-      }
+      },
+      "parrygg_slug": "x-mansion"
     },
     "Wakanda": {
-      "codename": "Wakanda"
+      "codename": "Wakanda",
+      "parrygg_slug": "wakanda"
     },
     "Asgard": {
-      "codename": "Asgard"
+      "codename": "Asgard",
+      "parrygg_slug": "asgard"
     }
   },
   "version": "26.09.01.71547",

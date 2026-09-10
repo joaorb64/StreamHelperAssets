@@ -5,119 +5,148 @@
   "character_to_codename": {
     "SpongeBob SquarePants": {
       "codename": "SpongeBob",
-      "smashgg_name": "SpongeBob SquarePants"
+      "smashgg_name": "SpongeBob SquarePants",
+      "parrygg_slug": "sponge-bob-square-pants"
     },
     "Patrick Star": {
       "codename": "Patrick",
-      "smashgg_name": "Patrick Star"
+      "smashgg_name": "Patrick Star",
+      "parrygg_slug": "patrick-star"
     },
     "Squidward Tentacles": {
       "codename": "Squidward",
-      "smashgg_name": "Squidward Tentacles"
+      "smashgg_name": "Squidward Tentacles",
+      "parrygg_slug": "squidward-tentacles"
     },
     "Mecha Plankton": {
       "codename": "MechaPlankton",
-      "smashgg_name": "Plankton"
+      "smashgg_name": "Plankton",
+      "parrygg_slug": "mecha-plankton"
     },
     "El Tigre": {
       "codename": "ElTigre",
-      "smashgg_name": "El Tigre"
+      "smashgg_name": "El Tigre",
+      "parrygg_slug": "el-tigre"
     },
     "Rocko": {
       "codename": "Rocko",
-      "smashgg_name": "Rocko"
+      "smashgg_name": "Rocko",
+      "parrygg_slug": "rocko"
     },
     "Jimmy Neutron": {
       "codename": "Jimmy",
-      "smashgg_name": "Jimmy Neutron"
+      "smashgg_name": "Jimmy Neutron",
+      "parrygg_slug": "jimmy-neutron"
     },
     "Lucy Loud": {
       "codename": "Lucy",
-      "smashgg_name": "Lucy Loud"
+      "smashgg_name": "Lucy Loud",
+      "parrygg_slug": "lucy-loud"
     },
     "Angry Beavers": {
       "codename": "Dagget",
-      "smashgg_name": "Angry Beavers"
+      "smashgg_name": "Angry Beavers",
+      "parrygg_slug": "angry-beavers"
     },
     "Garfield": {
       "codename": "Garfield",
-      "smashgg_name": "Garfield"
+      "smashgg_name": "Garfield",
+      "parrygg_slug": "garfield"
     },
     "Aang": {
       "codename": "Aang",
-      "smashgg_name": "Aang"
+      "smashgg_name": "Aang",
+      "parrygg_slug": "aang"
     },
     "Korra": {
       "codename": "Korra",
-      "smashgg_name": "Korra"
+      "smashgg_name": "Korra",
+      "parrygg_slug": "korra"
     },
     "Azula": {
       "codename": "Azula",
-      "smashgg_name": "Azula"
+      "smashgg_name": "Azula",
+      "parrygg_slug": "azula"
     },
     "Raphael": {
       "codename": "Raphael",
-      "smashgg_name": "Raphael"
+      "smashgg_name": "Raphael",
+      "parrygg_slug": "raphael"
     },
     "Donatello": {
       "codename": "Donatello",
-      "smashgg_name": "Donatello"
+      "smashgg_name": "Donatello",
+      "parrygg_slug": "donatello"
     },
     "April O'Neil": {
       "codename": "April",
-      "smashgg_name": "April O'Neil"
+      "smashgg_name": "April O'Neil",
+      "parrygg_slug": "april-o-neil"
     },
     "Danny Phantom": {
       "codename": "Danny",
-      "smashgg_name": "Danny Phantom"
+      "smashgg_name": "Danny Phantom",
+      "parrygg_slug": "danny-phantom"
     },
     "Ember McLain": {
       "codename": "Ember",
-      "smashgg_name": "Ember McLain"
+      "smashgg_name": "Ember McLain",
+      "parrygg_slug": "ember-mc-lain"
     },
     "Grandma Gertie": {
       "codename": "GrandmaGertie",
-      "smashgg_name": "Grandma Gertie"
+      "smashgg_name": "Grandma Gertie",
+      "parrygg_slug": "grandma-gertie"
     },
     "Gerald Johanssen": {
       "codename": "Gerald",
-      "smashgg_name": "Gerald Johanssen"
+      "smashgg_name": "Gerald Johanssen",
+      "parrygg_slug": "gerald-johanssen"
     },
     "Nigel Thornberry": {
       "codename": "Nigel",
-      "smashgg_name": "Nigel Thornberry"
+      "smashgg_name": "Nigel Thornberry",
+      "parrygg_slug": "nigel-thornberry"
     },
     "Zim": {
       "codename": "Zim",
-      "smashgg_name": "Zim"
+      "smashgg_name": "Zim",
+      "parrygg_slug": "zim"
     },
     "Jenny Wakeman": {
       "codename": "Jenny",
-      "smashgg_name": "Jenny Wakeman"
+      "smashgg_name": "Jenny Wakeman",
+      "parrygg_slug": "jenny-wakeman"
     },
     "Reptar": {
       "codename": "Reptar",
-      "smashgg_name": "Reptar"
+      "smashgg_name": "Reptar",
+      "parrygg_slug": "reptar"
     },
     "Ren & Stimpy": {
       "codename": "RenStimpy",
-      "smashgg_name": "Ren & Stimpy"
+      "smashgg_name": "Ren & Stimpy",
+      "parrygg_slug": "ren-stimpy"
     },
     "Mr. Krabs": {
       "codename": "Sushi",
-      "smashgg_name": "Mr. Krabs"
+      "smashgg_name": "Mr. Krabs",
+      "parrygg_slug": "mr-krabs"
     },
     "Zuko": {
       "codename": "Stevia",
-      "smashgg_name": "Zuko"
+      "smashgg_name": "Zuko",
+      "parrygg_slug": "zuko"
     },
     "Rocksteady": {
       "codename": "Headbanger",
-      "smashgg_name": "Rocksteady"
+      "smashgg_name": "Rocksteady",
+      "parrygg_slug": "rocksteady"
     },
     "Iroh": {
       "codename": "Teacher",
-      "smashgg_name": "Iroh"
+      "smashgg_name": "Iroh",
+      "parrygg_slug": "iroh"
     }
   },
   "stage_to_codename": {

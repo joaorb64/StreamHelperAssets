@@ -5,47 +5,58 @@
   "character_to_codename": {
     "Arizona": {
       "smashgg_name": "Arizona",
-      "codename": "Arizona"
+      "codename": "Arizona",
+      "parrygg_slug": "arizona"
     },
     "Oleander": {
       "smashgg_name": "Oleander",
-      "codename": "Oleander"
+      "codename": "Oleander",
+      "parrygg_slug": "oleander"
     },
     "Paprika": {
       "smashgg_name": "Paprika",
-      "codename": "Paprika"
+      "codename": "Paprika",
+      "parrygg_slug": "paprika"
     },
     "Pom": {
       "smashgg_name": "Pom",
-      "codename": "Pom"
+      "codename": "Pom",
+      "parrygg_slug": "pom"
     },
     "Tianhuo": {
       "smashgg_name": "Tianhuo",
-      "codename": "Tianhuo"
+      "codename": "Tianhuo",
+      "parrygg_slug": "tianhuo"
     },
     "Velvet": {
       "smashgg_name": "Velvet",
-      "codename": "Velvet"
+      "codename": "Velvet",
+      "parrygg_slug": "velvet"
     },
     "Shanty": {
       "smashgg_name": "Shanty",
-      "codename": "Shanty"
+      "codename": "Shanty",
+      "parrygg_slug": "shanty"
     },
     "Texas": {
       "smashgg_name": "Texas",
-      "codename": "Texas"
+      "codename": "Texas",
+      "parrygg_slug": "texas"
     },
     "Stronghoof": {
       "smashgg_name": "Stronghoof",
-      "codename": "Stronghoof"
+      "codename": "Stronghoof",
+      "parrygg_slug": "stronghoof"
     },
     "Nidra": {
       "smashgg_name": "Nidra",
-      "codename": "Nidra"
+      "codename": "Nidra",
+      "parrygg_slug": "nidra"
     },
     "Baihe": {
       "smashgg_name": "Baihe",
-      "codename": "Baihe"
+      "codename": "Baihe",
+      "parrygg_slug": "baihe"
     }
   },
   "stage_to_codename": {},

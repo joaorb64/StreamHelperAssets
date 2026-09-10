@@ -123,43 +123,53 @@
   "stage_to_codename": {
     "Food Dream": {
       "codename": "Food Dream",
-      "smashgg_id": "575"
+      "smashgg_id": "575",
+      "parrygg_slug": "food-dream"
     },
     "Harmonic Convergence": {
       "codename": "Harmonic Convergence",
-      "smashgg_id": "582"
+      "smashgg_id": "582",
+      "parrygg_slug": "harmonic-convergence"
     },
     "Irken Armada Invasion": {
       "codename": "Irken Armada Invasion",
-      "smashgg_id": "577"
+      "smashgg_id": "577",
+      "parrygg_slug": "irken-armada-invasion"
     },
     "Jellyfish Fields": {
       "codename": "Jellyfish Fields",
-      "smashgg_id": "579"
+      "smashgg_id": "579",
+      "parrygg_slug": "jellyfish-fields"
     },
     "Miracle City Volcano": {
       "codename": "Miracle City Volcano",
-      "smashgg_id": "581"
+      "smashgg_id": "581",
+      "parrygg_slug": "miracle-city-volcano"
     },
     "Rooftop Rumble": {
       "codename": "Rooftop Rumble",
-      "smashgg_id": "578"
+      "smashgg_id": "578",
+      "parrygg_slug": "rooftop-rumble"
     },
     "Royal Woods Cemetery": {
       "codename": "Royal Woods Cemetery",
-      "smashgg_id": "580"
+      "smashgg_id": "580",
+      "parrygg_slug": "royal-woods-cemetery"
     },
     "Technodrome Takedown": {
       "codename": "Technodrome Takedown",
-      "smashgg_id": "576"
+      "smashgg_id": "576",
+      "parrygg_slug": "technodrome-takedown"
     },
     "Tremorton Joyride": {
       "codename": "Tremorton Joyride",
-      "smashgg_id": "583"
+      "smashgg_id": "583",
+      "parrygg_slug": "tremorton-joyride"
     },
     "Pariah's Keep": {
       "codename": "Pariah's Keep",
-      "smashgg_id": "585"
+      "smashgg_id": "585",
+      "parrygg_slug": "pariah-s-keep"
     }
   },
   "version": "26.07.31.49734",

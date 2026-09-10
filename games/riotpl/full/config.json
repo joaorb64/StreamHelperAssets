@@ -1,7 +1,7 @@
 {
   "average_size": {
-    "x": 3183.0666666666666,
-    "y": 3997.266666666667
+    "x": 3234.125,
+    "y": 3997.4375
   },
   "credits": "Extracted from the 2XKO Wiki (https://wiki.play2xko.com/en-us/)",
   "description": "Character renders",
@@ -114,7 +114,7 @@
     "d",
     "r"
   ],
-  "version": "26.07.31.49734",
+  "version": "26.09.10.60929",
   "image_sizes": {
     "Ahri": {
       "0": {
@@ -167,6 +167,12 @@
     "Jinx": {
       "0": {
         "x": 2734,
+        "y": 4000
+      }
+    },
+    "Lux": {
+      "0": {
+        "x": 4000,
         "y": 4000
       }
     },

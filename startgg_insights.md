@@ -12,19 +12,13 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (3/3)
 
 ## Avatar Legends: The Fighting Game
-- Character [Avatar State Aang] not assigned in TSH!
-- Character [Azula] not assigned in TSH!
-- Character [Korra] not assigned in TSH!
-- Character [Nightmare Korra] not assigned in TSH!
-- Character [Ozai] not assigned in TSH!
-- Character [Zaheer] not assigned in TSH!
-- Character [Aang] not assigned in TSH!
-- Character [Katara] not assigned in TSH!
-- Character [Kyoshi] not assigned in TSH!
-- Character [Sokka] not assigned in TSH!
-- Character [Toph] not assigned in TSH!
-- Character [Zuko] not assigned in TSH!
-### Coverage: (0/12)
+- Character [Iroh]: Character name [Iroh] doesn't exist in StartGG
+- Character [Ty Lee]: Character name [Ty Lee] doesn't exist in StartGG
+- Character [Lin]: Character name [Lin] doesn't exist in StartGG
+- Character [Bolin]: Character name [Bolin] doesn't exist in StartGG
+- Character [Tagah]: Character name [Tagah] doesn't exist in StartGG
+- Character [Random] not assigned in TSH!
+### Coverage: (12/13)
 
 ## Among Us Arena Ultimate
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -62,12 +56,16 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Brawlhalla
+- Character [Finn]: Character name [Finn] doesn't exist in StartGG
+- Character [Jake]: Character name [Jake] doesn't exist in StartGG
+- Character [Princess Bubblegum]: Character name [Princess Bubblegum] doesn't exist in StartGG
 - Character [Priya] not assigned in TSH!
 - Character [Ransom] not assigned in TSH!
 - Character [Lady Vera] not assigned in TSH!
 - Character [Rupture] not assigned in TSH!
 - Character [Aurus] not assigned in TSH!
-### Coverage: (67/72)
+- Character [Qinghua & Baobao] not assigned in TSH!
+### Coverage: (64/70)
 
 ## Blade Strangers
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -85,16 +83,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Combo Devils
-- Character [Achilles] not assigned in TSH!
 - Character [Blaire] not assigned in TSH!
 - Character [DD] not assigned in TSH!
 - Character [Debo] not assigned in TSH!
-- Character [Ikani] not assigned in TSH!
-- Character [Jingo] not assigned in TSH!
-- Character [Lizzo] not assigned in TSH!
 - Character [Mimi] not assigned in TSH!
-- Character [Shai] not assigned in TSH!
-### Coverage: (0/9)
+### Coverage: (5/9)
 
 ## Battle Craze!!
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -168,12 +161,12 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Rick Strowd]: Character name [Rick] doesn't exist in StartGG
-- Character [Duck King]: Character name [Duck King] doesn't exist in StartGG
 - Character [Kim Kaphwan]: Character name [Kim] doesn't exist in StartGG
 - Character [Laocorn Gaudeamus]: Character name [Laocorn] doesn't exist in StartGG
+- Character [Manjiro "Mikey" Sano]: Character name [Mikey] doesn't exist in StartGG
+- Character [Ken "Draken" Ryuguji]: Character name [Draken] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (28/29)
+### Coverage: (30/31)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -408,7 +401,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (38/38)
 
 ## Marvel Tōkon: Fighting Souls
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Phoenix Cyclops]: Character name [Phoenix Cyclops] doesn't exist in StartGG
+- Character [Random] not assigned in TSH!
+### Coverage: (21/22)
 
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG
@@ -437,6 +432,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Nickelodeon All-Star Brawl 2
 ### Coverage: (29/29)
+
+## Naruto x Boruto: Ultimate Ninja Storm Connections
+Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Neo Turf Masters
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -564,22 +562,18 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-- Character [Akali]: Character name [Akali] doesn't exist in StartGG
-- Character [Thresh]: Character name [Thresh] doesn't exist in StartGG
 - Character [Lux]: Character name [Lux] doesn't exist in StartGG
 - Character [Samira]: Character name [Samira] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-- Character [Tresh] not assigned in TSH!
-### Coverage: (13/15)
+### Coverage: (15/16)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG
 ### Coverage: (18/18)
 
 ## Rivals of Aether II
-- Character [Gouie]: Character name [Gouie] doesn't exist in StartGG
 - Character [Mina]: Character name [Mina] doesn't exist in StartGG
-### Coverage: (17/17)
+### Coverage: (18/18)
 
 ## Rushdown Revolt
 ### Coverage: (12/12)
@@ -619,10 +613,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Street Fighter 6
 - Character [Bosch]: Character name [Bosch] doesn't exist in StartGG
-- Character [Arjun]: Character name [Arjun] doesn't exist in StartGG
 - Character [Tifa]: Character name [Tifa] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (31/32)
+### Coverage: (32/33)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -753,7 +746,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Tekken 3
-Game has no characters in startgg...? Or do we have a wrong game id?
+### Coverage: (21/21)
 
 ## Tekken 5: Dark Resurrection
 Game has no characters in startgg...? Or do we have a wrong game id?

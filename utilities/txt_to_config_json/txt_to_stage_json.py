@@ -3,7 +3,7 @@ from pathlib import Path
 
 game_id = 3536
 stage_list_filename = "stages_list.txt"
-modded = True
+modded = False
 
 with open(f"stage.json", 'wt') as config_file:
     description = "Base config to use this game."

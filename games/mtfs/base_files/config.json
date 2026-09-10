@@ -3,98 +3,106 @@
   "character_to_codename": {
     "Captain America": {
       "codename": "CaptainAmerica",
-      "parrygg_slug": "captain-america"
+      "smashgg_name": "Captain America"
     },
     "Doctor Doom": {
       "codename": "DoctorDoom",
       "locale": {
         "fr": "Docteur Fatalis"
       },
-      "parrygg_slug": "doctor-doom"
+      "smashgg_name": "Dr. Doom"
     },
     "Ghost Rider": {
       "codename": "GhostRider",
-      "parrygg_slug": "ghost-rider"
+      "smashgg_name": "Ghost Rider"
     },
     "Iron Man": {
       "codename": "IronMan",
-      "parrygg_slug": "iron-man"
+      "smashgg_name": "Iron Man"
     },
     "Ms. Marvel": {
       "codename": "MsMarvel",
-      "parrygg_slug": "ms-marvel"
+      "smashgg_name": "Ms. Marvel"
     },
     "Spider-Man": {
       "codename": "SpiderMan",
-      "parrygg_slug": "spider-man"
+      "smashgg_name": "Spider-Man"
     },
     "Star-Lord": {
       "codename": "StarLord",
-      "parrygg_slug": "star-lord"
+      "smashgg_name": "Star-Lord"
     },
     "Storm": {
       "codename": "Storm",
       "locale": {
         "fr": "Tornade"
       },
-      "parrygg_slug": "storm"
+      "smashgg_name": "Storm"
     },
     "Wolverine": {
       "codename": "Wolverine",
-      "parrygg_slug": "wolverine"
+      "smashgg_name": "Wolverine"
     },
     "Magik": {
       "codename": "Magik",
-      "parrygg_slug": "magik"
+      "smashgg_name": "Magik"
     },
     "Danger": {
       "codename": "Danger",
-      "parrygg_slug": "danger"
+      "smashgg_name": "Danger"
     },
     "Peni Parker": {
       "codename": "Peni",
-      "parrygg_slug": "peni-parker"
+      "smashgg_name": "Peni"
     },
     "Black Panther": {
       "codename": "Shuri",
       "locale": {
         "fr": "Panth\u00e8re noire"
       },
-      "parrygg_slug": "black-panther"
+      "smashgg_name": "Black Panter"
     },
     "Hulk": {
       "codename": "Hulk",
-      "parrygg_slug": "hulk"
+      "smashgg_name": "Hulk"
     },
     "Magneto": {
       "codename": "Magneto",
-      "parrygg_slug": "magneto"
+      "smashgg_name": "Magneto"
     },
     "Green Goblin": {
       "codename": "Goblin",
       "locale": {
         "fr": "Bouffon Vert"
       },
-      "parrygg_slug": "green-goblin"
+      "smashgg_name": "Green Goblin"
     },
     "Carnage": {
       "codename": "Carnage",
-      "parrygg_slug": "carnage"
+      "smashgg_name": "Carnage"
     },
     "Loki": {
       "codename": "Loki",
-      "parrygg_slug": "loki"
+      "smashgg_name": "Loki"
     },
     "Blade": {
       "codename": "Blade",
-      "parrygg_slug": "blade"
+      "smashgg_name": "Blade"
     },
     "Deadpool": {
       "codename": "Deadpool",
-      "parrygg_slug": "deadpool"
+      "smashgg_name": "Deadpool"
     },
     "Phoenix Cyclops": {
-      "codename": "Cyclops"
+      "codename": "Cyclops",
+      "smashgg_name": "Phoenix Cyclops"
+    },
+    "The Champion": {
+      "codename": "Champion",
+      "locale": {
+        "fr": "Le Champion"
+      },
+      "smashgg_name": "Champion"
     }
   },
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
@@ -103,47 +111,40 @@
   "smashgg_game_id": 107706,
   "stage_to_codename": {
     "Knowhere": {
-      "codename": "Knowhere",
-      "parrygg_slug": "knowhere"
+      "codename": "Knowhere"
     },
     "Marvel's New York": {
       "codename": "NewYork",
       "locale": {
         "fr": "New York de Marvel"
-      },
-      "parrygg_slug": "marvel-s-new-york"
+      }
     },
     "Marvel's New York (Night)": {
       "codename": "NewYorkNight",
       "locale": {
         "fr": "New York de Marvel (nuit)"
-      },
-      "parrygg_slug": "marvel-s-new-york-night"
+      }
     },
     "Savage Land": {
       "codename": "SavageLand",
       "locale": {
         "fr": "Terre sauvage"
-      },
-      "parrygg_slug": "savage-land"
+      }
     },
     "X-Mansion": {
       "codename": "XMansion",
       "locale": {
         "fr": "Institut Xavier"
-      },
-      "parrygg_slug": "x-mansion"
+      }
     },
     "Wakanda": {
-      "codename": "Wakanda",
-      "parrygg_slug": "wakanda"
+      "codename": "Wakanda"
     },
     "Asgard": {
-      "codename": "Asgard",
-      "parrygg_slug": "asgard"
+      "codename": "Asgard"
     }
   },
-  "version": "26.07.25.12547",
+  "version": "26.09.01.71547",
   "igdb_game_id": "marvel-tokon-fighting-souls",
   "locale": {
     "ja": {

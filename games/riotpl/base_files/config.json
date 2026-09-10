@@ -70,7 +70,7 @@
     },
     "Thresh": {
       "codename": "Thresh",
-      "smashgg_name": "Thresh"
+      "smashgg_name": "Tresh"
     },
     "Lux": {
       "codename": "Lux",
@@ -86,7 +86,7 @@
   "name": "2XKO",
   "smashgg_game_id": 64423,
   "stage_to_codename": {},
-  "version": "26.07.25.12547",
+  "version": "26.08.27.73923",
   "defaults": {
     "players_per_team": 2,
     "characters_per_player": 1

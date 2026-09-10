@@ -3,7 +3,7 @@ from pathlib import Path
 
 game_id = 9973
 variant_list_filename = "variants_list.txt"
-modded = True
+modded = False
 
 with open(f"variant.json", 'wt') as config_file:
     description = "Base config to use this game."

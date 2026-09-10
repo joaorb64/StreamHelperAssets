@@ -163,6 +163,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Fatal Fury: City of the Wolves
 - Character [Kim Kaphwan]: Character name [Kim] doesn't exist in StartGG
 - Character [Laocorn Gaudeamus]: Character name [Laocorn] doesn't exist in StartGG
+- Character [Manjiro "Mikey" Sano]: Character name [Mikey] doesn't exist in StartGG
+- Character [Ken "Draken" Ryuguji]: Character name [Draken] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (30/31)
 
@@ -611,10 +613,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Street Fighter 6
 - Character [Bosch]: Character name [Bosch] doesn't exist in StartGG
-- Character [Arjun]: Character name [Arjun] doesn't exist in StartGG
 - Character [Tifa]: Character name [Tifa] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (31/32)
+### Coverage: (32/33)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?

@@ -1,4 +1,5 @@
 import requests
+import requests_html
 from bs4 import BeautifulSoup as BS
 import json
 from pathlib import Path
@@ -6,16 +7,19 @@ import sys
 from PIL import Image
 from urllib.parse import quote
 
+session = requests_html.HTMLSession()
+
 sys.setrecursionlimit(100)
 
 
 def robust_request(link, timeout=30, recursion=30):
     try:
-        response = requests.get(link, timeout=timeout)
+        response = session.get(link, timeout=timeout)
         return_code = response.status_code
         if return_code != 200 and recursion > 0:
             return robust_request(link, timeout, recursion-1)
         else:
+            response.html.render()
             return response
     except requests.exceptions.ConnectionError:
         return robust_request(link, timeout, recursion-1)
@@ -49,7 +53,7 @@ card_config_dict = {
 
 card_list_url = "https://splatoonwiki.org/wiki/List_of_Tableturf_Battle_cards_in_Splatoon_3"
 card_page = robust_request(card_list_url, timeout=30)
-card_page_content = card_page.text
+card_page_content = card_page.html.html
 card_page_soup = BS(card_page_content, features="html.parser")
 card_tables = card_page_soup.findAll("table")
 card_body_tag = None

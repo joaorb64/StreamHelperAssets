@@ -2368,18 +2368,18 @@
     "Plastic-Bottle Shot Replica": {
       "codename": "PlasticBottleShotReplica",
       "locale": {
-        "ja": "PETシューター レプリカ",
-        "ru": "Ботлострел (клон)",
-        "fr": "Liquidateur soda (réplique)",
-        "fr_CA": "Liquéficateur liqueur (réplique)",
+        "ja": "PET\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab",
+        "ru": "\u0411\u043e\u0442\u043b\u043e\u0441\u0442\u0440\u0435\u043b (\u043a\u043b\u043e\u043d)",
+        "fr": "Liquidateur soda (r\u00e9plique)",
+        "fr_CA": "Liqu\u00e9ficateur liqueur (r\u00e9plique)",
         "nl": "SupersPETter (replica)",
         "de": "PET-Kleckser Replik",
         "it": "Splasher frizzante replica",
-        "es_LA": "Rociador PET réplica",
-        "es": "Lanzatintas de plástico (réplica)",
-        "zh_CN": "塑料瓶射击枪 复制",
-        "zh_TW": "寶特瓶射擊槍 複製",
-        "ko": "PET 슈터 레플리카"
+        "es_LA": "Rociador PET r\u00e9plica",
+        "es": "Lanzatintas de pl\u00e1stico (r\u00e9plica)",
+        "zh_CN": "\u5851\u6599\u74f6\u5c04\u51fb\u67aa \u590d\u5236",
+        "zh_TW": "\u5bf6\u7279\u74f6\u5c04\u64ca\u69cd \u8907\u88fd",
+        "ko": "PET \uc288\ud130 \ub808\ud50c\ub9ac\uce74"
       }
     }
   },
@@ -5159,7 +5159,7 @@
       "codename": "bonerattle"
     }
   },
-  "version": "26.07.31.49734",
+  "version": "26.09.15.74100",
   "description": "Base config to use this game.",
   "credits": "",
   "locale": {

@@ -10,6 +10,8 @@ import io
 
 session = requests_html.HTMLSession()
 
+image_download = False
+
 sys.setrecursionlimit(100)
 
 root_path = "spl3"
@@ -329,11 +331,12 @@ for weapon_name in weapon_list.keys():
     weapon_codename = weapon_codename.replace("-", "")
     icon_filename = f"icon_{weapon_codename}_0.png"
     # Image resize
-    icon_file = robust_request(icon_url)
-    icon_image = Image.open(io.BytesIO(icon_file.content)).convert("RGBA")
-    target_size = (256, 256)
-    icon_image = icon_image.resize(target_size, Image.Resampling.LANCZOS)
-    icon_image.save(f"{icon_path}/{icon_filename}")
+    if image_download:
+        icon_file = robust_request(icon_url)
+        icon_image = Image.open(io.BytesIO(icon_file.content)).convert("RGBA")
+        target_size = (256, 256)
+        icon_image = icon_image.resize(target_size, Image.Resampling.LANCZOS)
+        icon_image.save(f"{icon_path}/{icon_filename}")
 
     main_config["character_to_codename"][weapon_name] = {
         "codename": weapon_codename}
@@ -400,14 +403,15 @@ for weapon_name in weapon_list.keys():
                     print("    Special:", special_name)
             break
 
-    sub_filename = f"sub_{weapon_codename}_0.png"
-    special_filename = f"spe_{weapon_codename}_0.png"
-    with open(f"{sub_path}/{sub_filename}", "wb") as f:
-        icon_file = robust_request(sub_image_link)
-        f.write(icon_file.content)
-    with open(f"{special_path}/{special_filename}", "wb") as f:
-        icon_file = robust_request(special_image_link)
-        f.write(icon_file.content)
+    if image_download:
+        sub_filename = f"sub_{weapon_codename}_0.png"
+        special_filename = f"spe_{weapon_codename}_0.png"
+        with open(f"{sub_path}/{sub_filename}", "wb") as f:
+            icon_file = robust_request(sub_image_link)
+            f.write(icon_file.content)
+        with open(f"{special_path}/{special_filename}", "wb") as f:
+            icon_file = robust_request(special_image_link)
+            f.write(icon_file.content)
 
     # Parsing sub names
     sub_names["values"][weapon_codename] = {"value": sub_name, "locale": {}}

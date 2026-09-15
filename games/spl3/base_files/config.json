@@ -2364,6 +2364,23 @@
         "nl": "Wisserbladzwieper O-XID",
         "de": "Wischer-Splatana RST-G"
       }
+    },
+    "Plastic-Bottle Shot Replica": {
+      "codename": "PlasticBottleShotReplica",
+      "locale": {
+        "ja": "PETシューター レプリカ",
+        "ru": "Ботлострел (клон)",
+        "fr": "Liquidateur soda (réplique)",
+        "fr_CA": "Liquéficateur liqueur (réplique)",
+        "nl": "SupersPETter (replica)",
+        "de": "PET-Kleckser Replik",
+        "it": "Splasher frizzante replica",
+        "es_LA": "Rociador PET réplica",
+        "es": "Lanzatintas de plástico (réplica)",
+        "zh_CN": "塑料瓶射击枪 复制",
+        "zh_TW": "寶特瓶射擊槍 複製",
+        "ko": "PET 슈터 레플리카"
+      }
     }
   },
   "stage_to_codename": {

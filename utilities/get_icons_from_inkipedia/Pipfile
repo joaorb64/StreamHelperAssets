@@ -8,6 +8,8 @@ chinese-converter = "*"
 beautifulsoup4 = "*"
 requests = "*"
 pillow = "*"
+requests-html = "*"
+lxml-html-clean = "*"
 
 [dev-packages]
 

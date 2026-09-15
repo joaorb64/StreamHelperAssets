@@ -1,0 +1,89 @@
+{
+  "credits": "Assets ripped by Cherry (Bluesky: @cherrynasb.com)",
+  "description": "Character artwork, as seen in the VS screen",
+  "eyesights": {
+    "Aang": {
+      "0": {
+        "x": 464,
+        "y": 183
+      }
+    },
+    "AangA": {
+      "0": {
+        "x": 464,
+        "y": 183
+      }
+    },
+    "Azula": {
+      "0": {
+        "x": 497,
+        "y": 310
+      }
+    },
+    "Katara": {
+      "0": {
+        "x": 357,
+        "y": 204
+      }
+    },
+    "Korra": {
+      "0": {
+        "x": 423,
+        "y": 377
+      }
+    },
+    "KorraA": {
+      "0": {
+        "x": 487,
+        "y": 245
+      }
+    },
+    "Kyoshi": {
+      "0": {
+        "x": 510,
+        "y": 284
+      }
+    },
+    "Ozai": {
+      "0": {
+        "x": 461,
+        "y": 155
+      }
+    },
+    "Sokka": {
+      "0": {
+        "x": 561,
+        "y": 247
+      }
+    },
+    "Toph": {
+      "0": {
+        "x": 642,
+        "y": 270
+      }
+    },
+    "Zaheer": {
+      "0": {
+        "x": 478,
+        "y": 193
+      }
+    },
+    "Zuko": {
+      "0": {
+        "x": 465,
+        "y": 156
+      }
+    }
+  },
+  "name": "Artwork",
+  "postfix": "_",
+  "prefix": "file_",
+  "type": [
+    "full"
+  ],
+  "version": "26.08.19.63383",
+  "uncropped_edge": [
+    "u",
+    "r"
+  ]
+}

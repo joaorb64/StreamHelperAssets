@@ -1,6 +1,6 @@
 {
   "name": "Sub Icons",
-  "version": "26.07.31.49734",
+  "version": "26.09.15.74100",
   "description": "Sub weapon icons",
   "prefix": "sub_",
   "postfix": "_",
@@ -3431,6 +3431,12 @@
       }
     },
     "PlanetzBigSwigRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "PlasticBottleShotReplica": {
       "0": {
         "x": 100,
         "y": 100

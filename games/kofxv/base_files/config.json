@@ -3,193 +3,256 @@
   "smashgg_game_id": 36963,
   "character_to_codename": {
     "Shun'ei": {
-      "codename": "Shunei"
+      "codename": "Shunei",
+      "parrygg_slug": "shun-ei"
     },
     "Meitenkun": {
-      "codename": "Meitenkun"
+      "codename": "Meitenkun",
+      "parrygg_slug": "meitenkun"
     },
     "Benimaru Nikaido": {
-      "codename": "BenimaruNikaido"
+      "codename": "BenimaruNikaido",
+      "parrygg_slug": "benimaru-nikaido"
     },
     "Kyo Kusanagi": {
-      "codename": "KyoKusanagi"
+      "codename": "KyoKusanagi",
+      "parrygg_slug": "kyo-kusanagi"
     },
     "Iori Yagami": {
-      "codename": "IoriYagami"
+      "codename": "IoriYagami",
+      "parrygg_slug": "iori-yagami"
     },
     "Chizuru Kagura": {
-      "codename": "ChizuruKagura"
+      "codename": "ChizuruKagura",
+      "parrygg_slug": "chizuru-kagura"
     },
     "Terry Bogard": {
-      "codename": "TerryBogard"
+      "codename": "TerryBogard",
+      "parrygg_slug": "terry-bogard"
     },
     "Andy Bogard": {
-      "codename": "AndyBogard"
+      "codename": "AndyBogard",
+      "parrygg_slug": "andy-bogard"
     },
     "Joe Higashi": {
-      "codename": "JoeHigashi"
+      "codename": "JoeHigashi",
+      "parrygg_slug": "joe-higashi"
     },
     "Yashiro Nanakase": {
-      "codename": "YashiroNanakase"
+      "codename": "YashiroNanakase",
+      "parrygg_slug": "yashiro-nanakase"
     },
     "Shermie": {
-      "codename": "Shermie"
+      "codename": "Shermie",
+      "parrygg_slug": "shermie"
     },
     "Chris": {
-      "codename": "Chris"
+      "codename": "Chris",
+      "parrygg_slug": "chris"
     },
     "Ryo Sakazaki": {
-      "codename": "RyoSakazaki"
+      "codename": "RyoSakazaki",
+      "parrygg_slug": "ryo-sakazaki"
     },
     "Robert Garcia": {
-      "codename": "RobertGarcia"
+      "codename": "RobertGarcia",
+      "parrygg_slug": "robert-garcia"
     },
     "King": {
-      "codename": "King"
+      "codename": "King",
+      "parrygg_slug": "king"
     },
     "Leona Heidern": {
-      "codename": "LeonaHeidern"
+      "codename": "LeonaHeidern",
+      "parrygg_slug": "leona-heidern"
     },
     "Ralf Jones": {
-      "codename": "RalfJones"
+      "codename": "RalfJones",
+      "parrygg_slug": "ralf-jones"
     },
     "Clark Still": {
-      "codename": "ClarkStill"
+      "codename": "ClarkStill",
+      "parrygg_slug": "clark-still"
     },
     "Blue Mary": {
-      "codename": "BlueMary"
+      "codename": "BlueMary",
+      "parrygg_slug": "blue-mary"
     },
     "Vanessa": {
-      "codename": "Vanessa"
+      "codename": "Vanessa",
+      "parrygg_slug": "vanessa"
     },
     "Luong": {
-      "codename": "Luong"
+      "codename": "Luong",
+      "parrygg_slug": "luong"
     },
     "Athena Asamiya": {
-      "codename": "AthenaAsamiya"
+      "codename": "AthenaAsamiya",
+      "parrygg_slug": "athena-asamiya"
     },
     "Mai Shiranui": {
-      "codename": "MaiShiranui"
+      "codename": "MaiShiranui",
+      "parrygg_slug": "mai-shiranui"
     },
     "Yuri Sakazaki": {
-      "codename": "YuriSakazaki"
+      "codename": "YuriSakazaki",
+      "parrygg_slug": "yuri-sakazaki"
     },
     "Antonov": {
-      "codename": "Antonov"
+      "codename": "Antonov",
+      "parrygg_slug": "antonov"
     },
     "Ram\u00f3n": {
-      "codename": "Ramon"
+      "codename": "Ramon",
+      "parrygg_slug": "ramon"
     },
     "The King of Dinosaurs": {
-      "codename": "TheKingofDinosaurs"
+      "codename": "TheKingofDinosaurs",
+      "parrygg_slug": "the-king-of-dinosaurs"
     },
     "Isla": {
-      "codename": "Isla"
+      "codename": "Isla",
+      "parrygg_slug": "isla"
     },
     "Heidern": {
-      "codename": "Heidern"
+      "codename": "Heidern",
+      "parrygg_slug": "heidern"
     },
     "Dolores": {
-      "codename": "Dolores"
+      "codename": "Dolores",
+      "parrygg_slug": "dolores"
     },
     "Ash Crimson": {
-      "codename": "AshCrimson"
+      "codename": "AshCrimson",
+      "parrygg_slug": "ash-crimson"
     },
     "K'": {
-      "codename": "K"
+      "codename": "K",
+      "parrygg_slug": "k"
     },
     "Kukri": {
-      "codename": "Kukri"
+      "codename": "Kukri",
+      "parrygg_slug": "kukri"
     },
     "Whip": {
-      "codename": "Whip"
+      "codename": "Whip",
+      "parrygg_slug": "whip"
     },
     "\u00c1ngel": {
-      "codename": "Angel"
+      "codename": "Angel",
+      "parrygg_slug": "angel"
     },
     "Krohnen McDougall": {
-      "codename": "Krohnen"
+      "codename": "Krohnen",
+      "parrygg_slug": "krohnen-mc-dougall"
     },
     "Maxima": {
-      "codename": "Maxima"
+      "codename": "Maxima",
+      "parrygg_slug": "maxima"
     },
     "Kula Diamond": {
-      "codename": "KulaDiamond"
+      "codename": "KulaDiamond",
+      "parrygg_slug": "kula-diamond"
     },
     "Elisabeth Blanctorche": {
-      "codename": "ElisabethBlanctorche"
+      "codename": "ElisabethBlanctorche",
+      "parrygg_slug": "elisabeth-blanctorche"
     },
     "Rock Howard": {
-      "codename": "RockHoward"
+      "codename": "RockHoward",
+      "parrygg_slug": "rock-howard"
     },
     "Gato": {
-      "codename": "Gato"
+      "codename": "Gato",
+      "parrygg_slug": "gato"
     },
     "B. Jenet": {
-      "codename": "BJenet"
+      "codename": "BJenet",
+      "parrygg_slug": "b-jenet"
     },
     "Omega Rugal": {
-      "codename": "OmegaRugal"
+      "codename": "OmegaRugal",
+      "parrygg_slug": "omega-rugal"
     },
     "Geese Howard": {
-      "codename": "GeeseHoward"
+      "codename": "GeeseHoward",
+      "parrygg_slug": "geese-howard"
     },
     "Billy Kane": {
-      "codename": "BillyKane"
+      "codename": "BillyKane",
+      "parrygg_slug": "billy-kane"
     },
     "Ryuji Yamazaki": {
-      "codename": "RyujiYamazaki"
+      "codename": "RyujiYamazaki",
+      "parrygg_slug": "ryuji-yamazaki"
     },
     "Orochi Shermie": {
-      "codename": "ShermieEX"
+      "codename": "ShermieEX",
+      "parrygg_slug": "orochi-shermie"
     },
     "Orochi Yashiro": {
-      "codename": "YashiroEX"
+      "codename": "YashiroEX",
+      "parrygg_slug": "orochi-yashiro"
     },
     "Orochi Chris": {
-      "codename": "ChrisEX"
+      "codename": "ChrisEX",
+      "parrygg_slug": "orochi-chris"
     },
     "Haohmaru": {
-      "codename": "Haohmaru"
+      "codename": "Haohmaru",
+      "parrygg_slug": "haohmaru"
     },
     "Nakoruru": {
-      "codename": "Nakoruru"
+      "codename": "Nakoruru",
+      "parrygg_slug": "nakoruru"
     },
     "Darli Dagger": {
-      "codename": "DarliDagger"
+      "codename": "DarliDagger",
+      "parrygg_slug": "darli-dagger"
     },
     "Shingo Yabuki": {
-      "codename": "Shingo"
+      "codename": "Shingo",
+      "parrygg_slug": "shingo-yabuki"
     },
     "Kim Kaphwan": {
-      "codename": "Kim"
+      "codename": "Kim",
+      "parrygg_slug": "kim-kaphwan"
     },
     "Sylvie Paula Paula": {
-      "codename": "Sylvie"
+      "codename": "Sylvie",
+      "parrygg_slug": "sylvie-paula-paula"
     },
     "Goenitz": {
-      "codename": "Goenitz"
+      "codename": "Goenitz",
+      "parrygg_slug": "goenitz"
     },
     "Najd": {
-      "codename": "Najd"
+      "codename": "Najd",
+      "parrygg_slug": "najd"
     },
     "Duo Lon": {
-      "codename": "DuoLon"
+      "codename": "DuoLon",
+      "parrygg_slug": "duo-lon"
     },
     "Hinako Shijo": {
-      "codename": "Hinako"
+      "codename": "Hinako",
+      "parrygg_slug": "hinako-shijo"
     },
     "Re Verse": {
-      "codename": "Boss1"
+      "codename": "Boss1",
+      "parrygg_slug": "re-verse"
     },
     "Otoma=Raga": {
-      "codename": "Boss2"
+      "codename": "Boss2",
+      "parrygg_slug": "otoma-raga"
     },
     "Mature": {
-      "codename": "Mature"
+      "codename": "Mature",
+      "parrygg_slug": "mature"
     },
     "Vice": {
-      "codename": "Vice"
+      "codename": "Vice",
+      "parrygg_slug": "vice"
     }
   },
   "stage_to_codename": {},

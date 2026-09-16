@@ -2,196 +2,260 @@
   "challonge_game_id": 64161,
   "character_to_codename": {
     "Andy Bogard": {
-      "codename": "09_02"
+      "codename": "09_02",
+      "parrygg_slug": "andy-bogard"
     },
     "Athena Asamiya": {
-      "codename": "27_01"
+      "codename": "27_01",
+      "parrygg_slug": "athena-asamiya"
     },
     "Benimaru Nikaido": {
-      "codename": "07_02"
+      "codename": "07_02",
+      "parrygg_slug": "benimaru-nikaido"
     },
     "Billy Kane": {
-      "codename": "47_03"
+      "codename": "47_03",
+      "parrygg_slug": "billy-kane"
     },
     "Blue Mary": {
-      "codename": "47_02"
+      "codename": "47_02",
+      "parrygg_slug": "blue-mary"
     },
     "Brian Battler": {
-      "codename": "59_03"
+      "codename": "59_03",
+      "parrygg_slug": "brian-battler"
     },
     "Chang Koehan": {
-      "codename": "37_02"
+      "codename": "37_02",
+      "parrygg_slug": "chang-koehan"
     },
     "Chin Gentsai": {
-      "codename": "27_03"
+      "codename": "27_03",
+      "parrygg_slug": "chin-gentsai"
     },
     "Chizuru Kagura": {
-      "codename": "29_01"
+      "codename": "29_01",
+      "parrygg_slug": "chizuru-kagura"
     },
     "Choi Bounge": {
-      "codename": "37_03"
+      "codename": "37_03",
+      "parrygg_slug": "choi-bounge"
     },
     "Chris": {
-      "codename": "39_03"
+      "codename": "39_03",
+      "parrygg_slug": "chris"
     },
     "Clark Still": {
-      "codename": "19_03"
+      "codename": "19_03",
+      "parrygg_slug": "clark-still"
     },
     "EX Andy": {
-      "codename": "09_02-EX"
+      "codename": "09_02-EX",
+      "parrygg_slug": "ex-andy"
     },
     "EX Billy": {
-      "codename": "47_03-EX"
+      "codename": "47_03-EX",
+      "parrygg_slug": "ex-billy"
     },
     "EX Blue Mary": {
-      "codename": "47_02-EX"
+      "codename": "47_02-EX",
+      "parrygg_slug": "ex-blue-mary"
     },
     "EX Geese": {
-      "codename": "67_01-EX"
+      "codename": "67_01-EX",
+      "parrygg_slug": "ex-geese"
     },
     "EX Joe": {
-      "codename": "09_03-EX"
+      "codename": "09_03-EX",
+      "parrygg_slug": "ex-joe"
     },
     "EX King": {
-      "codename": "29_03-EX"
+      "codename": "29_03-EX",
+      "parrygg_slug": "ex-king"
     },
     "EX Kyo": {
-      "codename": "07_01-EX"
+      "codename": "07_01-EX",
+      "parrygg_slug": "ex-kyo"
     },
     "EX Mai": {
-      "codename": "29_02-EX"
+      "codename": "29_02-EX",
+      "parrygg_slug": "ex-mai"
     },
     "EX Robert": {
-      "codename": "17_02-EX"
+      "codename": "17_02-EX",
+      "parrygg_slug": "ex-robert"
     },
     "EX Ryo": {
-      "codename": "17_01-EX"
+      "codename": "17_01-EX",
+      "parrygg_slug": "ex-ryo"
     },
     "EX Terry": {
-      "codename": "09_01-EX"
+      "codename": "09_01-EX",
+      "parrygg_slug": "ex-terry"
     },
     "EX Yamazaki": {
-      "codename": "47_01-EX"
+      "codename": "47_01-EX",
+      "parrygg_slug": "ex-yamazaki"
     },
     "EX Yuri": {
-      "codename": "17_03-EX"
+      "codename": "17_03-EX",
+      "parrygg_slug": "ex-yuri"
     },
     "Eiji Kisaragi": {
-      "codename": "77_01"
+      "codename": "77_01",
+      "parrygg_slug": "eiji-kisaragi"
     },
     "Geese Howard": {
-      "codename": "67_01"
+      "codename": "67_01",
+      "parrygg_slug": "geese-howard"
     },
     "Goro Daimon": {
-      "codename": "07_03"
+      "codename": "07_03",
+      "parrygg_slug": "goro-daimon"
     },
     "Heavy D!": {
-      "codename": "59_01"
+      "codename": "59_01",
+      "parrygg_slug": "heavy-d"
     },
     "Heidern": {
-      "codename": "57_01"
+      "codename": "57_01",
+      "parrygg_slug": "heidern"
     },
     "Iori Yagami": {
-      "codename": "49_01"
+      "codename": "49_01",
+      "parrygg_slug": "iori-yagami"
     },
     "Joe Higashi": {
-      "codename": "09_03"
+      "codename": "09_03",
+      "parrygg_slug": "joe-higashi"
     },
     "Kasumi Todoh": {
-      "codename": "77_02"
+      "codename": "77_02",
+      "parrygg_slug": "kasumi-todoh"
     },
     "Kim Kaphwan": {
-      "codename": "37_01"
+      "codename": "37_01",
+      "parrygg_slug": "kim-kaphwan"
     },
     "King": {
-      "codename": "29_03"
+      "codename": "29_03",
+      "parrygg_slug": "king"
     },
     "Kyo Kusanagi": {
-      "codename": "07_01"
+      "codename": "07_01",
+      "parrygg_slug": "kyo-kusanagi"
     },
     "Leona Heidern": {
-      "codename": "19_01"
+      "codename": "19_01",
+      "parrygg_slug": "leona-heidern"
     },
     "Lucky Glauber": {
-      "codename": "59_02"
+      "codename": "59_02",
+      "parrygg_slug": "lucky-glauber"
     },
     "Mai Shiranui": {
-      "codename": "29_02"
+      "codename": "29_02",
+      "parrygg_slug": "mai-shiranui"
     },
     "Mature": {
-      "codename": "49_03"
+      "codename": "49_03",
+      "parrygg_slug": "mature"
     },
     "Mr. Big": {
-      "codename": "67_03"
+      "codename": "67_03",
+      "parrygg_slug": "mr-big"
     },
     "Orochi Chris": {
-      "codename": "39_03-EX"
+      "codename": "39_03-EX",
+      "parrygg_slug": "orochi-chris"
     },
     "Orochi Iori": {
-      "codename": "79_01"
+      "codename": "79_01",
+      "parrygg_slug": "orochi-iori"
     },
     "Orochi Leona": {
-      "codename": "79_02"
+      "codename": "79_02",
+      "parrygg_slug": "orochi-leona"
     },
     "Orochi Shermie": {
-      "codename": "39_02-EX"
+      "codename": "39_02-EX",
+      "parrygg_slug": "orochi-shermie"
     },
     "Orochi Yashiro": {
-      "codename": "39_01-EX"
+      "codename": "39_01-EX",
+      "parrygg_slug": "orochi-yashiro"
     },
     "Ralf Jones": {
-      "codename": "19_02"
+      "codename": "19_02",
+      "parrygg_slug": "ralf-jones"
     },
     "Robert Garcia": {
-      "codename": "17_02"
+      "codename": "17_02",
+      "parrygg_slug": "robert-garcia"
     },
     "Rugal Bernstein": {
-      "codename": "77_04"
+      "codename": "77_04",
+      "parrygg_slug": "rugal-bernstein"
     },
     "Ryo Sakazaki": {
-      "codename": "17_01"
+      "codename": "17_01",
+      "parrygg_slug": "ryo-sakazaki"
     },
     "Ryuji Yamazaki": {
-      "codename": "47_01"
+      "codename": "47_01",
+      "parrygg_slug": "ryuji-yamazaki"
     },
     "Saisyu Kusanagi": {
-      "codename": "57_03"
+      "codename": "57_03",
+      "parrygg_slug": "saisyu-kusanagi"
     },
     "Shermie": {
-      "codename": "39_02"
+      "codename": "39_02",
+      "parrygg_slug": "shermie"
     },
     "Shingo Yabuki": {
-      "codename": "77_03"
+      "codename": "77_03",
+      "parrygg_slug": "shingo-yabuki"
     },
     "Sie Kensou": {
-      "codename": "27_02"
+      "codename": "27_02",
+      "parrygg_slug": "sie-kensou"
     },
     "Takuma Sakazaki": {
-      "codename": "57_02"
+      "codename": "57_02",
+      "parrygg_slug": "takuma-sakazaki"
     },
     "Terry Bogard": {
-      "codename": "09_01"
+      "codename": "09_01",
+      "parrygg_slug": "terry-bogard"
     },
     "Vice": {
-      "codename": "49_02"
+      "codename": "49_02",
+      "parrygg_slug": "vice"
     },
     "Wolfgang Krauser": {
-      "codename": "67_02"
+      "codename": "67_02",
+      "parrygg_slug": "wolfgang-krauser"
     },
     "Yashiro Nanakase": {
-      "codename": "39_01"
+      "codename": "39_01",
+      "parrygg_slug": "yashiro-nanakase"
     },
     "Yuri Sakazaki": {
-      "codename": "17_03"
+      "codename": "17_03",
+      "parrygg_slug": "yuri-sakazaki"
     },
     "Goenitz": {
-      "codename": "69_01"
+      "codename": "69_01",
+      "parrygg_slug": "goenitz"
     },
     "Orochi": {
-      "codename": "69_02"
+      "codename": "69_02",
+      "parrygg_slug": "orochi"
     },
     "Omega Rugal": {
-      "codename": "69_03"
+      "codename": "69_03",
+      "parrygg_slug": "omega-rugal"
     }
   },
   "credits": "",

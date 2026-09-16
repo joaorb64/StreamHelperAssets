@@ -3,93 +3,122 @@
   "smashgg_game_id": 5933,
   "character_to_codename": {
     "Android 16": {
-      "codename": "12"
+      "codename": "12",
+      "parrygg_slug": "android-16"
     },
     "Android 17": {
-      "codename": "13"
+      "codename": "13",
+      "parrygg_slug": "android-17"
     },
     "Android 18": {
-      "codename": "14"
+      "codename": "14",
+      "parrygg_slug": "android-18"
     },
     "Cell": {
-      "codename": "11"
+      "codename": "11",
+      "parrygg_slug": "cell"
     },
     "Chi-Chi": {
-      "codename": "8"
+      "codename": "8",
+      "parrygg_slug": "chi-chi"
     },
     "Frieza": {
-      "codename": "7"
+      "codename": "7",
+      "parrygg_slug": "frieza"
     },
     "Goku": {
-      "codename": "2"
+      "codename": "2",
+      "parrygg_slug": "goku"
     },
     "King Piccolo": {
-      "codename": "19"
+      "codename": "19",
+      "parrygg_slug": "king-piccolo"
     },
     "Krillin": {
-      "codename": "5"
+      "codename": "5",
+      "parrygg_slug": "krillin"
     },
     "Majin Buu": {
-      "codename": "15"
+      "codename": "15",
+      "parrygg_slug": "majin-buu"
     },
     "Majin Vegeta": {
-      "codename": "18"
+      "codename": "18",
+      "parrygg_slug": "majin-vegeta"
     },
     "Mecha-Frieza": {
-      "codename": "9"
+      "codename": "9",
+      "parrygg_slug": "mecha-frieza"
     },
     "Piccolo": {
-      "codename": "4"
+      "codename": "4",
+      "parrygg_slug": "piccolo"
     },
     "Teen Gohan": {
-      "codename": "6"
+      "codename": "6",
+      "parrygg_slug": "teen-gohan"
     },
     "Trunks": {
-      "codename": "10"
+      "codename": "10",
+      "parrygg_slug": "trunks"
     },
     "Ultimate Gohan": {
-      "codename": "16"
+      "codename": "16",
+      "parrygg_slug": "ultimate-gohan"
     },
     "Vegeta": {
-      "codename": "3"
+      "codename": "3",
+      "parrygg_slug": "vegeta"
     },
     "Videl": {
-      "codename": "17"
+      "codename": "17",
+      "parrygg_slug": "videl"
     }
   },
   "stage_to_codename": {
     "Eastern Capital (Day)": {
-      "codename": "343"
+      "codename": "343",
+      "parrygg_slug": "eastern-capital-day"
     },
     "Eastern Capital (Sunset)": {
-      "codename": "350"
+      "codename": "350",
+      "parrygg_slug": "eastern-capital-sunset"
     },
     "Wasteland (Day)": {
-      "codename": "342"
+      "codename": "342",
+      "parrygg_slug": "wasteland-day"
     },
     "Wasteland (Night)": {
-      "codename": "349"
+      "codename": "349",
+      "parrygg_slug": "wasteland-night"
     },
     "Cell Ring": {
-      "codename": "348"
+      "codename": "348",
+      "parrygg_slug": "cell-ring"
     },
     "Planet Namek": {
-      "codename": "346"
+      "codename": "346",
+      "parrygg_slug": "planet-namek"
     },
     "Kami's Lookout": {
-      "codename": "344"
+      "codename": "344",
+      "parrygg_slug": "kami-s-lookout"
     },
     "King Kai's Planet": {
-      "codename": "352"
+      "codename": "352",
+      "parrygg_slug": "king-kai-s-planet"
     },
     "World Martial Arts Tournament": {
-      "codename": "347"
+      "codename": "347",
+      "parrygg_slug": "world-martial-arts-tournament"
     },
     "King Yemma's Palace": {
-      "codename": "345"
+      "codename": "345",
+      "parrygg_slug": "king-yemma-s-palace"
     },
     "Training Stage": {
-      "codename": "351"
+      "codename": "351",
+      "parrygg_slug": "training-stage"
     }
   },
   "version": "26.07.31.49734",

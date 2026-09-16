@@ -2,184 +2,244 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Akira Otoishi": {
-      "codename": "AkiraOtoishi"
+      "codename": "AkiraOtoishi",
+      "parrygg_slug": "akira-otoishi"
     },
     "Bruno Bucciarati": {
-      "codename": "BrunoBucciarati"
+      "codename": "BrunoBucciarati",
+      "parrygg_slug": "bruno-bucciarati"
     },
     "Caesar Anthonio Zeppeli": {
-      "codename": "CaesarAnthonioZeppeli"
+      "codename": "CaesarAnthonioZeppeli",
+      "parrygg_slug": "caesar-anthonio-zeppeli"
     },
     "DIO": {
-      "codename": "DIOStardustCrusaders"
+      "codename": "DIOStardustCrusaders",
+      "parrygg_slug": "dio"
     },
     "Diavolo": {
-      "codename": "Diavolo"
+      "codename": "Diavolo",
+      "parrygg_slug": "diavolo"
     },
     "Diego Brando (Scary Monsters)": {
-      "codename": "DiegoBrando"
+      "codename": "DiegoBrando",
+      "parrygg_slug": "diego-brando-scary-monsters"
     },
     "Dio Brando": {
-      "codename": "DioBrandoPhantomBlood"
+      "codename": "DioBrandoPhantomBlood",
+      "parrygg_slug": "dio-brando"
     },
     "Enrico Pucci (Whitesnake)": {
-      "codename": "EnricoPucci"
+      "codename": "EnricoPucci",
+      "parrygg_slug": "enrico-pucci-whitesnake"
     },
     "Ermes Costello": {
-      "codename": "ErmesCostello"
+      "codename": "ErmesCostello",
+      "parrygg_slug": "ermes-costello"
     },
     "Esidisi": {
-      "codename": "Esidisi"
+      "codename": "Esidisi",
+      "parrygg_slug": "esidisi"
     },
     "Foo Fighters": {
-      "codename": "FooFightersFF"
+      "codename": "FooFightersFF",
+      "parrygg_slug": "foo-fighters"
     },
     "Funny Valentine": {
-      "codename": "FunnyValentine"
+      "codename": "FunnyValentine",
+      "parrygg_slug": "funny-valentine"
     },
     "Ghiaccio": {
-      "codename": "Ghiaccio"
+      "codename": "Ghiaccio",
+      "parrygg_slug": "ghiaccio"
     },
     "Giorno Giovanna": {
-      "codename": "GiornoGiovanna"
+      "codename": "GiornoGiovanna",
+      "parrygg_slug": "giorno-giovanna"
     },
     "Guido Mista": {
-      "codename": "GuidoMista"
+      "codename": "GuidoMista",
+      "parrygg_slug": "guido-mista"
     },
     "Gyro Zeppeli": {
-      "codename": "GyroZeppeli"
+      "codename": "GyroZeppeli",
+      "parrygg_slug": "gyro-zeppeli"
     },
     "Hol Horse": {
-      "codename": "HolHorse"
+      "codename": "HolHorse",
+      "parrygg_slug": "hol-horse"
     },
     "Iggy": {
-      "codename": "Iggy"
+      "codename": "Iggy",
+      "parrygg_slug": "iggy"
     },
     "Ikuro Hashizawa": {
-      "codename": "IkuroHashizawa"
+      "codename": "IkuroHashizawa",
+      "parrygg_slug": "ikuro-hashizawa"
     },
     "Jean Pierre Polnareff": {
-      "codename": "JeanPierrePolnareff"
+      "codename": "JeanPierrePolnareff",
+      "parrygg_slug": "jean-pierre-polnareff"
     },
     "Johnny Joestar": {
-      "codename": "JohnnyJoestar"
+      "codename": "JohnnyJoestar",
+      "parrygg_slug": "johnny-joestar"
     },
     "Jolyne Cujoh": {
-      "codename": "JolyneCujoh"
+      "codename": "JolyneCujoh",
+      "parrygg_slug": "jolyne-cujoh"
     },
     "Jonathan Joestar": {
-      "codename": "JonathanJoestar"
+      "codename": "JonathanJoestar",
+      "parrygg_slug": "jonathan-joestar"
     },
     "Joseph Joestar (Battle Tendency)": {
-      "codename": "JosephJoestarBattleTendency"
+      "codename": "JosephJoestarBattleTendency",
+      "parrygg_slug": "joseph-joestar-battle-tendency"
     },
     "Joseph Joestar (Stardust Crusaders)": {
-      "codename": "JosephJoestarStardustCrusaders"
+      "codename": "JosephJoestarStardustCrusaders",
+      "parrygg_slug": "joseph-joestar-stardust-crusaders"
     },
     "Josuke Higashikata (Diamond is Unbreakable)": {
-      "codename": "JosukeHigashikataDiamondisUnbreakable"
+      "codename": "JosukeHigashikataDiamondisUnbreakable",
+      "parrygg_slug": "josuke-higashikata-diamond-is-unbreakable"
     },
     "Josuke Higashikata (JoJolion)": {
-      "codename": "JosukeHigashikataJoJolion"
+      "codename": "JosukeHigashikataJoJolion",
+      "parrygg_slug": "josuke-higashikata-jo-jolion"
     },
     "Jotaro Kujo (Diamond is Unbreakable)": {
-      "codename": "JotaroKujoDiamondisUnbreakable"
+      "codename": "JotaroKujoDiamondisUnbreakable",
+      "parrygg_slug": "jotaro-kujo-diamond-is-unbreakable"
     },
     "Jotaro Kujo (Stardust Crusaders)": {
-      "codename": "JotaroKujoStardustCrusaders"
+      "codename": "JotaroKujoStardustCrusaders",
+      "parrygg_slug": "jotaro-kujo-stardust-crusaders"
     },
     "Kars": {
-      "codename": "Kars"
+      "codename": "Kars",
+      "parrygg_slug": "kars"
     },
     "Koichi Hirose": {
-      "codename": "KoichiHirose"
+      "codename": "KoichiHirose",
+      "parrygg_slug": "koichi-hirose"
     },
     "Kosaku Kawajiri": {
-      "codename": "KosakuKawajiri"
+      "codename": "KosakuKawajiri",
+      "parrygg_slug": "kosaku-kawajiri"
     },
     "Elizabeth \"Lisa Lisa\" Joestar": {
-      "codename": "LisaLisa"
+      "codename": "LisaLisa",
+      "parrygg_slug": "elizabeth-lisa-lisa-joestar"
     },
     "Mariah": {
-      "codename": "Mariah"
+      "codename": "Mariah",
+      "parrygg_slug": "mariah"
     },
     "Muhammad Avdol": {
-      "codename": "MuhammadAvdol"
+      "codename": "MuhammadAvdol",
+      "parrygg_slug": "muhammad-avdol"
     },
     "Narancia Ghirga": {
-      "codename": "NaranciaGhirga"
+      "codename": "NaranciaGhirga",
+      "parrygg_slug": "narancia-ghirga"
     },
     "Narciso Anasui": {
-      "codename": "NarcisoAnasuiNarcisoAnastasia"
+      "codename": "NarcisoAnasuiNarcisoAnastasia",
+      "parrygg_slug": "narciso-anasui"
     },
     "Noriaki Kakyoin": {
-      "codename": "NoriakiKakyoin"
+      "codename": "NoriakiKakyoin",
+      "parrygg_slug": "noriaki-kakyoin"
     },
     "Okuyasu Nijimura": {
-      "codename": "OkuyasuNijimura"
+      "codename": "OkuyasuNijimura",
+      "parrygg_slug": "okuyasu-nijimura"
     },
     "Pannacotta Fugo": {
-      "codename": "PannacottaFugo"
+      "codename": "PannacottaFugo",
+      "parrygg_slug": "pannacotta-fugo"
     },
     "Pet Shop": {
-      "codename": "PetShop"
+      "codename": "PetShop",
+      "parrygg_slug": "pet-shop"
     },
     "Prosciutto & Pesci": {
-      "codename": "ProsciuttoPesci"
+      "codename": "ProsciuttoPesci",
+      "parrygg_slug": "prosciutto-pesci"
     },
     "Robert E. O. Speedwagon": {
-      "codename": "RobertEOSpeedwagon"
+      "codename": "RobertEOSpeedwagon",
+      "parrygg_slug": "robert-e-o-speedwagon"
     },
     "Rohan Kishibe": {
-      "codename": "RohanKishibe"
+      "codename": "RohanKishibe",
+      "parrygg_slug": "rohan-kishibe"
     },
     "Shigekiyo \"Shigechi\" Yangu": {
-      "codename": "ShigekiyoShigechiYangu"
+      "codename": "ShigekiyoShigechiYangu",
+      "parrygg_slug": "shigekiyo-shigechi-yangu"
     },
     "Trish Una": {
-      "codename": "TrishUna"
+      "codename": "TrishUna",
+      "parrygg_slug": "trish-una"
     },
     "Vanilla Ice": {
-      "codename": "VanillaIceCoolIce"
+      "codename": "VanillaIceCoolIce",
+      "parrygg_slug": "vanilla-ice"
     },
     "Wamuu": {
-      "codename": "Wamuu"
+      "codename": "Wamuu",
+      "parrygg_slug": "wamuu"
     },
     "Will Anthonio Zeppeli": {
-      "codename": "WillAZeppeli"
+      "codename": "WillAZeppeli",
+      "parrygg_slug": "will-anthonio-zeppeli"
     },
     "Yoshikage Kira": {
-      "codename": "YoshikageKira"
+      "codename": "YoshikageKira",
+      "parrygg_slug": "yoshikage-kira"
     },
     "Yukako Yamagishi": {
-      "codename": "YukakoYamagishi"
+      "codename": "YukakoYamagishi",
+      "parrygg_slug": "yukako-yamagishi"
     },
     "Risotto Nero": {
-      "codename": "RisottoNero"
+      "codename": "RisottoNero",
+      "parrygg_slug": "risotto-nero"
     },
     "Enrico Pucci (C-Moon / Made In Heaven)": {
-      "codename": "NewPucci"
+      "codename": "NewPucci",
+      "parrygg_slug": "enrico-pucci-c-moon-made-in-heaven"
     },
     "Weather Report": {
-      "codename": "WeatherReport"
+      "codename": "WeatherReport",
+      "parrygg_slug": "weather-report"
     },
     "Rudol von Stroheim": {
-      "codename": "Stroheim"
+      "codename": "Stroheim",
+      "parrygg_slug": "rudol-von-stroheim"
     },
     "Keicho Nijimura": {
-      "codename": "Keicho"
+      "codename": "Keicho",
+      "parrygg_slug": "keicho-nijimura"
     },
     "Diego Brando (The World)": {
-      "codename": "DiegoAlt"
+      "codename": "DiegoAlt",
+      "parrygg_slug": "diego-brando-the-world"
     },
     "Leone Abbacchio": {
-      "codename": "Abbacchio"
+      "codename": "Abbacchio",
+      "parrygg_slug": "leone-abbacchio"
     },
     "Yuya Fungami": {
-      "codename": "Yuya"
+      "codename": "Yuya",
+      "parrygg_slug": "yuya-fungami"
     },
     "Wonder of U": {
-      "codename": "Toru"
+      "codename": "Toru",
+      "parrygg_slug": "wonder-of-u"
     }
   },
   "credits": "",

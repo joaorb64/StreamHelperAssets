@@ -2,121 +2,160 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Akamaru": {
-      "codename": "Akamaru"
+      "codename": "Akamaru",
+      "parrygg_slug": "akamaru"
     },
     "Anko Mitarashi": {
-      "codename": "AnkoMitarashi"
+      "codename": "AnkoMitarashi",
+      "parrygg_slug": "anko-mitarashi"
     },
     "Hinata Hyuga - Awakened": {
-      "codename": "AwakenedHinata"
+      "codename": "AwakenedHinata",
+      "parrygg_slug": "hinata-hyuga-awakened"
     },
     "Choji Akimichi": {
-      "codename": "ChojiAkimichi"
+      "codename": "ChojiAkimichi",
+      "parrygg_slug": "choji-akimichi"
     },
     "Crow": {
-      "codename": "Crow"
+      "codename": "Crow",
+      "parrygg_slug": "crow"
     },
     "Gaara": {
-      "codename": "Gaara"
+      "codename": "Gaara",
+      "parrygg_slug": "gaara"
     },
     "Haku": {
-      "codename": "Haku"
+      "codename": "Haku",
+      "parrygg_slug": "haku"
     },
     "Hinata Hyuga": {
-      "codename": "HinataHyuga"
+      "codename": "HinataHyuga",
+      "parrygg_slug": "hinata-hyuga"
     },
     "Ino Yamanaka": {
-      "codename": "InoYamanaka"
+      "codename": "InoYamanaka",
+      "parrygg_slug": "ino-yamanaka"
     },
     "Iruka Umino": {
-      "codename": "IrukaUmino"
+      "codename": "IrukaUmino",
+      "parrygg_slug": "iruka-umino"
     },
     "Itachi Uchiha": {
-      "codename": "ItachiUchiha"
+      "codename": "ItachiUchiha",
+      "parrygg_slug": "itachi-uchiha"
     },
     "Jiraiya": {
-      "codename": "Jiraiya"
+      "codename": "Jiraiya",
+      "parrygg_slug": "jiraiya"
     },
     "Jirobo": {
-      "codename": "Jirobo"
+      "codename": "Jirobo",
+      "parrygg_slug": "jirobo"
     },
     "Kabuto Yakushi": {
-      "codename": "KabutoYakushi"
+      "codename": "KabutoYakushi",
+      "parrygg_slug": "kabuto-yakushi"
     },
     "Kakashi Hatake": {
-      "codename": "KakashiHatake"
+      "codename": "KakashiHatake",
+      "parrygg_slug": "kakashi-hatake"
     },
     "Kankuro": {
-      "codename": "Kankuro"
+      "codename": "Kankuro",
+      "parrygg_slug": "kankuro"
     },
     "Kiba Inuzuka": {
-      "codename": "KibaInuzuka"
+      "codename": "KibaInuzuka",
+      "parrygg_slug": "kiba-inuzuka"
     },
     "Kidomaru": {
-      "codename": "Kidomaru"
+      "codename": "Kidomaru",
+      "parrygg_slug": "kidomaru"
     },
     "Kimimaro": {
-      "codename": "Kimimaro"
+      "codename": "Kimimaro",
+      "parrygg_slug": "kimimaro"
     },
     "Kisame Hoshigaki": {
-      "codename": "KisameHoshigaki"
+      "codename": "KisameHoshigaki",
+      "parrygg_slug": "kisame-hoshigaki"
     },
     "Rock Lee": {
-      "codename": "Lee"
+      "codename": "Lee",
+      "parrygg_slug": "rock-lee"
     },
     "Might Guy": {
-      "codename": "MightGuy"
+      "codename": "MightGuy",
+      "parrygg_slug": "might-guy"
     },
     "Mizuki": {
-      "codename": "Mizuki"
+      "codename": "Mizuki",
+      "parrygg_slug": "mizuki"
     },
     "Naruto Uzumaki": {
-      "codename": "NarutoUzumaki"
+      "codename": "NarutoUzumaki",
+      "parrygg_slug": "naruto-uzumaki"
     },
     "Neji Hyuga": {
-      "codename": "NejiHyuga"
+      "codename": "NejiHyuga",
+      "parrygg_slug": "neji-hyuga"
     },
     "Orochimaru": {
-      "codename": "Orochimaru"
+      "codename": "Orochimaru",
+      "parrygg_slug": "orochimaru"
     },
     "Sakon & Ukon": {
-      "codename": "SakonUkon"
+      "codename": "SakonUkon",
+      "parrygg_slug": "sakon-ukon"
     },
     "Sakura Haruno": {
-      "codename": "SakuraHaruno"
+      "codename": "SakuraHaruno",
+      "parrygg_slug": "sakura-haruno"
     },
     "Sasuke Uchiha": {
-      "codename": "SasukeUchiha"
+      "codename": "SasukeUchiha",
+      "parrygg_slug": "sasuke-uchiha"
     },
     "Sasuke Uchiha - Curse Seal Level 2": {
-      "codename": "SecondStateSasuke"
+      "codename": "SecondStateSasuke",
+      "parrygg_slug": "sasuke-uchiha-curse-seal-level-2"
     },
     "Shikamaru Nara": {
-      "codename": "ShikamaruNara"
+      "codename": "ShikamaruNara",
+      "parrygg_slug": "shikamaru-nara"
     },
     "Shino Aburame": {
-      "codename": "ShinoAburame"
+      "codename": "ShinoAburame",
+      "parrygg_slug": "shino-aburame"
     },
     "Tayuya": {
-      "codename": "Tayuya"
+      "codename": "Tayuya",
+      "parrygg_slug": "tayuya"
     },
     "Temari": {
-      "codename": "Temari"
+      "codename": "Temari",
+      "parrygg_slug": "temari"
     },
     "Tenten": {
-      "codename": "Tenten"
+      "codename": "Tenten",
+      "parrygg_slug": "tenten"
     },
     "Hiruzen Sarutobi": {
-      "codename": "ThirdHokage"
+      "codename": "ThirdHokage",
+      "parrygg_slug": "hiruzen-sarutobi"
     },
     "Tsunade": {
-      "codename": "Tsunade"
+      "codename": "Tsunade",
+      "parrygg_slug": "tsunade"
     },
     "Naruto Uzumaki - One-Tailed Kyuubi": {
-      "codename": "UltimateNineTailedNaruto"
+      "codename": "UltimateNineTailedNaruto",
+      "parrygg_slug": "naruto-uzumaki-one-tailed-kyuubi"
     },
     "Zabuza Momochi": {
-      "codename": "ZabuzaMomochi"
+      "codename": "ZabuzaMomochi",
+      "parrygg_slug": "zabuza-momochi"
     }
   },
   "credits": "",

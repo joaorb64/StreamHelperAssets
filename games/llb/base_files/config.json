@@ -3,51 +3,63 @@
   "character_to_codename": {
     "Candyman": {
       "codename": "Candyman",
-      "smashgg_name": "Candyman"
+      "smashgg_name": "Candyman",
+      "parrygg_slug": "candyman"
     },
     "Dice": {
       "codename": "Dice",
-      "smashgg_name": "Dice"
+      "smashgg_name": "Dice",
+      "parrygg_slug": "dice"
     },
     "Doombox": {
       "codename": "Doombox",
-      "smashgg_name": "Doombox"
+      "smashgg_name": "Doombox",
+      "parrygg_slug": "doombox"
     },
     "Dust & Ashes": {
       "codename": "DustAshes",
-      "smashgg_name": "Dust and Ashes"
+      "smashgg_name": "Dust and Ashes",
+      "parrygg_slug": "dust-ashes"
     },
     "Grid": {
       "codename": "Grid",
-      "smashgg_name": "Grid"
+      "smashgg_name": "Grid",
+      "parrygg_slug": "grid"
     },
     "Jet": {
       "codename": "Jet",
-      "smashgg_name": "Jet"
+      "smashgg_name": "Jet",
+      "parrygg_slug": "jet"
     },
     "Latch": {
       "codename": "Latch",
-      "smashgg_name": "Latch"
+      "smashgg_name": "Latch",
+      "parrygg_slug": "latch"
     },
     "Nitro": {
       "codename": "Nitro",
-      "smashgg_name": "Nitro"
+      "smashgg_name": "Nitro",
+      "parrygg_slug": "nitro"
     },
     "Raptor": {
       "codename": "Raptor",
-      "smashgg_name": "Raptor"
+      "smashgg_name": "Raptor",
+      "parrygg_slug": "raptor"
     },
     "Sonata": {
       "codename": "Sonata",
-      "smashgg_name": "Sonata"
+      "smashgg_name": "Sonata",
+      "parrygg_slug": "sonata"
     },
     "Switch": {
       "codename": "Switch",
-      "smashgg_name": "Switch"
+      "smashgg_name": "Switch",
+      "parrygg_slug": "switch"
     },
     "Toxic": {
       "codename": "Toxic",
-      "smashgg_name": "Toxic"
+      "smashgg_name": "Toxic",
+      "parrygg_slug": "toxic"
     }
   },
   "credits": "Assets provided by BiancaRacc",
@@ -57,34 +69,44 @@
   "version": "26.09.10.51871",
   "stage_to_codename": {
     "Scrap Desert": {
-      "codename": "desert"
+      "codename": "desert",
+      "parrygg_slug": "scrap-desert"
     },
     "New Rise District": {
-      "codename": "District"
+      "codename": "District",
+      "parrygg_slug": "new-rise-district"
     },
     "Workbot Factory": {
-      "codename": "factory"
+      "codename": "factory",
+      "parrygg_slug": "workbot-factory"
     },
     "Paradise Field": {
-      "codename": "Fields"
+      "codename": "Fields",
+      "parrygg_slug": "paradise-field"
     },
     "Outskirts": {
-      "codename": "Outskirts"
+      "codename": "Outskirts",
+      "parrygg_slug": "outskirts"
     },
     "Abandoned Pool": {
-      "codename": "pool"
+      "codename": "pool",
+      "parrygg_slug": "abandoned-pool"
     },
     "Room 21": {
-      "codename": "Room"
+      "codename": "Room",
+      "parrygg_slug": "room-21"
     },
     "The Sewers": {
-      "codename": "sewers"
+      "codename": "sewers",
+      "parrygg_slug": "the-sewers"
     },
     "Central Streets": {
-      "codename": "streets"
+      "codename": "streets",
+      "parrygg_slug": "central-streets"
     },
     "The Subways": {
-      "codename": "subway"
+      "codename": "subway",
+      "parrygg_slug": "the-subways"
     }
   },
   "igdb_game_id": "lethal-league-blaze",

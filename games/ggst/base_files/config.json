@@ -264,14 +264,16 @@
       "smashgg_name": "Jam",
       "locale": {
         "ja": "\u8535\u571f\u7e01 \u7d17\u5922"
-      }
+      },
+      "parrygg_slug": "jam-kuradoberi"
     },
     "Robo-Ky": {
       "codename": "Robo",
       "smashgg_name": "Robo-Ky",
       "locale": {
         "ja": "\u30ed\u30dc\u30ab\u30a4"
-      }
+      },
+      "parrygg_slug": "robo-ky"
     }
   },
   "stage_to_codename": {},

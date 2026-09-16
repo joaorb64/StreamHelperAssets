@@ -3,43 +3,56 @@
   "smashgg_game_id": 33670,
   "character_to_codename": {
     "Akatsuki": {
-      "codename": "Akatsuki"
+      "codename": "Akatsuki",
+      "parrygg_slug": "akatsuki"
     },
     "Mycale": {
-      "codename": "Mycale"
+      "codename": "Mycale",
+      "parrygg_slug": "mycale"
     },
     "Claude D'Aspermont": {
-      "codename": "Sai"
+      "codename": "Sai",
+      "parrygg_slug": "claude-d-aspermont"
     },
     "Kanae": {
-      "codename": "Kanae"
+      "codename": "Kanae",
+      "parrygg_slug": "kanae"
     },
     "Fritz": {
-      "codename": "Fritz"
+      "codename": "Fritz",
+      "parrygg_slug": "fritz"
     },
     "Marilyn Sue Da Jie": {
-      "codename": "MarilynSue"
+      "codename": "MarilynSue",
+      "parrygg_slug": "marilyn-sue-da-jie"
     },
     "Da Wei Ye Lue": {
-      "codename": "Wei"
+      "codename": "Wei",
+      "parrygg_slug": "da-wei-ye-lue"
     },
     "Anonym Merel Lambuth": {
-      "codename": "Anonym"
+      "codename": "Anonym",
+      "parrygg_slug": "anonym-merel-lambuth"
     },
     "Elektrosoldat": {
-      "codename": "Elektrosoldat"
+      "codename": "Elektrosoldat",
+      "parrygg_slug": "elektrosoldat"
     },
     "Blitztank": {
-      "codename": "Blitztank"
+      "codename": "Blitztank",
+      "parrygg_slug": "blitztank"
     },
     "Ernst von Adler": {
-      "codename": "Adler"
+      "codename": "Adler",
+      "parrygg_slug": "ernst-von-adler"
     },
     "Murakumo": {
-      "codename": "Murakumo"
+      "codename": "Murakumo",
+      "parrygg_slug": "murakumo"
     },
     "Perfecti": {
-      "codename": "Perfecti"
+      "codename": "Perfecti",
+      "parrygg_slug": "perfecti"
     }
   },
   "stage_to_codename": {},

@@ -3,58 +3,76 @@
   "smashgg_game_id": 2366,
   "character_to_codename": {
     "Kairi": {
-      "codename": "01_kairi"
+      "codename": "01_kairi",
+      "parrygg_slug": "kairi"
     },
     "Shirase": {
-      "codename": "02_shirase"
+      "codename": "02_shirase",
+      "parrygg_slug": "shirase"
     },
     "Garuda": {
-      "codename": "03_garuda"
+      "codename": "03_garuda",
+      "parrygg_slug": "garuda"
     },
     "Skullomania": {
-      "codename": "04_skullo"
+      "codename": "04_skullo",
+      "parrygg_slug": "skullomania"
     },
     "Darun Mister": {
-      "codename": "05_darun"
+      "codename": "05_darun",
+      "parrygg_slug": "darun-mister"
     },
     "Allen Snider": {
-      "codename": "06_allen"
+      "codename": "06_allen",
+      "parrygg_slug": "allen-snider"
     },
     "Doctrine Dark": {
-      "codename": "07_dark"
+      "codename": "07_dark",
+      "parrygg_slug": "doctrine-dark"
     },
     "Blair Dame": {
-      "codename": "08_blair"
+      "codename": "08_blair",
+      "parrygg_slug": "blair-dame"
     },
     "Jack": {
-      "codename": "09_jack"
+      "codename": "09_jack",
+      "parrygg_slug": "jack"
     },
     "Shadowgeist": {
-      "codename": "10_shadowgeist"
+      "codename": "10_shadowgeist",
+      "parrygg_slug": "shadowgeist"
     },
     "Sanane": {
-      "codename": "11_sanane"
+      "codename": "11_sanane",
+      "parrygg_slug": "sanane"
     },
     "Hayate": {
-      "codename": "12_hayate"
+      "codename": "12_hayate",
+      "parrygg_slug": "hayate"
     },
     "Pullum Purna": {
-      "codename": "13_pullum"
+      "codename": "13_pullum",
+      "parrygg_slug": "pullum-purna"
     },
     "Vulcano Rosso": {
-      "codename": "14_rosso"
+      "codename": "14_rosso",
+      "parrygg_slug": "vulcano-rosso"
     },
     "Sharon": {
-      "codename": "15_sharon"
+      "codename": "15_sharon",
+      "parrygg_slug": "sharon"
     },
     "Area": {
-      "codename": "16_area"
+      "codename": "16_area",
+      "parrygg_slug": "area"
     },
     "Hokuto": {
-      "codename": "17_hokuto"
+      "codename": "17_hokuto",
+      "parrygg_slug": "hokuto"
     },
     "Terry Bogard": {
-      "codename": "18_terry"
+      "codename": "18_terry",
+      "parrygg_slug": "terry-bogard"
     }
   },
   "stage_to_codename": {},

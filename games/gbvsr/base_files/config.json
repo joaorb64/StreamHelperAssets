@@ -5,159 +5,198 @@
   "character_to_codename": {
     "Anre": {
       "codename": "Anre",
-      "smashgg_name": "Anre"
+      "smashgg_name": "Anre",
+      "parrygg_slug": "anre"
     },
     "Avatar Belial": {
       "codename": "AvatarBelial",
-      "smashgg_name": "Avatar Belial"
+      "smashgg_name": "Avatar Belial",
+      "parrygg_slug": "avatar-belial"
     },
     "Beelzebub": {
       "codename": "Beelzebub",
-      "smashgg_name": "Beelzebub"
+      "smashgg_name": "Beelzebub",
+      "parrygg_slug": "beelzebub"
     },
     "Belial": {
       "codename": "Belial",
-      "smashgg_name": "Belial"
+      "smashgg_name": "Belial",
+      "parrygg_slug": "belial"
     },
     "Cagliostro": {
       "codename": "Cagliostro",
-      "smashgg_name": "Cagliostro"
+      "smashgg_name": "Cagliostro",
+      "parrygg_slug": "cagliostro"
     },
     "Charlotta": {
       "codename": "Charlotta",
-      "smashgg_name": "Charlotta"
+      "smashgg_name": "Charlotta",
+      "parrygg_slug": "charlotta"
     },
     "Djeeta": {
       "codename": "Djeeta",
-      "smashgg_name": "Djeeta"
+      "smashgg_name": "Djeeta",
+      "parrygg_slug": "djeeta"
     },
     "Eustace": {
       "codename": "Eustace",
-      "smashgg_name": "Eustace"
+      "smashgg_name": "Eustace",
+      "parrygg_slug": "eustace"
     },
     "Ferry": {
       "codename": "Ferry",
-      "smashgg_name": "Ferry"
+      "smashgg_name": "Ferry",
+      "parrygg_slug": "ferry"
     },
     "Gran": {
       "codename": "Gran",
-      "smashgg_name": "Gran"
+      "smashgg_name": "Gran",
+      "parrygg_slug": "gran"
     },
     "Katalina": {
       "codename": "Katalina",
-      "smashgg_name": "Katalina"
+      "smashgg_name": "Katalina",
+      "parrygg_slug": "katalina"
     },
     "Ladiva": {
       "codename": "Ladiva",
-      "smashgg_name": "Ladiva"
+      "smashgg_name": "Ladiva",
+      "parrygg_slug": "ladiva"
     },
     "Lancelot": {
       "codename": "Lancelot",
-      "smashgg_name": "Lancelot"
+      "smashgg_name": "Lancelot",
+      "parrygg_slug": "lancelot"
     },
     "Lowain": {
       "codename": "Lowain",
-      "smashgg_name": "Lowain"
+      "smashgg_name": "Lowain",
+      "parrygg_slug": "lowain"
     },
     "Metera": {
       "codename": "Metera",
-      "smashgg_name": "Metera"
+      "smashgg_name": "Metera",
+      "parrygg_slug": "metera"
     },
     "Narmaya": {
       "codename": "Narmaya",
-      "smashgg_name": "Narmaya"
+      "smashgg_name": "Narmaya",
+      "parrygg_slug": "narmaya"
     },
     "Percival": {
       "codename": "Percival",
-      "smashgg_name": "Percival"
+      "smashgg_name": "Percival",
+      "parrygg_slug": "percival"
     },
     "Seox": {
       "codename": "Seox",
-      "smashgg_name": "Seox"
+      "smashgg_name": "Seox",
+      "parrygg_slug": "seox"
     },
     "Soriz": {
       "codename": "Soriz",
-      "smashgg_name": "Soriz"
+      "smashgg_name": "Soriz",
+      "parrygg_slug": "soriz"
     },
     "Vaseraga": {
       "codename": "Vaseraga",
-      "smashgg_name": "Vaseraga"
+      "smashgg_name": "Vaseraga",
+      "parrygg_slug": "vaseraga"
     },
     "Vira": {
       "codename": "Vira",
-      "smashgg_name": "Vira"
+      "smashgg_name": "Vira",
+      "parrygg_slug": "vira"
     },
     "Yuel": {
       "codename": "Yuel",
-      "smashgg_name": "Yuel"
+      "smashgg_name": "Yuel",
+      "parrygg_slug": "yuel"
     },
     "Zeta": {
       "codename": "Zeta",
-      "smashgg_name": "Zeta"
+      "smashgg_name": "Zeta",
+      "parrygg_slug": "zeta"
     },
     "Zooey": {
       "codename": "Zooey",
-      "smashgg_name": "Zooey"
+      "smashgg_name": "Zooey",
+      "parrygg_slug": "zooey"
     },
     "Anila": {
       "codename": "Anila",
-      "smashgg_name": "Anila"
+      "smashgg_name": "Anila",
+      "parrygg_slug": "anila"
     },
     "Siegfried": {
       "codename": "Siegfried",
-      "smashgg_name": "Siegfried"
+      "smashgg_name": "Siegfried",
+      "parrygg_slug": "siegfried"
     },
     "Grimnir": {
       "codename": "Grimnir",
-      "smashgg_name": "Grimnir"
+      "smashgg_name": "Grimnir",
+      "parrygg_slug": "grimnir"
     },
     "Nier": {
       "codename": "Nier",
-      "smashgg_name": "Nier"
+      "smashgg_name": "Nier",
+      "parrygg_slug": "nier"
     },
     "Lucilius": {
       "codename": "Lucilius",
-      "smashgg_name": "Lucilius"
+      "smashgg_name": "Lucilius",
+      "parrygg_slug": "lucilius"
     },
     "2B": {
       "codename": "2B",
-      "smashgg_name": "2B"
+      "smashgg_name": "2B",
+      "parrygg_slug": "2b"
     },
     "Vane": {
       "codename": "Vane",
-      "smashgg_name": "Vane"
+      "smashgg_name": "Vane",
+      "parrygg_slug": "vane"
     },
     "Beatrix": {
       "codename": "Beatrix",
-      "smashgg_name": "Beatrix"
+      "smashgg_name": "Beatrix",
+      "parrygg_slug": "beatrix"
     },
     "Versusia": {
       "codename": "Versusia",
-      "smashgg_name": "Versusia"
+      "smashgg_name": "Versusia",
+      "parrygg_slug": "versusia"
     },
     "Vikala": {
       "codename": "Vikala",
-      "smashgg_name": "Vikala"
+      "smashgg_name": "Vikala",
+      "parrygg_slug": "vikala"
     },
     "Sandalphon": {
       "codename": "Sandalphon",
-      "smashgg_name": "Sandalphon"
+      "smashgg_name": "Sandalphon",
+      "parrygg_slug": "sandalphon"
     },
     "Galleon": {
       "codename": "Galleon",
-      "smashgg_name": "Galleon"
+      "smashgg_name": "Galleon",
+      "parrygg_slug": "galleon"
     },
     "Wilnas": {
       "codename": "Wilnas",
-      "smashgg_name": "Wilnas"
+      "smashgg_name": "Wilnas",
+      "parrygg_slug": "wilnas"
     },
     "Meg": {
       "codename": "Meg",
-      "smashgg_name": "Meg"
+      "smashgg_name": "Meg",
+      "parrygg_slug": "meg"
     },
     "Ilsa": {
       "codename": "Ilsa",
-      "smashgg_name": "Ilsa"
+      "smashgg_name": "Ilsa",
+      "parrygg_slug": "ilsa"
     },
     "Id": {
       "codename": "Id",

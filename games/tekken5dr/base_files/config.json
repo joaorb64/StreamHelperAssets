@@ -2,112 +2,148 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Anna Williams": {
-      "codename": "AnnaWilliams"
+      "codename": "AnnaWilliams",
+      "parrygg_slug": "anna-williams"
     },
     "Armor King II": {
-      "codename": "ArmorKingII"
+      "codename": "ArmorKingII",
+      "parrygg_slug": "armor-king-ii"
     },
     "Asuka Kazama": {
-      "codename": "AsukaKazama"
+      "codename": "AsukaKazama",
+      "parrygg_slug": "asuka-kazama"
     },
     "Baek Doo San": {
-      "codename": "BaekDooSan"
+      "codename": "BaekDooSan",
+      "parrygg_slug": "baek-doo-san"
     },
     "Bruce Irvin": {
-      "codename": "BruceIrvin"
+      "codename": "BruceIrvin",
+      "parrygg_slug": "bruce-irvin"
     },
     "Bryan Fury": {
-      "codename": "BryanFury"
+      "codename": "BryanFury",
+      "parrygg_slug": "bryan-fury"
     },
     "Christie Monteiro": {
-      "codename": "ChristieMonteiro"
+      "codename": "ChristieMonteiro",
+      "parrygg_slug": "christie-monteiro"
     },
     "Craig Marduk": {
-      "codename": "CraigMarduk"
+      "codename": "CraigMarduk",
+      "parrygg_slug": "craig-marduk"
     },
     "Devil Jin": {
-      "codename": "DevilJin"
+      "codename": "DevilJin",
+      "parrygg_slug": "devil-jin"
     },
     "Eddy Gordo": {
-      "codename": "EddyGordo"
+      "codename": "EddyGordo",
+      "parrygg_slug": "eddy-gordo"
     },
     "Emilie \"Lili\" De Rochefort": {
-      "codename": "EmilieLiliDeRochefort"
+      "codename": "EmilieLiliDeRochefort",
+      "parrygg_slug": "emilie-lili-de-rochefort"
     },
     "Feng Wei": {
-      "codename": "FengWei"
+      "codename": "FengWei",
+      "parrygg_slug": "feng-wei"
     },
     "Ganryu": {
-      "codename": "Ganryu"
+      "codename": "Ganryu",
+      "parrygg_slug": "ganryu"
     },
     "Heihachi Mishima": {
-      "codename": "HeihachiMishima"
+      "codename": "HeihachiMishima",
+      "parrygg_slug": "heihachi-mishima"
     },
     "Hwoarang": {
-      "codename": "Hwoarang"
+      "codename": "Hwoarang",
+      "parrygg_slug": "hwoarang"
     },
     "Jack-5": {
-      "codename": "Jack5"
+      "codename": "Jack5",
+      "parrygg_slug": "jack-5"
     },
     "Jin Kazama": {
-      "codename": "JinKazama"
+      "codename": "JinKazama",
+      "parrygg_slug": "jin-kazama"
     },
     "Jinpachi Mishima": {
-      "codename": "JinpachiMishima"
+      "codename": "JinpachiMishima",
+      "parrygg_slug": "jinpachi-mishima"
     },
     "Julia Chang": {
-      "codename": "JuliaChang"
+      "codename": "JuliaChang",
+      "parrygg_slug": "julia-chang"
     },
     "Kazuya Mishima": {
-      "codename": "KazuyaMishima"
+      "codename": "KazuyaMishima",
+      "parrygg_slug": "kazuya-mishima"
     },
     "King II": {
-      "codename": "KingII"
+      "codename": "KingII",
+      "parrygg_slug": "king-ii"
     },
     "Kuma II": {
-      "codename": "KumaII"
+      "codename": "KumaII",
+      "parrygg_slug": "kuma-ii"
     },
     "Lee Chaolan": {
-      "codename": "LeeChaolan"
+      "codename": "LeeChaolan",
+      "parrygg_slug": "lee-chaolan"
     },
     "Lei Wulong": {
-      "codename": "LeiWulong"
+      "codename": "LeiWulong",
+      "parrygg_slug": "lei-wulong"
     },
     "Ling Xiaoyu": {
-      "codename": "LingXiaoyu"
+      "codename": "LingXiaoyu",
+      "parrygg_slug": "ling-xiaoyu"
     },
     "Marshall Law": {
-      "codename": "MarshallLaw"
+      "codename": "MarshallLaw",
+      "parrygg_slug": "marshall-law"
     },
     "Mokujin": {
-      "codename": "Mokujin"
+      "codename": "Mokujin",
+      "parrygg_slug": "mokujin"
     },
     "Nina Williams": {
-      "codename": "NinaWilliams"
+      "codename": "NinaWilliams",
+      "parrygg_slug": "nina-williams"
     },
     "Panda": {
-      "codename": "Panda"
+      "codename": "Panda",
+      "parrygg_slug": "panda"
     },
     "Paul Phoenix": {
-      "codename": "PaulPhoenix"
+      "codename": "PaulPhoenix",
+      "parrygg_slug": "paul-phoenix"
     },
     "Raven": {
-      "codename": "Raven"
+      "codename": "Raven",
+      "parrygg_slug": "raven"
     },
     "Roger Jr.": {
-      "codename": "RogerJr"
+      "codename": "RogerJr",
+      "parrygg_slug": "roger-jr"
     },
     "Sergei Dragunov": {
-      "codename": "SergeiDragunov"
+      "codename": "SergeiDragunov",
+      "parrygg_slug": "sergei-dragunov"
     },
     "Steve Fox": {
-      "codename": "SteveFox"
+      "codename": "SteveFox",
+      "parrygg_slug": "steve-fox"
     },
     "Wang Jinrei": {
-      "codename": "WangJinrei"
+      "codename": "WangJinrei",
+      "parrygg_slug": "wang-jinrei"
     },
     "Yoshimitsu": {
-      "codename": "Yoshimitsu"
+      "codename": "Yoshimitsu",
+      "parrygg_slug": "yoshimitsu"
     }
   },
   "credits": "Icons ripped from https://tekken.fandom.com/wiki/Tekken_5:_Dark_Resurrection",

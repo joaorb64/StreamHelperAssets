@@ -2,43 +2,56 @@
   "challonge_game_id": 120444,
   "character_to_codename": {
     "Clown": {
-      "codename": "23"
+      "codename": "23",
+      "parrygg_slug": "clown"
     },
     "Jean Pierre": {
-      "codename": "15"
+      "codename": "15",
+      "parrygg_slug": "jean-pierre"
     },
     "Karnov": {
-      "codename": "25"
+      "codename": "25",
+      "parrygg_slug": "karnov"
     },
     "Lee Diendou": {
-      "codename": "11"
+      "codename": "11",
+      "parrygg_slug": "lee-diendou"
     },
     "Liu Feilin": {
-      "codename": "03"
+      "codename": "03",
+      "parrygg_slug": "liu-feilin"
     },
     "Liu Yungmie": {
-      "codename": "19"
+      "codename": "19",
+      "parrygg_slug": "liu-yungmie"
     },
     "Makoto Mizoguchi": {
-      "codename": "13"
+      "codename": "13",
+      "parrygg_slug": "makoto-mizoguchi"
     },
     "Marstorius": {
-      "codename": "17"
+      "codename": "17",
+      "parrygg_slug": "marstorius"
     },
     "Matlok Jade": {
-      "codename": "07"
+      "codename": "07",
+      "parrygg_slug": "matlok-jade"
     },
     "Ray McDougal": {
-      "codename": "01"
+      "codename": "01",
+      "parrygg_slug": "ray-mc-dougal"
     },
     "Ryoko Kano": {
-      "codename": "05"
+      "codename": "05",
+      "parrygg_slug": "ryoko-kano"
     },
     "Samchay Tomyamgun": {
-      "codename": "09"
+      "codename": "09",
+      "parrygg_slug": "samchay-tomyamgun"
     },
     "Zazie Muhaba": {
-      "codename": "21"
+      "codename": "21",
+      "parrygg_slug": "zazie-muhaba"
     }
   },
   "credits": "",

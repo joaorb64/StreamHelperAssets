@@ -4,202 +4,268 @@
   "challonge_game_id": 39688,
   "character_to_codename": {
     "Kyo Kusanagi": {
-      "codename": "05"
+      "codename": "05",
+      "parrygg_slug": "kyo-kusanagi"
     },
     "Benimaru Nikaido": {
-      "codename": "06"
+      "codename": "06",
+      "parrygg_slug": "benimaru-nikaido"
     },
     "Goro Daimon": {
-      "codename": "07"
+      "codename": "07",
+      "parrygg_slug": "goro-daimon"
     },
     "Iori Yagami": {
-      "codename": "41"
+      "codename": "41",
+      "parrygg_slug": "iori-yagami"
     },
     "Mature": {
-      "codename": "42"
+      "codename": "42",
+      "parrygg_slug": "mature"
     },
     "Vice": {
-      "codename": "43"
+      "codename": "43",
+      "parrygg_slug": "vice"
     },
     "Terry Bogard": {
-      "codename": "08"
+      "codename": "08",
+      "parrygg_slug": "terry-bogard"
     },
     "Andy Bogard": {
-      "codename": "09"
+      "codename": "09",
+      "parrygg_slug": "andy-bogard"
     },
     "Joe Higashi": {
-      "codename": "10"
+      "codename": "10",
+      "parrygg_slug": "joe-higashi"
     },
     "Ryo Sakazaki": {
-      "codename": "11"
+      "codename": "11",
+      "parrygg_slug": "ryo-sakazaki"
     },
     "Robert Garcia": {
-      "codename": "12"
+      "codename": "12",
+      "parrygg_slug": "robert-garcia"
     },
     "Yuri Sakazaki": {
-      "codename": "13"
+      "codename": "13",
+      "parrygg_slug": "yuri-sakazaki"
     },
     "Athena Asamiya": {
-      "codename": "17"
+      "codename": "17",
+      "parrygg_slug": "athena-asamiya"
     },
     "Sie Kensou": {
-      "codename": "18"
+      "codename": "18",
+      "parrygg_slug": "sie-kensou"
     },
     "Bao": {
-      "codename": "19"
+      "codename": "19",
+      "parrygg_slug": "bao"
     },
     "Vanessa": {
-      "codename": "44"
+      "codename": "44",
+      "parrygg_slug": "vanessa"
     },
     "Seth": {
-      "codename": "45"
+      "codename": "45",
+      "parrygg_slug": "seth"
     },
     "Ramon": {
-      "codename": "46"
+      "codename": "46",
+      "parrygg_slug": "ramon"
     },
     "Leona Heidern": {
-      "codename": "14"
+      "codename": "14",
+      "parrygg_slug": "leona-heidern"
     },
     "Ralf Jones": {
-      "codename": "15"
+      "codename": "15",
+      "parrygg_slug": "ralf-jones"
     },
     "Clark Still": {
-      "codename": "16"
+      "codename": "16",
+      "parrygg_slug": "clark-still"
     },
     "Yashiro Nanakase": {
-      "codename": "32"
+      "codename": "32",
+      "parrygg_slug": "yashiro-nanakase"
     },
     "Shermie": {
-      "codename": "33"
+      "codename": "33",
+      "parrygg_slug": "shermie"
     },
     "Chris": {
-      "codename": "34"
+      "codename": "34",
+      "parrygg_slug": "chris"
     },
     "Orochi Yashiro": {
-      "codename": "35"
+      "codename": "35",
+      "parrygg_slug": "orochi-yashiro"
     },
     "Orochi Shermie": {
-      "codename": "36"
+      "codename": "36",
+      "parrygg_slug": "orochi-shermie"
     },
     "Orochi Chris": {
-      "codename": "37"
+      "codename": "37",
+      "parrygg_slug": "orochi-chris"
     },
     "K'": {
-      "codename": "02"
+      "codename": "02",
+      "parrygg_slug": "k"
     },
     "Maxima": {
-      "codename": "03"
+      "codename": "03",
+      "parrygg_slug": "maxima"
     },
     "Whip": {
-      "codename": "04"
+      "codename": "04",
+      "parrygg_slug": "whip"
     },
     "Angel": {
-      "codename": "49"
+      "codename": "49",
+      "parrygg_slug": "angel"
     },
     "Kula Diamond": {
-      "codename": "47"
+      "codename": "47",
+      "parrygg_slug": "kula-diamond"
     },
     "Foxy": {
-      "codename": "48"
+      "codename": "48",
+      "parrygg_slug": "foxy"
     },
     "Kim Kaphwan": {
-      "codename": "26"
+      "codename": "26",
+      "parrygg_slug": "kim-kaphwan"
     },
     "Chang Koehan": {
-      "codename": "27"
+      "codename": "27",
+      "parrygg_slug": "chang-koehan"
     },
     "Choi Bounge": {
-      "codename": "28"
+      "codename": "28",
+      "parrygg_slug": "choi-bounge"
     },
     "Jhun Hoon": {
-      "codename": "29"
+      "codename": "29",
+      "parrygg_slug": "jhun-hoon"
     },
     "Lin": {
-      "codename": "30"
+      "codename": "30",
+      "parrygg_slug": "lin"
     },
     "Shingo Yabuki": {
-      "codename": "31"
+      "codename": "31",
+      "parrygg_slug": "shingo-yabuki"
     },
     "Ryuji Yamazaki": {
-      "codename": "38"
+      "codename": "38",
+      "parrygg_slug": "ryuji-yamazaki"
     },
     "Blue Mary": {
-      "codename": "39"
+      "codename": "39",
+      "parrygg_slug": "blue-mary"
     },
     "Billy Kane": {
-      "codename": "40"
+      "codename": "40",
+      "parrygg_slug": "billy-kane"
     },
     "Heidern": {
-      "codename": "50"
+      "codename": "50",
+      "parrygg_slug": "heidern"
     },
     "Takuma Sakazaki": {
-      "codename": "51"
+      "codename": "51",
+      "parrygg_slug": "takuma-sakazaki"
     },
     "Chin Gentsai": {
-      "codename": "52"
+      "codename": "52",
+      "parrygg_slug": "chin-gentsai"
     },
     "Li Xiangfei": {
-      "codename": "25"
+      "codename": "25",
+      "parrygg_slug": "li-xiangfei"
     },
     "Hinako Shijou": {
-      "codename": "24"
+      "codename": "24",
+      "parrygg_slug": "hinako-shijou"
     },
     "May Lee": {
-      "codename": "23"
+      "codename": "23",
+      "parrygg_slug": "may-lee"
     },
     "King": {
-      "codename": "20"
+      "codename": "20",
+      "parrygg_slug": "king"
     },
     "Mai Shiranui": {
-      "codename": "21"
+      "codename": "21",
+      "parrygg_slug": "mai-shiranui"
     },
     "Kasumi Todoh": {
-      "codename": "22"
+      "codename": "22",
+      "parrygg_slug": "kasumi-todoh"
     },
     "Kusanagi": {
-      "codename": "53"
+      "codename": "53",
+      "parrygg_slug": "kusanagi"
     },
     "Kyo - 1": {
-      "codename": "55"
+      "codename": "55",
+      "parrygg_slug": "kyo-1"
     },
     "Kyo - 2": {
-      "codename": "54"
+      "codename": "54",
+      "parrygg_slug": "kyo-2"
     },
     "EX Kensou": {
-      "codename": "57"
+      "codename": "57",
+      "parrygg_slug": "ex-kensou"
     },
     "EX Robert": {
-      "codename": "56"
+      "codename": "56",
+      "parrygg_slug": "ex-robert"
     },
     "EX Takuma": {
-      "codename": "58"
+      "codename": "58",
+      "parrygg_slug": "ex-takuma"
     },
     "Nameless": {
-      "codename": "01"
+      "codename": "01",
+      "parrygg_slug": "nameless"
     },
     "Goenitz": {
-      "codename": "60"
+      "codename": "60",
+      "parrygg_slug": "goenitz"
     },
     "Geese": {
-      "codename": "61"
+      "codename": "61",
+      "parrygg_slug": "geese"
     },
     "Krizalid": {
-      "codename": "63"
+      "codename": "63",
+      "parrygg_slug": "krizalid"
     },
     "Clone Zero": {
-      "codename": "64"
+      "codename": "64",
+      "parrygg_slug": "clone-zero"
     },
     "Omega Rugal": {
-      "codename": "59"
+      "codename": "59",
+      "parrygg_slug": "omega-rugal"
     },
     "Zero": {
-      "codename": "65"
+      "codename": "65",
+      "parrygg_slug": "zero"
     },
     "Igniz": {
-      "codename": "66"
+      "codename": "66",
+      "parrygg_slug": "igniz"
     },
     "Nightmare Geese": {
-      "codename": "62"
+      "codename": "62",
+      "parrygg_slug": "nightmare-geese"
     }
   },
   "stage_to_codename": {},

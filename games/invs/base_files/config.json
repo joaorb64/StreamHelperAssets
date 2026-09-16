@@ -3,92 +3,112 @@
   "character_to_codename": {
     "Atom Eve": {
       "codename": "AtomEve",
-      "smashgg_name": "Atom Eve"
+      "smashgg_name": "Atom Eve",
+      "parrygg_slug": "atom-eve"
     },
     "Bulletproof": {
       "codename": "Bulletproof",
       "smashgg_name": "Bulletproof",
       "locale": {
         "fr": "Pare-Balle"
-      }
+      },
+      "parrygg_slug": "bulletproof"
     },
     "Invincible": {
       "codename": "Invincible",
-      "smashgg_name": "Invincible"
+      "smashgg_name": "Invincible",
+      "parrygg_slug": "invincible"
     },
     "Omni-Man": {
       "codename": "OmniMan",
-      "smashgg_name": "Omni-Man"
+      "smashgg_name": "Omni-Man",
+      "parrygg_slug": "omni-man"
     },
     "Rex Splode": {
       "codename": "Rex",
-      "smashgg_name": "Rex"
+      "smashgg_name": "Rex",
+      "parrygg_slug": "rex-splode"
     },
     "Thula": {
       "codename": "Thula",
-      "smashgg_name": "Thula"
+      "smashgg_name": "Thula",
+      "parrygg_slug": "thula"
     },
     "Battle Beast": {
       "codename": "BattleBeast",
       "smashgg_name": "Battle Beast",
       "locale": {
         "fr": "Le Fauve de Combat"
-      }
+      },
+      "parrygg_slug": "battle-beast"
     },
     "Cecil Steadman": {
       "codename": "Cecil",
-      "smashgg_name": "Cecil"
+      "smashgg_name": "Cecil",
+      "parrygg_slug": "cecil-steadman"
     },
     "Robot": {
       "codename": "Robot",
-      "smashgg_name": "Robot"
+      "smashgg_name": "Robot",
+      "parrygg_slug": "robot"
     },
     "Monster Girl": {
       "codename": "Amanda",
-      "smashgg_name": "Monster Girl"
+      "smashgg_name": "Monster Girl",
+      "parrygg_slug": "monster-girl"
     },
     "Ella Mental": {
       "codename": "Ella",
-      "smashgg_name": "Ella Mental"
+      "smashgg_name": "Ella Mental",
+      "parrygg_slug": "ella-mental"
     },
     "Lucan": {
       "codename": "Lucan",
-      "smashgg_name": "Lucan"
+      "smashgg_name": "Lucan",
+      "parrygg_slug": "lucan"
     },
     "Anissa": {
       "codename": "Anissa",
-      "smashgg_name": "Anissa"
+      "smashgg_name": "Anissa",
+      "parrygg_slug": "anissa"
     },
     "Powerplex": {
       "codename": "Powerplex",
-      "smashgg_name": "Powerplex"
+      "smashgg_name": "Powerplex",
+      "parrygg_slug": "powerplex"
     },
     "Dupli-Kate": {
       "codename": "Kate",
-      "smashgg_name": "Dupli-Kate"
+      "smashgg_name": "Dupli-Kate",
+      "parrygg_slug": "dupli-kate"
     },
     "Allen": {
       "codename": "Allen",
-      "smashgg_name": "Allen"
+      "smashgg_name": "Allen",
+      "parrygg_slug": "allen"
     },
     "Titan": {
       "codename": "Titan",
-      "smashgg_name": "Titan"
+      "smashgg_name": "Titan",
+      "parrygg_slug": "titan"
     },
     "Conquest": {
       "codename": "Conquest",
-      "smashgg_name": "Conquest"
+      "smashgg_name": "Conquest",
+      "parrygg_slug": "conquest"
     },
     "Immortal": {
       "codename": "Immortal",
       "smashgg_name": "Immortal",
       "locale": {
         "fr": "L'Immortel"
-      }
+      },
+      "parrygg_slug": "immortal"
     },
     "Universa": {
       "codename": "Universa",
-      "smashgg_name": "Universa"
+      "smashgg_name": "Universa",
+      "parrygg_slug": "universa"
     },
     "Angstrom Levy": {
       "codename": "Angstrom",

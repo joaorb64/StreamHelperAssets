@@ -5,115 +5,143 @@
   "character_to_codename": {
     "Hyde": {
       "codename": "hyde",
-      "smashgg_name": "Hyde"
+      "smashgg_name": "Hyde",
+      "parrygg_slug": "hyde"
     },
     "Linne": {
       "codename": "linne",
-      "smashgg_name": "Linne"
+      "smashgg_name": "Linne",
+      "parrygg_slug": "linne"
     },
     "Waldstein": {
       "codename": "waldstein",
-      "smashgg_name": "Waldstein"
+      "smashgg_name": "Waldstein",
+      "parrygg_slug": "waldstein"
     },
     "Carmine": {
       "codename": "carmine",
-      "smashgg_name": "Carmine"
+      "smashgg_name": "Carmine",
+      "parrygg_slug": "carmine"
     },
     "Orie": {
       "codename": "orie",
-      "smashgg_name": "Orie"
+      "smashgg_name": "Orie",
+      "parrygg_slug": "orie"
     },
     "Gordeau": {
       "codename": "gordeau",
-      "smashgg_name": "Gordeau"
+      "smashgg_name": "Gordeau",
+      "parrygg_slug": "gordeau"
     },
     "Merkava": {
       "codename": "merkava",
-      "smashgg_name": "Merkava"
+      "smashgg_name": "Merkava",
+      "parrygg_slug": "merkava"
     },
     "Vatista": {
       "codename": "vatista",
-      "smashgg_name": "Vatista"
+      "smashgg_name": "Vatista",
+      "parrygg_slug": "vatista"
     },
     "Seth": {
       "codename": "seth",
-      "smashgg_name": "Seth"
+      "smashgg_name": "Seth",
+      "parrygg_slug": "seth"
     },
     "Yuzuriha": {
       "codename": "yuzuriha",
-      "smashgg_name": "Yuzuriha"
+      "smashgg_name": "Yuzuriha",
+      "parrygg_slug": "yuzuriha"
     },
     "Hilda": {
       "codename": "hilda",
-      "smashgg_name": "Hilda"
+      "smashgg_name": "Hilda",
+      "parrygg_slug": "hilda"
     },
     "Chaos": {
       "codename": "chaos",
-      "smashgg_name": "Chaos"
+      "smashgg_name": "Chaos",
+      "parrygg_slug": "chaos"
     },
     "Nanase": {
       "codename": "nanase",
-      "smashgg_name": "Nanase"
+      "smashgg_name": "Nanase",
+      "parrygg_slug": "nanase"
     },
     "Byakuya": {
       "codename": "byakuya",
-      "smashgg_name": "Byakuya"
+      "smashgg_name": "Byakuya",
+      "parrygg_slug": "byakuya"
     },
     "Phonon": {
       "codename": "phonon",
-      "smashgg_name": "Phonon"
+      "smashgg_name": "Phonon",
+      "parrygg_slug": "phonon"
     },
     "Mika": {
       "codename": "mika",
-      "smashgg_name": "Mika"
+      "smashgg_name": "Mika",
+      "parrygg_slug": "mika"
     },
     "Wagner": {
       "codename": "wagner",
-      "smashgg_name": "Wagner"
+      "smashgg_name": "Wagner",
+      "parrygg_slug": "wagner"
     },
     "Enkidu": {
       "codename": "enkidu",
-      "smashgg_name": "Enkidu"
+      "smashgg_name": "Enkidu",
+      "parrygg_slug": "enkidu"
     },
     "Londrekia": {
       "codename": "londrekia",
-      "smashgg_name": "Londrekia"
+      "smashgg_name": "Londrekia",
+      "parrygg_slug": "londrekia"
     },
     "Eltnum": {
       "codename": "eltnum",
-      "smashgg_name": "Eltnum"
+      "smashgg_name": "Eltnum",
+      "parrygg_slug": "eltnum"
     },
     "Akatsuki": {
       "codename": "akatsuki",
-      "smashgg_name": "Akatsuki"
+      "smashgg_name": "Akatsuki",
+      "parrygg_slug": "akatsuki"
     },
     "Kaguya": {
       "codename": "kaguya",
-      "smashgg_name": "Kaguya"
+      "smashgg_name": "Kaguya",
+      "parrygg_slug": "kaguya"
     },
     "Tsurugi": {
       "codename": "tsurugi",
-      "smashgg_name": "Tsurugi"
+      "smashgg_name": "Tsurugi",
+      "parrygg_slug": "tsurugi"
     },
     "Kuon": {
       "codename": "kuon",
-      "smashgg_name": "Kuon"
+      "smashgg_name": "Kuon",
+      "parrygg_slug": "kuon"
     },
     "Uzuki": {
       "codename": "uzuki",
-      "smashgg_name": "Uzuki"
+      "smashgg_name": "Uzuki",
+      "parrygg_slug": "uzuki"
     },
     "Ogre": {
       "codename": "ogre",
-      "smashgg_name": "Ogre"
+      "smashgg_name": "Ogre",
+      "parrygg_slug": "ogre"
     },
     "Izumi": {
       "codename": "izumi",
-      "smashgg_name": "Izumi"
+      "smashgg_name": "Izumi",
+      "parrygg_slug": "izumi"
     },
     "Zohar": {
       "codename": "zohar",
-      "smashgg_name": "Zohar"
+      "smashgg_name": "Zohar",
+      "parrygg_slug": "zohar"
     }
   },
   "stage_to_codename": {},

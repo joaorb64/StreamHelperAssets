@@ -14,10 +14,12 @@
           "name": "Momo"
         }
       },
+      "parrygg_slug": "aang",
       "smashgg_name": "Aang"
     },
     "Avatar State Aang": {
       "codename": "AangA",
+      "parrygg_slug": "avatar-state-aang",
       "skin_name": {
         "0": {
           "name": "Katara"
@@ -44,6 +46,7 @@
           "name": "Hakoda"
         }
       },
+      "parrygg_slug": "katara",
       "smashgg_name": "Katara"
     },
     "Korra": {
@@ -59,6 +62,7 @@
           "name": "Tonraq"
         }
       },
+      "parrygg_slug": "korra",
       "smashgg_name": "Korra"
     },
     "Nightmare Korra": {
@@ -90,6 +94,7 @@
           "name": "The Big Bad Hippo"
         }
       },
+      "parrygg_slug": "toph",
       "smashgg_name": "Toph"
     },
     "Zuko": {
@@ -105,6 +110,7 @@
           "name": "Ran & Shaw"
         }
       },
+      "parrygg_slug": "zuko",
       "smashgg_name": "Zuko"
     },
     "Azula": {
@@ -120,6 +126,7 @@
           "name": "Ursa"
         }
       },
+      "parrygg_slug": "azula",
       "smashgg_name": "Azula"
     },
     "Kyoshi": {
@@ -135,10 +142,12 @@
           "name": "Yun"
         }
       },
+      "parrygg_slug": "kyoshi",
       "smashgg_name": "Kyoshi"
     },
     "Ozai": {
       "codename": "Ozai",
+      "parrygg_slug": "ozai",
       "skin_name": {
         "0": {
           "name": "Sozin"
@@ -165,10 +174,12 @@
           "name": "Yue"
         }
       },
+      "parrygg_slug": "sokka",
       "smashgg_name": "Sokka"
     },
     "Zaheer": {
       "codename": "Zaheer",
+      "parrygg_slug": "zaheer",
       "skin_name": {
         "0": {
           "name": "P'Li"

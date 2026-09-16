@@ -4,22 +4,28 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Noodle": {
-      "codename": "Noodle"
+      "codename": "Noodle",
+      "parrygg_slug": "noodle"
     },
     "Beef": {
-      "codename": "Beef"
+      "codename": "Beef",
+      "parrygg_slug": "beef"
     },
     "Onion": {
-      "codename": "Onion"
+      "codename": "Onion",
+      "parrygg_slug": "onion"
     },
     "Rice": {
-      "codename": "Rice"
+      "codename": "Rice",
+      "parrygg_slug": "rice"
     },
     "Pork": {
-      "codename": "Pork"
+      "codename": "Pork",
+      "parrygg_slug": "pork"
     },
     "Garlic": {
-      "codename": "Garlic"
+      "codename": "Garlic",
+      "parrygg_slug": "garlic"
     }
   },
   "stage_to_codename": {},

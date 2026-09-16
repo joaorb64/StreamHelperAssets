@@ -2,109 +2,144 @@
   "challonge_game_id": 23768,
   "character_to_codename": {
     "Aigis": {
-      "codename": "Aigis"
+      "codename": "Aigis",
+      "parrygg_slug": "aigis"
     },
     "Shadow Aigis": {
-      "codename": "SAigis"
+      "codename": "SAigis",
+      "parrygg_slug": "shadow-aigis"
     },
     "Akihiko Sanada": {
-      "codename": "AkihikoSanada"
+      "codename": "AkihikoSanada",
+      "parrygg_slug": "akihiko-sanada"
     },
     "Shadow Akihiko Sanada": {
-      "codename": "SAkihikoSanada"
+      "codename": "SAkihikoSanada",
+      "parrygg_slug": "shadow-akihiko-sanada"
     },
     "Chie Satonaka": {
-      "codename": "ChieSatonaka"
+      "codename": "ChieSatonaka",
+      "parrygg_slug": "chie-satonaka"
     },
     "Shadow Chie Satonaka": {
-      "codename": "SChieSatonaka"
+      "codename": "SChieSatonaka",
+      "parrygg_slug": "shadow-chie-satonaka"
     },
     "Elizabeth": {
-      "codename": "Elizabeth"
+      "codename": "Elizabeth",
+      "parrygg_slug": "elizabeth"
     },
     "Junpei Iori": {
-      "codename": "JunpeiIori"
+      "codename": "JunpeiIori",
+      "parrygg_slug": "junpei-iori"
     },
     "Shadow Junpei Iori": {
-      "codename": "SJunpeiIori"
+      "codename": "SJunpeiIori",
+      "parrygg_slug": "shadow-junpei-iori"
     },
     "Kanji Tatsumi": {
-      "codename": "KanjiTatsumi"
+      "codename": "KanjiTatsumi",
+      "parrygg_slug": "kanji-tatsumi"
     },
     "Shadow Kanji Tatsumi": {
-      "codename": "SKanjiTatsumi"
+      "codename": "SKanjiTatsumi",
+      "parrygg_slug": "shadow-kanji-tatsumi"
     },
     "Ken Amada": {
-      "codename": "KenAmada"
+      "codename": "KenAmada",
+      "parrygg_slug": "ken-amada"
     },
     "Shadow Ken Amada": {
-      "codename": "SKenAmada"
+      "codename": "SKenAmada",
+      "parrygg_slug": "shadow-ken-amada"
     },
     "Labrys": {
-      "codename": "Labrys"
+      "codename": "Labrys",
+      "parrygg_slug": "labrys"
     },
     "Shadow Labrys": {
-      "codename": "ShadowLabrys"
+      "codename": "ShadowLabrys",
+      "parrygg_slug": "shadow-labrys"
     },
     "Margaret": {
-      "codename": "Margaret"
+      "codename": "Margaret",
+      "parrygg_slug": "margaret"
     },
     "Marie": {
-      "codename": "Marie"
+      "codename": "Marie",
+      "parrygg_slug": "marie"
     },
     "Sho Minazuki (With Persona)": {
-      "codename": "Minazuki"
+      "codename": "Minazuki",
+      "parrygg_slug": "sho-minazuki-with-persona"
     },
     "Mitsuru Kirijo": {
-      "codename": "MitsuruKirijo"
+      "codename": "MitsuruKirijo",
+      "parrygg_slug": "mitsuru-kirijo"
     },
     "Shadow Mitsuru Kirijo": {
-      "codename": "SMitsuruKirijo"
+      "codename": "SMitsuruKirijo",
+      "parrygg_slug": "shadow-mitsuru-kirijo"
     },
     "Naoto Shirogane": {
-      "codename": "NaotoShirogane"
+      "codename": "NaotoShirogane",
+      "parrygg_slug": "naoto-shirogane"
     },
     "Shadow Naoto Shirogane": {
-      "codename": "SNaotoShirogane"
+      "codename": "SNaotoShirogane",
+      "parrygg_slug": "shadow-naoto-shirogane"
     },
     "Rise Kujikawa": {
-      "codename": "RiseKujikawa"
+      "codename": "RiseKujikawa",
+      "parrygg_slug": "rise-kujikawa"
     },
     "Shadow Rise Kujikawa": {
-      "codename": "SRiseKujikawa"
+      "codename": "SRiseKujikawa",
+      "parrygg_slug": "shadow-rise-kujikawa"
     },
     "Sho Minazuki (Without Persona)": {
-      "codename": "Sho"
+      "codename": "Sho",
+      "parrygg_slug": "sho-minazuki-without-persona"
     },
     "Teddie": {
-      "codename": "Teddie"
+      "codename": "Teddie",
+      "parrygg_slug": "teddie"
     },
     "Shadow Teddie": {
-      "codename": "STeddie"
+      "codename": "STeddie",
+      "parrygg_slug": "shadow-teddie"
     },
     "Tohru Adachi": {
-      "codename": "TohruAdachi"
+      "codename": "TohruAdachi",
+      "parrygg_slug": "tohru-adachi"
     },
     "Yosuke Hanamura": {
-      "codename": "YosukeHanamura"
+      "codename": "YosukeHanamura",
+      "parrygg_slug": "yosuke-hanamura"
     },
     "Shadow Yosuke Hanamura": {
-      "codename": "SYosukeHanamura"
+      "codename": "SYosukeHanamura",
+      "parrygg_slug": "shadow-yosuke-hanamura"
     },
     "Yu Narukami": {
-      "codename": "YuNarukami"
+      "codename": "YuNarukami",
+      "parrygg_slug": "yu-narukami"
     },
     "Shadow Yu Narukami": {
-      "codename": "SYuNarukami"
+      "codename": "SYuNarukami",
+      "parrygg_slug": "shadow-yu-narukami"
     },
     "Yukari Takeba": {
-      "codename": "YukariTakeba"
+      "codename": "YukariTakeba",
+      "parrygg_slug": "yukari-takeba"
     },
     "Yukiko Amagi": {
-      "codename": "YukikoAmagi"
+      "codename": "YukikoAmagi",
+      "parrygg_slug": "yukiko-amagi"
     },
     "Shadow Yukiko Amagi": {
-      "codename": "SYukikoAmagi"
+      "codename": "SYukikoAmagi",
+      "parrygg_slug": "shadow-yukiko-amagi"
     }
   },
   "credits": "",

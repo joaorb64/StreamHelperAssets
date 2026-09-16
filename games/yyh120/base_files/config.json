@@ -2,106 +2,140 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Bui": {
-      "codename": "Bui"
+      "codename": "Bui",
+      "parrygg_slug": "bui"
     },
     "Chu": {
-      "codename": "Chu"
+      "codename": "Chu",
+      "parrygg_slug": "chu"
     },
     "Elder Toguro": {
-      "codename": "ToguroElder"
+      "codename": "ToguroElder",
+      "parrygg_slug": "elder-toguro"
     },
     "Genkai": {
-      "codename": "Genkai"
+      "codename": "Genkai",
+      "parrygg_slug": "genkai"
     },
     "Gouki": {
-      "codename": "Gouki"
+      "codename": "Gouki",
+      "parrygg_slug": "gouki"
     },
     "Hiei": {
-      "codename": "Hiei"
+      "codename": "Hiei",
+      "parrygg_slug": "hiei"
     },
     "Itsuki": {
-      "codename": "Itsuki"
+      "codename": "Itsuki",
+      "parrygg_slug": "itsuki"
     },
     "Jin": {
-      "codename": "Jin"
+      "codename": "Jin",
+      "parrygg_slug": "jin"
     },
     "Karasu": {
-      "codename": "Karasu"
+      "codename": "Karasu",
+      "parrygg_slug": "karasu"
     },
     "Kazuma Kuwabara": {
-      "codename": "Kazuma"
+      "codename": "Kazuma",
+      "parrygg_slug": "kazuma-kuwabara"
     },
     "King Enma Jr.": {
-      "codename": "Koenma"
+      "codename": "Koenma",
+      "parrygg_slug": "king-enma-jr"
     },
     "Onji": {
-      "codename": "Onji"
+      "codename": "Onji",
+      "parrygg_slug": "onji"
     },
     "Puu (Hiei)": {
-      "codename": "Puu4"
+      "codename": "Puu4",
+      "parrygg_slug": "puu-hiei"
     },
     "Puu (Kurama)": {
-      "codename": "Puu3"
+      "codename": "Puu3",
+      "parrygg_slug": "puu-kurama"
     },
     "Puu (Kuwabara)": {
-      "codename": "Puu2"
+      "codename": "Puu2",
+      "parrygg_slug": "puu-kuwabara"
     },
     "Puu (Yusuke)": {
-      "codename": "Puu1"
+      "codename": "Puu1",
+      "parrygg_slug": "puu-yusuke"
     },
     "Rando": {
-      "codename": "Rando"
+      "codename": "Rando",
+      "parrygg_slug": "rando"
     },
     "Rinku": {
-      "codename": "Rinku"
+      "codename": "Rinku",
+      "parrygg_slug": "rinku"
     },
     "Shinobu Sensui": {
-      "codename": "Shinobu"
+      "codename": "Shinobu",
+      "parrygg_slug": "shinobu-sensui"
     },
     "Shishiwakamaru": {
-      "codename": "Shishiwakamaru"
+      "codename": "Shishiwakamaru",
+      "parrygg_slug": "shishiwakamaru"
     },
     "Suzaku": {
-      "codename": "Suzaku"
+      "codename": "Suzaku",
+      "parrygg_slug": "suzaku"
     },
     "Touya": {
-      "codename": "Toya"
+      "codename": "Toya",
+      "parrygg_slug": "touya"
     },
     "Yokai A": {
-      "codename": "YokaiA"
+      "codename": "YokaiA",
+      "parrygg_slug": "yokai-a"
     },
     "Yokai B": {
-      "codename": "YokaiB"
+      "codename": "YokaiB",
+      "parrygg_slug": "yokai-b"
     },
     "Yokai C": {
-      "codename": "YokaiC"
+      "codename": "YokaiC",
+      "parrygg_slug": "yokai-c"
     },
     "Yokai D": {
-      "codename": "YokaiD"
+      "codename": "YokaiD",
+      "parrygg_slug": "yokai-d"
     },
     "Yokai E": {
-      "codename": "YokaiE"
+      "codename": "YokaiE",
+      "parrygg_slug": "yokai-e"
     },
     "Yokai F": {
-      "codename": "YokaiF"
+      "codename": "YokaiF",
+      "parrygg_slug": "yokai-f"
     },
     "Yoko Kurama": {
-      "codename": "Kurama"
+      "codename": "Kurama",
+      "parrygg_slug": "yoko-kurama"
     },
     "Younger Toguro": {
-      "codename": "Toguro"
+      "codename": "Toguro",
+      "parrygg_slug": "younger-toguro"
     },
     "Younger Toguro (60 %)": {
-      "codename": "Toguro60"
+      "codename": "Toguro60",
+      "parrygg_slug": "younger-toguro-60"
     },
     "Younger Toguro (90 %)": {
-      "codename": "Toguro90"
+      "codename": "Toguro90",
+      "parrygg_slug": "younger-toguro-90"
     },
     "Younger Toguro (100 %)": {
-      "codename": "Toguro100"
+      "codename": "Toguro100",
+      "parrygg_slug": "younger-toguro-100"
     },
     "Yusuke Urameshi": {
-      "codename": "Yusuke"
+      "codename": "Yusuke",
+      "parrygg_slug": "yusuke-urameshi"
     }
   },
   "credits": "",

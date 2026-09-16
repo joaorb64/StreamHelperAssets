@@ -1,6 +1,6 @@
 {
   "name": "Special Icons",
-  "version": "26.07.31.49734",
+  "version": "26.09.15.74100",
   "description": "Special icons",
   "prefix": "spe_",
   "postfix": "_",
@@ -697,6 +697,21 @@
           }
         },
         "NeoSplashomatic": {
+          "value": "Triple Inkstrike",
+          "locale": {
+            "ja": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9",
+            "ko": "\ud2b8\ub9ac\ud50c \ud1a0\ub124\uc774\ub3c4",
+            "zh_TW": "\u4e09\u91cd\u9f8d\u6372\u98a8",
+            "zh_CN": "\u4e09\u91cd\u9f99\u5377\u98ce",
+            "ru": "\u0422\u0440\u043e\u0439\u043d\u043e\u0435 \u0442\u043e\u0440\u043d\u0430\u0434\u043e",
+            "fr": "Trimissile tornade",
+            "nl": "Tri-tornado",
+            "de": "Tri-Tintferno",
+            "it": "Triplo tornado",
+            "es": "Tornado triple"
+          }
+        },
+        "PlasticBottleShotReplica": {
           "value": "Triple Inkstrike",
           "locale": {
             "ja": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9",
@@ -3338,6 +3353,12 @@
       }
     },
     "PlanetzBigSwigRoller": {
+      "0": {
+        "x": 128,
+        "y": 128
+      }
+    },
+    "PlasticBottleShotReplica": {
       "0": {
         "x": 128,
         "y": 128

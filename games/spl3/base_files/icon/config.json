@@ -4,7 +4,7 @@
   "type": [
     "icon"
   ],
-  "version": "26.07.25.12547",
+  "version": "26.09.15.79703",
   "uncropped_edge": [
     "u",
     "r",
@@ -691,6 +691,12 @@
       }
     },
     "PlanetzBigSwigRoller": {
+      "0": {
+        "x": 256,
+        "y": 256
+      }
+    },
+    "PlasticBottleShotReplica": {
       "0": {
         "x": 256,
         "y": 256

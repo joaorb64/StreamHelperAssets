@@ -1,6 +1,6 @@
 {
   "name": "Sub Icons",
-  "version": "26.07.31.49734",
+  "version": "26.09.15.74100",
   "description": "Sub weapon icons",
   "prefix": "sub_",
   "postfix": "_",
@@ -203,6 +203,22 @@
           }
         },
         "ClashBlaster": {
+          "value": "Splat Bomb",
+          "locale": {
+            "ja": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0",
+            "ko": "\uc2a4\ud50c\ub798\uc2dc \ubd04",
+            "zh_TW": "\u65af\u666e\u62c9\u70b8\u5f48",
+            "zh_CN": "\u65af\u666e\u62c9\u70b8\u5f39",
+            "ru": "\u0411\u0440\u044b\u0437\u0433\u0430\u044e\u0449\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "fr": "Bombe splash",
+            "nl": "Klodderbom",
+            "de": "Klecksbombe",
+            "it": "Bomba splash",
+            "es": "Bomba b\u00e1sica",
+            "es_LA": "Plasbomba"
+          }
+        },
+        "PlasticBottleShotReplica": {
           "value": "Splat Bomb",
           "locale": {
             "ja": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0",
@@ -3415,6 +3431,12 @@
       }
     },
     "PlanetzBigSwigRoller": {
+      "0": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    "PlasticBottleShotReplica": {
       "0": {
         "x": 100,
         "y": 100

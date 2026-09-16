@@ -1,4 +1,5 @@
 import requests
+import requests_html
 from bs4 import BeautifulSoup as BS
 import json
 from pathlib import Path
@@ -6,6 +7,10 @@ import sys
 import chinese_converter
 from PIL import Image
 import io
+
+session = requests_html.HTMLSession()
+
+image_download = False
 
 sys.setrecursionlimit(100)
 
@@ -32,11 +37,12 @@ def create_folder_structure():
 
 def robust_request(link, timeout=30, recursion=30):
     try:
-        response = requests.get(link, timeout=timeout)
+        response = session.get(link, timeout=timeout)
         return_code = response.status_code
         if return_code != 200 and recursion > 0:
             return robust_request(link, timeout, recursion-1)
         else:
+            response.html.render()
             return response
     except requests.exceptions.ConnectionError:
         return robust_request(link, timeout, recursion-1)
@@ -263,7 +269,7 @@ weapon_page = (
     "https://splatoonwiki.org/wiki/List_of_weapons_in_Splatoon_3"
 )
 weapon_page = robust_request(weapon_page, timeout=30)
-weapon_content = weapon_page.text
+weapon_content = weapon_page.html.html
 weapon_soup = BS(weapon_content, features="html.parser")
 weapon_tables = weapon_soup.findAll("table")
 weapon_body_tag = None
@@ -325,11 +331,12 @@ for weapon_name in weapon_list.keys():
     weapon_codename = weapon_codename.replace("-", "")
     icon_filename = f"icon_{weapon_codename}_0.png"
     # Image resize
-    icon_file = robust_request(icon_url)
-    icon_image = Image.open(io.BytesIO(icon_file.content)).convert("RGBA")
-    target_size = (256, 256)
-    icon_image = icon_image.resize(target_size, Image.Resampling.LANCZOS)
-    icon_image.save(f"{icon_path}/{icon_filename}")
+    if image_download:
+        icon_file = robust_request(icon_url)
+        icon_image = Image.open(io.BytesIO(icon_file.content)).convert("RGBA")
+        target_size = (256, 256)
+        icon_image = icon_image.resize(target_size, Image.Resampling.LANCZOS)
+        icon_image.save(f"{icon_path}/{icon_filename}")
 
     main_config["character_to_codename"][weapon_name] = {
         "codename": weapon_codename}
@@ -337,7 +344,7 @@ for weapon_name in weapon_list.keys():
 
     weapon_wiki = f"https://splatoonwiki.org/wiki/{weapon_name.replace(' ', '_')}"
     weapon_wiki_page = robust_request(weapon_wiki, timeout=30)
-    weapon_wiki_content = weapon_wiki_page.text
+    weapon_wiki_content = weapon_wiki_page.html.html
     weapon_wiki_soup = BS(weapon_wiki_content, features="html.parser")
 
     for lang in lang_list:
@@ -396,21 +403,22 @@ for weapon_name in weapon_list.keys():
                     print("    Special:", special_name)
             break
 
-    sub_filename = f"sub_{weapon_codename}_0.png"
-    special_filename = f"spe_{weapon_codename}_0.png"
-    with open(f"{sub_path}/{sub_filename}", "wb") as f:
-        icon_file = robust_request(sub_image_link)
-        f.write(icon_file.content)
-    with open(f"{special_path}/{special_filename}", "wb") as f:
-        icon_file = robust_request(special_image_link)
-        f.write(icon_file.content)
+    if image_download:
+        sub_filename = f"sub_{weapon_codename}_0.png"
+        special_filename = f"spe_{weapon_codename}_0.png"
+        with open(f"{sub_path}/{sub_filename}", "wb") as f:
+            icon_file = robust_request(sub_image_link)
+            f.write(icon_file.content)
+        with open(f"{special_path}/{special_filename}", "wb") as f:
+            icon_file = robust_request(special_image_link)
+            f.write(icon_file.content)
 
     # Parsing sub names
     sub_names["values"][weapon_codename] = {"value": sub_name, "locale": {}}
 
     sub_wiki = f"https://splatoonwiki.org/wiki/{sub_name.replace(' ', '_')}"
     sub_wiki_page = robust_request(sub_wiki, timeout=30)
-    sub_wiki_content = sub_wiki_page.text
+    sub_wiki_content = sub_wiki_page.html.html
     sub_wiki_soup = BS(sub_wiki_content, features="html.parser")
 
     for lang in lang_list:
@@ -458,7 +466,7 @@ for weapon_name in weapon_list.keys():
 
     special_wiki = f"https://splatoonwiki.org/wiki/{special_name.replace(' ', '_')}"
     special_wiki_page = robust_request(special_wiki, timeout=30)
-    special_wiki_content = special_wiki_page.text
+    special_wiki_content = special_wiki_page.html.html
     special_wiki_soup = BS(special_wiki_content, features="html.parser")
 
     for lang in lang_list:
@@ -515,7 +523,7 @@ for stage_name in main_config["stage_to_codename"]:
 
     weapon_wiki = f"https://splatoonwiki.org/wiki/{stage_name.replace(' ', '_')}"
     weapon_wiki_page = robust_request(weapon_wiki, timeout=30)
-    weapon_wiki_content = weapon_wiki_page.text
+    weapon_wiki_content = weapon_wiki_page.html.html
     weapon_wiki_soup = BS(weapon_wiki_content, features="html.parser")
 
     for lang in lang_list:

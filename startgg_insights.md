@@ -161,12 +161,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Kim Kaphwan]: Character name [Kim] doesn't exist in StartGG
 - Character [Laocorn Gaudeamus]: Character name [Laocorn] doesn't exist in StartGG
 - Character [Manjiro "Mikey" Sano]: Character name [Mikey] doesn't exist in StartGG
 - Character [Ken "Draken" Ryuguji]: Character name [Draken] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (30/31)
+### Coverage: (31/32)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -562,10 +561,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-- Character [Lux]: Character name [Lux] doesn't exist in StartGG
 - Character [Samira]: Character name [Samira] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (15/16)
+### Coverage: (16/17)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG

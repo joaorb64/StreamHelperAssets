@@ -1,0 +1,49 @@
+{
+  "name": "Melty Blood: Twi-Lumina",
+  "smashgg_game_id": 36865,
+  "challonge_game_id": 251352,
+  "character_to_codename": {
+    "Shiki Tohno": {
+      "codename": "ShikiTohno",
+      "smashgg_name": "Shiki Tohno"
+    },
+    "Arcueid Brunestud": {
+      "codename": "ArcueidBrunestud",
+      "smashgg_name": "Arcueid Brunestud"
+    },
+    "Ciel": {
+      "codename": "Ciel",
+      "smashgg_name": "Ciel"
+    },
+    "Michael Roa Valdamjong": {
+      "codename": "MichaelRoaValdamjong",
+      "smashgg_name": "Michael Roa Valdamjong"
+    },
+    "Neco-Arc": {
+      "codename": "NecoArc",
+      "smashgg_name": "Neco Arc"
+    },
+    "Mash Kyrielight": {
+      "codename": "Mash",
+      "smashgg_name": "Mash Kyrielight"
+    },
+    "Len": {
+      "codename": "Len",
+      "smashgg_name": "Len"
+    },
+    "White Len": {
+      "codename": "WhiteLen",
+      "smashgg_name": "White Len"
+    }
+  },
+  "stage_to_codename": {},
+  "version": "26.07.31.49734",
+  "description": "Base config to use this game.",
+  "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)",
+  "locale": {
+    "ja": {
+      "name": "MELTY BLOOD: TWI-LUMINA"
+    }
+  },
+  "igdb_game_id": "melty-blood-twi-lumina"
+}

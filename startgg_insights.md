@@ -320,6 +320,27 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Melty Blood: Type Lumina
 ### Coverage: (22/22)
 
+## Melty Blood: Twi-Lumina
+- Character [Len]: Character name [Len] doesn't exist in StartGG
+- Character [White Len]: Character name [White Len] doesn't exist in StartGG
+- Character [Akiha Tohno] not assigned in TSH!
+- Character [Aoko Aozaki] not assigned in TSH!
+- Character [Dead Apostle Noel] not assigned in TSH!
+- Character [Hisui & Kohaku] not assigned in TSH!
+- Character [Hisui] not assigned in TSH!
+- Character [Kohaku] not assigned in TSH!
+- Character [Kouma Kishima] not assigned in TSH!
+- Character [Mario Gallo Bestino] not assigned in TSH!
+- Character [Miyako Arima] not assigned in TSH!
+- Character [Noel] not assigned in TSH!
+- Character [Powered Ciel] not assigned in TSH!
+- Character [Red Arcueid] not assigned in TSH!
+- Character [Saber] not assigned in TSH!
+- Character [The Count of Monte Cristo] not assigned in TSH!
+- Character [Ushiwakamaru] not assigned in TSH!
+- Character [Vlov Arkhangel] not assigned in TSH!
+### Coverage: (6/22)
+
 ## Martial Champion
 Game has no characters in startgg...? Or do we have a wrong game id?
 

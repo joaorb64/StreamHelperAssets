@@ -816,8 +816,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (50/50)
 
 ## Under Night In-Birth II [Sys:Celes]
-- Character [Zohar]: Character name [Zohar] doesn't exist in StartGG
-### Coverage: (27/27)
+### Coverage: (28/28)
 
 ## Under Night In-Birth Exe:Late[cl-r]
 ### Coverage: (21/21)

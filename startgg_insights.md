@@ -189,9 +189,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Granblue Fantasy Versus: Rising
-- Character [Id]: Character name [Id] doesn't exist in StartGG
 - Character [Lunalu] not assigned in TSH!
-### Coverage: (39/40)
+### Coverage: (40/41)
 
 ## Guilty Gear -STRIVE-
 - Character [Random] not assigned in TSH!

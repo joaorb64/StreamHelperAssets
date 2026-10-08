@@ -115,7 +115,10 @@
     },
     "Phoenix Cyclops": {
       "codename": "Cyclops",
-      "smashgg_name": "Phoenix Cyclops"
+      "smashgg_name": "Phoenix Cyclops",
+      "locale": {
+        "fr": "Cyclope Phénix"
+      }
     },
     "The Champion": {
       "codename": "Champion",

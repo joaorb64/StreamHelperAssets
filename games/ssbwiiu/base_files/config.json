@@ -1176,215 +1176,655 @@
   "stage_to_codename": {
     "Battlefield": {
       "smashgg_id": 30,
-      "codename": "battlefield_f"
+      "codename": "battlefield_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Final Destination": {
       "smashgg_id": 31,
-      "codename": "end_f"
+      "codename": "end_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Delfino Plaza": {
       "smashgg_id": 32,
-      "codename": "xdolpic"
+      "codename": "xdolpic",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Halberd": {
       "smashgg_id": 33,
-      "codename": "xhalberd"
+      "codename": "xhalberd",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Lylat Cruise": {
       "smashgg_id": 34,
-      "codename": "xstarfox"
+      "codename": "xstarfox",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Castle Siege": {
       "smashgg_id": 35,
-      "codename": "xemblem"
+      "codename": "xemblem",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Town and City": {
       "smashgg_id": 36,
-      "codename": "village2"
+      "codename": "village2",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Smashville": {
       "smashgg_id": 37,
-      "codename": "xvillage"
+      "codename": "xvillage",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Duck Hunt": {
       "smashgg_id": 38,
-      "codename": "duckhunt"
+      "codename": "duckhunt",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
-    "Dream Land": {
+    "Dream Land (64)": {
       "smashgg_id": 39,
-      "codename": "pupupuland_64_f"
+      "codename": "pupupuland_64_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Miiverse": {
       "smashgg_id": 40,
-      "codename": "miiverse"
+      "codename": "miiverse",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Big Battlefield": {
       "smashgg_id": 41,
-      "codename": "battlefield_l"
+      "codename": "battlefield_l",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Mario Galaxy": {
       "smashgg_id": 42,
-      "codename": "galaxy"
+      "codename": "galaxy",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Mushroom Kingdom U": {
       "smashgg_id": 43,
-      "codename": "mariou"
+      "codename": "mariou",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Mario Circuit": {
       "smashgg_id": 44,
-      "codename": "mariokart"
+      "codename": "mariokart",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
-    "Peach's Castle": {
+    "Peach's Castle (64)": {
       "smashgg_id": 45,
-      "codename": "peachcastle64_f"
+      "codename": "peachcastle64_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Luigi's Mansion": {
       "smashgg_id": 46,
-      "codename": "xmansion"
+      "codename": "xmansion",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Mario Circuit (Brawl)": {
       "smashgg_id": 47,
-      "codename": "xkart"
+      "codename": "xkart",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Woolly World": {
       "smashgg_id": 48,
-      "codename": "yoshiu"
+      "codename": "yoshiu",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Yoshi's Island": {
       "smashgg_id": 49,
-      "codename": "dxyorster"
+      "codename": "dxyorster",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Jungle Hijinxs": {
       "smashgg_id": 50,
-      "codename": "dkreturns"
+      "codename": "dkreturns",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
-    "Kongo Jungle 64": {
+    "Kongo Jungle (64)": {
       "smashgg_id": 51,
-      "codename": "64jungle"
+      "codename": "64jungle",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "75m": {
       "smashgg_id": 52,
-      "codename": "xdonkey"
+      "codename": "xdonkey",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Skyloft": {
       "smashgg_id": 53,
-      "codename": "skyward"
+      "codename": "skyward",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
-    "Hyrule Castle": {
+    "Hyrule Castle (64)": {
       "smashgg_id": 54,
-      "codename": "hyrule64_f"
+      "codename": "hyrule64_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Temple": {
       "smashgg_id": 55,
-      "codename": "temple"
+      "codename": "temple",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Bridge of Eldin": {
       "smashgg_id": 56,
-      "codename": "xoldin"
+      "codename": "xoldin",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Pyrosphere": {
       "smashgg_id": 57,
-      "codename": "metroid"
+      "codename": "metroid",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Norfair": {
       "smashgg_id": 58,
-      "codename": "xnorfair"
+      "codename": "xnorfair",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "The Great Cave Offensive": {
       "smashgg_id": 59,
-      "codename": "cave"
+      "codename": "cave",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Orbital Gate Assault": {
       "smashgg_id": 60,
-      "codename": "assault"
+      "codename": "assault",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Kalos Pokemon League": {
       "smashgg_id": 61,
-      "codename": "kalos"
+      "codename": "kalos",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Pokemon Stadium": {
       "smashgg_id": 62,
-      "codename": "xstadium"
+      "codename": "xstadium",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Port Town Aero Drive": {
       "smashgg_id": 63,
-      "codename": "xfzero"
+      "codename": "xfzero",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Onett": {
       "smashgg_id": 64,
-      "codename": "dxonett"
+      "codename": "dxonett",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Coliseum": {
       "smashgg_id": 65,
-      "codename": "colloseum_f"
+      "codename": "colloseum_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Flat Zone X": {
       "smashgg_id": 66,
-      "codename": "gw3"
+      "codename": "gw3",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Palutena's Temple": {
       "smashgg_id": 67,
-      "codename": "angeland"
+      "codename": "angeland",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Skyworld": {
       "smashgg_id": 68,
-      "codename": "xpalutena"
+      "codename": "xpalutena",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Gamer": {
       "smashgg_id": 69,
-      "codename": "gamer"
+      "codename": "gamer",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Garden of Hope": {
       "smashgg_id": 70,
-      "codename": "pikminu"
+      "codename": "pikminu",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Boxing Ring": {
       "smashgg_id": 71,
-      "codename": "punchout"
+      "codename": "punchout",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Wii Fit Studio": {
       "smashgg_id": 72,
-      "codename": "wiifit"
+      "codename": "wiifit",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Gaur Plain": {
       "smashgg_id": 73,
-      "codename": "xenoblade"
+      "codename": "xenoblade",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Wrecking Crew": {
       "smashgg_id": 74,
-      "codename": "wrecking"
+      "codename": "wrecking",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Pilotwings": {
       "smashgg_id": 75,
-      "codename": "pilotwings"
+      "codename": "pilotwings",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Wuhu Island": {
       "smashgg_id": 76,
-      "codename": "wufu"
+      "codename": "wufu",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Windy Hill Zone": {
       "smashgg_id": 77,
-      "codename": "windyhill"
+      "codename": "windyhill",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Wily Castle": {
       "smashgg_id": 78,
-      "codename": "wily"
+      "codename": "wily",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Pac-Land": {
       "smashgg_id": 79,
-      "codename": "pacland"
+      "codename": "pacland",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
     "Suzaku Castle": {
       "smashgg_id": 80,
-      "codename": "streetfighter_f"
+      "codename": "streetfighter_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
     },
-    "Battlefield/Dreamland": {
+    "Battlefield/Dream Land (64)": {
       "smashgg_id": 204,
-      "codename": "battlefielddreamland"
+      "codename": "battlefielddreamland",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
+    },
+    "Midgar": {
+      "codename": "midgar_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
+    },
+    "Umbra Clock Tower": {
+      "codename": "umbra_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
+    },
+    "Super Mario Maker": {
+      "codename": "mariomaker_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
+    },
+    "Pirate Ship": {
+      "codename": "xpirates_f",
+      "igdb_playable_list": [
+        "super-smash-bros-for-wii-u"
+      ]
+    },
+    "Battlefield [3DS]": {
+      "codename": "3ds_bf",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Final Destination [3DS]": {
+      "codename": "3ds_final",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "3D Land": {
+      "codename": "3ds_3dland",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Golden Plains": {
+      "codename": "3ds_nsmb2",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Rainbow Road": {
+      "codename": "3ds_rainbow",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Paper Mario": {
+      "codename": "3ds_paper",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Super Mario Maker [3DS]": {
+      "codename": "3ds_maker",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Gerudo Valley": {
+      "codename": "3ds_gerudo",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Spirit Train": {
+      "codename": "3ds_train",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Dream Land": {
+      "codename": "3ds_kirbygb",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Unova Pokemon League": {
+      "codename": "3ds_unova",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Prism Tower": {
+      "codename": "3ds_prism",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Mute City": {
+      "codename": "3ds_mute",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Magicant": {
+      "codename": "3ds_magicant",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Arena Ferox": {
+      "codename": "3ds_ferox",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Reset Bomb Forest": {
+      "codename": "3ds_uprising",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Tortimer Island": {
+      "codename": "3ds_isle",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Boxing Ring [3DS]": {
+      "codename": "3ds_ring",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Gaur Plain [3DS]": {
+      "codename": "3ds_gaur",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Duck Hunt [3DS]": {
+      "codename": "3ds_duckhunt",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Wily Castle [3DS]": {
+      "codename": "3ds_wily",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Pac-Maze": {
+      "codename": "3ds_pacman",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Suzaku Castle [3DS]": {
+      "codename": "3ds_suzaku",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Midgar [3DS]": {
+      "codename": "3ds_midgar",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Umbra Clock Tower [3DS]": {
+      "codename": "3ds_umbra",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "PictoChat 2": {
+      "codename": "3ds_pictochat",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Balloon Fight": {
+      "codename": "3ds_balloon",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Living Room": {
+      "codename": "3ds_dog",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Find Mii": {
+      "codename": "3ds_findmii",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Tomodachi Life": {
+      "codename": "3ds_tomodachi",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Peach Castle (64) [3DS]": {
+      "codename": "3ds_64peach",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Mushroomy Kingdom": {
+      "codename": "3ds_xmushroom",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Yoshi's Island [3DS]": {
+      "codename": "3ds_xyoshi",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Jungle Japes": {
+      "codename": "3ds_dxjungle",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Hyrule Castle (64) [3DS]": {
+      "codename": "3ds_64hyrule",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Brinstar": {
+      "codename": "3ds_dxbrinstar",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Dream Land (64) [3DS]": {
+      "codename": "3ds_64kirby",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Corneria": {
+      "codename": "3ds_dxcorneria",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Flat Zone 2": {
+      "codename": "3ds_xflat",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "WarioWare, Inc.": {
+      "codename": "3ds_xwario",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Distant Planet": {
+      "codename": "3ds_xpikmin",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
+    },
+    "Green Hill Zone": {
+      "codename": "3ds_xsonic",
+      "igdb_playable_list": [
+        "super-smash-bros-for-nintendo-3ds"
+      ]
     }
   },
   "version": "26.07.31.49734",
   "description": "Base config to use this game.",
   "credits": "Breton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",
-  "igdb_game_id": "super-smash-bros-for-wii-u"
+  "igdb_game_id": "super-smash-bros-for-wii-u",
+  "alternate_versions": [
+    {
+      "name": "Super Smash Bros. for Nintendo 3DS",
+      "smashgg_game_id": 29,
+      "logo_path": "logo_3ds.png",
+      "igdb_game_id": "super-smash-bros-for-nintendo-3ds"
+    }
+  ]
 }

@@ -4,136 +4,180 @@
   "challonge_game_id": 1234,
   "character_to_codename": {
     "Abel": {
-      "codename": "01"
+      "codename": "01",
+      "parrygg_slug": "abel"
     },
     "Adon": {
-      "codename": "02"
+      "codename": "02",
+      "parrygg_slug": "adon"
     },
     "Akuma": {
-      "codename": "03"
+      "codename": "03",
+      "parrygg_slug": "akuma"
     },
     "Balrog": {
-      "codename": "04"
+      "codename": "04",
+      "parrygg_slug": "balrog"
     },
     "Blanka": {
-      "codename": "05"
+      "codename": "05",
+      "parrygg_slug": "blanka"
     },
     "C. Viper": {
-      "codename": "09"
+      "codename": "09",
+      "parrygg_slug": "c-viper"
     },
     "Cammy": {
-      "codename": "06"
+      "codename": "06",
+      "parrygg_slug": "cammy"
     },
     "Chun-Li": {
-      "codename": "07"
+      "codename": "07",
+      "parrygg_slug": "chun-li"
     },
     "Cody": {
-      "codename": "08"
+      "codename": "08",
+      "parrygg_slug": "cody"
     },
     "Dan": {
-      "codename": "10"
+      "codename": "10",
+      "parrygg_slug": "dan"
     },
     "Dee Jay": {
-      "codename": "12"
+      "codename": "12",
+      "parrygg_slug": "dee-jay"
     },
     "Dhalsim": {
-      "codename": "13"
+      "codename": "13",
+      "parrygg_slug": "dhalsim"
     },
     "Dudley": {
-      "codename": "14"
+      "codename": "14",
+      "parrygg_slug": "dudley"
     },
     "E. Honda": {
-      "codename": "15"
+      "codename": "15",
+      "parrygg_slug": "e-honda"
     },
     "El Fuerte": {
-      "codename": "17"
+      "codename": "17",
+      "parrygg_slug": "el-fuerte"
     },
     "Evil Ryu": {
-      "codename": "18"
+      "codename": "18",
+      "parrygg_slug": "evil-ryu"
     },
     "Fei Long": {
-      "codename": "19"
+      "codename": "19",
+      "parrygg_slug": "fei-long"
     },
     "Gen": {
-      "codename": "20"
+      "codename": "20",
+      "parrygg_slug": "gen"
     },
     "Gouken": {
-      "codename": "21"
+      "codename": "21",
+      "parrygg_slug": "gouken"
     },
     "Guile": {
-      "codename": "22"
+      "codename": "22",
+      "parrygg_slug": "guile"
     },
     "Guy": {
-      "codename": "23"
+      "codename": "23",
+      "parrygg_slug": "guy"
     },
     "Hakan": {
-      "codename": "24"
+      "codename": "24",
+      "parrygg_slug": "hakan"
     },
     "Ibuki": {
-      "codename": "26"
+      "codename": "26",
+      "parrygg_slug": "ibuki"
     },
     "Juri": {
-      "codename": "27"
+      "codename": "27",
+      "parrygg_slug": "juri"
     },
     "Ken": {
-      "codename": "28"
+      "codename": "28",
+      "parrygg_slug": "ken"
     },
     "M. Bison": {
-      "codename": "30"
+      "codename": "30",
+      "parrygg_slug": "m-bison"
     },
     "Makoto": {
-      "codename": "29"
+      "codename": "29",
+      "parrygg_slug": "makoto"
     },
     "Oni": {
-      "codename": "31"
+      "codename": "31",
+      "parrygg_slug": "oni"
     },
     "Rose": {
-      "codename": "34"
+      "codename": "34",
+      "parrygg_slug": "rose"
     },
     "Rufus": {
-      "codename": "35"
+      "codename": "35",
+      "parrygg_slug": "rufus"
     },
     "Ryu": {
-      "codename": "36"
+      "codename": "36",
+      "parrygg_slug": "ryu"
     },
     "Sagat": {
-      "codename": "37"
+      "codename": "37",
+      "parrygg_slug": "sagat"
     },
     "Sakura": {
-      "codename": "38"
+      "codename": "38",
+      "parrygg_slug": "sakura"
     },
     "Seth": {
-      "codename": "39"
+      "codename": "39",
+      "parrygg_slug": "seth"
     },
     "T. Hawk": {
-      "codename": "40"
+      "codename": "40",
+      "parrygg_slug": "t-hawk"
     },
     "Vega": {
-      "codename": "41"
+      "codename": "41",
+      "parrygg_slug": "vega"
     },
     "Yang": {
-      "codename": "42"
+      "codename": "42",
+      "parrygg_slug": "yang"
     },
     "Yun": {
-      "codename": "43"
+      "codename": "43",
+      "parrygg_slug": "yun"
     },
     "Zangief": {
-      "codename": "44"
+      "codename": "44",
+      "parrygg_slug": "zangief"
     },
     "Decapre": {
-      "codename": "11"
+      "codename": "11",
+      "parrygg_slug": "decapre"
     },
     "Elena": {
-      "codename": "16"
+      "codename": "16",
+      "parrygg_slug": "elena"
     },
     "Hugo": {
-      "codename": "25"
+      "codename": "25",
+      "parrygg_slug": "hugo"
     },
     "Poison": {
-      "codename": "32"
+      "codename": "32",
+      "parrygg_slug": "poison"
     },
     "Rolento": {
-      "codename": "33"
+      "codename": "33",
+      "parrygg_slug": "rolento"
     }
   },
   "stage_to_codename": {},

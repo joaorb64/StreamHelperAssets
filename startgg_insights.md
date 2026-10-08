@@ -582,6 +582,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
 - Character [Samira]: Character name [Samira] doesn't exist in StartGG
+- Character [Sett]: Character name [Sett] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (16/17)
 

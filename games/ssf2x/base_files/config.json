@@ -556,6 +556,24 @@
       "smashgg_game_id": 18132,
       "logo_path": "logo_hyper.png",
       "igdb_game_id": "hyper-street-fighter-ii-the-anniversary-edition"
+    },
+    {
+      "name": "Super Street Fighter II Turbo Revival",
+      "smashgg_game_id": null,
+      "logo_path": "logo_revival.png",
+      "igdb_game_id": "super-street-fighter-ii-turbo-revival"
+    },
+    {
+      "name": "Super Street Fighter II Turbo: HD Remix",
+      "smashgg_game_id": null,
+      "logo_path": "logo_hd.png",
+      "igdb_game_id": "super-street-fighter-ii-turbo-hd-remix"
+    },
+    {
+      "name": "Super Street Fighter II Turbo: New Legacy",
+      "smashgg_game_id": null,
+      "logo_path": "logo_newlegacy.png",
+      "igdb_game_id": "super-street-fighter-ii-turbo-new-legacy--1"
     }
   ],
   "variant_to_codename": {

@@ -17,6 +17,6 @@ for source_dir in source_dir_list:
 
     for jpg_file in list_jpg:
         jpg = Image.open(f"{source_dir}/{jpg_file}").convert("RGBA")
-        jpg.save(f"{out_dir}/{i}/{jpg_file}".replace(".jpg", ".png"))
+        jpg.save(f"{out_dir}/{i}/{jpg_file}".replace(".JPG", ".png").replace(".jpg", ".png"))
 
     i=i+1

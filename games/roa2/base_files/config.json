@@ -2323,6 +2323,9 @@
         "102": {
           "name": "Mecha - White"
         },
+        "103": {
+          "name": "Ranger - Fusion"
+        },
         "104": {
           "name": "Abyss - Gold"
         },
@@ -2376,9 +2379,6 @@
         },
         "121": {
           "name": "Tiger - Gold"
-        },
-        "103": {
-          "name": "Ranger - Fusion"
         }
       }
     },
@@ -2648,6 +2648,9 @@
         "86": {
           "name": "Plushie - Red"
         },
+        "87": {
+          "name": "Dark Future - Fusion"
+        },
         "88": {
           "name": "Abyss - Gold"
         },
@@ -2692,9 +2695,6 @@
         },
         "102": {
           "name": "Zebra - Gold"
-        },
-        "87": {
-          "name": "Dark Future - Fusion"
         }
       }
     },
@@ -2856,6 +2856,9 @@
         "50": {
           "name": "Default - Toma"
         },
+        "51": {
+          "name": "Default - Heritage"
+        },
         "52": {
           "name": "Abyss - Gold"
         },
@@ -2882,9 +2885,6 @@
         },
         "60": {
           "name": "Primal - Gold"
-        },
-        "51": {
-          "name": "Default - Heritage"
         }
       }
     },
@@ -3473,6 +3473,9 @@
         "83": {
           "name": "Cyber - Red"
         },
+        "84": {
+          "name": "Default - Heatwave"
+        },
         "85": {
           "name": "Aardwolf - Gold"
         },
@@ -3520,9 +3523,6 @@
         },
         "100": {
           "name": "Wasteland - Gold"
-        },
-        "84": {
-          "name": "Default - Heatwave"
         }
       }
     },

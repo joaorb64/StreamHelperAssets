@@ -1,0 +1,54 @@
+name: StartGG Config Insights
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+# Shares the asset build's group so their pushes to main never race.
+concurrency:
+  group: update-assets
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  insights:
+    name: Generate StartGG config insights
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/*/
+            /scripts/
+            /games/*/base_files/config.json
+
+      - name: Setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate insights
+        run: |
+          pip install requests
+          python scripts/check_startgg_config.py
+
+      - name: Commit
+        run: |
+          git config --global user.name 'Buildbot'
+          git config --global user.email 'buildbot@users.noreply.github.com'
+          git add startgg_insights.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update startgg config insights"
+            git push origin HEAD:main
+          else
+            echo "No changes to commit"
+          fi

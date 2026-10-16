@@ -1,157 +1,142 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Build Release
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [main]
-  #pull_request:
-  #  branches: [ main ]
 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      full_rebuild:
+        description: "Rebuild and re-upload every asset pack (slow, for recovery)"
+        type: boolean
+        default: false
+
+# Runs queue instead of racing each other's pushes and uploads. Each run
+# processes everything since the last successful one (scripts/last_tag.txt).
+concurrency:
+  group: update-assets
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
-  setup:
+  update-assets:
     name: Update Assets
-    # Set machine up, clone repo
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      FULL_REBUILD: ${{ inputs.full_rebuild == true }}
     steps:
-      - name: Free Disk Space (Ubuntu)
+      - name: Free disk space (full rebuild only)
+        if: env.FULL_REBUILD == 'true'
         uses: mathio/gha-cleanup@v1
         with:
           remove-browsers: true
           verbose: true
 
-      - name: Install hub
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y hub
-          
+      # Blobless sparse checkout of the latest main: scripts, root files and
+      # pack configs only. Changed packs are added once we know which they are.
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 15
-      - name: setup python
-        uses: actions/setup-python@v2
+          ref: main
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/*/
+            /scripts/
+            /games/*/*/config.json
+            /games/*/base_files/icon/config.json
+
+      - name: Setup python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.9" #install the python needed
-    
-      # Optimize images
+          python-version: "3.12"
+
+      - name: Install python packages
+        run: pip install pillow
+
+      - name: Detect changed packs
+        id: changes
+        run: |
+          git fetch --no-tags --depth=1 --filter=blob:none origin "$(cat scripts/last_tag.txt)"
+          python scripts/asset_changes.py \
+            --output "$RUNNER_TEMP/changes.json" \
+            --sparse-patterns "$RUNNER_TEMP/sparse.txt"
+
+      - name: Checkout changed packs
+        if: steps.changes.outputs.has_changes == 'true' && env.FULL_REBUILD != 'true'
+        run: git sparse-checkout add --stdin < "$RUNNER_TEMP/sparse.txt"
+
+      - name: Checkout all packs (full rebuild only)
+        if: env.FULL_REBUILD == 'true'
+        run: git sparse-checkout disable
+
       - name: Optimize images
+        if: steps.changes.outputs.has_png == 'true'
         run: |
-          sudo apt install -y optipng
-          python scripts/optimize.py
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq optipng
+          python scripts/optimize.py --changes "$RUNNER_TEMP/changes.json"
+
+      - name: Update pack metadata
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          python scripts/image_metadata.py --changes "$RUNNER_TEMP/changes.json"
+          python scripts/small_logo.py --changes "$RUNNER_TEMP/changes.json"
+          python scripts/update_calver.py --changes "$RUNNER_TEMP/changes.json"
+
+      # last_tag.txt points at this commit, so the next run doesn't see these
+      # edits as new changes.
+      - name: Commit pack metadata
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
-          git add .
+          git add -A -- games
           if ! git diff --cached --quiet; then
-            git commit -m "Optimize images"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
-          
-      # Add image sizes
-      - name: Add image sizes
-        run: |
-          pip install pillow
-          python scripts/save_img_dimension.py
-          git config --global user.name 'Buildbot'
-          git config --global user.email 'buildbot@users.noreply.github.com'
-          git add .
-          if ! git diff --cached --quiet; then
-            git commit -m "Add image sizes"
-            git push origin main
-          else
-            echo "No changes to commit"
+            git commit -m "Update images and metadata of changed packs"
           fi
 
-      # Calculate average sizes
-      - name: Calculate average sizes
+      - name: Build archives
+        if: steps.changes.outputs.has_changes == 'true' || env.FULL_REBUILD == 'true'
         run: |
-          pip install pillow
-          python scripts/calc_avg.py
-          git config --global user.name 'Buildbot'
-          git config --global user.email 'buildbot@users.noreply.github.com'
-          git add .
-          if ! git diff --cached --quiet; then
-            git commit -m "Add averages"
-            git push origin main
+          if [ "$FULL_REBUILD" = "true" ]; then
+            python gen_config.py --full --delete-sources --archives-out "$RUNNER_TEMP/archives.txt"
           else
-            echo "No changes to commit"
+            python gen_config.py --changes "$RUNNER_TEMP/changes.json" --archives-out "$RUNNER_TEMP/archives.txt"
           fi
 
-      # Update version numbers
-      - name: Update version numbers
+      - name: Upload archives to release
+        if: steps.changes.outputs.has_changes == 'true' || env.FULL_REBUILD == 'true'
+        run: python scripts/publish_release.py upload --archives "$RUNNER_TEMP/archives.txt"
+
+      # Pushed only after the upload, so assets.json never points at files
+      # that aren't in the release yet.
+      - name: Commit and push
+        id: push
+        if: steps.changes.outputs.has_changes == 'true' || env.FULL_REBUILD == 'true'
         run: |
-          python scripts/update_calver.py
           git config --global user.name 'Buildbot'
           git config --global user.email 'buildbot@users.noreply.github.com'
-          git add .
-          if ! git diff --cached --quiet; then
-            git commit -m "Update version number of changed packs"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
-
-      # Generate StartGG config insights
-      - name: Generate StartGG config insights
-        run: |
-          pip install requests
-          python scripts/check_startgg_config.py
-          git config --global user.name 'Buildbot'
-          git config --global user.email 'buildbot@users.noreply.github.com'
-          git add .
-          if ! git diff --cached --quiet; then
-            git commit -m "Update startgg config insights"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
-
-      # Create small logos
-      - name: Create small logos
-        run: |
-          pip install pillow
-          python scripts/small_logo.py
-          git config --global user.name 'Buildbot'
-          git config --global user.email 'buildbot@users.noreply.github.com'
-          git add .
-          if ! git diff --cached --quiet; then
-            git commit -m "Add small logos"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
-
-      # Run assets build logic
-      - name: execute py script
-        run: |
-          python gen_config.py
-      - name: commit
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global http.lowSpeedLimit 0      # Disable low speed limit
-          git config --global http.lowSpeedTime 999999  # Set a very large low speed time to effectively disable the timeout
-
-          # Commit
-          git config --global user.name 'Buildbot'
-          git config --global user.email 'buildbot@users.noreply.github.com'
-          find . -name "*~" -type f -delete
           git add assets.json last_versions.json scripts/last_tag.txt
           git commit -m "Update assets"
-          git push origin main
+          if git push origin HEAD:main; then
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          else
+            # main moved during the run; the run queued by that push will
+            # process everything since the last successful run, including this.
+            echo "::warning::main changed during the run, leaving the update to the next queued run"
+          fi
 
-          set -x
-          assets=()
-          for asset in $(find . -name "*.7z*"); do
-            assets+=("-a" "${asset}")
-          done
-          hub release create "${assets[@]}" -m "${GITHUB_SHA::8}" "${GITHUB_SHA::8}"
-
-      # DO NOT ADD ANYTHING AFTER THIS LINE (Files are deleted from the agent to free space and we should avoid committing the deletion)
+      - name: Remove orphaned archives from release
+        if: steps.push.outputs.pushed == 'true'
+        run: |
+          if [ "$FULL_REBUILD" = "true" ]; then
+            python scripts/publish_release.py prune --max-deletions 1000
+          else
+            python scripts/publish_release.py prune
+          fi

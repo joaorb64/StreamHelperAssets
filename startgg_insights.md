@@ -223,6 +223,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Invincible VS
 - Character [Angstrom Levy]: Character name [Angstrom] doesn't exist in StartGG
+- Character [Agent Spider]: Character name [Agent Spider] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (20/21)
 
@@ -422,6 +423,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Marvel Tōkon: Fighting Souls
 - Character [Phoenix Cyclops]: Character name [Phoenix Cyclops] doesn't exist in StartGG
+- Character [Thor]: Character name [Thor] doesn't exist in StartGG
+- Character [Venom]: Character name [Venom] doesn't exist in StartGG
+- Character [Jubilee]: Character name [Jubilee] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 ### Coverage: (21/22)
 

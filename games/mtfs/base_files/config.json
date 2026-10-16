@@ -127,6 +127,21 @@
       },
       "smashgg_name": "Champion",
       "parrygg_slug": "the-champion"
+    },
+    "Thor": {
+      "codename": "Thor",
+      "smashgg_name": "Thor"
+    },
+    "Venom": {
+      "codename": "Venom",
+      "smashgg_name": "Venom"
+    },
+    "Jubilee": {
+      "codename": "Jubilee",
+      "smashgg_name": "Jubilee",
+      "locale": {
+        "fr": "Jubilé"
+      }
     }
   },
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
@@ -173,6 +188,15 @@
     "Asgard": {
       "codename": "Asgard",
       "parrygg_slug": "asgard"
+    },
+    "Klyntar": {
+      "codename": "Klyntar"
+    },
+    "Champion's Arena": {
+      "codename": "Arena"
+    },
+    "Destroyed Arena": {
+      "codename": "Arena2"
     }
   },
   "version": "26.10.08.56145",

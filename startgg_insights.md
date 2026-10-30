@@ -105,9 +105,10 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Dragon Ball FighterZ
-- Character [Android 21 (Lab Coat)]: Character name [Android 21 (Lab Coat)] doesn't exist in StartGG
 - Character [Goku (SS4, Daima)]: Character name [Goku (SS4, Daima)] doesn't exist in StartGG
-### Coverage: (42/42)
+- Character [Goku (SS4, DAIMA)] not assigned in TSH!
+- Character [Gogeta (SS4)] not assigned in TSH!
+### Coverage: (43/45)
 
 ## Dragon Ball: Sparking! Zero
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -223,7 +224,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Angstrom Levy]: Character name [Angstrom] doesn't exist in StartGG
 - Character [Agent Spider]: Character name [Agent Spider] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (20/21)
+- Character [Angstrom Levy] not assigned in TSH!
+### Coverage: (20/22)
 
 ## Iron Saga VS
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -584,10 +586,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## 2XKO
-- Character [Samira]: Character name [Samira] doesn't exist in StartGG
-- Character [Sett]: Character name [Sett] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (16/17)
+### Coverage: (18/19)
 
 ## Rivals of Aether
 - Character [Sandbert]: Character name [Sandbert] doesn't exist in StartGG

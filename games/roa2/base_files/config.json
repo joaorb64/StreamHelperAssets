@@ -2400,6 +2400,24 @@
         },
         "122": {
           "name": "Retro - Gold"
+        },
+        "123": {
+          "name": "Catzerker"
+        },
+        "124": {
+          "name": "Catzerker - Shifted"
+        },
+        "125": {
+          "name": "Catzerker - Blue"
+        },
+        "126": {
+          "name": "Catzerker - Gold"
+        },
+        "127": {
+          "name": "Catzerker - Green"
+        },
+        "128": {
+          "name": "Catzerker - Red"
         }
       }
     },
@@ -2655,7 +2673,7 @@
           "name": "Lovers - White"
         },
         "82": {
-          "name": "Lovers - Gold"
+          "name": "Lovers - Gold (Stang0 Loxodont Challenge)"
         },
         "83": {
           "name": "Plushie"
@@ -2703,7 +2721,7 @@
           "name": "White Elephant - Gold"
         },
         "98": {
-          "name": "Lovers - Gold"
+          "name": "Lovers - Gold (Patreon)"
         },
         "99": {
           "name": "Primal - Gold"
@@ -4861,7 +4879,7 @@
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "26.10.08.81124",
+  "version": "26.10.29.71956",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest",

@@ -1,6 +1,6 @@
 {
   "name": "Course Icons",
-  "version": "26.07.25.12547",
+  "version": "26.10.29.39729",
   "description": "Course icons",
   "prefix": "file_",
   "postfix": "",
@@ -10,187 +10,367 @@
   "image_sizes": {
     "AcornHeights": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "AirshipFortress": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
+      }
+    },
+    "BattleModeBigDonut": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "BattleModeChainChompDesert": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "BattleModeDKPass": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "BattleModeDinoDinoJungle": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "BattleModeMarioCircuit": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "BattleModeMooMooMeadows": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "BattleModePeachStadium": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "BattleModeSaltySaltySpeedway": {
+      "null": {
+        "x": 825,
+        "y": 465
       }
     },
     "BooCinema": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "BowsersCastle": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "CheepCheepFalls": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "ChocoMountain": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "CrownCity": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "DKPass": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "DKSpaceport": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "DandelionDepths": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "DesertHills": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "DinoDinoJungle": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "DryBonesBurnout": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "FarawayOasis": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "GreatBlockRuins": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
+      }
+    },
+    "KnockoutTourAcornRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourBoomerangRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourCherryRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourCloudRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourDrillRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourGoldenRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourHeartRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourIceRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourMoonRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourPropellerRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourSpinyRally": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutTourTurnipRally": {
+      "null": {
+        "x": 252,
+        "y": 245
       }
     },
     "KoopaTroopaBeach": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "MarioBrosCircuit": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "MarioCircuit": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "MooMooMeadows": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "PeachBeach": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "PeachStadium": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "RainbowRoad": {
       "null": {
-        "x": 450,
-        "y": 350
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESChocoIsland1": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESChocoIsland2": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESGhostValley1": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESGhostValley2": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESGhostValley3": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESKoopaBeach1": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESMarioCircuit1": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESMarioCircuit2": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESMarioCircuit3": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "SNESVanillaLake1": {
+      "null": {
+        "x": 825,
+        "y": 465
       }
     },
     "SaltySaltySpeedway": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "ShyGuyBazaar": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "SkyHighSundae": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "StarviewPeak": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "ToadsFactory": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "WarioShipyard": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "WarioStadium": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     },
     "WhistlestopSummit": {
       "null": {
-        "x": 296,
-        "y": 288
+        "x": 825,
+        "y": 465
       }
     }
   },
   "average_size": {
-    "x": 301.1333333333333,
-    "y": 290.06666666666666
+    "x": 710.4,
+    "y": 421.0
   }
 }

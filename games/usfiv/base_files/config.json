@@ -306,5 +306,25 @@
       "logo_path": "logo_3d.png",
       "igdb_game_id": "super-street-fighter-iv-3d-edition"
     }
-  ]
+  ],
+  "variant_to_codename": {
+    "Ultra Combo I": {
+      "codename": "UltraComboIV"
+    },
+    "Ultra Combo II": {
+      "codename": "UltraComboIIV",
+      "igdb_playable_list": [
+        "super-street-fighter-iv",
+        "super-street-fighter-iv-arcade-edition",
+        "super-street-fighter-iv-3d-edition",
+        "ultra-street-fighter-iv"
+      ]
+    },
+    "Ultra Combo Double": {
+      "codename": "UltraComboDoubleV",
+      "igdb_playable_list": [
+        "ultra-street-fighter-iv"
+      ]
+    }
+  }
 }

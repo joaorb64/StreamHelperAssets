@@ -34,7 +34,7 @@ for character_name in main_config["character_to_codename"].keys():
             image = Image.open(image_filename, "r").convert("RGBA")
             height = image.height
             full_rescaling_factor[codename][str(i)] = 4929.0/height
-            print(codename, stand_rescaling_factor[codename][str(i)])
+            print(codename, full_rescaling_factor[codename][str(i)])
         else:
             print(f"Could not find {image_filename}")
         

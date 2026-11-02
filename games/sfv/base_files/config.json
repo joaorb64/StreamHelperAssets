@@ -201,5 +201,16 @@
       "name": "\uc2a4\ud2b8\ub9ac\ud2b8 \ud30c\uc774\ud130 V"
     }
   },
-  "igdb_game_id": "street-fighter-v"
+  "igdb_game_id": "street-fighter-v",
+  "variant_to_codename": {
+    "V-Skill I / V-Trigger I": {
+      "codename": "VSkillIVTriggerIV"
+    },
+    "V-Skill I / V-Trigger II": {
+      "codename": "VSkillIVTriggerIIV"
+    },
+    "V-Skill II / V-Trigger I": {
+      "codename": "VSkillIIVTriggerIV"
+    }
+  }
 }

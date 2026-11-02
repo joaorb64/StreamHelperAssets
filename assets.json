@@ -4283,13 +4283,13 @@
                 "files": {
                     "mtfs.base_files.7z.001": {
                         "name": "mtfs.base_files.7z.001",
-                        "size": 1389169
+                        "size": 1442165
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Marvel T\u014dkon: Fighting Souls",
-                "version": "26.10.16.41873"
+                "version": "26.11.02.80604"
             },
             "costume": {
                 "credits": "Extracted from https://www.spriters-resource.com/pc_computer/marveltokonfightingsouls/",
@@ -4311,13 +4311,13 @@
                 "files": {
                     "mtfs.full.7z.001": {
                         "name": "mtfs.full.7z.001",
-                        "size": 90302665
+                        "size": 92145720
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "26.10.29.36023"
+                "version": "26.11.02.80604"
             },
             "stage_icon": {
                 "credits": null,
@@ -4339,13 +4339,13 @@
                 "files": {
                     "mtfs.stand.7z.001": {
                         "name": "mtfs.stand.7z.001",
-                        "size": 75176441
+                        "size": 75596464
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Standing renders",
-                "version": "26.10.29.36023"
+                "version": "26.11.02.80604"
             }
         },
         "name": "Marvel T\u014dkon: Fighting Souls"

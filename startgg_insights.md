@@ -222,10 +222,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Invincible VS
 - Character [Angstrom Levy]: Character name [Angstrom] doesn't exist in StartGG
-- Character [Agent Spider]: Character name [Agent Spider] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
 - Character [Angstrom Levy] not assigned in TSH!
-### Coverage: (20/22)
+### Coverage: (21/23)
 
 ## Iron Saga VS
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -427,7 +426,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 - Character [Venom]: Character name [Venom] doesn't exist in StartGG
 - Character [Jubilee]: Character name [Jubilee] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (21/22)
+- Character [Cyclops] not assigned in TSH!
+### Coverage: (21/23)
 
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG
@@ -778,9 +778,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Roger Jr.]: Character name [Roger Jr.] doesn't exist in StartGG
 - Character [Yujiro Hanma]: Character name [Yujiro] doesn't exist in StartGG
-### Coverage: (43/43)
+### Coverage: (44/44)
 
 ## Them's Fightin' Herds
 ### Coverage: (11/11)

@@ -2,181 +2,240 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Alex": {
-      "codename": "1_34"
+      "codename": "1_34",
+      "parrygg_slug": "alex"
     },
     "Alisa Bosconovitch": {
-      "codename": "2_05"
+      "codename": "2_05",
+      "parrygg_slug": "alisa-bosconovitch"
     },
     "Ancient Ogre": {
-      "codename": "1_35"
+      "codename": "1_35",
+      "parrygg_slug": "ancient-ogre"
     },
     "Angel": {
-      "codename": "1_40"
+      "codename": "1_40",
+      "parrygg_slug": "angel"
     },
     "Anna Williams": {
-      "codename": "1_42"
+      "codename": "1_42",
+      "parrygg_slug": "anna-williams"
     },
     "Armor King II": {
-      "codename": "2_01"
+      "codename": "2_01",
+      "parrygg_slug": "armor-king-ii"
     },
     "Asuka Kazama": {
-      "codename": "2_09"
+      "codename": "2_09",
+      "parrygg_slug": "asuka-kazama"
     },
     "Baek Doo San": {
-      "codename": "2_13"
+      "codename": "2_13",
+      "parrygg_slug": "baek-doo-san"
     },
     "Robert \"Bob\" Richards": {
-      "codename": "2_17"
+      "codename": "2_17",
+      "parrygg_slug": "robert-bob-richards"
     },
     "Bruce Irvin": {
-      "codename": "2_21"
+      "codename": "2_21",
+      "parrygg_slug": "bruce-irvin"
     },
     "Bryan Fury": {
-      "codename": "2_22"
+      "codename": "2_22",
+      "parrygg_slug": "bryan-fury"
     },
     "Christie Monteiro": {
-      "codename": "2_26"
+      "codename": "2_26",
+      "parrygg_slug": "christie-monteiro"
     },
     "Combot": {
-      "codename": "1_39"
+      "codename": "1_39",
+      "parrygg_slug": "combot"
     },
     "Devil Jin": {
-      "codename": "2_31"
+      "codename": "2_31",
+      "parrygg_slug": "devil-jin"
     },
     "Dr. Bosconovitch": {
-      "codename": "1_30"
+      "codename": "1_30",
+      "parrygg_slug": "dr-bosconovitch"
     },
     "Sergei Dragunov": {
-      "codename": "2_27"
+      "codename": "2_27",
+      "parrygg_slug": "sergei-dragunov"
     },
     "Eddy Gordo": {
-      "codename": "2_32"
+      "codename": "2_32",
+      "parrygg_slug": "eddy-gordo"
     },
     "Feng Wei": {
-      "codename": "2_28"
+      "codename": "2_28",
+      "parrygg_slug": "feng-wei"
     },
     "Forest Law": {
-      "codename": "1_44"
+      "codename": "1_44",
+      "parrygg_slug": "forest-law"
     },
     "Ganryu": {
-      "codename": "2_30"
+      "codename": "2_30",
+      "parrygg_slug": "ganryu"
     },
     "Heihachi Mishima": {
-      "codename": "2_23"
+      "codename": "2_23",
+      "parrygg_slug": "heihachi-mishima"
     },
     "Hwoarang": {
-      "codename": "2_24"
+      "codename": "2_24",
+      "parrygg_slug": "hwoarang"
     },
     "Jack-6": {
-      "codename": "2_25"
+      "codename": "2_25",
+      "parrygg_slug": "jack-6"
     },
     "Jaycee": {
-      "codename": "2_29"
+      "codename": "2_29",
+      "parrygg_slug": "jaycee"
     },
     "Jin Kazama": {
-      "codename": "2_18"
+      "codename": "2_18",
+      "parrygg_slug": "jin-kazama"
     },
     "Jinpachi Mishima": {
-      "codename": "2_19"
+      "codename": "2_19",
+      "parrygg_slug": "jinpachi-mishima"
     },
     "Jun Kazama": {
-      "codename": "2_20"
+      "codename": "2_20",
+      "parrygg_slug": "jun-kazama"
     },
     "Kazuya Mishima": {
-      "codename": "2_14"
+      "codename": "2_14",
+      "parrygg_slug": "kazuya-mishima"
     },
     "King II": {
-      "codename": "2_15"
+      "codename": "2_15",
+      "parrygg_slug": "king-ii"
     },
     "Kuma II": {
-      "codename": "2_16"
+      "codename": "2_16",
+      "parrygg_slug": "kuma-ii"
     },
     "Kunimitsu": {
-      "codename": "1_47"
+      "codename": "1_47",
+      "parrygg_slug": "kunimitsu"
     },
     "Lars Alexandersson": {
-      "codename": "2_10"
+      "codename": "2_10",
+      "parrygg_slug": "lars-alexandersson"
     },
     "Lee Chaolan": {
-      "codename": "2_12"
+      "codename": "2_12",
+      "parrygg_slug": "lee-chaolan"
     },
     "Lei Wulong": {
-      "codename": "2_06"
+      "codename": "2_06",
+      "parrygg_slug": "lei-wulong"
     },
     "Leo Kliesen": {
-      "codename": "2_07"
+      "codename": "2_07",
+      "parrygg_slug": "leo-kliesen"
     },
     "Emilie \"Lili\" De Rochefort": {
-      "codename": "2_08"
+      "codename": "2_08",
+      "parrygg_slug": "emilie-lili-de-rochefort"
     },
     "Craig Marduk": {
-      "codename": "2_02"
+      "codename": "2_02",
+      "parrygg_slug": "craig-marduk"
     },
     "Marshall Law": {
-      "codename": "2_11"
+      "codename": "2_11",
+      "parrygg_slug": "marshall-law"
     },
     "Michelle Chang": {
-      "codename": "1_41"
+      "codename": "1_41",
+      "parrygg_slug": "michelle-chang"
     },
     "Miguel Caballero Rojo": {
-      "codename": "2_03"
+      "codename": "2_03",
+      "parrygg_slug": "miguel-caballero-rojo"
     },
     "Miharu Hirano": {
-      "codename": "1_46"
+      "codename": "1_46",
+      "parrygg_slug": "miharu-hirano"
     },
     "Mokujin": {
-      "codename": "2_04"
+      "codename": "2_04",
+      "parrygg_slug": "mokujin"
     },
     "Nina Williams": {
-      "codename": "1_01"
+      "codename": "1_01",
+      "parrygg_slug": "nina-williams"
     },
     "P. Jack": {
-      "codename": "1_45"
+      "codename": "1_45",
+      "parrygg_slug": "p-jack"
     },
     "Panda": {
-      "codename": "1_13"
+      "codename": "1_13",
+      "parrygg_slug": "panda"
     },
     "Paul Phoenix": {
-      "codename": "1_09"
+      "codename": "1_09",
+      "parrygg_slug": "paul-phoenix"
     },
     "Raven": {
-      "codename": "1_17"
+      "codename": "1_17",
+      "parrygg_slug": "raven"
     },
     "Roger Jr.": {
-      "codename": "1_21"
+      "codename": "1_21",
+      "parrygg_slug": "roger-jr"
     },
     "Sebastian": {
-      "codename": "1_31"
+      "codename": "1_31",
+      "parrygg_slug": "sebastian"
     },
     "Slim Bob": {
-      "codename": "1_48"
+      "codename": "1_48",
+      "parrygg_slug": "slim-bob"
     },
     "Steve Fox": {
-      "codename": "1_25"
+      "codename": "1_25",
+      "parrygg_slug": "steve-fox"
     },
     "Tiger Jackson": {
-      "codename": "1_32"
+      "codename": "1_32",
+      "parrygg_slug": "tiger-jackson"
     },
     "True Ogre": {
-      "codename": "1_05"
+      "codename": "1_05",
+      "parrygg_slug": "true-ogre"
     },
     "Unknown": {
-      "codename": "1_43"
+      "codename": "1_43",
+      "parrygg_slug": "unknown"
     },
     "Violet": {
-      "codename": "1_36"
+      "codename": "1_36",
+      "parrygg_slug": "violet"
     },
     "Wang Jinrei": {
-      "codename": "1_29"
+      "codename": "1_29",
+      "parrygg_slug": "wang-jinrei"
     },
     "Ling Xiaoyu": {
-      "codename": "1_33"
+      "codename": "1_33",
+      "parrygg_slug": "ling-xiaoyu"
     },
     "Yoshimitsu": {
-      "codename": "1_37"
+      "codename": "1_37",
+      "parrygg_slug": "yoshimitsu"
     },
     "Zafina": {
-      "codename": "1_38"
+      "codename": "1_38",
+      "parrygg_slug": "zafina"
     }
   },
   "credits": "Ripped from https://tekkenwarehouse.com/tekkentag2/",
@@ -198,91 +257,120 @@
   },
   "stage_to_codename": {
     "Arctic Dream (Finland)": {
-      "codename": "ArcticDreamFinland"
+      "codename": "ArcticDreamFinland",
+      "parrygg_slug": "arctic-dream-finland"
     },
     "Arena (Tokyo, Japan)": {
-      "codename": "ArenaTokyoJapan"
+      "codename": "ArenaTokyoJapan",
+      "parrygg_slug": "arena-tokyo-japan"
     },
     "Bountiful Sea (South Pacific)": {
-      "codename": "BountifulSeaSouthPacific"
+      "codename": "BountifulSeaSouthPacific",
+      "parrygg_slug": "bountiful-sea-south-pacific"
     },
     "Coastline Sunset (Philippines)": {
-      "codename": "CoastlineSunsetPhilippines"
+      "codename": "CoastlineSunsetPhilippines",
+      "parrygg_slug": "coastline-sunset-philippines"
     },
     "Condor Canyon (Colombia)": {
-      "codename": "CondorCanyonColombia"
+      "codename": "CondorCanyonColombia",
+      "parrygg_slug": "condor-canyon-colombia"
     },
     "Dusk after the Rain (China)": {
-      "codename": "DuskaftertheRainChina"
+      "codename": "DuskaftertheRainChina",
+      "parrygg_slug": "dusk-after-the-rain-china"
     },
     "Eternal Paradise (Fiji)": {
-      "codename": "EternalParadiseFiji"
+      "codename": "EternalParadiseFiji",
+      "parrygg_slug": "eternal-paradise-fiji"
     },
     "Extravagant Underground (Russia)": {
-      "codename": "ExtravagantUndergroundRussia"
+      "codename": "ExtravagantUndergroundRussia",
+      "parrygg_slug": "extravagant-underground-russia"
     },
     "Fallen Garden (Unknown)": {
-      "codename": "FallenGardenUnknown"
+      "codename": "FallenGardenUnknown",
+      "parrygg_slug": "fallen-garden-unknown"
     },
     "Festive Parade (United States)": {
-      "codename": "FestiveParadeUnitedStates"
+      "codename": "FestiveParadeUnitedStates",
+      "parrygg_slug": "festive-parade-united-states"
     },
     "Fireworks Over Barcelona (Spain)": {
-      "codename": "FireworksOverBarcelonaSpain"
+      "codename": "FireworksOverBarcelonaSpain",
+      "parrygg_slug": "fireworks-over-barcelona-spain"
     },
     "Fontana di Trevi (Italy)": {
-      "codename": "FontanadiTreviItaly"
+      "codename": "FontanadiTreviItaly",
+      "parrygg_slug": "fontana-di-trevi-italy"
     },
     "Hall of Judgement (Nara, Japan)": {
-      "codename": "HallofJudgementNaraJapan"
+      "codename": "HallofJudgementNaraJapan",
+      "parrygg_slug": "hall-of-judgement-nara-japan"
     },
     "Heavenly Garden (Unknown)": {
-      "codename": "HeavenlyGardenUnknown"
+      "codename": "HeavenlyGardenUnknown",
+      "parrygg_slug": "heavenly-garden-unknown"
     },
     "Historic Town Square (Germany)": {
-      "codename": "HistoricTownSquareGermany"
+      "codename": "HistoricTownSquareGermany",
+      "parrygg_slug": "historic-town-square-germany"
     },
     "Moai Excavation (Chile)": {
-      "codename": "MoaiExcavationChile"
+      "codename": "MoaiExcavationChile",
+      "parrygg_slug": "moai-excavation-chile"
     },
     "Modern Oasis (Saudi Arabia)": {
-      "codename": "ModernOasisSaudiArabia"
+      "codename": "ModernOasisSaudiArabia",
+      "parrygg_slug": "modern-oasis-saudi-arabia"
     },
     "Moonlit Wilderness (United Kingdom)": {
-      "codename": "MoonlitWildernessUnitedKingdom"
+      "codename": "MoonlitWildernessUnitedKingdom",
+      "parrygg_slug": "moonlit-wilderness-united-kingdom"
     },
     "Naraku (Japan)": {
-      "codename": "NarakuJapan"
+      "codename": "NarakuJapan",
+      "parrygg_slug": "naraku-japan"
     },
     "Odeum of Illusions (Poland)": {
-      "codename": "OdeumofIllusionsPoland"
+      "codename": "OdeumofIllusionsPoland",
+      "parrygg_slug": "odeum-of-illusions-poland"
     },
     "Riverside Promenade (France)": {
-      "codename": "RiversidePromenadeFrance"
+      "codename": "RiversidePromenadeFrance",
+      "parrygg_slug": "riverside-promenade-france"
     },
     "Sakura Schoolyard (Yokosuka, Japan)": {
-      "codename": "SakuraSchoolyardYokosukaJapan"
+      "codename": "SakuraSchoolyardYokosukaJapan",
+      "parrygg_slug": "sakura-schoolyard-yokosuka-japan"
     },
     "Snoop Dogg (United States)": {
-      "codename": "SnoopDoggUnitedStates"
+      "codename": "SnoopDoggUnitedStates",
+      "parrygg_slug": "snoop-dogg-united-states"
     },
     "Strategic Space (Dubai)": {
-      "codename": "StrategicSpaceDubai"
+      "codename": "StrategicSpaceDubai",
+      "parrygg_slug": "strategic-space-dubai"
     },
     "Tempest (Norway)": {
-      "codename": "TempestNorway"
+      "codename": "TempestNorway",
+      "parrygg_slug": "tempest-norway"
     },
     "Tropical Rainforest (Brazil)": {
-      "codename": "TropicalRainforestBrazil"
+      "codename": "TropicalRainforestBrazil",
+      "parrygg_slug": "tropical-rainforest-brazil"
     },
     "Tulip Festival (Netherlands)": {
-      "codename": "TulipFestivalNetherlands"
+      "codename": "TulipFestivalNetherlands",
+      "parrygg_slug": "tulip-festival-netherlands"
     },
     "Wayang Kulit (Indonesia)": {
-      "codename": "WayangKulitIndonesia"
+      "codename": "WayangKulitIndonesia",
+      "parrygg_slug": "wayang-kulit-indonesia"
     },
     "Winter Palace (Canada)": {
-      "codename": "WinterPalaceCanada"
+      "codename": "WinterPalaceCanada",
+      "parrygg_slug": "winter-palace-canada"
     }
   },
   "igdb_game_id": "tekken-tag-tournament-2"

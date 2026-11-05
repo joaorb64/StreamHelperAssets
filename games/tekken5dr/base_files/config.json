@@ -7,7 +7,10 @@
     },
     "Armor King II": {
       "codename": "ArmorKingII",
-      "parrygg_slug": "armor-king-ii"
+      "parrygg_slug": "armor-king-ii",
+      "igdb_playable_list": [
+        "tekken-5-dark-resurrection"
+      ]
     },
     "Asuka Kazama": {
       "codename": "AsukaKazama",
@@ -43,7 +46,10 @@
     },
     "Emilie \"Lili\" De Rochefort": {
       "codename": "EmilieLiliDeRochefort",
-      "parrygg_slug": "emilie-lili-de-rochefort"
+      "parrygg_slug": "emilie-lili-de-rochefort",
+      "igdb_playable_list": [
+        "tekken-5-dark-resurrection"
+      ]
     },
     "Feng Wei": {
       "codename": "FengWei",
@@ -131,7 +137,10 @@
     },
     "Sergei Dragunov": {
       "codename": "SergeiDragunov",
-      "parrygg_slug": "sergei-dragunov"
+      "parrygg_slug": "sergei-dragunov",
+      "igdb_playable_list": [
+        "tekken-5-dark-resurrection"
+      ]
     },
     "Steve Fox": {
       "codename": "SteveFox",
@@ -157,5 +166,13 @@
     "ja": {
       "name": "\u9244\u62f35 Dark Resurrection"
     }
-  }
+  },
+  "alternate_versions": [
+    {
+      "name": "Tekken 5",
+      "smashgg_game_id": null,
+      "logo_path": "logo_vanilla.png",
+      "igdb_game_id": "tekken-5"
+    }
+  ]
 }

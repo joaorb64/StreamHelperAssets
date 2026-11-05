@@ -1,0 +1,176 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Alisa Bosconovitch": {
+      "codename": "AlisaBosconovitch",
+      "parrygg_slug": "alisa-bosconovitch"
+    },
+    "Anna Williams": {
+      "codename": "AnnaWilliams",
+      "parrygg_slug": "anna-williams"
+    },
+    "Armor King II": {
+      "codename": "ArmorKingII",
+      "parrygg_slug": "armor-king-ii"
+    },
+    "Asuka Kazama": {
+      "codename": "AsukaKazama",
+      "parrygg_slug": "asuka-kazama"
+    },
+    "Baek Doo San": {
+      "codename": "BaekDooSan",
+      "parrygg_slug": "baek-doo-san"
+    },
+    "Bruce Irvin": {
+      "codename": "BruceIrvin",
+      "parrygg_slug": "bruce-irvin"
+    },
+    "Bryan Fury": {
+      "codename": "BryanFury",
+      "parrygg_slug": "bryan-fury"
+    },
+    "Christie Monteiro": {
+      "codename": "ChristieMonteiro",
+      "parrygg_slug": "christie-monteiro"
+    },
+    "Craig Marduk": {
+      "codename": "CraigMarduk",
+      "parrygg_slug": "craig-marduk"
+    },
+    "Devil Jin": {
+      "codename": "DevilJin",
+      "parrygg_slug": "devil-jin"
+    },
+    "Eddy Gordo": {
+      "codename": "EddyGordo",
+      "parrygg_slug": "eddy-gordo"
+    },
+    "Feng Wei": {
+      "codename": "FengWei",
+      "parrygg_slug": "feng-wei"
+    },
+    "Ganryu": {
+      "codename": "Ganryu",
+      "parrygg_slug": "ganryu"
+    },
+    "Heihachi Mishima": {
+      "codename": "HeihachiMishima",
+      "parrygg_slug": "heihachi-mishima"
+    },
+    "Hwoarang": {
+      "codename": "Hwoarang",
+      "parrygg_slug": "hwoarang"
+    },
+    "JACK-6": {
+      "codename": "JACK6",
+      "parrygg_slug": "jack-6"
+    },
+    "Jin Kazama": {
+      "codename": "JinKazama",
+      "parrygg_slug": "jin-kazama"
+    },
+    "Julia Chang": {
+      "codename": "JuliaChang",
+      "parrygg_slug": "julia-chang"
+    },
+    "Kazuya Mishima": {
+      "codename": "KazuyaMishima",
+      "parrygg_slug": "kazuya-mishima"
+    },
+    "King II": {
+      "codename": "KingII",
+      "parrygg_slug": "king-ii"
+    },
+    "Kuma II": {
+      "codename": "KumaII",
+      "parrygg_slug": "kuma-ii"
+    },
+    "Lars Alexandersson": {
+      "codename": "LarsAlexandersson",
+      "parrygg_slug": "lars-alexandersson"
+    },
+    "Lee Chaolan": {
+      "codename": "LeeChaolan",
+      "parrygg_slug": "lee-chaolan"
+    },
+    "Lei Wulong": {
+      "codename": "LeiWulong",
+      "parrygg_slug": "lei-wulong"
+    },
+    "Leo Kliesen": {
+      "codename": "LeoKliesen",
+      "parrygg_slug": "leo-kliesen"
+    },
+    "Emilie \"Lili\" De Rochefort": {
+      "codename": "LiliDeRochefort",
+      "parrygg_slug": "emilie-lili-de-rochefort"
+    },
+    "Ling Xiaoyu": {
+      "codename": "LingXiaoyu",
+      "parrygg_slug": "ling-xiaoyu"
+    },
+    "Marshall Law": {
+      "codename": "MarshallLaw",
+      "parrygg_slug": "marshall-law"
+    },
+    "Miguel Caballero Rojo": {
+      "codename": "MiguelCaballeroRojo",
+      "parrygg_slug": "miguel-caballero-rojo"
+    },
+    "Mokujin": {
+      "codename": "Mokujin",
+      "parrygg_slug": "mokujin"
+    },
+    "Nina Williams": {
+      "codename": "NinaWilliams",
+      "parrygg_slug": "nina-williams"
+    },
+    "Panda": {
+      "codename": "Pandad",
+      "parrygg_slug": "panda"
+    },
+    "Paul Phoenix": {
+      "codename": "PaulPhoenix",
+      "parrygg_slug": "paul-phoenix"
+    },
+    "Raven": {
+      "codename": "Raven",
+      "parrygg_slug": "raven"
+    },
+    "Robert \"Bob\" Richards": {
+      "codename": "RobertBobRichards",
+      "parrygg_slug": "robert-bob-richards"
+    },
+    "Roger Jr.": {
+      "codename": "RogerJr",
+      "parrygg_slug": "roger-jr"
+    },
+    "Sergei Dragunov": {
+      "codename": "SergeiDragunov",
+      "parrygg_slug": "sergei-dragunov"
+    },
+    "Steve Fox": {
+      "codename": "SteveFox",
+      "parrygg_slug": "steve-fox"
+    },
+    "Wang Jinrei": {
+      "codename": "WangJinrei",
+      "parrygg_slug": "wang-jinrei"
+    },
+    "Yoshimitsu": {
+      "codename": "Yoshimitsu",
+      "parrygg_slug": "yoshimitsu"
+    },
+    "Zafina": {
+      "codename": "Zafina",
+      "parrygg_slug": "zafina"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "igdb_game_id": "tekken-6--3",
+  "name": "Tekken 6",
+  "smashgg_game_id": 4916,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

@@ -1,0 +1,16 @@
+{
+  "credits": "Ripped from https://tekkenwarehouse.com/tekken6/",
+  "description": "Character portraits",
+  "name": "Portraits",
+  "postfix": "_",
+  "prefix": "file_",
+  "type": [
+    "full"
+  ],
+  "version": "25.05.29.53857",
+  "uncropped_edge": [
+    "l",
+    "r",
+    "d"
+  ]
+}

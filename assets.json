@@ -8111,13 +8111,13 @@
                 "files": {
                     "tekken5dr.base_files.7z.001": {
                         "name": "tekken5dr.base_files.7z.001",
-                        "size": 1538203
+                        "size": 1619029
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Tekken 5: Dark Resurrection",
-                "version": "26.09.16.76047"
+                "version": "26.11.05.50291"
             },
             "full": {
                 "credits": "Ripped from https://tekkenwarehouse.com/tekken5/",
@@ -8125,16 +8125,49 @@
                 "files": {
                     "tekken5dr.full.7z.001": {
                         "name": "tekken5dr.full.7z.001",
-                        "size": 14178988
+                        "size": 17215497
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "25.05.29.53857"
+                "version": "26.11.05.50291"
             }
         },
         "name": "Tekken 5: Dark Resurrection"
+    },
+    "tekken6": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "tekken6.base_files.7z.001": {
+                        "name": "tekken6.base_files.7z.001",
+                        "size": 290522
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Tekken 6",
+                "version": "26.11.05.50291"
+            },
+            "full": {
+                "credits": "Ripped from https://tekkenwarehouse.com/tekken6/",
+                "description": "Character portraits",
+                "files": {
+                    "tekken6.full.7z.001": {
+                        "name": "tekken6.full.7z.001",
+                        "size": 3996849
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Portraits",
+                "version": "26.11.05.50291"
+            }
+        },
+        "name": "Tekken 6"
     },
     "tekken7": {
         "assets": {
@@ -8535,13 +8568,13 @@
                 "files": {
                     "ttt2.base_files.7z.001": {
                         "name": "ttt2.base_files.7z.001",
-                        "size": 1400662
+                        "size": 1405121
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Tekken Tag Tournament 2",
-                "version": "26.07.31.49734"
+                "version": "26.11.05.50291"
             },
             "full": {
                 "credits": "Ripped from https://tekkenwarehouse.com/tekkentag2/",
@@ -8768,6 +8801,20 @@
                 "has_stage_data": false,
                 "name": "Ultra Street Fighter IV",
                 "version": "26.11.02.82037"
+            },
+            "full": {
+                "credits": "Ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Ultra_Street_Fighter_IV)",
+                "description": "Character artwork",
+                "files": {
+                    "usfiv.full.7z.001": {
+                        "name": "usfiv.full.7z.001",
+                        "size": 30489736
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Artwork",
+                "version": "26.11.05.50291"
             }
         },
         "name": "Ultra Street Fighter IV"

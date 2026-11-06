@@ -771,6 +771,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Tekken 5: Dark Resurrection
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Tekken 6
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Tekken 7
 - Character [Violet] not assigned in TSH!
 ### Coverage: (51/52)

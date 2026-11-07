@@ -5215,13 +5215,13 @@
                 "files": {
                     "pcombat.base_files.7z.001": {
                         "name": "pcombat.base_files.7z.001",
-                        "size": 222154
+                        "size": 222566
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Pok\u00e9mon: Close Combat",
-                "version": "26.07.31.49734"
+                "version": "26.11.07.53350"
             },
             "full": {
                 "credits": "",
@@ -5229,13 +5229,13 @@
                 "files": {
                     "pcombat.full.7z.001": {
                         "name": "pcombat.full.7z.001",
-                        "size": 279206
+                        "size": 290524
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "26.07.31.49734"
+                "version": "26.11.07.53350"
             }
         },
         "name": "Pok\u00e9mon: Close Combat"

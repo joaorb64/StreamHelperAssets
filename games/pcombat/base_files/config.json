@@ -322,6 +322,27 @@
         "it": "Hawlucha",
         "es": "Hawlucha"
       }
+    },
+    "Meloetta": {
+      "codename": "648",
+      "locale": {
+        "fr": "Meloetta",
+        "de": "Meloetta",
+        "ko": "\uba54\ub85c\uc5e3\ud0c0",
+        "ja": "\u30e1\u30ed\u30a8\u30c3\u30bf",
+        "zh_CN": "\u7f8e\u6d1b\u8036\u5854",
+        "zh_TW": "\u7f8e\u6d1b\u8036\u5854",
+        "it": "Meloetta",
+        "es": "Meloetta"
+      },
+      "skin_name": {
+        "1": {
+          "name": "Aria"
+        },
+        "0": {
+          "name": "Pirouette"
+        }
+      }
     }
   },
   "credits": "Box sprites from the mainline games from Generation 3-8\nEzerart for the Pok\u00e9mon Scarlet & Violet icons\nBreton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",

@@ -12,7 +12,8 @@
         "zh_TW": "\u7a7f\u8457\u718a",
         "it": "Bewear",
         "es": "Bewear"
-      }
+      },
+      "parrygg_slug": "bewear"
     },
     "Blaziken": {
       "codename": "257",
@@ -25,7 +26,8 @@
         "zh_TW": "\u706b\u7130\u96de",
         "it": "Blaziken",
         "es": "Blaziken"
-      }
+      },
+      "parrygg_slug": "blaziken"
     },
     "Chesnaught": {
       "codename": "652",
@@ -38,7 +40,8 @@
         "zh_TW": "\u5e03\u91cc\u5361\u9686",
         "it": "Chesnaught",
         "es": "Chesnaught"
-      }
+      },
+      "parrygg_slug": "chesnaught"
     },
     "Falinks": {
       "codename": "870",
@@ -51,7 +54,8 @@
         "zh_TW": "\u5217\u9663\u5175",
         "it": "Falinks",
         "es": "Falinks"
-      }
+      },
+      "parrygg_slug": "falinks"
     },
     "Galarian Zapdos": {
       "codename": "145-G",
@@ -65,7 +69,8 @@
         "it": "Zapdos",
         "es": "Zapdos",
         "br": "Tredanaer"
-      }
+      },
+      "parrygg_slug": "galarian-zapdos"
     },
     "Great Tusk": {
       "codename": "984",
@@ -78,7 +83,8 @@
         "zh_TW": "\u96c4\u5049\u7259",
         "it": "Grandizanne",
         "es": "Colmilargo"
-      }
+      },
+      "parrygg_slug": "great-tusk"
     },
     "Heracross": {
       "codename": "214",
@@ -91,7 +97,8 @@
         "zh_TW": "\u8d6b\u62c9\u514b\u7f85\u65af",
         "it": "Heracross",
         "es": "Heracross"
-      }
+      },
+      "parrygg_slug": "heracross"
     },
     "Mienshao": {
       "codename": "620",
@@ -104,7 +111,8 @@
         "zh_TW": "\u5e2b\u7236\u9f2c",
         "it": "Mienshao",
         "es": "Mienshao"
-      }
+      },
+      "parrygg_slug": "mienshao"
     },
     "Poliwrath": {
       "codename": "062",
@@ -118,7 +126,8 @@
         "it": "Poliwrath",
         "es": "Poliwrath",
         "br": "Loavagenta\u00f1"
-      }
+      },
+      "parrygg_slug": "poliwrath"
     },
     "Primeape": {
       "codename": "057",
@@ -132,7 +141,8 @@
         "it": "Primeape",
         "es": "Primeape",
         "br": "Fulormouz"
-      }
+      },
+      "parrygg_slug": "primeape"
     },
     "Toxicroak": {
       "codename": "454",
@@ -145,7 +155,8 @@
         "zh_TW": "\u6bd2\u9ab7\u86d9",
         "it": "Toxicroak",
         "es": "Toxicroak"
-      }
+      },
+      "parrygg_slug": "toxicroak"
     },
     "Scrafty": {
       "codename": "560",
@@ -158,7 +169,8 @@
         "zh_TW": "\u982d\u5dfe\u6df7\u6df7",
         "it": "Scrafty",
         "es": "Scrafty"
-      }
+      },
+      "parrygg_slug": "scrafty"
     },
     "Breloom": {
       "codename": "286",
@@ -171,7 +183,8 @@
         "zh_TW": "\u6597\u7b20\u83c7",
         "it": "Breloom",
         "es": "Breloom"
-      }
+      },
+      "parrygg_slug": "breloom"
     },
     "Medicham": {
       "codename": "308",
@@ -184,7 +197,8 @@
         "zh_TW": "\u6070\u96f7\u59c6",
         "it": "Medicham",
         "es": "Medicham"
-      }
+      },
+      "parrygg_slug": "medicham"
     },
     "Tyrogue": {
       "codename": "236",
@@ -243,7 +257,8 @@
           },
           "is_different_character": true
         }
-      }
+      },
+      "parrygg_slug": "tyrogue"
     },
     "Slither Wing": {
       "codename": "988",
@@ -256,7 +271,8 @@
         "zh_TW": "\u722c\u5730\u7fc5",
         "it": "Alirasenti",
         "es": "Reptalada"
-      }
+      },
+      "parrygg_slug": "slither-wing"
     },
     "Mega Lopunny": {
       "codename": "428-M",
@@ -269,7 +285,8 @@
         "zh_TW": "\u9577\u8033\u5154",
         "it": "Lopunny",
         "es": "Lopunny"
-      }
+      },
+      "parrygg_slug": "mega-lopunny"
     },
     "Kommo-o": {
       "codename": "784",
@@ -282,7 +299,8 @@
         "zh_TW": "\u6756\u5c3e\u9c57\u7532\u9f8d",
         "it": "Kommo-o",
         "es": "Kommo-o"
-      }
+      },
+      "parrygg_slug": "kommo-o"
     },
     "Passimian": {
       "codename": "766",
@@ -295,7 +313,8 @@
         "zh_TW": "\u6295\u64f2\u7334",
         "it": "Passimian",
         "es": "Passimian"
-      }
+      },
+      "parrygg_slug": "passimian"
     },
     "Marshadow": {
       "codename": "802",
@@ -308,7 +327,8 @@
         "zh_TW": "\u746a\u590f\u591a",
         "it": "Marshadow",
         "es": "Marshadow"
-      }
+      },
+      "parrygg_slug": "marshadow"
     },
     "Hawlucha": {
       "codename": "701",
@@ -321,7 +341,8 @@
         "zh_TW": "\u6454\u89d2\u9df9\u4eba",
         "it": "Hawlucha",
         "es": "Hawlucha"
-      }
+      },
+      "parrygg_slug": "hawlucha"
     },
     "Meloetta": {
       "codename": "648",
@@ -342,7 +363,8 @@
         "0": {
           "name": "Pirouette"
         }
-      }
+      },
+      "parrygg_slug": "meloetta"
     }
   },
   "credits": "Box sprites from the mainline games from Generation 3-8\nEzerart for the Pok\u00e9mon Scarlet & Violet icons\nBreton Pok\u00e9mon names by Anthony Gu\u00e9choum (Extracted from https://web.archive.org/web/20240720193925/http://brezhonadur.com/pokedex.php)",

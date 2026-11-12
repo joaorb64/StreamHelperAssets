@@ -1,0 +1,43 @@
+{
+  "name": "Renders",
+  "description": "Character renders",
+  "prefix": "file_",
+  "postfix": "_",
+  "type": [
+    "full"
+  ],
+  "credits": "",
+  "version": "25.06.24.79477",
+  "uncropped_edge": [
+    "u",
+    "l",
+    "r",
+    "d"
+  ],
+  "eyesights": {
+    "Luigi": {
+      "0": {
+        "x": 1961,
+        "y": 787
+      }
+    },
+    "Mario": {
+      "0": {
+        "x": 1260,
+        "y": 1217
+      }
+    },
+    "Toad": {
+      "0": {
+        "x": 1775,
+        "y": 1342
+      }
+    },
+    "Toadette": {
+      "0": {
+        "x": 1301,
+        "y": 2005
+      }
+    }
+  }
+}

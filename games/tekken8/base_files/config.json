@@ -202,19 +202,23 @@
     },
     "Miary Zo": {
       "codename": "mia",
-      "smashgg_name": "Miary Zo"
+      "smashgg_name": "Miary Zo",
+      "parrygg_slug": "miary-zo"
     },
     "Kunimitsu II": {
       "codename": "kun",
-      "smashgg_name": "Kunimitsu"
+      "smashgg_name": "Kunimitsu",
+      "parrygg_slug": "kunimitsu"
     },
     "Robert \"Bob\" Richards": {
       "codename": "bob",
-      "smashgg_name": "Bob"
+      "smashgg_name": "Bob",
+      "parrygg_slug": "bob"
     },
     "Roger Jr.": {
       "codename": "rog",
-      "smashgg_name": "Roger Jr."
+      "smashgg_name": "Roger Jr.",
+      "parrygg_slug": "roger-jr"
     },
     "Yujiro Hanma": {
       "codename": "yuj",
@@ -315,7 +319,8 @@
       "parrygg_slug": "pac-pixels"
     },
     "Baobab Horizon": {
-      "codename": "Baobab"
+      "codename": "Baobab",
+      "parrygg_slug": "baobab-horizon"
     },
     "Subsea Lockdown": {
       "codename": "Lock"

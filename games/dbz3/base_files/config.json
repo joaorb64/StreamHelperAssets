@@ -14,22 +14,52 @@
       "codename": "Bardock"
     },
     "Broly": {
-      "codename": "Broly"
+      "codename": "Broly",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Legendary Super Saiyan"
+        }
+      }
     },
-    "Innocent Buu": {
+    "Majin Buu": {
       "codename": "Buu"
     },
     "Captain Ginyu": {
       "codename": "CaptainGinyu"
     },
     "Cell": {
-      "codename": "Cell"
+      "codename": "Cell",
+      "skin_name": {
+        "0": {
+          "name": "Imperfect Form"
+        },
+        "1": {
+          "name": "Semi-Perfect Form"
+        },
+        "2": {
+          "name": "Perfect Form"
+        }
+      }
     },
     "Cell Jr.": {
       "codename": "CellJr"
     },
     "Cooler": {
-      "codename": "Cooler"
+      "codename": "Cooler",
+      "skin_name": {
+        "0": {
+          "name": "Final Form"
+        },
+        "1": {
+          "name": "Fifth Form"
+        },
+        "2": {
+          "name": "Meta-Cooler"
+        }
+      }
     },
     "Dabura": {
       "codename": "Dabura"
@@ -38,10 +68,41 @@
       "codename": "DrGero"
     },
     "Frieza": {
-      "codename": "Frieza"
+      "codename": "Frieza",
+      "skin_name": {
+        "0": {
+          "name": "First Form"
+        },
+        "1": {
+          "name": "Second Form"
+        },
+        "2": {
+          "name": "Third Form"
+        },
+        "3": {
+          "name": "Final Form"
+        },
+        "4": {
+          "name": "100% Power"
+        },
+        "5": {
+          "name": "Mecha Frieza"
+        }
+      }
     },
     "Gohan (Adult)": {
-      "codename": "GohanAdult"
+      "codename": "GohanAdult",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Ultimate Gohan"
+        }
+      }
     },
     "Gohan (Great Saiyaman)": {
       "codename": "GohanGreatSaiyaman"
@@ -50,19 +111,72 @@
       "codename": "GohanKid"
     },
     "Gohan (Teen)": {
-      "codename": "GohanTeen"
+      "codename": "GohanTeen",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Super Saiyan 2"
+        }
+      }
     },
     "Goku": {
-      "codename": "Goku"
+      "codename": "Goku",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Kaio-Ken"
+        },
+        "2": {
+          "name": "Super Saiyan"
+        },
+        "3": {
+          "name": "Super Saiyan 2"
+        },
+        "4": {
+          "name": "Super Saiyan 3"
+        },
+        "5": {
+          "name": "Super Saiyan 4"
+        }
+      }
     },
     "Goku (Kid)": {
       "codename": "GokuKid"
     },
     "Goten": {
-      "codename": "Goten"
+      "codename": "Goten",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Super Saiyan"
+        }
+      }
     },
     "Gotenks": {
-      "codename": "Gotenks"
+      "codename": "Gotenks",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Super Saiyan 3"
+        },
+        "3": {
+          "name": "Fat Gotenks"
+        }
+      }
     },
     "Kibito Kai": {
       "codename": "KibitoKai"
@@ -95,7 +209,21 @@
       "codename": "Saibaman"
     },
     "Super Buu": {
-      "codename": "SuperBuu"
+      "codename": "SuperBuu",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Piccolo Absorbed"
+        },
+        "2": {
+          "name": "Gotenks Absorbed"
+        },
+        "3": {
+          "name": "Gohan Absorbed"
+        }
+      }
     },
     "Shin": {
       "codename": "SupremeKai"
@@ -104,19 +232,57 @@
       "codename": "TienShinhan"
     },
     "Trunks (Future)": {
-      "codename": "TrunksFuture"
+      "codename": "TrunksFuture",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Super Saiyan"
+        }
+      }
     },
     "Trunks (Kid)": {
-      "codename": "TrunksKid"
+      "codename": "TrunksKid",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Super Saiyan"
+        }
+      }
     },
     "Uub": {
       "codename": "Uub"
     },
     "Vegeta": {
-      "codename": "Vegeta"
+      "codename": "Vegeta",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Super Saiyan"
+        },
+        "2": {
+          "name": "Super Saiyan 4"
+        },
+        "3": {
+          "name": "Majin Vegeta"
+        }
+      }
     },
     "Vegito": {
-      "codename": "Vegito"
+      "codename": "Vegito",
+      "skin_name": {
+        "0": {
+          "name": "Base Form"
+        },
+        "1": {
+          "name": "Super Saiyan"
+        }
+      }
     },
     "Videl": {
       "codename": "Videl"
@@ -124,8 +290,19 @@
     "Yamcha": {
       "codename": "Yamcha"
     },
-    "Random": {
-      "codename": "00"
+    "Gogeta": {
+      "codename": "Gogeta",
+      "skin_name": {
+        "0": {
+          "name": "Super Saiyan"
+        },
+        "1": {
+          "name": "Super Saiyan 4"
+        },
+        "2": {
+          "name": "Veku"
+        }
+      }
     }
   },
   "credits": "Ripped via PCSX2",

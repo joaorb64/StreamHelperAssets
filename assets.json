@@ -7127,6 +7127,39 @@
         },
         "name": "Super Mario Kart"
     },
+    "smm2": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "smm2.base_files.7z.001": {
+                        "name": "smm2.base_files.7z.001",
+                        "size": 57290
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Super Mario Maker 2",
+                "version": "26.11.12.85844"
+            },
+            "full": {
+                "credits": "",
+                "description": "Character renders",
+                "files": {
+                    "smm2.full.7z.001": {
+                        "name": "smm2.full.7z.001",
+                        "size": 27308093
+                    }
+                },
+                "has_eyesight_data": true,
+                "has_stage_data": false,
+                "name": "Renders",
+                "version": "26.11.12.85844"
+            }
+        },
+        "name": "Super Mario Maker 2"
+    },
     "sms": {
         "assets": {
             "base_files": {

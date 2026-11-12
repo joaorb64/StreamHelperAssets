@@ -1609,13 +1609,13 @@
                 "files": {
                     "ffcotw.base_files.7z.001": {
                         "name": "ffcotw.base_files.7z.001",
-                        "size": 7525606
+                        "size": 7807236
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Fatal Fury: City of the Wolves",
-                "version": "26.10.09.65430"
+                "version": "26.11.12.82624"
             },
             "full": {
                 "credits": "Ripped from https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/",
@@ -1623,13 +1623,13 @@
                 "files": {
                     "ffcotw.full.7z.001": {
                         "name": "ffcotw.full.7z.001",
-                        "size": 45447811
+                        "size": 47669285
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "26.10.08.56145"
+                "version": "26.11.12.82624"
             },
             "variant_icon": {
                 "credits": null,
@@ -8224,13 +8224,13 @@
                 "files": {
                     "tekken8.costume_select.7z.001": {
                         "name": "tekken8.costume_select.7z.001",
-                        "size": 78293592
+                        "size": 80455641
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Costume Select Renders",
-                "version": "26.08.20.81649"
+                "version": "26.11.12.82624"
             },
             "full": {
                 "credits": "Official renders from Bandai Namco",
@@ -8266,13 +8266,13 @@
                 "files": {
                     "tekken8.vs_renders.7z.001": {
                         "name": "tekken8.vs_renders.7z.001",
-                        "size": 161206719
+                        "size": 166445527
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "VS Renders",
-                "version": "26.08.20.81649"
+                "version": "26.11.12.82624"
             }
         },
         "name": "Tekken 8"

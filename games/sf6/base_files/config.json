@@ -4,154 +4,483 @@
     "Chun-Li": {
       "codename": "ChunLi",
       "smashgg_name": "Chun-Li",
-      "parrygg_slug": "chun-li"
+      "parrygg_slug": "chun-li",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Jamie": {
       "codename": "Jamie",
       "smashgg_name": "Jamie",
-      "parrygg_slug": "jamie"
+      "parrygg_slug": "jamie",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Luke": {
       "codename": "Luke",
       "smashgg_name": "Luke",
-      "parrygg_slug": "luke"
+      "parrygg_slug": "luke",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Ryu": {
       "codename": "Ryu",
       "smashgg_name": "Ryu",
-      "parrygg_slug": "ryu"
+      "parrygg_slug": "ryu",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Guile": {
       "codename": "Guile",
       "smashgg_name": "Guile",
-      "parrygg_slug": "guile"
+      "parrygg_slug": "guile",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Kimberly": {
       "codename": "Kimberly",
       "smashgg_name": "Kimberly",
-      "parrygg_slug": "kimberly"
+      "parrygg_slug": "kimberly",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Juri": {
       "codename": "Juri",
       "smashgg_name": "Juri",
-      "parrygg_slug": "juri"
+      "parrygg_slug": "juri",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        },
+        "3": {
+          "name": "Outfit 4"
+        }
+      }
     },
     "Blanka": {
       "codename": "Blanka",
       "smashgg_name": "Blanka",
-      "parrygg_slug": "blanka"
+      "parrygg_slug": "blanka",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "E. Honda": {
       "codename": "Honda",
       "smashgg_name": "E. Honda",
-      "parrygg_slug": "honda"
+      "parrygg_slug": "honda",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Ken": {
       "codename": "Ken",
       "smashgg_name": "Ken",
-      "parrygg_slug": "ken"
+      "parrygg_slug": "ken",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Dhalsim": {
       "codename": "Dhalsim",
       "smashgg_name": "Dhalsim",
-      "parrygg_slug": "dhalsim"
+      "parrygg_slug": "dhalsim",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "JP": {
       "codename": "JP",
       "smashgg_name": "JP",
-      "parrygg_slug": "jp"
+      "parrygg_slug": "jp",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Marisa": {
       "codename": "Marisa",
       "smashgg_name": "Marisa",
-      "parrygg_slug": "marisa"
+      "parrygg_slug": "marisa",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Manon": {
       "codename": "Manon",
       "smashgg_name": "Manon",
-      "parrygg_slug": "manon"
+      "parrygg_slug": "manon",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Dee Jay": {
       "codename": "DeeJay",
       "smashgg_name": "Dee Jay",
-      "parrygg_slug": "dee-jay"
+      "parrygg_slug": "dee-jay",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Zangief": {
       "codename": "Zangief",
       "smashgg_name": "Zangief",
-      "parrygg_slug": "zangief"
+      "parrygg_slug": "zangief",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Lily": {
       "codename": "Lily",
       "smashgg_name": "Lily",
-      "parrygg_slug": "lily"
+      "parrygg_slug": "lily",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Cammy": {
       "codename": "Cammy",
       "smashgg_name": "Cammy",
-      "parrygg_slug": "cammy"
+      "parrygg_slug": "cammy",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Rashid": {
       "codename": "Rashid",
       "smashgg_name": "Rashid",
-      "parrygg_slug": "rashid"
+      "parrygg_slug": "rashid",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Akuma": {
       "codename": "Akuma",
       "smashgg_name": "Akuma",
-      "parrygg_slug": "akuma"
+      "parrygg_slug": "akuma",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Ed": {
       "codename": "Ed",
       "smashgg_name": "Ed",
-      "parrygg_slug": "ed"
+      "parrygg_slug": "ed",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "A.K.I.": {
       "codename": "AKI",
       "smashgg_name": "A.K.I.",
-      "parrygg_slug": "aki"
+      "parrygg_slug": "aki",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "M. Bison": {
       "codename": "Bison",
       "smashgg_name": "M. Bison",
-      "parrygg_slug": "bison"
+      "parrygg_slug": "bison",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Terry": {
       "codename": "Terry",
       "smashgg_name": "Terry",
-      "parrygg_slug": "terry"
+      "parrygg_slug": "terry",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Mai": {
       "codename": "Mai",
       "smashgg_name": "Mai",
-      "parrygg_slug": "mai"
+      "parrygg_slug": "mai",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Elena": {
       "codename": "Elena",
       "smashgg_name": "Elena",
-      "parrygg_slug": "elena"
+      "parrygg_slug": "elena",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        },
+        "2": {
+          "name": "Outfit 3"
+        }
+      }
     },
     "Sagat": {
       "codename": "Sagat",
       "smashgg_name": "Sagat",
-      "parrygg_slug": "sagat"
+      "parrygg_slug": "sagat",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        }
+      }
     },
     "Ingrid": {
       "codename": "Ingrid",
-      "smashgg_name": "Ingrid"
+      "smashgg_name": "Ingrid",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        }
+      }
     },
     "Alex": {
       "codename": "Alex",
-      "smashgg_name": "Alex"
+      "smashgg_name": "Alex",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        }
+      }
     },
     "C. Viper": {
       "codename": "Viper",
       "smashgg_name": "C. Viper",
-      "parrygg_slug": "viper"
+      "parrygg_slug": "viper",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "Outfit 2"
+        }
+      }
     },
     "Yasmine": {
       "codename": "Yasmine",
-      "smashgg_name": "Yasmine"
+      "smashgg_name": "Yasmine",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        },
+        "1": {
+          "name": "DriveTech Wear"
+        }
+      }
     },
     "Bosch": {
       "codename": "Bosch",
@@ -159,7 +488,12 @@
     },
     "Arjun": {
       "codename": "Arjun",
-      "smashgg_name": "Arjun"
+      "smashgg_name": "Arjun",
+      "skin_name": {
+        "0": {
+          "name": "Outfit 1"
+        }
+      }
     },
     "Tifa": {
       "codename": "Tifa",

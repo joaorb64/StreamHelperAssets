@@ -670,6 +670,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Super Mario Kart
 Game has no characters in startgg...? Or do we have a wrong game id?
 
+## Super Mario Maker 2
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Super Mario Strikers
 Game has no characters in startgg...? Or do we have a wrong game id?
 

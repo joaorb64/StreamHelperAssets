@@ -751,13 +751,13 @@
                 "files": {
                     "breakers.base_files.7z.001": {
                         "name": "breakers.base_files.7z.001",
-                        "size": 287541
+                        "size": 287658
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Breakers Revenge",
-                "version": "26.07.31.49734"
+                "version": "26.11.13.56425"
             },
             "chibi": {
                 "credits": "",
@@ -1279,13 +1279,13 @@
                 "files": {
                     "doa5lr.base_files.7z.001": {
                         "name": "doa5lr.base_files.7z.001",
-                        "size": 293722
+                        "size": 294107
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Dead or Alive 5: Last Round",
-                "version": "26.07.31.49734"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "",
@@ -2904,13 +2904,13 @@
                 "files": {
                     "kof98umfe.base_files.7z.001": {
                         "name": "kof98umfe.base_files.7z.001",
-                        "size": 699806
+                        "size": 699950
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "The King of Fighters '98 Ultimate Match Final Edition",
-                "version": "26.09.16.76047"
+                "version": "26.11.13.56425"
             },
             "mobile": {
                 "credits": "",
@@ -3356,13 +3356,13 @@
                 "files": {
                     "martial.base_files.7z.001": {
                         "name": "martial.base_files.7z.001",
-                        "size": 214876
+                        "size": 214944
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Martial Masters",
-                "version": "26.07.31.49734"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "",
@@ -3761,13 +3761,13 @@
                 "files": {
                     "mk8dx.base_files.7z.001": {
                         "name": "mk8dx.base_files.7z.001",
-                        "size": 5626620
+                        "size": 5638189
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Mario Kart 8 Deluxe",
-                "version": "26.07.31.49734"
+                "version": "26.11.13.56425"
             },
             "stage_icon": {
                 "credits": null,
@@ -4679,6 +4679,53 @@
         },
         "name": "Nickelodeon All-Star Brawl 2"
     },
+    "nbhid": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "nbhid.base_files.7z.001": {
+                        "name": "nbhid.base_files.7z.001",
+                        "size": 703106
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Nitroplus Blasterz: Heroines Infinite Duel",
+                "version": "26.11.13.56425"
+            },
+            "full": {
+                "credits": "Ripped from Mizuumi Wiki (https://mizuumi.wiki/w/Nitroplus_Blasterz:_Heroines_Infinite_Duel)",
+                "description": "Character artwork",
+                "files": {
+                    "nbhid.full.7z.001": {
+                        "name": "nbhid.full.7z.001",
+                        "size": 4063311
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Artwork",
+                "version": "26.11.13.56425"
+            },
+            "variant_icon": {
+                "credits": null,
+                "description": "Partner icons\nRequires TSH 5.92 or higher to be used",
+                "files": {
+                    "nbhid.variant_icon.7z.001": {
+                        "name": "nbhid.variant_icon.7z.001",
+                        "size": 180185
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Partner Icons",
+                "version": "26.11.13.56425"
+            }
+        },
+        "name": "Nitroplus Blasterz: Heroines Infinite Duel"
+    },
     "nbunsc": {
         "assets": {
             "base_files": {
@@ -4687,13 +4734,13 @@
                 "files": {
                     "nbunsc.base_files.7z.001": {
                         "name": "nbunsc.base_files.7z.001",
-                        "size": 2670554
+                        "size": 2672722
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Naruto x Boruto: Ultimate Ninja Storm Connections",
-                "version": "26.08.28.38161"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "",
@@ -4904,13 +4951,13 @@
                 "files": {
                     "opxdbz.base_files.7z.001": {
                         "name": "opxdbz.base_files.7z.001",
-                        "size": 1648778
+                        "size": 1648937
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "One Piece: Great Pirate Colosseum / Dragon Ball Z: Extreme Butoden",
-                "version": "26.07.31.49734"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "Mirrored for TournamentStreamHelper use",
@@ -5314,13 +5361,13 @@
                 "files": {
                     "pkmn.base_files.7z.001": {
                         "name": "pkmn.base_files.7z.001",
-                        "size": 2147243
+                        "size": 2170249
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Pok\u00e9mon",
-                "version": "26.07.31.49734"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "Renders for Pikachu-Cosplay from Serebii, nileplumb\nRender for Pichu-Spiky from Super Smash Bros. Ultimate",
@@ -5394,13 +5441,13 @@
                 "files": {
                     "pokkendx.base_files.7z.001": {
                         "name": "pokkendx.base_files.7z.001",
-                        "size": 4463011
+                        "size": 4489945
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Pokk\u00e9n Tournament DX",
-                "version": "26.07.31.49734"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "",
@@ -6875,13 +6922,13 @@
                 "files": {
                     "sfalpha2.base_files.7z.001": {
                         "name": "sfalpha2.base_files.7z.001",
-                        "size": 1962834
+                        "size": 1970353
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Street Fighter Alpha 2",
-                "version": "26.07.25.12547"
+                "version": "26.11.13.56425"
             }
         },
         "name": "Street Fighter Alpha 2"
@@ -6894,13 +6941,13 @@
                 "files": {
                     "sfalpha3.base_files.7z.001": {
                         "name": "sfalpha3.base_files.7z.001",
-                        "size": 1511759
+                        "size": 1517480
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Street Fighter Alpha 3",
-                "version": "26.07.31.49734"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "",
@@ -7168,13 +7215,13 @@
                 "files": {
                     "smm2.base_files.7z.001": {
                         "name": "smm2.base_files.7z.001",
-                        "size": 57290
+                        "size": 57334
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Super Mario Maker 2",
-                "version": "26.11.12.85844"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "",
@@ -7796,13 +7843,13 @@
                 "files": {
                     "ssbwiiu.base_files.7z.001": {
                         "name": "ssbwiiu.base_files.7z.001",
-                        "size": 13244635
+                        "size": 13328682
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Super Smash Bros. for Wii U",
-                "version": "26.10.08.43104"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": null,
@@ -7890,13 +7937,13 @@
                 "files": {
                     "ssf2x.base_files.7z.001": {
                         "name": "ssf2x.base_files.7z.001",
-                        "size": 2931679
+                        "size": 2933244
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Super Street Fighter II Turbo",
-                "version": "26.10.08.39966"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "",
@@ -8177,13 +8224,13 @@
                 "files": {
                     "tekken5dr.base_files.7z.001": {
                         "name": "tekken5dr.base_files.7z.001",
-                        "size": 1619029
+                        "size": 1619058
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Tekken 5: Dark Resurrection",
-                "version": "26.11.05.50291"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "Ripped from https://tekkenwarehouse.com/tekken5/",
@@ -8210,13 +8257,13 @@
                 "files": {
                     "tekken6.base_files.7z.001": {
                         "name": "tekken6.base_files.7z.001",
-                        "size": 290522
+                        "size": 290417
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Tekken 6",
-                "version": "26.11.05.50291"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "Ripped from https://tekkenwarehouse.com/tekken6/",
@@ -8860,13 +8907,13 @@
                 "files": {
                     "usfiv.base_files.7z.001": {
                         "name": "usfiv.base_files.7z.001",
-                        "size": 34663786
+                        "size": 34663881
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Ultra Street Fighter IV",
-                "version": "26.11.02.82037"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "Ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Ultra_Street_Fighter_IV)",
@@ -8945,13 +8992,13 @@
                 "files": {
                     "vf5us.base_files.7z.001": {
                         "name": "vf5us.base_files.7z.001",
-                        "size": 28020938
+                        "size": 37049435
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": true,
-                "name": "Virtua Fighter 5 R.E.V.O.",
-                "version": "26.07.31.49734"
+                "name": "Virtua Fighter 5 R.E.V.O. World Stage",
+                "version": "26.11.13.56425"
             },
             "stage_icon": {
                 "credits": null,
@@ -8968,7 +9015,7 @@
                 "version": "26.07.31.49734"
             }
         },
-        "name": "Virtua Fighter 5 R.E.V.O."
+        "name": "Virtua Fighter 5 R.E.V.O. World Stage"
     },
     "vf6": {
         "assets": {
@@ -9044,13 +9091,13 @@
                 "files": {
                     "vsav.base_files.7z.001": {
                         "name": "vsav.base_files.7z.001",
-                        "size": 8303899
+                        "size": 8348774
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Vampire Savior",
-                "version": "26.09.16.76047"
+                "version": "26.11.13.56425"
             },
             "full": {
                 "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Vampire_Savior)",

@@ -4712,6 +4712,39 @@
         },
         "name": "Naruto x Boruto: Ultimate Ninja Storm Connections"
     },
+    "nconr3": {
+        "assets": {
+            "base_files": {
+                "credits": "",
+                "description": "Base config to use this game.",
+                "files": {
+                    "nconr3.base_files.7z.001": {
+                        "name": "nconr3.base_files.7z.001",
+                        "size": 1122608
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Naruto Shippuden: Clash of Ninja Revolution 3",
+                "version": "26.11.13.53127"
+            },
+            "full": {
+                "credits": "Ripped from Mizuumi Wiki (https://mizuumi.wiki/w/Naruto_Shippuden:_Clash_of_Ninja_Revolution_3)",
+                "description": "Character artwork",
+                "files": {
+                    "nconr3.full.7z.001": {
+                        "name": "nconr3.full.7z.001",
+                        "size": 1144147
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Artwork",
+                "version": "26.11.13.53127"
+            }
+        },
+        "name": "Naruto Shippuden: Clash of Ninja Revolution 3"
+    },
     "neoturf": {
         "assets": {
             "base_files": {

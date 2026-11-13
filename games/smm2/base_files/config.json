@@ -66,5 +66,13 @@
   "smashgg_game_id": 3891,
   "stage_to_codename": {},
   "version": "26.11.12.85844",
-  "igdb_game_id": "super-mario-maker-2"
+  "igdb_game_id": "super-mario-maker-2",
+  "locale": {
+    "ko": {
+      "name": "\uc288\ud37c \ub9c8\ub9ac\uc624 \uba54\uc774\ucee4 2"
+    },
+    "ja": {
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30de\u30ea\u30aa\u30e1\u30fc\u30ab\u30fc2"
+    }
+  }
 }

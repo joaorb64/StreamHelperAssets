@@ -44,5 +44,10 @@
   "smashgg_game_id": 16183,
   "stage_to_codename": {},
   "version": "26.07.31.49734",
-  "igdb_game_id": "martial-masters"
+  "igdb_game_id": "martial-masters",
+  "locale": {
+    "ja": {
+      "name": "\u30b7\u30f3\u30a4\u30fc\u30b1\u30f3"
+    }
+  }
 }

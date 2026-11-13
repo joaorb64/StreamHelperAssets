@@ -1,0 +1,132 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Anbu Kakashi": {
+      "codename": "AnbuKakashi"
+    },
+    "Anko": {
+      "codename": "Anko"
+    },
+    "Asuma": {
+      "codename": "Asuma"
+    },
+    "Baki": {
+      "codename": "Baki"
+    },
+    "Bando": {
+      "codename": "Bando"
+    },
+    "Chiyo": {
+      "codename": "Chiyo"
+    },
+    "Choji": {
+      "codename": "Choji"
+    },
+    "Deidara": {
+      "codename": "Deidara"
+    },
+    "Gaara": {
+      "codename": "Gaara"
+    },
+    "Hidan": {
+      "codename": "Hidan"
+    },
+    "Hinata": {
+      "codename": "Hinata"
+    },
+    "Hiruko": {
+      "codename": "Hiruko"
+    },
+    "Itachi": {
+      "codename": "Itachi"
+    },
+    "Jiraiya": {
+      "codename": "Jiraiya"
+    },
+    "Kabuto": {
+      "codename": "Kabuto"
+    },
+    "Kagura": {
+      "codename": "Kagura"
+    },
+    "Kakashi": {
+      "codename": "Kakashi"
+    },
+    "Kakuzu": {
+      "codename": "Kakuzu"
+    },
+    "Kankuro": {
+      "codename": "Kankuro"
+    },
+    "Kiba": {
+      "codename": "Kiba"
+    },
+    "Kisame": {
+      "codename": "Kisame"
+    },
+    "Komachi": {
+      "codename": "Komachi"
+    },
+    "Kurenai": {
+      "codename": "Kurenai"
+    },
+    "Lee": {
+      "codename": "Lee"
+    },
+    "Might Guy": {
+      "codename": "MightGuy"
+    },
+    "Naruto": {
+      "codename": "Naruto"
+    },
+    "Neji": {
+      "codename": "Neji"
+    },
+    "Orochimaru": {
+      "codename": "Orochimaru"
+    },
+    "Sai": {
+      "codename": "Sai"
+    },
+    "Sakura": {
+      "codename": "Sakura"
+    },
+    "Sasori": {
+      "codename": "Sasori"
+    },
+    "Sasuke": {
+      "codename": "Sasuke"
+    },
+    "Shikamaru": {
+      "codename": "Shikamaru"
+    },
+    "Shino": {
+      "codename": "Shino"
+    },
+    "Temari": {
+      "codename": "Temari"
+    },
+    "Tenten": {
+      "codename": "Tenten"
+    },
+    "Towa": {
+      "codename": "Towa"
+    },
+    "Tsunade": {
+      "codename": "Tsunade"
+    },
+    "Yamato": {
+      "codename": "Yamato"
+    },
+    "Yugao": {
+      "codename": "Yugao"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "igdb_game_id": "naruto-shippuden-clash-of-ninja-revolution-3",
+  "name": "Naruto Shippuden: Clash of Ninja Revolution 3",
+  "smashgg_game_id": 12860,
+  "stage_to_codename": {},
+  "version": "1.0"
+}

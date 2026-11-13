@@ -174,13 +174,23 @@
       "name": "Vampire Chronicle For Matching Service",
       "smashgg_game_id": 47498,
       "logo_path": "logo_hyper.png",
-      "igdb_game_id": "vampire-chronicle-for-matching-service"
+      "igdb_game_id": "vampire-chronicle-for-matching-service",
+      "locale": {
+        "ja": {
+          "name": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2 \u30af\u30ed\u30cb\u30af\u30eb \u30d5\u30a9\u30fc \u30de\u30c3\u30c1\u30f3\u30b0\u30b5\u30fc\u30d3\u30b9"
+        }
+      }
     },
     {
       "name": "Darkstalkers 3",
       "smashgg_game_id": 47498,
       "logo_path": "logo_ps1.png",
-      "igdb_game_id": "darkstalkers-3"
+      "igdb_game_id": "darkstalkers-3",
+      "locale": {
+        "ja": {
+          "name": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2 \u30bb\u30a4\u30f4\u30a1\u30fc (PS1/SAT)"
+        }
+      }
     }
   ],
   "igdb_game_id": "vampire-savior-the-lord-of-vampire"

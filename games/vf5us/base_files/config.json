@@ -64,7 +64,7 @@
   },
   "credits": "",
   "description": "Base config to use this game.\nNote: Also compatible with Virtua Fighter 5 Ultimate Showdown",
-  "name": "Virtua Fighter 5 R.E.V.O.",
+  "name": "Virtua Fighter 5 R.E.V.O. World Stage",
   "smashgg_game_id": 89755,
   "stage_to_codename": {
     "Arena": {
@@ -156,10 +156,6 @@
       "igdb_game_id": "virtua-fighter-5-final-showdown"
     }
   ],
-  "locale": {
-    "ja": {
-      "name": "\u30d0\u30fc\u30c1\u30e3\u30d5\u30a1\u30a4\u30bf\u30fc5 R.E.V.O."
-    }
-  },
+  "locale": {},
   "igdb_game_id": "virtua-fighter-5-revo"
 }

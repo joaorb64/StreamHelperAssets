@@ -198,19 +198,34 @@
       "name": "Street Fighter Alpha 3\u2191",
       "smashgg_game_id": 34455,
       "logo_path": "logo_upper.png",
-      "igdb_game_id": "street-fighter-zero-3-upper"
+      "igdb_game_id": "street-fighter-zero-3-upper",
+      "locale": {
+        "ja": {
+          "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc Zero 3 \u30a2\u30c3\u30d1\u30fc"
+        }
+      }
     },
     {
       "name": "Street Fighter Alpha 3 MAX",
       "smashgg_game_id": 17035,
       "logo_path": "logo_max.png",
-      "igdb_game_id": "street-fighter-alpha-3-max"
+      "igdb_game_id": "street-fighter-alpha-3-max",
+      "locale": {
+        "ja": {
+          "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc Zero 3 \u30c0\u30d6\u30eb\u30a2\u30c3\u30d1\u30fc"
+        }
+      }
     },
     {
       "name": "Hyper Street Fighter Alpha",
       "smashgg_game_id": null,
       "logo_path": "logo_hyper.png",
-      "igdb_game_id": "street-fighter-alpha-anthology"
+      "igdb_game_id": "street-fighter-alpha-anthology",
+      "locale": {
+        "ja": {
+          "name": "ハイパーストリートファイター Zero"
+        }
+      }
     }
   ],
   "variant_to_codename": {

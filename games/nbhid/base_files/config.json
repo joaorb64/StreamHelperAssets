@@ -1,0 +1,121 @@
+{
+  "challonge_game_id": null,
+  "character_to_codename": {
+    "Al Azif": {
+      "codename": "AlAzif"
+    },
+    "Anna": {
+      "codename": "Anna"
+    },
+    "Ein": {
+      "codename": "Ein"
+    },
+    "Ethica": {
+      "codename": "Ethica"
+    },
+    "Heart": {
+      "codename": "Heart"
+    },
+    "Homura": {
+      "codename": "Homura"
+    },
+    "Ignis": {
+      "codename": "Ignis"
+    },
+    "Mora": {
+      "codename": "Mora"
+    },
+    "Muramasa": {
+      "codename": "Muramasa"
+    },
+    "Ouka": {
+      "codename": "Ouka"
+    },
+    "Ruili": {
+      "codename": "Ruili"
+    },
+    "Saber": {
+      "codename": "Saber"
+    },
+    "Saya": {
+      "codename": "Saya"
+    },
+    "Sonico": {
+      "codename": "Sonico"
+    }
+  },
+  "credits": "",
+  "description": "Base config to use this game.",
+  "igdb_game_id": "nitroplus-blasterz-heroines-infinite-duel",
+  "name": "Nitroplus Blasterz: Heroines Infinite Duel",
+  "smashgg_game_id": 11653,
+  "stage_to_codename": {},
+  "version": "1.0",
+  "variant_to_codename": {
+    "Natsumi": {
+      "codename": "NatsumiV"
+    },
+    "Henri": {
+      "codename": "HenriV"
+    },
+    "Dragon": {
+      "codename": "DragonV"
+    },
+    "Kaigen": {
+      "codename": "KaigenV"
+    },
+    "Another Blood": {
+      "codename": "AnotherBloodV"
+    },
+    "Miyuki": {
+      "codename": "MiyukiV"
+    },
+    "Aoi": {
+      "codename": "AoiV"
+    },
+    "Yoishi": {
+      "codename": "YoishiV"
+    },
+    "Mugen": {
+      "codename": "MugenV"
+    },
+    "Amy": {
+      "codename": "AmyV"
+    },
+    "Angela": {
+      "codename": "AngelaV"
+    },
+    "Yuki": {
+      "codename": "YukiV"
+    },
+    "Akane": {
+      "codename": "AkaneV"
+    },
+    "Franco": {
+      "codename": "FrancoV"
+    },
+    "Sakura": {
+      "codename": "SakuraV"
+    },
+    "Alushia": {
+      "codename": "AlushiaV"
+    },
+    "Spica": {
+      "codename": "SpicaV"
+    },
+    "Carol": {
+      "codename": "CarolV"
+    },
+    "Sonico": {
+      "codename": "SonicoV"
+    },
+    "Iria": {
+      "codename": "IriaV"
+    }
+  },
+  "locale": {
+    "ja": {
+      "name": "\u30cb\u30c8\u30ed\u30d7\u30e9\u30b9 \u30d6\u30e9\u30b9\u30bf\u30fc\u30ba \u30d2\u30ed\u30a4\u30f3\u30ba \u30a4\u30f3\u30d5\u30a3\u30cb\u30c3\u30c8 \u30c7\u30e5\u30a8\u30eb"
+    }
+  }
+}

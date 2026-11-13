@@ -172,7 +172,15 @@
       "name": "Tekken 5",
       "smashgg_game_id": null,
       "logo_path": "logo_vanilla.png",
-      "igdb_game_id": "tekken-5"
+      "igdb_game_id": "tekken-5",
+      "locale": {
+        "ja": {
+          "name": "\u9244\u62f35"
+        },
+        "ko": {
+          "name": "\ucca0\uad8c 5"
+        }
+      }
     }
   ]
 }

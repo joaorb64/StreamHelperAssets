@@ -65,13 +65,23 @@
       "name": "Breakers",
       "smashgg_game_id": 44167,
       "logo_path": "logo_og.png",
-      "igdb_game_id": "breakers--1"
+      "igdb_game_id": "breakers--1",
+      "locale": {
+        "ja": {
+          "name": "ブレイカーズ"
+        }
+      }
     },
     {
       "name": "Breakers Revenge Chicago",
       "smashgg_game_id": null,
       "logo_path": null,
-      "igdb_game_id": "breakers-revenge-chicago"
+      "igdb_game_id": "breakers-revenge-chicago",
+      "locale": {
+        "ja": {
+          "name": "\u30d6\u30ec\u30a4\u30ab\u30fc\u30ba\u30ea\u30d9\u30f3\u30b8\u6b7b\u5629\u8b77"
+        }
+      }
     }
   ],
   "variant_to_codename": {

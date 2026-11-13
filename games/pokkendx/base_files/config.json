@@ -401,7 +401,12 @@
       "name": "Pokk\u00e9n Tournament",
       "smashgg_game_id": 8,
       "logo_path": "logo_wiiu.png",
-      "igdb_game_id": "pokken-tournament"
+      "igdb_game_id": "pokken-tournament",
+      "locale": {
+        "ja": {
+          "name": "\u30dd\u30c3\u62f3 Pokk\u00e9n Tournament"
+        }
+      }
     }
   ],
   "igdb_game_id": "pokken-tournament-dx",

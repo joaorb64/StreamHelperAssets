@@ -75,15 +75,15 @@
   "version": "26.07.25.12547",
   "alternate_versions": [
     {
-      "name": "Street Fighter Zero 2 Alpha",
-      "smashgg_game_id": null,
-      "logo_path": "logo_z2a.png"
-    },
-    {
       "name": "Street Fighter Alpha 2 Gold",
       "smashgg_game_id": null,
       "logo_path": "logo_gold.png",
-      "igdb_game_id": "street-fighter-alpha-2-gold"
+      "igdb_game_id": "street-fighter-alpha-2-gold",
+      "locale": {
+        "ja": {
+          "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc Zero 2 Alpha"
+        }
+      }
     }
   ],
   "igdb_game_id": "street-fighter-alpha-2"

@@ -555,19 +555,34 @@
       "name": "Hyper Street Fighter II: The Anniversary Edition",
       "smashgg_game_id": 18132,
       "logo_path": "logo_hyper.png",
-      "igdb_game_id": "hyper-street-fighter-ii-the-anniversary-edition"
+      "igdb_game_id": "hyper-street-fighter-ii-the-anniversary-edition",
+      "locale": {
+        "ja": {
+          "name": "\u30cf\u30a4\u30d1\u30fc\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcII The Anniversary Edition"
+        }
+      }
     },
     {
       "name": "Super Street Fighter II Turbo Revival",
       "smashgg_game_id": null,
       "logo_path": "logo_revival.png",
-      "igdb_game_id": "super-street-fighter-ii-turbo-revival"
+      "igdb_game_id": "super-street-fighter-ii-turbo-revival",
+      "locale": {
+        "ja": {
+          "name": "スーパーストリートファイターII X Revival"
+        }
+      }
     },
     {
       "name": "Super Street Fighter II Turbo: HD Remix",
       "smashgg_game_id": null,
       "logo_path": "logo_hd.png",
-      "igdb_game_id": "super-street-fighter-ii-turbo-hd-remix"
+      "igdb_game_id": "super-street-fighter-ii-turbo-hd-remix",
+      "locale": {
+        "ko": {
+          "name": "\uc288\ud37c \uc2a4\ud2b8\ub9ac\ud2b8 \ud30c\uc774\ud130 2 \ud130\ubcf4 HD \ub9ac\ubbf9\uc2a4"
+        }
+      }
     },
     {
       "name": "Super Street Fighter II Turbo: New Legacy",

@@ -286,25 +286,51 @@
       "name": "Street Fighter IV",
       "smashgg_game_id": null,
       "logo_path": "logo_vanilla.png",
-      "igdb_game_id": "street-fighter-iv"
+      "igdb_game_id": "street-fighter-iv",
+      "locale": {
+        "ja": {
+          "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc IV"
+        },
+        "ko": {
+          "name": "\uc2a4\ud2b8\ub9ac\ud2b8\ud30c\uc774\ud130 4"
+        }
+      }
     },
     {
       "name": "Super Street Fighter IV",
       "smashgg_game_id": null,
       "logo_path": "logo_super.png",
-      "igdb_game_id": "super-street-fighter-iv"
+      "igdb_game_id": "super-street-fighter-iv",
+      "locale": {
+        "ja": {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc IV"
+        },
+        "ko": {
+          "name": "\uc288\ud37c \uc2a4\ud2b8\ub9ac\ud2b8\ud30c\uc774\ud130 4"
+        }
+      }
     },
     {
       "name": "Super Street Fighter IV: Arcade Edition",
       "smashgg_game_id": null,
       "logo_path": "logo_arcade.png",
-      "igdb_game_id": "super-street-fighter-iv-arcade-edition"
+      "igdb_game_id": "super-street-fighter-iv-arcade-edition",
+      "locale": {
+        "ja": {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc IV \u30a2\u30fc\u30b1\u30fc\u30c9\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3"
+        }
+      }
     },
     {
       "name": "Super Street Fighter IV: 3D Edition",
       "smashgg_game_id": null,
       "logo_path": "logo_3d.png",
-      "igdb_game_id": "super-street-fighter-iv-3d-edition"
+      "igdb_game_id": "super-street-fighter-iv-3d-edition",
+      "locale": {
+        "ja": {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc IV: 3D\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3"
+        }
+      }
     }
   ],
   "variant_to_codename": {

@@ -2,64 +2,84 @@
   "challonge_game_id": null,
   "character_to_codename": {
     "Akira Yuki": {
-      "codename": "akira"
+      "codename": "akira",
+      "parrygg_slug": "akira-yuki"
     },
     "Aoi Umenokoji": {
-      "codename": "aoi"
+      "codename": "aoi",
+      "parrygg_slug": "aoi-umenokoji"
     },
     "Brad Burns": {
-      "codename": "brad"
+      "codename": "brad",
+      "parrygg_slug": "brad-burns"
     },
     "Dural": {
-      "codename": "dural"
+      "codename": "dural",
+      "parrygg_slug": "dural"
     },
     "Eileen": {
-      "codename": "eileen"
+      "codename": "eileen",
+      "parrygg_slug": "eileen"
     },
     "El Blaze": {
-      "codename": "blaze"
+      "codename": "blaze",
+      "parrygg_slug": "el-blaze"
     },
     "Goh Hinogami": {
-      "codename": "goh"
+      "codename": "goh",
+      "parrygg_slug": "goh-hinogami"
     },
     "Jacky Bryant": {
-      "codename": "jacky"
+      "codename": "jacky",
+      "parrygg_slug": "jacky-bryant"
     },
     "Jean Kujo": {
-      "codename": "jean"
+      "codename": "jean",
+      "parrygg_slug": "jean-kujo"
     },
     "Jeffry McWild": {
-      "codename": "jeffry"
+      "codename": "jeffry",
+      "parrygg_slug": "jeffry-mc-wild"
     },
     "Kage-Maru": {
-      "codename": "kage"
+      "codename": "kage",
+      "parrygg_slug": "kage-maru"
     },
     "Lau Chan": {
-      "codename": "lau"
+      "codename": "lau",
+      "parrygg_slug": "lau-chan"
     },
     "Lei-Fei": {
-      "codename": "leifei"
+      "codename": "leifei",
+      "parrygg_slug": "lei-fei"
     },
     "Lion Rafale": {
-      "codename": "lion"
+      "codename": "lion",
+      "parrygg_slug": "lion-rafale"
     },
     "Pai Chan": {
-      "codename": "pai"
+      "codename": "pai",
+      "parrygg_slug": "pai-chan"
     },
     "Sarah Bryant": {
-      "codename": "sarah"
+      "codename": "sarah",
+      "parrygg_slug": "sarah-bryant"
     },
     "Shun Di": {
-      "codename": "shun"
+      "codename": "shun",
+      "parrygg_slug": "shun-di"
     },
     "Taka-Arashi": {
-      "codename": "tarashi"
+      "codename": "tarashi",
+      "parrygg_slug": "taka-arashi"
     },
     "Vanessa Lewis": {
-      "codename": "vanessa"
+      "codename": "vanessa",
+      "parrygg_slug": "vanessa-lewis"
     },
     "Wolf Hawkfield": {
-      "codename": "wolf"
+      "codename": "wolf",
+      "parrygg_slug": "wolf-hawkfield"
     }
   },
   "credits": "",
@@ -68,67 +88,87 @@
   "smashgg_game_id": 89755,
   "stage_to_codename": {
     "Arena": {
-      "codename": "arena"
+      "codename": "arena",
+      "parrygg_slug": "arena"
     },
     "City": {
-      "codename": "city"
+      "codename": "city",
+      "parrygg_slug": "city"
     },
     "Broken House": {
-      "codename": "brokenhouse"
+      "codename": "brokenhouse",
+      "parrygg_slug": "broken-house"
     },
     "Terrace": {
-      "codename": "terrace"
+      "codename": "terrace",
+      "parrygg_slug": "terrace"
     },
     "Aurora": {
-      "codename": "aurora"
+      "codename": "aurora",
+      "parrygg_slug": "aurora"
     },
     "Island": {
-      "codename": "island"
+      "codename": "island",
+      "parrygg_slug": "island"
     },
     "Statues": {
-      "codename": "statues"
+      "codename": "statues",
+      "parrygg_slug": "statues"
     },
     "Grassland": {
-      "codename": "grassland"
+      "codename": "grassland",
+      "parrygg_slug": "grassland"
     },
     "Ruins": {
-      "codename": "ruins"
+      "codename": "ruins",
+      "parrygg_slug": "ruins"
     },
     "Waterfalls": {
       "codename": "Waterfalls"
     },
     "Training Room": {
-      "codename": "trainingroom"
+      "codename": "trainingroom",
+      "parrygg_slug": "training-room"
     },
     "Deep Mountain": {
-      "codename": "deepmountain"
+      "codename": "deepmountain",
+      "parrygg_slug": "deep-mountain"
     },
     "Shrine": {
-      "codename": "shrine"
+      "codename": "shrine",
+      "parrygg_slug": "shrine"
     },
     "Great Wall": {
-      "codename": "greatwall"
+      "codename": "greatwall",
+      "parrygg_slug": "great-wall"
     },
     "River": {
-      "codename": "river"
+      "codename": "river",
+      "parrygg_slug": "river"
     },
     "Sumo Ring": {
-      "codename": "sumoring"
+      "codename": "sumoring",
+      "parrygg_slug": "sumo-ring"
     },
     "Genesis": {
-      "codename": "sanctuary"
+      "codename": "sanctuary",
+      "parrygg_slug": "genesis"
     },
     "Temple": {
-      "codename": "temple"
+      "codename": "temple",
+      "parrygg_slug": "temple"
     },
     "Palace": {
-      "codename": "palace"
+      "codename": "palace",
+      "parrygg_slug": "palace"
     },
     "Snow Mountain": {
-      "codename": "snowmountain"
+      "codename": "snowmountain",
+      "parrygg_slug": "snow-mountain"
     },
     "Retro Stage": {
-      "codename": "vf1"
+      "codename": "vf1",
+      "parrygg_slug": "retro-stage"
     }
   },
   "version": "26.11.13.56425",
@@ -157,5 +197,5 @@
     }
   ],
   "locale": {},
-  "igdb_game_id": "virtua-fighter-5-revo"
+  "igdb_game_id": "virtua-fighter-5-revo-world-stage"
 }

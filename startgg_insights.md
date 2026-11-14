@@ -455,7 +455,13 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Nickelodeon All-Star Brawl 2
 ### Coverage: (29/29)
 
+## Nitroplus Blasterz: Heroines Infinite Duel
+Game has no characters in startgg...? Or do we have a wrong game id?
+
 ## Naruto x Boruto: Ultimate Ninja Storm Connections
+Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Naruto Shippuden: Clash of Ninja Revolution 3
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Neo Turf Masters
@@ -837,7 +843,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ## Virtua Fighter 4: Final Tuned
 Game has no characters in startgg...? Or do we have a wrong game id?
 
-## Virtua Fighter 5 R.E.V.O.
+## Virtua Fighter 5 R.E.V.O. World Stage
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 

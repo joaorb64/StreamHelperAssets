@@ -14,11 +14,15 @@ for dirname in os.listdir(path_to_games):
     with open(f"{path_to_games}/{dirname}/base_files/config.json", 'rt', encoding='utf-8') as config_file:
         config_file_content = json.load(config_file)
         characters = config_file_content.get("character_to_codename").keys()
+        stages = config_file_content.get("stage_to_codename", {}).keys()
+        variants = config_file_content.get("variant_to_codename", {}).keys()
         nb_asset_packs_for_game = len(os.listdir(f"{path_to_games}/{dirname}"))
         list_games[dirname] = {
             "name": config_file_content.get("name"),
             "nb_asset_packs": nb_asset_packs_for_game,
-            "nb_characters": len(characters)
+            "nb_characters": len(characters),
+            "nb_stages": len(stages),
+            "nb_var": len(variants)
         }
         with open(f"{characters_dir_name}/{''.join(x for x in config_file_content.get('name') if x.isalnum())}.txt", "wt", encoding='utf-8') as character_list_file:
             for character in characters:
@@ -35,11 +39,25 @@ with open(f"./list_games.txt", 'wt', encoding='utf-8') as list_file:
         game_name = list_games.get(game).get('name')
         nb_asset_packs_for_game = list_games.get(game).get("nb_asset_packs")
         nb_characters = list_games.get(game).get("nb_characters")
-        if nb_asset_packs_for_game > 1:
+        nb_stages = list_games.get(game).get("nb_stages")
+        nb_var = list_games.get(game).get("nb_var")
+        if nb_asset_packs_for_game != 1:
             has_s = 's'
-        if nb_characters > 1:
+        else:
+            has_s = ''
+        if nb_characters != 1:
             char_has_s = 's'
-        list_file.write(f"- {game_name} ({nb_asset_packs_for_game} asset pack{has_s}, {nb_characters} character{char_has_s})\n")
+        else:
+            char_has_s = ""
+        if nb_stages != 1:
+            stage_has_s = 's'
+        else:
+            stage_has_s = ""
+        if nb_var != 1:
+            var_has_s = 's'
+        else:
+            var_has_s = ""
+        list_file.write(f"- {game_name} ({nb_asset_packs_for_game} asset pack{has_s}, {nb_characters} character{char_has_s}, {nb_stages} stage{stage_has_s}, {nb_var} variant{var_has_s})\n")
         if game != "pkmn":
             character_total += nb_characters
         else:

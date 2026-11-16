@@ -6124,13 +6124,13 @@
                 "files": {
                     "roa2.art.7z.001": {
                         "name": "roa2.art.7z.001",
-                        "size": 91109644
+                        "size": 103016178
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "26.10.31.82815"
+                "version": "26.11.16.79015"
             },
             "base_files": {
                 "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
@@ -6138,13 +6138,13 @@
                 "files": {
                     "roa2.base_files.7z.001": {
                         "name": "roa2.base_files.7z.001",
-                        "size": 1132691
+                        "size": 1132708
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Rivals of Aether II",
-                "version": "26.11.05.45261"
+                "version": "26.11.16.79015"
             },
             "costume": {
                 "credits": "Extracted from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
@@ -6152,13 +6152,13 @@
                 "files": {
                     "roa2.costume.7z.001": {
                         "name": "roa2.costume.7z.001",
-                        "size": 407041683
+                        "size": 407042028
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Costumes",
-                "version": "26.11.05.45261"
+                "version": "26.11.16.79015"
             },
             "css": {
                 "credits": "Icons ripped from https://dragdown.wiki/wiki/Rivals_of_Aether_II",
@@ -6180,13 +6180,13 @@
                 "files": {
                     "roa2.full.7z.001": {
                         "name": "roa2.full.7z.001",
-                        "size": 27475323
+                        "size": 29930311
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Renders",
-                "version": "26.08.19.63383"
+                "version": "26.11.16.79015"
             },
             "profile": {
                 "credits": "",

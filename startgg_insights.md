@@ -599,6 +599,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Rivals of Aether II
 - Character [Mina]: Character name [Mina] doesn't exist in StartGG
+- Character [Burnette]: Character name [Burnette] doesn't exist in StartGG
 ### Coverage: (18/18)
 
 ## Rushdown Revolt

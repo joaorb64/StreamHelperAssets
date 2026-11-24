@@ -162,10 +162,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Fatal Fury: City of the Wolves
-- Character [Laocorn Gaudeamus]: Character name [Laocorn] doesn't exist in StartGG
 - Character [Reina]: Character name [Reina] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (33/34)
+### Coverage: (34/35)
 
 ## Fight of Animals: Legend of the Strongest Creature
 Game has no characters in startgg...? Or do we have a wrong game id?

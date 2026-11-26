@@ -1617,6 +1617,36 @@
     },
     "Battle Mode - DK Pass": {
       "codename": "BattleModeDKPass"
+    },
+    "Knockout Tour - Feather Rally": {
+      "codename": "KnockoutFeather"
+    },
+    "Knockout Tour - Lucky Cat Rally": {
+      "codename": "KnockoutCat"
+    },
+    "Mario Bros. Circuit 2": {
+      "codename": "Mario2"
+    },
+    "Desert Hills 2": {
+      "codename": "Desert2"
+    },
+    "Shy Guy Bazaar 2": {
+      "codename": "Bazaar2"
+    },
+    "Wario Stadium 2": {
+      "codename": "Wario2"
+    },
+    "Airship Fortress 2": {
+      "codename": "Airship2"
+    },
+    "DK Pass 2": {
+      "codename": "DK2"
+    },
+    "Koopa Troopa Beach 2": {
+      "codename": "Koopa2"
+    },
+    "Salty Salty Speedway 2": {
+      "codename": "Speedway2"
     }
   },
   "version": "26.10.29.39729",
@@ -1627,6 +1657,134 @@
     },
     "ja": {
       "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c8 \u30ef\u30fc\u30eb\u30c9"
+    }
+  },
+  "variant_to_codename": {
+    "Standard Kart": {
+      "codename": "StandardKartV"
+    },
+    "Rally Kart": {
+      "codename": "RallyKartV"
+    },
+    "Plushbuggy": {
+      "codename": "PlushbuggyV"
+    },
+    "Baby Blooper": {
+      "codename": "BabyBlooperV"
+    },
+    "Zoom Buggy": {
+      "codename": "ZoomBuggyV"
+    },
+    "Chargin' Truck": {
+      "codename": "CharginTruckV"
+    },
+    "Hot Rod": {
+      "codename": "HotRodV"
+    },
+    "Ribbit Revster": {
+      "codename": "RibbitRevsterV"
+    },
+    "Roadster Royale": {
+      "codename": "RoadsterRoyaleV"
+    },
+    "B Dasher": {
+      "codename": "BDasherV"
+    },
+    "Biddybuggy": {
+      "codename": "BiddybuggyV",
+      "locale": {
+        "en_GB": "Buggybud"
+      }
+    },
+    "Bowser Bruiser": {
+      "codename": "BowserBruiserV"
+    },
+    "Tiny Titan": {
+      "codename": "TinyTitanV",
+      "locale": {
+        "en_GB": "Rally Romper"
+      }
+    },
+    "Reel Racer": {
+      "codename": "ReelRacerV"
+    },
+    "Bumble V": {
+      "codename": "BumbleVV"
+    },
+    "Carpet Flyer": {
+      "codename": "CarpetFlyerV"
+    },
+    "Cloud 9": {
+      "codename": "Cloud9V"
+    },
+    "Big Horn": {
+      "codename": "BigHornV"
+    },
+    "Li'l Dumpy": {
+      "codename": "LilDumpyV"
+    },
+    "Pipe Frame": {
+      "codename": "PipeFrameV"
+    },
+    "Billdozer": {
+      "codename": "BilldozerV"
+    },
+    "Standard Bike": {
+      "codename": "StandardBikeV"
+    },
+    "Rally Bike": {
+      "codename": "RallyBikeV"
+    },
+    "Cute Scoot": {
+      "codename": "CuteScootV"
+    },
+    "Mach Rocket": {
+      "codename": "MachRocketV"
+    },
+    "Hyper Pipe": {
+      "codename": "HyperPipeV"
+    },
+    "Tune Thumper": {
+      "codename": "TuneThumperV"
+    },
+    "W-Twin Chopper": {
+      "codename": "WTwinChopperV"
+    },
+    "Fin Twin": {
+      "codename": "FinTwinV"
+    },
+    "R.O.B. H.O.G.": {
+      "codename": "ROBHOGV"
+    },
+    "Dolphin Dasher": {
+      "codename": "DolphinDasherV"
+    },
+    "Loco Moto": {
+      "codename": "LocoMotoV"
+    },
+    "Funky Dorrie": {
+      "codename": "FunkyDorrieV"
+    },
+    "Junkyard Hog": {
+      "codename": "JunkyardHogV"
+    },
+    "Lobster Roller": {
+      "codename": "LobsterRollerV"
+    },
+    "Blastronaut III": {
+      "codename": "BlastronautIIIV"
+    },
+    "Mecha Trike": {
+      "codename": "MechaTrikeV"
+    },
+    "Rallygator": {
+      "codename": "RallygatorV"
+    },
+    "Dread Sled": {
+      "codename": "DreadSledV"
+    },
+    "Stellar Sled": {
+      "codename": "StellarSledV"
     }
   }
 }

@@ -557,16 +557,25 @@
       "codename": "StandardBikeS"
     },
     "Booster Seat": {
-      "codename": "BoosterSeat"
+      "codename": "BoosterSeat",
+      "locale": {
+        "en_GB": "Baby Booster"
+      }
     },
     "Bullet Bike": {
       "codename": "BulletBike"
     },
     "Mini Beast": {
-      "codename": "MiniBeast"
+      "codename": "MiniBeast",
+      "locale": {
+        "en_GB": "Concerto"
+      }
     },
     "Bit Bike": {
-      "codename": "BitBike"
+      "codename": "BitBike",
+      "locale": {
+        "en_GB": "Nanobike"
+      }
     },
     "Standard Kart M": {
       "codename": "StandardKartM"
@@ -575,7 +584,10 @@
       "codename": "StandardBikeM"
     },
     "Classic Dragster": {
-      "codename": "ClassicDragster"
+      "codename": "ClassicDragster",
+      "locale": {
+        "en_GB": "Nostalgia 1"
+      }
     },
     "Mach Bike": {
       "codename": "MachBike"
@@ -584,7 +596,10 @@
       "codename": "WildWing"
     },
     "Sugarscoot": {
-      "codename": "Sugarscoot"
+      "codename": "Sugarscoot",
+      "locale": {
+        "en_GB": "Bon Bon"
+      }
     },
     "Standard Kart L": {
       "codename": "StandardKartL"
@@ -596,7 +611,10 @@
       "codename": "Offroader"
     },
     "Flame Runner": {
-      "codename": "FlameRunner"
+      "codename": "FlameRunner",
+      "locale": {
+        "en_GB": "Bowser Bike"
+      }
     },
     "Flame Flyer": {
       "codename": "FlameFlyer"
@@ -611,7 +629,10 @@
       "codename": "Quacker"
     },
     "Tiny Titan": {
-      "codename": "TinyTitan"
+      "codename": "TinyTitan",
+      "locale": {
+        "en_GB": "Rally Romper"
+      }
     },
     "Magikruiser": {
       "codename": "Magikruiser"
@@ -620,22 +641,40 @@
       "codename": "BlueFalcon"
     },
     "Jet Bubble": {
-      "codename": "JetBubble"
+      "codename": "JetBubble",
+      "locale": {
+        "en_GB": "Bubble Bike"
+      }
     },
     "Super Blooper": {
-      "codename": "SuperBlooper"
+      "codename": "SuperBlooper",
+      "locale": {
+        "en_GB": "Turbo Blooper"
+      }
     },
     "Zip Zip": {
-      "codename": "ZipZip"
+      "codename": "ZipZip",
+      "locale": {
+        "en_GB": "Rapide"
+      }
     },
     "Daytripper": {
-      "codename": "Daytripper"
+      "codename": "Daytripper",
+      "locale": {
+        "en_GB": "Royal Racer"
+      }
     },
     "Sneakster": {
-      "codename": "Sneakster"
+      "codename": "Sneakster",
+      "locale": {
+        "en_GB": "Nitro Cycle"
+      }
     },
     "Sprinter": {
-      "codename": "Sprinter"
+      "codename": "Sprinter",
+      "locale": {
+        "en_GB": "B Dasher Mk. 2"
+      }
     },
     "Dolphin Dasher": {
       "codename": "DolphinDasher"
@@ -644,16 +683,25 @@
       "codename": "PiranhaProwler"
     },
     "Shooting Star": {
-      "codename": "ShootingStar"
+      "codename": "ShootingStar",
+      "locale": {
+        "en_GB": "Twinkle Star"
+      }
     },
     "Jetsetter": {
       "codename": "Jetsetter"
     },
     "Spear": {
-      "codename": "Spear"
+      "codename": "Spear",
+      "locale": {
+        "en_GB": "Torpedo"
+      }
     },
     "Honeycoupe": {
-      "codename": "Honeycoupe"
+      "codename": "Honeycoupe",
+      "locale": {
+        "en_GB": "Dragonetti"
+      }
     },
     "Phantom": {
       "codename": "Phantom"

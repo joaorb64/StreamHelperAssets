@@ -3506,18 +3506,18 @@
     "mbtl2": {
         "assets": {
             "base_files": {
-                "credits": "Assets ripped from Mizuumi Wiki (https://wiki.gbl.gg/w/Melty_Blood/MBTL)",
+                "credits": "Assets ripped from https://meltyblood.twilumina.com/character/",
                 "description": "Base config to use this game.",
                 "files": {
                     "mbtl2.base_files.7z.001": {
                         "name": "mbtl2.base_files.7z.001",
-                        "size": 376194
+                        "size": 2298576
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Melty Blood: Twi-Lumina",
-                "version": "26.09.17.42308"
+                "version": "26.11.26.39246"
             },
             "full": {
                 "credits": "",
@@ -3525,13 +3525,13 @@
                 "files": {
                     "mbtl2.full.7z.001": {
                         "name": "mbtl2.full.7z.001",
-                        "size": 8336992
+                        "size": 9304901
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Portraits",
-                "version": "26.09.17.42308"
+                "version": "26.11.26.39246"
             }
         },
         "name": "Melty Blood: Twi-Lumina"

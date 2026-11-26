@@ -1,11 +1,257 @@
 {
   "name": "Vehicles",
-  "version": "26.07.25.12547",
+  "version": "26.11.26.62110",
   "description": "Vehicle icons\nRequires TSH 5.92 or higher to be used",
   "credits": "",
   "prefix": "file_",
   "postfix": "",
   "type": [
     "variant_icon"
-  ]
+  ],
+  "image_sizes": {
+    "BDasherV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "BabyBlooperV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "BiddybuggyV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "BigHornV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "BilldozerV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "BlastronautIIIV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "BowserBruiserV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "BumbleVV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "CarpetFlyerV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "CharginTruckV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "Cloud9V": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "CuteScootV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "DolphinDasherV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "DreadSledV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "FinTwinV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "FunkyDorrieV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "HotRodV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "HyperPipeV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "JunkyardHogV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "LilDumpyV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "LobsterRollerV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "LocoMotoV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "MachRocketV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "MechaTrikeV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "PipeFrameV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "PlushbuggyV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "ROBHOGV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "RallyBikeV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "RallyKartV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "RallygatorV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "ReelRacerV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "RibbitRevsterV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "RoadsterRoyaleV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "StandardBikeV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "StandardKartV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "StellarSledV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "TinyTitanV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "TuneThumperV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "WTwinChopperV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    },
+    "ZoomBuggyV": {
+      "null": {
+        "x": 422,
+        "y": 308
+      }
+    }
+  },
+  "average_size": {
+    "x": 422.0,
+    "y": 308.0
+  }
 }

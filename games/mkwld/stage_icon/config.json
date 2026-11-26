@@ -1,6 +1,6 @@
 {
   "name": "Course Icons",
-  "version": "26.10.29.39729",
+  "version": "26.11.26.62110",
   "description": "Course icons",
   "prefix": "file_",
   "postfix": "",
@@ -9,6 +9,12 @@
   ],
   "image_sizes": {
     "AcornHeights": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "Airship2": {
       "null": {
         "x": 825,
         "y": 465
@@ -68,6 +74,12 @@
         "y": 465
       }
     },
+    "Bazaar2": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
     "BooCinema": {
       "null": {
         "x": 825,
@@ -98,6 +110,12 @@
         "y": 465
       }
     },
+    "DK2": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
     "DKPass": {
       "null": {
         "x": 825,
@@ -111,6 +129,12 @@
       }
     },
     "DandelionDepths": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "Desert2": {
       "null": {
         "x": 825,
         "y": 465
@@ -144,6 +168,18 @@
       "null": {
         "x": 825,
         "y": 465
+      }
+    },
+    "KnockoutCat": {
+      "null": {
+        "x": 252,
+        "y": 245
+      }
+    },
+    "KnockoutFeather": {
+      "null": {
+        "x": 252,
+        "y": 245
       }
     },
     "KnockoutTourAcornRally": {
@@ -218,7 +254,19 @@
         "y": 245
       }
     },
+    "Koopa2": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
     "KoopaTroopaBeach": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "Mario2": {
       "null": {
         "x": 825,
         "y": 465
@@ -338,6 +386,12 @@
         "y": 465
       }
     },
+    "Speedway2": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
     "StarviewPeak": {
       "null": {
         "x": 825,
@@ -345,6 +399,12 @@
       }
     },
     "ToadsFactory": {
+      "null": {
+        "x": 825,
+        "y": 465
+      }
+    },
+    "Wario2": {
       "null": {
         "x": 825,
         "y": 465

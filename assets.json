@@ -3855,13 +3855,13 @@
                 "files": {
                     "mkwii.base_files.7z.001": {
                         "name": "mkwii.base_files.7z.001",
-                        "size": 3688305
+                        "size": 3698672
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Mario Kart Wii",
-                "version": "26.07.31.49734"
+                "version": "26.11.26.62110"
             },
             "full": {
                 "credits": "Baby Daisy render by Nibroc-Rock\nMii renders generated using https://mii-unsecure.ariankordi.net/; Mii data from https://miiwiki.org/wiki/List_of_official_Miis/QR_codes",
@@ -3916,13 +3916,13 @@
                 "files": {
                     "mkwld.base_files.7z.001": {
                         "name": "mkwld.base_files.7z.001",
-                        "size": 31161871
+                        "size": 31170838
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": true,
                 "name": "Mario Kart World",
-                "version": "26.10.29.39729"
+                "version": "26.11.26.62110"
             },
             "stage_icon": {
                 "credits": null,
@@ -3930,13 +3930,27 @@
                 "files": {
                     "mkwld.stage_icon.7z.001": {
                         "name": "mkwld.stage_icon.7z.001",
-                        "size": 29352889
+                        "size": 34073667
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Course Icons",
-                "version": "26.10.29.39729"
+                "version": "26.11.26.62110"
+            },
+            "variant_icon": {
+                "credits": "",
+                "description": "Vehicle icons\nRequires TSH 5.92 or higher to be used",
+                "files": {
+                    "mkwld.variant_icon.7z.001": {
+                        "name": "mkwld.variant_icon.7z.001",
+                        "size": 4111768
+                    }
+                },
+                "has_eyesight_data": false,
+                "has_stage_data": false,
+                "name": "Vehicles",
+                "version": "26.11.26.62110"
             }
         },
         "name": "Mario Kart World"

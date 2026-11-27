@@ -3982,13 +3982,13 @@
                 "files": {
                     "mriv.background.7z.001": {
                         "name": "mriv.background.7z.001",
-                        "size": 23273993
+                        "size": 24421362
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Background",
-                "version": "26.07.25.12547"
+                "version": "26.11.27.45741"
             },
             "base_files": {
                 "credits": "Assets ripped from https://www.marvelrivals.com/heroes/index.html",
@@ -3996,13 +3996,13 @@
                 "files": {
                     "mriv.base_files.7z.001": {
                         "name": "mriv.base_files.7z.001",
-                        "size": 36723049
+                        "size": 38311315
                     }
                 },
                 "has_eyesight_data": false,
                 "has_stage_data": false,
                 "name": "Marvel Rivals",
-                "version": "26.07.25.12547"
+                "version": "26.11.27.45741"
             },
             "full": {
                 "credits": "Assets ripped from https://www.marvelrivals.com/heroes/index.html",
@@ -4010,13 +4010,13 @@
                 "files": {
                     "mriv.full.7z.001": {
                         "name": "mriv.full.7z.001",
-                        "size": 30361727
+                        "size": 31701850
                     }
                 },
                 "has_eyesight_data": true,
                 "has_stage_data": false,
                 "name": "Artwork",
-                "version": "26.07.25.12547"
+                "version": "26.11.27.45741"
             }
         },
         "name": "Marvel Rivals"

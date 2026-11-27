@@ -25,11 +25,17 @@
     "Cloak & Dagger": {
       "codename": "CloakDagger"
     },
+    "Cyclops": {
+      "codename": "Cyclops"
+    },
     "Daredevil": {
       "codename": "Daredevil"
     },
     "Deadpool": {
       "codename": "Deadpool"
+    },
+    "Devil Dinosaur": {
+      "codename": "Dino"
     },
     "Doctor Strange": {
       "codename": "DoctorStrange"
@@ -42,6 +48,9 @@
     },
     "Gambit": {
       "codename": "Gambit"
+    },
+    "Gorr the God Butcher": {
+      "codename": "Gorr"
     },
     "Groot": {
       "codename": "Groot"
@@ -73,6 +82,9 @@
     "Jeff the Land Shark": {
       "codename": "JefftheLandShark"
     },
+    "Jubilee": {
+      "codename": "Jubilee"
+    },
     "Loki": {
       "codename": "Loki"
     },
@@ -96,6 +108,9 @@
     },
     "Namor": {
       "codename": "Namor"
+    },
+    "Nightcrawler": {
+      "codename": "Nightcrawler"
     },
     "Peni Parker": {
       "codename": "PeniParker"
@@ -124,6 +139,9 @@
     "Storm": {
       "codename": "Storm"
     },
+    "The Hood": {
+      "codename": "Hood"
+    },
     "The Punisher": {
       "codename": "Punisher"
     },
@@ -147,9 +165,6 @@
     },
     "Wolverine": {
       "codename": "Wolverine"
-    },
-    "Cyclops": {
-      "codename": "Cyclops"
     }
   },
   "credits": "Assets ripped from https://www.marvelrivals.com/heroes/index.html",
@@ -158,17 +173,17 @@
     "players_per_team": 6
   },
   "description": "Base config to use this game.",
-  "name": "Marvel Rivals",
-  "smashgg_game_id": 80355,
-  "stage_to_codename": {},
-  "version": "26.07.25.12547",
   "igdb_game_id": "marvel-rivals",
   "locale": {
     "ja": {
-      "name": "\u30de\u30fc\u30d9\u30eb\u30fb\u30e9\u30a4\u30d0\u30eb\u30ba"
+      "name": "マーベル・ライバルズ"
     },
     "ko": {
-      "name": "\ub9c8\ube14 \ub77c\uc774\ubc8c\uc988"
+      "name": "마블 라이벌즈"
     }
-  }
+  },
+  "name": "Marvel Rivals",
+  "smashgg_game_id": 80355,
+  "stage_to_codename": {},
+  "version": "26.07.25.12547"
 }
